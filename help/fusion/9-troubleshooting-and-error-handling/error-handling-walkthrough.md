@@ -1,0 +1,32 @@
+---
+title: Tutorial de administración de errores
+description: Aprenda a comprender cómo se produce la gestión de errores predeterminada y cómo añadir la gestión de errores de módulos específicos mediante directivas en [!DNL Adobe Workfront Fusion].
+activity: use
+doc-type: feature video
+team: Technical Marketing
+kt: Jira ticket
+exl-id: ce7c810d-e62b-4561-9b94-a7d4075ce654
+source-git-commit: a0aa8328842d2db1235edc42664eb0b18f4038e4
+workflow-type: tm+mt
+source-wordcount: '91'
+ht-degree: 1%
+
+---
+
+# Recorrido por la gestión de errores
+
+## Información general
+
+Comprenda cómo se produce la gestión de errores predeterminada y cómo se añade la gestión de errores de módulos específicos mediante directivas.
+
+![Imagen de un escenario con gestión de errores](assets/troubleshooting-and-error-handling-7.png)
+
+## Recorrido por la gestión de errores
+
+Workfront recomienda ver el vídeo tutorial del ejercicio antes de intentar recrear el ejercicio en su propio entorno.
+
+>[!VIDEO](https://video.tv.adobe.com/v/335306/?quality=12)
+
+## ¿Desea obtener más información? Recomendamos lo siguiente:
+
+[Documentación de Workfront Fusion](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/workfront-fusion-2.html?lang=en)

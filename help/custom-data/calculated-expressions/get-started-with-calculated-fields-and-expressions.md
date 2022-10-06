@@ -1,0 +1,83 @@
+---
+title: Introducción a los campos calculados y las expresiones
+description: Obtenga información sobre cómo crear expresiones en campos calculados para recopilar datos personalizados únicos sobre el trabajo que realiza su organización.
+feature: System Setup and Administration
+type: Tutorial
+role: Admin, Leader, User
+level: Experienced
+activity: use
+team: Technical Marketing
+thumbnail: gs-calc-fields-expressions.png
+exl-id: fbd17f01-9e97-4ead-9a56-7ce4f81255ec
+source-git-commit: 2b9a31b45ff94222a77c05292ee5b9d8229f5f0b
+workflow-type: tm+mt
+source-wordcount: '527'
+ht-degree: 0%
+
+---
+
+# Introducción a los campos calculados y las expresiones
+
+<!-- **Note**: The expression examples shown are simple and some may be mitigated by fields already supplied by  . However, the examples are used to illustrate the foundational knowledge needed in order to build expressions in Workfront.-->
+
+[!DNL Workfront] proporciona una variedad de campos que son comunes en múltiples áreas de negocio y que se utilizan regularmente para la administración del trabajo. Campos como fecha de finalización planificada, presupuesto del proyecto, nombre del usuario asignado de la tarea, etc.
+
+Sin embargo, cada organización tiene datos específicos de su industria y compañía que deben recopilarse para comprender si se cumplen los objetivos de la empresa. Por ejemplo, su organización desea realizar un seguimiento de:
+
+* A qué línea de negocio contribuirá un proyecto.
+* Si la financiación proviene de proveedores, internos o ambos.
+* Qué resolución se necesita para las imágenes utilizadas.
+
+Aunque estos campos no están integrados de forma inherente en [!DNL Workfront], puede crear campos de entrada de datos personalizados y campos de respuesta rellenados previamente y de selección múltiple mediante un formulario personalizado.
+
+Esta ruta de aprendizaje se centra en el campo calculado. Aprenderá qué es un campo calculado, los diferentes tipos de información que puede extraer del campo calculado a través de expresiones de datos y cómo crear esos campos calculados para mejorar la recopilación de datos y la creación de informes.
+
+![La administración de recursos configura un buscapersonas](assets/GS01.png)
+
+**Recordatorio de formulario personalizado**
+
+Los campos son específicos de los objetos. Por ejemplo, si crea un campo calculado en un formulario personalizado de tareas, puede utilizarlo en cualquier informe de tareas.
+
+## ¿Qué es un campo calculado?
+
+Un campo calculado contiene datos personalizados creados mediante expresiones de datos y campos de Workfront existentes.
+
+![Balanceador de carga de trabajo con informe de utilización](assets/GS02.png)
+
+Por ejemplo, su organización tiene un sistema específico de numeración de proyecto o número de trabajo que incluye:
+
+* Año en que se creó el proyecto,
+* Iniciales del propietario del proyecto y
+* La variable [!DNL Workfront] número de referencia del proyecto.
+
+
+Con expresiones en un campo calculado, puede tomar cada parte de la información ya almacenada en [!DNL Workfront] y cree ese ID de proyecto único, o número de trabajo, que luego se pueda agregar a un informe de esta manera:
+
+![Balanceador de carga de trabajo con informe de utilización](assets/GS03.png)
+
+Según los datos específicos necesarios, los campos calculados pueden ser simples, utilizar una o dos expresiones o, lo que es más complicado, utilizar varias expresiones incrustadas. Recuerde: [!DNL Workfront] solo puede utilizar datos ya almacenados o extraídos en el sistema para campos calculados.
+
+## Expresiones de texto
+
+Las expresiones de texto buscan, diseccionan y combinan información encontrada en [!DNL Workfront] para crear datos más significativos o obtener buena perspectiva sobre el trabajo que realiza su organización.
+
+Por ejemplo, las expresiones de texto se pueden utilizar para:
+
+* Mostrar &quot;Más de 5.000 dólares&quot; cuando los gastos del proyecto superen los 5.000 dólares o &quot;Menos de 5.000 dólares&quot; cuando los gastos estén por debajo de eso, en una columna de la vista del proyecto.
+
+* Asigne a cada proyecto un número único que incluya el año en que se creó el proyecto, la variable  [!DNL Workfront] número de referencia, el nombre del proyecto y las iniciales del propietario del proyecto.
+
+* Cree un informe que enumere todos los proyectos que no estén asignados a un portafolio o a un programa para que pueda utilizarlos en las reuniones del administrador.
+
+Las expresiones de texto se pueden utilizar en un campo personalizado para realizar estos tipos de búsquedas y combinaciones en [!DNL Workfront].
+TE Cuando observe las posibles expresiones de texto, encontrará varias opciones.
+
+![La administración de recursos configura un buscapersonas](assets/TE01.png)
+
+Hay seis expresiones de texto que se utilizan con más frecuencia:
+
+* CONCAT
+* IZQUIERDA/DERECHA
+* CONTAINS
+* IF
+* ISBLANK
