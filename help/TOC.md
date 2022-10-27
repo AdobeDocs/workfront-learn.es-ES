@@ -3,9 +3,9 @@ user-guide-description: Tutoriales de Workfront
 role: User
 level: Beginner
 feature-set: Workfront
-source-git-commit: 5caa6c2ae6e6791fdcb621bf13f46164ead1277c
+source-git-commit: e0414de57ef8cee617617dd18dfecff910d4afcf
 workflow-type: tm+mt
-source-wordcount: '2206'
+source-wordcount: '2212'
 ht-degree: 2%
 
 ---
@@ -573,6 +573,7 @@ ht-degree: 2%
       + [Agregar y administrar miembros de equipo para un tablero](boards/add-and-manage-team-members-for-a-board.md)
       + [Agregar tarjetas a un tablero](boards/add-cards-to-a-board.md)
       + [Buscar y crear un tablero básico](boards/find-and-create-a-basic-board.md)
+      + [Buscar y buscar en un tablero](boards/find-and-search-in-a-board.md)
       + [Administrar columnas de tablero](boards/manage-board-columns.md)
       + [Administrar tarjetas en un tablero](boards/manage-cards-on-a-board.md)
 
@@ -583,7 +584,7 @@ ht-degree: 2%
    + [Explorador de API](best-practices/api-explorer-bp.md)
    + [Optimizador de portafolios y casos de negocio](best-practices/business-case-and-portfolio-optimizer-bp.md)
    + [Comunicación](best-practices/communication-bp.md)
-   + [Formularios personalizados de mi grupo](best-practices/custom-forms-bp.md)
+   + [Formularios personalizados](best-practices/custom-forms-bp.md)
    + [Informes personalizados](best-practices/custom-reports-bp.md)
    + [Paneles](best-practices/dashboards-bp.md)
    + [Documentos](best-practices/documents-bp.md)
