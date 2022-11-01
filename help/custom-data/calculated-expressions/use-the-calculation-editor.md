@@ -10,7 +10,7 @@ team: Technical Marketing
 thumbnail: 339959.png
 kt: 9506
 exl-id: f569e8a7-f26d-4a11-b602-e51cdfe97350
-source-git-commit: 7a4649644a99eafd521895133a321f8ea0ff6041
+source-git-commit: 8e07cde38ca939542a03dda2b520c90d1e3b5394
 workflow-type: tm+mt
 source-wordcount: '55'
 ht-degree: 0%
