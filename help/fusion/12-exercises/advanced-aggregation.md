@@ -1,14 +1,14 @@
 ---
 title: Agregación avanzada
-description: Obtenga información sobre cómo utilizar las agrupaciones al agregarlas. (Debe tener entre 60 y 160 caracteres, pero 49 caracteres)
+description: Llame a un servicio web para devolver detalles sobre varios países e identificar la población, agrupada por subregión.
 feature: Workfront Fusion
 role: User
 level: Beginner
 kt: 11048
 thumbnail: KT11048.png
-source-git-commit: 1f7a4da813805691fc0e52d3ad1ea708f9e07a9a
+source-git-commit: e9d230a9ffba26b6be43867e3477536ccb75a97c
 workflow-type: tm+mt
-source-wordcount: '491'
+source-wordcount: '490'
 ht-degree: 0%
 
 ---
@@ -32,7 +32,7 @@ Llame a un servicio Web para devolver detalles sobre varios países e identifica
 
 1. Cree un nuevo escenario y asígnele el nombre &quot;Agregación avanzada&quot;.
 1. Establezca el módulo de déclencheur en un HTTP: realice un módulo de solicitud.
-1. Utilice esta URL, https://restcountries.eu/rest/v2/ lang/es, que le proporciona una lista de todos los países donde se habla español.
+1. Utilice esta URL, https://restcountries.com/v2/lang/es, que le proporciona una lista de todos los países donde se habla español.
 1. Deje el método como Get.
 1. Haga clic en la casilla de verificación Analizar respuesta .
 1. Cambie el nombre de este módulo &quot;Obtener países&quot;.
@@ -44,12 +44,12 @@ Llame a un servicio Web para devolver detalles sobre varios países e identifica
 
    **Debe recopilar información de la subregión para cada uno de los países, por lo que deberá realizar una solicitud HTTP adicional.**
 
-1. Agregue otra solicitud para obtener información de la subregión. Sólo devolverá el primer país, pero está bien por ahora. Añada otro HTTP Realice un módulo de solicitud y utilice la URL https://restcountries.eu/rest/v2/name/.
+1. Agregue otra solicitud para obtener información de la subregión. Sólo devolverá el primer país, pero está bien por ahora. Añada otro HTTP Realice un módulo de solicitud y utilice la URL https://restcountries.com/v2/name/.
 1. Para obtener el nombre del primer país, vaya al panel de asignación y haga clic en Datos y, a continuación, en Nombre en la matriz. La variable [1] en el campo de datos significa que devolverá el primer elemento de la matriz.
 
    + Haga clic en el número y cambie el índice si es necesario, pero en este caso solo desea el primer elemento.
 
-   ![Imagen de agregación avanzada 4](../12-exercises/assets/advanced-aggregation-walkthrough-4.png)
+![Imagen de agregación avanzada 4](../12-exercises/assets/advanced-aggregation-walkthrough-4.png)
 
 1. Compruebe Parse response en el panel de asignación y haga clic en OK.
 1. Cambie el nombre de &quot;Obtener detalles del país&quot;.
