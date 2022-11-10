@@ -9,9 +9,9 @@ activity: use
 team: Technical Marketing
 thumbnail: gs-calc-fields-expressions.png
 exl-id: fbd17f01-9e97-4ead-9a56-7ce4f81255ec
-source-git-commit: 2b9a31b45ff94222a77c05292ee5b9d8229f5f0b
+source-git-commit: f81d156b4058bec70bc3256efda6f85746f0f625
 workflow-type: tm+mt
-source-wordcount: '527'
+source-wordcount: '500'
 ht-degree: 0%
 
 ---
@@ -20,7 +20,7 @@ ht-degree: 0%
 
 <!-- **Note**: The expression examples shown are simple and some may be mitigated by fields already supplied by  . However, the examples are used to illustrate the foundational knowledge needed in order to build expressions in Workfront.-->
 
-[!DNL Workfront] proporciona una variedad de campos que son comunes en múltiples áreas de negocio y que se utilizan regularmente para la administración del trabajo. Campos como fecha de finalización planificada, presupuesto del proyecto, nombre del usuario asignado de la tarea, etc.
+Workfront proporciona una variedad de campos que son comunes en múltiples áreas de negocio y que se utilizan habitualmente para la administración del trabajo. Campos como fecha de finalización planificada, presupuesto del proyecto, nombre del usuario asignado de la tarea, etc.
 
 Sin embargo, cada organización tiene datos específicos de su industria y compañía que deben recopilarse para comprender si se cumplen los objetivos de la empresa. Por ejemplo, su organización desea realizar un seguimiento de:
 
@@ -33,10 +33,6 @@ Aunque estos campos no están integrados de forma inherente en [!DNL Workfront],
 Esta ruta de aprendizaje se centra en el campo calculado. Aprenderá qué es un campo calculado, los diferentes tipos de información que puede extraer del campo calculado a través de expresiones de datos y cómo crear esos campos calculados para mejorar la recopilación de datos y la creación de informes.
 
 ![La administración de recursos configura un buscapersonas](assets/GS01.png)
-
-**Recordatorio de formulario personalizado**
-
-Los campos son específicos de los objetos. Por ejemplo, si crea un campo calculado en un formulario personalizado de tareas, puede utilizarlo en cualquier informe de tareas.
 
 ## ¿Qué es un campo calculado?
 
@@ -55,7 +51,7 @@ Con expresiones en un campo calculado, puede tomar cada parte de la información
 
 ![Balanceador de carga de trabajo con informe de utilización](assets/GS03.png)
 
-Según los datos específicos necesarios, los campos calculados pueden ser simples, utilizar una o dos expresiones o, lo que es más complicado, utilizar varias expresiones incrustadas. Recuerde: [!DNL Workfront] solo puede utilizar datos ya almacenados o extraídos en el sistema para campos calculados.
+Según los datos específicos necesarios, los campos calculados pueden ser simples, utilizar una o dos expresiones o, lo que es más complicado, utilizar varias expresiones incrustadas. Tenga en cuenta que Workfront solo puede utilizar datos ya almacenados o extraídos del sistema para campos calculados.
 
 ## Expresiones de texto
 
@@ -69,8 +65,9 @@ Por ejemplo, las expresiones de texto se pueden utilizar para:
 
 * Cree un informe que enumere todos los proyectos que no estén asignados a un portafolio o a un programa para que pueda utilizarlos en las reuniones del administrador.
 
-Las expresiones de texto se pueden utilizar en un campo personalizado para realizar estos tipos de búsquedas y combinaciones en [!DNL Workfront].
-TE Cuando observe las posibles expresiones de texto, encontrará varias opciones.
+Las expresiones de texto se pueden utilizar en un campo personalizado para realizar estos tipos de búsquedas y combinaciones en Workfront.
+
+Al consultar las posibles expresiones de texto, encontrará varias opciones.
 
 ![La administración de recursos configura un buscapersonas](assets/TE01.png)
 
