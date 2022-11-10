@@ -6,9 +6,9 @@ doc-type: feature video
 team: Technical Marketing
 kt: Jira ticket
 exl-id: c79250d0-7341-4a25-83dc-de99ce5c6dc4
-source-git-commit: e9d230a9ffba26b6be43867e3477536ccb75a97c
+source-git-commit: ca56810c9eab36175a6280e319b5fd2aba90b2f2
 workflow-type: tm+mt
-source-wordcount: '276'
+source-wordcount: '265'
 ht-degree: 0%
 
 ---
@@ -29,8 +29,8 @@ Workfront recomienda ver el vídeo tutorial del ejercicio antes de intentar recr
 
 ## Ejercitar direcciones URL
 
-* https://restcountries.com/v2/lang/es
-* https://restcountries.com/v2/name/{country name}
+* `https://restcountries.com/v2/lang/es`
+* `https://restcountries.com/v2/name/{country name}`
 
 >[!TIP]
 >

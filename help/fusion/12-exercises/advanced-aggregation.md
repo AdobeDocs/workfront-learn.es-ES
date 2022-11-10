@@ -6,13 +6,13 @@ role: User
 level: Beginner
 kt: 11048
 thumbnail: KT11048.png
-source-git-commit: e9d230a9ffba26b6be43867e3477536ccb75a97c
+exl-id: 5364befa-491d-4b75-b1f0-10244f70ad7c
+source-git-commit: ca56810c9eab36175a6280e319b5fd2aba90b2f2
 workflow-type: tm+mt
-source-wordcount: '490'
+source-wordcount: '481'
 ht-degree: 0%
 
 ---
-
 
 # Agregación avanzada
 
@@ -32,7 +32,7 @@ Llame a un servicio Web para devolver detalles sobre varios países e identifica
 
 1. Cree un nuevo escenario y asígnele el nombre &quot;Agregación avanzada&quot;.
 1. Establezca el módulo de déclencheur en un HTTP: realice un módulo de solicitud.
-1. Utilice esta URL, https://restcountries.com/v2/lang/es, que le proporciona una lista de todos los países donde se habla español.
+1. Utilice esta URL, `https://restcountries.com/v2/lang/es`, que te da una lista de todos los países donde se habla español.
 1. Deje el método como Get.
 1. Haga clic en la casilla de verificación Analizar respuesta .
 1. Cambie el nombre de este módulo &quot;Obtener países&quot;.
@@ -44,7 +44,7 @@ Llame a un servicio Web para devolver detalles sobre varios países e identifica
 
    **Debe recopilar información de la subregión para cada uno de los países, por lo que deberá realizar una solicitud HTTP adicional.**
 
-1. Agregue otra solicitud para obtener información de la subregión. Sólo devolverá el primer país, pero está bien por ahora. Añada otro HTTP Realice un módulo de solicitud y utilice la URL https://restcountries.com/v2/name/.
+1. Agregue otra solicitud para obtener información de la subregión. Sólo devolverá el primer país, pero está bien por ahora. Añadir otro HTTP Realice un módulo de solicitud y utilice la URL `https://restcountries.com/v2/name/{country name}`.
 1. Para obtener el nombre del primer país, vaya al panel de asignación y haga clic en Datos y, a continuación, en Nombre en la matriz. La variable [1] en el campo de datos significa que devolverá el primer elemento de la matriz.
 
    + Haga clic en el número y cambie el índice si es necesario, pero en este caso solo desea el primer elemento.
