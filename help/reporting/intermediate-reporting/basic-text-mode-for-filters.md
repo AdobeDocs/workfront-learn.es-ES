@@ -10,9 +10,9 @@ level: Intermediate
 team: Technical Marketing
 kt: 9086
 exl-id: b3f16468-b720-468d-887a-b313fc32bd89
-source-git-commit: 59ac9907b116f8abadf5e15f8de351c02a7a2909
+source-git-commit: 21fb81fcb4b1468059e571a87e201fa48fb64ff7
 workflow-type: tm+mt
-source-wordcount: '356'
+source-wordcount: '337'
 ht-degree: 0%
 
 ---
@@ -87,14 +87,42 @@ EXISTS:1:assignedByID=$$USER.ID
 
 Esto le mostrará todas las tareas en las que el usuario que ha iniciado sesión asignó al menos a uno de los usuarios asignados actualmente. Si varias personas asignaron a los usuarios, solo el nombre de la primera persona que asignó a alguien aparecerá como &quot;Solicitado por&quot; en la página de aterrizaje de la tarea.
 
-## Actividad: Preguntas sobre el modo de texto
+### Tarea - Mostrar todas las tareas completadas - Pendiente de aprobación
 
-1. ¿Cómo escribiría el caso de camello para el campo titulado &quot;Introducido por ID&quot;?
-1. En un informe de problemas, cree un filtro para mostrar los problemas que se han marcado como cerrados pero que están pendientes de aprobación.
+```
+status=CPL:A
+status_Mod=in
+```
 
-### Respuestas
 
-1. El caso de camello para el campo &quot;Introducido por ID&quot; debe escribirse de esta manera: enteredByID
-1. El modo de texto debería tener este aspecto en el filtro de informe de problemas:
+### Problema: Muéstrame todos los problemas completados - Pendiente de aprobación
 
-   ![Imagen de la pantalla para crear un nuevo filtro en el modo de texto](assets/btm-answer.png)
+```
+status=CPL:A
+status_Mod=in
+```
+
+
+### Proyecto: Mostrar todos los proyectos completados - Pendiente de aprobación
+
+```
+status=CPL:A
+status_Mod=in
+```
+
+
+### Nota: Muéstrame todos los comentarios en los que estoy etiquetado
+
+```
+tags:userID=$$USER.ID
+tags:userID_Mod=in
+```
+
+
+### Parámetro/Informe de campo personalizado : muestra los campos personalizados que no están adjuntos a un formulario personalizado (muy útil en los esfuerzos de limpieza)
+
+```
+EXISTS:A:$$EXISTSMOD=NOTEXISTS
+EXISTS:A:$$OBJCODE=CTGYPA
+EXISTS:A:parameterID=FIELD:ID
+```
