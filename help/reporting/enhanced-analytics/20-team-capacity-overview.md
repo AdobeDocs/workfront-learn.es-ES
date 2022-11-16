@@ -1,6 +1,8 @@
 ---
-title: Comprender la capacidad del equipo
-description: El gráfico de capacidad del equipo muestra cuándo un equipo de origen estaba sobreasignado o subasignado.
+title: Comprender la capacidad del equipo en [!UICONTROL Análisis mejorado]
+description: Descubra cómo el gráfico de capacidad del Equipo muestra cuándo un equipo doméstico estaba sobreasignado o subasignado.
+activity: use
+team: Technical Marketing
 feature: Reports and Dashboards
 thumbnail: understand-team-capacity.png
 type: Tutorial
@@ -8,14 +10,14 @@ role: User
 level: Beginner
 kt: 10047
 exl-id: 59f86c60-19a5-4be6-920c-8e2fc18e52a7
-source-git-commit: d0c842ad8bf6f52161f003a62237fbcd35d23176
+source-git-commit: 252ba3ba44f22519a35899fcda9c6bca597a6c2c
 workflow-type: tm+mt
-source-wordcount: '344'
+source-wordcount: '352'
 ht-degree: 0%
 
 ---
 
-# Comprender la capacidad del equipo
+# Comprender la capacidad del equipo en [!UICONTROL Análisis mejorado]
 
 El gráfico de capacidad del equipo muestra cuándo un equipo de origen estaba sobreasignado o subasignado. El gráfico muestra el volumen de trabajo asignado al equipo de casa en un día determinado y asigna un color azul más oscuro cuando se aproxima a la explosión o no se está cuestionando. Un color más claro y transparente indica que la carga de trabajo está más equilibrada.
 

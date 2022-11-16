@@ -1,6 +1,6 @@
 ---
-title: Comprender la navegación básica
-description: En este vídeo, aprenderá a desplazarse hasta el [!UICONTROL Analytics] y vea una descripción general de los gráficos de trabajo y los gráficos de personas en [!DNL  Workfront].
+title: Comprender la navegación básica en [!UICONTROL Análisis mejorado]
+description: Obtenga información sobre cómo navegar hasta el [!UICONTROL Analytics] y vea una descripción general de los gráficos de trabajo y los gráficos de personas en Workfront.
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335057.png
@@ -10,14 +10,14 @@ level: Beginner
 team: Technical Marketing
 kt: 8724
 exl-id: 464bf4b9-4b41-421a-ad71-e60b7c9ccf64
-source-git-commit: d0c842ad8bf6f52161f003a62237fbcd35d23176
+source-git-commit: 252ba3ba44f22519a35899fcda9c6bca597a6c2c
 workflow-type: tm+mt
-source-wordcount: '100'
+source-wordcount: '102'
 ht-degree: 0%
 
 ---
 
-# Comprender la navegación básica
+# Comprender la navegación básica en [!UICONTROL Análisis mejorado]
 
 Para navegar hasta [!UICONTROL Analytics] en la nueva experiencia de Workfront, use el [!UICONTROL Menú principal] botón.
 

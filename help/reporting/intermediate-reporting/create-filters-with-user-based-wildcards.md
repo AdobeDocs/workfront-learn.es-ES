@@ -1,6 +1,6 @@
 ---
 title: Crear filtros con comodines basados en el usuario
-description: Aprenda a utilizar caracteres comodín y a crear un filtro con un comodín basado en el usuario en [!DNL  Workfront].
+description: Aprenda a utilizar comodines basados en el usuario y a crear un filtro basado en el usuario que ha iniciado sesión.
 activity: use
 feature: Reports and Dashboards
 thumbnail: 336810.png
@@ -10,9 +10,9 @@ level: Intermediate
 team: Technical Marketing
 kt: 9081
 exl-id: 46c83acd-6e43-42aa-875f-ae24b09a7fee
-source-git-commit: 83c7379a5398c78cea31a4571b34fd5b64bce027
+source-git-commit: 252ba3ba44f22519a35899fcda9c6bca597a6c2c
 workflow-type: tm+mt
-source-wordcount: '336'
+source-wordcount: '340'
 ht-degree: 0%
 
 ---

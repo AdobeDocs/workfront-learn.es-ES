@@ -1,6 +1,8 @@
 ---
 title: Su turno para crear un calendario
-description: Aprenda a crear un calendario de clientes en esta actividad práctica.
+description: Obtenga información sobre cómo crear un calendario de clientes que muestre las tareas y los problemas incompletos.
+activity: use
+team: Technical Marketing
 feature: Reports and Dashboards
 type: Tutorial
 role: User
@@ -8,10 +10,10 @@ level: Beginner
 thumbnail: your-turn-to-create-a-calendar.png
 kt: 10026
 exl-id: 74d57f1a-c6c5-49e0-9529-2e2deb2f273e
-source-git-commit: 27e8f0aada77488bd6cfc2e786b997f759fd0a17
+source-git-commit: 252ba3ba44f22519a35899fcda9c6bca597a6c2c
 workflow-type: tm+mt
-source-wordcount: '376'
-ht-degree: 0%
+source-wordcount: '378'
+ht-degree: 1%
 
 ---
 

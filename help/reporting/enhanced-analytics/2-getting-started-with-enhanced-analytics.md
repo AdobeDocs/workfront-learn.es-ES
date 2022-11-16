@@ -1,6 +1,8 @@
 ---
 title: Introducción a [!UICONTROL Análisis mejorado]
-description: Conozca los campos más importantes para actualizar a fin de sacar el máximo partido a los análisis mejorados.
+description: Conozca los campos más importantes que desea actualizar en Workfront para que Análisis mejorado le muestre cómo progresan sus equipos y proyectos en Workfront.
+activity: use
+team: Technical Marketing
 feature: Reports and Dashboards
 thumbnail: analytics-prerequisites.png
 type: Tutorial
@@ -8,14 +10,16 @@ role: User
 level: Beginner
 kt: 10027
 exl-id: 26c071bf-fe79-42f8-8677-4e172377483a
-source-git-commit: d0c842ad8bf6f52161f003a62237fbcd35d23176
+source-git-commit: 252ba3ba44f22519a35899fcda9c6bca597a6c2c
 workflow-type: tm+mt
-source-wordcount: '238'
-ht-degree: 5%
+source-wordcount: '282'
+ht-degree: 4%
 
 ---
 
-# Introducción a [!UICONTROL Análisis mejorado]
+# Introducción a Adobe Workfront [!UICONTROL Análisis mejorado]
+
+Los análisis mejorados pueden mostrarle cómo progresan sus equipos y proyectos en Workfront y qué ha pasado en proyectos anteriores de los que podría aprender para ayudar a planificar futuros proyectos.
 
 ## Requisitos previos de Analytics
 

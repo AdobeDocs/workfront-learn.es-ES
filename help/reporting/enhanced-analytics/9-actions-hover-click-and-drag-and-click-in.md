@@ -1,6 +1,6 @@
 ---
 title: 'Comprender las acciones: pase el ratón, haga clic y arrastre y haga clic en'
-description: Aprenda a obtener más información pasando el puntero sobre un gráfico, creando un marco de tiempo en un gráfico y cómo hacer que aparezcan gráficos adicionales, todo en [!DNL  Workfront].
+description: Aprenda a obtener más información pasando el puntero sobre un gráfico, creando un marco de tiempo en un gráfico y cómo hacer que aparezcan gráficos adicionales, todo en [!UICONTROL Análisis mejorado].
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335044.png
@@ -10,14 +10,14 @@ level: Beginner
 team: Technical Marketing
 kt: 8722
 exl-id: 8e0f24d7-a099-4a08-af08-8d150104fdb9
-source-git-commit: d0c842ad8bf6f52161f003a62237fbcd35d23176
+source-git-commit: 252ba3ba44f22519a35899fcda9c6bca597a6c2c
 workflow-type: tm+mt
-source-wordcount: '176'
+source-wordcount: '181'
 ht-degree: 0%
 
 ---
 
-# Comprender las acciones: pase el ratón, haga clic y arrastre y haga clic en
+# Comprender las acciones en [!UICONTROL Análisis mejorado] - pase el ratón, haga clic y arrastre y haga clic en
 
 En este vídeo, aprenderá:
 

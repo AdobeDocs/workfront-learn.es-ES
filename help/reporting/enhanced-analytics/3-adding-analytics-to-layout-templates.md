@@ -1,6 +1,6 @@
 ---
 title: Agregar [!UICONTROL Analytics] para plantillas de diseño
-description: Descubra cómo los administradores de sistemas y grupos conceden acceso a Analytics en la nueva experiencia de Workfront y en [!DNL  Workfront] Clásico.
+description: Descubra cómo los administradores de sistemas y grupos conceden acceso a Analytics.
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335045.png
@@ -10,14 +10,14 @@ level: Beginner
 team: Technical Marketing
 kt: 8726
 exl-id: 4bdff3ba-772f-4526-ab6b-8428f695d9a2
-source-git-commit: d0c842ad8bf6f52161f003a62237fbcd35d23176
+source-git-commit: 252ba3ba44f22519a35899fcda9c6bca597a6c2c
 workflow-type: tm+mt
-source-wordcount: '112'
+source-wordcount: '105'
 ht-degree: 0%
 
 ---
 
-# Agregar [!UICONTROL Analytics] para plantillas de diseño
+# Agregar [!UICONTROL Análisis mejorado] para plantillas de diseño
 
 En este vídeo, aprenderá:
 

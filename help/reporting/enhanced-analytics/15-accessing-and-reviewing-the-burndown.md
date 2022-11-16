@@ -1,6 +1,6 @@
 ---
-title: Comprender el acceso y la revisión del desglose
-description: Obtenga información sobre cómo acceder al gráfico desglosado y comprenda la relación entre las horas restantes, la condición del proyecto y la velocidad del proyecto en [!DNL  Workfront].
+title: Obtenga información sobre el acceso y la revisión del gráfico desplegable en [!UICONTROL Análisis mejorado]
+description: Obtenga información sobre cómo acceder al gráfico de desglose y comprenda la relación entre las horas restantes, la condición del proyecto y la velocidad del proyecto en Workfront.
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335051.png
@@ -10,14 +10,14 @@ level: Beginner
 team: Technical Marketing
 kt: 8734
 exl-id: d06c1b04-205d-478a-b44a-c43ebe55f649
-source-git-commit: d0c842ad8bf6f52161f003a62237fbcd35d23176
+source-git-commit: 252ba3ba44f22519a35899fcda9c6bca597a6c2c
 workflow-type: tm+mt
-source-wordcount: '290'
+source-wordcount: '298'
 ht-degree: 0%
 
 ---
 
-# Comprender el acceso y la revisión del desglose
+# Obtenga información sobre el acceso y la revisión de la acumulación en [!UICONTROL Análisis mejorado]
 
 En este vídeo, aprenderá:
 

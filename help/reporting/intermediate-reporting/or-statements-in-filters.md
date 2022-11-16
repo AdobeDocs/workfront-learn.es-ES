@@ -1,6 +1,8 @@
 ---
 title: Crear instrucciones OR en filtros
-description: Con una instrucción OR, le está diciendo al filtro que desea ver esta O esa.
+description: Aprenda a utilizar una instrucción OR para indicar a Workfront que quiere ver esta condición O la que figura en el informe.
+activity: use
+team: Technical Marketing
 feature: Reports and Dashboards
 thumbnail: create-or-statements-in-filters.png
 type: Tutorial
@@ -8,9 +10,9 @@ role: User
 level: Intermediate
 kt: 9987
 exl-id: 1a56f2f6-12df-43a5-943c-986a85661efa
-source-git-commit: 27e8f0aada77488bd6cfc2e786b997f759fd0a17
+source-git-commit: 252ba3ba44f22519a35899fcda9c6bca597a6c2c
 workflow-type: tm+mt
-source-wordcount: '895'
+source-wordcount: '901'
 ht-degree: 0%
 
 ---

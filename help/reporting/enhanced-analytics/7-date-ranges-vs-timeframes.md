@@ -1,6 +1,8 @@
 ---
 title: Explicación de los intervalos de fechas y los marcos de tiempo
-description: Los intervalos de fechas se especifican mediante el widget de calendario. Los intervalos de tiempo se crean dentro de un gráfico.
+description: En [!UICONTROL Análisis mejorado], los intervalos de fechas se especifican mediante el widget de calendario. Los intervalos de tiempo se crean dentro de un gráfico.
+activity: use
+team: Technical Marketing
 feature: Reports and Dashboards
 thumbnail: understand-date-ranges-and-timeframes.png
 type: Tutorial
@@ -8,14 +10,14 @@ role: User
 level: Beginner
 kt: 10043
 exl-id: 9ed421a0-5f44-4096-a7ad-c4be4d00808f
-source-git-commit: d0c842ad8bf6f52161f003a62237fbcd35d23176
+source-git-commit: 252ba3ba44f22519a35899fcda9c6bca597a6c2c
 workflow-type: tm+mt
-source-wordcount: '313'
+source-wordcount: '319'
 ht-degree: 0%
 
 ---
 
-# Explicación de los intervalos de fechas y los marcos de tiempo
+# Explicación de los intervalos de fechas y los marcos de tiempo en [!UICONTROL Análisis mejorado]
 
 Al ver la variable [!DNL Enhanced analytics] gráficos, intervalos de fechas se especifican utilizando el widget de calendario. Los intervalos de tiempo se crean dentro de un gráfico cuando hace clic y arrastra para definir una región específica, por lo que puede acercar y obtener una vista más detallada de la información durante ese intervalo de tiempo.
 

@@ -1,6 +1,8 @@
 ---
-title: Comprender las horas planificadas y las vistas de duración
+title: Conozca las horas y vistas de duración programadas en [!UICONTROL Análisis mejorado]
 description: En los gráficos de rectángulos Desglose y Proyecto , puede ver la información por horas o duración planificadas.
+activity: use
+team: Technical Marketing
 feature: Reports and Dashboards
 thumbnail: understand-planned-hours-and-duration-views.png
 type: Tutorial
@@ -8,14 +10,14 @@ role: User
 level: Beginner
 kt: 10044
 exl-id: caae6dd0-910c-4bdf-a9db-611c272af7ce
-source-git-commit: d0c842ad8bf6f52161f003a62237fbcd35d23176
+source-git-commit: 252ba3ba44f22519a35899fcda9c6bca597a6c2c
 workflow-type: tm+mt
-source-wordcount: '92'
+source-wordcount: '98'
 ht-degree: 0%
 
 ---
 
-# Comprender las horas planificadas y las vistas de duración
+# Conozca las horas y vistas de duración programadas en [!UICONTROL Análisis mejorado]
 
 En los gráficos de rectángulos Desglose y Proyecto , puede ver la información por horas o duración planificadas, según lo que considere más preciso para su entorno de Workfront.
 

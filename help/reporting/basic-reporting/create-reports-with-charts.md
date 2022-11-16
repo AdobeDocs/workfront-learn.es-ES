@@ -1,6 +1,6 @@
 ---
 title: Creación de informes con gráficos
-description: En este vídeo, aprenderá cómo los gráficos pueden mejorar la visualización de los datos y cómo utilizar las herramientas de gráficos en [!DNL  Workfront].
+description: Descubra cómo los gráficos pueden mejorar la visualización de los datos y cómo utilizar las herramientas de gráficos en Workfront.
 activity: use
 feature: Reports and Dashboards
 type: Tutorial
@@ -10,9 +10,9 @@ team: Technical Marketing
 thumbnail: 335153.png
 kt: 8860
 exl-id: ea3b360b-1fbd-4d1a-b505-b75759d24e41
-source-git-commit: f4000878d453c58fabf34308a8e3ab31d9667a1f
+source-git-commit: 252ba3ba44f22519a35899fcda9c6bca597a6c2c
 workflow-type: tm+mt
-source-wordcount: '331'
+source-wordcount: '327'
 ht-degree: 0%
 
 ---

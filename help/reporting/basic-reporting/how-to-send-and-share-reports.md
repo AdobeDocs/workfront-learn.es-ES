@@ -1,6 +1,6 @@
 ---
 title: Enviar y compartir informes
-description: En este vídeo, aprenderá a enviar informes a usuarios, equipos o cualquier dirección de correo electrónico, así como a compartir informes con cualquier persona de [!DNL  Workfront].
+description: Obtenga información sobre cómo enviar informes a usuarios, equipos o cualquier dirección de correo electrónico, y cómo compartir informes con cualquier persona de Workfront.
 activity: use
 feature: Reports and Dashboards
 type: Tutorial
@@ -10,9 +10,9 @@ team: Technical Marketing
 thumbnail: 335158.png
 kt: 8863
 exl-id: 3d0554fb-4fe0-43d5-b725-2bcd44134bb5
-source-git-commit: f4000878d453c58fabf34308a8e3ab31d9667a1f
+source-git-commit: 252ba3ba44f22519a35899fcda9c6bca597a6c2c
 workflow-type: tm+mt
-source-wordcount: '211'
+source-wordcount: '207'
 ht-degree: 0%
 
 ---

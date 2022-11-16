@@ -1,6 +1,6 @@
 ---
 title: Explicación de los filtros de tareas integrados
-description: Obtenga información sobre cómo revisar los filtros de tareas integrados para ver cómo se crean y crear su propio filtro de tareas en [!DNL  Workfront].
+description: Obtenga información sobre cómo revisar los filtros de tareas integrados para ver cómo se crean y crear su propio filtro de tareas en Workfront.
 activity: use
 feature: Reports and Dashboards
 thumbnail: 336818.png
@@ -10,9 +10,9 @@ level: Intermediate
 team: Technical Marketing
 kt: 9084
 exl-id: 0516696c-a588-4776-92d3-a334a29619a9
-source-git-commit: 83c7379a5398c78cea31a4571b34fd5b64bce027
+source-git-commit: 252ba3ba44f22519a35899fcda9c6bca597a6c2c
 workflow-type: tm+mt
-source-wordcount: '193'
+source-wordcount: '194'
 ht-degree: 0%
 
 ---

@@ -1,6 +1,6 @@
 ---
 title: Crear filtros con comodines basados en datos
-description: Aprenda a utilizar caracteres comodín basados en datos y a crear un filtro con un comodín basado en datos en [!DNL  Workfront].
+description: Aprenda cómo y cuándo utilizar los comodines basados en datos y cómo crear un filtro basado en la fecha actual.
 activity: use
 feature: Reports and Dashboards
 thumbnail: 336812.png
@@ -10,9 +10,9 @@ level: Intermediate
 team: Technical Marketing
 kt: 9082
 exl-id: 0f7db4eb-a062-4eb3-99ca-c40d8e266943
-source-git-commit: 83c7379a5398c78cea31a4571b34fd5b64bce027
+source-git-commit: 252ba3ba44f22519a35899fcda9c6bca597a6c2c
 workflow-type: tm+mt
-source-wordcount: '229'
+source-wordcount: '231'
 ht-degree: 0%
 
 ---

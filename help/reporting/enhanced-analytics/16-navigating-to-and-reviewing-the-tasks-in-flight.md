@@ -1,6 +1,6 @@
 ---
-title: Revise las tareas en vuelo
-description: Obtenga información sobre cómo acceder al gráfico Tareas en un vuelo y cómo ver rápidamente qué tareas no se han completado en un proyecto, todo en [!DNL  Workfront].
+title: Revise las tareas en vuelo en [!UICONTROL Análisis mejorado]
+description: Obtenga información sobre cómo acceder al gráfico Tareas en vuelo y cómo ver rápidamente qué tareas no se han completado en un proyecto, todo en Workfront.
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335052.png
@@ -10,14 +10,14 @@ level: Beginner
 team: Technical Marketing
 kt: 8735
 exl-id: 4305831f-952b-4d4a-98c4-1fc391a0e1f0
-source-git-commit: d0c842ad8bf6f52161f003a62237fbcd35d23176
+source-git-commit: 252ba3ba44f22519a35899fcda9c6bca597a6c2c
 workflow-type: tm+mt
-source-wordcount: '244'
+source-wordcount: '251'
 ht-degree: 0%
 
 ---
 
-# Revise las tareas en vuelo
+# Revise las tareas en vuelo en [!UICONTROL Análisis mejorado]
 
 En este vídeo, aprenderá:
 

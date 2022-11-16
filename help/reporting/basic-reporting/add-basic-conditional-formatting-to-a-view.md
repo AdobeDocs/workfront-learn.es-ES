@@ -1,6 +1,6 @@
 ---
 title: Añadir un formato condicional básico
-description: En este vídeo, aprenderá qué formato condicional hay en una vista y cómo crear y modificar el formato condicional en [!DNL  Workfront].
+description: Aprenda a utilizar reglas de columna para cambiar el color del texto, el formato y los colores de fondo en un informe o una vista, según los criterios que haya establecido.
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335149.jpeg
@@ -10,14 +10,16 @@ level: Beginner
 team: Technical Marketing
 kt: 8855
 exl-id: bf9a4cf4-b073-4f7e-8516-e7843f4dc20f
-source-git-commit: b09d634a8b4ec32eda2663f1df04cc8bc04596a9
+source-git-commit: 252ba3ba44f22519a35899fcda9c6bca597a6c2c
 workflow-type: tm+mt
-source-wordcount: '379'
+source-wordcount: '406'
 ht-degree: 0%
 
 ---
 
 # Añadir un formato condicional básico a una vista
+
+El formato condicional se realiza creando reglas de columna. Las reglas de columna le permiten dar formato a una columna de una manera específica según los criterios que haya establecido.
 
 En este vídeo, aprenderá:
 

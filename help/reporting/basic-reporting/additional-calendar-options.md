@@ -1,14 +1,16 @@
 ---
 title: Comprender las opciones de calendario adicionales
 description: Obtenga información sobre cómo editar y eliminar una agrupación de calendario y cómo compartir un calendario.
+activity: use
 feature: Reports and Dashboards
 type: Tutorial
 role: User
 level: Beginner
+team: Technical Marketing
 thumbnail: understand-additional-calendar-options.png
 kt: 10023
 exl-id: 329e8288-d2ec-4350-8374-59aa47241ef8
-source-git-commit: 27e8f0aada77488bd6cfc2e786b997f759fd0a17
+source-git-commit: 252ba3ba44f22519a35899fcda9c6bca597a6c2c
 workflow-type: tm+mt
 source-wordcount: '326'
 ht-degree: 0%

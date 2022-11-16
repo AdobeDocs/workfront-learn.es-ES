@@ -1,6 +1,6 @@
 ---
-title: Comprender los KPI
-description: En este vídeo, aprenderá a obtener valor de los datos KPI en [!DNL  Workfront].
+title: Comprender los KPI en [!UICONTROL Análisis mejorado]
+description: Obtenga información sobre cómo obtener valor de los datos de KPI sobre lo que está sucediendo en el presente, así como sobre las tendencias del pasado.
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335046.png
@@ -10,14 +10,14 @@ level: Beginner
 team: Technical Marketing
 kt: 8728
 exl-id: 1580ce05-2587-402a-9f02-dacdd8405fc3
-source-git-commit: d0c842ad8bf6f52161f003a62237fbcd35d23176
+source-git-commit: 252ba3ba44f22519a35899fcda9c6bca597a6c2c
 workflow-type: tm+mt
-source-wordcount: '96'
+source-wordcount: '109'
 ht-degree: 0%
 
 ---
 
-# Comprender los KPI
+# Comprender los KPI en [!UICONTROL Análisis mejorado]
 
 En este vídeo, aprenderá:
 

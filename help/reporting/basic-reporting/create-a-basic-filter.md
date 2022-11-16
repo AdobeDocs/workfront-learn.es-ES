@@ -1,6 +1,6 @@
 ---
 title: Crear un filtro básico
-description: En este vídeo, aprenderá qué es un filtro, cómo crear un filtro y cómo compartir un filtro con otros usuarios en [!DNL  Workfront].
+description: Obtenga información sobre qué es un filtro, cómo crear un filtro y cómo compartir un filtro con otros usuarios en Workfront.
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335151.jpeg
@@ -10,9 +10,9 @@ level: Beginner
 team: Technical Marketing
 kt: 8857
 exl-id: c64e5362-67ca-492f-95a3-05c660be5c03
-source-git-commit: b09d634a8b4ec32eda2663f1df04cc8bc04596a9
+source-git-commit: 252ba3ba44f22519a35899fcda9c6bca597a6c2c
 workflow-type: tm+mt
-source-wordcount: '61'
+source-wordcount: '57'
 ht-degree: 0%
 
 ---

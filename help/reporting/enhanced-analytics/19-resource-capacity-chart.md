@@ -1,6 +1,8 @@
 ---
-title: Comprender el gráfico de capacidad de recursos
-description: El gráfico de capacidad de recursos muestra el número de horas planificadas asignadas a un equipo doméstico dentro del período de tiempo filtrado en comparación con el total de horas disponibles del equipo.
+title: Comprender el gráfico de capacidad de recursos en [!UICONTROL Análisis mejorado]
+description: Descubra cómo el gráfico de capacidad de recursos muestra el número de horas programadas asignadas a un equipo doméstico dentro del período de tiempo filtrado en comparación con el total de horas disponibles del equipo.
+activity: use
+team: Technical Marketing
 feature: Reports and Dashboards
 thumbnail: understand-the-resource-capacity-chart.png
 type: Tutorial
@@ -8,14 +10,14 @@ role: User
 level: Beginner
 kt: 10046
 exl-id: ec21049e-4f39-4bb4-91d2-c8873151811c
-source-git-commit: d0c842ad8bf6f52161f003a62237fbcd35d23176
+source-git-commit: 252ba3ba44f22519a35899fcda9c6bca597a6c2c
 workflow-type: tm+mt
-source-wordcount: '361'
+source-wordcount: '369'
 ht-degree: 0%
 
 ---
 
-# Comprender el gráfico de capacidad de recursos
+# Comprender el gráfico de capacidad de recursos en [!UICONTROL Análisis mejorado]
 
 El gráfico de capacidad de recursos muestra el número de horas planificadas asignadas a un equipo doméstico dentro del período de tiempo filtrado en comparación con el total de horas disponibles del equipo.
 

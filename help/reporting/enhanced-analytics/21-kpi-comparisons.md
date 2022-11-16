@@ -1,6 +1,6 @@
 ---
-title: Comprender un caso de uso de comparaciones de KPI
-description: Obtenga información sobre cómo comparar los KPI del intervalo de fechas actual con un intervalo de fechas anterior y cómo comparar los KPI con dos filtros diferentes en [!DNL  Workfront].
+title: Comprender un caso de uso de comparaciones de KPI en [!UICONTROL Análisis mejorado]
+description: Obtenga información sobre cómo comparar los KPI del intervalo de fechas actual con un intervalo de fechas anterior y cómo comparar los KPI con dos filtros diferentes.
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335054.png
@@ -10,14 +10,14 @@ level: Beginner
 team: Technical Marketing
 kt: 8739
 exl-id: 28b85cb9-cb9e-4f0a-ad09-9a0d73d05ed0
-source-git-commit: d0c842ad8bf6f52161f003a62237fbcd35d23176
+source-git-commit: 252ba3ba44f22519a35899fcda9c6bca597a6c2c
 workflow-type: tm+mt
-source-wordcount: '74'
+source-wordcount: '79'
 ht-degree: 0%
 
 ---
 
-# Comprender un caso de uso de comparaciones de KPI
+# Comprender un caso de uso de comparaciones de KPI en [!UICONTROL Análisis mejorado]
 
 En este vídeo, aprenderá:
 
