@@ -2,11 +2,14 @@
 title: Accesibilidad y claridad
 description: Conozca algunas prácticas recomendadas básicas para que los escenarios sean fáciles de leer, compartir y comprender.
 activity: use
-type: Tutorial
 team: Technical Marketing
+type: Tutorial
+feature: Workfront Fusion
+role: User
+level: Beginner
 kt: 11037
 exl-id: ba2c5c64-ab4d-42d3-8a69-6b9df1373b29
-source-git-commit: a64b29632b502af42d366ce543e5a71e9901e99c
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
 source-wordcount: '706'
 ht-degree: 0%

@@ -1,12 +1,15 @@
 ---
-title: Navegación por funciones de switch
+title: Paseo por funciones de conmutación
 description: Aprenda a utilizar la función Switch para transformar un valor en otro dentro de un campo de módulo en [!DNL Adobe Workfront Fusion].
 activity: use
-doc-type: feature video
 team: Technical Marketing
+type: Tutorial
+feature: Workfront Fusion
+role: User
+level: Beginner
 kt: Jira ticket
 exl-id: 567847e5-a690-445f-8aaf-ef5751e0ff21
-source-git-commit: 1f7a4da813805691fc0e52d3ad1ea708f9e07a9a
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
 source-wordcount: '133'
 ht-degree: 0%

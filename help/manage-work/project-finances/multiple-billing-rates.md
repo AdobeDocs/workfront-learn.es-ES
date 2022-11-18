@@ -1,6 +1,8 @@
 ---
 title: Comprender las tasas de facturación múltiples
-description: En Workfront, un administrador de proyectos puede anular las tasas de facturación del sistema de un proyecto específico.
+description: Obtenga información sobre cómo anular las tasas de facturación del sistema en un proyecto.
+activity: use
+team: Technical Marketing
 feature: Work Management
 thumbnail: understand-multiple-billing-rates.png
 type: Tutorial
@@ -8,9 +10,9 @@ role: User
 level: Intermediate
 kt: 10048
 exl-id: bda562b9-f8da-49c9-bea7-0440fdc4c24c
-source-git-commit: d0c842ad8bf6f52161f003a62237fbcd35d23176
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
-source-wordcount: '434'
+source-wordcount: '427'
 ht-degree: 0%
 
 ---

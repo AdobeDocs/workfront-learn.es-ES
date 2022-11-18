@@ -1,13 +1,15 @@
 ---
 title: Cómo usar un [!UICONTROL Caso empresarial] en [!DNL  Workfront]
 description: Aprenda a utilizar un [!UICONTROL Caso empresarial] en [!DNL  Workfront] para obtener la información que necesita sobre los proyectos para tomar decisiones informadas.
+activity: use
+team: Technical Marketing
 feature: Strategic Planning
 thumbnail: introduction-to-the-business-case.png
 type: Tutorial
 role: User
 level: Intermediate
 exl-id: febb7378-81d4-4348-ac57-e9c4756966c0
-source-git-commit: 3398b789630fa67b8a592c82f6fcf0b6d87e4ead
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
 source-wordcount: '772'
 ht-degree: 0%

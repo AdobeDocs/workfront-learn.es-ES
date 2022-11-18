@@ -1,6 +1,8 @@
 ---
 title: Administrar asignaciones de problemas
 description: Obtenga información sobre cómo asignar un problema a un usuario individual, varios usuarios o un equipo para que el problema se resuelva.
+activity: use
+team: Technical Marketing
 feature: Work Management
 thumbnail: manage-issue-assignments.jpeg
 type: Tutorial
@@ -8,7 +10,7 @@ role: User
 level: Intermediate
 kt: 10071
 exl-id: 1d82e588-a986-4d83-b3b5-3325a5926a61
-source-git-commit: 27e8f0aada77488bd6cfc2e786b997f759fd0a17
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
 source-wordcount: '949'
 ht-degree: 0%

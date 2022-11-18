@@ -2,11 +2,14 @@
 title: Iniciar sesión como nuevo usuario
 description: Obtenga información sobre cómo iniciar sesión como un nuevo usuario.
 activity: use
-doc-type: tutorial
 team: Technical Marketing
+type: Tutorial
+feature: Workfront Fusion
+role: User
+level: Beginner
 kt: 11036
 exl-id: c36e5285-88e5-43f5-93bd-b05bf9e8f9ef
-source-git-commit: a64b29632b502af42d366ce543e5a71e9901e99c
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
 source-wordcount: '173'
 ht-degree: 0%

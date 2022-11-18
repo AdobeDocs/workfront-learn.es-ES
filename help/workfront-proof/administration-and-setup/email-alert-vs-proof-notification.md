@@ -1,5 +1,5 @@
 ---
-title: Se explican las alertas de correo electrónico y las notificaciones de prueba
+title: Comprender las alertas de correo electrónico y las notificaciones de prueba
 description: Comprenda la diferencia entre las alertas de correo electrónico y las notificaciones de prueba en [!DNL  Workfront].
 feature: Workfront Proof
 type: Tutorial
@@ -8,14 +8,14 @@ level: Beginner
 thumbnail: email-alert-vs-proof-notifications.png
 kt: 10174
 exl-id: 51423110-960c-46ed-8b4e-6e73c67c42e0
-source-git-commit: 27e8f0aada77488bd6cfc2e786b997f759fd0a17
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
-source-wordcount: '196'
+source-wordcount: '197'
 ht-degree: 0%
 
 ---
 
-# Alerta de correo electrónico vs. notificación de prueba
+# Comprender las alertas de correo electrónico y las notificaciones de prueba
 
 Las alertas de correo electrónico son diferentes de los correos electrónicos de notificación de prueba. Recibirá un correo electrónico de notificación de prueba cuando se le haya asignado una nueva prueba para revisarla, cuando una prueba se haya retrasado o cuando haya una nueva versión de la prueba que pueda ver.
 

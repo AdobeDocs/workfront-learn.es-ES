@@ -1,16 +1,18 @@
 ---
 title: Comunicar el estado del objetivo
 description: Aprenda a comunicarse con otros sobre el progreso y el estado de sus objetivos en [!DNL Workfront Goals].
+activity: use
+team: Technical Marketing
 feature: Workfront Goals
 type: Tutorial
 role: User
 level: Beginner
 kt: 10120
 exl-id: 337b187d-bc73-48ca-9e2a-08ea164ad457
-source-git-commit: 27e8f0aada77488bd6cfc2e786b997f759fd0a17
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
 source-wordcount: '482'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 

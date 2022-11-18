@@ -1,6 +1,8 @@
 ---
 title: Informe de problemas
-description: Aprenda a centralizar los problemas creando un informe .
+description: Aprenda a centralizar problemas creando un informe.
+activity: use
+team: Technical Marketing
 feature: Work Management
 thumbnail: report-on-issues.jpeg
 type: Tutorial
@@ -8,7 +10,7 @@ role: User
 level: Intermediate
 kt: 10072
 exl-id: c7d76d7f-46be-40a7-99f8-5e83dc708d34
-source-git-commit: 1f7a4da813805691fc0e52d3ad1ea708f9e07a9a
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
 source-wordcount: '243'
 ht-degree: 0%

@@ -1,14 +1,17 @@
 ---
-title: Conceptos principales
-description: 'En este vídeo, aprenderá tres conceptos principales que componen Workfront Fusion: escenarios, aplicaciones y módulos en [!DNL Adobe Workfront Fusion].'
+title: Conceptos básicos
+description: 'Aprenda tres conceptos principales que conforman Workfront Fusion: escenarios, aplicaciones y módulos en [!DNL Adobe Workfront Fusion].'
 activity: use
-doc-type: feature video
 team: Technical Marketing
+type: Tutorial
+feature: Workfront Fusion
+role: User
+level: Beginner
 kt: 9000
 exl-id: c04baa0c-40e4-4c61-8a04-9ea62f8f2935
-source-git-commit: a0aa8328842d2db1235edc42664eb0b18f4038e4
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
-source-wordcount: '286'
+source-wordcount: '281'
 ht-degree: 0%
 
 ---

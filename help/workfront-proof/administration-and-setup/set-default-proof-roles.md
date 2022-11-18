@@ -1,6 +1,8 @@
 ---
-title: Definir roles de prueba predeterminados
+title: Establecer roles de prueba predeterminados
 description: Obtenga información sobre cómo establecer la función de prueba predeterminada que se asigna cuando se crean usuarios nuevos o las personas abren una prueba .
+activity: use
+team: Technical Marketing
 feature: Workfront Proof
 type: Tutorial
 role: User, Admin
@@ -8,7 +10,7 @@ level: Intermediate
 thumbnail: set-default-proof-roles.png
 kt: 10235
 exl-id: 77dfb9f1-3242-47ca-a0ce-203b535af156
-source-git-commit: a0aa8328842d2db1235edc42664eb0b18f4038e4
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
 source-wordcount: '266'
 ht-degree: 0%

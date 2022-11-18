@@ -1,5 +1,5 @@
 ---
-title: Cómo colaborar en torno a objetivos
+title: Colaborar en torno a los objetivos
 description: Aprenda a colaborar con su equipo, defina lo que usted y su equipo deben hacer para lograr el objetivo de nivel superior y refine la jerarquía de objetivos.
 activity: use
 feature: Workfront Goals
@@ -9,9 +9,9 @@ level: Beginner
 team: Technical Marketing
 kt: 8893
 exl-id: 777cd503-96a3-4fc6-b0a8-429f72bc9bb0
-source-git-commit: d1f5c4a558f737cb8188e209a16b91b67d32285c
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
-source-wordcount: '172'
+source-wordcount: '170'
 ht-degree: 0%
 
 ---

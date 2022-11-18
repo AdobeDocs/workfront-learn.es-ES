@@ -1,5 +1,5 @@
 ---
-title: Introducción a [!DNL Workfront Goals]
+title: Comprender cómo [!DNL Workfront Goals] works
 description: Aprenda a articular el "qué" y el "por qué" durante la fase de planificación, los objetivos de ejemplo y el alcance de la influencia.
 activity: use
 feature: Workfront Goals
@@ -9,14 +9,14 @@ level: Beginner
 team: Technical Marketing
 kt: 8889
 exl-id: fda92664-6774-4c3f-8bb8-ee95ded77a98
-source-git-commit: d1f5c4a558f737cb8188e209a16b91b67d32285c
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
-source-wordcount: '242'
+source-wordcount: '244'
 ht-degree: 0%
 
 ---
 
-# Introducción a [!DNL Workfront Goals]
+# Comprender cómo [!DNL Workfront Goals] works
 
 En este vídeo, aprenderá sobre:
 

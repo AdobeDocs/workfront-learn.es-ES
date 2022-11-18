@@ -1,14 +1,17 @@
 ---
 title: Introducción al historial de ejecución
-description: En este vídeo, aprenderá cómo el historial de ejecución le ayuda a respaldar y solucionar problemas en [!DNL Adobe Workfront Fusion].
+description: Descubra cómo el historial de ejecución le ayuda a respaldar y solucionar problemas en [!DNL Adobe Workfront Fusion].
 activity: use
-doc-type: feature video
 team: Technical Marketing
+type: Tutorial
+feature: Workfront Fusion
+role: User
+level: Beginner
 kt: Jira ticket
 exl-id: 31c10236-fc5f-4467-b6a1-23b85f6bd0f7
-source-git-commit: a0aa8328842d2db1235edc42664eb0b18f4038e4
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
-source-wordcount: '41'
+source-wordcount: '36'
 ht-degree: 0%
 
 ---

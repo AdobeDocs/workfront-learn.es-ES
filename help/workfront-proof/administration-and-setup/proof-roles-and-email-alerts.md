@@ -1,6 +1,8 @@
 ---
-title: Introducción a las funciones de prueba y las alertas de correo electrónico
+title: Funciones de prueba y alertas de correo electrónico
 description: Obtenga información sobre cómo habilitar funciones de prueba y alertas de correo electrónico adecuadas para que los destinatarios de prueba tengan acceso a pruebas y visibilidad del trabajo que se está realizando en [!DNL  Workfront].
+activity: use
+team: Technical Marketing
 feature: Workfront Proof
 type: Tutorial
 role: User, Admin
@@ -8,9 +10,9 @@ level: Beginner
 thumbnail: proof-roles-and-email-alerts.png
 kt: 10177
 exl-id: 15bfb18a-5392-4a91-a6a2-223f7ac30dc5
-source-git-commit: c06dcc985c3b63781911e3c8cb1ac0f1a888ac7d
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
-source-wordcount: '565'
+source-wordcount: '562'
 ht-degree: 0%
 
 ---

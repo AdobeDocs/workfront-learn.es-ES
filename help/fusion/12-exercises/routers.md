@@ -1,18 +1,21 @@
 ---
 title: Ruteadores
 description: Comprender la importancia de los enrutadores y cómo pueden utilizarse para procesar condicionalmente distintos módulos.
+activity: use
+team: Technical Marketing
+type: Tutorial
 feature: Workfront Fusion
 role: User
 level: Beginner
 kt: 11043
 thumbnail: KT11043.png
-source-git-commit: 82b0e8e5875f3cedd25446507b29a46c9d598d29
+exl-id: f2a60273-c19b-4423-b354-8cff0dd7bd6b
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
-source-wordcount: '744'
+source-wordcount: '732'
 ht-degree: 0%
 
 ---
-
 
 # Ruteadores
 
@@ -55,8 +58,8 @@ Utilice un router para pasar paquetes Pokemon vs. superhéroes por la ruta corre
    >
    >Si tiene problemas para acceder a su propio token de superhéroe, puede utilizar este token compartido: 10110256647253588. Tenga en cuenta cuántas veces llama a la API de superhéroe para que este token compartido siga funcionando para todos.
 
-1. Abra la configuración de Obtener apariencia de superhéroe y cambie la dirección URL a https://www.superheroapi.com/api/[access-token]/332/apariencia. Asegúrese de incluir el token de acceso en la dirección URL. Haga clic en Aceptar.
-1. Abra la configuración de las capacidades de Obtener superhéroe y cambie la dirección URL a https://www.superheroapi.com/api/[access-token]/332/powerstats. Asegúrese de incluir el token de acceso en la dirección URL. Haga clic en Aceptar.
+1. Abra la configuración de Obtener apariencia de superhéroe y cambie la URL a `https://www.superheroapi.com/api/[access- token]/332/appearance`. Asegúrese de incluir el token de acceso en la dirección URL. Haga clic en Aceptar.
+1. Abra la configuración de las capacidades de Obtener superhéroe y cambie la dirección URL a `https://www.superheroapi.com/api/[access- token]/332/powerstats`. Asegúrese de incluir el token de acceso en la dirección URL. Haga clic en Aceptar.
 1. Haga clic con el botón derecho en cada módulo superhéroe y seleccione Ejecutar este módulo únicamente. Esto generará la estructura de datos que debe ver para la asignación.
 1. Después de ejecutar ambos, cambie el número &quot;332&quot; en cada campo URL a la Columna 4 asignada desde el módulo CSV de análisis.
 

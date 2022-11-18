@@ -1,13 +1,15 @@
 ---
 title: Copiar un objetivo existente
 description: Obtenga información sobre cómo copiar un objetivo existente en [!DNL Workfront Goals].
+activity: use
+team: Technical Marketing
 feature: Workfront Goals
 type: Tutorial
 role: User
 level: Beginner
 kt: 10121
 exl-id: bf9ac10a-8419-458b-b4e8-bedb0ad3b98f
-source-git-commit: 27e8f0aada77488bd6cfc2e786b997f759fd0a17
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
 source-wordcount: '525'
 ht-degree: 0%

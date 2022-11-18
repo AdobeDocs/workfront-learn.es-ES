@@ -1,14 +1,17 @@
 ---
-title: Guía de Webhooks
+title: Recorrido por Webhooks
 description: Aprenda a utilizar un weblink para crear una aplicación que determine si un cliente tiene la edad suficiente para comprar alcohol, todo en [!DNL Adobe Workfront Fusion].
 activity: use
-doc-type: feature video
 team: Technical Marketing
+type: Tutorial
+feature: Workfront Fusion
+role: User
+level: Beginner
 kt: Jira ticket
 exl-id: 7870c9db-d538-440a-8972-e7bc5ac5af93
-source-git-commit: 1f7a4da813805691fc0e52d3ad1ea708f9e07a9a
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
-source-wordcount: '358'
+source-wordcount: '370'
 ht-degree: 0%
 
 ---
@@ -46,6 +49,10 @@ Para seguir con el ejercicio de tutorial, debe descargar la aplicación gratuita
 ![Una imagen que utiliza el módulo de conmutación](assets/beyond-basic-modules-6.png)
 
 ## Su turno
+
+>[!NOTE]
+>
+>Los ejercicios prácticos son opcionales y no son necesarios para completar la formación de Fusion.
 
 Este ejercicio de práctica se basa en lo aprendido en el tutorial, pero no se proporciona la solución.
 

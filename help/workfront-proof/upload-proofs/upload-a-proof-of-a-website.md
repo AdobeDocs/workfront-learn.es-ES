@@ -1,5 +1,5 @@
 ---
-title: Cómo cargar una prueba de un sitio web
+title: Cargar una prueba de un sitio web
 description: Obtenga información sobre cómo cargar un sitio web como una prueba estática y una prueba interactiva en [!DNL  Workfront].
 activity: use
 feature: Workfront Proof
@@ -10,9 +10,9 @@ team: Technical Marketing
 thumbnail: 335135.png
 kt: 8835
 exl-id: 7e75e409-f87e-46f6-8ff1-f55bbdd892f6
-source-git-commit: c06dcc985c3b63781911e3c8cb1ac0f1a888ac7d
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
-source-wordcount: '205'
+source-wordcount: '203'
 ht-degree: 0%
 
 ---

@@ -1,18 +1,21 @@
 ---
 title: Almacenes de datos
 description: Obtenga información sobre cómo sincronizar nombres de empresas entre dos sistemas. (Debe tener entre 60 y 160 caracteres, pero 59 caracteres)
+activity: use
+team: Technical Marketing
+type: Tutorial
 feature: Workfront Fusion
 role: User
 level: Beginner
 kt: 11055
 thumbnail: KT11055.png
-source-git-commit: c348222464180e994e7b414d1b84e07f58b6b2ae
+exl-id: e4aa9a97-679a-4575-a2c6-b6ac304ce9c2
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
 source-wordcount: '878'
 ht-degree: 0%
 
 ---
-
 
 # Almacenes de datos
 

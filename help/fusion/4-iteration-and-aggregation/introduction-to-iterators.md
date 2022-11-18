@@ -2,11 +2,14 @@
 title: Introducción a los iteradores
 description: Descubra cómo se utilizan la iteración y la agregación, así como los distintos tipos de iteradores en [!DNL Adobe Workfront Fusion].
 activity: use
-doc-type: feature video
 team: Technical Marketing
+type: Tutorial
+feature: Workfront Fusion
+role: User
+level: Beginner
 kt: Jira ticket
 exl-id: a790156d-e04e-4fd0-b4a3-9c30cfaeaac5
-source-git-commit: a0aa8328842d2db1235edc42664eb0b18f4038e4
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
 source-wordcount: '37'
 ht-degree: 0%

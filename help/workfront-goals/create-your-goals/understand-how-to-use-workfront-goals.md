@@ -1,5 +1,5 @@
 ---
-title: ¿Qué es [!DNL Workfront Goals]?
+title: Comprender [!DNL Workfront Goals]
 description: El administrador del sistema aprenderá a acceder [!DNL Workfront Goals], what permissions a system administrator has in [!DNL Workfront Goals], and how to enable [!DNL Workfront Goals] mediante una plantilla de diseño.
 activity: use
 feature: Workfront Goals
@@ -9,9 +9,9 @@ level: Beginner
 team: Technical Marketing
 kt: 8888
 exl-id: 08cdc3de-dc45-4273-b17b-90ae753613c6
-source-git-commit: d1f5c4a558f737cb8188e209a16b91b67d32285c
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
-source-wordcount: '39'
+source-wordcount: '38'
 ht-degree: 0%
 
 ---

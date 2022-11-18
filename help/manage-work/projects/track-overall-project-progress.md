@@ -1,6 +1,8 @@
 ---
 title: Seguimiento del progreso general del proyecto
 description: Descubra cómo la información mostrada en el encabezado del proyecto puede ayudarle a realizar un seguimiento del progreso y el estado generales del proyecto.
+activity: use
+team: Technical Marketing
 feature: Work Management
 thumbnail: track-overall-project-progress.jpeg
 type: Tutorial
@@ -8,7 +10,7 @@ role: User
 level: Intermediate
 kt: 10149
 exl-id: 03ebbbaf-0f8a-43ff-b682-9766aca25741
-source-git-commit: 27e8f0aada77488bd6cfc2e786b997f759fd0a17
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
 source-wordcount: '203'
 ht-degree: 0%

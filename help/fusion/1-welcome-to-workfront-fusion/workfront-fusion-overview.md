@@ -2,11 +2,14 @@
 title: Información general sobre la formación de Workfront Fusion
 description: Obtenga información sobre el libro de actividades de Adobe Workfront Fusion y cómo obtener una cuenta de unidad de prueba de Workfront.
 activity: use
-type: Tutorial
 team: Technical Marketing
+type: Tutorial
+feature: Workfront Fusion
+role: User
+level: Beginner
 kt: 11035
 exl-id: 998abb57-baff-4ebb-bd90-c67a553ee8d7
-source-git-commit: 1f7a4da813805691fc0e52d3ad1ea708f9e07a9a
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
 source-wordcount: '301'
 ht-degree: 0%

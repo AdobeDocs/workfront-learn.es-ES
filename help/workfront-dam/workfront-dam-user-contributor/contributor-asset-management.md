@@ -1,5 +1,5 @@
 ---
-title: Cómo administrar recursos en [!UICONTROL DAM de Workfront]
+title: Obtenga información sobre cómo administrar recursos en [!UICONTROL DAM de Workfront]
 description: Obtenga información sobre cómo administrar recursos en [!UICONTROL DAM de Workfront] para mejorar el flujo de trabajo.
 activity: use
 feature: Digital Content and Documents
@@ -9,9 +9,9 @@ level: Beginner
 team: Technical Marketing
 kt: 8996
 exl-id: a09d0b0e-2631-414e-87e6-385ddbeb5cd2
-source-git-commit: d1f5c4a558f737cb8188e209a16b91b67d32285c
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
-source-wordcount: '458'
+source-wordcount: '459'
 ht-degree: 0%
 
 ---

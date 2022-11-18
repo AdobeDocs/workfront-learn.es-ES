@@ -1,6 +1,8 @@
 ---
 title: Configurar tipos de cambio
-description: Los tipos de cambio pueden utilizarse en proyectos e informes para reflejar información financiera en distintas monedas de todo el mundo.
+description: Aprenda a utilizar los tipos de cambio en proyectos e informes para reflejar información financiera en distintas monedas de todo el mundo.
+activity: use
+team: Technical Marketing
 feature: Work Management
 thumbnail: set-up-exchange-rates.png
 type: Tutorial
@@ -8,9 +10,9 @@ role: User
 level: Intermediate
 kt: 10049
 exl-id: f0d5bbe3-54e6-41be-8497-e54ad7cd7707
-source-git-commit: d0c842ad8bf6f52161f003a62237fbcd35d23176
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
-source-wordcount: '218'
+source-wordcount: '219'
 ht-degree: 0%
 
 ---

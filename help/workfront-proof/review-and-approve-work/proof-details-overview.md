@@ -1,6 +1,8 @@
 ---
-title: Detalles de la prueba explicados
+title: Explicación de los detalles de la prueba
 description: Profundizar en los detalles detrás de una prueba en [!DNL  Workfront] a través del panel de resumen y [!UICONTROL Detalles del documento] página.
+activity: use
+team: Technical Marketing
 feature: Workfront Proof
 type: Tutorial
 role: User, Admin
@@ -8,18 +10,18 @@ level: Beginner
 thumbnail: understand-proof-details.png
 kt: 10110
 exl-id: 196f9318-eced-4825-b0fd-8592b6cb3403
-source-git-commit: a0aa8328842d2db1235edc42664eb0b18f4038e4
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
 source-wordcount: '1029'
 ht-degree: 0%
 
 ---
 
-# Información general sobre los detalles de la prueba
+# Explicación de los detalles de la prueba
 
 ## Ver detalles de prueba
 
-Como administrador de pruebas o propietario, puede profundizar en los detalles detrás de una prueba a través del panel de resumen y el [!UICONTROL Detalles del documento] página. Comience por encontrar la prueba en la variable [!UICONTROL Documentos] de un proyecto, tarea o problema.
+Como administrador de pruebas o propietario, puede profundizar en los detalles detrás de una prueba a través del panel de resumen y el [!UICONTROL Detalles del documento] página. Comience por encontrar la prueba en el [!UICONTROL Documentos] de un proyecto, tarea o problema.
 
 ### Panel de resumen
 

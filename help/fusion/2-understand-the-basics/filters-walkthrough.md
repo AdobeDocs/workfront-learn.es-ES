@@ -1,14 +1,17 @@
 ---
-title: Recorrido de filtros
-description: En este vídeo, aprenderá a añadir un filtro entre los dos módulos de los módulos de [!DNL Adobe Workfront Fusion].
+title: Recorrido por filtros
+description: Aprenda a añadir un filtro entre los dos módulos en los módulos de [!DNL Adobe Workfront Fusion].
 activity: use
-doc-type: feature video
 team: Technical Marketing
+type: Tutorial
+feature: Workfront Fusion
+role: User
+level: Beginner
 kt: 9007
 exl-id: 3609d5dc-c398-43b0-a253-d8f95b67b818
-source-git-commit: 1f7a4da813805691fc0e52d3ad1ea708f9e07a9a
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
-source-wordcount: '237'
+source-wordcount: '244'
 ht-degree: 0%
 
 ---
@@ -36,6 +39,10 @@ En este vídeo, aprenderá a:
 >Para obtener instrucciones paso a paso sobre cómo completar el tutorial, vaya a la [Recorrido por filtros](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/exercises/filters.html?lang=en) ejercicio.
 
 ## Su turno
+
+>[!NOTE]
+>
+>Los ejercicios prácticos son opcionales y no son necesarios para completar la formación de Fusion.
 
 Este ejercicio de práctica se basa en lo aprendido en el tutorial, pero no se proporciona la solución.
 

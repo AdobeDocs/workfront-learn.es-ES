@@ -2,11 +2,14 @@
 title: Recorrido de agregación
 description: Aprenda a acumular las horas planificadas en cada tarea de trabajo de un proyecto y envíese un correo electrónico con esa información, todo en [!DNL Adobe Workfront Fusion].
 activity: use
-doc-type: feature video
 team: Technical Marketing
+type: Tutorial
+feature: Workfront Fusion
+role: User
+level: Beginner
 kt: Jira ticket
 exl-id: 1ecc04a7-b7f0-4285-ab87-160396cc13bc
-source-git-commit: 1f7a4da813805691fc0e52d3ad1ea708f9e07a9a
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
 source-wordcount: '131'
 ht-degree: 0%

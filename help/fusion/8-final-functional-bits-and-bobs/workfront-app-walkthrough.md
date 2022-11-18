@@ -1,12 +1,15 @@
 ---
-title: Tutorial de la aplicación Workfront
+title: Recorrido por la aplicación Workfront
 description: Obtenga información sobre la variedad de útiles módulos de déclencheur, acción y búsqueda en la aplicación Workfront en [!DNL Adobe Workfront Fusion].
 activity: use
-doc-type: feature video
 team: Technical Marketing
+type: Tutorial
+feature: Workfront Fusion
+role: User
+level: Beginner
 kt: Jira ticket
 exl-id: 12e5ff29-2efe-4ce3-b4a7-0778bdf5e427
-source-git-commit: a0aa8328842d2db1235edc42664eb0b18f4038e4
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
 source-wordcount: '63'
 ht-degree: 0%

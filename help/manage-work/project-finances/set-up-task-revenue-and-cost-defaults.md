@@ -1,6 +1,8 @@
 ---
 title: Configurar los ingresos y los valores predeterminados de coste de las tareas
-description: El tipo de ingresos y el tipo de coste se utilizan para calcular la información financiera planeada y real de una tarea.
+description: Aprenda cómo se utilizan el tipo de ingresos y el tipo de coste para calcular la información financiera real y planeada de una tarea.
+activity: use
+team: Technical Marketing
 feature: Work Management
 thumbnail: set-up-task-revenue-and-cost-defaults.png
 type: Tutorial
@@ -8,10 +10,10 @@ role: User
 level: Intermediate
 kt: 10066
 exl-id: d82d889d-3f50-41d3-951c-995b49727d9c
-source-git-commit: d0c842ad8bf6f52161f003a62237fbcd35d23176
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
-source-wordcount: '200'
-ht-degree: 9%
+source-wordcount: '202'
+ht-degree: 8%
 
 ---
 

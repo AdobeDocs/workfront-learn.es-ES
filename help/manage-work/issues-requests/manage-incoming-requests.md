@@ -1,6 +1,8 @@
 ---
 title: Administrar solicitudes
 description: Obtenga información sobre cómo encontrar solicitudes que se han enviado mediante tableros, [!UICONTROL Página principal], el [!UICONTROL Solicitudes] o [!UICONTROL Equipos] en [!DNL  Workfront].
+activity: use
+team: Technical Marketing
 feature: Work Management
 type: Tutorial
 role: User
@@ -8,7 +10,7 @@ level: Intermediate
 thumbnail: manage-incoming-requests.jpeg
 kt: 10154
 exl-id: df831816-fc60-4c63-b46c-ec2ba49fb061
-source-git-commit: 187df9e953fc51bf0d1825a57719376b61140798
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
 source-wordcount: '203'
 ht-degree: 0%

@@ -1,5 +1,5 @@
 ---
-title: Cómo navegar por Brand Portal en [!UICONTROL DAM]
+title: Vaya a Brand Portal en [!UICONTROL DAM de Workfront]
 description: Obtenga información sobre cómo acceder a Brand Portal en [!UICONTROL DAM de Workfront], crear carpetas, definir fechas de caducidad en recursos individuales y editar la configuración de recursos.
 activity: use
 feature: Digital Content and Documents
@@ -9,9 +9,9 @@ level: Intermediate
 team: Technical Marketing
 kt: 8966
 exl-id: e882bcce-0e17-4040-9cbd-a3506f6ee099
-source-git-commit: a0aa8328842d2db1235edc42664eb0b18f4038e4
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
-source-wordcount: '239'
+source-wordcount: '238'
 ht-degree: 0%
 
 ---

@@ -1,6 +1,8 @@
 ---
 title: Copiar un proyecto existente
-description: Obtenga información sobre cómo crear una copia de un proyecto existente .
+description: Aprenda a crear una copia de un proyecto existente.
+activity: use
+team: Technical Marketing
 feature: Work Management
 thumbnail: copy-an-existing-project.jpeg
 type: Tutorial
@@ -8,7 +10,7 @@ role: User
 level: Intermediate
 kt: 10155
 exl-id: 90a87fef-70e9-42fc-ac55-415980ef32c7
-source-git-commit: 27e8f0aada77488bd6cfc2e786b997f759fd0a17
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
 source-wordcount: '130'
 ht-degree: 0%

@@ -2,11 +2,14 @@
 title: Introducción a las agregaciones
 description: Descubra cuáles son los agregadores, cómo usar los agregadores y los distintos tipos de agregadores en [!DNL Adobe Workfront Fusion].
 activity: use
-doc-type: feature video
 team: Technical Marketing
+type: Tutorial
+feature: Workfront Fusion
+role: User
+level: Beginner
 kt: Jira ticket
 exl-id: a3ea475d-3a76-4788-98eb-5e916a2cb3ee
-source-git-commit: a0aa8328842d2db1235edc42664eb0b18f4038e4
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
 source-wordcount: '38'
 ht-degree: 0%

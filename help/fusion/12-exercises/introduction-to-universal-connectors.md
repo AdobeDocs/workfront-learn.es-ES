@@ -1,18 +1,21 @@
 ---
 title: Introducción a los conectores universales
 description: Amplíe su comprensión de trabajar con conectores universales REST y trabajar con los datos devueltos.
+activity: use
+team: Technical Marketing
+type: Tutorial
 feature: Workfront Fusion
 role: User
 level: Beginner
 kt: 11042
 thumbnail: KT11042.png
-source-git-commit: 1f7a4da813805691fc0e52d3ad1ea708f9e07a9a
+exl-id: eb442c3e-26f3-44b7-9937-ed4eeba39fb1
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
-source-wordcount: '591'
+source-wordcount: '585'
 ht-degree: 0%
 
 ---
-
 
 # Introducción a los conectores universales
 
@@ -50,7 +53,7 @@ Usando un carácter Pokemon en una hoja de cálculo, llame a la API de Poke a tr
    **Obtenga los datos de Pokemon mediante el conector universal.**
 
 1. Añada un módulo HTTP Make a Request .
-1. En el campo URL, utilice https://pokeapi.co/api/v2/pokemon/[Carácter], donde [Carácter] está asignado a la columna 3 desde el módulo CSV de análisis.
+1. En el campo URL, utilice `https://pokeapi.co/api/v2/pokemon/[Character]`, donde [Carácter] está asignado a la columna 3 desde el módulo CSV de análisis.
 1. Active la casilla de verificación Analizar respuesta .
 1. Seleccione Mostrar configuración avanzada y, a continuación, marque la casilla junto a &quot;Evaluar todos los estados como errores&quot;.
 1. Haga clic en Aceptar y cambie el nombre del módulo &quot;Obtener información de Pokemon&quot;.

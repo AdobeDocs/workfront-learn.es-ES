@@ -1,12 +1,15 @@
 ---
-title: Tutorial sobre acceso a versiones anteriores
+title: Acceso al tutorial de versiones anteriores
 description: Descubra cómo puede restaurar versiones anteriores después de haber realizado cambios en su escenario y guardarlas en [!DNL Adobe Workfront Fusion].
 activity: use
-doc-type: feature video
 team: Technical Marketing
+type: Tutorial
+feature: Workfront Fusion
+role: User
+level: Beginner
 kt: 9009
 exl-id: dd2cc2a2-e5af-41cc-bc0d-6be1efd996d9
-source-git-commit: 1f7a4da813805691fc0e52d3ad1ea708f9e07a9a
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
 source-wordcount: '295'
 ht-degree: 0%

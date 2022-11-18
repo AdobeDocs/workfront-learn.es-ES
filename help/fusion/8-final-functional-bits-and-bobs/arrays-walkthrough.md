@@ -1,14 +1,17 @@
 ---
-title: Recorrido de matrices
-description: En este vídeo analizaremos ejercicios previos en los que se usaron matrices simples y complejas en [!DNL Adobe Workfront Fusion].
+title: Recorrido por matrices
+description: Revise ejercicios de introducción anteriores en los que se utilizaron arreglos de discos simples y complejos en [!DNL Adobe Workfront Fusion].
 activity: use
-doc-type: feature video
 team: Technical Marketing
+type: Tutorial
+feature: Workfront Fusion
+role: User
+level: Beginner
 kt: Jira ticket
 exl-id: ed56e244-e0ed-470e-8253-2549d70351c4
-source-git-commit: a0aa8328842d2db1235edc42664eb0b18f4038e4
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
-source-wordcount: '96'
+source-wordcount: '91'
 ht-degree: 1%
 
 ---

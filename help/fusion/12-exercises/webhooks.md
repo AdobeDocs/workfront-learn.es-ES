@@ -1,18 +1,21 @@
 ---
 title: Enlaces web
 description: Obtenga información sobre cómo crear, déclencheur y administrar escenarios iniciados por los enlaces web.
+activity: use
+team: Technical Marketing
+type: Tutorial
 feature: Workfront Fusion
 role: User
 level: Beginner
 kt: 11053
 thumbnail: KT11053.png
-source-git-commit: 1f7a4da813805691fc0e52d3ad1ea708f9e07a9a
+exl-id: d6a62a26-a8ab-477c-a8f2-98f3b9ff5edf
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
 source-wordcount: '647'
 ht-degree: 0%
 
 ---
-
 
 # Enlaces web
 

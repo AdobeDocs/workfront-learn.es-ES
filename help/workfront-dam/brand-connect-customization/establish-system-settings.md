@@ -1,13 +1,15 @@
 ---
 title: Establezca la configuración del sistema en [!UICONTROL Brand Connect]
 description: Obtenga información sobre cómo establecer la configuración del sistema en [!UICONTROL Brand Connect] de [!UICONTROL DAM de Workfront].
+activity: use
+team: Technical Marketing
 feature: Digital Content and Documents
 type: Tutorial
 role: User
 level: Beginner
 kt: 10089
 exl-id: e056a9fc-31a2-4e96-9874-dcdd23377d53
-source-git-commit: 27e8f0aada77488bd6cfc2e786b997f759fd0a17
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
 source-wordcount: '389'
 ht-degree: 0%

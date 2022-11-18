@@ -1,12 +1,15 @@
 ---
-title: Recorrido de los patrones de enrutamiento
+title: Recorrido por los patrones de enrutamiento
 description: Aprenda a utilizar el módulo Set Variable para enviar un número a través de varias rutas para ver cómo se comportan los filtros y las visitas en el orden previsto en [!DNL Adobe Workfront Fusion].
 activity: use
-doc-type: feature video
 team: Technical Marketing
+type: Tutorial
+feature: Workfront Fusion
+role: User
+level: Beginner
 kt: 9015
 exl-id: 3ba15bf6-b296-4356-9974-1262c5d97602
-source-git-commit: 1f7a4da813805691fc0e52d3ad1ea708f9e07a9a
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
 source-wordcount: '124'
 ht-degree: 0%

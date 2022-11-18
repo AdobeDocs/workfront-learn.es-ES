@@ -1,14 +1,17 @@
 ---
-title: Recorrido de los enrutadores
+title: Recorrido por los enrutadores
 description: Aprenda a utilizar un router para pasar paquetes Pokemon vs. superhéroes por la ruta correcta en [!DNL Adobe Workfront Fusion].
 activity: use
-doc-type: feature video
 team: Technical Marketing
+type: Tutorial
+feature: Workfront Fusion
+role: User
+level: Beginner
 kt: 9013
 exl-id: 6c111e5b-1c8f-43fd-9e2d-16599de2a337
-source-git-commit: 82b0e8e5875f3cedd25446507b29a46c9d598d29
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
-source-wordcount: '879'
+source-wordcount: '877'
 ht-degree: 0%
 
 ---
@@ -29,9 +32,9 @@ Workfront recomienda ver el vídeo tutorial del ejercicio antes de intentar recr
 
 ## Ejercitar direcciones URL
 
-* Sitio web de la API de superhéroe: https://www.superheroapi.com/
-* Primera URL para ejercicio: https://www.superheroapi.com/api/{access-token}/{character-id}/appearance
-* Segunda URL para ejercicio: https://www.superheroapi.com/api/{access-token}/{character-id}/powerstats
+* Sitio web de la API de superhéroe: `https://www.superheroapi.com/`
+* Primera URL para ejercicio: `https://www.superheroapi.com/api/{access-token}/{character-id}/appearance`
+* Segunda URL para ejercicio: `https://www.superheroapi.com/api/{access-token}/{character-id}/powerstats`
 
 Si tiene problemas para acceder a su propio token de superhéroe, puede utilizar este token compartido: 10110256647253588. Tenga en cuenta cuántas veces llama a la API de superhéroe para que este token compartido siga funcionando para todos.
 
@@ -86,6 +89,10 @@ Obtenga más información sobre Workfront Fusion Universal Connectors y cómo co
 Puede comprobar la lista completa de nuestros conectores de aplicación pregenerados en Experience League. Si desea sugerir un nuevo conector de aplicación al equipo de producto de Workfront Fusion, envíe su idea al laboratorio de innovación. Si no lo ha enviado antes, obtenga más información sobre el Laboratorio de Innovación, además de cómo puede votar por ideas y participar en la priorización de la Mesa Directiva que se da dos veces al año. Si ya tiene acceso al laboratorio de Innovación, inicie sesión y envíe sus ideas.
 
 ## Su turno
+
+>[!NOTE]
+>
+>Los ejercicios prácticos son opcionales y no son necesarios para completar la formación de Fusion.
 
 Este ejercicio de práctica se basa en lo aprendido en el tutorial, pero no se proporciona la solución.
 

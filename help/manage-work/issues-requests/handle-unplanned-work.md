@@ -1,6 +1,8 @@
 ---
 title: Gestionar trabajo no planificado
 description: Aprenda a gestionar el trabajo no planificado en su organización con .
+activity: use
+team: Technical Marketing
 feature: Work Management
 thumbnail: handle-unplanned-work.jpeg
 type: Tutorial
@@ -8,7 +10,7 @@ role: User
 level: Intermediate
 kt: 10070
 exl-id: 43caddaf-5fd8-4580-9a37-59b5ecc57c91
-source-git-commit: 27e8f0aada77488bd6cfc2e786b997f759fd0a17
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
 source-wordcount: '642'
 ht-degree: 0%

@@ -1,6 +1,8 @@
 ---
 title: Creación de un proyecto directamente a partir de una plantilla
 description: Aprenda a crear un proyecto empezando por una plantilla ya creada .
+activity: use
+team: Technical Marketing
 feature: Work Management
 thumbnail: create-a-project-directly-from-a-template.jpeg
 type: Tutorial
@@ -8,7 +10,7 @@ role: User
 level: Intermediate
 kt: 10156
 exl-id: 1f44eb26-98bf-4723-b162-27a4f8cb8177
-source-git-commit: 27e8f0aada77488bd6cfc2e786b997f759fd0a17
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
 source-wordcount: '167'
 ht-degree: 0%

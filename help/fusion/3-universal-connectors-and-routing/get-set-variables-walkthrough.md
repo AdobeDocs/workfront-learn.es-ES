@@ -1,14 +1,17 @@
 ---
-title: Tutorial de Set/Get Variables
-description: En este vídeo, aprenderá a buscar información sobre un proyecto en Workfront y enviar un correo electrónico con información relacionada en [!DNL Adobe Workfront Fusion].
+title: Introducción a Set/Get Variables
+description: Obtenga información sobre cómo buscar información sobre un proyecto en Workfront y enviar un correo electrónico con información relacionada en [!DNL Adobe Workfront Fusion].
 activity: use
-doc-type: feature video
 team: Technical Marketing
+type: Tutorial
+feature: Workfront Fusion
+role: User
+level: Beginner
 kt: 9017
 exl-id: bd329144-4c4c-451f-9340-265fbdb5b249
-source-git-commit: 1f7a4da813805691fc0e52d3ad1ea708f9e07a9a
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
-source-wordcount: '207'
+source-wordcount: '214'
 ht-degree: 0%
 
 ---
@@ -32,6 +35,10 @@ Workfront recomienda ver el vídeo tutorial del ejercicio antes de intentar recr
 >Para obtener instrucciones paso a paso sobre cómo completar el tutorial, vaya a la [Introducción a Set/Get Variables](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/exercises/set-get-variables.html?lang=en) ejercicio.
 
 ## Su turno
+
+>[!NOTE]
+>
+>Los ejercicios prácticos son opcionales y no son necesarios para completar la formación de Fusion.
 
 Este ejercicio de práctica se basa en lo aprendido en el tutorial, pero no se proporciona la solución.
 

@@ -1,18 +1,21 @@
 ---
 title: Agregación
 description: Aprenda a acumular varios paquetes de información en un solo valor.
+activity: use
+team: Technical Marketing
+type: Tutorial
 feature: Workfront Fusion
 role: User
 level: Beginner
 kt: 11047
 thumbnail: KT11047.png
-source-git-commit: 1f7a4da813805691fc0e52d3ad1ea708f9e07a9a
+exl-id: 4626b623-8b05-41be-9cfc-917e28222855
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
 source-wordcount: '294'
 ht-degree: 0%
 
 ---
-
 
 # Agregación
 

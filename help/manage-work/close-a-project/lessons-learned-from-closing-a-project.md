@@ -1,6 +1,8 @@
 ---
 title: Registro de las lecciones aprendidas
 description: Aprenda cómo puede incluir una tarea de "lecciones aprendidas" para identificar qué fue bien y qué puede mejorar la próxima vez.
+activity: use
+team: Technical Marketing
 feature: Work Management
 thumbnail: lessons-learned-from-closing-a-project.jpeg
 type: Tutorial
@@ -8,7 +10,7 @@ role: User
 level: Intermediate
 kt: 10135
 exl-id: ea0bd4a9-1656-419d-9357-7d48d791c74b
-source-git-commit: a64b29632b502af42d366ce543e5a71e9901e99c
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
 source-wordcount: '196'
 ht-degree: 0%

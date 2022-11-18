@@ -1,6 +1,6 @@
 ---
-title: Integraciones para Microsoft Outlook
-description: Obtenga información sobre cómo instalar el complemento de Microsoft Outlook
+title: Instale el [!UICONTROL Complemento de Microsoft Outlook]
+description: Obtenga información sobre cómo instalar el [!UICONTROL Complemento de Microsoft Outlook]
 activity: use
 feature: Workfront Integrations and Apps
 type: Tutorial
@@ -9,14 +9,14 @@ level: Beginner
 team: Technical Marketing
 kt: 8814
 exl-id: bd55c464-aae3-40a4-bc1b-e0dbdc5bb238
-source-git-commit: d1f5c4a558f737cb8188e209a16b91b67d32285c
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
-source-wordcount: '94'
+source-wordcount: '98'
 ht-degree: 0%
 
 ---
 
-# Integraciones para [!DNL Microsoft Outlook]
+# Instalación del complemento de Microsoft Outlook
 
 En este vídeo, aprenderá a:
 

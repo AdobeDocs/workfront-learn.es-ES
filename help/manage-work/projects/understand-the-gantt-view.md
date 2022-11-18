@@ -1,6 +1,8 @@
 ---
 title: Comprender el [!UICONTROL Gantt] ver
 description: Obtenga información sobre cómo ver un proyecto con la variable [!UICONTROL Gantt] gráfico en [!DNL  Workfront].
+activity: use
+team: Technical Marketing
 feature: Work Management
 thumbnail: understand-the-gantt-view.jpeg
 type: Tutorial
@@ -8,7 +10,7 @@ role: User
 level: Intermediate
 kt: 10144
 exl-id: 9f9cf889-8be5-43e2-88ab-52b1c35603ec
-source-git-commit: 27e8f0aada77488bd6cfc2e786b997f759fd0a17
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
 source-wordcount: '204'
 ht-degree: 0%
