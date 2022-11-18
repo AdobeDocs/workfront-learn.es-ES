@@ -9,7 +9,7 @@ role: Admin
 level: Intermediate, Experienced
 kt: 10019
 exl-id: 1689080d-1d3c-4fad-a353-64fb3b0d5851
-source-git-commit: 1f7a4da813805691fc0e52d3ad1ea708f9e07a9a
+source-git-commit: 5fe0cbb9797ceaac0c402d912be6ed6665ac48ae
 workflow-type: tm+mt
 source-wordcount: '284'
 ht-degree: 0%
@@ -25,7 +25,7 @@ ht-degree: 0%
 1. Select **[!UICONTROL Estados]**.
 1. Seleccione el **[!UICONTROL Problemas]** pestaña .
 1. Asegúrese de que el campo de la esquina superior derecha está establecido en [!UICONTROL Estados del sistema]. Esto garantiza que el nuevo estado esté disponible globalmente en su [!DNL Workfront] instancia.
-1. Seleccione **[!UICONTROL Lista maestra ]**para ver todos los estados del problema. Aquí es donde se crea o modifica un estado.
+1. Select **[!UICONTROL Lista maestra]** para ver todos los estados del problema. Aquí es donde se crea o modifica un estado.
 1. Haga clic en **[!UICONTROL Agregar un nuevo estado]**.
 1. Complete los campos según sea necesario para su organización: nombre, descripción, color, coincide con, clave, etc.
 1. Marque las casillas para el tipo de problema con el que se puede utilizar este estado.
