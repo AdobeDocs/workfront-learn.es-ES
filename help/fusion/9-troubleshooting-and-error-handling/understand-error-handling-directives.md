@@ -7,9 +7,9 @@ type: Tutorial
 feature: Workfront Fusion
 role: User
 level: Beginner
-kt: Jira ticket
+kt: 9064
 exl-id: cb8d0880-73d2-4118-b800-a126f8509309
-source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
+source-git-commit: 96f963bf5a44eac234cbf9215f19f6dddbe23143
 workflow-type: tm+mt
 source-wordcount: '318'
 ht-degree: 0%
