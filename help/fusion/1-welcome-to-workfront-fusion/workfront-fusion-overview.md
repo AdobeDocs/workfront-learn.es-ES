@@ -9,9 +9,9 @@ role: User
 level: Beginner
 kt: 11035
 exl-id: 998abb57-baff-4ebb-bd90-c67a553ee8d7
-source-git-commit: b68a4c103808026caec2c3f8d8be9ab2d9d0d952
+source-git-commit: 0618bf27478744e0e9976015a24c5ec8519efbb7
 workflow-type: tm+mt
-source-wordcount: '288'
+source-wordcount: '413'
 ht-degree: 0%
 
 ---
@@ -44,3 +44,18 @@ Workfront no ofrece unidades de prueba de Workfront Fusion. Para practicar mient
 
 Hay instrucciones paso a paso para completar los ejercicios de introducción. Puede acceder a ellas desde la barra de navegación izquierda en Fusión > Ejercicios o utilizar el vínculo proporcionado en la parte inferior de un tutorial de introducción.
 
+### Prácticas opcionales
+
+Tras algunos de los ejercicios de introducción se ofrecen prácticas y se plantean problemas.
+
+Existen varias formas de resolver los ejercicios de prácticas. La intención es desafiarle a intentar lograr un objetivo de escenario sin tener que seguir los pasos o la &quot;respuesta correcta&quot; porque esto es lo que tendrá que hacer al crear un escenario en su empresa.
+
+El ejercicio de práctica está relacionado con la actividad de tutorial.
+
+Los desafíos son para aquellos que quieren probar algo que involucre otros conceptos que han aprendido.
+
+### Cómo obtener ayuda
+
+Las instrucciones paso a paso se proporcionan para ayudarle a pasar por los ejercicios de introducción.
+
+También hay un [Comunidad de Workfront Fusion 2.0](https://experienceleaguecommunities.adobe.com/t5/workfront-fusion-2-0/ct-p/workfront-fusion-2) donde puede publicar preguntas.
