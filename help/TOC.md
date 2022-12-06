@@ -3,9 +3,9 @@ user-guide-description: Tutoriales de Workfront
 role: User
 level: Beginner
 feature-set: Workfront
-source-git-commit: 1ab337568afd314d461ddea5952c9b4c900b9c26
+source-git-commit: c4850a9fcb1174aa6ef3f0c1c107f619358b30da
 workflow-type: tm+mt
-source-wordcount: '2219'
+source-wordcount: '2262'
 ht-degree: 2%
 
 ---
@@ -330,6 +330,11 @@ ht-degree: 2%
    + Adobe Creative Cloud {#adobe-creative-cloud}
       + [Cargar pruebas con Workfront para Adobe Creative Cloud](integrations/adobe-creative-cloud/upload-proofs-with-workfront-for-adobe-creative-cloud.md)
       + [Uso de Workfront para Adobe Creative Cloud](integrations/adobe-creative-cloud/use-workfront-for-adobe-creative-cloud.md)
+   + Adobe Experience Manager Assets Essentials {#adobe-assets-essentials}
+      + [Configurando](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/configure.html)
+      + [Asignación de metadatos](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/map-metadata.html)
+      + [Envío de documentos y vinculación de recursos](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/link-send.html)
+      + [Historial de versiones](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/versions.html)
    + G Suite {#g-suite-integrations}
       + [Mejore el flujo de trabajo con la integración de G Suite](integrations/g-suite-integrations/worfront-for-g-suite-integrations.md)
    + Jira {#jira}
@@ -343,6 +348,7 @@ ht-degree: 2%
       + [Buscar en Workfront mediante [!UICONTROL Slack]](integrations/slack/search-workfront-through-slack.md)
       + [Comprender Workfront para [!UICONTROL Slack]](integrations/slack/introduction-to-workfront-for-slack.md)
       + [Ver el trabajo reciente hasta [!UICONTROL Slack]](integrations/slack/view-recent-work-through-slack.md)
+
 
 
 
