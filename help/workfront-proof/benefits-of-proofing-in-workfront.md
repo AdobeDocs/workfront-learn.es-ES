@@ -1,5 +1,5 @@
 ---
-title: Conozca los beneficios de la prueba
+title: Conozca las ventajas de la prueba
 description: Descubra qué es la prueba y las ventajas de utilizar la prueba digital en [!DNL  Workfront].
 activity: use
 feature: Workfront Proof
@@ -10,14 +10,14 @@ team: Technical Marketing
 thumbnail: 336095.png
 kt: 8822
 exl-id: 9721f0b1-ee24-4db1-ac1b-f0c355ad0a9a
-source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
+source-git-commit: 2ee758f7cb3e8d08cc4ec953486be187a59850e7
 workflow-type: tm+mt
 source-wordcount: '168'
 ht-degree: 0%
 
 ---
 
-# Conozca los beneficios de la prueba [!DNL Workfront]
+# Conozca las ventajas de la prueba [!DNL Workfront]
 
 En este vídeo, aprenderá:
 
