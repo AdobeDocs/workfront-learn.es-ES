@@ -9,7 +9,7 @@ activity: use
 team: Technical Marketing
 thumbnail: isblank-contains.png
 exl-id: 819ffec8-e7e6-4a3c-a589-1348aa09e27d
-source-git-commit: 2b9a31b45ff94222a77c05292ee5b9d8229f5f0b
+source-git-commit: 37a222dd921c0c3ffe72a8e091f6dbf1f18cee68
 workflow-type: tm+mt
 source-wordcount: '404'
 ht-degree: 0%
@@ -32,31 +32,31 @@ Para buscar un valor específico en la descripción, como &quot;evento de carida
 
 La expresión de texto ISBLANK incluye el nombre de la expresión y un punto de datos.
 
-**ISBLANK (punto de datos)**
+**ISBLANK({data point})**
 
 ![Balanceador de carga de trabajo con informe de utilización](assets/isblank03.png)
 
 En el ejemplo anterior (donde desea saber si el proyecto tiene una descripción), la expresión sería:
 
-ISBLANK(Descripción)
+ISBLANK({description})
 
 ## CONTAINS
 
 La expresión de texto CONTAINS incluye el nombre de la expresión, la palabra o frase que está buscando y el campo en el que buscarlo.
 
-**CONTAINS(&quot;frase&quot;,campo)**
+**CONTAINS(&quot;frase&quot;,{campos})**
 
 Asegúrese de colocar comillas alrededor de la palabra o frase que está buscando; de lo contrario, la expresión no será válida.
 
 En el ejemplo anterior (buscando &quot;evento de caridad&quot; en la descripción del proyecto), la expresión sería:
 
-**CONTAINS(&quot;evento de caridad&quot;,Descripción)**
+**CONTAINS(&quot;evento de caridad&quot;,{descripción})**
 
 ![Balanceador de carga de trabajo con informe de utilización](assets/isblank04.png)
 
 **Nota**: La expresión CONTAINS distingue entre mayúsculas y minúsculas. Por ejemplo, si &quot;Evento de caridad&quot; se pone en mayúsculas en el campo de descripción, ponga esa frase en mayúscula en la expresión.
 
-**CONTAINS(&quot;Evento de caridad&quot;,Descripción)**
+**CONTAINS(&quot;Evento de caridad&quot;,{description})**
 
 Tanto las expresiones ISBLANK como CONTAINS son útiles si desea ver si hay un valor presente. Sin embargo, puede ser más útil saber cuál es el valor, para verlo realmente o tener algún tipo de descriptor para proporcionar una mejor perspectiva.
 
