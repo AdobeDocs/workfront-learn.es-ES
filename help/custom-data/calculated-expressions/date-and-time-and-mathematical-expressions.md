@@ -9,9 +9,9 @@ activity: use
 team: Technical Marketing
 thumbnail: date-time-expressions.png
 exl-id: 333ba6ae-5004-4693-989b-03dc49fcbff8
-source-git-commit: 2b9a31b45ff94222a77c05292ee5b9d8229f5f0b
+source-git-commit: 402027429b116f3bd0328595b7c8635dea468fab
 workflow-type: tm+mt
-source-wordcount: '161'
+source-wordcount: '181'
 ht-degree: 0%
 
 ---
@@ -24,7 +24,7 @@ Las expresiones de fecha y hora permiten extraer fechas importantes al frente de
 
 Al consultar las expresiones de fecha y hora disponibles, encontrará varias opciones disponibles.
 
-![La administración de recursos configura un buscapersonas](assets/DTM01.png)
+![Ejemplos de expresiones de fecha y hora](assets/datetimeexpressions01.png)
 
 Existen dos conjuntos de expresiones de fecha y hora que se utilizan con mayor frecuencia por [!DNL Workfront] clientes:
 
@@ -37,9 +37,11 @@ Las expresiones matemáticas permiten [!DNL Workfront] para realizar cálculos a
 
 Al consultar las expresiones de fecha y hora disponibles, verá que tiene varias opciones disponibles.
 
-![La administración de recursos configura un buscapersonas](assets/math01.png)
+![Ejemplos de expresiones matemáticas](assets/datetimeexpressions02.png)
 
-[!DNL Workfront] los clientes suelen utilizar estos dos conjuntos de expresiones matemáticas:
+Los clientes de Workfront suelen utilizar estos dos conjuntos de expresiones matemáticas:
 
 * SUB, SUM, DIV, PROD
 * ROUND
+
+<b>NOTA</b>: Para obtener una lista completa de las expresiones y más información sobre cada una, consulte la página de documentación &quot;Expresiones de datos calculadas&quot;.
