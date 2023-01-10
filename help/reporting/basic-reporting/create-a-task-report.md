@@ -1,6 +1,6 @@
 ---
 title: Creación de un informe de tareas
-description: 'Aprenda a crear un informe de tareas con un filtro complejo y busque los informes que crea en Workfront. Actividad : cree un informe de nota con mensajes.'
+description: 'Aprenda a crear un informe de tareas con un filtro complejo y a encontrar los informes que crea en Workfront. Actividad: crear un informe de notas con instrucciones.'
 activity: use
 feature: Reports and Dashboards
 type: Tutorial
@@ -13,7 +13,7 @@ exl-id: 90bad2e8-9cd2-4ae7-973b-eeab9d615bef
 source-git-commit: 252ba3ba44f22519a35899fcda9c6bca597a6c2c
 workflow-type: tm+mt
 source-wordcount: '414'
-ht-degree: 5%
+ht-degree: 11%
 
 ---
 
