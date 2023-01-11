@@ -3,9 +3,9 @@ user-guide-description: Tutoriales de Workfront
 role: User
 level: Beginner
 feature-set: Workfront
-source-git-commit: 9e68a35e9803543934ae9ba3db7497395d2f9c31
+source-git-commit: 24d3d910949169043c51066f4a48bdaaa63f0dee
 workflow-type: tm+mt
-source-wordcount: '2369'
+source-wordcount: '2367'
 ht-degree: 2%
 
 ---
@@ -16,50 +16,50 @@ ht-degree: 2%
 + [Tutorials de Workfront](home.md)
 + Administración y configuración {#administration-and-setup}
    + Configuración organizativa {#organizational-setup}
-      + [Crear empresas](administration-and-setup/organizational-setup/user-organization-companies.md)
-      + [Crear grupos y subgrupos](administration-and-setup/organizational-setup/user-organization-groups.md)
       + [Crear equipos](administration-and-setup/organizational-setup/user-organization-teams.md)
-      + [Iniciar sesión como otro usuario](administration-and-setup/organizational-setup/log-in-as-another-workfront-user.md)
-      + [Configurar usuarios con licencias, niveles de acceso y funciones de trabajo](administration-and-setup/organizational-setup/create-licenses-access-levels-and-job-roles.md)
+      + [Crear grupos y subgrupos](administration-and-setup/organizational-setup/user-organization-groups.md)
       + [Comprender la necesidad de administración de grupos](administration-and-setup/organizational-setup/introduction-to-group-administrators.md)
+      + [Crear empresas](administration-and-setup/organizational-setup/user-organization-companies.md)
+      + [Configurar usuarios con licencias, niveles de acceso y funciones de trabajo](administration-and-setup/organizational-setup/create-licenses-access-levels-and-job-roles.md)
+      + [Iniciar sesión como otro usuario](administration-and-setup/organizational-setup/log-in-as-another-workfront-user.md)
    + Administrar elementos eliminados {#manage-deleted-items}
       + [Restaurar objetos desde la papelera de reciclaje](administration-and-setup/manage-deleted-items/restore-objects-from-the-recycle-bin.md)
    + Configuración de los valores predeterminados del sistema {#configure-system-defaults}
-      + [Configuración de las preferencias de problemas predeterminadas globales](administration-and-setup/configure-system-defaults/configure-global-default-issue-preferences.md)
       + [Configuración de los ajustes predeterminados del proyecto global](administration-and-setup/configure-system-defaults/configure-global-default-project-settings.md)
-      + [Crear un estado de problema](administration-and-setup/configure-system-defaults/create-an-issue-status.md)
-      + [Crear y administrar grupos de problemas](administration-and-setup/configure-system-defaults/create-and-manage-issue-severities.md)
-      + [Crear estado de problemas en todo el sistema](administration-and-setup/configure-system-defaults/customize-systemwide-issue-status.md)
-      + [Personalización de tipos de problemas y terminología](administration-and-setup/configure-system-defaults/customize-issue-types-and-terminology.md)
       + [Comprender los tipos de problemas predeterminados](administration-and-setup/configure-system-defaults/default-issue-types.md)
+      + [Crear un estado de problema](administration-and-setup/configure-system-defaults/create-an-issue-status.md)
+      + [Crear estado de problemas en todo el sistema](administration-and-setup/configure-system-defaults/customize-systemwide-issue-status.md)
+      + [Crear y administrar grupos de problemas](administration-and-setup/configure-system-defaults/create-and-manage-issue-severities.md)
+      + [Personalización de tipos de problemas y terminología](administration-and-setup/configure-system-defaults/customize-issue-types-and-terminology.md)
+      + [Configuración de las preferencias de problemas predeterminadas globales](administration-and-setup/configure-system-defaults/configure-global-default-issue-preferences.md)
    + Plantillas de diseño {#layout-templates}
+      + [¿Qué son las plantillas de diseño?](administration-and-setup/layout-templates/what-are-layout-templates.md)
+      + [Buscar plantillas de diseño](administration-and-setup/layout-templates/find-layout-templates.md)
+      + [Personalización de la terminología con plantillas de diseño](administration-and-setup/layout-templates/customize-workfront-terminology.md)
+      + [Personalice el [!UICONTROL Menú principal] con plantillas de diseño](administration-and-setup/layout-templates/customize-the-main-menu-with-layout-templates.md)
+      + [Personalizar inicio con plantillas de diseño](administration-and-setup/layout-templates/customize-workfront-home-with-layout-templates.md)
       + [Asignación y administración del acceso a las plantillas de diseño](administration-and-setup/layout-templates/assign-and-manage-access-to-layout-templates.md)
       + [Personalización de áreas de objeto con una plantilla de diseño](administration-and-setup/layout-templates/customize-object-areas-with-a-layout-template.md)
       + [Personalización de los detalles del proyecto con plantillas de diseño](administration-and-setup/layout-templates/customize-project-details-with-layout-templates.md)
       + [Personalización de listas de informes con plantillas de diseño](administration-and-setup/layout-templates/customize-reporting-lists-with-layout-templates.md)
-      + [Personalice el [!UICONTROL Menú principal] con plantillas de diseño](administration-and-setup/layout-templates/customize-the-main-menu-with-layout-templates.md)
-      + [Personalizar inicio con plantillas de diseño](administration-and-setup/layout-templates/customize-workfront-home-with-layout-templates.md)
-      + [Personalización de la terminología con plantillas de diseño](administration-and-setup/layout-templates/customize-workfront-terminology.md)
-      + [Buscar plantillas de diseño](administration-and-setup/layout-templates/find-layout-templates.md)
-      + [¿Qué son las plantillas de diseño?](administration-and-setup/layout-templates/what-are-layout-templates.md)
    + Notificaciones por correo electrónico y en la aplicación {#email-and-in-app-notifications}
-      + [Adjuntar notificaciones de recordatorio a elementos de trabajo](administration-and-setup/email-and-in-app-notifications/user-attach-reminder-notifications.md)
-      + [Configuración de notificaciones de recordatorio](administration-and-setup/email-and-in-app-notifications/admin-create-reminder-notifications.md)
       + [Administrar notificaciones por correo electrónico y en la aplicación](administration-and-setup/email-and-in-app-notifications/manage-inapp-and-email-notifications.md)
-      + [Configurar recordatorios automáticos](administration-and-setup/email-and-in-app-notifications/admin-set-up-automatic-reminders.md)
       + [Configuración de notificaciones de eventos](administration-and-setup/email-and-in-app-notifications/admin-set-up-event-notifications.md)
-      + [Suscripción a elementos de trabajo](administration-and-setup/email-and-in-app-notifications/user-subscribe-to-work-items.md)
       + [Enviar [!UICONTROL Centro de anuncios] messages](administration-and-setup/email-and-in-app-notifications/admin-use-the-announcement-center.md)
+      + [Configuración de notificaciones de recordatorio](administration-and-setup/email-and-in-app-notifications/admin-create-reminder-notifications.md)
+      + [Adjuntar notificaciones de recordatorio a elementos de trabajo](administration-and-setup/email-and-in-app-notifications/user-attach-reminder-notifications.md)
+      + [Configurar recordatorios automáticos](administration-and-setup/email-and-in-app-notifications/admin-set-up-automatic-reminders.md)
+      + [Suscripción a elementos de trabajo](administration-and-setup/email-and-in-app-notifications/user-subscribe-to-work-items.md)
    + Crear y administrar usuarios {#create-and-manage-users}
-      + [Agregar usuarios de forma masiva](administration-and-setup/create-and-manage-users/add-users-in-bulk.md)
       + [Agregar usuarios](administration-and-setup/create-and-manage-users/add-users-to-adobe-workfront.md)
       + [Crear un usuario individual](administration-and-setup/create-and-manage-users/create-an-individual-user-profile.md)
+      + [Agregar usuarios de forma masiva](administration-and-setup/create-and-manage-users/add-users-in-bulk.md)
       + [Modificación de la información del usuario](administration-and-setup/create-and-manage-users/modify-user-information.md)
       + [Cuándo y cómo desactivar o eliminar usuarios](administration-and-setup/create-and-manage-users/deactivate-or-delete-users.md)
       + [Comprender el registro de auditoría del sistema](administration-and-setup/create-and-manage-users/system-audit-log.md)
    + Procesos de aprobación y rutas de hitos {#approval-processes-and-milestone-paths}
-      + [Crear hitos](administration-and-setup/approval-processes-and-milestone-paths/creating-milestones.md)
       + [Explicación de los procesos de aprobación específicos de grupo](administration-and-setup/approval-processes-and-milestone-paths/group-specific-approval-processes.md)
+      + [Crear hitos](administration-and-setup/approval-processes-and-milestone-paths/creating-milestones.md)
 
 
 
@@ -70,106 +70,104 @@ ht-degree: 2%
 
 + Datos personalizados {#custom-data}
    + Formularios personalizados {#custom-forms}
-      + [Adjuntar un formulario personalizado a un objeto](custom-data/custom-forms/custom-forms-using-a-custom-form.md)
       + [Crear y compartir un formulario personalizado](custom-data/custom-forms/custom-forms-creating-and-sharing-a-custom-form.md)
-      + [Editar un formulario personalizado](custom-data/custom-forms/custom-forms-edit-a-custom-form.md)
-      + [Exportación de un formulario personalizado como PDF](custom-data/custom-forms/export-a-custom-form-as-a-pdf.md)
       + [Compartir campos personalizados](custom-data/custom-forms/share-custom-fields.md)
+      + [Editar un formulario personalizado](custom-data/custom-forms/custom-forms-edit-a-custom-form.md)
+      + [Adjuntar un formulario personalizado a un objeto](custom-data/custom-forms/custom-forms-using-a-custom-form.md)
+      + [Exportación de un formulario personalizado como PDF](custom-data/custom-forms/export-a-custom-form-as-a-pdf.md)
    + Expresiones calculadas {#calculated-expressions}
-      + [Cree una expresión de datos SUB, SUM, DIV o PROD](custom-data/calculated-expressions/create-a-sub-sum-div-or-prod-data-expression.md)
-      + [Crear DIRECCIONES DE ADDDAYS, ADDWEEKDAY, ADDMONTHS, ADDYEARS](custom-data/calculated-expressions/create-adddays-addweekdays-addmonths-addyears-expressions.md)
-      + [Crear una expresión de texto IF](custom-data/calculated-expressions/create-an-if-text-expression.md)
-      + [Creación de expresiones DATEDIFF y WEEKDAYDIFF](custom-data/calculated-expressions/create-datediff-and-weekdaydiff-expressions.md)
-      + [Crear expresiones IZQUIERDAS/DERECHAS](custom-data/calculated-expressions/create-left-right-expressions.md)
       + [Introducción a los campos calculados y las expresiones](custom-data/calculated-expressions/get-started-with-calculated-fields-and-expressions.md)
       + [Conozca la estructura de expresión de datos](custom-data/calculated-expressions/data-expression-structure.md)
-      + [Aspectos importantes sobre las expresiones de campos calculados](custom-data/calculated-expressions/things-to-know-about-expressions.md)
       + [Comprender la fecha y la hora y las expresiones matemáticas](custom-data/calculated-expressions/date-and-time-and-mathematical-expressions.md)
-      + [Utilice las expresiones ISBLANK y CONTAINS](custom-data/calculated-expressions/isblank-and-contains.md)
+      + [Crear DIRECCIONES DE ADDDAYS, ADDWEEKDAY, ADDMONTHS, ADDYEARS](custom-data/calculated-expressions/create-adddays-addweekdays-addmonths-addyears-expressions.md)
       + [Uso del Editor de cálculos](custom-data/calculated-expressions/use-the-calculation-editor.md)
+      + [Creación de expresiones DATEDIFF y WEEKDAYDIFF](custom-data/calculated-expressions/create-datediff-and-weekdaydiff-expressions.md)
+      + [Cree una expresión de datos SUB, SUM, DIV o PROD](custom-data/calculated-expressions/create-a-sub-sum-div-or-prod-data-expression.md)
       + [Utilizar la expresión CONCAT en un campo calculado](custom-data/calculated-expressions/use-the-concat-expression-in-a-calculated-field.md)
+      + [Crear expresiones IZQUIERDAS/DERECHAS](custom-data/calculated-expressions/create-left-right-expressions.md)
+      + [Utilice las expresiones ISBLANK y CONTAINS](custom-data/calculated-expressions/isblank-and-contains.md)
+      + [Crear una expresión de texto IF](custom-data/calculated-expressions/create-an-if-text-expression.md)
+      + [Aspectos importantes sobre las expresiones de campos calculados](custom-data/calculated-expressions/things-to-know-about-expressions.md)
 
 
 + Administrar trabajo {#manage-work}
    + Proyectos {#projects}
-      + [Cambiar el estado del proyecto](manage-work/projects/change-the-project-status.md)
-      + [Rellene los detalles del proyecto](manage-work/projects/fill-in-the-project-details.md)
-      + [Buscar proyectos](manage-work/projects/find-projects.md)
-      + [Introducción a la administración de un proyecto](manage-work/projects/getting-started-manage-a-project.md)
-      + [Introducción a la planificación de un proyecto](manage-work/projects/getting-started-plan-a-project.md)
-      + [Navegar por la página del proyecto](manage-work/projects/navigate-the-project-page.md)
-      + [Compartir un proyecto](manage-work/projects/share-a-project.md)
-      + [Realizar un proyecto en vivo](manage-work/projects/take-a-project-live.md)
-      + [Seguimiento del progreso general del proyecto](manage-work/projects/track-overall-project-progress.md)
-      + [Seguimiento del progreso del trabajo con métricas del proyecto](manage-work/projects/track-work-progress-with-project-metrics.md)
       + [Comprender la creación básica de proyectos](manage-work/projects/understand-basic-project-creation.md)
       + [Comprender otras formas de crear proyectos](manage-work/projects/understand-other-ways-to-create-projects.md)
+      + [Rellene los detalles del proyecto](manage-work/projects/fill-in-the-project-details.md)
+      + [Navegar por la página del proyecto](manage-work/projects/navigate-the-project-page.md)
+      + [Introducción a la planificación de un proyecto](manage-work/projects/getting-started-plan-a-project.md)
+      + [Realizar un proyecto en vivo](manage-work/projects/take-a-project-live.md)
+      + [Introducción a la administración de un proyecto](manage-work/projects/getting-started-manage-a-project.md)
+      + [Buscar proyectos](manage-work/projects/find-projects.md)
+      + [Compartir un proyecto](manage-work/projects/share-a-project.md)
       + [Comprender la comunicación del proyecto](manage-work/projects/understand-project-communication.md)
-      + [Comprender el [!UICONTROL Gantt] ver](manage-work/projects/understand-the-gantt-view.md)
       + [Ver información del proyecto](manage-work/projects/view-project-information.md)
+      + [Seguimiento del progreso general del proyecto](manage-work/projects/track-overall-project-progress.md)
+      + [Seguimiento del progreso del trabajo con métricas del proyecto](manage-work/projects/track-work-progress-with-project-metrics.md)
+      + [Comprender el [!UICONTROL Gantt] ver](manage-work/projects/understand-the-gantt-view.md)
+      + [Cambiar el estado del proyecto](manage-work/projects/change-the-project-status.md)
    + Tareas {#tasks}
-      + [Asignación de tareas del plan de proyecto](manage-work/tasks/assign-tasks-from-the-project-plan.md)
       + [Cómo crear tareas](manage-work/tasks/how-to-create-tasks.md)
-      + [Aprenda a secuenciar tareas](manage-work/tasks/learn-to-sequence-tasks.md)
-      + [Comprender [!UICONTROL Esfuerzo de trabajo]](manage-work/tasks/understand-work-effort.md)
       + [Comprender las tareas principales-secundarias](manage-work/tasks/understand-parent-child-tasks.md)
-      + [Comprender las horas planificadas](manage-work/tasks/understand-planned-hours.md)
-      + [Explicación de las duraciones de las tareas](manage-work/tasks/understand-task-durations.md)
       + [Trabajo con tareas](manage-work/tasks/work-with-tasks.md)
+      + [Asignación de tareas del plan de proyecto](manage-work/tasks/assign-tasks-from-the-project-plan.md)
+      + [Explicación de las duraciones de las tareas](manage-work/tasks/understand-task-durations.md)
+      + [Aprenda a secuenciar tareas](manage-work/tasks/learn-to-sequence-tasks.md)
+      + [Comprender las horas planificadas](manage-work/tasks/understand-planned-hours.md)
+      + [Comprender [!UICONTROL Esfuerzo de trabajo]](manage-work/tasks/understand-work-effort.md)
    + Problemas/solicitudes {#issues-requests}
-      + [Convertir problemas en otros elementos de trabajo](manage-work/issues-requests/convert-issues-to-other-work-items.md)
-      + [Creación de un proyecto a partir de una solicitud](manage-work/issues-requests/create-a-project-from-a-request.md)
-      + [Buscar solicitudes](manage-work/issues-requests/find-requests.md)
       + [Gestionar trabajo no planificado](manage-work/issues-requests/handle-unplanned-work.md)
       + [Realizar una solicitud](manage-work/issues-requests/make-a-request.md)
+      + [Buscar solicitudes](manage-work/issues-requests/find-requests.md)
       + [Administrar solicitudes](manage-work/issues-requests/manage-incoming-requests.md)
-      + [Revisar trabajo digital](manage-work/issues-requests/review-and-approve-digital-work.md)
-      + [Actualizar solicitudes](manage-work/issues-requests/update-a-request.md)
       + [Administrar asignaciones de problemas](manage-work/issues-requests/manage-issue-assignments.md)
+      + [Actualizar solicitudes](manage-work/issues-requests/update-a-request.md)
+      + [Creación de un proyecto a partir de una solicitud](manage-work/issues-requests/create-a-project-from-a-request.md)
+      + [Convertir problemas en otros elementos de trabajo](manage-work/issues-requests/convert-issues-to-other-work-items.md)
+      + [Revisar trabajo digital](manage-work/issues-requests/review-and-approve-digital-work.md)
       + [Informe sobre cuestiones](manage-work/issues-requests/report-on-issues.md)
    + Portafolios {#portfolios}
       + [Descripción general de portafolios](portfolios-and-programs/overview-of-adobe-workfront-portfolios.md)
       + [Introducción al caso empresarial](portfolios-and-programs/introduction-to-the-business-case.md)
       + [Priorizar y administrar el trabajo con portafolios](portfolios-and-programs/prioritize-and-manage-work-with-portfolios.md)
    + Solicitar colas {#request-queues}
-      + [Crear un flujo de solicitud](manage-work/request-queues/create-a-request-flow.md)
-      + [Crear una cola de solicitudes](manage-work/request-queues/create-a-request-queue.md)
       + [Explicación de las colas de solicitud](manage-work/request-queues/understand-request-queues.md)
       + [Explicación de la configuración de una solicitud de flujo](manage-work/request-queues/understand-settings-for-a-flow-request.md)
+      + [Crear una cola de solicitudes](manage-work/request-queues/create-a-request-queue.md)
+      + [Crear un flujo de solicitud](manage-work/request-queues/create-a-request-flow.md)
    + Procesos de aprobación y rutas de hitos {#approval-processes-and-milestone-paths}
-      + [Aplicar hitos](manage-work/approval-processes-and-milestone-paths/apply-milestones.md)
-      + [Adjuntar y editar procesos de aprobación existentes](manage-work/approval-processes-and-milestone-paths/attach-and-edit-existing-approval-processes.md)
       + [Creación de un proceso de aprobación de un solo uso](manage-work/approval-processes-and-milestone-paths/create-a-single-use-approval-process.md)
+      + [Adjuntar y editar procesos de aprobación existentes](manage-work/approval-processes-and-milestone-paths/attach-and-edit-existing-approval-processes.md)
       + [Delegación de tareas, problemas y aprobaciones](manage-work/approval-processes-and-milestone-paths/delegate-approvals.md)
       + [Ver hitos](manage-work/approval-processes-and-milestone-paths/view-milestones.md)
+      + [Aplicar hitos](manage-work/approval-processes-and-milestone-paths/apply-milestones.md)
    + Crear y administrar plantillas de proyecto {#create-and-manage-project-templates}
       + [Creación de una plantilla de proyecto](manage-work/create-and-manage-project-templates/create-a-project-template.md)
       + [Creación de un proyecto directamente a partir de una plantilla](manage-work/create-and-manage-project-templates/create-a-project-directly-from-a-template.md)
       + [Compartir una plantilla de proyecto](manage-work/create-and-manage-project-templates/share-a-project-template.md)
-   + Administrar proyectos {#manage-projects}
       + [Copiar un proyecto existente](manage-work/manage-projects/copy-an-existing-project.md)
    + Cronologías del proyecto {#project-timelines}
-      + [Seguimiento del progreso desde la cronología del proyecto](manage-work/project-timelines/track-work-progress-from-the-project-timeline.md)
-      + [Comprender los tipos de fechas y el estado del progreso](manage-work/project-timelines/understand-task-dates-and-progress-status.md)
       + [Explicación de las cronologías del proyecto](manage-work/project-timelines/understand-project-timelines.md)
+      + [Comprender los tipos de fechas y el estado del progreso](manage-work/project-timelines/understand-task-dates-and-progress-status.md)
+      + [Seguimiento del progreso desde la cronología del proyecto](manage-work/project-timelines/track-work-progress-from-the-project-timeline.md)
    + Cierre de un proyecto {#close-a-project}
       + [Cierre de un proyecto](manage-work/close-a-project/close-a-project-in-workfront.md)
       + [Cierre de tareas y problemas](manage-work/close-a-project/close-tasks-and-issues.md)
       + [Aprobaciones completas](manage-work/close-a-project/complete-approvals.md)
+      + [Cargar recursos](manage-work/close-a-project/upload-assets.md)
       + [Registro de las lecciones aprendidas](manage-work/close-a-project/lessons-learned-from-closing-a-project.md)
       + [Horas de registro y revisión](manage-work/close-a-project/log-and-review-hours.md)
-      + [Cargar recursos](manage-work/close-a-project/upload-assets.md)
       + [Cierre de una actividad de proyecto](manage-work/close-a-project/close-a-project-activity.md)
    + Finanzas del proyecto {#project-finances}
-      + [Buscar información financiera](manage-work/project-finances/find-financial-information.md)
+      + [Comprender las métricas de rendimiento](manage-work/project-finances/understand-performance-metrics.md)
+      + [Configurar los ingresos y los valores predeterminados de coste de las tareas](manage-work/project-finances/set-up-task-revenue-and-cost-defaults.md)
       + [Configurar tipos de cambio](manage-work/project-finances/set-up-exchange-rates.md)
       + [Configurar tipos de gastos](manage-work/project-finances/set-up-expense-types.md)
-      + [Configurar los ingresos y los valores predeterminados de coste de las tareas](manage-work/project-finances/set-up-task-revenue-and-cost-defaults.md)
       + [Comprender el acceso financiero](manage-work/project-finances/understand-financial-access.md)
-      + [Comprender las tasas de facturación múltiples](manage-work/project-finances/multiple-billing-rates.md)
-      + [Comprender las métricas de rendimiento](manage-work/project-finances/understand-performance-metrics.md)
       + [Actualizar y revisar las finanzas](manage-work/project-finances/update-and-review-finances.md)
-
+      + [Buscar información financiera](manage-work/project-finances/find-financial-information.md)
+      + [Comprender las tasas de facturación múltiples](manage-work/project-finances/multiple-billing-rates.md)
 
 
 
@@ -252,33 +250,33 @@ ht-degree: 2%
       + [Configuración de administración de recursos para usuarios](manage-resources/resource-management/settings-for-users.md)
       + [Configuración de administración de recursos, Balanceador de carga de trabajo e Informe de uso](manage-resources/resource-management/rm-setups-workload-balancer-and-utilization-report.md)
    + Distribuidor de cargas de trabajo {#workload-balancer}
-      + [Ajustar asignaciones diarias en el equilibrador de carga de trabajo](manage-resources/workload-balancer/adjust-daily-allocations.md)
-      + [Asignar trabajo en el equilibrador de carga de trabajo](manage-resources/workload-balancer/assign-work-in-the-workload-balancer.md)
-      + [Filtrado del equilibrador de carga de trabajo](manage-resources/workload-balancer/filter-unassigned-and-assigned-work-areas.md)
       + [Buscar el equilibrador de carga de trabajo](manage-resources/workload-balancer/find-the-workload-balancer.md)
-      + [Configuración que se debe tener en cuenta para el equilibrador de carga de trabajo](manage-resources/workload-balancer/settings-to-consider-for-the-workload-balancer.md)
+      + [Filtrado del equilibrador de carga de trabajo](manage-resources/workload-balancer/filter-unassigned-and-assigned-work-areas.md)
       + [Ver asignaciones de usuario en el equilibrador de carga de trabajo](manage-resources/workload-balancer/view-user-allocations.md)
+      + [Ajustar asignaciones diarias en el equilibrador de carga de trabajo](manage-resources/workload-balancer/adjust-daily-allocations.md)
+      + [Configuración que se debe tener en cuenta para el equilibrador de carga de trabajo](manage-resources/workload-balancer/settings-to-consider-for-the-workload-balancer.md)
+      + [Asignar trabajo en el equilibrador de carga de trabajo](manage-resources/workload-balancer/assign-work-in-the-workload-balancer.md)
    + Planificación de recursos {#resource-planning}
+      + [¿Qué es el planificador de recursos?](manage-resources/resource-planning/what-is-the-resource-planner.md)
+      + [Ver utilización](manage-resources/resource-planning/view-utlization-intro-filter-the-resource-planner.md)
+      + [Ver por usuarios](manage-resources/resource-planning/view-by-users/view-by-users.md)
       + [Ver por rol de trabajo](manage-resources/resource-planning/view-by-job-role/view-by-job-role.md)
       + [Ver por proyecto](manage-resources/resource-planning/view-by-project/view-by-project.md)
-      + [Ver por usuarios](manage-resources/resource-planning/view-by-users/view-by-users.md)
-      + [Ver utilización](manage-resources/resource-planning/view-utlization-intro-filter-the-resource-planner.md)
-      + [¿Qué es el planificador de recursos?](manage-resources/resource-planning/what-is-the-resource-planner.md)
    + Calendario de tiempo de inactividad personal {#personal-time-off-calendar}
+      + [¿Por qué utilizar la hora del calendario?](manage-resources/pto/why-use-time-off-calendar.md)
       + [Cómo afecta el tiempo de espera a los plazos del proyecto](manage-resources/pto/how-time-off-affects-project-timelines.md)
       + [Administración del tiempo de espera de otros usuarios](manage-resources/pto/manage-other-users-time-off.md)
       + [Ver el tiempo de espera al asignar tareas](manage-resources/pto/see-time-off-when-assigning-tasks.md)
       + [Visibilidad en las herramientas de administración de recursos](manage-resources/pto/visibility-in-resource-management-tools.md)
-      + [¿Por qué utilizar la hora del calendario?](manage-resources/pto/why-use-time-off-calendar.md)
    + Planificador de escenarios {#scenario-planner}
       + [Un momento con producto acerca del planificador de escenarios](manage-resources/scenario-planner/a-moment-with-product-workfront-scenario-planner.md)
+      + [¿Qué es el planificador de escenarios?](manage-resources/scenario-planner/what-is-scenario-planner.md)
       + [Acceso a un plan en el planificador de escenarios](manage-resources/scenario-planner/access-a-plan-in-scenario-planner.md)
-      + [Ajuste la función de trabajo, el presupuesto y la información de coste en el Planificador de escenario](manage-resources/scenario-planner/adjust-job-role-budget-and-cost-information-in-the-scenario-planner.md)
-      + [Crear iniciativas con un plan](manage-resources/scenario-planner/creating-initiatives-within-a-plan.md)
       + [Crear planes en el planificador de escenarios](manage-resources/scenario-planner/create-plans-in-the-scenario-planner.md)
-      + [Publicar un escenario](manage-resources/scenario-planner/publish-a-scenario.md)
+      + [Crear iniciativas con un plan](manage-resources/scenario-planner/creating-initiatives-within-a-plan.md)
+      + [Ajuste la función de trabajo, el presupuesto y la información de coste en el Planificador de escenario](manage-resources/scenario-planner/adjust-job-role-budget-and-cost-information-in-the-scenario-planner.md)
       + [Actualización y copia de planes](manage-resources/scenario-planner/update-and-copy-plans.md)
-      + [¿Qué es el planificador de escenario?](manage-resources/scenario-planner/what-is-scenario-planner.md)
+      + [Publicar un escenario](manage-resources/scenario-planner/publish-a-scenario.md)
 
 
 
@@ -286,40 +284,40 @@ ht-degree: 2%
 
 + Workfront Goals {#workfront-goals}
    + Establecer una visión para su organización {#establish-a-vision-and-strategy}
-      + [Comprender cómo funcionan los objetivos de Workfront](workfront-goals/establish-a-vision-for-your-org/understand-how-workfront-goals-works.md)
-      + [Alineación de grupos y equipos con su estrategia](workfront-goals/establish-a-vision-for-your-org/align-groups-and-teams-to-the-strategy.md)
-      + [Colaborar en torno a los objetivos empresariales y organizativos](workfront-goals/establish-a-vision-for-your-org/collaborate-around-enterprise-and-organizational-goals.md)
-      + [Crear una declaración objetiva clara](workfront-goals/establish-a-vision-for-your-org/create-a-clear-objective-statement.md)
-      + [Establezca una visión y estrategia para su organización](workfront-goals/establish-a-vision-for-your-org/establish-a-vision-and-strategy.md)
-      + [Comprenda cómo se ajustan los objetivos de Workfront en su ciclo de trabajo](workfront-goals/establish-a-vision-for-your-org/where-does-workfront-goals-fit-in-with-my-work-cycle.md)
       + [Comprender la visión detrás de los objetivos de Workfront](workfront-goals/establish-a-vision-for-your-org/understand-the-vision-behind-workfront-goals.md)
+      + [Comprender cómo funcionan los objetivos de Workfront](workfront-goals/establish-a-vision-for-your-org/understand-how-workfront-goals-works.md)
+      + [Comprenda cómo se ajustan los objetivos de Workfront en su ciclo de trabajo](workfront-goals/establish-a-vision-for-your-org/where-does-workfront-goals-fit-in-with-my-work-cycle.md)
+      + [Establezca una visión y estrategia para su organización](workfront-goals/establish-a-vision-for-your-org/establish-a-vision-and-strategy.md)
+      + [Crear una declaración objetiva clara](workfront-goals/establish-a-vision-for-your-org/create-a-clear-objective-statement.md)
+      + [Colaborar en torno a los objetivos empresariales y organizativos](workfront-goals/establish-a-vision-for-your-org/collaborate-around-enterprise-and-organizational-goals.md)
+      + [Alineación de grupos y equipos con su estrategia](workfront-goals/establish-a-vision-for-your-org/align-groups-and-teams-to-the-strategy.md)
    + Crear sus objetivos {#create-goals}
       + [Explicación del uso [!UICONTROL Objetivos de Workfront]](workfront-goals/create-your-goals/understand-how-to-use-workfront-goals.md)
-      + [Copiar un objetivo existente](workfront-goals/create-your-goals/copy-an-existing-goal.md)
+      + [Configuración [!UICONTROL Objetivos de Workfront] para su organización](workfront-goals/create-your-goals/set-up-workfront-goals-for-your-company.md)
+      + [Conceder acceso a los objetivos a usuarios seleccionados](workfront-goals/create-your-goals/grant-goals-access-to-selected-users.md)
       + [Cree una plantilla de diseño para [!UICONTROL Objetivos de Workfront] usuarios](workfront-goals/create-your-goals/create-a-layout-template-with-workfront-goals.md)
       + [Crear objetivos](workfront-goals/create-your-goals/create-goals-in-workfront.md)
-      + [Conceder acceso a los objetivos a usuarios seleccionados](workfront-goals/create-your-goals/grant-goals-access-to-selected-users.md)
-      + [Configuración [!UICONTROL Objetivos de Workfront] para su organización](workfront-goals/create-your-goals/set-up-workfront-goals-for-your-company.md)
+      + [Copiar un objetivo existente](workfront-goals/create-your-goals/copy-an-existing-goal.md)
    + Activar sus objetivos {#activate-goals}
-      + [Activar alineando un objetivo con otro](workfront-goals/activate-your-goals/activate-by-aligning-a-goal-to-another-goal.md)
       + [Activar objetivos](workfront-goals/activate-your-goals/activate-goals-in-workfront.md)
+      + [Activar alineando un objetivo con otro](workfront-goals/activate-your-goals/activate-by-aligning-a-goal-to-another-goal.md)
       + [Agregar un resultado a un objetivo](workfront-goals/activate-your-goals/add-a-result-to-a-goal.md)
       + [Agregar una actividad a un objetivo](workfront-goals/activate-your-goals/add-an-activity-to-a-goal.md)
    + Administrar sus objetivos {#manage-goals}
       + [Alinear sus objetivos](workfront-goals/manage-your-goals/align-your-goals.md)
-      + [Cierre un objetivo una vez completado](workfront-goals/manage-your-goals/close-a-goal-once-complete.md)
+      + [Eliminar alineación de objetivo](workfront-goals/manage-your-goals/remove-goal-alignment.md)
       + [Conversión de una actividad en un objetivo alineado](workfront-goals/manage-your-goals/convert-an-activity-to-an-aligned-goal.md)
       + [Realizar una actualización cualitativa](workfront-goals/manage-your-goals/make-a-qualitative-update.md)
       + [Realizar una actualización cuantitativa](workfront-goals/manage-your-goals/make-a-quantitative-update.md)
       + [Conexión manual de objetivos entre sí](workfront-goals/manage-your-goals/manually-connect-goals-to-one-another.md)
-      + [Eliminar alineación de objetivo](workfront-goals/manage-your-goals/remove-goal-alignment.md)
       + [Seguimiento y actualización de objetivos mediante [!UICONTROL Registros]](workfront-goals/manage-your-goals/track-and-update-goals-using-check-ins.md)
+      + [Cierre un objetivo una vez completado](workfront-goals/manage-your-goals/close-a-goal-once-complete.md)
    + Supervisar sus objetivos {#monitor-goals}
+      + [Explicación de la sección de gráficos](workfront-goals/monitor-your-goals/understand-the-graphs-section.md)
+      + [Ver actualizaciones de objetivos individuales](workfront-goals/monitor-your-goals/view-individual-goal-updates.md)
       + [Calcular el progreso del objetivo](workfront-goals/monitor-your-goals/calculate-goal-progress.md)
       + [Comunicar el estado del objetivo](workfront-goals/monitor-your-goals/communicate-goal-status.md)
       + [Vaya a la [!UICONTROL Pulse] flujo de actualización](workfront-goals/monitor-your-goals/navigate-the-pulse-update-stream.md)
-      + [Explicación de la sección de gráficos](workfront-goals/monitor-your-goals/understand-the-graphs-section.md)
-      + [Ver actualizaciones de objetivos individuales](workfront-goals/monitor-your-goals/view-individual-goal-updates.md)
 
 
 
@@ -328,8 +326,8 @@ ht-degree: 2%
 
 + Integraciones {#integrations}
    + Adobe Creative Cloud {#adobe-creative-cloud}
-      + [Cargar pruebas con Workfront para Adobe Creative Cloud](integrations/adobe-creative-cloud/upload-proofs-with-workfront-for-adobe-creative-cloud.md)
       + [Uso de Workfront para Adobe Creative Cloud](integrations/adobe-creative-cloud/use-workfront-for-adobe-creative-cloud.md)
+      + [Cargar pruebas con Workfront para Adobe Creative Cloud](integrations/adobe-creative-cloud/upload-proofs-with-workfront-for-adobe-creative-cloud.md)
    + Adobe Experience Manager Assets Essentials {#adobe-assets-essentials}
       + [Configurando](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/configure.html)
       + [Asignación de metadatos](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/map-metadata.html)
@@ -350,12 +348,12 @@ ht-degree: 2%
       + [Envío de solicitudes de Adobe Workfront desde Microsofts Teams](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/submit-workfront-requests-from-ms-teams.html)
       + [Administración de notificaciones de Adobe Workfront en Microsoft Teams](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/manage-wf-notifications-approval-requests-ms-teams.html)
    + Slack {#slack}
+      + [Comprender Workfront para [!UICONTROL Slack]](integrations/slack/introduction-to-workfront-for-slack.md)
+      + [Ver el trabajo reciente hasta [!UICONTROL Slack]](integrations/slack/view-recent-work-through-slack.md)
       + [Acceda a la lista de tareas pendientes a través de [!UICONTROL Slack]](integrations/slack/access-your-to-do-list-through-slack.md)
       + [Asigne tareas a través de [!UICONTROL Slack]](integrations/slack/assign-tasks-through-slack.md)
       + [Realización de aprobaciones mediante [!UICONTROL Slack]](integrations/slack/make-approvals-through-slack.md)
       + [Buscar en Workfront mediante [!UICONTROL Slack]](integrations/slack/search-workfront-through-slack.md)
-      + [Comprender Workfront para [!UICONTROL Slack]](integrations/slack/introduction-to-workfront-for-slack.md)
-      + [Ver el trabajo reciente hasta [!UICONTROL Slack]](integrations/slack/view-recent-work-through-slack.md)
 
 
 
@@ -471,8 +469,8 @@ ht-degree: 2%
    + [Comprender la diferencia entre un documento y una prueba](workfront-proof/document-vs-proof.md)
    + [Explicación de los espectadores de prueba](workfront-proof/two-options-for-the-proofing-viewers.md)
 
-
    + Administración y configuración {#administration-and-setup-for-proof}
+      + [¿Qué es una plantilla de flujo de trabajo automatizada?](workfront-proof/administration-and-setup/what-is-an-automated-workflow-template.md)
       + [Personalizar acciones de comentarios de prueba](workfront-proof/administration-and-setup/customize-proof-comment-actions.md)
       + [Personalizar opciones de decisión de prueba](workfront-proof/administration-and-setup/customize-proof-decision-options.md)
       + [Comprender las alertas de correo electrónico y las notificaciones de prueba](workfront-proof/administration-and-setup/email-alert-vs-proof-notification.md)
@@ -483,45 +481,47 @@ ht-degree: 2%
       + [Configuración de la configuración predeterminada de la cuenta de prueba](workfront-proof/administration-and-setup/set-up-default-proof-account-settings.md)
       + [Configuración para usuarios de prueba](workfront-proof/administration-and-setup/settings-for-proof-users.md)
       + [Configuración de la prueba global](workfront-proof/administration-and-setup/setup-global-proof-settings.md)
-      + [¿Qué es una plantilla de flujo de trabajo automatizada?](workfront-proof/administration-and-setup/what-is-an-automated-workflow-template.md)
    + Cargar pruebas {#upload-proofs}
-      + [Combinación de varios archivos en una sola prueba](workfront-proof/upload-proofs/combine-multiple-files-into-a-single-proof.md)
+      + [¿Qué es una versión de prueba?](workfront-proof/upload-proofs/what-is-a-proof-version.md)
+      + [¿Quién carga las versiones de prueba?](workfront-proof/upload-proofs/who-uploads-the-proof-versions.md)
       + [Convertir un documento en una prueba](workfront-proof/upload-proofs/convert-a-document-to-a-proof.md)
+      + [Ver y comparar versiones de prueba](workfront-proof/upload-proofs/view-and-compare-proof-versions.md)
+      + [Cargar una versión de prueba](workfront-proof/upload-proofs/upload-a-proof-version.md)
       + [Administrar versiones de prueba](workfront-proof/upload-proofs/manage-proof-versions.md)
       + [Carga de una prueba de un vídeo](workfront-proof/upload-proofs/other-types-of-digital-assets.md)
       + [Cargar una prueba de un sitio web](workfront-proof/upload-proofs/upload-a-proof-of-a-website.md)
-      + [Cargar una versión de prueba](workfront-proof/upload-proofs/upload-a-proof-version.md)
       + [Carga de una prueba con un flujo de trabajo básico](workfront-proof/upload-proofs/upload-a-proof-with-a-basic-workflow.md)
       + [Carga de una prueba con un flujo de trabajo automatizado](workfront-proof/upload-proofs/upload-a-proof-with-an-automated-workflow.md)
       + [Cargar con un arrastrar y soltar](workfront-proof/upload-proofs/upload-with-a-drag-and-drop.md)
-      + [Ver y comparar versiones de prueba](workfront-proof/upload-proofs/view-and-compare-proof-versions.md)
-      + [¿Qué es una versión de prueba?](workfront-proof/upload-proofs/what-is-a-proof-version.md)
-      + [¿Quién carga las versiones de prueba?](workfront-proof/upload-proofs/who-uploads-the-proof-versions.md)
+      + [Combinación de varios archivos en una sola prueba](workfront-proof/upload-proofs/combine-multiple-files-into-a-single-proof.md)
    + Flujos de trabajo de prueba {#proof-workflows}
       + [Explicación de los flujos de trabajo de prueba como parte de las cronologías del proyecto](workfront-proof/proof-workflows/understand-and-create-proof-workflows.md)
       + [Edición de un flujo de trabajo de prueba](workfront-proof/proof-workflows/edit-a-proof-workflow.md)
-      + [Creación de una plantilla de flujo de trabajo automatizada](workfront-proof/administration-and-setup/create-an-automated-workflow-template.md)
       + [Creación de grupos de plantillas para organizar plantillas de flujo de trabajo automatizadas](workfront-proof/administration-and-setup/create-template-groups.md)
+      + [Creación de una plantilla de flujo de trabajo automatizada](workfront-proof/administration-and-setup/create-an-automated-workflow-template.md)
       + [Edición de una plantilla de flujo de trabajo automatizada](workfront-proof/administration-and-setup/edit-an-automated-workflow-template.md)
    + Revisar y aprobar el trabajo {#review-and-approve-work-for-proof}
-      + [Administrar comentarios de prueba](workfront-proof/review-and-approve-work/manage-proof-comments.md)
       + [Navegar por el visor de pruebas](workfront-proof/review-and-approve-work/navigate-the-proof-viewer.md)
-      + [Explicación de los detalles de la prueba](workfront-proof/review-and-approve-work/proof-details-overview.md)
-      + [Revisar un vídeo con una prueba](workfront-proof/review-and-approve-work/review-a-video-with-proof.md)
-      + [Revisar un sitio web con una prueba](workfront-proof/review-and-approve-work/review-a-website-with-proof.md)
       + [Revisar y aprobar una prueba](workfront-proof/review-and-approve-work/review-and-approve-a-proof.md)
       + [Revisar y responder comentarios de prueba](workfront-proof/review-and-approve-work/review-and-respond-to-proof-comments.md)
+      + [Revisar un vídeo con una prueba](workfront-proof/review-and-approve-work/review-a-video-with-proof.md)
+      + [Revisar un sitio web con una prueba](workfront-proof/review-and-approve-work/review-a-website-with-proof.md)
+      + [Explicación de los detalles de la prueba](workfront-proof/review-and-approve-work/proof-details-overview.md)
+      + [Administrar comentarios de prueba](workfront-proof/review-and-approve-work/manage-proof-comments.md)
       + [Seguimiento del progreso de la prueba](workfront-proof/review-and-approve-work/track-proof-progress.md)
+
+
+
 
 + Workfront DAM {#workfront-dam-program}
    + Configuración del sistema {#system-setup}
       + [Comprender [!DNL Workfront DAM]](workfront-dam/system-setup/introduction-to-workfront-dam.md)
+      + [Comprender la configuración del sistema](workfront-dam/system-setup/system-setup-system-settings.md)
+      + [Comprender [!UICONTROL Brand Portal]](workfront-dam/system-setup/brand-connect-brand-portal-introduction.md)
       + [Analice y planifique un [!DNL Workfront DAM] estrategia](workfront-dam/system-setup/analyze-and-plan-to-develop-a-workfront-dam-strategy.md)
+      + [Configurar grupos y usuarios](workfront-dam/system-setup/system-setup-groups-and-users.md)
       + [Configuración de la integración en Workfront](workfront-dam/system-setup/configure-the-integration-in-workfront.md)
       + [Personalizar [!DNL Workfront DAM]](workfront-dam/system-setup/system-setup-customize-workfront-dam.md)
-      + [Configurar grupos y usuarios](workfront-dam/system-setup/system-setup-groups-and-users.md)
-      + [Comprender [!UICONTROL Brand Portal]](workfront-dam/system-setup/brand-connect-brand-portal-introduction.md)
-      + [Comprender la configuración del sistema](workfront-dam/system-setup/system-setup-system-settings.md)
    + Metadatos y palabras clave {#metadata-and-keywords}
       + [Comprender los metadatos](workfront-dam/metadata-and-keywords/metadata-introduction.md)
       + [Habilitar y aplicar la taxonomía de palabras clave](workfront-dam/metadata-and-keywords/enable-and-enforce-keyword-taxonomy.md)
@@ -532,22 +532,22 @@ ht-degree: 2%
       + [Configurar las palabras clave de los metadatos](workfront-dam/metadata-and-keywords/keyword-setup.md)
       + [Configuración de los metadatos](workfront-dam/metadata-and-keywords/metadata-setup.md)
    + Personalización de Brand Connect {#brand-connect-customization}
+      + [¿Qué es [!UICONTROL Brand Connect]?](workfront-dam/brand-connect-customization/what-is-brand-connect.md)
+      + [Establezca la configuración del sistema en [!UICONTROL Brand Connect]](workfront-dam/brand-connect-customization/establish-system-settings.md)
       + [Añadir páginas personalizadas en [!UICONTROL Brand Connect]](workfront-dam/brand-connect-customization/add-custom-pages-in-brand-connect.md)
       + [Cree directrices de marca en [!UICONTROL Brand Connect]](workfront-dam/brand-connect-customization/create-brand-guidelines-in-brand-connect.md)
       + [Personalizar el aspecto de [!UICONTROL Brand Connect]](workfront-dam/brand-connect-customization/customize-the-appearance-of-brand-connect.md)
       + [Personalizar el aspecto de [!UICONTROL Brand Connect]](workfront-dam/brand-connect-customization/customize-the-look-of-brand-connect.md)
-      + [Establezca la configuración del sistema en [!UICONTROL Brand Connect]](workfront-dam/brand-connect-customization/establish-system-settings.md)
-      + [¿Qué es [!UICONTROL Brand Connect]?](workfront-dam/brand-connect-customization/what-is-brand-connect.md)
    + Usuario DAM de Workfront: Colaborador {#workfront-dam-contributor}
-      + [Agregue un [!UICONTROL DAM de Workfront] vínculo](workfront-dam/workfront-dam-user-contributor/add-a-workfront-dam-link-in-workfront.md)
-      + [Publicar recursos como colaborador](workfront-dam/workfront-dam-user-contributor/contributor-publish-assets.md)
-      + [Enviar un archivo como colaborador](workfront-dam/workfront-dam-user-contributor/send-a-file-from-workfront-to-workfront-dam.md)
       + [Comprender [!UICONTROL DAM de Workfront] como colaborador](workfront-dam/workfront-dam-user-contributor/contributor-getting-started.md)
       + [Comprender la administración de recursos como colaborador](workfront-dam/workfront-dam-user-contributor/contributor-asset-management.md)
       + [Comprender la búsqueda de recursos como colaborador](workfront-dam/workfront-dam-user-contributor/contributor-find-assets.md)
       + [Comprender Lightboxes como colaborador](workfront-dam/workfront-dam-user-contributor/contributor-lightboxes.md)
       + [Comprender las prácticas recomendadas de palabras clave y metadatos como colaborador](workfront-dam/workfront-dam-user-contributor/metadata-and-keyword-best-practices.md)
       + [Trabajar con recursos como colaborador](workfront-dam/workfront-dam-user-contributor/contributor-work-with-assets.md)
+      + [Enviar un archivo como colaborador](workfront-dam/workfront-dam-user-contributor/send-a-file-from-workfront-to-workfront-dam.md)
+      + [Publicar recursos como colaborador](workfront-dam/workfront-dam-user-contributor/contributor-publish-assets.md)
+      + [Agregue un [!UICONTROL DAM de Workfront] vínculo](workfront-dam/workfront-dam-user-contributor/add-a-workfront-dam-link-in-workfront.md)
    + Usuario de Brand Connect {#brand-connect}
       + [Comprender [!UICONTROL Brand Connect] como usuario](workfront-dam/brand-connect-user/brand-connect-introduction.md)
       + [Comprender [!UICONTROL Brand Connect] notificaciones](workfront-dam/brand-connect-user/brand-connect-notifications.md)
@@ -561,15 +561,15 @@ ht-degree: 2%
 
 
 + Página de inicio {#home}
-   + [Aprobar trabajo en [!UICONTROL Página principal]](workfront-home/approve-work-in-workfront-home.md)
-   + [Colaborar en el trabajo con [!UICONTROL Mis actualizaciones]](workfront-home/collaborate-on-work-with-my-updates.md)
-   + [Comunicar sobre el trabajo](workfront-home/communicate-about-work-in-workfront-home.md)
    + [Buscar su trabajo](workfront-home/find-your-work-in-workfront-home.md)
-   + [Indicar el estado de trabajo](workfront-home/indicate-work-status-in-workfront-home.md)
-   + [Horas de registro en el trabajo](workfront-home/log-hours-on-work-in-workfront-home.md)
-   + [Marcar trabajo asignado como completado](workfront-home/mark-assigned-work-as-complete.md)
    + [Organice la lista de tareas pendientes](workfront-home/organize-your-to-do-list-in-workfront-home.md)
    + [Priorizar su trabajo](workfront-home/prioritize-your-work-in-workfront-home.md)
+   + [Indicar el estado de trabajo](workfront-home/indicate-work-status-in-workfront-home.md)
+   + [Comunicar sobre el trabajo](workfront-home/communicate-about-work-in-workfront-home.md)
+   + [Horas de registro en el trabajo](workfront-home/log-hours-on-work-in-workfront-home.md)
+   + [Marcar trabajo asignado como completado](workfront-home/mark-assigned-work-as-complete.md)
+   + [Aprobar trabajo en [!UICONTROL Página principal]](workfront-home/approve-work-in-workfront-home.md)
+   + [Colaborar en el trabajo con [!UICONTROL Mis actualizaciones]](workfront-home/collaborate-on-work-with-my-updates.md)
    + [Revise el trabajo en [!UICONTROL Mis actualizaciones] o [!UICONTROL Página principal]](workfront-home/review-work-in-my-updates-or-workfront-home.md)
    + [Información sobre actualizaciones y notificaciones](manage-work/issues-requests/understand-updates-and-notifications.md)
 
@@ -585,13 +585,13 @@ ht-degree: 2%
       + [Crear un equipo kanban](agile/create-a-kanban-team.md)
       + [Administrar el trabajo como equipo kanban](agile/manage-work-kanban-team.md)
    + Paneles  {#boards}
-      + [Agregar y editar la configuración de columna en un tablero](boards/add-and-edit-column-settings-on-a-board.md)
-      + [Añadir y administrar etiquetas para tarjetas](boards/add-and-manage-tags-for-cards.md)
-      + [Agregar y administrar miembros de equipo para un tablero](boards/add-and-manage-team-members-for-a-board.md)
-      + [Agregar tarjetas a un tablero](boards/add-cards-to-a-board.md)
       + [Buscar y crear un tablero básico](boards/find-and-create-a-basic-board.md)
       + [Administrar columnas de tablero](boards/manage-board-columns.md)
+      + [Agregar tarjetas a un tablero](boards/add-cards-to-a-board.md)
       + [Administrar tarjetas en un tablero](boards/manage-cards-on-a-board.md)
+      + [Agregar y administrar miembros de equipo para un tablero](boards/add-and-manage-team-members-for-a-board.md)
+      + [Agregar y editar la configuración de columna en un tablero](boards/add-and-edit-column-settings-on-a-board.md)
+      + [Añadir y administrar etiquetas para tarjetas](boards/add-and-manage-tags-for-cards.md)
 
 
 
