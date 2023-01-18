@@ -3,9 +3,9 @@ user-guide-description: Tutoriales de Workfront
 role: User
 level: Beginner
 feature-set: Workfront
-source-git-commit: 24d3d910949169043c51066f4a48bdaaa63f0dee
+source-git-commit: dbc68ed71e366a49a85a2941730338e34ffc5e4d
 workflow-type: tm+mt
-source-wordcount: '2367'
+source-wordcount: '2379'
 ht-degree: 2%
 
 ---
@@ -60,6 +60,9 @@ ht-degree: 2%
    + Procesos de aprobación y rutas de hitos {#approval-processes-and-milestone-paths}
       + [Explicación de los procesos de aprobación específicos de grupo](administration-and-setup/approval-processes-and-milestone-paths/group-specific-approval-processes.md)
       + [Crear hitos](administration-and-setup/approval-processes-and-milestone-paths/creating-milestones.md)
+   + Rendimiento y mantenimiento del sistema {#system-perfomance-and-maintenance}
+      + [Se encarga de una instancia de Adobe Workfront existente](administration-and-setup/system-performance-and-maintenance/take-charge-of-an-existing-workfront-instance.md)
+
 
 
 
@@ -584,7 +587,7 @@ ht-degree: 2%
    + Kanban {#kanban}
       + [Crear un equipo kanban](agile/create-a-kanban-team.md)
       + [Administrar el trabajo como equipo kanban](agile/manage-work-kanban-team.md)
-   + Paneles  {#boards}
+   + Tableros  {#boards}
       + [Buscar y crear un tablero básico](boards/find-and-create-a-basic-board.md)
       + [Administrar columnas de tablero](boards/manage-board-columns.md)
       + [Agregar tarjetas a un tablero](boards/add-cards-to-a-board.md)
