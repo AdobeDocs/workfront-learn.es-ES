@@ -8,16 +8,23 @@ role: User
 level: Beginner
 team: Technical Marketing
 kt: null
-source-git-commit: 2676209549c4805d372eacaf62daef2cd2481c11
+source-git-commit: 007114e696d50d0938a4e57b90e981427c277b72
 workflow-type: tm+mt
-source-wordcount: '214'
+source-wordcount: '209'
 ht-degree: 0%
 
 ---
 
 # Uso de extensiones de Adobe Workfront para Creative Cloud
 
-Busque y actualice el trabajo asignado en Adobe Workfront sin salir de las siguientes aplicaciones de Adobe Creative Cloud: Photoshop, XD, InDesign, Illustrator, Premiere Pro y After Effects.
+Busque y actualice el trabajo asignado en Adobe Workfront sin salir de las siguientes aplicaciones de Adobe Creative Cloud:
+
+* Photoshop
+* XD
+* InDesign
+* Illustrator
+* Premiere Pro
+* After Effects
 
 Debe instalar el complemento correcto para la aplicación de Adobe Creative Cloud que está utilizando:
 
@@ -27,7 +34,7 @@ Debe instalar el complemento correcto para la aplicación de Adobe Creative Clou
 
 >[!NOTE]
 >
->Tenga en cuenta que para **Premiere Pro** y **After Effects** la carga y revisión de vídeo y la aprobación en Workfront no están disponibles en este momento a través del complemento .
+>**Premiere Pro** y **After Effects** la carga de vídeo, y la revisión y aprobación en Workfront, no están disponibles en este momento a través del complemento .
 
 
 En este vídeo, aprenderá a hacer lo siguiente desde la aplicación de Creative Cloud:
