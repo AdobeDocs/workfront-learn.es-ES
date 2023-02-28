@@ -1,5 +1,5 @@
 ---
-title: Uso de extensiones de Adobe Workfront para Creative Cloud
+title: Uso de complementos de Adobe Workfront para Creative Cloud
 description: 'Busque y actualice el trabajo asignado en Adobe Workfront sin salir de las siguientes aplicaciones de Adobe Creative Cloud: Photoshop, XD, InDesign, Illustrator, Premiere Pro y After Effects'
 activity: use
 feature: Workfront Integrations and Apps
@@ -7,15 +7,15 @@ type: Tutorial
 role: User
 level: Beginner
 team: Technical Marketing
-kt: null
-source-git-commit: 007114e696d50d0938a4e57b90e981427c277b72
+kt: 8811
+source-git-commit: eb3fdf63197c97efb01913ed6c8f7c2c1cbf9ed8
 workflow-type: tm+mt
-source-wordcount: '209'
+source-wordcount: '217'
 ht-degree: 0%
 
 ---
 
-# Uso de extensiones de Adobe Workfront para Creative Cloud
+# Uso de complementos de Adobe Workfront para Creative Cloud
 
 Busque y actualice el trabajo asignado en Adobe Workfront sin salir de las siguientes aplicaciones de Adobe Creative Cloud:
 
@@ -41,8 +41,10 @@ En este vídeo, aprenderá a hacer lo siguiente desde la aplicación de Creative
 
 * Buscar las asignaciones de Workfront
 * Cargar archivos a Workfront
+* Agregar comentarios y miembros del equipo de etiquetas
 * Solicitar aprobaciones de documentos
 * Cargar pruebas y asignar un flujo de trabajo de pruebas
+* Tiempo de registro
 * Marque el trabajo completado
 
 >[!VIDEO](https://video.tv.adobe.com/v/3415452/?quality=12)
