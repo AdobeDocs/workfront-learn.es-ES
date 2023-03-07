@@ -2,9 +2,9 @@
 title: Tutorials de Workfront
 description: Una biblioteca de vídeos y artículos de formación diseñados para ayudarle a comprender mejor las funciones y la configuración de Workfront.  Se incluye una colección de prácticas recomendadas, ejercicios depurados y otros recursos que le ayudarán a usted y a su organización a tener éxito con Workfront.
 exl-id: 07d2a063-357e-4ced-bf67-e80025c21b45
-source-git-commit: f31f45b9f020e761a09fdd9adbb407f440505538
+source-git-commit: 59074bd3a448ad6d564f59599b8f57efc28982d1
 workflow-type: tm+mt
-source-wordcount: '206'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -45,7 +45,7 @@ Explore las últimas actualizaciones realizadas en los tutoriales de cada versi�
 
 ## Selección de personal
 
-<table>
+<table style="margin-top: 0 !important">
   <tr>
    <td>
       <a href="/help/administration-and-setup/layout-templates/find-layout-templates.md">
@@ -53,11 +53,9 @@ Explore las últimas actualizaciones realizadas en los tutoriales de cada versi�
       </a>
       <div>
          <a href="/help/administration-and-setup/layout-templates/find-layout-templates.md"><strong>Buscar y crear plantillas de diseño</strong></a>
-<!----         <br/><em>foo</em> --->
       </div>
       <p>
-        <br/>
-         Aprenda a crear una plantilla de diseño básica.
+         <em>Aprenda a crear una plantilla de diseño básica.</em>
       </p>
     </td>
    <td>
@@ -66,11 +64,9 @@ Explore las últimas actualizaciones realizadas en los tutoriales de cada versi�
       </a>
       <div>
          <a href="/help/manage-work/issues-requests/make-a-request.md"><strong>Realizar una solicitud</strong></a>
-<!----         <br/><em>foo</em> --->
       </div>
       <p>
-      <br/>
-         Obtenga información sobre cómo realizar, ver y editar solicitudes.
+         <em>Obtenga información sobre cómo realizar, ver y editar solicitudes.</em>
       </p>
 
 <td>
@@ -79,11 +75,9 @@ Explore las últimas actualizaciones realizadas en los tutoriales de cada versi�
       </a>
       <div>
          <a href="/help/reporting/basic-reporting/create-a-simple-report.md"><strong>Creación de un informe simple</strong></a>
-<!----         <br/><em>foo</em> --->
       </div>
       <p>
-        <br/>
-         Aprenda a crear un informe personalizado simple.
+         <em>Aprenda a crear un informe personalizado simple.</em>
       </p>
     </td>
   </tr>
