@@ -1,22 +1,23 @@
 ---
-title: Introducción a Workbench Analytics
-description: Descubra cómo se desarrolló el análisis y las emocionantes capacidades que es posible gracias a Joel Pettioven, responsable del producto de [!DNL Enhanced analytics].
+title: En Workfront Analytics
+description: Descubra cómo surgió el análisis y las interesantes funcionalidades que hace posible con Joel Pettigrew, product manager de [!DNL Enhanced analytics].
 activity: use
 feature: Reports and Dashboards
 type: Tutorial
 role: User
 level: Beginner
 team: Technical Marketing
+doc-type: video
 kt: 8870
-source-git-commit: d1f5c4a558f737cb8188e209a16b91b67d32285c
+source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
 workflow-type: tm+mt
 source-wordcount: '49'
 ht-degree: 0%
 
 ---
 
-# Introducción a Workbench Analytics
+# En Workfront Analytics
 
-Vea este vídeo con Joel Pettioven de Workfront, responsable del producto de [!DNL Enhanced analytics], para conocer cómo se desarrolló el análisis y las apasionantes capacidades que esto hace posible.
+Vea este vídeo con Joel Pettigrew, director de producto de Workfront para [!DNL Enhanced analytics], para conocer cómo surgió el análisis y las interesantes funcionalidades que hace posible.
 
 >[!VIDEO](https://video.tv.adobe.com/v/335042/?quality=12)

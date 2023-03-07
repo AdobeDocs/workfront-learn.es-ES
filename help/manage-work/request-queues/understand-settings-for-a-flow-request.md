@@ -1,6 +1,6 @@
 ---
 title: Explicación de la configuración de una solicitud de flujo
-description: Descubra cómo se procesa el flujo de solicitudes en [!DNL  Workfront] funciona. A continuación, cree reglas de enrutamiento, grupos de temas y temas de cola.
+description: Descubra cómo se procesa el flujo de solicitudes en [!DNL  Workfront] funciona. A continuación, cree reglas de enrutamiento, grupos de temas y temas de colas.
 activity: delpoy
 feature: Work Management
 type: Tutorial
@@ -10,7 +10,8 @@ team: Technical Marketing
 thumbnail: 335222.jpeg
 kt: 8959
 exl-id: 7def260c-7542-4b9e-b2fb-afa5f79e164b
-source-git-commit: a0aa8328842d2db1235edc42664eb0b18f4038e4
+doc-type: video
+source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
 workflow-type: tm+mt
 source-wordcount: '55'
 ht-degree: 0%
@@ -19,9 +20,9 @@ ht-degree: 0%
 
 # Explicación de la configuración de una solicitud de flujo
 
-En este vídeo, aprenderá:
+En este vídeo, aprenderá lo siguiente:
 
-* Proceso de flujo de solicitudes específico para la administración de colas
-* Cómo crear y utilizar reglas de enrutamiento, grupos de temas y temas de cola
+* Proceso de flujo de solicitud específico para la administración de colas
+* Crear y utilizar reglas de enrutamiento, grupos de temas y temas de colas
 
 >[!VIDEO](https://video.tv.adobe.com/v/335222/?quality=12)

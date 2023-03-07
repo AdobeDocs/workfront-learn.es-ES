@@ -1,6 +1,6 @@
 ---
-title: Mejore el flujo de trabajo con la integración de G Suite
-description: Obtenga información sobre cómo convertir un correo electrónico en un [!DNL Workfront] tarea o problema, ver y actualizar [!DNL Workfront] trabajar desde Gmail y aprobar [!DNL Workfront] trabajo de Gmail.
+title: Mejore su flujo de trabajo con la integración de G Suite
+description: Obtenga información sobre cómo convertir un correo electrónico en una [!DNL Workfront] tarea o problema, ver y actualizar [!DNL Workfront] trabaje desde Gmail y apruebe [!DNL Workfront] Trabaja desde Gmail.
 activity: use
 feature: Workfront Integrations and Apps
 type: Tutorial
@@ -9,19 +9,20 @@ level: Beginner
 team: Technical Marketing
 kt: 8813
 exl-id: 5a752e3c-81c3-4db9-8419-0e5de3483421
-source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
+doc-type: video
+source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
 workflow-type: tm+mt
 source-wordcount: '64'
 ht-degree: 0%
 
 ---
 
-# Mejore el flujo de trabajo con la integración de G Suite
+# Mejore su flujo de trabajo con la integración de G Suite
 
-En este vídeo, aprenderá a:
+En este vídeo, aprenderá a hacer lo siguiente:
 
-* Convertir el correo electrónico en una tarea o problema de Workfront
+* Convertir un correo electrónico en una tarea o un problema de Workfront
 * Ver y actualizar el trabajo de Workfront desde [!DNL Gmail]
-* Aprobar el trabajo de Workfront desde [!DNL Gmail]
+* Aprobar trabajo de Workfront desde [!DNL Gmail]
 
 >[!VIDEO](https://video.tv.adobe.com/v/335114/?quality=12)

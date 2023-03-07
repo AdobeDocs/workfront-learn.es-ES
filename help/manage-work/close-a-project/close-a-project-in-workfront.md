@@ -1,6 +1,6 @@
 ---
-title: Cierre de un proyecto
-description: Conozca qué información revisar y por qué es importante tener datos actualizados en un proyecto antes de cerrarlo en [!DNL  Workfront].
+title: Cerrar un proyecto
+description: Aprenda qué información revisar y por qué es importante tener datos actualizados en un proyecto antes de cerrarlo [!DNL  Workfront].
 activity: use
 feature: Work Management
 thumbnail: 335096.jpeg
@@ -10,18 +10,19 @@ level: Intermediate
 team: Technical Marketing
 kt: 8783
 exl-id: 7dad82df-ef20-4ed3-a52d-27f52d05f678
-source-git-commit: b09d634a8b4ec32eda2663f1df04cc8bc04596a9
+doc-type: video
+source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
 workflow-type: tm+mt
 source-wordcount: '59'
 ht-degree: 0%
 
 ---
 
-# Cierre de un proyecto
+# Cerrar un proyecto
 
-En este vídeo, aprenderá a:
+En este vídeo, aprenderá a hacer lo siguiente:
 
-* Información que debe revisarse en [!DNL Workfront] antes de cerrar un proyecto
+* Información para revisar en [!DNL Workfront] antes de cerrar un proyecto
 * Por qué es importante tener datos actualizados
 * Preguntas que puede hacer para mejorar futuros proyectos
 

@@ -1,6 +1,6 @@
 ---
-title: Recorrido por la aplicación Workfront
-description: Obtenga información sobre la variedad de útiles módulos de déclencheur, acción y búsqueda en la aplicación Workfront en [!DNL Adobe Workfront Fusion].
+title: Tutorial de aplicación de Workfront
+description: Obtenga información acerca de la variedad de útiles módulos de déclencheur, acción y búsqueda en la aplicación de Workfront en [!DNL Adobe Workfront Fusion].
 activity: use
 team: Technical Marketing
 type: Tutorial
@@ -9,18 +9,19 @@ role: User
 level: Beginner
 kt: 9056
 exl-id: 12e5ff29-2efe-4ce3-b4a7-0778bdf5e427
-source-git-commit: 96f963bf5a44eac234cbf9215f19f6dddbe23143
+doc-type: video
+source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
 workflow-type: tm+mt
 source-wordcount: '63'
 ht-degree: 0%
 
 ---
 
-# Recorrido por la aplicación Workfront
+# Tutorial de aplicación de Workfront
 
-En este vídeo, aprenderá sobre:
+En este vídeo, aprenderá lo siguiente:
 
-* Una variedad de útiles módulos de déclencheur, acción y búsqueda en la aplicación Workfront
+* Una variedad de útiles módulos de déclencheur, acción y búsqueda en la aplicación de Workfront
 
 >[!VIDEO](https://video.tv.adobe.com/v/335297/?quality=12)
 

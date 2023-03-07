@@ -1,6 +1,6 @@
 ---
-title: Crear una ruta de hitos y pasos de hitos
-description: Conozca cuáles son las rutas de hitos, cómo crear rutas de hitos y cómo agregar pasos de hitos.
+title: Creación de una trayectoria y pasos de hito
+description: Descubra cuáles son las rutas de hitos, cómo crear rutas de hitos y cómo agregar pasos.
 feature: System Setup and Administration
 activity: deploy
 type: Tutorial
@@ -9,23 +9,24 @@ kt: 8932
 role: Admin
 level: Intermediate
 exl-id: 1a742041-9a65-41cc-a03e-ba17b5b40135
-source-git-commit: 3ded3fe9d8b97b1c11cb382f8088930842399c98
+doc-type: video
+source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
 workflow-type: tm+mt
 source-wordcount: '69'
 ht-degree: 0%
 
 ---
 
-# Crear una ruta de hitos y pasos de hitos
+# Creación de una trayectoria y pasos de hito
 
-En este vídeo, aprenderá:
+En este vídeo, aprenderá lo siguiente:
 
 * Qué rutas de hitos son
-* Cómo se crean las rutas de hitos
-* Adición de pasos de hitos a una ruta de hitos
+* Creación de rutas de hitos
+* Adición de pasos de hito a una trayectoria de hito
 
 >[!VIDEO](https://video.tv.adobe.com/v/335204/?quality=12)
 
 >[!NOTE]
 >
->Los administradores del sistema pueden dar a los usuarios de licencias de Plan acceso para crear sus propias rutas de hitos.
+>Los administradores del sistema pueden otorgar a los usuarios de licencias de planificación el acceso para crear sus propias rutas de hitos.

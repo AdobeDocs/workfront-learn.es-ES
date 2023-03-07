@@ -1,6 +1,6 @@
 ---
-title: Personalizar el aspecto de [!UICONTROL Brand Connect]
-description: Más información sobre qué [!UICONTROL Brand Connect] se utiliza para y cómo acceder a [!UICONTROL Brand Connect] configuración de [!UICONTROL DAM de Workfront].
+title: Personalización del aspecto de [!UICONTROL Brand Connect]
+description: Obtenga información sobre qué [!UICONTROL Brand Connect] se utiliza para y cómo acceder a [!UICONTROL Brand Connect] configuraciones en [!UICONTROL WORKFRONT DAM].
 activity: use
 feature: Digital Content and Documents
 type: Tutorial
@@ -9,18 +9,19 @@ level: Beginner
 team: Technical Marketing
 kt: 8979
 exl-id: 97b51b63-0ad3-4751-aed8-afc77a9560bc
-source-git-commit: d1f5c4a558f737cb8188e209a16b91b67d32285c
+doc-type: video
+source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
 workflow-type: tm+mt
 source-wordcount: '51'
 ht-degree: 0%
 
 ---
 
-# Personalizar el aspecto de [!UICONTROL Brand Connect]
+# Personalizar la apariencia de [!UICONTROL Brand Connect]
 
-En este vídeo, aprenderá:
+En este vídeo, aprenderá lo siguiente:
 
 * Qué [!UICONTROL Brand Connect] se usa para
-* Acceso [!UICONTROL Brand Connect] configuración de [!UICONTROL DAM de Workfront]
+* Cómo acceder a [!UICONTROL Brand Connect] configuraciones en [!UICONTROL WORKFRONT DAM]
 
 >[!VIDEO](https://video.tv.adobe.com/v/335241/?quality=12)

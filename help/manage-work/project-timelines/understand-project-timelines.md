@@ -1,6 +1,6 @@
 ---
-title: Explicación de las cronologías del proyecto
-description: Aprenda a programar proyectos desde la fecha de inicio o finalización. A continuación, aprenda cómo la duración, los predecesores y las restricciones de tareas afectan al plan de proyecto.
+title: Comprender las escalas de tiempo del proyecto
+description: Obtenga información sobre cómo programar proyectos desde la fecha de inicio o finalización. A continuación, aprenda cómo afectan las restricciones de duración, predecesoras y tareas al plan del proyecto.
 activity: use
 feature: Work Management
 thumbnail: 335213.jpeg
@@ -10,19 +10,20 @@ level: Intermediate
 team: Technical Marketing
 kt: 8953
 exl-id: ba993197-9f84-4fc0-86cc-cf849c889f56
-source-git-commit: b09d634a8b4ec32eda2663f1df04cc8bc04596a9
+doc-type: video
+source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
 workflow-type: tm+mt
 source-wordcount: '50'
 ht-degree: 0%
 
 ---
 
-# Explicación de las cronologías del proyecto
+# Comprender las escalas de tiempo del proyecto
 
-En este vídeo, aprenderá sobre:
+En este vídeo, aprenderá lo siguiente:
 
 * Administración básica de la cronología del proyecto
-* Programación de proyectos desde la fecha de inicio o finalización
-* Restricciones de tareas
+* Programar proyectos desde la fecha de inicio o finalización
+* Restricciones de tarea
 
 >[!VIDEO](https://video.tv.adobe.com/v/335213/?quality=12)

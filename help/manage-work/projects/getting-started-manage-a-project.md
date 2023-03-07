@@ -1,6 +1,6 @@
 ---
 title: Introducción a la administración de un proyecto
-description: Conozca cuál es su función como administrador de proyectos y qué ver al monitorizar el trabajo del proyecto.
+description: Descubra cuál es su función como jefe de proyecto y qué ver al supervisar el trabajo del proyecto.
 activity: use
 feature: Work Management
 thumbnail: 335094.jpeg
@@ -10,7 +10,8 @@ level: Intermediate
 team: Technical Marketing
 kt: 8781
 exl-id: 4202941d-eb2d-43b5-91e8-06b0076a470d
-source-git-commit: b09d634a8b4ec32eda2663f1df04cc8bc04596a9
+doc-type: video
+source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
 workflow-type: tm+mt
 source-wordcount: '185'
 ht-degree: 0%
@@ -19,27 +20,27 @@ ht-degree: 0%
 
 # Introducción a la administración de un proyecto
 
-En este vídeo, aprenderá a:
+En este vídeo, aprenderá a hacer lo siguiente:
 
-* Aspectos a tener en cuenta al supervisar el trabajo de un proyecto
-* ¿Cuál es su función como administrador de proyectos?
+* Aspectos a tener en cuenta al supervisar el trabajo del proyecto
+* Su función como jefe de proyecto
 
 >[!VIDEO](https://video.tv.adobe.com/v/335094/?quality=12)
 
-## Administrar un proyecto: revisión
+## Administración de un proyecto: revisión
 
-Con cada proyecto que administre, establecerá una rutina de cuándo revisar los proyectos y qué desea revisar cada vez. De lo que se trata ser un director de proyecto es de mantenerse al tanto de sus proyectos y llevarlos al éxito.
+Con cada proyecto que administre, establecerá una rutina de cuándo revisar los proyectos y qué desea revisar cada vez. Mantenerse al día de sus proyectos y conducirlos al éxito es de lo que se trata ser gerente de proyecto.
 
-Cada administrador de proyectos gestiona sus proyectos de forma un poco diferente. Y cada equipo, departamento u organización puede tener diferentes requerimientos y necesidades de proyecto.
+Cada jefe de proyecto gestiona sus proyectos de forma un poco diferente. Y cada equipo, departamento u organización puede tener diferentes requisitos y necesidades del proyecto.
 
-Sin embargo, independientemente de cómo administre un proyecto, deberá hacer lo siguiente:
+Sin embargo, independientemente de cómo administre un proyecto, querrá hacer lo siguiente:
 
-* Asegúrese de que el trabajo se complete a tiempo.
+* Asegúrese de que el trabajo se termina a tiempo.
 * Anticipar problemas y riesgos.
 * Comuníquese con las partes interesadas.
-* Celebra los triunfos en el camino.
+* Celebra las victorias en el camino.
 
-En última instancia, su principal trabajo es llevar el proyecto a una finalización exitosa. [!DNL Workfront] puede ayudarle a supervisar el trabajo realizado a través de la cronología del proyecto; filtros, vistas y agrupaciones; actualizaciones; informes ... y más.
+En última instancia, su trabajo principal es dirigir el proyecto hacia la finalización exitosa. [!DNL Workfront] puede ayudarle a monitorizar el trabajo que se realiza a través de la cronología del proyecto; filtros, vistas y agrupaciones; actualizaciones; informes... y más.
 
 <!---
 learn more urls

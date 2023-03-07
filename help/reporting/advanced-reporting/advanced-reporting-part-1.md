@@ -1,6 +1,6 @@
 ---
-title: Parte 1 de los informes avanzados
-description: Comprender una revisión de la creación de informes, una introducción a [!UICONTROL Explorador de API] y el modo de texto, y un estudio en profundidad de los filtros de modo de texto.
+title: Informes avanzados, parte 1
+description: Comprender una revisión de la creación de informes, una introducción a [!UICONTROL Explorador de API] y modo texto, y un estudio en profundidad de los filtros de modo texto.
 activity: use
 feature: Reports and Dashboards
 thumbnail: 3409632.png
@@ -9,16 +9,18 @@ role: User
 level: Experienced
 team: Technical Marketing
 kt: 11196
-source-git-commit: e2b5115d03e0eaa47cba3397b0aeb01044441083
+exl-id: dec3d807-41b2-47a6-b4ff-476313b6fc07
+doc-type: video
+source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
 workflow-type: tm+mt
 source-wordcount: '67'
 ht-degree: 0%
 
 ---
 
-# Parte 1 de los informes avanzados
+# Informes avanzados, parte 1
 
-En este vídeo, aprenderá:
+En este vídeo, aprenderá lo siguiente:
 
 * Una revisión de la creación de informes
 * Cómo utilizar el explorador de API y el modo de texto

@@ -1,6 +1,6 @@
 ---
-title: Más allá del tutorial de asignación básico
-description: Cambie algunos campos de proyecto en el escenario que ha creado anteriormente utilizando las fórmulas del panel de asignación en [!DNL Adobe Workfront Fusion].
+title: Tutorial de asignación más allá de básico
+description: Cambie algunos campos de proyecto en el escenario que creó anteriormente mediante las fórmulas del panel de asignación en [!DNL Adobe Workfront Fusion].
 activity: use
 team: Technical Marketing
 type: Tutorial
@@ -9,50 +9,51 @@ role: User
 level: Beginner
 kt: 9004
 exl-id: 3161f088-2d94-4a05-9151-d4ddc638afb0
-source-git-commit: 0618bf27478744e0e9976015a24c5ec8519efbb7
+doc-type: video
+source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
 workflow-type: tm+mt
 source-wordcount: '297'
 ht-degree: 0%
 
 ---
 
-# Más allá del tutorial de asignación básico
+# Tutorial de asignación más allá de básico
 
 ## Información general
 
-Cambie el nombre del proyecto, la fecha de inicio planificada y la prioridad desde el &quot;Diseño de escenario inicial&quot; que ha creado en el primer tutorial utilizando las fórmulas del panel de asignación.
+Cambie el nombre del proyecto, la fecha planificada de inicio y la prioridad desde el &quot;Diseño del escenario inicial&quot; creado en el primer tutorial utilizando las fórmulas del panel de asignación.
 
-![Una imagen del escenario de fusión](assets/understand-the-basics-1.png)
+![Una imagen del escenario de Fusion](assets/understand-the-basics-1.png)
 
-## Más allá del tutorial de asignación básico
+## Tutorial de asignación más allá de básico
 
-Workfront recomienda ver el vídeo tutorial del ejercicio antes de intentar recrear el ejercicio en su propio entorno.
+Workfront recomienda ver el vídeo del tutorial de ejercicios antes de intentar recrear el ejercicio en su propio entorno.
 
 >[!VIDEO](https://video.tv.adobe.com/v/335264/?quality=12)
 
 >[!TIP]
 >
->Para obtener instrucciones paso a paso sobre cómo completar el tutorial, vaya a la [Más allá del tutorial de asignación básico](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/exercises/beyond-basic-mapping.html?lang=en) ejercicio.
+>Para obtener instrucciones paso a paso sobre cómo completar el tutorial, vaya a la [Tutorial de asignación más allá de básico](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/exercises/beyond-basic-mapping.html?lang=en) hacer ejercicio.
 
-## Su turno
+## Tu turno
 
 >[!NOTE]
 >
->Los ejercicios prácticos y los desafíos son opcionales y no son necesarios para completar la formación de Fusion.
+>Los ejercicios y desafíos de práctica son opcionales y no son necesarios para completar el entrenamiento de Fusion.
 
-Este ejercicio de práctica se basa en lo aprendido en el tutorial, pero no se proporciona la solución.
+Este ejercicio práctico se basa en lo que ha aprendido en el tutorial, pero no se proporciona la solución.
 
-Cree un clon del tutorial &quot;Más allá de la asignación básica&quot; que acaba de completar. Continuará usando ese escenario en el siguiente tutorial, por lo que no desea modificarlo con este ejercicio.
+Cree un clon del tutorial &quot;Más allá de la asignación básica&quot; que acaba de completar. En el siguiente tutorial seguirá utilizando ese escenario, por lo que no desea modificarlo con este ejercicio.
 
-Cree una tarea en cada proyecto que haya creado como parte del tutorial anterior.
+Crear una tarea en cada proyecto creado como parte del tutorial anterior.
 
-* Utilice &quot;Initial Planning for a (Project Color) Project&quot; como nombre de la tarea.
-* Defina la fecha de inicio planeada para que sea la misma que la fecha de inicio planificada para el proyecto.
+* Utilice &quot;Planificación inicial de un proyecto (color del proyecto)&quot; como nombre de la tarea.
+* Establezca la fecha planificada de inicio para que sea la misma que la fecha planificada de inicio del proyecto.
 * Establezca la duración en 3 días y el tipo de duración en Asignación calculada.
-* Defina las horas planificadas en el 10 % de la clasificación de confianza en horas.
-* Establezca la Restricción de tareas en Lo antes posible.
+* Establezca las horas planificadas en el 10 % de la clasificación de confianza en horas.
+* Establezca la Restricción de tarea en Lo antes posible.
 
-**Desafío:** Si el color del proyecto es Rojo, asigne la tarea a Rick Kuvec. Si el color del proyecto es amarillo, asigne la tarea a Mary Smith. Si el color del proyecto es Verde, asigne la tarea a Ida Blankness.
+**Reto:** Si el color del proyecto es Rojo, asigne la tarea a Rick Kuvec. Si el color del proyecto es Amarillo, asigne la tarea a Mary Smith. Si el color del proyecto es Verde, asigne la tarea a Ida Blankenship.
 
 ## ¿Desea obtener más información? Recomendamos lo siguiente:
 

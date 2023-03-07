@@ -1,6 +1,6 @@
 ---
-title: Profundizar en el uso de marcos de tiempo y gráficos adicionales en [!UICONTROL Análisis mejorado]
-description: Aprenda a explorar en profundidad un proyecto en el gráfico de plan de vuelo para que el gráfico Desglosar y el gráfico Tareas en vuelo aparezcan en Workfront.
+title: Profundice en el uso de marcos de tiempo y gráficos adicionales en [!UICONTROL Análisis mejorado]
+description: Aprenda a explorar en profundidad un proyecto en el gráfico del plan de vuelo para que el gráfico de evolución y el gráfico de tareas en vuelo aparezcan en Workfront.
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335048.png
@@ -10,18 +10,19 @@ level: Beginner
 team: Technical Marketing
 kt: 8730
 exl-id: a6b4b6d2-f45a-452f-990b-bf8fc7d263ff
-source-git-commit: 252ba3ba44f22519a35899fcda9c6bca597a6c2c
+doc-type: video
+source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
 workflow-type: tm+mt
 source-wordcount: '89'
 ht-degree: 0%
 
 ---
 
-# Profundizar en el uso de marcos de tiempo y gráficos adicionales en [!UICONTROL Análisis mejorado]
+# Profundice en el uso de marcos de tiempo y gráficos adicionales en [!UICONTROL Análisis mejorado]
 
-En este vídeo, aprenderá:
+En este vídeo, aprenderá lo siguiente:
 
-* Cómo explorar en profundidad un proyecto en el gráfico de plan de vuelo para que aparezca el gráfico Desglose y el gráfico Tareas en vuelo
-* Cómo crear un filtro de intervalo de tiempo para acercar dentro de un intervalo de fechas
+* Cómo explorar en profundidad un proyecto en el gráfico del plan de vuelo para que aparezcan el gráfico de evolución y las Tareas en el gráfico de vuelo
+* Cómo crear un filtro de periodo de tiempo para ampliar dentro de un intervalo de fechas
 
 >[!VIDEO](https://video.tv.adobe.com/v/335048/?quality=12)

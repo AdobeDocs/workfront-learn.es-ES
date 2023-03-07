@@ -10,7 +10,8 @@ team: Technical Marketing
 thumbnail: 335178.png
 kt: 8915
 exl-id: 25223b40-1fef-4ae1-8a9b-3235f88ec30f
-source-git-commit: 2b9a31b45ff94222a77c05292ee5b9d8229f5f0b
+doc-type: video
+source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
 workflow-type: tm+mt
 source-wordcount: '50'
 ht-degree: 0%
@@ -19,9 +20,9 @@ ht-degree: 0%
 
 # Utilizar la expresión CONCAT en un campo calculado
 
-En este vídeo, aprenderá:
+En este vídeo, aprenderá lo siguiente:
 
 * Qué hace la expresión CONCAT
-* Creación de una expresión de texto CONCAT en un campo calculado
+* Cómo crear una expresión de texto CONCAT en un campo calculado
 
 >[!VIDEO](https://video.tv.adobe.com/v/335178/?quality=12)

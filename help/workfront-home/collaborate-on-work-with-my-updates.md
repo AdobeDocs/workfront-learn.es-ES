@@ -1,6 +1,6 @@
 ---
-title: Colaborar en el trabajo con mis actualizaciones
-description: Acceda a los elementos de trabajo asignados a usted mediante la página Mis actualizaciones .
+title: Colaborar en el trabajo con Mis actualizaciones
+description: Acceda a los elementos de trabajo que tiene asignados mediante la página Mis actualizaciones.
 feature: Work Management
 type: Tutorial
 role: User
@@ -10,20 +10,21 @@ team: Technical Marketing
 thumbnail: 340342.png
 kt: 9721
 exl-id: 76e9dc5d-05e7-40e9-af05-af880018170c
-source-git-commit: adf12d7846d2a1b4c32513a3955c080905044576
+doc-type: video
+source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
 workflow-type: tm+mt
 source-wordcount: '66'
 ht-degree: 0%
 
 ---
 
-# Colaborar en el trabajo con mis actualizaciones
+# Colaborar en el trabajo con Mis actualizaciones
 
-En este vídeo, aprenderá a:
+En este vídeo, aprenderá a hacer lo siguiente:
 
-* Acceda a los elementos de trabajo que se le ha pedido que revise con la página Mis actualizaciones .
+* Acceda a los elementos de trabajo que se le ha pedido que revise en la página Mis actualizaciones
 * Completar una revisión de las solicitudes de aprobación
-* Utilice la sección Menciones para ver las actualizaciones que ha incluido en
+* Utilice la sección Menciones para ver las actualizaciones en las que se le ha incluido
 * Responder a las actualizaciones
 
 >[!VIDEO](https://video.tv.adobe.com/v/340342/?quality=12)

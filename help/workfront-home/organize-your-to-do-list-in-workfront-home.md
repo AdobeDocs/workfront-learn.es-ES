@@ -1,6 +1,6 @@
 ---
-title: Organice la lista de tareas pendientes en [!DNL Workfront] [!UICONTROL Página principal]
-description: Aprenda a filtrar y ordenar el trabajo asignado, identificar el trabajo listo para iniciarse y aceptar asignaciones de trabajo en [!DNL  Workfront].
+title: Organizar la lista de tareas pendientes en [!DNL Workfront] [!UICONTROL Inicio]
+description: Obtenga información sobre cómo filtrar y ordenar el trabajo asignado, identificar el trabajo que está listo para iniciarse y aceptar asignaciones de trabajo en [!DNL  Workfront].
 feature: Work Management
 type: Tutorial
 role: User
@@ -10,30 +10,31 @@ team: Technical Marketing
 thumbnail: 335099.png
 kt: 8798
 exl-id: fd941683-5866-453a-8e15-70b35f183730
-source-git-commit: adf12d7846d2a1b4c32513a3955c080905044576
+doc-type: video
+source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
 workflow-type: tm+mt
 source-wordcount: '130'
 ht-degree: 0%
 
 ---
 
-# Organice la lista de tareas pendientes en [!DNL Workfront] [!UICONTROL Página principal]
+# Organizar la lista de tareas pendientes en [!DNL Workfront] [!UICONTROL Inicio]
 
 >[!NOTE]
 >
->La variable [!UICONTROL [!DNL Sort by]] en la [!UICONTROL Lista de trabajo] se ha cambiado el nombre a [!UICONTROL Agrupar por], y las tareas y los problemas también se pueden agrupar por sus [!UICONTROL Fecha de inicio planeada].
+>El [!UICONTROL [!DNL Sort by]] en la opción [!UICONTROL Lista de trabajos] se ha cambiado a [!UICONTROL Agrupar por], y las tareas y problemas también se pueden agrupar por sus [!UICONTROL Fecha planificada de inicio].
 
-En este vídeo, aprenderá a:
+En este vídeo, aprenderá a hacer lo siguiente:
 
 * Ordenar asignaciones de trabajo
 * Filtrar asignaciones de trabajo por tipo
-* Identificar el trabajo listo para empezar
+* Identificar el trabajo que está listo para iniciarse
 * Aceptar asignaciones de trabajo
 
 >[!VIDEO](https://video.tv.adobe.com/v/335099/?quality=12)
 
 >[!NOTE]
 >
->De forma predeterminada, los primeros elementos que vencen aparecen en la parte superior del [!UICONTROL Lista de trabajo]. Si desea que los elementos de trabajo aparezcan en orden descendente, haga clic en las flechas a la derecha del grupo por área.
+>De forma predeterminada, los primeros elementos vencidos aparecen en la parte superior de la [!UICONTROL Lista de trabajos]. Si desea que los elementos de trabajo aparezcan en orden descendente, haga clic en las flechas a la derecha del área Agrupar por.
 
-![Imagen de una pantalla que muestra la lista de trabajo agrupada por fecha de vencimiento.](assets/work-list-arrows.png)
+![Imagen de una pantalla que muestra su lista de trabajos agrupada por fecha de vencimiento.](assets/work-list-arrows.png)

@@ -1,11 +1,12 @@
 ---
 title: Cómo revisar y aprobar el trabajo digital
-description: Aprenda a buscar y realizar aprobaciones para proyectos, tareas, problemas, documentos y pruebas.
+description: Obtenga información sobre cómo buscar y realizar aprobaciones de proyectos, tareas, problemas, documentos y pruebas.
 activity: use
 type: Tutorial
 team: Technical Marketing
 kt: 8808
-source-git-commit: 3ded3fe9d8b97b1c11cb382f8088930842399c98
+doc-type: video
+source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
 workflow-type: tm+mt
 source-wordcount: '51'
 ht-degree: 0%
@@ -14,11 +15,11 @@ ht-degree: 0%
 
 # Revisar y aprobar el trabajo digital
 
-En este vídeo, aprenderá a:
+En este vídeo, aprenderá a hacer lo siguiente:
 
 * Buscar aprobaciones
-* Realizar aprobaciones de proyectos, tareas y problemas
-* Realizar aprobaciones de documentos
+* Aprobar proyectos, tareas y problemas
+* Realización de aprobaciones de documentos
 * Realización de aprobaciones para pruebas
 
 >[!VIDEO](https://video.tv.adobe.com/v/335108/?quality=12)

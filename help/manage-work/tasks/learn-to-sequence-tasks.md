@@ -1,6 +1,6 @@
 ---
 title: Aprenda a secuenciar tareas
-description: Descubra qué es un predecesor y cómo secuencian tareas en un proyecto. A continuación, aprenda a utilizar duraciones y predecesores para crear una cronología.
+description: Descubra qué es un predecesor y cómo secuencian las tareas de un proyecto. A continuación, aprenda a utilizar duraciones y predecesoras para crear una cronología.
 activity: use
 feature: Work Management
 thumbnail: 335091.jpeg
@@ -10,7 +10,8 @@ level: Intermediate
 team: Technical Marketing
 kt: 8778
 exl-id: 4044743f-71f8-4416-a365-575d90d5bd70
-source-git-commit: b09d634a8b4ec32eda2663f1df04cc8bc04596a9
+doc-type: video
+source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
 workflow-type: tm+mt
 source-wordcount: '66'
 ht-degree: 0%
@@ -19,12 +20,12 @@ ht-degree: 0%
 
 # Aprenda a secuenciar tareas
 
-En este vídeo, aprenderá:
+En este vídeo, aprenderá lo siguiente:
 
-* En qué se encuentra un predecesor [!DNL  Workfront]
-* Secuencia de tareas de secuencia de predecesores en un proyecto
-* Cómo usar duraciones y predecesores para crear una cronología
-* Cambio o introducción de predecesores
+* Qué es un predecesor [!DNL  Workfront]
+* Secuenciar tareas en un proyecto
+* Cómo utilizar duraciones y predecesoras para crear una cronología
+* Cómo cambiar o introducir predecesoras
 
 >[!VIDEO](https://video.tv.adobe.com/v/335091/?quality=12)
 

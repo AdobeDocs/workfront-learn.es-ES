@@ -1,6 +1,6 @@
 ---
-title: Recorrido inicial en el diseño de situaciones
-description: Aprenda a crear carpetas y nuevos escenarios, usar el diseñador de escenarios y crear un escenario básico en [!DNL Adobe Workfront Fusion].
+title: Tutorial de diseño del escenario inicial
+description: Obtenga información sobre cómo crear carpetas y nuevos escenarios, utilizar el diseñador de escenarios y crear un escenario básico en [!DNL Adobe Workfront Fusion].
 activity: use
 team: Technical Marketing
 type: Tutorial
@@ -9,24 +9,25 @@ role: User
 level: Beginner
 kt: 9001
 exl-id: 78408bf8-e676-4e49-b023-5ea0a6999229
-source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
+doc-type: video
+source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
 workflow-type: tm+mt
 source-wordcount: '132'
 ht-degree: 0%
 
 ---
 
-# Recorrido inicial en el diseño de situaciones
+# Tutorial de diseño del escenario inicial
 
 ## Información general
 
 Cree un nuevo proyecto en Workfront para cada fila del archivo CSV de lista de proyectos.
 
-![Una imagen del escenario de fusión](assets/understand-the-basics-1.png)
+![Una imagen del escenario de Fusion](assets/understand-the-basics-1.png)
 
-Workfront recomienda ver el vídeo tutorial del ejercicio antes de intentar recrear el ejercicio en su propio entorno.
+Workfront recomienda ver el vídeo del tutorial de ejercicios antes de intentar recrear el ejercicio en su propio entorno.
 
-En este vídeo, aprenderá a:
+En este vídeo, aprenderá a hacer lo siguiente:
 
 * Creación de carpetas y nuevos escenarios
 * Usar el diseñador de escenarios
@@ -36,7 +37,7 @@ En este vídeo, aprenderá a:
 
 >[!TIP]
 >
->Para obtener instrucciones paso a paso sobre cómo completar el tutorial, vaya a la [Introducción al diseño del escenario inicial](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/exercises/initial-scenario-design.html?lang=en) ejercicio.
+>Para obtener instrucciones paso a paso sobre cómo completar el tutorial, vaya a la [Tutorial de diseño del escenario inicial](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/exercises/initial-scenario-design.html?lang=en) hacer ejercicio.
 
 
 

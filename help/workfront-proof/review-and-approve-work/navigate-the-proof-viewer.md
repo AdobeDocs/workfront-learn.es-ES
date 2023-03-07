@@ -1,6 +1,6 @@
 ---
-title: Navegar por el visor de pruebas
-description: Aprenda a mover una prueba, acercar o alejar el contenido, usar la columna de miniaturas, filtrar comentarios de prueba y mucho más en la [!DNL  Workfront] visor de pruebas.
+title: Navegación por el visor de pruebas
+description: Obtenga información sobre cómo mover una prueba, aumentar o reducir el contenido, utilizar la columna de miniaturas, filtrar comentarios de prueba y mucho más en la [!DNL  Workfront] visualizador de pruebas.
 activity: use
 feature: Workfront Proof
 type: Tutorial
@@ -10,21 +10,22 @@ team: Technical Marketing
 thumbnail: 335140.png
 kt: 8840
 exl-id: 1534a43f-1c52-4078-b47b-11d96b7b5c98
-source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
+doc-type: video
+source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
 workflow-type: tm+mt
 source-wordcount: '73'
 ht-degree: 0%
 
 ---
 
-# Navegar por el visor de pruebas
+# Navegación por el visor de pruebas
 
-En este vídeo, aprenderá a:
+En este vídeo, aprenderá a hacer lo siguiente:
 
-* Mover una prueba y acercar o alejar el contenido
-* Utilice la columna de miniatura para obtener una vista previa de las páginas de una prueba y desplazarse por ellas
-* Filtrar la columna de comentarios
-* Cierre la prueba
+* Mueva una prueba y aumente o reduzca el contenido
+* Utilice la columna de miniatura para obtener una vista previa de una prueba y navegar por sus páginas
+* Filtrado de la columna de comentarios
+* Cerrar la revisión
 
 >[!VIDEO](https://video.tv.adobe.com/v/335140/?quality=12)
 

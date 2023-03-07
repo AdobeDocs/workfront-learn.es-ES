@@ -1,6 +1,6 @@
 ---
 title: ¿Qué es una plantilla de flujo de trabajo automatizada?
-description: Descubra qué es una plantilla de flujo de trabajo de prueba automatizada y cómo los usuarios de prueba pueden beneficiarse de las plantillas. Comience a planificar qué plantillas crear.
+description: Descubra qué es una plantilla de flujo de trabajo de revisión automatizada y cómo los usuarios de prueba pueden beneficiarse de las plantillas. Empiece a planificar las plantillas que desea crear.
 activity: use
 feature: Workfront Proof
 type: Tutorial
@@ -10,7 +10,8 @@ team: Technical Marketing
 thumbnail: 335129.png
 kt: 8829
 exl-id: 4b64aff1-b917-471b-a1ba-40a9ebe883e9
-source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
+doc-type: video
+source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
 workflow-type: tm+mt
 source-wordcount: '62'
 ht-degree: 0%
@@ -19,10 +20,10 @@ ht-degree: 0%
 
 # ¿Qué es una plantilla de flujo de trabajo automatizada?
 
-En este vídeo, aprenderá:
+En este vídeo, aprenderá lo siguiente:
 
-* Qué es una plantilla de flujo de trabajo automatizada
-* Cómo pueden beneficiarse los usuarios de prueba de las plantillas de flujo de trabajo
+* Qué es una plantilla de flujo de trabajo automatizado
+* Ventajas de las plantillas de flujo de trabajo para los usuarios de prueba
 * Cómo empezar a planificar qué plantillas crear
 
 >[!VIDEO](https://video.tv.adobe.com/v/335129/?quality=12)

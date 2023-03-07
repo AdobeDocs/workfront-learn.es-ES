@@ -1,5 +1,5 @@
 ---
-title: Probar los flujos de trabajo como parte de las líneas de tiempo del proyecto
+title: Flujos de trabajo de pruebas como parte de cronologías de proyectos
 description: Conozca las recomendaciones para combinar un proceso de revisión y aprobación con una cronología de proyecto en [!DNL  Workfront].
 activity: use
 feature: Workfront Proof
@@ -9,18 +9,19 @@ level: Beginner, Intermediate
 team: Technical Marketing
 kt: 8825
 exl-id: 51cc65eb-2ac8-4de5-88d1-67c1556432ba
-source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
+doc-type: video
+source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
 workflow-type: tm+mt
 source-wordcount: '46'
 ht-degree: 0%
 
 ---
 
-# Flujos de trabajo de prueba como parte de las cronologías del proyecto
+# Flujos de trabajo de prueba como parte de cronologías de proyecto
 
-En este vídeo, aprenderá:
+En este vídeo, aprenderá lo siguiente:
 
-* Recommendations para combinar un proceso de revisión y aprobación con una cronología de proyecto
+* Recommendations para fusionar un proceso de revisión y aprobación con una cronología de proyecto
 
 >[!VIDEO](https://video.tv.adobe.com/v/335125/?quality=12)
 

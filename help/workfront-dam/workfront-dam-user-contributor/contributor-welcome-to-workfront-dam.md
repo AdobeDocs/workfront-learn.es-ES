@@ -1,6 +1,6 @@
 ---
-title: Obtenga información sobre [!UICONTROL DAM de Workfront], curso para colaboradores
-description: Obtenga información sobre lo que se tratará en la [!UICONTROL DAM de Workfront], curso de colaborador .
+title: Obtenga información acerca de [!UICONTROL WORKFRONT DAM], curso de colaborador
+description: Obtenga información sobre lo que se cubre en la [!UICONTROL WORKFRONT DAM], Curso de colaborador.
 activity: use
 feature: Digital Content and Documents
 type: Tutorial
@@ -8,20 +8,21 @@ role: User
 level: Beginner
 team: Technical Marketing
 kt: 8991
-source-git-commit: d1f5c4a558f737cb8188e209a16b91b67d32285c
+doc-type: video
+source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
 workflow-type: tm+mt
 source-wordcount: '121'
 ht-degree: 0%
 
 ---
 
-# Colaborador: bienvenido a [!UICONTROL DAM de Workfront]
+# Colaborador: bienvenido a [!UICONTROL WORKFRONT DAM]
 
-[!UICONTROL DAM de Workfront] es una solución de administración de recursos digitales (DAM) diseñada especialmente para administrar, controlar y publicar sus recursos creativos y de marketing. Se puede utilizar junto con flujos de trabajo que ya tiene en [!DNL Workfront], donde puede estar administrando proyectos, asignaciones de tareas y otro trabajo. Uso [!DNL Workfront] para crear solicitudes de recursos y administrar la producción y revisión de recursos. Como usuario colaborador en [!UICONTROL DAM de Workfront], puede depurar, almacenar y distribuir recursos completados y aprobados.
+[!UICONTROL WORKFRONT DAM] es una solución de administración de activos digitales (DAM) diseñada especialmente para administrar, controlar y publicar sus recursos creativos y de marketing. Se puede utilizar junto con flujos de trabajo que ya tiene en [!DNL Workfront], donde puede administrar proyectos, asignaciones de tareas y otros trabajos. Uso [!DNL Workfront] para crear solicitudes de recursos y, a continuación, administrar la producción y revisión de recursos. Como usuario colaborador en [!UICONTROL WORKFRONT DAM], puede depurar, almacenar y distribuir recursos completados y aprobados.
 
-En este vídeo, aprenderá:
+En este vídeo, aprenderá lo siguiente:
 
-* Qué aprenderá durante este curso
-* Qué [!UICONTROL DAM de Workfront] es y cómo puede usarlo
+* Lo que aprenderá durante este curso
+* Qué [!UICONTROL WORKFRONT DAM] es y cómo se puede utilizar
 
 >[!VIDEO](https://video.tv.adobe.com/v/335251/?quality=12)

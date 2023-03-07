@@ -1,6 +1,6 @@
 ---
-title: Recorrido por la herramienta de desarrollo
-description: Obtenga información sobre cómo instalar y utilizar las diferentes áreas de la [!DNL Adobe Workfront Fusion Dev Tool] para profundizar en los trucos de diseño de escenarios avanzados.
+title: Tutorial de la herramienta Desarrollo
+description: Aprenda a instalar y utilizar las diferentes áreas de la [!DNL Adobe Workfront Fusion Dev Tool] para profundizar en los trucos avanzados de diseño de escenarios.
 activity: use
 team: Technical Marketing
 type: Tutorial
@@ -9,35 +9,36 @@ role: User
 level: Beginner
 kt: 9062
 exl-id: 93717347-6b51-427b-82e3-ca7becbf5f0f
-source-git-commit: 96f963bf5a44eac234cbf9215f19f6dddbe23143
+doc-type: video
+source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
 workflow-type: tm+mt
 source-wordcount: '165'
 ht-degree: 0%
 
 ---
 
-# Recorrido por la herramienta de desarrollo
+# Tutorial de la herramienta Desarrollo
 
 ## Información general
 
-Instale y utilice las diferentes áreas de la herramienta de desarrollo de Workfront para profundizar en las solicitudes/respuestas realizadas y en los trucos avanzados de diseño de escenarios.
+Instale y utilice las diferentes áreas de la herramienta de desarrollo de Workfront para profundizar en las solicitudes/respuestas realizadas y los trucos avanzados de diseño de escenarios.
 
-![Una imagen de un escenario de fusión y la herramienta de desarrollo](assets/troubleshooting-and-error-handling-1.png)
+![Imagen de un escenario de Fusion y la herramienta de desarrollo](assets/troubleshooting-and-error-handling-1.png)
 
-## Recorrido por la herramienta de desarrollo
+## Tutorial de la herramienta Desarrollo
 
-Workfront recomienda ver el vídeo tutorial del ejercicio antes de intentar recrear el ejercicio en su propio entorno.
+Workfront recomienda ver el vídeo del tutorial de ejercicios antes de intentar recrear el ejercicio en su propio entorno.
 
 >[!VIDEO](https://video.tv.adobe.com/v/335303/?quality=12)
 
 >[!TIP]
 >
->Para obtener instrucciones paso a paso sobre cómo completar el tutorial, vaya a la [Recorrido por la herramienta de desarrollo](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/exercises/devtool.html?lang=en) ejercicio.
+>Para obtener instrucciones paso a paso sobre cómo completar el tutorial, vaya a la [Tutorial de la herramienta Desarrollo](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/exercises/devtool.html?lang=en) hacer ejercicio.
 
 
 ## Descargar la herramienta de desarrollo
 
-La herramienta de desarrollo tiene una serie de funciones avanzadas que mejoran su capacidad para comprender y solucionar problemas. Descargue el documento &quot;workfront-fusión-devtool.zip&quot; que se encuentra en la carpeta Fusion Exercise Files de su unidad de prueba.
+La herramienta de desarrollo tiene una serie de funciones avanzadas que mejoran su capacidad para comprender y solucionar problemas de escenarios. Descargue el documento &quot;workfront-fusion-devtool.zip&quot; que se encuentra en la carpeta Archivos de ejercicios de Fusion de la unidad de prueba.
 
 
 

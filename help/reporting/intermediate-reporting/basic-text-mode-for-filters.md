@@ -1,6 +1,6 @@
 ---
 title: Comprender el modo de texto básico de los filtros
-description: Aprenda qué es el modo de texto, qué es el caso del camello y algún modo de texto básico de "Plug and Play" que puede utilizar en los filtros de informe en Workfront.
+description: Aprenda qué es el modo de texto, qué es camel case y algunos modos de texto básicos "plug and play" que puede utilizar en los filtros de informes en Workfront.
 activity: use
 feature: Reports and Dashboards
 thumbnail: 336820.png
@@ -10,7 +10,8 @@ level: Intermediate
 team: Technical Marketing
 kt: 9086
 exl-id: b3f16468-b720-468d-887a-b313fc32bd89
-source-git-commit: 252ba3ba44f22519a35899fcda9c6bca597a6c2c
+doc-type: video
+source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
 workflow-type: tm+mt
 source-wordcount: '416'
 ht-degree: 0%
@@ -23,30 +24,30 @@ ht-degree: 0%
 >
 >Requisitos previos:
 >
->* Explicación de los elementos de informes
->* Comprender los componentes del sistema de informes
->* Crear un filtro básico
+>* Comprender los elementos de informes
+>* Comprender los componentes de informes
+>* Creación de un filtro básico
 
 
 >[!TIP]
 >
->* Para comprender mejor el modo de texto, le recomendamos que consulte el evento de seminario web grabado [Pregunte al experto: Introducción a los informes de modo de texto](https://experienceleague.adobe.com/docs/workfront-events/events/reporting-and-dashboards/introduction-to-text-mode-reporting.html?lang=en), que tiene una hora de longitud.
->* Para obtener más información sobre el modo de texto, le recomendamos que consulte [Informes avanzados](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/advanced-reporting/welcome-to-advanced-reporting.html?lang=en) tutoriales, que juntos tienen una duración de cinco horas y media.
+>* Para comprender mejor el modo de texto, le recomendamos que vea el evento del seminario web grabado [Pregunte al experto - Introducción a los informes en modo texto](https://experienceleague.adobe.com/docs/workfront-events/events/reporting-and-dashboards/introduction-to-text-mode-reporting.html?lang=en), que tiene una hora de duración.
+>* Para obtener más información acerca del modo de texto, le recomendamos que vea la [Informes avanzados](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/advanced-reporting/welcome-to-advanced-reporting.html?lang=en) tutoriales, que en conjunto tienen una duración de cinco horas y media.
 
 
 
-En este vídeo, aprenderá:
+En este vídeo, aprenderá lo siguiente:
 
 * Qué modo de texto es
-* Qué caso de camello es
-* Algunos modos de texto &quot;Plug and Play&quot; básicos que se pueden usar en los filtros de informe
+* Qué es Camel Case
+* Algunos modos de texto básicos &quot;Plug and Play&quot; que puede utilizar en los filtros de informes
 
 >[!VIDEO](https://video.tv.adobe.com/v/336820/?quality=12)
 
 
-## Tarea: filtre las tareas en las que he marcado &quot;Listo con mi parte&quot;
+## Tarea: filtre las tareas en las que haya marcado &quot;Listo con mi parte&quot;
 
-El siguiente modo de texto excluirá las tareas en las que el usuario ha marcado &quot;Listo con mi parte&quot;. Todo lo que tiene que hacer es crear un filtro de tareas, agregar cualquier regla de filtro que desee, luego cambiar al modo de texto y pegar el código siguiente después de cualquier modo de texto que vea en el filtro.
+El siguiente modo de texto excluirá las tareas en las que un usuario haya marcado &quot;Listo con mi parte&quot;. Todo lo que tiene que hacer es crear un filtro de tareas, agregar las reglas de filtro que desee, luego cambiar al modo de texto y pegar el código siguiente después de cualquier modo de texto que vea en el filtro.
 
 ```
 EXISTS:1:$$OBJCODE=ASSGN  
@@ -56,7 +57,7 @@ EXISTS:1:status_Mod=notin
 EXISTS:1:assignedToID=$$USER.ID 
 ```
 
-## Tarea: Mostrar todas las tareas que esperan mi aprobación
+## Tarea: mostrarme todas las tareas pendientes de aprobación
 
 ```
 approvalProcessID_Mod=notblank
@@ -65,9 +66,9 @@ currentUserApproversMM:ID_Mod=in
 currentUserApproversMM_Join=allowingnull
 ```
 
-## Tarea: Mostrar todas las tareas que he aprobado
+## Tarea - Mostrarme todas las tareas que he aprobado
 
-Cree un informe de tarea con los filtros que desee, vaya a la ficha Filtro y haga clic en Cambiar al modo Texto. Agregue este código a lo que ya esté allí:
+Cree un informe de tareas con los filtros que desee, vaya a la pestaña Filtro y haga clic en Cambiar a modo de texto. Agregue este código a lo que ya esté allí:
 
 ```
 approvalProcessID_Mod=notblank
@@ -75,7 +76,7 @@ approverStatuses:approvedByID=$$USER.ID
 approverStatuses:approvedByID_Mod=in
 ```
 
-## Tarea: Muéstreme todas las tareas que tengan al menos un predecesor entre proyectos
+## Tarea: mostrarme todas las tareas que tienen al menos una predecesora entre proyectos
 
 ```
 predecessorsMM:ID_Mod=notblank
@@ -83,9 +84,9 @@ predecessorsMM:projectID=FIELD:projectID
 predecessorsMM:projectID_Mod=ne
 ```
 
-## Tarea: Mostrar todas las tareas que asigné a otras
+## Tarea - Mostrarme todas las tareas que he asignado a otras personas
 
-Cree un informe de tarea con los filtros que desee, vaya a la ficha Filtro y haga clic en Cambiar al modo Texto. Agregue este código a lo que ya esté allí:
+Cree un informe de tareas con los filtros que desee, vaya a la pestaña Filtro y haga clic en Cambiar a modo de texto. Agregue este código a lo que ya esté allí:
 
 ```
 EXISTS:1:$$OBJCODE=ASSGN
@@ -93,17 +94,9 @@ EXISTS:1:taskID=FIELD:ID
 EXISTS:1:assignedByID=$$USER.ID
 ```
 
-Esto le mostrará todas las tareas en las que el usuario que ha iniciado sesión asignó al menos a uno de los usuarios asignados actualmente. Si varias personas asignaron a los usuarios, solo el nombre de la primera persona que asignó a alguien aparecerá como &quot;Solicitado por&quot; en la página de aterrizaje de la tarea.
+Esto le mostrará todas las tareas en las que el usuario que ha iniciado sesión ha asignado al menos a uno de los usuarios asignados actualmente. Si varias personas han asignado a las personas, solo el nombre de la primera persona que asignó a alguien aparecerá como &quot;Solicitado por&quot; en la página de aterrizaje de la tarea.
 
-## Tarea - Mostrar todas las tareas completadas - Pendiente de aprobación
-
-```
-status=CPL:A
-status_Mod=in
-```
-
-
-## Problema: Muéstrame todos los problemas completados - Pendiente de aprobación
+## Tarea - Mostrar todas las tareas completadas - Aprobación pendiente
 
 ```
 status=CPL:A
@@ -111,7 +104,7 @@ status_Mod=in
 ```
 
 
-## Proyecto: Mostrar todos los proyectos completados - Pendiente de aprobación
+## Problema - Mostrar todos los problemas completados - Aprobación pendiente
 
 ```
 status=CPL:A
@@ -119,7 +112,15 @@ status_Mod=in
 ```
 
 
-## Nota: Muéstrame todos los comentarios en los que estoy etiquetado
+## Proyecto - Mostrar todos los proyectos completados - Aprobación pendiente
+
+```
+status=CPL:A
+status_Mod=in
+```
+
+
+## Nota: muéstreme todos los comentarios en los que esté etiquetado
 
 ```
 tags:userID=$$USER.ID
@@ -127,7 +128,7 @@ tags:userID_Mod=in
 ```
 
 
-## Parámetro/Informe de campo personalizado : muestra los campos personalizados que no están adjuntos a un formulario personalizado (muy útil en los esfuerzos de limpieza)
+## Informe de parámetros/campos personalizados: mostrarme campos personalizados que no están adjuntos a un formulario personalizado (muy útiles en las tareas de limpieza)
 
 ```
 EXISTS:A:$$EXISTSMOD=NOTEXISTS

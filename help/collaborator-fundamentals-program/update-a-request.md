@@ -1,23 +1,24 @@
 ---
-title: Cómo actualizar una solicitud
+title: Actualización de una solicitud
 description: Aprenda a encontrar las solicitudes que ha enviado y actualice esas solicitudes.
 activity: use
 type: Tutorial
 team: Technical Marketing
 kt: 8807
-source-git-commit: 7cdce710ecc6fbcdccfe147a40623dc96f07ed2c
+doc-type: video
+source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
 workflow-type: tm+mt
 source-wordcount: '38'
 ht-degree: 0%
 
 ---
 
-# Actualizar solicitudes
+# Actualización de una solicitud
 
-En este vídeo, aprenderá a:
+En este vídeo, aprenderá a hacer lo siguiente:
 
-* Buscar solicitudes enviadas
-* Actualizar solicitudes
+* Buscar solicitudes que ha enviado
+* Actualización de una solicitud
 
 >[!VIDEO](https://video.tv.adobe.com/v/336091/?quality=12)
 

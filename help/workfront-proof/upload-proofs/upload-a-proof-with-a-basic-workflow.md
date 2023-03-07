@@ -1,6 +1,6 @@
 ---
 title: Carga de una prueba con un flujo de trabajo básico
-description: Obtenga información sobre cómo cargar archivos como pruebas, agregar un flujo de trabajo de pruebas básico para la revisión y aprobación de los interesados y establecer plazos para la revisión de pruebas en [!DNL Workfront].
+description: Obtenga información sobre cómo cargar archivos como pruebas, añadir un flujo de trabajo de prueba básico para la revisión y aprobación de las partes interesadas y establecer plazos para la revisión de pruebas en [!DNL Workfront].
 activity: use
 feature: Workfront Proof
 type: Tutorial
@@ -10,7 +10,8 @@ team: Technical Marketing
 thumbnail: 335132.png
 kt: 8832
 exl-id: adadfa42-1c41-4b45-a947-e0851b3117d3
-source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
+doc-type: video
+source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
 workflow-type: tm+mt
 source-wordcount: '183'
 ht-degree: 0%
@@ -19,25 +20,25 @@ ht-degree: 0%
 
 # Carga de una prueba con un flujo de trabajo básico
 
-En este vídeo, aprenderá a:
+En este vídeo, aprenderá a hacer lo siguiente:
 
-* Cargar un archivo en [!DNL Workfront] así que genera una prueba
-* Añadir un flujo de trabajo de prueba básico para que las partes interesadas puedan revisar y aprobar el recurso
-* Establecer un plazo para la revisión de pruebas
+* Cargar un archivo en [!DNL Workfront] por lo que genera una prueba
+* Añada un flujo de trabajo de revisión básico para que las partes interesadas puedan revisar y aprobar el recurso
+* Establezca una fecha límite para la revisión de revisión
 
 >[!VIDEO](https://video.tv.adobe.com/v/335132/?quality=12)
 
-## Su turno
+## Tu turno
 
 >[!IMPORTANT]
 >
->Recuerde a sus compañeros de trabajo que les envía una prueba como parte de su formación en Workfront.
+>Recuerde a sus compañeros que les envía una prueba como parte de su formación de Workfront.
 
 
 1. Busque varios archivos en el equipo o en un servidor que pueda cargar. Pueden ser documentos de texto, imágenes, hojas de cálculo, etc.
-1. Cargue dos archivos en el proyecto o la tarea de práctica mediante un flujo de trabajo básico. Asigne su compañero de trabajo para revisar y aprobar las pruebas, con un plazo de mañana a las 2 pm.
-1. Si tiene 3 pruebas para cargar y todas necesitan fechas límite diferentes, ¿puede cargarlas todas al mismo tiempo? ¿Por qué o por qué no?
-1. ¿Qué rol de prueba jugará en los procesos de revisión y aprobación de su equipo?
+1. Cargue dos archivos en el proyecto o tarea de la práctica, utilizando un flujo de trabajo básico. Asigne a su compañero para revisar y aprobar las pruebas, con un plazo de hasta las 14:00 de mañana.
+1. Si tiene 3 pruebas para cargar y todas necesitan plazos diferentes, ¿puede cargarlas todas al mismo tiempo? ¿Por qué?
+1. ¿Qué función de prueba desempeñará en los procesos de revisión y aprobación de su equipo?
 
 <!--
 ## Learn more

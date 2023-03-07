@@ -1,6 +1,6 @@
 ---
 title: Patrones de enrutamiento comunes
-description: Conozca la diferencia entre rutas de router mutuamente exclusivas y no exclusivas en [!DNL Adobe Workfront Fusion].
+description: Conozca la diferencia entre rutas de enrutador mutuamente exclusivas y no exclusivas en [!DNL Adobe Workfront Fusion].
 activity: use
 team: Technical Marketing
 type: Tutorial
@@ -9,7 +9,8 @@ role: User
 level: Beginner
 kt: 9014
 exl-id: dbf95ede-8b11-4b9e-a87a-a0e4db863e9c
-source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
+doc-type: video
+source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
 workflow-type: tm+mt
 source-wordcount: '30'
 ht-degree: 0%
@@ -18,8 +19,8 @@ ht-degree: 0%
 
 # Patrones de enrutamiento comunes
 
-En este vídeo, aprenderá:
+En este vídeo, aprenderá lo siguiente:
 
-* La diferencia entre rutas de router mutuamente exclusivas y no exclusivas.
+* La diferencia entre rutas de enrutador mutuamente exclusivas y no exclusivas.
 
 >[!VIDEO](https://video.tv.adobe.com/v/335273/?quality=12)

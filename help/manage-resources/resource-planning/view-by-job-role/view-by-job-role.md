@@ -1,6 +1,6 @@
 ---
-title: Ver por función de trabajo en el planificador de recursos
-description: Consulte cómo utilizar la opción Ver por rol de trabajo y cómo se muestra la información de recursos en esta vista.
+title: Ver por rol en el Planificador de recursos
+description: Consulte cómo utilizar la opción Ver por rol y cómo se muestra la información de recursos en esta vista.
 feature: Resource Management
 type: Tutorial
 role: Leader, User
@@ -10,45 +10,46 @@ team: Technical Marketing
 thumbnail: 335169.jpeg
 kt: 8906
 exl-id: 2114027c-e616-45a3-aca4-6382b6a20fda
-source-git-commit: 9e97819d4f07933d903f4bc26841adb9e52a785a
+doc-type: video
+source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
 workflow-type: tm+mt
 source-wordcount: '318'
 ht-degree: 0%
 
 ---
 
-# Ver por función de trabajo en el [!DNL Resource Planner]
+# Ver por rol en la [!DNL Resource Planner]
 
-En este vídeo, debe:
+En este vídeo hará lo siguiente:
 
-* Consulte [!UICONTROL Ver por rol de trabajo ]ver
+* Consulte [!UICONTROL Ver por rol ]vista
 * Descubra cómo se muestra la información de recursos en esta vista
 
 
 >[!VIDEO](https://video.tv.adobe.com/v/335169/?quality=12)
 
-En la opción Ver por función de trabajo , el valor predeterminado es mostrar la columna Presupuestado, que extrae el número estimado de recursos necesarios para un proyecto de un caso empresarial, si se ha rellenado. Esto también significa que la columna Red está, de forma predeterminada, utilizando los números de la columna Presupuestado para indicarle cuántos recursos quedan.
+En la opción Ver por rol, el valor predeterminado es mostrar la columna Presupuestado, que obtiene el número estimado de recursos necesarios para un proyecto de un caso empresarial, si se ha rellenado. Esto también significa que, de forma predeterminada, la columna Neto utiliza los números de la columna Presupuestado para indicarle cuántos recursos quedan.
 
-Sin embargo, es posible que su organización no esté utilizando o no esté lista para usar casos comerciales para estimar esas cantidades. En su lugar, se utilizan las horas planificadas que ya se han introducido en un proyecto. Mediante la opción Personalizar, puede elegir qué columnas aparecen en la vista elegida y cómo desea que se calcule la columna Red.
+Sin embargo, es posible que su organización no esté utilizando, o que no esté lista para utilizar, casos comerciales para estimar esas cantidades. En su lugar, se utilizan las horas planificadas que ya se han ingresado en un proyecto. Mediante la opción Personalizar, puede elegir qué columnas aparecen en la vista elegida y cómo desea que se calcule la columna Neto.
 
-Para cambiar las columnas que aparecen y el cálculo de la columna Red para que se base en las horas programadas:
+Para cambiar las columnas que aparecen y el cálculo de la columna Neto para que se base en las horas planificadas:
 
 * Haga clic en el menú desplegable Horas y seleccione Personalizar.
 
-![Opción Personalizar del menú desplegable](assets/NetHours01.png)
+![Opción Personalizar en el menú desplegable](assets/NetHours01.png)
 
-* En la casilla Personalizar las métricas mostradas , determine qué columnas aparecen y marque la casilla junto a Usar valores planeados (PLN) en los cálculos NET.
+* En el cuadro Personalizar las métricas mostradas, determine qué columnas aparecen y marque la casilla junto a Usar valores planificados (PLN) en los cálculos NETOS.
 
-![Usar valores planificados en la opción Cálculos NETOS](assets/NetHours02.png)
+![Utilizar valores planificados en la opción Cálculos de red](assets/NetHours02.png)
 
-**Nota**: Puede editar las columnas y los cálculos para los distintos tipos de vista en el Planificador de recursos seleccionando una opción en el lado izquierdo del cuadro.
+**Nota**: puede editar las columnas y los cálculos para los diferentes tipos de vista en el Planificador de recursos seleccionando una opción en la parte izquierda del cuadro.
 
-![Opciones de tipo de vista](assets/NetHours03.jpg)
+![Ver opciones de tipo](assets/NetHours03.jpg)
 
-* Una vez que haga clic en Guardar, el cuadro se cerrará y se actualizará la pantalla.
+* Una vez que haga clic en Guardar, el cuadro se cerrará y la pantalla se actualizará.
 
-![Herramienta de planificación de recursos](assets/NetHours04.jpg)
+![Herramienta Planificador de recursos](assets/NetHours04.jpg)
 
-El planificador de recursos muestra lo que necesita saber sobre su oferta y demanda sin hojas de cálculo complejas y comunicación de bloques circulares.
+El Planificador de recursos muestra lo que necesita saber sobre su oferta y demanda sin hojas de cálculo complejas ni comunicación por turnos.
 
 Con la información disponible y las herramientas a su disposición, puede ajustar la capacidad de su equipo para ejecutar el trabajo que es importante para usted.

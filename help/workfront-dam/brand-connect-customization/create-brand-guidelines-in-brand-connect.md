@@ -1,6 +1,6 @@
 ---
-title: Crear directrices de marca en Brand Connect
-description: Conozca cuáles son las directrices de marca y cómo crear una página de directrices de marca en Brand Connect para [!UICONTROL DAM de Workfront].
+title: Creación de directrices de marca en Brand Connect
+description: Conozca cuáles son las directrices de marca y cómo crear una página de directrices de marca en Brand Connect para [!UICONTROL WORKFRONT DAM].
 activity: use
 feature: Digital Content and Documents
 type: Tutorial
@@ -9,18 +9,19 @@ level: Beginner
 team: Technical Marketing
 kt: 8982
 exl-id: 717952e8-e633-4d65-b76a-9afb29159f5a
-source-git-commit: d1f5c4a558f737cb8188e209a16b91b67d32285c
+doc-type: video
+source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
 workflow-type: tm+mt
 source-wordcount: '51'
 ht-degree: 0%
 
 ---
 
-# Cree directrices de marca en [!UICONTROL Brand Connect]
+# Creación de directrices de marca en [!UICONTROL Brand Connect]
 
-En este vídeo, aprenderá:
+En este vídeo, aprenderá lo siguiente:
 
-* ¿Qué directrices de marca son
-* Cómo crear una página de directrices de marca en [!UICONTROL Brand Connect]
+* Qué son las directrices de marca
+* Creación de una página de directrices de marca en [!UICONTROL Brand Connect]
 
 >[!VIDEO](https://video.tv.adobe.com/v/335244/?quality=12)

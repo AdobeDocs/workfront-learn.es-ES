@@ -1,6 +1,6 @@
 ---
 title: Realice una actualización cualitativa en [!DNL Workfront Goals]
-description: Aprenda a realizar una actualización cualitativa o escrita en [!DNL Objetivos].
+description: Aprenda a realizar una actualización cualitativa o escrita en [!DNL Goals].
 activity: use
 feature: Workfront Goals
 type: Tutorial
@@ -9,19 +9,20 @@ level: Beginner
 team: Technical Marketing
 kt: 8925
 exl-id: 92d40d56-0a25-488b-9308-64ddfe545baa
-source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
+doc-type: video
+source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
 workflow-type: tm+mt
 source-wordcount: '118'
 ht-degree: 0%
 
 ---
 
-# Realizar una actualización cualitativa
+# Realización de una actualización cualitativa
 
-Se pueden realizar actualizaciones cualitativas o escritas en varias áreas de [!DNL Workfront Goals]. Puede agregar comentarios a los objetivos en la [!UICONTROL Detalles del objetivo] el panel [!UICONTROL Registro] o [!UICONTROL Pulse] para obtener más información. Aunque el proceso para añadir comentarios a los objetivos es similar en estas áreas, existen diferencias en la capacidad de editar, eliminar o reaccionar a un comentario al utilizar un área en lugar de otro. Cuando se introduce un comentario en cualquiera de estas áreas, el comentario es visible en todas las áreas donde se muestran los comentarios de objetivo.
+Las actualizaciones cualitativas o escritas se pueden realizar en varias áreas de [!DNL Workfront Goals]. Puede agregar comentarios a los objetivos en la [!UICONTROL Detalles de meta] , el panel [!UICONTROL Check-in] o la sección [!UICONTROL Pulse] sección. Aunque el proceso para agregar comentarios a los objetivos es similar en estas áreas, existen diferencias entre poder editar, eliminar o reaccionar a un comentario cuando se utiliza un área y otro. Cuando se escribe un comentario en cualquiera de estas áreas, el comentario es visible en todas las áreas en las que se muestran comentarios de objetivos.
 
-En este vídeo, aprenderá a:
+En este vídeo, aprenderá a hacer lo siguiente:
 
-* Realizar una actualización cualitativa o escrita
+* Realización de una actualización cualitativa o escrita
 
 >[!VIDEO](https://video.tv.adobe.com/v/335197/?quality=12)

@@ -1,6 +1,6 @@
 ---
 title: Buscar y crear un tablero básico
-description: Aprenda qué es un tablero y cómo beneficia a su equipo, cómo encontrar un tablero y cómo crearlo usted mismo.
+description: Descubra qué es un tablero y cómo beneficia a su equipo, cómo encontrar un tablero y cómo crear uno usted mismo.
 feature: Agile
 activity: deploy
 type: Tutorial
@@ -8,7 +8,9 @@ team: Technical Marketing
 kt: 10806
 role: User, Leader
 level: Beginner
-source-git-commit: 9d114af1c4b0f60392dbb03f6a90e654f6ba3c32
+exl-id: 2744efec-9194-4bd9-8bc4-391cc796c5a4
+doc-type: video
+source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
 workflow-type: tm+mt
 source-wordcount: '69'
 ht-degree: 0%
@@ -17,6 +19,6 @@ ht-degree: 0%
 
 # Buscar y crear un tablero básico
 
-Obtenga una mejor comprensión de lo que es un tablero y de cómo puede beneficiar a usted o a su equipo en la gestión del trabajo. Consulte dónde acceder a los tableros y cómo crear un tablero básico.
+Obtenga una mejor comprensión de lo que es un tablero y cómo puede beneficiarle a usted y/o a su equipo en la administración del trabajo. Vea dónde acceder a tableros y cómo crear un tablero básico.
 
 >[!VIDEO](https://video.tv.adobe.com/v/346548)
