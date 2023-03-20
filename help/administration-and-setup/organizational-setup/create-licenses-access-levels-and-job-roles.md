@@ -1,6 +1,6 @@
 ---
-title: Configurar usuarios con licencias, niveles de acceso y roles
-description: Obtenga información sobre cómo las licencias y los niveles de acceso controlan lo que tienen los usuarios de acceso. Descubra cómo se utilizan los roles en el sistema.
+title: Configurar usuarios con licencias y niveles de acceso
+description: Obtenga información sobre cómo las licencias y los niveles de acceso controlan lo que tienen los usuarios de acceso. Descubra cómo se utilizan las funciones de trabajo en el sistema.
 feature: System Setup and Administration
 activity: deploy
 type: Tutorial
@@ -10,24 +10,20 @@ level: Beginner
 thumbnail: 335066.jpeg
 kt: 8754
 exl-id: 49cb518a-f3ae-4fdd-b617-2c19006c7552
+last-substantial-update: 2023-03-20T00:00:00Z
 doc-type: video
-source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
+source-git-commit: 226b5c2123b9f05a5d4ab8bbf73591be66c808a0
 workflow-type: tm+mt
-source-wordcount: '104'
-ht-degree: 2%
+source-wordcount: '58'
+ht-degree: 0%
 
 ---
 
-# Configurar usuarios con licencias, niveles de acceso y roles
+# Configurar usuarios con licencias, niveles de acceso y funciones de trabajo
 
-En este vídeo, aprenderá lo siguiente:
+En este vídeo, aprenderá:
 
-* Licencias
-* Niveles de acceso
-* Roles
+* ¿Cuáles son las licencias y los niveles de acceso?
+* Cómo crear y administrar niveles de acceso
 
 >[!VIDEO](https://video.tv.adobe.com/v/335066/?quality=12)
-
-En muchos casos, los portafolios y programas son propiedad de varias personas y se administran de forma diferente. Debido a esto, [!DNL Workfront] ha separado los controles de permisos de portafolio y programa, lo que facilita a los administradores del sistema la configuración de Workfront para configurar el funcionamiento de los usuarios y la organización.
-
-![[!UICONTROL Portfolio] y [!UICONTROL Programas] configuración resaltada en [!UICONTROL Nuevo nivel de acceso] ventana](assets/admin-fund-access-levels.png)
