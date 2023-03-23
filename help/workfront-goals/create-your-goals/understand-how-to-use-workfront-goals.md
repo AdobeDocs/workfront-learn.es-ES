@@ -1,6 +1,6 @@
 ---
-title: Comprender [!DNL Workfront Goals]
-description: El administrador del sistema sabrá quién puede acceder a [!DNL Workfront Goals], what permissions a system administrator has in [!DNL Workfront Goals], and how to enable [!DNL Workfront Goals] mediante una plantilla de diseño.
+title: Información general sobre los objetivos de Workfront
+description: Obtenga información sobre cómo navegar por la lista de objetivos, los gráficos y la alineación de objetivos.
 activity: use
 feature: Workfront Goals
 type: Tutorial
@@ -9,20 +9,19 @@ level: Beginner
 team: Technical Marketing
 kt: 8888
 exl-id: 08cdc3de-dc45-4273-b17b-90ae753613c6
-doc-type: video
-source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
+source-git-commit: 683b3291033ff87dacae8b670e5a54a203cc2743
 workflow-type: tm+mt
-source-wordcount: '38'
-ht-degree: 0%
+source-wordcount: '32'
+ht-degree: 3%
 
 ---
 
-# [!DNL Workfront Goals] descripción general
+# [!DNL Workfront Goals] Información general
 
-En este vídeo, aprenderá lo siguiente:
+En este vídeo, aprenderá a:
 
-* Quién puede acceder a [!DNL Workfront Goals]
-* Qué permisos tiene un administrador del sistema en [!DNL Workfront Goals]
-* Cómo habilitar [!DNL Workfront Goals] mediante una plantilla de diseño
+* Navegar por la lista Objetivo
+* Navegar por gráficos
+* Navegar por la alineación de objetivos
 
 >[!VIDEO](https://video.tv.adobe.com/v/335182/?quality=12)
