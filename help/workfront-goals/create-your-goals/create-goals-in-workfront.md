@@ -10,9 +10,9 @@ team: Technical Marketing
 kt: 10122
 doc-type: video
 exl-id: 784b353f-cc6b-4a4b-9935-9e5d25c532b4
-source-git-commit: cc1c18f700dc688351dbf3ba3ede9faf5bfc45bb
+source-git-commit: f6990cd0fb0c4eb848828fb40f132b320ab8f37d
 workflow-type: tm+mt
-source-wordcount: '881'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -68,7 +68,7 @@ Estas son algunas cosas que hay que tener en cuenta antes de copiar los objetivo
 
    ![Una imagen del [!UICONTROL Detalles del objetivo] panel en [!DNL Workfront Goals] con la variable [!UICONTROL Copiar] option](assets/03-workfront-goals-copy-a-goal.png)
 
-1. Haga clic en **[!UICONTROL Activar]**, que actualiza el estado del objetivo a Activo. El objetivo debe tener una actividad asociada o un resultado para &quot;activar&quot;.
+1. Haga clic en el icono de 3 puntos y, a continuación, seleccione  **[!UICONTROL Activar]**, que actualiza el estado del objetivo a Activo. El objetivo debe tener una actividad asociada o un resultado para &quot;activar&quot;.
 
 Si ha copiado un objetivo que no se completó en un período de tiempo anterior y desea continuar trabajando en él en el siguiente período de tiempo, haga lo siguiente:
 
