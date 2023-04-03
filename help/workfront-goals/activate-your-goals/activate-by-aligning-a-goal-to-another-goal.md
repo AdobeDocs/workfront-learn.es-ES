@@ -9,9 +9,9 @@ role: User
 level: Beginner
 kt: 10117
 exl-id: 2d57eede-59a8-48df-a00c-820a0aa1609d
-source-git-commit: 61759365512cac8781ef148d578504a29a7843ac
+source-git-commit: 7a1211f0c8450845544dfdbf588864b96900c1f0
 workflow-type: tm+mt
-source-wordcount: '200'
+source-wordcount: '251'
 ht-degree: 0%
 
 ---
@@ -32,3 +32,10 @@ Al alinear dos objetivos, uno se convertirá en el objetivo principal y el otro 
 1. Haga clic en [!UICONTROL Guardar cambios].
 
 Alinear un objetivo con otro crea un objetivo secundario. Considere los objetivos infantiles como objetivos individuales que contribuyen al progreso de los objetivos principales de la organización o del equipo. Los objetivos secundarios pueden activar e influir en el progreso del objetivo principal.
+
+## Ahora, active el objetivo principal
+
+Ahora que ha creado un objetivo secundario, se convierte en un indicador de progreso en el objetivo principal. Verá la opción Activar cuando haga clic en el menú de tres puntos situado junto al nombre del objetivo principal.
+
+![Captura de pantalla que muestra cómo activar el objetivo principal.](assets/activate-the-parent-goal.png)
+

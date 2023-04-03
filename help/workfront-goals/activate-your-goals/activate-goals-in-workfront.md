@@ -9,9 +9,9 @@ role: User
 level: Beginner
 kt: 10118
 exl-id: 53df924b-0ba2-442a-95a6-40bd9b12d206
-source-git-commit: 61759365512cac8781ef148d578504a29a7843ac
+source-git-commit: 7a1211f0c8450845544dfdbf588864b96900c1f0
 workflow-type: tm+mt
-source-wordcount: '282'
+source-wordcount: '327'
 ht-degree: 0%
 
 ---
@@ -22,7 +22,7 @@ Ahora que ha creado objetivos, vamos a activarlos. Cuando crea un objetivo, se g
 
 ![Captura de pantalla de un objetivo en Objetivos de Workfront en estado de borrador](assets/04-workfront-goals-activate-goals.png)
 
-## Indicadores de progreso activar objetivos
+## Se necesitan indicadores de progreso para activar los objetivos
 
 Antes de continuar, es importante comprender los indicadores de progreso utilizados en [!DNL Workfront Goals]. Los indicadores de progreso son los objetos de [!DNL Goals] se utiliza para calcular el progreso de un objetivo. Los indicadores de progreso son objetivos, resultados, actividades y proyectos alineados. Más adelante conocerás más detalladamente estas cuestiones. Por ahora, es importante entender que los objetivos, resultados, actividades y proyectos alineados deben agregarse a un objetivo para activarlo.
 
@@ -32,3 +32,8 @@ Para añadir un indicador de progreso, abra el objetivo y seleccione la pestaña
 
 En comparación con otros indicadores de progreso, los proyectos son un poco únicos, ya que se consideran un tipo de actividad. Las actividades se pueden diferenciar en dos tipos: barra de progreso manual y Proyectos. Como resultado, los Proyectos también impulsan el progreso. Aunque todos los tipos de indicadores de progreso se pueden conectar a un objetivo principal, es importante tener en cuenta que existen diferencias en la forma en que se administran.
 
+## Ahora active el objetivo
+
+Cuando tenga al menos un indicador de progreso en el objetivo, verá la opción Activar cuando haga clic en el menú de tres puntos junto al nombre del objetivo.
+
+![Captura de pantalla que muestra cómo activar un objetivo.](assets/activate-a-goal-with-a-result.png)
