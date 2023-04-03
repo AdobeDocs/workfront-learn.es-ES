@@ -3,9 +3,9 @@ user-guide-description: Tutoriales de Workfront
 role: User
 level: Beginner
 feature-set: Workfront
-source-git-commit: 8c00be25fc5ce3d7d8a25476e6f52cb40c758673
+source-git-commit: 61759365512cac8781ef148d578504a29a7843ac
 workflow-type: tm+mt
-source-wordcount: '2345'
+source-wordcount: '2341'
 ht-degree: 2%
 
 ---
@@ -302,7 +302,6 @@ ht-degree: 2%
       + [Conceder acceso a los objetivos a usuarios seleccionados](workfront-goals/create-your-goals/grant-goals-access-to-selected-users.md)
       + [Cree una plantilla de diseño para [!UICONTROL Objetivos de Workfront] usuarios](workfront-goals/create-your-goals/create-a-layout-template-with-workfront-goals.md)
       + [Crear objetivos](workfront-goals/create-your-goals/create-goals-in-workfront.md)
-      + [Copiar un objetivo existente](workfront-goals/create-your-goals/copy-an-existing-goal.md)
    + Activar sus objetivos {#activate-goals}
       + [Activar objetivos](workfront-goals/activate-your-goals/activate-goals-in-workfront.md)
       + [Activar alineando un objetivo con otro](workfront-goals/activate-your-goals/activate-by-aligning-a-goal-to-another-goal.md)
