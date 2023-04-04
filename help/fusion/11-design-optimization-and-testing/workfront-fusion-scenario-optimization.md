@@ -1,6 +1,6 @@
 ---
-title: Optimización de escenarios de Workfront Fusion
-description: Aprenda a realizar menos operaciones, enviar menos llamadas de API y utilizar menos módulos, todo en [!DNL Adobe Workfront Fusion].
+title: Optimización del escenario de Workfront Fusion
+description: Aprenda a realizar menos operaciones, enviar menos llamadas a la API y utilizar menos módulos, todo en [!DNL Adobe Workfront Fusion].
 activity: use
 team: Technical Marketing
 type: Tutorial
@@ -10,28 +10,28 @@ level: Beginner
 kt: 9071
 exl-id: b0613d86-9eed-46a9-bc31-6ad406382047
 doc-type: video
-source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
+source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
 workflow-type: tm+mt
 source-wordcount: '169'
 ht-degree: 0%
 
 ---
 
-# Optimización de escenarios de Workfront Fusion
+# Optimización del escenario de Workfront Fusion
 
-¿Qué es la &quot;optimización de escenarios&quot; y qué puede hacer para optimizarlos?
+¿Qué es la &quot;optimización del escenario&quot; y qué puede hacer para optimizar los escenarios?
 
-La optimización de escenarios es una habilidad practicada que requiere tiempo y dedicación para desarrollarse. Su primer intento de crear un escenario para un resultado empresarial no debería ser el último. Los escenarios deben iterarse desde el primer día hasta que se inicie la integración. Incluso después del lanzamiento, los escenarios deben revisarse y actualizarse durante toda su vida útil para mantenerse al día con los cambios empresariales y de comportamiento.
+La optimización del escenario es una habilidad practicada que requiere tiempo y dedicación para desarrollarse. Su primer intento de crear un escenario para un resultado comercial no debe ser el último. Los escenarios deben iterarse desde el primer día hasta que se inicie la integración. Incluso después del lanzamiento, los escenarios deben revisarse y actualizarse a lo largo de su vida útil para mantenerse al día con los cambios de comportamiento y del negocio.
 
-Los escenarios requieren mantenimiento. Los desarrolladores de Workfront Fusion deben tener una cadencia regular de revisión de escenarios para encontrar oportunidades de reconstrucción, reestructuración u optimización. Los escenarios de Workfront Fusion requieren atención, mantenimiento y mantenimiento regulares.
+Los escenarios requieren mantenimiento. Los desarrolladores de Workfront Fusion deben tener una cadencia regular de revisión de escenarios para encontrar oportunidades de reconstruir, reestructurar o optimizar. Los escenarios de Workfront Fusion necesitan atención, mantenimiento y mantenimiento regulares.
 
-En este vídeo, aprenderá a hacer lo siguiente:
+En este vídeo, aprenderá a:
 
 * Realizar menos operaciones
 * Enviar menos llamadas de API
-* Uso de menos módulos
+* Usar menos módulos
 
->[!VIDEO](https://video.tv.adobe.com/v/335313/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335313/?quality=12&learn=on)
 
 ## ¿Desea obtener más información? Recomendamos lo siguiente:
 

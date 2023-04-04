@@ -1,6 +1,6 @@
 ---
-title: Filtrar las áreas de trabajo no asignado y asignado
-description: Aprenda a ajustar los marcos de tiempo de ambas áreas, filtrar la lista de usuarios en el área de trabajo asignada y filtrar el área de trabajo no asignada.
+title: Filtrar las áreas de trabajo no asignadas y asignadas
+description: Aprenda a ajustar los intervalos de tiempo para ambas áreas, filtrar la lista de usuarios en el área de trabajo asignada y filtrar el área de trabajo no asignada.
 feature: Resource Management
 type: Tutorial
 role: Leader, User
@@ -11,19 +11,19 @@ thumbnail: 335163.png
 kt: 8875
 exl-id: 8a767d41-391c-4862-8b49-6d9480cc8187
 doc-type: video
-source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
+source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
 workflow-type: tm+mt
 source-wordcount: '72'
 ht-degree: 0%
 
 ---
 
-# Filtrar las áreas de trabajo no asignado y asignado
+# Filtrar las áreas de trabajo no asignadas y asignadas
 
-En este vídeo, aprenderá a hacer lo siguiente:
+En este vídeo, aprenderá a:
 
-* Ajustar los marcos de tiempo para las áreas de trabajo asignado y no asignado
-* Filtrar la lista de usuarios en el área de Trabajo asignado
-* Filtrar el área de trabajo no asignado
+* Ajustar los intervalos de tiempo para las áreas de trabajo asignadas y no asignadas
+* Filtrar la lista de usuarios en el área Trabajo asignado
+* Filtrar el área de trabajo sin asignar
 
->[!VIDEO](https://video.tv.adobe.com/v/335163/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335163/?quality=12&learn=on)

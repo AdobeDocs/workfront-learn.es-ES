@@ -1,5 +1,5 @@
 ---
-title: Otras formas de crear proyectos
+title: Comprender otras formas de crear proyectos
 description: Obtenga información sobre cómo crear un proyecto a partir de una plantilla, crear un proyecto desde cero, copiar un proyecto existente o importar un [!DNL Microsoft Project] archivo.
 activity: use
 feature: Work Management
@@ -11,33 +11,33 @@ team: Technical Marketing
 kt: 8770
 exl-id: 98eaadc5-1b1d-4641-83a5-818e7dd60769
 doc-type: video
-source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
+source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
 workflow-type: tm+mt
 source-wordcount: '186'
 ht-degree: 0%
 
 ---
 
-# Otras formas de crear proyectos
+# Comprender otras formas de crear proyectos
 
-En este vídeo, aprenderá a hacer lo siguiente:
+En este vídeo, aprenderá a:
 
 * Creación de un proyecto a partir de una plantilla
-* Creación de un proyecto desde cero
+* Crear un proyecto desde cero
 * Copiar un proyecto existente
-* Importar un [!DNL Microsoft Project] archivo
+* Importar un [!DNL Microsoft Project] file
 
->[!VIDEO](https://video.tv.adobe.com/v/335084/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335084/?quality=12&learn=on)
 
-## Sugerencias profesionales
+## Consejos Pro
 
-* El [!UICONTROL Nuevo proyecto a partir de plantilla] La ventana de facilita la selección de la plantilla adecuada para el proyecto. Desplácese por el panel izquierdo para buscar una plantilla y selecciónela para obtener una vista previa de su contenido. Esta vista previa muestra cuántas tareas hay en la plantilla, los roles necesarios, etc.
+* La variable [!UICONTROL Nuevo proyecto a partir de plantilla] permite seleccionar fácilmente la plantilla adecuada para el proyecto. Desplácese por el panel izquierdo para buscar una plantilla y selecciónela para obtener una previsualización de su contenido. Esta vista previa muestra cuántas tareas hay en la plantilla, las funciones de trabajo necesarias y más.
 
-![[!UICONTROL Nuevo proyecto a partir de plantilla] ventana](assets/planner-fund-new-project-from-template-window.png)
+![[!UICONTROL Nuevo proyecto a partir de plantilla] window](assets/planner-fund-new-project-from-template-window.png)
 
-* Si hay una plantilla que utiliza con frecuencia, conviértala en favorita. Verá la plantilla en la lista de [!UICONTROL Nuevo proyecto] , además de aparecer en la sección [!UICONTROL Favoritos y recientes] en la barra de navegación. Simplemente haga clic en el icono de estrella favorito dondequiera que lo vea: en la página de plantilla, mientras elige una plantilla con la que crear su proyecto, etc.
+* Si hay una plantilla que use con frecuencia, hágalo favorito. Verá la plantilla en el [!UICONTROL Nuevo proyecto] , además de aparecer en el [!UICONTROL Favoritos y recientes] en la barra de navegación. Simplemente haga clic en el icono de estrella favorito dondequiera que lo vea: en la página de plantilla, mientras elige una plantilla para crear su proyecto con, etc.
 
-![[!UICONTROL Plantillas favoritas] lista debajo de [!UICONTROL Nuevo proyecto] botón](assets/planner-fund-template-favorites.png)
+![[!UICONTROL Plantillas favoritas] lista bajo [!UICONTROL Nuevo proyecto] botón](assets/planner-fund-template-favorites.png)
 
 <!---
 learn more:

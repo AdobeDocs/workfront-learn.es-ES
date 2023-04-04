@@ -1,6 +1,6 @@
 ---
-title: Revisar un vídeo con prueba
-description: Obtenga información sobre cómo ajustar la configuración del visor y agregar comentarios con marca de tiempo a un vídeo mediante la corrección en [!DNL  Workfront].
+title: Revisar un vídeo con una prueba
+description: Aprenda a ajustar la configuración del visor y añadir comentarios con marca de hora a un vídeo mediante las pruebas de [!DNL  Workfront].
 activity: use
 feature: Workfront Proof
 type: Tutorial
@@ -11,21 +11,21 @@ thumbnail: 335144.png
 kt: 8847
 exl-id: 42715056-5edb-4619-8754-d48392677d51
 doc-type: video
-source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
+source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
 workflow-type: tm+mt
 source-wordcount: '43'
 ht-degree: 0%
 
 ---
 
-# Revisar un vídeo con prueba
+# Revisar un vídeo con una prueba
 
-En este vídeo, aprenderá a hacer lo siguiente:
+En este vídeo, aprenderá a:
 
-* Adición de comentarios con marca de tiempo a un vídeo
+* Añadir comentarios con marca de hora a un vídeo
 * Ajustar configuración del visor
 
->[!VIDEO](https://video.tv.adobe.com/v/335144/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335144/?quality=12&learn=on)
 
 <!--
 ## Learn more

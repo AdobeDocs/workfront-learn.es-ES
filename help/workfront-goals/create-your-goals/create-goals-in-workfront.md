@@ -10,9 +10,9 @@ team: Technical Marketing
 kt: 10122
 doc-type: video
 exl-id: 784b353f-cc6b-4a4b-9935-9e5d25c532b4
-source-git-commit: f6990cd0fb0c4eb848828fb40f132b320ab8f37d
+source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '886'
 ht-degree: 0%
 
 ---
@@ -36,7 +36,7 @@ En este vídeo, aprenderá a:
 
 * Vaya a la [!UICONTROL Lista de objetivos] para agregar un nuevo objetivo
 
->[!VIDEO](https://video.tv.adobe.com/v/335191/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335191/?quality=12&learn=on)
 
 ## Copiar un objetivo existente
 
@@ -93,5 +93,5 @@ En este vídeo, aprenderá a:
 
 * Añadir una actividad y convertirla en un objetivo alineado
 
->[!VIDEO](https://video.tv.adobe.com/v/335192/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335192/?quality=12&learn=on)
 

@@ -1,5 +1,5 @@
 ---
-title: Creación de paneles
+title: Creación de tableros
 description: Aprenda a combinar diversos informes de lista, gráficos, calendarios y páginas web externas en un tablero de Workfront.
 activity: use
 feature: Reports and Dashboards
@@ -11,64 +11,64 @@ thumbnail: 335157.png
 kt: 8862
 exl-id: 7adc2aeb-6618-4894-acc3-298e35175854
 doc-type: video
-source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
+source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
 workflow-type: tm+mt
 source-wordcount: '463'
 ht-degree: 4%
 
 ---
 
-# Creación de paneles
+# Creación de tableros
 
-En este vídeo, aprenderá lo siguiente:
+En este vídeo, aprenderá:
 
 * Qué es un tablero en Workfront
 * Cómo crear un tablero
-* Búsqueda y uso de los paneles
+* Búsqueda y uso de tableros
 * Cómo compartir un tablero con otros usuarios de Workfront
 * Cómo imprimir un tablero
 
->[!VIDEO](https://video.tv.adobe.com/v/335157/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335157/?quality=12&learn=on)
 
 ## Actividad: Crear un tablero
 
-Crear un [!UICONTROL tablero] con un solo informe: &quot;Notas de búsqueda en este proyecto&quot;. Esto resulta útil para encontrar rápidamente cualquier actualización realizada en un proyecto, incluso si hay miles de actualizaciones en las que buscar. Esto buscará en los hilos de actualización para extraer rápidamente cualquier actualización que cumpla con los criterios especificados en las solicitudes.
+Cree un [!UICONTROL tablero] con solo un informe en él: &quot;Notas de búsqueda en este proyecto&quot;. Esto es útil para encontrar rápidamente cualquier actualización realizada en un proyecto, incluso si hay miles de actualizaciones para buscar. Esto buscará en los subprocesos de actualización para extraer rápidamente cualquier actualización que cumpla los criterios especificados en los mensajes.
 
-Cree este informe haciendo una copia del informe &quot;Notas de búsqueda&quot; que creó en la actividad &quot;Crear un informe de notas&quot; (o use otro informe si no realizó esa actividad).
+Cree este informe haciendo una copia del informe &quot;Notas de búsqueda&quot; que creó en la actividad &quot;Crear un informe de nota&quot; (o utilice otro informe si no realizó esa actividad).
 
-* Elimine el mensaje Nombre del proyecto de la copia y cambie el nombre del informe a &quot;Notas de búsqueda en este proyecto&quot;.
-* Asigne un nombre al [!UICONTROL Tablero] &quot;Notas de búsqueda&quot;.
-* Vaya a cualquier página de aterrizaje del proyecto y cree una sección personalizada para una [!UICONTROL tablero].
-* Tenga en cuenta que cuando busque notas en la sección personalizada, solo mostrará las notas contenidas en el proyecto en el que se encuentra actualmente.
+* Elimine el mensaje Nombre del proyecto de la copia y cambie el nombre del informe &quot;Notas de búsqueda en este proyecto&quot;.
+* Asigne un nombre a la variable [!UICONTROL Panel] &quot;Notas de búsqueda&quot;.
+* Vaya a cualquier página de aterrizaje del proyecto y cree una sección personalizada para un [!UICONTROL tablero].
+* Tenga en cuenta que cuando busque notas en la sección personalizada, solo mostrará notas contenidas en el proyecto en el que se encuentre.
 
 ## Respuesta
 
-1. Ejecute el informe que ha creado en la actividad Crear un informe de notas.
-1. Clic **[!UICONTROL Acciones de informe]** y seleccione **[!UICONTROL Copiar]**. [!DNL Workfront] crea un nuevo informe llamado &quot;Búsqueda de notas (copia)&quot;.
-1. Ir a **[!UICONTROL Acciones de informe]** y seleccione **[!UICONTROL Editar]**. Clic **[!UICONTROL Configuración de informes]** y cambie el nombre a &quot;Notas de búsqueda en este proyecto&quot;.
-1. Clic [!UICONTROL Indicadores de informe] y elimine el [!UICONTROL Proyecto] > [!UICONTROL Nombre] preguntar en la lista.
+1. Ejecute el informe que ha creado en la actividad &quot;Crear un informe de nota&quot;.
+1. Haga clic en **[!UICONTROL Acciones de informe]** y seleccione **[!UICONTROL Copiar]**. [!DNL Workfront] crea un nuevo informe llamado &quot;Búsqueda de notas (copiar)&quot;.
+1. Vaya a **[!UICONTROL Acciones de informe]** y seleccione **[!UICONTROL Editar]**. Haga clic en **[!UICONTROL Configuración de informes]** y cambie el nombre a &quot;Notas de búsqueda en este proyecto&quot;.
+1. Haga clic en [!UICONTROL Mensajes del informe] y elimine el [!UICONTROL Proyecto] > [!UICONTROL Nombre] solicitud de la lista.
 
-   ![Imagen de la pantalla para crear un nuevo tablero](assets/edit-report-prompts.png)
+   ![Una imagen de la pantalla para crear un tablero nuevo](assets/edit-report-prompts.png)
 
-1. Compruebe la **[!UICONTROL Mostrar indicadores en el panel]** cuadro.
-1. Clic **[!UICONTROL Listo]**, entonces **[!UICONTROL Guardar + Cerrar]**. Ahora está viendo el [!UICONTROL Indicadores] pantalla del informe.
+1. Marque la **[!UICONTROL Mostrar solicitudes en el panel]** en la ventana
+1. Haga clic en **[!UICONTROL Listo]**, luego **[!UICONTROL Guardar + Cerrar]**. Ahora está viendo el [!UICONTROL Mensajes] del informe.
 
-   A continuación, utilizará un acceso directo para crear un nuevo tablero y agregarle este informe.
+   A continuación, utilizará un método abreviado para crear un nuevo tablero y agregarle este informe.
 
-1. Clic **[!UICONTROL Acciones de informe]** y seleccione **[!UICONTROL Añadir a tablero]** > **[!UICONTROL Nuevo panel]**.
-1. Arrastre el informe &quot;Notas de búsqueda en este proyecto&quot; a la **[!UICONTROL Diseño]** panel.
-1. Observe que el nombre del informe se convierte en el nombre del panel. Edite el nombre para que aparezca &quot;Notas de búsqueda&quot;.
+1. Haga clic en **[!UICONTROL Acciones de informe]** y seleccione **[!UICONTROL Agregar al tablero]** > **[!UICONTROL Nuevo tablero]**.
+1. Arrastre el informe &quot;Notas de búsqueda en este proyecto&quot; al **[!UICONTROL Diseño]** panel.
+1. Observe que el nombre del informe se convierte en el nombre del tablero. Edite el nombre solo como &quot;Notas de búsqueda&quot;.
 
-   ![Imagen de la pantalla para crear un nuevo tablero](assets/create-dashboard.png)
+   ![Una imagen de la pantalla para crear un tablero nuevo](assets/create-dashboard.png)
 
-1. Clic **[!UICONTROL Guardar + Cerrar]**.
+1. Haga clic en **[!UICONTROL Guardar + Cerrar]**.
 
-   Ahora agregue el tablero a una página de proyecto.
+   Ahora, agregue el tablero a una página de proyecto.
 
-   ![Imagen de la pantalla para crear un nuevo tablero](assets/add-custom-section.png)
+   ![Una imagen de la pantalla para crear un tablero nuevo](assets/add-custom-section.png)
 
-1. Vaya a cualquier proyecto. Haga clic en el menú del panel izquierdo **[!UICONTROL Agregar sección personalizada]** icono.
-1. En el **[!UICONTROL Agregar un panel]** , escriba &quot;Notas de la búsqueda&quot; y seleccione el campo [!UICONTROL tablero] de la lista.
-1. En el **[!UICONTROL Título de sección personalizada]** , escriba &quot;Notas de la búsqueda&quot;.
-1. Clic **[!UICONTROL Agregar nueva sección]**.
-1. En el menú del panel izquierdo, busque Notas de búsqueda. Haga clic en los puntos a la izquierda del nombre de la sección y arrástrela justo debajo de Actualizaciones.
+1. Vaya a cualquier proyecto. En el menú del panel izquierdo, haga clic en el **[!UICONTROL Agregar sección personalizada]** icono.
+1. En el **[!UICONTROL Agregar un tablero]** , escriba &quot;Notas de búsqueda&quot; y seleccione la [!UICONTROL tablero] de la lista.
+1. En el **[!UICONTROL Título de sección personalizado]** , escriba &quot;Notas de búsqueda&quot;.
+1. Haga clic en **[!UICONTROL Añadir nueva sección]**.
+1. En el menú del panel izquierdo, busque Notas de búsqueda. Haga clic en los puntos a la izquierda del nombre de la sección y arrástrelo justo debajo de Actualizaciones.

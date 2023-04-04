@@ -1,6 +1,6 @@
 ---
-title: Vaya a [!UICONTROL Pulse] actualizar flujo en [!DNL Goals]
-description: Obtenga información sobre cómo navegar por el [!UICONTROL Pulse] actualizar flujo en [!DNL Goals].
+title: Vaya a la [!UICONTROL Pulse] actualizar flujo en [!DNL Goals]
+description: Obtenga información sobre cómo navegar por el [!UICONTROL Pulse] flujo de actualización en [!DNL Objetivos].
 activity: use
 feature: Workfront Goals
 type: Tutorial
@@ -10,19 +10,19 @@ team: Technical Marketing
 kt: 8927
 exl-id: 441d5056-5e5f-4104-aa44-321fe0da9a12
 doc-type: video
-source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
+source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
 workflow-type: tm+mt
 source-wordcount: '77'
 ht-degree: 0%
 
 ---
 
-# Vaya a [!UICONTROL Pulse] actualizar flujo
+# Vaya a la [!UICONTROL Pulse] flujo de actualización
 
-Utilice el [!UICONTROL Pulse] para revisar y solicitar actualizaciones de las metas que puedan influir en el progreso de las metas, incluidas las metas alineadas y sus resultados o actividades. Pueden ser objetivos suyos, de su equipo, del grupo o de la organización.
+Utilice la variable [!UICONTROL Pulse] para revisar y solicitar actualizaciones de objetivos que puedan influir en el progreso de sus objetivos, incluidos los objetivos alineados y sus resultados o actividades. Pueden ser objetivos que le pertenecen, a su equipo, al grupo o a la organización.
 
-En este vídeo, aprenderá a hacer lo siguiente:
+En este vídeo, aprenderá a:
 
-* Vaya a [!UICONTROL Pulse] actualizar flujo
+* Vaya a la [!UICONTROL Pulse] flujo de actualización
 
->[!VIDEO](https://video.tv.adobe.com/v/335199/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335199/?quality=12&learn=on)

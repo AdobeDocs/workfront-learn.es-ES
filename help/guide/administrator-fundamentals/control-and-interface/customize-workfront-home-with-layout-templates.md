@@ -8,7 +8,7 @@ team: Technical Marketing
 kt: Jira ticket
 role: Admin
 thumbnail: 335081.jpeg
-source-git-commit: adf12d7846d2a1b4c32513a3955c080905044576
+source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
 workflow-type: tm+mt
 source-wordcount: '56'
 ht-degree: 0%
@@ -25,4 +25,4 @@ En este vídeo, aprenderá a:
 * Quitar elementos de la página principal
 * Agregar elementos a la página principal
 
->[!VIDEO](https://video.tv.adobe.com/v/335081/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335081/?quality=12&learn=on)

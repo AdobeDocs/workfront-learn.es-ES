@@ -1,6 +1,6 @@
 ---
-title: Cómo encontrar asignaciones de trabajo en [!UICONTROL Inicio]
-description: Aprenda a encontrar el trabajo entrante y existente que se le ha asignado en [!UICONTROL  ]. A continuación, revise la información de asignación.
+title: Cómo buscar asignaciones de trabajo en [!UICONTROL Página principal]
+description: Obtenga información sobre cómo encontrar el trabajo entrante y existente asignado a usted en [!UICONTROL  ]. A continuación, revise la información de asignación.
 feature: Work Management
 type: Tutorial
 role: User
@@ -10,18 +10,18 @@ team: Technical Marketing
 kt: 8797
 exl-id: 99c864da-0711-4a30-8067-03b7fbd198df
 doc-type: video
-source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
+source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
 workflow-type: tm+mt
 source-wordcount: '46'
 ht-degree: 0%
 
 ---
 
-# Buscar el trabajo asignado en [!DNL Workfront] [!UICONTROL Inicio]
+# Busque el trabajo asignado en [!DNL Workfront] [!UICONTROL Página principal]
 
-En este vídeo, aprenderá a hacer lo siguiente:
+En este vídeo, aprenderá a:
 
 * Buscar asignaciones de trabajo entrantes y existentes
 * Revisar información de asignación
 
->[!VIDEO](https://video.tv.adobe.com/v/335098/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335098/?quality=12&learn=on)

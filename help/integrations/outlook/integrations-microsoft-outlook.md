@@ -10,7 +10,7 @@ team: Technical Marketing
 kt: 8814
 exl-id: bd55c464-aae3-40a4-bc1b-e0dbdc5bb238
 doc-type: video
-source-git-commit: e902bae4c4dae0c7800d1a97c1835eff3bb6d924
+source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
 workflow-type: tm+mt
 source-wordcount: '142'
 ht-degree: 0%
@@ -23,7 +23,7 @@ En este vídeo, aprenderá a:
 
 * Instalación del complemento de Microsoft Outlook
 
->[!VIDEO](https://video.tv.adobe.com/v/335115/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335115/?quality=12&learn=on)
 
 >[!IMPORTANT]
 >

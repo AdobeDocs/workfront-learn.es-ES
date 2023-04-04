@@ -1,6 +1,6 @@
 ---
-title: Equilibrar ejecuciones, ciclos y paquetes
-description: Descubra en qué consiste el equilibrio de recorridos, ciclos y paquetes [!DNL Adobe Workfront Fusion].
+title: Saldos en ejecución, ciclos y paquetes
+description: Conozca en qué consiste el equilibrio de ejecuciones, ciclos y paquetes [!DNL Adobe Workfront Fusion].
 activity: use
 team: Technical Marketing
 type: Tutorial
@@ -10,17 +10,17 @@ level: Beginner
 kt: 9044
 exl-id: ed502932-2e42-4bc0-aa1b-d1a83637ca97
 doc-type: video
-source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
+source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
 workflow-type: tm+mt
 source-wordcount: '35'
 ht-degree: 0%
 
 ---
 
-# Equilibrar ejecuciones, ciclos y paquetes
+# Saldos en ejecución, ciclos y paquetes
 
-En este vídeo, aprenderá lo siguiente:
+En este vídeo, aprenderá:
 
-* Qué son las ejecuciones, ciclos y paquetes de equilibrio en Workfront Fusion
+* ¿Qué bolsillos, ciclos y paquetes se ejecutan en Workfront Fusion?
 
->[!VIDEO](https://video.tv.adobe.com/v/335285/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335285/?quality=12&learn=on)

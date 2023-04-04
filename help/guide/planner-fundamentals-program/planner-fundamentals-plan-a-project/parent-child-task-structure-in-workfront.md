@@ -6,7 +6,7 @@ activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: Jira ticket
-source-git-commit: b4951a6ee39c5ec7e929fd9c217b08ab65ab55fd
+source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
 workflow-type: tm+mt
 source-wordcount: '36'
 ht-degree: 0%
@@ -19,4 +19,4 @@ En este vídeo, aprenderá:
 
 * Cómo se estructuran las tareas en un proyecto de Workfront
 
->[!VIDEO](https://video.tv.adobe.com/v/335087/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335087/?quality=12&learn=on)

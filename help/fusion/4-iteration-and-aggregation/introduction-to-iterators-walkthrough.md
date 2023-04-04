@@ -1,6 +1,6 @@
 ---
-title: Tutorial de introducción a los iteradores
-description: Aprenda a contar el número de tareas de trabajo de un proyecto y, a continuación, calcule un valor para cada uno de los paquetes de tareas, todo en [!DNL Adobe Workfront Fusion].
+title: Introducción al tutorial de iteradores
+description: Obtenga información sobre cómo contar el número de tareas que hay que realizar en un proyecto y, a continuación, calcule un valor para cada uno de los paquetes de tareas, todas en [!DNL Adobe Workfront Fusion].
 activity: use
 team: Technical Marketing
 type: Tutorial
@@ -10,30 +10,30 @@ level: Beginner
 kt: 9021
 exl-id: 16ad5fb3-bc8f-4d95-8e4b-15b655438621
 doc-type: video
-source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
+source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
 workflow-type: tm+mt
 source-wordcount: '169'
 ht-degree: 0%
 
 ---
 
-# Tutorial de introducción a los iteradores
+# Introducción al tutorial de iteradores
 
 ## Información general
 
-Examine un proyecto específico en Workfront y, a continuación, observe todas las tareas dentro de ese proyecto. A continuación, utilizará el módulo de la herramienta de incremento para contar el número de tareas dentro del proyecto. Por último, utilizará el módulo de la variable Set para restar el número de elementos secundarios del número de problemas abiertos y generar un valor numérico para cada uno de los paquetes de tareas.
+Observe un proyecto específico en Workfront y luego observe todas las tareas dentro de ese proyecto. A continuación, utilizará el módulo de herramientas de incremento para contar el número de tareas dentro del proyecto. Por último, utilizará el módulo de variables de conjunto para restar el número de elementos secundarios del número de problemas abiertos y generar un valor numérico para cada uno de los paquetes de tareas.
 
-![Una imagen del escenario de Fusion](assets/iteration-and-aggregation-1.png)
+![Una imagen del escenario de fusión](assets/iteration-and-aggregation-1.png)
 
-## Tutorial de introducción a los iteradores
+## Introducción al tutorial de iteradores
 
-Workfront recomienda ver el vídeo del tutorial de ejercicios antes de intentar recrear el ejercicio en su propio entorno.
+Workfront recomienda ver el vídeo tutorial del ejercicio antes de intentar recrear el ejercicio en su propio entorno.
 
->[!VIDEO](https://video.tv.adobe.com/v/335278/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335278/?quality=12&learn=on)
 
 >[!TIP]
 >
->Para obtener instrucciones paso a paso sobre cómo completar el tutorial, vaya a la [Tutorial de introducción a los iteradores](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/exercises/introduction-to-iterators.html?lang=en) hacer ejercicio.
+>Para obtener instrucciones paso a paso sobre cómo completar el tutorial, vaya a la [Introducción al tutorial de iteradores](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/exercises/introduction-to-iterators.html?lang=en) ejercicio.
 
 
 ## ¿Desea obtener más información? Recomendamos lo siguiente:

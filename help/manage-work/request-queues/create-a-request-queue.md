@@ -1,6 +1,6 @@
 ---
 title: Crear una cola de solicitudes
-description: Obtenga información sobre cómo configurar una cola de solicitudes y establecer detalles de cola en [!DNL  Workfront]. Siga estos pasos para ayudar a su organización a administrar la admisión de trabajo.
+description: Obtenga información sobre cómo configurar una cola de solicitudes y establecer detalles de la cola en [!DNL  Workfront]. Siga estos pasos para ayudar a su organización a administrar la admisión de trabajo.
 activity: deploy
 feature: Work Management
 type: Tutorial
@@ -11,7 +11,7 @@ thumbnail: 335221.jpeg
 kt: 8958
 exl-id: 7d581548-7060-426d-a89b-97bddd0fbc96
 doc-type: video
-source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
+source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
 workflow-type: tm+mt
 source-wordcount: '142'
 ht-degree: 0%
@@ -20,28 +20,28 @@ ht-degree: 0%
 
 # Crear una cola de solicitudes
 
-En este vídeo, aprenderá a hacer lo siguiente:
+En este vídeo, aprenderá a:
 
 * Crear una cola de solicitudes creando primero un proyecto
-* Configurar una cola de solicitudes
-* Configurar los detalles de la cola de solicitudes
+* Configuración de una cola de solicitudes
+* Configuración de los detalles de la cola de solicitudes
 
->[!VIDEO](https://video.tv.adobe.com/v/335221/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335221/?quality=12&learn=on)
 
-## Tu turno
+## Su turno
 
-Vamos a dedicar un minuto a revisar la información que acaba de presentar.
+Tomemos un minuto para revisar la información que acaba de presentar.
 
-**Pregunta:** ¿Cuál de las siguientes opciones debe existir para que una cola de solicitudes se active? (seleccione todas las opciones aplicables)
+**Pregunta:** ¿Cuál de las siguientes debe estar en su lugar para que una cola de solicitud se active? (seleccione todas las que correspondan)
 
 1. Estado del proyecto = actual
-1. Se ha seleccionado &quot;Problema&quot; en el tipo de solicitud
+1. Se ha seleccionado &quot;Problema&quot; del tipo de solicitud
 1. &quot;Publicar como cola de solicitud de ayuda&quot; está seleccionado
 1. Estado del proyecto = Actual o Planificación
 
-**Respuesta:** 1) Estado del proyecto = actual y 3) Se selecciona Publicar como cola de solicitud de ayuda
+**Respuesta:** 1) Estado del proyecto = actual y 3) &quot;Publicar como cola de solicitud de ayuda&quot; está seleccionado
 
 **Pregunta:** Las solicitudes se pueden realizar por correo electrónico. ¿Verdadero o falso?
 
-**Respuesta:** Verdadero
+**Respuesta:** True
 

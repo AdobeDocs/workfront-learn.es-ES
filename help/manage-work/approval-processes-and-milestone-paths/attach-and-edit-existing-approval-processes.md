@@ -11,7 +11,7 @@ team: Technical Marketing
 kt: 8963
 exl-id: 4ada0ae9-1210-4484-b083-8461ee875f31
 doc-type: video
-source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
+source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
 workflow-type: tm+mt
 source-wordcount: '52'
 ht-degree: 9%
@@ -20,12 +20,12 @@ ht-degree: 9%
 
 # Adjuntar y editar procesos de aprobación existentes
 
-En este vídeo, aprenderá a hacer lo siguiente:
+En este vídeo, aprenderá a:
 
 * Utilizar un proceso de aprobación existente
 * Editar un proceso de aprobación existente para un proyecto, tarea o problema específico
 
->[!VIDEO](https://video.tv.adobe.com/v/335226/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335226/?quality=12&learn=on)
 
 <!---
 learn more URLS

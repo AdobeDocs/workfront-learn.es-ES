@@ -1,6 +1,6 @@
 ---
 title: Introducción al curso
-description: Aprenda a utilizar el presupuesto de un proyecto, rastrear los costes y los ingresos, y administrar los gastos en [!DNL  Workfront].
+description: Aprenda a utilizar el presupuesto de un proyecto, realizar un seguimiento de los costes y los ingresos y gestionar los gastos en [!DNL  Workfront].
 activity: use
 feature: Work Management
 type: Tutorial
@@ -9,7 +9,7 @@ level: Intermediate
 team: Technical Marketing
 kt: 8947
 doc-type: video
-source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
+source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
 workflow-type: tm+mt
 source-wordcount: '37'
 ht-degree: 0%
@@ -18,10 +18,10 @@ ht-degree: 0%
 
 # Introducción al curso
 
-En este vídeo, aprenderá a hacer lo siguiente:
+En este vídeo, aprenderá a:
 
-* Utilizar el presupuesto de un proyecto
+* Uso del presupuesto de un proyecto
 * Seguimiento de costes e ingresos
-* Administrar gastos
+* Gestionar gastos
 
->[!VIDEO](https://video.tv.adobe.com/v/335207/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335207/?quality=12&learn=on)

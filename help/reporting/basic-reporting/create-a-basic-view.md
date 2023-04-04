@@ -1,6 +1,6 @@
 ---
 title: Crear una vista básica
-description: Obtenga información sobre qué es una vista, cómo crearla y cómo compartir una vista con otros usuarios en Workfront.
+description: Aprenda qué es una vista, cómo crear una vista y cómo compartir una vista con otros usuarios en Workfront.
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335148.jpeg
@@ -11,7 +11,7 @@ team: Technical Marketing
 kt: 8854
 exl-id: ba3c0e10-dcf1-4a7b-bf11-ccfed9040e6d
 doc-type: video
-source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
+source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
 workflow-type: tm+mt
 source-wordcount: '298'
 ht-degree: 4%
@@ -20,19 +20,19 @@ ht-degree: 4%
 
 # Crear una vista básica
 
-En este vídeo, aprenderá lo siguiente:
+En este vídeo, aprenderá:
 
 * Qué es una vista en Workfront
 * Creación y modificación de una vista
 * Cómo compartir una vista con otros usuarios de Workfront
 
->[!VIDEO](https://video.tv.adobe.com/v/335148/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335148/?quality=12&learn=on)
 
-## Actividad: crear una vista básica
+## Actividad: Crear una vista básica
 
-Como jefe de proyecto, jefe de equipo o jefe de recursos, desea realizar un seguimiento del progreso del trabajo de las tareas. Con esta vista, se obtienen varios indicadores de estado de una tarea, todos en una fila de la lista o del informe.
+Como administrador de proyectos, jefe de equipo o administrador de recursos, desea realizar un seguimiento del progreso del trabajo de las tareas. Con esta vista, se obtienen varios indicadores de estado de una tarea en una fila de la lista o del informe.
 
-Cree una vista de tareas denominada &quot;Vista de estado de tareas&quot; con las siguientes columnas:
+Cree una vista de tarea denominada &quot;Vista de estado de tarea&quot; con las columnas siguientes:
 
 * [!UICONTROL Nombre de la tarea]
 * [!UICONTROL Asignaciones]
@@ -46,15 +46,15 @@ Cree una vista de tareas denominada &quot;Vista de estado de tareas&quot; con la
 
 ![Imagen de la pantalla para crear una nueva vista](assets/view-exercise.png)
 
-1. En un informe de lista de tareas, vaya a **[!UICONTROL Ver]** menú desplegable y seleccione **[!UICONTROL Nueva vista]**.
-1. Asigne a la vista el nombre &quot;Vista de estado de la tarea&quot;.
-1. Elimine estas columnas: [!UICONTROL Hrs pln], [!UICONTROL Predecesoras], [!UICONTROL Comenzar el], y [!UICONTROL Vence el].
-1. Clic **[!UICONTROL Agregar columna]**.
-1. En el [!UICONTROL Mostrar en esta columna] , escriba &quot;status&quot; y seleccione &quot;Status&quot; en la [!UICONTROL Tarea] origen del campo.
-1. Clic **[!UICONTROL Agregar columna]** otra vez.
-1. En el [!UICONTROL Mostrar en esta columna] , escriba &quot;estado&quot; y seleccione &quot;Estado de progreso&quot; en el campo [!UICONTROL Tarea] origen del campo.
-1. Clic **[!UICONTROL Agregar columna]** otra vez.
-1. En el [!UICONTROL Mostrar en esta columna] , escriba &quot;status&quot; y, a continuación, seleccione &quot;Status Icons&quot; en el origen del campo Task.
+1. En un informe de lista de tareas, vaya a la **[!UICONTROL Ver]** menú desplegable y seleccione **[!UICONTROL Nueva vista]**.
+1. Asigne un nombre a la vista &quot;Vista de estado de la tarea&quot;.
+1. Elimine estas columnas: [!UICONTROL Pln Hrs], [!UICONTROL Predecesores], [!UICONTROL Iniciar en]y [!UICONTROL Vence el].
+1. Haga clic en **[!UICONTROL Agregar columna]**.
+1. En el [!UICONTROL Mostrar en esta columna] , escriba &quot;status&quot; y, a continuación, seleccione &quot;Status&quot; en la sección [!UICONTROL Tarea] fuente del campo.
+1. Haga clic en **[!UICONTROL Agregar columna]** de nuevo.
+1. En el [!UICONTROL Mostrar en esta columna] , escriba &quot;status&quot; y, a continuación, seleccione &quot;Progress Status&quot; en la sección [!UICONTROL Tarea] fuente del campo.
+1. Haga clic en **[!UICONTROL Agregar columna]** de nuevo.
+1. En el [!UICONTROL Mostrar en esta columna] , escriba &quot;status&quot; y, a continuación, seleccione &quot;Status Icons&quot; en el origen del campo Task .
 1. Haga clic en **[!UICONTROL Guardar]**.
 
-Pase el ratón sobre cada uno de los iconos de la [!UICONTROL Iconos de estado] para ver lo que representan. Si aparece en gris, significa que la tarea no tiene notas, documentos, procesos de aprobación, etc. Si aparece un icono en color, hay al menos uno de ese elemento asociado con la tarea. Puede hacer clic en los iconos de la nota o del documento para ir a ese elemento.
+Pase el ratón sobre cada uno de los iconos de la sección [!UICONTROL Iconos de estado] para ver lo que representan. Si están atenuados, significa que la tarea no tiene notas, documentos, procesos de aprobación, etc. Si un icono aparece en color, hay al menos uno de los elementos asociados a la tarea. Puede hacer clic en los iconos de nota o documento para ir a ese elemento.

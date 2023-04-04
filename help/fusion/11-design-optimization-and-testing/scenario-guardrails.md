@@ -1,6 +1,6 @@
 ---
-title: Protecciones de escenario
-description: Obtenga información acerca de las protecciones de escenarios, las protecciones de módulos, las protecciones de archivos y las protecciones de ganchos web, todo en [!DNL Adobe Workfront Fusion].
+title: Protecciones del escenario
+description: Obtenga información sobre las protecciones de escenarios, las protecciones de módulos, las protecciones de archivos y las protecciones de los ganchos web, todo en [!DNL Adobe Workfront Fusion].
 activity: use
 team: Technical Marketing
 type: Tutorial
@@ -10,25 +10,25 @@ level: Beginner
 kt: 9072
 exl-id: 8d873fa6-20fb-418b-9e4e-dce59a98cd1c
 doc-type: video
-source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
+source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
 workflow-type: tm+mt
 source-wordcount: '111'
 ht-degree: 0%
 
 ---
 
-# Protecciones de escenario
+# Protecciones del escenario
 
-La automatización del trabajo requiere un procesamiento rápido, por lo que Workfront Fusion está diseñado para ofrecer un alto rendimiento. Dado que los escenarios de larga duración pueden ralentizar el ritmo de su trabajo, Workfront Fusion se ha diseñado con protecciones que preservan el rendimiento y limitan el tiempo de ejecución, el tamaño de los datos y otros parámetros de escenario. Los diseñadores de escenarios de Workfront Fusion deben tener en cuenta estas protecciones e incorporarlas en sus prácticas de diseño.
+La automatización del trabajo requiere un procesamiento rápido, por lo que Workfront Fusion está diseñado para ofrecer un alto rendimiento. Como los escenarios de larga duración pueden ralentizar el ritmo de su trabajo, Workfront Fusion se ha diseñado con protecciones que preservan el rendimiento y que limitan el tiempo de ejecución, el tamaño de los datos y otros parámetros de escenario. Los diseñadores de escenarios de Workfront Fusion deben tener en cuenta estas barreras e incorporarlas en sus prácticas de diseño.
 
-En este vídeo, aprenderá lo siguiente:
+En este vídeo, aprenderá sobre:
 
-* Protecciones de escenario
+* Protecciones del escenario
 * Protecciones de módulo
 * Protecciones de archivos
-* Protecciones de webhook
+* Protecciones de Weblock
 
->[!VIDEO](https://video.tv.adobe.com/v/335314/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335314/?quality=12&learn=on)
 
 ## ¿Desea obtener más información? Recomendamos lo siguiente:
 

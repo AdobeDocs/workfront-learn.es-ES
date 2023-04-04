@@ -6,7 +6,7 @@ activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: Jira ticket
-source-git-commit: 7cdce710ecc6fbcdccfe147a40623dc96f07ed2c
+source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
 workflow-type: tm+mt
 source-wordcount: '45'
 ht-degree: 0%
@@ -20,4 +20,4 @@ En este vídeo, aprenderá:
 * El propósito del estado
 * Cambio del estado de las asignaciones de trabajo
 
->[!VIDEO](https://video.tv.adobe.com/v/335101/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335101/?quality=12&learn=on)

@@ -1,6 +1,6 @@
 ---
 title: Familiarícese con aplicaciones adicionales y módulos comunes
-description: Descubra cuáles son los déclencheur, las acciones y las búsquedas, y cómo funcionan los tipos de módulos encontrados en diferentes conectores de aplicaciones en [!DNL Adobe Workfront Fusion].
+description: Descubra cuáles son los déclencheur, las acciones y las búsquedas y cómo funcionan los tipos de módulos que se encuentran en los distintos conectores de la aplicación en [!DNL Adobe Workfront Fusion].
 activity: use
 team: Technical Marketing
 type: Tutorial
@@ -10,7 +10,7 @@ level: Beginner
 kt: 9046
 exl-id: e078a9e9-69c8-40a1-9ad1-e9517acf3ee6
 doc-type: video
-source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
+source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
 workflow-type: tm+mt
 source-wordcount: '181'
 ht-degree: 0%
@@ -23,25 +23,25 @@ ht-degree: 0%
 
 ### módulos de déclencheur
 
-Solo se puede utilizar como primer módulo y puede devolver cero, uno o más paquetes que se procesarán individualmente en módulos posteriores, a menos que se agreguen.
+Solo se puede utilizar como el primer módulo y puede devolver cero, uno o más paquetes que se procesarán individualmente en módulos posteriores, a menos que se agreguen.
 
-* **Déclencheur instantáneo** (Rayo en el Déclencheur): se activa inmediatamente en función del gancho web.
+* **Déclencheur instantáneo** (Tornillo de relámpago en el Déclencheur): se activa inmediatamente en función del enlace de red.
 * **Déclencheur programado** (Reloj en el Déclencheur): funciones especiales para realizar un seguimiento del último registro procesado.
 
 ![Una imagen de los módulos de déclencheur](assets/beyond-basic-modules-1.png)
 
 ### Acciones y módulos de búsqueda
 
-* **Acción** — Se utiliza para realizar operaciones CRUD (crear, leer, actualizar y eliminar).
-* **Búsquedas** — Se utiliza para buscar cero, uno o más registros y los devuelve como paquetes que se procesarán individualmente en módulos subsiguientes, a menos que se agreguen.
+* **Acción** — Se utiliza para realizar operaciones de CRUD (Crear, Leer, Actualizar y Eliminar).
+* **Búsquedas** — Se utiliza para buscar cero, uno o más registros y los devuelve como paquetes que se procesarán individualmente en módulos posteriores, a menos que se agreguen.
 
 ![Una imagen de los módulos de acción y búsqueda](assets/beyond-basic-modules-2.png)
 
 ### Familiarícese con aplicaciones adicionales y módulos comunes
 
-En este vídeo, aprenderá lo siguiente:
+En este vídeo, aprenderá:
 
 * Qué son los déclencheur, las acciones y las búsquedas y en qué se diferencian
 * Tipos de módulos encontrados en diferentes conectores de aplicaciones y cómo funcionan
 
->[!VIDEO](https://video.tv.adobe.com/v/335287/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335287/?quality=12&learn=on)

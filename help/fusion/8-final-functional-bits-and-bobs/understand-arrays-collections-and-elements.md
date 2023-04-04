@@ -1,6 +1,6 @@
 ---
-title: Explicación de matrices, colecciones y elementos
-description: Descubra cómo se pueden organizar los datos en matrices, colecciones y elementos, y cómo trabajar con matrices simples y complejas, en [!DNL Adobe Workfront Fusion].
+title: Comprender matrices, colecciones y elementos
+description: Aprenda cómo se pueden organizar los datos en matrices, colecciones y elementos, y cómo trabajar con matrices simples y complejas, en [!DNL Adobe Workfront Fusion].
 activity: use
 team: Technical Marketing
 type: Tutorial
@@ -10,19 +10,19 @@ level: Beginner
 kt: 9057
 exl-id: 6c8f7a4d-ff38-4b3f-a12b-91349669cc52
 doc-type: video
-source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
+source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
 workflow-type: tm+mt
 source-wordcount: '62'
 ht-degree: 0%
 
 ---
 
-# Explicación de matrices, colecciones y elementos
+# Comprender matrices, colecciones y elementos
 
-En este vídeo, aprenderá lo siguiente:
+En este vídeo, aprenderá:
 
-* Cómo se organizan los datos en matrices, colecciones y elementos
-* La diferencia entre matrices simples y complejas
-* Cómo trabajar con matrices simples y complejas
+* Comúnmente, los datos se organizan en matrices, colecciones y elementos
+* La diferencia entre arreglos de discos simples y complejos
+* Cómo trabajar con arreglos de discos simples y complejos
 
->[!VIDEO](https://video.tv.adobe.com/v/335298/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335298/?quality=12&learn=on)

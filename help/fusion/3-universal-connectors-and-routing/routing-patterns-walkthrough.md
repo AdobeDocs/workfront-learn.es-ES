@@ -1,6 +1,6 @@
 ---
-title: Tutorial de patrones de enrutamiento
-description: Aprenda a utilizar el módulo Establecer variable para enviar un número a través de varias rutas y ver cómo se comportan los filtros y las retrospectivas en [!DNL Adobe Workfront Fusion].
+title: Recorrido por los patrones de enrutamiento
+description: Aprenda a utilizar el módulo Set Variable para enviar un número a través de varias rutas para ver cómo se comportan los filtros y las visitas en el orden previsto en [!DNL Adobe Workfront Fusion].
 activity: use
 team: Technical Marketing
 type: Tutorial
@@ -10,30 +10,30 @@ level: Beginner
 kt: 9015
 exl-id: 3ba15bf6-b296-4356-9974-1262c5d97602
 doc-type: video
-source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
+source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
 workflow-type: tm+mt
 source-wordcount: '124'
 ht-degree: 0%
 
 ---
 
-# Tutorial sobre patrones de enrutamiento y reserva
+# Guía de patrones de enrutamiento y visitas en el orden previsto
 
 ## Información general
 
-Utilice el módulo Establecer variable para enviar un número a través de varias rutas para ver cómo se comportan los filtros y las retrospectivas al enrutar.
+Utilice el módulo Set Variable para enviar un número a través de varias rutas para ver cómo se comportan los filtros y las visitas en el orden previsto al enrutar.
 
-![Una imagen del escenario de Fusion](assets/universal-connectors-and-routing-7.png)
+![Una imagen del escenario de fusión](assets/universal-connectors-and-routing-7.png)
 
-## Tutorial de patrones de enrutamiento
+## Recorrido por los patrones de enrutamiento
 
-Workfront recomienda ver el vídeo del tutorial de ejercicios antes de intentar recrear el ejercicio en su propio entorno.
+Workfront recomienda ver el vídeo tutorial del ejercicio antes de intentar recrear el ejercicio en su propio entorno.
 
->[!VIDEO](https://video.tv.adobe.com/v/335274/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335274/?quality=12&learn=on)
 
 >[!TIP]
 >
->Para obtener instrucciones paso a paso sobre cómo completar el tutorial, vaya a la [Tutorial de patrones de enrutamiento](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/exercises/routing-patterns.html?lang=en) hacer ejercicio.
+>Para obtener instrucciones paso a paso sobre cómo completar el tutorial, vaya a la [Recorrido por los patrones de enrutamiento](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/exercises/routing-patterns.html?lang=en) ejercicio.
 
 
 ## ¿Desea obtener más información? Recomendamos lo siguiente:

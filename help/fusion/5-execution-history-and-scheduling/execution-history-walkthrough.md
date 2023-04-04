@@ -1,6 +1,6 @@
 ---
-title: Tutorial del historial de ejecución
-description: Obtenga información sobre cómo revisar el historial de ejecución de un escenario para comprender qué ha sucedido en [!DNL Adobe Workfront Fusion].
+title: Recorrido del historial de ejecución
+description: Obtenga información sobre cómo revisar el historial de ejecución de un escenario para comprender lo que ha sucedido cuando [!DNL Adobe Workfront Fusion].
 activity: use
 team: Technical Marketing
 type: Tutorial
@@ -10,38 +10,38 @@ level: Beginner
 kt: 9042
 exl-id: 370ea489-3b91-4b5b-b5e5-7948bbee1148
 doc-type: video
-source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
+source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
 workflow-type: tm+mt
 source-wordcount: '296'
 ht-degree: 0%
 
 ---
 
-# Tutorial del historial de ejecución
+# Recorrido del historial de ejecución
 
 ## Información general
 
-Revise el historial de ejecución para el escenario &quot;Uso del filtro avanzado&quot; para comprender qué ocurrió cuando se produjeron las ejecuciones y cómo se estructuraron cuando se ejecutaron.
+Revise el historial de ejecución para el escenario &quot;Uso del filtro poderoso&quot; para comprender qué ocurrió cuando ocurrieron las ejecuciones y cómo estaban estructuradas cuando se ejecutaron.
 
-![Imagen del historial de ejecución en un escenario de Fusion](assets/execution-history-and-scheduling-1.png)
+![Imagen del historial de ejecución en un escenario de fusión](assets/execution-history-and-scheduling-1.png)
 
-## Tutorial del historial de ejecución
+## Recorrido del historial de ejecución
 
-Workfront recomienda ver el vídeo del tutorial de ejercicios antes de intentar recrear el ejercicio en su propio entorno.
+Workfront recomienda ver el vídeo tutorial del ejercicio antes de intentar recrear el ejercicio en su propio entorno.
 
->[!VIDEO](https://video.tv.adobe.com/v/335283/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335283/?quality=12&learn=on)
 
 >[!TIP]
 >
->Para obtener instrucciones paso a paso sobre cómo completar el tutorial, vaya a la [Tutorial del historial de ejecución](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/exercises/execution-history.html?lang=en) hacer ejercicio.
+>Para obtener instrucciones paso a paso sobre cómo completar el tutorial, vaya a la [Recorrido del historial de ejecución](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/exercises/execution-history.html?lang=en) ejercicio.
 
 ## Búsqueda de texto completo en la pestaña del historial
 
-La búsqueda de texto completo está disponible en la pestaña Historial de un escenario, lo que le permite buscar cualquier dato procesado en el escenario.
+La búsqueda de texto completo está disponible en la pestaña del historial de un escenario, lo que le permite buscar cualquier dato procesado en el escenario.
 
-![Una imagen de la búsqueda del historial de ejecución](assets/execution-history-and-scheduling-2.png)
+![Imagen de búsqueda del historial de ejecución](assets/execution-history-and-scheduling-2.png)
 
-En lugar de abrir cada ejecución para buscar datos, la búsqueda de texto completo busca en todas las ejecuciones dentro de un solo escenario. Los resultados de la búsqueda proporcionan una lista de ejecuciones en las que se han encontrado los datos y puede hacer clic en cualquier ejecución para explorar más a fondo.
+En lugar de abrir cada ejecución para buscar datos, la búsqueda de texto completo busca en todas las ejecuciones dentro de un solo escenario. Los resultados de la búsqueda proporcionan una lista de ejecuciones en las que se encontraron los datos y se puede hacer clic en cualquier ejecución para explorarlos más a fondo.
 
 ![Imagen de una búsqueda del historial de ejecución](assets/execution-history-and-scheduling-3.png)
 
@@ -53,13 +53,13 @@ B: si los datos estaban en la entrada o en la salida del módulo en el que se en
 
 C: ID de ejecución.
 
-D: permite copiar el ID de ejecución.
+D: copie el ID de ejecución.
 
-![Imagen de un resultado de búsqueda del historial de ejecución](assets/execution-history-and-scheduling-4.png)
+![Imagen de los resultados de búsqueda del historial de ejecución](assets/execution-history-and-scheduling-4.png)
 
 Al hacer clic en una ejecución, Workfront Fusion carga la ejecución y el módulo donde se encontró el resultado de la búsqueda. Y abre el inspector de ejecución en el módulo que contiene los datos de búsqueda.
 
-![Imagen de un vínculo de historial de ejecución](assets/execution-history-and-scheduling-5.png)
+![Una imagen de un historial de ejecución vincula](assets/execution-history-and-scheduling-5.png)
 
 
 ## ¿Desea obtener más información? Recomendamos lo siguiente:

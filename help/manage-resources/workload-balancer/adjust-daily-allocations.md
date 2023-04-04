@@ -1,6 +1,6 @@
 ---
-title: Ajustar las asignaciones diarias en el Distribuidor de cargas de trabajo
-description: Aprenda a redistribuir las horas o los porcentajes asignados y a reasignar el trabajo de un usuario a otro.
+title: Ajustar asignaciones diarias en el equilibrador de carga de trabajo
+description: Aprenda a redistribuir las horas o porcentajes asignados y reasignar el trabajo de un usuario a otro.
 feature: Resource Management
 type: Tutorial
 role: Leader, User
@@ -11,19 +11,19 @@ thumbnail: 335165.png
 kt: 8877
 exl-id: 27b9da27-d70c-45e7-a99d-d26cccc5277d
 doc-type: video
-source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
+source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
 workflow-type: tm+mt
 source-wordcount: '48'
 ht-degree: 0%
 
 ---
 
-# Ajuste de las asignaciones diarias en [!DNL Workload Balancer]
+# Ajuste las asignaciones diarias en la variable [!DNL Workload Balancer]
 
-En este vídeo, aprenderá a hacer lo siguiente:
+En este vídeo, aprenderá a:
 
 * Redistribuir horas o porcentajes asignados
-* Reasignar el trabajo de un usuario a otro
+* Reasignar trabajo de un usuario a otro
 
 
->[!VIDEO](https://video.tv.adobe.com/v/335165/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335165/?quality=12&learn=on)

@@ -1,6 +1,6 @@
 ---
-title: Publique un proyecto
-description: Aprenda a tomar su [!DNL  Workfront] proyecto activo mediante el estado del proyecto.
+title: Realizar un proyecto en vivo
+description: Aprenda a tomar su [!DNL  Workfront] proyecto en directo con el estado del proyecto.
 activity: use
 feature: Work Management
 thumbnail: 335093.jpeg
@@ -11,17 +11,17 @@ team: Technical Marketing
 kt: 8780
 exl-id: 100aed51-2ab4-4a75-af2b-1860c7463a3c
 doc-type: video
-source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
+source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
 workflow-type: tm+mt
 source-wordcount: '35'
 ht-degree: 0%
 
 ---
 
-# Publique un proyecto
+# Realizar un proyecto en vivo
 
-En este vídeo, aprenderá a hacer lo siguiente:
+En este vídeo, aprenderá a:
 
-* Publique el proyecto mediante el estado del proyecto
+* Activación del proyecto mediante el estado del proyecto
 
->[!VIDEO](https://video.tv.adobe.com/v/335093/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335093/?quality=12&learn=on)

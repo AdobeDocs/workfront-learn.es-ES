@@ -7,7 +7,7 @@ doc-type: feature video
 team: Technical Marketing
 kt: Jira ticket
 role: Admin
-source-git-commit: 7cdce710ecc6fbcdccfe147a40623dc96f07ed2c
+source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
 workflow-type: tm+mt
 source-wordcount: '66'
 ht-degree: 0%
@@ -22,4 +22,4 @@ En este vídeo, aprenderá a:
 * Agregar elementos al menú del panel izquierdo
 * Reorganizar elementos en el menú del panel
 
->[!VIDEO](https://video.tv.adobe.com/v/335075/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335075/?quality=12&learn=on)

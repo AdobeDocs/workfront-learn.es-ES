@@ -1,5 +1,5 @@
 ---
-title: Añadir [!UICONTROL Analytics] a plantillas de diseño
+title: Agregar [!UICONTROL Analytics] para plantillas de diseño
 description: Descubra cómo los administradores de sistemas y grupos conceden acceso a Analytics.
 activity: use
 feature: Reports and Dashboards
@@ -11,20 +11,20 @@ team: Technical Marketing
 kt: 8726
 exl-id: 4bdff3ba-772f-4526-ab6b-8428f695d9a2
 doc-type: video
-source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
+source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
 workflow-type: tm+mt
 source-wordcount: '105'
 ht-degree: 0%
 
 ---
 
-# Añadir [!UICONTROL Análisis mejorado] a plantillas de diseño
+# Agregar [!UICONTROL Análisis mejorado] para plantillas de diseño
 
-En este vídeo, aprenderá lo siguiente:
+En este vídeo, aprenderá:
 
-* Cómo los administradores de sistemas y grupos conceden acceso a [!UICONTROL Analytics] en el [!UICONTROL Nueva experiencia de Workfront]
-* Cómo los administradores de sistemas y grupos conceden acceso a [!UICONTROL Analytics] in [!UICONTROL Workfront Classic]
+* Cómo conceden acceso los administradores de sistemas y grupos a [!UICONTROL Analytics] en el [!UICONTROL Nueva experiencia de Workfront]
+* Cómo conceden acceso los administradores de sistemas y grupos a [!UICONTROL Analytics] en [!UICONTROL Workfront Classic]
 
->[!VIDEO](https://video.tv.adobe.com/v/335045/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335045/?quality=12&learn=on)
 
-Cualquier persona con una licencia de Workfront ([!UICONTROL Trabajo], [!UICONTROL Plan], o [!UICONTROL Colaborador] in [!UICONTROL Workfront Business] planes o superior) puede acceder a [!UICONTROL Analytics] una vez añadido a la plantilla de diseño, se les asigna. Sin embargo, solo verá los proyectos y la información de los usuarios si su nivel de acceso a Workfront lo permite, y los permisos de uso compartido en proyectos y usuarios específicos.
+Cualquier persona con una licencia de Workfront ([!UICONTROL Trabajo], [!UICONTROL Plan]o [!UICONTROL Colaborador] en [!UICONTROL Workfront Business] planes o superior) pueden acceder a [!UICONTROL Analytics] una vez añadida a la plantilla de diseño, se les asigna. Sin embargo, solo verá los proyectos y la información del usuario si lo permite su nivel de acceso de Workfront y los permisos de uso compartido en proyectos y usuarios específicos.

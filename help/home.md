@@ -1,19 +1,19 @@
 ---
 title: Tutorials de Workfront
-description: Una biblioteca de vídeos y artículos de formación diseñados para ayudarle a comprender mejor las funciones y la configuración de Workfront.  Se incluye una colección de prácticas recomendadas, ejercicios depurados y otros recursos que le ayudarán a usted y a su organización a tener éxito con Workfront.
+description: Una biblioteca de vídeos de formación y artículos diseñados para ayudarle a comprender mejor las funciones y la configuración de Workfront.  Se incluye una colección de prácticas recomendadas, ejercicios organizados y otros recursos que ayudarán tanto a usted como a su organización a tener éxito con Workfront.
 exl-id: 07d2a063-357e-4ced-bf67-e80025c21b45
-source-git-commit: 59074bd3a448ad6d564f59599b8f57efc28982d1
+source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '206'
 ht-degree: 0%
 
 ---
 
 # Tutorials de Workfront {#overview}
 
-Una biblioteca de vídeos y artículos de formación diseñados para ayudarle a comprender mejor las funciones y la configuración de Workfront.  Se incluye una colección de prácticas recomendadas, ejercicios depurados y otros recursos que le ayudarán a usted y a su organización a tener éxito con Workfront.
+Una biblioteca de vídeos de formación y artículos diseñados para ayudarle a comprender mejor las funciones y la configuración de Workfront.  Se incluye una colección de prácticas recomendadas, ejercicios organizados y otros recursos que ayudarán tanto a usted como a su organización a tener éxito con Workfront.
 
->[!VIDEO](https://video.tv.adobe.com/v/335063/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335063/?quality=12&learn=on)
 
 <!-- 
 
@@ -26,11 +26,11 @@ See other user landing pages to get ideas.
 
 ## ¿Qué hay de nuevo?
 
-Explore las últimas actualizaciones realizadas en los tutoriales de cada versión del producto de Workfront. Esto es lo que se ha actualizado con la última versión:
+Explore las últimas actualizaciones realizadas en los tutoriales de cada versión de producto de Workfront. Esto es lo que se actualizó con la última versión:
 
-* Los iconos Favoritos y Recientes se separaban en la barra de navegación superior de Workfront. Puede encontrar un breve resumen de cada uno en la <a href="/help/manage-work/projects/find-projects.md">Buscar proyectos</a> tutorial.
+* Los iconos favoritos y recientes estaban separados en la navegación superior de Workfront. Puede encontrar un breve resumen de cada uno en la <a href="/help/manage-work/projects/find-projects.md">Buscar proyectos</a> tutorial.
 
-* Configure un formulario personalizado para trabajar con varios tipos de objetos. Vea cómo en la <a href="/help/custom-data/custom-forms/custom-forms-creating-and-sharing-a-custom-form.md">crear y compartir un formulario personalizado</a> tutorial.
+* Configure un formulario personalizado para que funcione con varios tipos de objetos. Consulte cómo en la <a href="/help/custom-data/custom-forms/custom-forms-creating-and-sharing-a-custom-form.md">crear y compartir un formulario personalizado</a> tutorial.
 
 </div>
 
@@ -71,13 +71,13 @@ Explore las últimas actualizaciones realizadas en los tutoriales de cada versi�
 
 <td>
       <a href="/help/reporting/basic-reporting/create-a-simple-report.md">
-      <img alt="Creación de un informe simple" src="./assets/sreport_01.png"/>
+      <img alt="Crear un informe simple" src="./assets/sreport_01.png"/>
       </a>
       <div>
-         <a href="/help/reporting/basic-reporting/create-a-simple-report.md"><strong>Creación de un informe simple</strong></a>
+         <a href="/help/reporting/basic-reporting/create-a-simple-report.md"><strong>Crear un informe simple</strong></a>
       </div>
       <p>
-         <em>Aprenda a crear un informe personalizado simple.</em>
+         <em>Obtenga información sobre cómo crear un informe personalizado simple.</em>
       </p>
     </td>
   </tr>

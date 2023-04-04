@@ -1,6 +1,6 @@
 ---
-title: Uso de filtros
-description: Aprenda a utilizar filtros entre módulos y dentro de un módulo y a revisar el historial de ejecución, todo en [!DNL Adobe Workfront Fusion].
+title: Usar filtros
+description: Aprenda a utilizar filtros entre módulos y dentro de un módulo, y revise el historial de ejecución, todo en [!DNL Adobe Workfront Fusion].
 activity: use
 team: Technical Marketing
 type: Tutorial
@@ -10,19 +10,19 @@ level: Beginner
 kt: 9005
 exl-id: 1e47a475-0d20-4516-b6ef-86166263d3b5
 doc-type: video
-source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
+source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
 workflow-type: tm+mt
 source-wordcount: '47'
 ht-degree: 0%
 
 ---
 
-# Uso de filtros
+# Usar filtros
 
-En este vídeo, aprenderá a hacer lo siguiente:
+En este vídeo, aprenderá a:
 
-* Uso de filtros entre módulos
-* Uso de filtros como criterios de búsqueda dentro de un módulo
-* Revisar la evaluación de filtros en el historial de ejecución
+* Utilizar filtros entre módulos
+* Utilizar filtros como criterios de búsqueda dentro de un módulo
+* Revisar evaluación de filtros en el historial de ejecución
 
->[!VIDEO](https://video.tv.adobe.com/v/335265/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335265/?quality=12&learn=on)

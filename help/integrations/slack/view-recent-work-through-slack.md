@@ -1,6 +1,6 @@
 ---
-title: Ver trabajo reciente realizado [!DNL Slack]
-description: Obtenga información sobre cómo ver el trabajo reciente mediante Slack
+title: Ver el trabajo reciente hasta [!DNL Slack]
+description: Descubra cómo ver el trabajo reciente a través del Slack
 activity: use
 feature: Workfront Integrations and Apps
 type: Tutorial
@@ -10,17 +10,17 @@ team: Technical Marketing
 kt: 8820
 exl-id: e2ac4704-27d9-49fe-96a4-fd8fe8b48d94
 doc-type: video
-source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
+source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
 workflow-type: tm+mt
 source-wordcount: '28'
 ht-degree: 0%
 
 ---
 
-# Ver trabajo reciente realizado [!DNL Slack]
+# Ver el trabajo reciente hasta [!DNL Slack]
 
-En este vídeo, aprenderá a hacer lo siguiente:
+En este vídeo, aprenderá a:
 
-* Ver trabajo reciente realizado [!DNL Slack]
+* Ver el trabajo reciente hasta [!DNL Slack]
 
->[!VIDEO](https://video.tv.adobe.com/v/335120/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335120/?quality=12&learn=on)
