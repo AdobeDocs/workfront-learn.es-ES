@@ -1,5 +1,5 @@
 ---
-title: Agregar [!DNL Workfront Goals] a una plantilla de diseño
+title: Cree una plantilla de diseño para [!DNL Workfront Goals] usuarios
 description: Obtenga información sobre cómo crear una plantilla de diseño con [!DNL Workfront Goals], assign the layout template to users, and change [!DNL Goals] terminología para adaptarse a su organización.
 activity: use
 feature: Workfront Goals
@@ -10,14 +10,14 @@ team: Technical Marketing
 kt: 8896
 exl-id: 6ece64db-3d96-4b14-bbd0-5e5b81e6cab5
 doc-type: video
-source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
+source-git-commit: a756a30923ce863c953300fd89ea8ad6db9e91d1
 workflow-type: tm+mt
-source-wordcount: '82'
+source-wordcount: '84'
 ht-degree: 0%
 
 ---
 
-# Cree una plantilla de diseño con [!DNL Workfront Goals]
+# Cree una plantilla de diseño para [!DNL Workfront Goals] usuarios
 
 En el **[!UICONTROL Configuración]** , también puede crear y asignar una plantilla de diseño que incluya [!DNL Workfront Goals] para que usted y los usuarios puedan acceder a él con mayor facilidad.
 
