@@ -10,9 +10,9 @@ team: Technical Marketing
 kt: 8923
 exl-id: 4ba304c2-94e0-4425-a74b-bcb825c3a97d
 doc-type: video
-source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
+source-git-commit: 8406bee48af87b80d0bcbff08fb682b8da80a091
 workflow-type: tm+mt
-source-wordcount: '482'
+source-wordcount: '489'
 ht-degree: 0%
 
 ---
@@ -25,11 +25,11 @@ Ahora que ha creado y activado sus objetivos en [!DNL Workfront Goals], asegúre
 
 <!--Insert link to LP 1, above -->
 
-Utilice la alineación de objetivos para:
+Utilice la sección Alineación de objetivos para:
 
 * Vea los objetivos que le pertenecen a usted o a su organización.
 * Mostrar jerarquía de objetivos y ver objetivos secundarios alineados.
-* Acceda al panel Detalles del objetivo y actualice el objetivo, sus resultados o actividades.
+* Abra el objetivo para ver sus indicadores de progreso.
 
 Garantizar que los objetivos estén alineados significa que todos desde arriba hacia abajo se ejecutarán en un trabajo que impulse las mismas iniciativas hacia adelante. La visualización es una parte importante de cómo cada objetivo corporativo superior se alinea directamente con los niveles departamental, de equipo e individual. Los silos se reducen alineando equipos de forma interfuncional. La alineación crea claridad en torno al propósito de todos y conecta la organización con lo que realmente importa.
 
@@ -49,6 +49,7 @@ Estas son algunas cosas que hay que tener en cuenta antes de alinear los objetiv
 
 En este vídeo, aprenderá a:
 
-* Vaya a la [!UICONTROL Alineación de objetivos] página
+* Alinear objetivos utilizando un enfoque ascendente o descendente
+* Vaya a la [!UICONTROL Alineación de objetivos] sección
 
 >[!VIDEO](https://video.tv.adobe.com/v/335195/?quality=12&learn=on)
