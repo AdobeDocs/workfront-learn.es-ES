@@ -10,9 +10,9 @@ team: Technical Marketing
 kt: 8924
 exl-id: c535cb38-bc33-403c-a9a0-3333d715eb14
 doc-type: video
-source-git-commit: 8406bee48af87b80d0bcbff08fb682b8da80a091
+source-git-commit: 36c13f5b6d5d2cbf6143d659861a7988153aeb7e
 workflow-type: tm+mt
-source-wordcount: '41'
+source-wordcount: '37'
 ht-degree: 0%
 
 ---

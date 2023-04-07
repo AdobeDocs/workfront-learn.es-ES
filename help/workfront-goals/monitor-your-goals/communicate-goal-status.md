@@ -9,21 +9,20 @@ role: User
 level: Beginner
 kt: 10120
 exl-id: 337b187d-bc73-48ca-9e2a-08ea164ad457
-source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
+source-git-commit: 36c13f5b6d5d2cbf6143d659861a7988153aeb7e
 workflow-type: tm+mt
-source-wordcount: '482'
+source-wordcount: '466'
 ht-degree: 1%
 
 ---
 
 # Comunicar el estado del objetivo
 
-Ahora que ha actualizado sus objetivos utilizando [!UICONTROL Registros], dedique un momento a retroceder y obtenga una vista de pájaro de los objetivos en los que está trabajando y cómo se relacionan con los objetivos de equipo, grupo y compañía. Comunicarse con otros sobre el progreso y el estado de sus objetivos es una parte importante para mantenerse alineados.
+Ahora que has actualizado tus objetivos usando, toma un momento para retroceder y obtener una vista de pájaro de los objetivos en los que estás trabajando y cómo se relacionan con los objetivos de equipo, grupo y compañía. Comunicarse con otros sobre el progreso y el estado de sus objetivos es una parte importante para mantenerse alineados.
 
 Hay varias maneras de mantener a las personas adecuadas actualizadas sobre sus objetivos. Puede empezar por:
 
 * Uso compartido y creación de informes sobre sus objetivos
-* Configuración de la vista del [!UICONTROL Pulse] flujo para crear y ver actualizaciones de objetivos individuales
 * Aprovechamiento del [!UICONTROL Gráficos] para obtener una instantánea completa del progreso de sus objetivos
 
 ## Compartir un objetivo

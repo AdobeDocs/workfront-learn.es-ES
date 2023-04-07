@@ -9,9 +9,9 @@ role: User
 level: Beginner
 kt: 10119
 exl-id: fa7aba9b-503e-4fad-93ee-9b709a839e11
-source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
+source-git-commit: 36c13f5b6d5d2cbf6143d659861a7988153aeb7e
 workflow-type: tm+mt
-source-wordcount: '271'
+source-wordcount: '275'
 ht-degree: 0%
 
 ---
@@ -34,11 +34,8 @@ El progreso de su objetivo es una buena manera de obtener una idea de dónde se 
 
 ![Un gráfico que cubre las distintas etiquetas de progreso de [!DNL Workfront Goals]](assets/15-workfront-goals-progress-bar-code.png)
 
-![Captura de pantalla de la columna de porcentaje de progreso del objetivo en la [!UICONTROL Registro] sección de [!DNL Workfront Goals]](assets/16-workfront-goals-progress-status-bar.png)
 
-<!-- Learn more graphic -->
+>[!TIP]
+>
+>Para obtener más información sobre las fórmulas utilizadas para calcular el progreso del objetivo, consulte este artículo: [Resumen del progreso y la condición del objetivo en los objetivos de Adobe Workfront](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-goals/goal-management/calculate-goal-progress.html?lang=en#overview-of-goal-progress-and-threshold).
 
-* Para obtener más información sobre las fórmulas utilizadas para calcular el progreso del objetivo, consulte el artículo Calcular el progreso del objetivo en [!DNL   Goals].
-
-
-<!-- need link to documentation article, above -->
