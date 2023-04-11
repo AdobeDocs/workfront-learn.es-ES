@@ -3,9 +3,9 @@ user-guide-description: Tutoriales de Workfront
 role: User
 level: Beginner
 feature-set: Workfront
-source-git-commit: 8406bee48af87b80d0bcbff08fb682b8da80a091
+source-git-commit: 0e724793f2c222cc82f8a01ccd4b338e26812812
 workflow-type: tm+mt
-source-wordcount: '2346'
+source-wordcount: '2353'
 ht-degree: 2%
 
 ---
@@ -222,6 +222,7 @@ ht-degree: 2%
       + [Parte 2 de los informes avanzados](reporting/advanced-reporting/advanced-reporting-part-2.md)
       + [Parte 3 de los informes avanzados](reporting/advanced-reporting/advanced-reporting-part-3.md)
    + Análisis mejorado {#enhanced-analytics}
+      + [Un momento con Product acerca de [!UICONTROL Análisis mejorado]](reporting/enhanced-analytics/1-intro-to-workfront-analytics.md)
       + [Introducción a [!UICONTROL Análisis mejorado]](reporting/enhanced-analytics/2-getting-started-with-enhanced-analytics.md)
       + [Agregar [!UICONTROL analytics] para plantillas de diseño](reporting/enhanced-analytics/3-adding-analytics-to-layout-templates.md)
       + [Comprender la navegación básica](reporting/enhanced-analytics/4-basic-navigation.md)
@@ -274,7 +275,7 @@ ht-degree: 2%
       + [Ver el tiempo de espera al asignar tareas](manage-resources/pto/see-time-off-when-assigning-tasks.md)
       + [Visibilidad en las herramientas de administración de recursos](manage-resources/pto/visibility-in-resource-management-tools.md)
    + Planificador de escenarios {#scenario-planner}
-      + [Un momento con producto acerca del planificador de escenarios](manage-resources/scenario-planner/a-moment-with-product-workfront-scenario-planner.md)
+      + [Un momento con Product acerca del planificador de escenarios](manage-resources/scenario-planner/a-moment-with-product-workfront-scenario-planner.md)
       + [¿Qué es el planificador de escenarios?](manage-resources/scenario-planner/what-is-scenario-planner.md)
       + [Acceso a un plan en el planificador de escenarios](manage-resources/scenario-planner/access-a-plan-in-scenario-planner.md)
       + [Crear planes en el planificador de escenarios](manage-resources/scenario-planner/create-plans-in-the-scenario-planner.md)
