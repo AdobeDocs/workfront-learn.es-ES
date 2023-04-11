@@ -10,16 +10,14 @@ level: Beginner
 kt: 9060
 exl-id: 0d718e87-2faa-47d7-97d9-314071b329cb
 doc-type: video
-source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
+source-git-commit: 57b112921738c01fe4222e50403c8953c412a0f7
 workflow-type: tm+mt
-source-wordcount: '131'
+source-wordcount: '130'
 ht-degree: 0%
 
 ---
 
 # Uso del tutorial de JSON
-
-## Información general
 
 Aprenda a crear y analizar JSON en un escenario para satisfacer sus necesidades de diseño.
 

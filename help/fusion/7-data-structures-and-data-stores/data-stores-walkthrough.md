@@ -10,16 +10,14 @@ level: Beginner
 kt: 9055
 exl-id: e96fd109-2463-4702-b1bf-b42a6dcd7fc4
 doc-type: video
-source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
+source-git-commit: 57b112921738c01fe4222e50403c8953c412a0f7
 workflow-type: tm+mt
-source-wordcount: '427'
+source-wordcount: '426'
 ht-degree: 0%
 
 ---
 
 # Recorrido por las tiendas de datos
-
-## Información general
 
 En este ejercicio utilizamos un almacén de datos para sincronizar los nombres de las empresas entre una lista de empresas y Workfront.
 
@@ -46,7 +44,7 @@ Las estructuras de datos se utilizan habitualmente para serializar o analizar fo
 
 Los almacenes de datos solo deben utilizarse para almacenar datos persistentes a los que es necesario acceder mediante más de una ejecución de escenario. Por ejemplo, puede almacenar metadatos sobre el último registro procesado para casos de uso avanzados que requieran un control preciso sobre el procesamiento.
 
-Los almacenes de datos no están diseñados para utilizarse como almacén de datos o registro. No se puede acceder a los almacenes de datos fuera de Workfront Fusion y la mayoría de las interacciones con almacenes de datos se realizan a través de un escenario de Workfront Fusion. Por lo tanto, no es posible conectar un almacén de datos a una herramienta de análisis o de informes que se esperaría para casos de uso de registro y almacén de datos. La función de Workfront Fusion en casos de uso como estos sería rellenar un sistema apropiado para organizar y almacenar datos (por ejemplo, SQL, MariaDB).
+Los almacenes de datos no están diseñados para utilizarse como almacén de datos o registro. No se puede acceder a los almacenes de datos fuera de Workfront Fusion y la mayoría de las interacciones con almacenes de datos se realizan a través de un escenario de Workfront Fusion. Por lo tanto, no es posible conectar un almacén de datos a una herramienta de análisis o informes que se esperaría para casos de uso de registro y almacén de datos. La función de Workfront Fusion en casos de uso como estos sería rellenar un sistema apropiado para organizar y almacenar datos (por ejemplo, SQL, MariaDB).
 
 ## ¿Desea obtener más información? Recomendamos lo siguiente:
 

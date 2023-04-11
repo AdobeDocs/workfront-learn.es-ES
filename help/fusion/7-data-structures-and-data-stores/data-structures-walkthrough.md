@@ -10,16 +10,14 @@ level: Beginner
 kt: 9053
 exl-id: f4dca85c-524c-434e-866e-69b75d476471
 doc-type: video
-source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
+source-git-commit: 57b112921738c01fe4222e50403c8953c412a0f7
 workflow-type: tm+mt
-source-wordcount: '149'
+source-wordcount: '148'
 ht-degree: 0%
 
 ---
 
 # Recorrido por las estructuras de datos
-
-## Información general
 
 Abra un archivo CSV que contenga una lista de entradas de tiempo. Estas entradas de hora son para minutos que varios usuarios registran a lo largo de ciertos días. El objetivo es tomar esta información y producir un nuevo CSV que muestre el tiempo total, en horas, registrado por cada usuario cada día.
 

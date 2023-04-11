@@ -10,16 +10,14 @@ level: Beginner
 kt: 9007
 exl-id: 3609d5dc-c398-43b0-a253-d8f95b67b818
 doc-type: video
-source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
+source-git-commit: 57b112921738c01fe4222e50403c8953c412a0f7
 workflow-type: tm+mt
-source-wordcount: '246'
+source-wordcount: '245'
 ht-degree: 0%
 
 ---
 
 # Uso del tutorial de filtro potente
-
-## Información general
 
 Con el ejercicio de tutorial &quot;Más allá de la asignación básica&quot; que ha creado anteriormente, agregue un filtro entre los dos módulos de los módulos para crear solo proyectos que tengan un color de proyecto &quot;Rojo&quot; en la lista de proyectos.
 

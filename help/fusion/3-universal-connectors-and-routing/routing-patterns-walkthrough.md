@@ -10,16 +10,14 @@ level: Beginner
 kt: 9015
 exl-id: 3ba15bf6-b296-4356-9974-1262c5d97602
 doc-type: video
-source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
+source-git-commit: 57b112921738c01fe4222e50403c8953c412a0f7
 workflow-type: tm+mt
-source-wordcount: '124'
+source-wordcount: '123'
 ht-degree: 0%
 
 ---
 
 # Guía de patrones de enrutamiento y visitas en el orden previsto
-
-## Información general
 
 Utilice el módulo Set Variable para enviar un número a través de varias rutas para ver cómo se comportan los filtros y las visitas en el orden previsto al enrutar.
 

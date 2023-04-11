@@ -10,16 +10,14 @@ level: Beginner
 kt: 9067
 exl-id: 81458d51-8b58-425d-8645-9b60423c6a72
 doc-type: video
-source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
+source-git-commit: 57b112921738c01fe4222e50403c8953c412a0f7
 workflow-type: tm+mt
-source-wordcount: '94'
-ht-degree: 1%
+source-wordcount: '93'
+ht-degree: 0%
 
 ---
 
 # Recorrido por ejecuciones incompletas
-
-## Información general
 
 Conozca el hábito útil de almacenar ejecuciones incompletas y comprenda el valor proporcionado al volver a ejecutar paquetes después de evaluar y corregir errores.
 

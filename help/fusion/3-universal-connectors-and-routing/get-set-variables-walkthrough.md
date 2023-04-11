@@ -10,16 +10,14 @@ level: Beginner
 kt: 9017
 exl-id: bd329144-4c4c-451f-9340-265fbdb5b249
 doc-type: video
-source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
+source-git-commit: 57b112921738c01fe4222e50403c8953c412a0f7
 workflow-type: tm+mt
-source-wordcount: '216'
+source-wordcount: '215'
 ht-degree: 0%
 
 ---
 
 # Introducción a Set and get variables
-
-## Información general
 
 Busque información sobre un proyecto en Workfront y envíe un correo electrónico con información relacionada.
 

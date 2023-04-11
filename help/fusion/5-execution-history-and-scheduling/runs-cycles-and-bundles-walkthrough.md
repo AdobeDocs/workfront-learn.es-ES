@@ -10,16 +10,14 @@ level: Beginner
 kt: 9045
 exl-id: 820f35af-a068-4a15-9322-98462964de61
 doc-type: video
-source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
+source-git-commit: 57b112921738c01fe4222e50403c8953c412a0f7
 workflow-type: tm+mt
-source-wordcount: '113'
+source-wordcount: '112'
 ht-degree: 0%
 
 ---
 
 # Rutas, ciclos y recorrido por paquetes
-
-## Información general
 
 Práctica con diferentes configuraciones de escenario para explorar mediante ejecuciones y ciclos.
 
