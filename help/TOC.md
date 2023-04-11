@@ -3,9 +3,9 @@ user-guide-description: Tutoriales de Workfront
 role: User
 level: Beginner
 feature-set: Workfront
-source-git-commit: 0e724793f2c222cc82f8a01ccd4b338e26812812
+source-git-commit: 990c3af143989e37ab01d9f0b2af9f06a86c0f8f
 workflow-type: tm+mt
-source-wordcount: '2353'
+source-wordcount: '2360'
 ht-degree: 2%
 
 ---
@@ -141,6 +141,7 @@ ht-degree: 2%
       + [Explicación de la configuración de una solicitud de flujo](manage-work/request-queues/understand-settings-for-a-flow-request.md)
       + [Crear una cola de solicitudes](manage-work/request-queues/create-a-request-queue.md)
       + [Crear un flujo de solicitud](manage-work/request-queues/create-a-request-flow.md)
+      + [Respuestas a preguntas comunes sobre las colas de solicitud](manage-work/request-queues/request-queue-faq.md)
    + Procesos de aprobación y rutas de hitos {#approval-processes-and-milestone-paths}
       + [Creación de un proceso de aprobación de un solo uso](manage-work/approval-processes-and-milestone-paths/create-a-single-use-approval-process.md)
       + [Adjuntar y editar procesos de aprobación existentes](manage-work/approval-processes-and-milestone-paths/attach-and-edit-existing-approval-processes.md)
