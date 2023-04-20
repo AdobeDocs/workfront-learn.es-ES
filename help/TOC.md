@@ -3,9 +3,9 @@ user-guide-description: Tutoriales de Workfront
 role: User
 level: Beginner
 feature-set: Workfront
-source-git-commit: 990c3af143989e37ab01d9f0b2af9f06a86c0f8f
+source-git-commit: 850b7de7aa4a396643da6e029e8663276d40ef05
 workflow-type: tm+mt
-source-wordcount: '2360'
+source-wordcount: '2368'
 ht-degree: 2%
 
 ---
@@ -38,6 +38,7 @@ ht-degree: 2%
       + [Buscar plantillas de diseño](administration-and-setup/layout-templates/find-layout-templates.md)
       + [Personalización de la terminología con plantillas de diseño](administration-and-setup/layout-templates/customize-workfront-terminology.md)
       + [Personalice el [!UICONTROL Menú principal] con plantillas de diseño](administration-and-setup/layout-templates/customize-the-main-menu-with-layout-templates.md)
+      + [Añadir y administrar pines mediante una plantilla de diseño](administration-and-setup/layout-templates/add-and-manage-pins-in-layout-template.md)
       + [Personalizar inicio con plantillas de diseño](administration-and-setup/layout-templates/customize-workfront-home-with-layout-templates.md)
       + [Asignación y administración del acceso a las plantillas de diseño](administration-and-setup/layout-templates/assign-and-manage-access-to-layout-templates.md)
       + [Personalización de áreas de objeto con una plantilla de diseño](administration-and-setup/layout-templates/customize-object-areas-with-a-layout-template.md)
@@ -64,6 +65,7 @@ ht-degree: 2%
       + [Crear hitos](administration-and-setup/approval-processes-and-milestone-paths/creating-milestones.md)
    + Rendimiento y mantenimiento del sistema {#system-perfomance-and-maintenance}
       + [Se encarga de una instancia de Adobe Workfront existente](administration-and-setup/system-performance-and-maintenance/take-charge-of-an-existing-workfront-instance.md)
+
 
 
 
