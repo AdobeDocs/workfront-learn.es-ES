@@ -1,5 +1,5 @@
 ---
-title: Comprender otras formas de crear proyectos
+title: Descubra cuatro formas de crear un proyecto
 description: Obtenga información sobre cómo crear un proyecto a partir de una plantilla, crear un proyecto desde cero, copiar un proyecto existente o importar un [!DNL Microsoft Project] archivo.
 activity: use
 feature: Work Management
@@ -11,14 +11,14 @@ team: Technical Marketing
 kt: 8770
 exl-id: 98eaadc5-1b1d-4641-83a5-818e7dd60769
 doc-type: video
-source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
+source-git-commit: 6b651fa3e8da77627d4fa1379f1221ebd5793b34
 workflow-type: tm+mt
-source-wordcount: '186'
+source-wordcount: '188'
 ht-degree: 0%
 
 ---
 
-# Comprender otras formas de crear proyectos
+# Descubra cuatro formas de crear un proyecto
 
 En este vídeo, aprenderá a:
 

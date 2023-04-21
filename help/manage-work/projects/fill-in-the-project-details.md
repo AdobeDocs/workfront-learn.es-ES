@@ -10,9 +10,9 @@ role: User
 level: Intermediate
 kt: 10140
 exl-id: a62b9421-627a-4f23-ab66-da1f29114225
-source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
+source-git-commit: 6b651fa3e8da77627d4fa1379f1221ebd5793b34
 workflow-type: tm+mt
-source-wordcount: '1226'
+source-wordcount: '1219'
 ht-degree: 1%
 
 ---
@@ -24,6 +24,7 @@ No se preocupe ... no tiene que rellenar todos los campos y casillas de verifica
 1. **Nombre**
 
    Un nombre de proyecto descriptivo ayuda a todos a identificar el propósito del proyecto. Asegúrese de seguir la convención de nomenclatura de proyectos de su organización, que puede requerir que se incluya cierta información en el nombre del proyecto (como un número de referencia, un nombre de departamento o un indicador de categoría).
+
 
 1. **Descripción**
 
@@ -37,15 +38,15 @@ No se preocupe ... no tiene que rellenar todos los campos y casillas de verifica
 
    El estado se utiliza en Workfront para indicar dónde o en qué fase del flujo de trabajo se encuentra un proyecto. El estado se utiliza en muchos informes de Workfront para realizar un seguimiento del progreso del trabajo.
 
-   Workfront recomienda que el estado se establezca en Planning mientras amplía y finaliza el plan de proyecto. Lo principal con el estado de Planning es que las notificaciones de Workfront no van a los destinatarios asignados a tareas sobre el proyecto mientras esté en este estado.
+   Workfront recomienda que el estado se establezca en Planning mientras está ampliando y finalizando el plan de proyecto. Lo principal con el estado de Planning es que las notificaciones de Workfront no van a los destinatarios asignados a tareas sobre el proyecto mientras esté en este estado.
 
-   A continuación, una vez que el proyecto esté listo para ejecutarse, cambie el estado a Actual. Es entonces cuando Workfront envía notificaciones a las personas adecuadas sobre las tareas a las que se les han asignado.
+   A continuación, una vez que el proyecto esté listo para ejecutarse, cambie el estado a Actual. Esto permite que Workfront envíe notificaciones a las personas sobre las nuevas tareas a las que están asignadas, pero no enviará notificaciones a los usuarios sobre las tareas que se les asignaron mientras el proyecto estaba en estado de Planning.
 
    >[!TIP]
    >
    >  Al realizar cambios en el proyecto (como cambiar las fechas de vencimiento), puede volver a pasar el estado a Planning o desactivar la función de guardado automático para evitar que las notificaciones se publiquen hasta que se hayan completado los cambios.
 
-   El administrador del sistema puede establecer el estado de Planning como Workfront global predeterminado.
+   El administrador del sistema puede establecer el estado de Planning como Workfront predeterminado global para nuevos proyectos.
 
 1. **Modo de horario**
 
@@ -63,7 +64,7 @@ No se preocupe ... no tiene que rellenar todos los campos y casillas de verifica
 
    Un grupo es una unidad organizativa de Workfront que a menudo se alinea con un departamento. Este campo se puede establecer en la plantilla del proyecto. Si no es así, el campo se establece automáticamente en el grupo de inicio de la persona que crea el proyecto. Puede cambiar el grupo según sea necesario.
 
-   Generalmente, la mayoría de las personas que trabajan en el proyecto provienen de este grupo. Sin embargo, esto no restringe a las personas de otros grupos a los que se asigna trabajo en el proyecto.
+   Generalmente, la mayoría de las personas que trabajan en el proyecto provienen de este grupo. Pero esto no restringe a las personas de otros grupos a los que se asigna trabajo en el proyecto.
 
    El grupo del proyecto también determina qué proyecto, tarea y preferencias de problema usará el proyecto. Estas preferencias, como un estado personalizado para un grupo específico, las establece el administrador del sistema o un administrador del grupo.
 
@@ -71,15 +72,15 @@ No se preocupe ... no tiene que rellenar todos los campos y casillas de verifica
 
 1. **Propietario del proyecto**
 
-   El propietario del proyecto es el término que Workfront emplea para el administrador del proyecto. Es la persona responsable de la planificación y/o gestión del proyecto.
+   El término Propietario del proyecto es Workfront para el administrador del proyecto. Es la persona responsable de la planificación y/o gestión del proyecto.
 
-   El propietario del proyecto tiene permisos de administración completos en el proyecto, por lo que debe tener una licencia del plan.
+   Para que el Propietario del proyecto tenga permisos de administración completos en el proyecto, debe tener una licencia del Plan.
 
    Normalmente, este campo se deja en blanco en la plantilla y rellena automáticamente con el nombre de la persona que crea el proyecto. Si se introduce un nombre en la plantilla, ese es el propietario predeterminado del proyecto.
 
 1. **Patrocinador de proyecto**
 
-   El patrocinador del proyecto es generalmente la persona que solicitó el proyecto. A menudo se trata de una parte interesada interna, como un administrador o un ejecutivo, que tiene la responsabilidad general del proyecto.
+   El Patrocinador del proyecto no es obligatorio, pero cuando se utiliza, suele ser la persona que solicitó el proyecto. A menudo se trata de una parte interesada interna, como un administrador o un ejecutivo, que tiene la responsabilidad general del proyecto.
 
    El patrocinador recibe automáticamente permisos de visualización para el proyecto y debe ser un usuario con licencia de Workfront.
 
@@ -87,23 +88,23 @@ No se preocupe ... no tiene que rellenar todos los campos y casillas de verifica
 
 1. **Gerente de recursos**
 
-   Los usuarios de Workfront enumerados en este campo pueden utilizar las herramientas de planificación y administración de recursos de Workfront para los proyectos específicos en los que aparecen en la lista. Se pueden enumerar hasta 30 nombres en el campo Administrador de recursos y cada uno debe tener una licencia de Plan.
+   Los usuarios de Workfront enumerados en este campo pueden utilizar las herramientas de planificación y administración de recursos de Workfront para los proyectos específicos en los que están enumerados. Se pueden enumerar hasta 30 nombres en el campo Administrador de recursos y cada uno debe tener una licencia de Plan.
 
    El campo Administrador de recursos se puede establecer en la plantilla.
 
 1. **Formularios personalizados**
 
-   Workfront proporciona campos nativos para cosas como el nombre del proyecto y la fecha de inicio. Pero hay información adicional que necesita como administrador de proyectos o que necesitará el equipo del proyecto. Los datos únicos son igualmente importantes y se pueden almacenar fácilmente en estos formularios. Detalles como fechas de publicación, tamaño de recurso de impresión, canales de envío, etc.
+   Workfront proporciona campos nativos para cosas como el nombre del proyecto y la fecha de inicio. Pero hay información adicional que necesita como administrador de proyectos, o que el equipo de proyectos necesitará. Los datos únicos son igualmente importantes y se pueden almacenar fácilmente en estos formularios. Detalles como fechas de publicación, tamaño de recurso de impresión, canales de envío, etc.
 
    Los formularios personalizados pueden capturar esta información y se pueden incluir en listas e informes de Workfront, lo que facilita la visualización y edición de la información.
 
    Los formularios personalizados se pueden adjuntar a las plantillas con antelación.
 
-1. **Horario**
+1. **Programación**
 
    El trabajo se realiza las 24 horas del día, ya que muchas empresas tienen empleados en todo el mundo.
 
-   Workfront le permite aplicar una programación común a los proyectos. Los crea el administrador del sistema. Las programaciones reflejan los días y las horas de trabajo de los equipos, además de los días en que los empleados no estarán trabajando (por ejemplo, días festivos).
+   Workfront le permite aplicar una programación común a los proyectos. Los crea el administrador del sistema. Las programaciones reflejan los días y las horas de trabajo de sus equipos, además de los días en que los empleados no estarán trabajando (como vacaciones).
 
    Como planificador, asegúrese de que está aplicando la programación correcta al proyecto correcto. La configuración de programación afecta a los cálculos de la cronología, teniendo en cuenta el tiempo de espera y las zonas horarias.
 
@@ -121,10 +122,8 @@ No se preocupe ... no tiene que rellenar todos los campos y casillas de verifica
 
 1. **Acceso al proyecto para visualizadores y colaboradores**
 
-   Cuando alguien tiene acceso a un proyecto, hay tres niveles de permisos que se pueden otorgar inicialmente cuando un proyecto se pone en marcha: Ver, Contribuir y Administrar. Cada nivel de permiso permite al usuario ver y realizar ciertas cosas con el proyecto.
+   Cuando alguien tiene acceso a un proyecto a través de Compartir, hay tres niveles de permisos que se pueden otorgar: Ver, Contribuir y Administrar. Cada nivel de permiso permite al usuario ver y realizar ciertas cosas con el proyecto.
 
-   Por ejemplo, hay personas que pueden tener acceso al proyecto pero no deberían ver la información financiera. De este modo, puede desactivar la opción Ver finanzas para visualizadores y colaboradores.
-
-   Puede ajustar esta configuración de permisos en proyectos individuales en cualquier momento. Sin embargo, una vez que un proyecto ha pasado de Planning al estado actual, los ajustes basados en permisos deben realizarse a través del proyecto Compartido.
+   Por ejemplo, hay personas que pueden tener acceso al proyecto pero no deberían ver la información financiera. Así que puede desactivar la opción Ver finanzas para ellos.
 
    La configuración de acceso se puede establecer en la plantilla .

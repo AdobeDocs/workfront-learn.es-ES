@@ -11,16 +11,16 @@ team: Technical Marketing
 kt: 8781
 exl-id: 4202941d-eb2d-43b5-91e8-06b0076a470d
 doc-type: video
-source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
+source-git-commit: 6b651fa3e8da77627d4fa1379f1221ebd5793b34
 workflow-type: tm+mt
-source-wordcount: '185'
+source-wordcount: '183'
 ht-degree: 0%
 
 ---
 
 # Introducción a la administración de un proyecto
 
-En este vídeo, aprenderá a:
+En este vídeo, aprenderá:
 
 * Aspectos a tener en cuenta al supervisar el trabajo de un proyecto
 * ¿Cuál es su función como administrador de proyectos?
@@ -33,7 +33,7 @@ Con cada proyecto que administre, establecerá una rutina de cuándo revisar los
 
 Cada administrador de proyectos gestiona sus proyectos de forma un poco diferente. Y cada equipo, departamento u organización puede tener diferentes requerimientos y necesidades de proyecto.
 
-Sin embargo, independientemente de cómo administre un proyecto, deberá hacer lo siguiente:
+Sin embargo, independientemente de cómo administre un proyecto, debe:
 
 * Asegúrese de que el trabajo se complete a tiempo.
 * Anticipar problemas y riesgos.
