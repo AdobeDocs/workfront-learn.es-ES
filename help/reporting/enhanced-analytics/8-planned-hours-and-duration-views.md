@@ -10,9 +10,9 @@ role: User
 level: Beginner
 kt: 10044
 exl-id: caae6dd0-910c-4bdf-a9db-611c272af7ce
-source-git-commit: 252ba3ba44f22519a35899fcda9c6bca597a6c2c
+source-git-commit: ab5203c8edc01c60386d9057e1d82c0e980ade02
 workflow-type: tm+mt
-source-wordcount: '98'
+source-wordcount: '145'
 ht-degree: 0%
 
 ---
@@ -23,4 +23,10 @@ En los gráficos de rectángulos Desglose y Proyecto , puede ver la información
 
 ![Imagen de selección de una hora planificada en lugar de una duración](assets/section-1-5.png)
 
+
+
 El horario planificado es el predeterminado. Si cambia a la duración, esto se mantiene si se aleja de [!DNL Analytics] y volver y entre inicios de sesión de Workfront.
+
+## ¿Qué significa el tamaño del cuadro y el color de sombreado?
+
+Las cajas azules más pequeñas y más claras indican menos horas, mientras que las cajas más grandes y los tonos más oscuros de azul indican más horas en comparación. Para obtener más información, consulte [Comprender la visualización del diagrama de árbol del proyecto](https://experienceleague.adobe.com/docs/workfront/using/reporting/enhanced-analytics/project-treemap-overview.html?lang=en).
