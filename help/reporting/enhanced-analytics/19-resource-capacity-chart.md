@@ -10,7 +10,7 @@ role: User
 level: Beginner
 kt: 10046
 exl-id: ec21049e-4f39-4bb4-91d2-c8873151811c
-source-git-commit: 55e5065741b4252158c7c33b7bdf56adc7c8cf51
+source-git-commit: 038663f3bb3d7d152271a2c10dcd29a0220ad2fa
 workflow-type: tm+mt
 source-wordcount: '0'
 ht-degree: 0%
@@ -40,7 +40,7 @@ En el gráfico, puede ver los siguientes detalles clave:
 ## Cómo navegar al gráfico
 
 1. Haga clic en el [!UICONTROL People] en el panel izquierdo.
-1. Utilice la variable [!UICONTROL Filtro] para elegir un equipo de Inicio que examinar.
+1. Utilice la variable [!UICONTROL Filtro] para elegir uno o más equipos de inicio para examinarlos.
 1. Verá el [!UICONTROL Capacidad de los recursos] aparece debajo del gráfico de actividad del equipo.
 
 ## Cómo utilizar el gráfico
