@@ -10,9 +10,9 @@ role: User
 level: Beginner
 kt: 10046
 exl-id: ec21049e-4f39-4bb4-91d2-c8873151811c
-source-git-commit: 252ba3ba44f22519a35899fcda9c6bca597a6c2c
+source-git-commit: 55e5065741b4252158c7c33b7bdf56adc7c8cf51
 workflow-type: tm+mt
-source-wordcount: '369'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -36,6 +36,12 @@ En el gráfico, puede ver los siguientes detalles clave:
 1. Las horas están en el fondo. Este es el eje x del gráfico y calcula hasta el intervalo de horas mostrado en los equipos anteriores.
 1. El círculo muestra el número de horas programadas asignadas al equipo de inicio.
 1. La línea vertical muestra el número total de horas disponibles para el equipo de casa.
+
+## Cómo navegar al gráfico
+
+1. Haga clic en el [!UICONTROL People] en el panel izquierdo.
+1. Utilice la variable [!UICONTROL Filtro] para elegir un equipo de Inicio que examinar.
+1. Verá el [!UICONTROL Capacidad de los recursos] aparece debajo del gráfico de actividad del equipo.
 
 ## Cómo utilizar el gráfico
 

@@ -10,9 +10,9 @@ role: User
 level: Beginner
 kt: 10045
 exl-id: a9c5c4bc-0728-4199-b87e-e166c23dc25a
-source-git-commit: 252ba3ba44f22519a35899fcda9c6bca597a6c2c
+source-git-commit: 55e5065741b4252158c7c33b7bdf56adc7c8cf51
 workflow-type: tm+mt
-source-wordcount: '274'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -38,3 +38,9 @@ En el gráfico, puede ver:
 1. Los cuadros morados muestran que los usuarios asignados al proyecto iniciaron sesión ese día, con un tono más oscuro que indica un mayor número de usuarios que iniciaron sesión.
 1. Los cuadros rosas muestran que los usuarios cambiaron el estado de una tarea para el proyecto en ese día, con un tono más oscuro que indica que ha cambiado un número mayor de estados de tareas.
 1. Los cuadros azules muestran que los usuarios completaron una tarea para el proyecto, con un tono más oscuro que indica un mayor número de tareas que se completan.
+
+## Cómo navegar al gráfico
+
+1. Haga clic en el [!UICONTROL People] en el panel izquierdo.
+1. Utilice la variable [!UICONTROL Filtro] para elegir un equipo de Inicio que examinar.
+1. Verá que el gráfico de actividad por equipo aparece en la parte superior de los gráficos de personas.

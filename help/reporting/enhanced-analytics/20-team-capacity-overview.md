@@ -10,9 +10,9 @@ role: User
 level: Beginner
 kt: 10047
 exl-id: 59f86c60-19a5-4be6-920c-8e2fc18e52a7
-source-git-commit: 252ba3ba44f22519a35899fcda9c6bca597a6c2c
+source-git-commit: 55e5065741b4252158c7c33b7bdf56adc7c8cf51
 workflow-type: tm+mt
-source-wordcount: '352'
+source-wordcount: '390'
 ht-degree: 0%
 
 ---
@@ -36,6 +36,12 @@ En el gráfico, puede ver:
 1. Las fechas de la parte inferior proceden del intervalo de fechas seleccionado.
 1. El color de relleno azul más oscuro indica que el equipo de casa está experimentando una explosión (4) o no está sujeto a desafío.
 1. El azul más claro o más transparente indica que la carga de trabajo del equipo doméstico está equilibrada
+
+## Cómo navegar al gráfico
+
+1. Haga clic en el [!UICONTROL People] en el panel izquierdo.
+1. Utilice la variable [!UICONTROL Filtro] para elegir un equipo de Inicio que examinar.
+1. Verá que el gráfico de capacidad del equipo aparece debajo del [!UICONTROL Capacidad de los recursos] gráfico.
 
 ## Cómo utilizar el gráfico
 
