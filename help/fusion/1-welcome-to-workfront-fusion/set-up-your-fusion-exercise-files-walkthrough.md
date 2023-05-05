@@ -1,5 +1,5 @@
 ---
-title: Configuración del tutorial de archivos de ejercicio de Fusion
+title: Configurar los archivos de ejercicio de Workfront Fusion
 description: Obtenga información sobre cómo descargar los archivos de ejercicios y cargarlos en una carpeta de Workfront, en [!DNL Adobe Workfront Fusion].
 activity: use
 team: Technical Marketing
@@ -10,17 +10,19 @@ level: Beginner
 kt: 8998
 exl-id: 2499a65a-a3c6-4ba9-82c6-c2932831f33e
 doc-type: video
-source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
+source-git-commit: 6ec03ead3b0c15b2987c1930871282a4f6d2658b
 workflow-type: tm+mt
-source-wordcount: '53'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
 
-# Configuración del tutorial de archivos de ejercicio de Fusion
+# Configurar los archivos de ejercicio de Workfront Fusion
 
-Paso 1: Descargue el [Archivos de ejercicio de Fusion](/help/assets/fusion-exercise-files.zip)
+Aprenda a configurar los archivos de ejercicio de Fusion.
 
-Paso 2: Vea el vídeo para aprender a cargar estos archivos en una carpeta de Workfront
+1. Descargue el [Archivos de ejercicio de Fusion](/help/assets/fusion-exercise-files.zip).
+
+1. Vea el vídeo para aprender a cargar estos archivos en una carpeta de Workfront.
 
 >[!VIDEO](https://video.tv.adobe.com/v/335258/?quality=12&learn=on)
