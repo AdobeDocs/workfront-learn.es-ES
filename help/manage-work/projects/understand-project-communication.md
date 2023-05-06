@@ -1,6 +1,6 @@
 ---
 title: Comprender la comunicación del proyecto
-description: Aprenda a comunicarse sobre el trabajo del proyecto mediante actualizaciones de proyectos, tareas, problemas o documentos. A continuación, revise las actualizaciones existentes en [!DNL  Workfront].
+description: Obtenga información sobre cómo comunicarse sobre el trabajo del proyecto mediante una buena planificación del proyecto, actualizaciones, estado de la tarea, porcentaje completado, problemas e informes.
 activity: use
 team: Technical Marketing
 feature: Work Management
@@ -8,32 +8,30 @@ thumbnail: understand-project-communication.jpeg
 type: Tutorial
 role: User
 level: Intermediate
+last-substantial-update: 2023-05-05T00:00:00Z
 kt: 10147
 exl-id: 0f2a2c78-8844-47b1-b0db-542392d9ce97
-source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
+source-git-commit: 96e0a94ad39354765c171f762003c58feec5a4c8
 workflow-type: tm+mt
-source-wordcount: '151'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
 
 # Comprender la comunicación del proyecto
 
-Como dice el dicho, el 90 por ciento de la gestión de un proyecto es comunicación. Comunicación con el equipo del proyecto, sus administradores y las partes interesadas del proyecto.
+En este vídeo aprenderá a comunicarse con todas las partes interesadas del proyecto mediante:
 
-Pero cuando los equipos de proyectos utilizan el correo electrónico, los mensajes instantáneos, las reuniones y las notas adhesivas para la comunicación de proyectos, la información se dispersa... o peor, se olvida. Mantener la comunicación sobre el trabajo del proyecto en el propio proyecto [!DNL Workfront] usar actualizaciones.
+* Buena planificación de proyectos
+* Actualizaciones
+* Estado de la tarea y porcentaje completado
+* Problemas
+* Informes
 
-Como los integrantes del equipo del proyecto están trabajando en asignaciones, pueden realizar actualizaciones desde [!DNL Workfront] [!UICONTROL Página principal] sobre las tareas asignadas a ellas.
+>[!VIDEO](https://video.tv.adobe.com/v/3419150/?quality=12&learn=on)
 
-![Sección Actualizaciones de un proyecto](assets/planner-fund-project-communication.png)
-
-Las actualizaciones de tareas, problemas y documentos se resumen en el nivel de proyecto [!UICONTROL Actualizaciones] , para que la información sea rápida y fácil de ver.
-
-A continuación, puede responder a las actualizaciones haciendo clic en el botón . Esto mantiene toda la conversación en un solo lugar, lo que le permite volver a consultarla más tarde.
-
-<!---
-learn more urls
-Communicate about work in Home
-Subscribe to items in Workfront
-Update work
---->
+>[!TIP]
+>
+>Para crear el informe Búsqueda de notas que se muestra en el vídeo, consulte la actividad en la [Creación de un informe de tareas](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-task-report.html?lang=en) tutorial.
+>
+>Para agregar el informe Búsqueda de notas al panel del proyecto, consulte la actividad en la sección [Creación de tableros](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-dashboards.html?lang=en) tutorial.
