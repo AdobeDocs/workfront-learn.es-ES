@@ -10,27 +10,23 @@ role: User
 level: Intermediate
 kt: 10153
 exl-id: 71ed10b8-4801-4cd3-828c-334f6c3a86d8
-source-git-commit: 0c7a19edf43baae69ab78edf7b344641de97912b
+source-git-commit: 9348bd7044e7a8385154dedc3349d3719d86d42d
 workflow-type: tm+mt
-source-wordcount: '173'
+source-wordcount: '186'
 ht-degree: 0%
 
 ---
 
 # Comprender [!UICONTROL Esfuerzo de trabajo]
 
-[!DNL Workfront] comprende que algunas organizaciones no utilizan horas planificadas al crear proyectos. Sin embargo, para obtener todos los beneficios de [!DNL Workfront's] herramientas de administración de recursos y una mejor comprensión de la cantidad de trabajo que se asignan a los usuarios, las horas programadas en los proyectos son una necesidad.
+Workfront comprende que algunas organizaciones no utilizan las horas programadas al crear proyectos. Sin embargo, para obtener todos los beneficios de las herramientas de administración de recursos de Workfront y comprender mejor la cantidad de trabajo que se asignan a los usuarios, es imprescindible planificar las horas en los proyectos.
 
-Con ambos conceptos en mente, [!DNL Workfront] creado el [!UICONTROL Esfuerzo de trabajo] .
+Con ambos conceptos en mente, Workfront creó la variable [!UICONTROL Esfuerzo de trabajo] .
 
-En lugar de especificar horas específicas para cada tarea del proyecto, utilice la variable [!UICONTROL Esfuerzo de trabajo] para determinar si una tarea es un esfuerzo pequeño, mediano o grande. [!DNL Workfront] asocia automáticamente las horas planificadas con esas tareas.
+En lugar de especificar horas específicas para cada tarea en el proyecto, puede usar la variable [!UICONTROL Esfuerzo de trabajo] para indicar si una tarea es un esfuerzo pequeño, medio o grande. Workfront calcula automáticamente las horas programadas con esas tareas en función de la configuración del proyecto.
 
-De esta manera, si planea usar cualquiera de [!DNL Workfront’s] herramientas de administración de recursos, los números que necesita ya están rellenados y los usuarios tienen que fijarse en la cantidad de trabajo que se les va a hacer.
+De esa manera, si planea utilizar cualquiera de las herramientas de administración de recursos de Workfront, las estimaciones que necesita ya están rellenadas y los usuarios tienen en mente la cantidad de trabajo que se les acerca.
 
 ![Lista de tareas del proyecto con [!UICONTROL Esfuerzo de trabajo] column](assets/planner-fund-work-effort.png)
-
-<!---
-need hyperlink below
---->
 
 Para obtener más información, consulte [!UICONTROL Esfuerzo de trabajo], consulte la [Información general sobre el esfuerzo de trabajo](https://experienceleague.adobe.com/docs/workfront/using/manage-work/tasks/task-information/work-effort.html?lang=en) artículo.
