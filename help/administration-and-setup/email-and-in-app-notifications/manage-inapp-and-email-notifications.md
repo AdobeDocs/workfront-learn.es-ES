@@ -1,7 +1,7 @@
 ---
 title: Administrar notificaciones de eventos en la aplicación y por correo electrónico
 description: Descubra cómo los usuarios pueden controlar qué notificaciones en la aplicación y por correo electrónico reciben para que los correos electrónicos sean relevantes y útiles con respecto a su trabajo.
-short-description: Descubra cómo los usuarios pueden controlar qué notificaciones en la aplicación y por correo electrónico reciben.
+short-description: Descubra cómo los usuarios pueden controlar las notificaciones que reciben en la aplicación y por correo electrónico.
 feature: System Setup and Administration
 activity: deploy
 type: Tutorial
@@ -14,7 +14,7 @@ exl-id: 831646d2-ecf8-4fe6-8d4e-8c5fc233ed56
 source-git-commit: fca5e76133ef0a81aa6063d71baf5500646dbe1e
 workflow-type: tm+mt
 source-wordcount: '628'
-ht-degree: 11%
+ht-degree: 13%
 
 ---
 
