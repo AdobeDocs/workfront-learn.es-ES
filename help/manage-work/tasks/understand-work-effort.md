@@ -10,9 +10,9 @@ role: User
 level: Intermediate
 kt: 10153
 exl-id: 71ed10b8-4801-4cd3-828c-334f6c3a86d8
-source-git-commit: 9348bd7044e7a8385154dedc3349d3719d86d42d
+source-git-commit: d1598021f9106630929dfa488ae331250616ee7e
 workflow-type: tm+mt
-source-wordcount: '186'
+source-wordcount: '185'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,7 @@ Workfront comprende que algunas organizaciones no utilizan las horas programadas
 
 Con ambos conceptos en mente, Workfront creó la variable [!UICONTROL Esfuerzo de trabajo] .
 
-En lugar de especificar horas específicas para cada tarea en el proyecto, puede usar la variable [!UICONTROL Esfuerzo de trabajo] para indicar si una tarea es un esfuerzo pequeño, medio o grande. Workfront calcula automáticamente las horas programadas con esas tareas en función de la configuración del proyecto.
+En lugar de introducir horas específicas para cada tarea en el proyecto, puede utilizar [!UICONTROL Esfuerzo de trabajo] para indicar si una tarea es un esfuerzo pequeño, medio o grande. Workfront calcula automáticamente las horas programadas con esas tareas en función de la configuración del proyecto.
 
 De esa manera, si planea utilizar cualquiera de las herramientas de administración de recursos de Workfront, las estimaciones que necesita ya están rellenadas y los usuarios tienen en mente la cantidad de trabajo que se les acerca.
 
