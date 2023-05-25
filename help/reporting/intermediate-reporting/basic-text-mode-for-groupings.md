@@ -1,6 +1,6 @@
 ---
 title: Comprender el modo de texto básico de las agrupaciones
-description: Aprenda qué es el modo de texto, qué es el caso del camello y algún modo de texto básico de "plug and play" que puede usar en sus agrupaciones en Workfront.
+description: Aprenda qué es el modo texto, qué es camel case y algunos modos de texto básicos "plug and play" que puede utilizar en sus agrupaciones en Workfront.
 activity: use
 feature: Reports and Dashboards
 thumbnail: 336820.png
@@ -11,9 +11,9 @@ team: Technical Marketing
 kt: 11369
 exl-id: 5f45c64f-a22b-4983-91fd-9a1939f99fb1
 doc-type: video
-source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
+source-git-commit: 18aa5b742c4ad6210893af6141aa0b2777ab3c2a
 workflow-type: tm+mt
-source-wordcount: '267'
+source-wordcount: '283'
 ht-degree: 0%
 
 ---
@@ -24,28 +24,28 @@ ht-degree: 0%
 >
 >Requisitos previos:
 >
->* Explicación de los elementos de informes
->* Comprender los componentes del sistema de informes
+>* Comprender los elementos de informes
+>* Comprender los componentes de informes
 >* Crear una agrupación básica
 
 
 >[!TIP]
 >
->* Para comprender mejor el modo de texto, le recomendamos que consulte el evento de seminario web grabado [Pregunte al experto: Introducción a los informes de modo de texto](https://experienceleague.adobe.com/docs/workfront-events/events/reporting-and-dashboards/introduction-to-text-mode-reporting.html?lang=en), que tiene una hora de longitud.
->* Para obtener más información sobre el modo de texto, le recomendamos que consulte [Informes avanzados](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/advanced-reporting/welcome-to-advanced-reporting.html?lang=en) tutoriales, que juntos tienen una duración de cinco horas y media.
+>* Para comprender mejor el modo de texto, le recomendamos que vea el evento del seminario web grabado [Pregunte al experto - Introducción a los informes en modo texto](https://experienceleague.adobe.com/docs/workfront-events/events/reporting-and-dashboards/introduction-to-text-mode-reporting.html?lang=en), que tiene una hora de duración.
+>* Para obtener más información acerca del modo de texto, le recomendamos que vea la [Informes avanzados](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/advanced-reporting/welcome-to-advanced-reporting.html?lang=en) tutoriales, que en conjunto tienen una duración de cinco horas y media.
 
 
-En este vídeo, aprenderá:
+En este vídeo, aprenderá lo siguiente:
 
 * Qué modo de texto es
-* Qué caso de camello es
-* Algunos modos de texto &quot;plug and play&quot; básicos que puede usar en sus agrupaciones
+* Qué es Camel Case
+* Algunos modos de texto básicos &quot;plug and play&quot; que puede utilizar en sus agrupaciones
 
 >[!VIDEO](https://video.tv.adobe.com/v/3410641/?quality=12&learn=on)
 
-## Tarea: Agrupación de 4 padres
+## Tarea: agrupación de 4 elementos principales
 
-El siguiente modo de texto agrupa tareas basadas en hasta cuatro niveles de elementos principales y deja en blanco a los que no existen.
+El siguiente modo de texto agrupará las tareas en función de hasta cuatro niveles de elementos primarios y dejará en blanco los elementos primarios que no existan.
 
 ```
 textmode=true
@@ -57,17 +57,17 @@ group.0.namekeyargkey.1=name
 group.0.valueformat=string
 ```
 
-![Una imagen de pantalla que muestra las tareas del proyecto agrupadas por 4 elementos principales](assets/4-parents-grouping.png)
+![Imagen de pantalla que muestra las tareas del proyecto agrupadas por 4 elementos principales](assets/4-parents-grouping.png)
 
 
-## Tarea: agrupación de porcentaje completado
+## Tarea - Agrupación de porcentaje completado
 
-El siguiente modo de texto agrupa las tareas en función de su porcentaje completado. Las tareas se clasificarán en una de las siguientes categorías cuando se agrupen:
+El siguiente modo de texto agrupará las tareas en función del porcentaje completado. Las tareas caerán en una de las siguientes categorías cuando se agrupen:
 
 * 0%
-* 1% a 25%
-* del 26 % al 50 %
-* 51% a 75%
+* Del 1% al 25%
+* Del 26% al 50%
+* Del 51% al 75%
 * del 76 % al 99 %
 * 100%
 
@@ -81,9 +81,9 @@ textmode=true
 
 ![Imagen de pantalla que muestra las tareas del proyecto agrupadas por porcentaje completado](assets/percent-complete-grouping.png)
 
-## Task - statusEquatesWith, luego status
+## Tarea: statusEquatesWith y luego status
 
-El siguiente modo de texto agrupa las tareas por statusEquatesWith y, a continuación, por estado.
+El siguiente modo de texto agrupará las tareas por statusEquatesWith y luego por status.
 
 ```
 group.0.enumclass=com.attask.common.constants.TaskStatusEnum
@@ -103,10 +103,10 @@ group.1.valueformat=val
 textmode=true
 ```
 
-![Una imagen de pantalla que muestra las tareas del proyecto agrupadas por statusEquatesWith](assets/status-equates-with.png)
+![Imagen de pantalla que muestra las tareas del proyecto agrupadas por statusEquatesWith](assets/status-equates-with.png)
 
 
-## Aprobación de prueba: Agrupar por nombre de proyecto
+## Aprobación de revisión - Agrupar por nombre de proyecto
 
 ```
 group.0.valueformat=HTML
@@ -115,4 +115,15 @@ group.0.displayname=Project Name
 ```
 
 ![Imagen de pantalla que muestra las aprobaciones de prueba agrupadas por nombre de proyecto](assets/proof-approvals-grouped-by-project-name.png)
+
+
+## Aprobación de revisión - Agrupar por nombre de documento
+
+```
+group.0.displayname=Document Name
+group.0.valuefield=documentVersion:document:name
+group.0.valueformat=HTML
+```
+
+![Imagen de pantalla que muestra las aprobaciones de prueba agrupadas por nombre de proyecto](assets/proof-approvals-grouped-by-doc-name.png)
 
