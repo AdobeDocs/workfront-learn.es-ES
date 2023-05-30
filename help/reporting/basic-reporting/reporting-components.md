@@ -1,6 +1,6 @@
 ---
-title: Comprender los componentes del sistema de informes
-description: Conozca los componentes clave detrás de los informes y cómo se utilizan en un elemento de informes en Workfront.
+title: Comprender los componentes de informes
+description: Conozca los componentes clave subyacentes a la creación de informes y cómo se utilizan en un elemento de creación de informes en Workfront.
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335146.jpeg
@@ -11,18 +11,62 @@ team: Technical Marketing
 kt: 8850
 exl-id: e9f9ba24-540f-49e1-ac52-740df489317b
 doc-type: video
-source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
+source-git-commit: d7be3559ee2aa722822f40c4ed5aa1b4d9cc076f
 workflow-type: tm+mt
-source-wordcount: '44'
+source-wordcount: '287'
 ht-degree: 0%
 
 ---
 
-# Comprender los componentes del sistema de informes
+# Comprender los componentes de informes
 
-En este vídeo, aprenderá:
+En este vídeo, aprenderá lo siguiente:
 
-* Componentes clave de los informes de Workfront
-* Uso de estos componentes en un elemento de informes
+* Los componentes clave detrás de los informes de Workfront
+* Uso de estos componentes en un elemento de creación de informes
 
 >[!VIDEO](https://video.tv.adobe.com/v/335146/?quality=12&learn=on)
+
+## Componentes de informes
+
+![Imagen de la pantalla para crear un filtro](assets/reporting-components-1.png)
+
+**A - Origen del campo**
+
+Las opciones de origen del campo dependen del tipo de objeto seleccionado. A menudo, el origen del campo es el elemento de Workfront al que pertenece un fragmento de información específico (también conocido como nombre de campo). A veces, el origen del campo es el mismo que el tipo de objeto.
+El origen del campo determina qué nombres de campo están disponibles.
+
+Ejemplos: [!UICONTROL Proyecto], [!UICONTROL Tarea], [!UICONTROL Problema], [!UICONTROL Asignado a]
+
+**B - Nombre del campo**
+
+Los nombres de campo son fragmentos de información disponible sobre lo que ha seleccionado como origen de campo.
+
+Pueden ser campos de Workfront que haya rellenado, campos de un formulario personalizado o información que Workfront capture automáticamente.
+
+Los nombres de campo dirigen las opciones de campo de valor.
+
+Ejemplos: [!UICONTROL Estado de progreso], [!UICONTROL Descripción], [!UICONTROL Fecha planificada de finalización], Campos de formulario personalizados
+
+**C - Calificadores de filtro**
+
+Los calificadores de filtro ayudan a reducir los posibles resultados visibles en el origen del campo y el nombre del campo seleccionado.
+
+Especifican cómo se relacionan el origen del campo y el nombre del campo con el campo de valor.
+
+Ejemplos: Equal, Contains, Null, Less than
+
+**D - Valor**
+
+El valor es la parte de información introducida en el campo especificado por el nombre del campo.
+
+Las opciones de valor están determinadas por el origen del campo y el nombre del campo.
+
+En el valor se pueden utilizar caracteres comodín para usuarios y fechas, así como texto de forma libre.
+
+Ejemplos: Nuevo, Actual, $$TODAYbw, Descripción
+
+>[!TIP]
+>
+>Para obtener ayuda sobre los nombres de campo específicos en Workfront, consulte en la [Glosario de terminología de Adobe Workfront](https://experienceleague.adobe.com/docs/workfront/using/basics/workfront-terminology-glossary.html?lang=en).
+
