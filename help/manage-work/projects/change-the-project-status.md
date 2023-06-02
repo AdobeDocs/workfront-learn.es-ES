@@ -1,6 +1,6 @@
 ---
-title: Cierre el proyecto
-description: Aprenda a cambiar el estado de un proyecto para indicar que el trabajo ha finalizado.
+title: Cerrar el proyecto
+description: Aprenda a cambiar el estado de un proyecto para indicar que el trabajo se ha completado.
 activity: use
 team: Technical Marketing
 feature: Work Management
@@ -8,18 +8,19 @@ thumbnail: change-the-project-status.jpeg
 type: Tutorial
 role: User
 level: Intermediate
+last-substantial-update: 2023-05-12T00:00:00Z
 kt: 10127
 exl-id: e32f89f0-9b02-42e8-85b4-57fe461b1c36
-source-git-commit: 961627d42a7967dd3070f52e73986c47d8fdc8f9
+source-git-commit: e8318b89bcf2fb3a6f27a9468495dac1d9084732
 workflow-type: tm+mt
-source-wordcount: '56'
+source-wordcount: '55'
 ht-degree: 0%
 
 ---
 
-# Cambiar el estado del proyecto
+# Cerrar el proyecto
 
-En este vídeo aprenderá:
+En este vídeo aprenderá lo siguiente:
 
 * Cómo cambiar el estado del proyecto a [!UICONTROL Completar]
 * Por qué cambiar el estado del proyecto a [!UICONTROL Completar]
