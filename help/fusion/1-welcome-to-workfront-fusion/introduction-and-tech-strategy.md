@@ -1,6 +1,6 @@
 ---
 title: Introducción y estrategia tecnológica
-description: Obtenga información sobre el poder y la flexibilidad de [!DNL Adobe Workfront Fusion], las funciones de diseño y núcleo de Fusion y un escenario de ejemplo de Fusion.
+description: Obtenga información acerca de la potencia y flexibilidad de [!DNL Adobe Workfront Fusion], las funcionalidades básicas y de diseñador de Fusion y un escenario de ejemplo de Fusion.
 activity: use
 team: Technical Marketing
 type: Tutorial
@@ -10,19 +10,27 @@ level: Beginner
 kt: 8999
 exl-id: 7ca27805-5ca8-4f62-b691-cbdd6a791060
 doc-type: video
-source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
+source-git-commit: a657607a53ddbfb6d5b795642f81120c5ecccbaf
 workflow-type: tm+mt
-source-wordcount: '47'
+source-wordcount: '142'
 ht-degree: 0%
 
 ---
 
-# Introducción y estrategia tecnológica
+# ¿Qué es Adobe Workfront Fusion?
 
-En este vídeo, verá:
+Workfront Fusion es una potente plataforma de integración que permite que el trabajo fluya libremente entre sistemas y equipos. Su función es automatizar sus procesos para que pueda concentrarse en nuevas tareas en lugar de repetir las mismas tareas una y otra vez. Funciona vinculando acciones dentro de las aplicaciones y servicios y entre ellos para crear un escenario que transfiera y transforme los datos automáticamente.
 
-* La potencia y flexibilidad de la fusión
-* Funcionalidades principales y de diseño de Fusion
-* Un ejemplo de situación de Fusion
+## Cómo obtener Fusion
+
+Fusion es un producto añadido incluido en algunos paquetes de Workfront y no en otros. Si su paquete de Workfront no incluye Fusion, póngase en contacto con las ventas.
+
+## Introducción y estrategia tecnológica
+
+En este vídeo verá lo siguiente:
+
+* La potencia y flexibilidad de Fusion
+* Funcionalidades principales y de diseñador de Fusion
+* Un escenario de ejemplo de Fusion
 
 >[!VIDEO](https://video.tv.adobe.com/v/335259/?quality=12&learn=on)

@@ -3,9 +3,9 @@ user-guide-description: Tutoriales de Workfront
 role: User
 level: Beginner
 feature-set: Workfront
-source-git-commit: 65bd26fefb280d12ec44a4923f6d96ac8d88d6fb
+source-git-commit: 81ea900e3204fac1c3c4e4b11e380ae487122410
 workflow-type: tm+mt
-source-wordcount: '2367'
+source-wordcount: '2368'
 ht-degree: 2%
 
 ---
@@ -364,10 +364,10 @@ ht-degree: 2%
 
 + Fusion {#fusion}
    + Bienvenido a Workfront Fusion {#welcome-to-workfront-fusion}
-      + [Información general sobre Workfront Fusion](fusion/1-welcome-to-workfront-fusion/workfront-fusion-overview.md)
+      + [Introducción y estrategia tecnológica](fusion/1-welcome-to-workfront-fusion/introduction-and-tech-strategy.md)
+      + [Información general sobre la formación de Workfront Fusion](fusion/1-welcome-to-workfront-fusion/workfront-fusion-overview.md)
       + [Configuración de los archivos del ejercicio de Workfront Fusion](fusion/1-welcome-to-workfront-fusion/set-up-your-fusion-exercise-files-walkthrough.md)
       + [Iniciar sesión como nuevo usuario](fusion/1-welcome-to-workfront-fusion/log-in-as-a-new-user.md)
-      + [Introducción y estrategia tecnológica](fusion/1-welcome-to-workfront-fusion/introduction-and-tech-strategy.md)
       + [Conceptos principales](fusion/1-welcome-to-workfront-fusion/core-concepts.md)
    + Comprender los conceptos básicos {#understand-the-basics}
       + [Tutorial de diseño del escenario inicial](fusion/2-understand-the-basics/initial-scenario-design-walkthrough.md)
