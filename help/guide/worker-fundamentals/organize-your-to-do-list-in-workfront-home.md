@@ -1,25 +1,25 @@
 ---
-title: Organice la lista de tareas pendientes en la página principal
-description: En este vídeo, aprenderá a ordenar las asignaciones de trabajo, filtrar las asignaciones por tipo, identificar el trabajo que está listo para iniciarse y aceptar las asignaciones de trabajo.
+title: Organizar la lista de tareas pendientes en Inicio
+description: En este vídeo, aprenderá a ordenar asignaciones de trabajo, filtrar asignaciones por tipo, identificar el trabajo que está listo para comenzar y aceptar asignaciones de trabajo.
 topic: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: Jira ticket
-source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
+source-git-commit: 3dc5d407ea6ad97b597b2bfba961f0b169643762
 workflow-type: tm+mt
 source-wordcount: '60'
 ht-degree: 0%
 
 ---
 
-# Organice la lista de tareas pendientes en la página principal
+# Organizar la lista de tareas pendientes en Inicio
 
-En este vídeo, aprenderá a:
+En este vídeo, aprenderá a hacer lo siguiente:
 
 * Ordenar asignaciones de trabajo
 * Filtrar asignaciones de trabajo por tipo
-* Identificar el trabajo listo para empezar
+* Identificar el trabajo que está listo para iniciarse
 * Aceptar asignaciones de trabajo
 
 >[!VIDEO](https://video.tv.adobe.com/v/335099/?quality=12&learn=on)
