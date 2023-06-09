@@ -1,5 +1,5 @@
 ---
-title: Informe de problemas
+title: Informe sobre problemas
 description: Aprenda a centralizar problemas creando un informe.
 activity: use
 team: Technical Marketing
@@ -10,48 +10,38 @@ role: User
 level: Intermediate
 kt: 10072
 exl-id: c7d76d7f-46be-40a7-99f8-5e83dc708d34
-source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
+source-git-commit: 5038db46f9c369ef5b356fc8e1a078a2d1d32bea
 workflow-type: tm+mt
-source-wordcount: '243'
-ht-degree: 0%
+source-wordcount: '283'
+ht-degree: 2%
 
 ---
 
-# Informe sobre cuestiones
+# Informe sobre problemas
 
-## Centralización de problemas creando un informe
+## Centralice los problemas creando un informe
 
-Muchos gestores de tráfico y de proyecto crean un [!UICONTROL Workfront] informe personalizado para centralizar todos los problemas entrantes. Esto facilita el seguimiento de las novedades y de las necesidades de atención.
+Muchos jefes de proyecto y tráfico crean un [!UICONTROL Workfront] informe personalizado para centralizar todos los problemas entrantes. Esto facilita el seguimiento de las novedades y requiere atención.
 
-A continuación, el informe se puede agregar a un tablero, colocando todo lo necesario para realizar su trabajo en uno [!UICONTROL Workfront] ventana.
+A continuación, el informe se puede agregar a un panel, donde encontrará todo lo necesario para realizar su trabajo [!UICONTROL Workfront] ventana.
 
-![Una imagen del [!UICONTROL Resolver objeto] de un informe de problemas.](assets/18-resolving-object-report.png)
+![Una imagen de la [!UICONTROL Objeto de resolución] de un informe de problemas.](assets/18-resolving-object-report.png)
 
-Para mostrar el nombre de la tarea o del proyecto al que se ha convertido el problema, incluya el[!UICONTROL Resolver objeto]&quot; en la vista. Un &quot;[!UICONTROL Resolver objeto]&quot; es la tarea o el proyecto que se crea al convertir un problema. Si no se ha convertido un problema, la variable [!UICONTROL Resolver objeto] se deja en blanco. Este informe permite ver rápidamente qué problemas ya se han convertido, por lo que no acaba con duplicados. Simplemente haga clic en el nombre del objeto de resolución para abrirlo y poder realizar un seguimiento del progreso en el trabajo realizado.
+Para mostrar el nombre de la tarea o proyecto al que se convirtió el problema, incluya el &quot;[!UICONTROL Objeto de resolución]&quot; en la vista. A &quot;[!UICONTROL Objeto de resolución]&quot; es la tarea o proyecto creado al convertir un problema. Si un problema no se ha convertido, la variable [!UICONTROL Objeto de resolución] el campo estará en blanco. Este informe permite ver rápidamente qué problemas ya se han convertido, para que no termine con duplicados. Simplemente haga clic en el nombre del objeto de resolución para abrirlo y poder realizar un seguimiento del progreso en el trabajo que se está realizando.
 
-## Mostrar la información del problema original en los informes
+## Mostrar la información original del problema en los informes
 
-A veces, un problema se convierte en una tarea o proyecto, por lo que el trabajo necesario para resolverlo se puede rastrear y monitorizar según los flujos de trabajo de su organización.
+Cuando un problema se convierte en un proyecto o tarea, se puede informar sobre muchos de los detalles originales del problema en los informes de proyectos o tareas. El problema original se conoce como &quot;[!UICONTROL Problema convertido]&quot;.
 
-Un informe de proyecto o tarea puede mostrar información útil sobre el problema original. Estas columnas se pueden agregar a una vista personalizada con informes de modo de texto:
+Un informe de proyecto o tarea puede mostrar esta información mediante el [!UICONTROL Originador de problema convertido] junto con dos campos dedicados. Estas columnas se pueden agregar a una vista personalizada sin necesidad del modo de texto:
 
-* [!UICONTROL Fecha de entrada de emisión original]
-* [!UICONTROL Nombre del problema original]
-* [!UICONTROL Nombre del origen del problema original]
+* [!UICONTROL Fecha de entrada de problema convertido]
+* [!UICONTROL Nombre de problema convertido]
+* [!UICONTROL Originador de problema convertido > Nombre]
 
-![Imagen de la información de informes de problemas.](assets/19-text-mode-reporting-for-issues.png)
+![Imagen de información de creación de informes de problemas.](assets/19-text-mode-reporting-for-issues.png)
 
-<!-- Need wf one documentation article link below
+>[!NOTE]
+>
+>Para obtener instrucciones sobre cómo crear una vista, consulte [Crear una vista básica](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-basic-view.html?lang=en).
 
-For the text mode used to create this report, see the article titled View: Display original issue information on task and project list.
-
--->
-
-
-<!--  Learn more graphic and documentation article links
-
-* Create and customize views
-* Overview of resolving and resolvable objects
-* Understanding resolving and resolvable objects
-
--->
