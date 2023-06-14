@@ -1,6 +1,6 @@
 ---
 title: Informes sobre pruebas
-description: Aprenda a utilizar las funcionalidades de creación de informes para administrar el progreso de las pruebas.
+description: Aprenda a utilizar las funcionalidades de creación de informes para administrar el progreso de la prueba.
 activity: use
 team: Technical Marketing
 feature: Workfront Proof
@@ -10,9 +10,9 @@ level: Intermediate
 thumbnail: report-on-proofs.png
 kt: 10233
 exl-id: 9a1a9e16-61cc-4f95-977a-8870b7fd0dda
-source-git-commit: 65bd26fefb280d12ec44a4923f6d96ac8d88d6fb
+source-git-commit: 42e75991ea78bfa8959158f9f3fd9a69e8ce0829
 workflow-type: tm+mt
-source-wordcount: '446'
+source-wordcount: '445'
 ht-degree: 0%
 
 ---
