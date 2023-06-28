@@ -3,9 +3,9 @@ user-guide-description: Tutoriales de Workfront
 role: User
 level: Beginner
 feature-set: Workfront
-source-git-commit: 42e75991ea78bfa8959158f9f3fd9a69e8ce0829
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
-source-wordcount: '2374'
+source-wordcount: '2384'
 ht-degree: 2%
 
 ---
@@ -187,6 +187,9 @@ ht-degree: 2%
       + [Actualización y revisión de finanzas](manage-work/project-finances/update-and-review-finances.md)
       + [Buscar información financiera](manage-work/project-finances/find-financial-information.md)
       + [Comprender las tarifas de facturación múltiples](manage-work/project-finances/multiple-billing-rates.md)
+
+   + Proyectos intermedios {#intermediate-projects}
+      + [Explicación y administración de los tipos de duración y las restricciones de tareas](manage-work/intermediate-projects/understand-and-manage-duration-types-and-task-constraints.md)
 
 
 + Informes {#reporting}

@@ -1,6 +1,6 @@
 ---
-title: Explicación de los filtros
-description: Obtenga información sobre cómo agregar un filtro basado en campos de proyecto comunes y cómo agregar un filtro mediante un formulario personalizado, todo en [!UICONTROL Análisis mejorado].
+title: Comprender los filtros
+description: Obtenga información sobre cómo añadir un filtro basado en campos de proyecto comunes y cómo añadir un filtro mediante un formulario personalizado, todo en [!UICONTROL Análisis mejorado].
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335043.png
@@ -8,19 +8,19 @@ type: Tutorial
 role: User
 level: Beginner
 team: Technical Marketing
-kt: 8721
+jira: KT-8721
 exl-id: b63ab88a-c196-489f-92e8-ffe94be6aa2b
 doc-type: video
-source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
 source-wordcount: '265'
 ht-degree: 0%
 
 ---
 
-# Explicación de los filtros de [!UICONTROL Análisis mejorado]
+# Explicación de los filtros en [!UICONTROL Análisis mejorado]
 
-En este vídeo, aprenderá:
+En este vídeo, aprenderá lo siguiente:
 
 * Adición de un filtro basado en campos de proyecto comunes
 * Adición de un filtro mediante un formulario personalizado
@@ -29,15 +29,15 @@ En este vídeo, aprenderá:
 
 >[!NOTE]
 >
->No todos los campos de formulario personalizados pueden utilizarse como filtros en [!DNL Analytics]. Podrá utilizar casillas de verificación, menús desplegables, botones de opción, fechas, texto y campos numéricos como filtros. Elija primero el nombre del formulario y, a continuación, seleccione los campos disponibles.
+>No todos los campos de formulario personalizados se pueden usar como filtros en [!DNL Analytics]. Podrá utilizar casillas de verificación, menús desplegables, botones de opción, fechas, texto y campos numéricos como filtros. Elija primero el nombre del formulario y, a continuación, seleccione los campos disponibles.
 
-## Filtros del gráfico Personas
+## Filtros del gráfico de personas
 
-Los gráficos Personas se basan en equipos domésticos. Muestran la actividad y la capacidad de recursos de tantos equipos como seleccione en el filtro.
+Los gráficos de Personas se basan en equipos de inicio. Muestran la actividad y la capacidad de los recursos de tantos equipos como seleccione en el filtro.
 
 ## Consideraciones adicionales
 
-* En los gráficos de trabajo, solo la variable **primeros 50 proyectos** son visibles. Pasa la página para ver grupos adicionales de 50. Sin embargo, los cuatro KPI se calculan comparándolos con todos los proyectos dentro del intervalo de fechas. Si la lista de proyectos es mayor de 50 y desea ver la lista completa a la vez, siga agregando filtros para obtener el subconjunto correcto de proyectos.
+* En los Gráficos de trabajo, solo aparece la variable **primeros 50 proyectos** son visibles. Pasar la página para ver grupos adicionales de 50. Sin embargo, los cuatro KPI se calculan con todos los proyectos dentro del intervalo de fechas. Si la lista de proyectos es mayor de 50 y desea ver la lista completa a la vez, siga agregando filtros para obtener el subconjunto correcto de proyectos.
 * Los resultados de la búsqueda empiezan a aparecer después de escribir al menos **tres letras** del término de búsqueda.
-* Puede **añadir cada filtro solo una vez**. Por ejemplo, una vez que agregue Condición y seleccione una Condición específica, no podrá agregar de nuevo el campo Condición para elegir otra opción. Debe eliminar el filtro y agregarlo de nuevo con todos los criterios. La excepción es el filtro de formulario personalizado.
+* Puede **agregar cada filtro solo una vez**. Por ejemplo, una vez que agrega Condición y selecciona una Condición específica, no puede volver a agregar el campo Condición para elegir otra opción. Debe eliminar el filtro y agregarlo de nuevo con todos los criterios. La excepción a esto es el filtro de Formulario personalizado.
 * Elimine un filtro haciendo clic en la X situada junto a él en la parte superior de la ventana.

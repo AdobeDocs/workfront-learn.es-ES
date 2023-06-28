@@ -8,10 +8,10 @@ type: Tutorial
 role: User
 level: Intermediate
 team: Technical Marketing
-kt: 8768
+jira: KT-8768
 exl-id: 1be0bec5-13b3-44b0-ba49-d25adf0378a5
 doc-type: video
-source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
 source-wordcount: '143'
 ht-degree: 22%
@@ -20,7 +20,7 @@ ht-degree: 22%
 
 # Comprender la creación básica de proyectos
 
-En este vídeo, aprenderá:
+En este vídeo, aprenderá lo siguiente:
 
 * Cuatro pasos para poner en marcha un proyecto
 * La definición de un proyecto en [!DNL Workfront]
@@ -28,7 +28,7 @@ En este vídeo, aprenderá:
 
 >[!VIDEO](https://video.tv.adobe.com/v/335082/?quality=12&learn=on)
 
-Obtenga su [!DNL  Workfront] ejecuta proyectos rápidamente mediante una plantilla de proyecto. A continuación, planifique el proyecto centrándose primero en estos cinco campos:
+Obtenga su [!DNL  Workfront] los proyectos se ejecutan rápidamente mediante una plantilla de proyecto. A continuación, planifique el proyecto centrándose primero en estos cinco campos:
 
 1. Tareas
 1. Duración
@@ -36,4 +36,4 @@ Obtenga su [!DNL  Workfront] ejecuta proyectos rápidamente mediante una plantil
 1. Predecesoras
 1. Asignaciones
 
-Una vez todo esté configurado, cambie el estado del proyecto a Actual para que el proyecto esté activo. A medida que avance el proyecto, querrá realizar un seguimiento del trabajo que se está realizando, los problemas que surgen, las preguntas que necesitan respuesta, etc. Recuerde ... puede encontrar y administrar toda esa información en [!DNL Workfront]!
+Una vez establecido todo, cambie el estado del proyecto a Actual para poner en marcha el proyecto. A medida que avance el proyecto, querrá realizar un seguimiento del trabajo realizado, los problemas que surjan, las preguntas que necesiten respuesta y mucho más. Solo recuerde... puede encontrar y administrar toda esa información en [!DNL Workfront]!

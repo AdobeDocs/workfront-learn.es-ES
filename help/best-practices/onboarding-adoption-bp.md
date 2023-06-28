@@ -1,52 +1,52 @@
 ---
-title: Prácticas recomendadas - Incorporación y adopción
-description: Explore las recomendaciones de prácticas recomendadas de los expertos de Adobe Workfront sobre la incorporación de usuarios a Workfront y el aumento de la adopción por parte de los usuarios.
+title: 'Práctica recomendada: incorporación y adopción'
+description: Explore las recomendaciones de prácticas recomendadas de los expertos de Adobe Workfront sobre la incorporación de usuarios a Workfront y el aumento de la adopción de usuarios.
 feature: Get Started with Workfront
 role: Admin, Leader, User
 level: Beginner
-kt: 10915
+jira: KT-10915
 exl-id: 2e874e41-9ec8-47f9-afea-c99be65f9838
-source-git-commit: 1f7a4da813805691fc0e52d3ad1ea708f9e07a9a
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
 source-wordcount: '953'
 ht-degree: 0%
 
 ---
 
-# Prácticas recomendadas - Incorporación y adopción
+# Práctica recomendada: incorporación y adopción
 
-## ¿Qué es una &quot;práctica recomendada&quot; de Adobe Workfront?
+## ¿Cuál es una &quot;práctica recomendada&quot; de Adobe Workfront?
 
-Las mejores prácticas son directrices que representan un curso de acción eficaz y eficiente; sean adoptados fácilmente por usted y los usuarios de su empresa; y se pueden replicar correctamente en toda la organización.
+Las prácticas recomendadas son directrices que representan un curso de acción eficaz y eficiente; que usted y los usuarios de su compañía adoptan fácilmente; y que se pueden replicar correctamente en toda la organización.
 
-Al revisar estas recomendaciones, tenga en cuenta que algunas prácticas recomendadas de Workfront son universales, mientras que otras pueden ser más específicas del tema. Utilice estas prácticas recomendadas como marco para ayudarle a guiar la configuración y el uso del sistema Workfront.
+Cuando revise estas recomendaciones, tenga en cuenta que algunas de las prácticas recomendadas de Workfront son universales, mientras que otras pueden ser más específicas del tema. Utilice estas prácticas recomendadas como marco de trabajo para guiar las configuraciones y el uso del sistema de Workfront.
 
 ## Navegar por esta página
 
-Al desplazarse por esta página, primero encontrará una lista de alto nivel de todas las prácticas recomendadas sobre el tema. Esto le permite revisar las recomendaciones sin profundizar en los detalles de &quot;por qué&quot;.
+A medida que se desplaza por esta página, primero encontrará una lista de alto nivel de todas las prácticas recomendadas para el tema. Esto le permite revisar las recomendaciones sin profundizar en los detalles del &quot;por qué&quot;.
 
-La pregunta &quot;¿Por qué son estas prácticas recomendadas?&quot; , que se encuentra después de la lista de alto nivel, proporciona buenos detalles sobre algunas de las prácticas recomendadas y por qué se consideran un proceso, una herramienta, etc., debe considerar la implementación con su instancia de Workfront.
+&quot;¿Por qué son estas prácticas recomendadas?&quot; , que se encuentra después de la lista de alto nivel, proporciona buenos detalles sobre algunas de las prácticas recomendadas y por qué se consideran un proceso, una herramienta, etc., debe considerar la implementación con su instancia de Workfront.
 
 </br>
 </br>
 
 ## Prácticas recomendadas de incorporación y adopción
 
-* Asegúrese de pasar al menos una hora al mes comunicando el &quot;¿Por qué?&quot; cuando se implementa un nuevo proceso o software, como Adobe Workfront.
+* Asegúrese de pasar al menos 1 hora al mes comunicando el &quot;¿Por qué?&quot; cuando se implementa un nuevo proceso o software, como Adobe Workfront.
 
-* Antes de crear vídeos o guías de formación, revise lo que está disponible en Experience League.
+* Antes de crear vídeos o guías de formación, revise lo que está disponible en el Experience League.
 
-* Dedique tiempo, desde el principio, a sesiones de capacitación regulares para usuarios nuevos y existentes para ayudarles a seguir ampliando sus conocimientos de Workfront.
+* Deje tiempo, desde el principio, para sesiones de formación regulares tanto para usuarios nuevos como existentes, a fin de ayudarles a seguir ampliando sus conocimientos de Workfront.
 
-* Defina y cree el marco para un panel de control de Workfront y los recursos seguros necesarios para dicho tablero.
+* Defina y cree el marco de trabajo para un tablero de gobernanza de Workfront y proteja los recursos necesarios para ese tablero.
 
-* Empiece con un proceso básico y avísenlo lentamente para mejorar la adopción del usuario. No intente hacer que el sistema o el nuevo proceso sean todo para todos.
+* Comience con un proceso básico y hágalo lentamente para impulsar la adopción del usuario. No intente hacer que el sistema o el nuevo proceso sean de todo para todos.
 
-* Utilice los diagramas de proceso para admitir las conversaciones en casos en los que la adopción esté en dificultades.
+* Utilice los diagramas de procesos para apoyar las conversaciones en casos en los que la adopción sea difícil.
 
-* Cree un Centro de excelencia de Workfront para informar sobre las prácticas recomendadas de la empresa con Workfront.
+* Establezca un Centro de excelencia de Workfront para informar a las prácticas recomendadas de la empresa con Workfront.
 
-* Utilice la comunidad de Experience League.
+* Utilice la Comunidad de Experience League.
 
 * Establezca estándares o expectativas para los usuarios y asegúrese de que el liderazgo apoye esas expectativas.
 
@@ -54,43 +54,43 @@ La pregunta &quot;¿Por qué son estas prácticas recomendadas?&quot; , que se e
 </br>
 
 
-## ¿Por qué estas prácticas recomendadas?
+## ¿Por qué son estas prácticas recomendadas?
 
 **Práctica recomendada**
 
-Asegúrese de pasar al menos una hora al mes comunicando el &quot;¿Por qué?&quot; cuando se implementa un nuevo proceso o software, como Adobe Workfront.
+Asegúrese de pasar al menos 1 hora al mes comunicando el &quot;¿Por qué?&quot; cuando se implementa un nuevo proceso o software, como Adobe Workfront.
 
-**He aquí por qué**
+**He aquí la razón**
 
-La mensajería debe ser sencilla y debe salir con una cadencia regular. Asegúrese de que comunica a los usuarios, equipos y departamentos cuáles son los objetivos y los resultados esperados para la implementación de Workfront, cómo se beneficiarán los individuos y por qué es importante no solo para usted sino para la organización en su conjunto.
+La mensajería debe ser sencilla y debe emitirse en una cadencia regular. Asegúrese de que comunica a los usuarios, equipos y departamentos cuáles son los objetivos y los resultados esperados para implementar Workfront, cómo se beneficiarán los individuos y por qué es importante no solo para usted, sino también para la organización en su conjunto.
 
-Estos esfuerzos de comunicación crean conciencia entre los usuarios y proporcionan el marco para un plan que relacione el trabajo con la estrategia. Garantizar un entendimiento compartido en todo el equipo sobre cómo Workfront apoya la visión general y la misión de la organización es fundamental para el éxito.
-
-</br>
-</br>
-
-**Práctica recomendada**
-
-Antes de crear vídeos o guías de formación, revise lo que está disponible en Experience League.
-
-**He aquí por qué**
-
-Si no tiene que crear formación para los usuarios sobre Workfront, no lo haga. Por supuesto, puede crear su propia formación, pero si no tiene tiempo para hacerlo usted mismo o el dinero para comprar la formación personalizada, hay muy buenos recursos en Experience League para poner en marcha a sus usuarios, sin importar su función
-
-Además, en la página Introducción encontrará cursos básicos para poner en marcha a los usuarios en Workfront.
+Estos esfuerzos de comunicación crean conciencia entre los usuarios y proporcionan el marco para un plan para conectar el trabajo con la estrategia. Garantizar el entendimiento compartido entre el equipo sobre cómo Workfront respalda la visión y la misión generales de la organización es fundamental para el éxito.
 
 </br>
 </br>
 
 **Práctica recomendada**
 
-Defina y cree el marco para un panel de control de Workfront y los recursos seguros necesarios para dicho tablero.
+Antes de crear vídeos o guías de formación, revise lo que está disponible en el Experience League.
 
-**He aquí por qué**
+**He aquí la razón**
 
-Dado que tantos equipos contribuyen al éxito general de su organización, debe haber ciertos estándares que todos sigan para garantizar la excelencia operativa. Esto lo hace la junta de gobierno—todos ellos tienen voz en la mesa, entienden las iniciativas estratégicas de la empresa y pueden participar en el trabajo hacia objetivos comunes.
+Si no tiene que crear cursos de formación para los usuarios sobre Workfront, no lo haga. Por supuesto, puede crear su propia formación, pero si no tiene tiempo para hacerlo usted mismo o dinero para adquirir formación personalizada, Experience League pone a su disposición unos recursos realmente buenos para poner en marcha a sus usuarios, independientemente de su función
 
-La mayoría de las veces, la junta estará compuesta por:
+Además, consulte la página Introducción para ver los cursos básicos para poner en marcha a los usuarios en Workfront.
+
+</br>
+</br>
+
+**Práctica recomendada**
+
+Defina y cree el marco de trabajo para un tablero de gobernanza de Workfront y proteja los recursos necesarios para ese tablero.
+
+**He aquí la razón**
+
+Dado que muchos equipos contribuyen al éxito general de su organización, debe haber ciertos estándares que todos sigan para garantizar la excelencia operativa. Esto lo hace el consejo de administración, todos los cuales tienen voz en la mesa, comprenden las iniciativas estratégicas de la compañía y pueden participar en el trabajo para lograr objetivos comunes.
+
+La mayoría de las veces, el tablero consistirá en:
 
 * Administradores del sistema
 * Administradores de grupo
@@ -98,44 +98,44 @@ La mayoría de las veces, la junta estará compuesta por:
 * Usuarios avanzados
 
 
-Se debe asignar a cada usuario una función y asignarles responsabilidades que ayuden a supervisar las prácticas clave de infraestructura, como la comunicación, la educación, la mejora de los procesos o la creación de informes.
+Se debe asignar a cada usuario una función y responsabilidades que ayuden a supervisar las prácticas clave de infraestructura, como la comunicación, la educación, la mejora de procesos o la creación de informes.
 
-Para obtener más información, vaya a Prácticas recomendadas del administrador del sistema: conocer a sus usuarios en el Experience League.
-
-</br>
-</br>
-
-**Práctica recomendada**
-
-Utilice los diagramas de proceso para admitir las conversaciones en casos en los que la adopción esté en dificultades.
-
-**He aquí por qué**
-
-El uso compartido de diagramas de procesos con los gerentes y usuarios de su personal les ofrece una visión en segundo plano de por qué las cosas se construyeron de la misma manera que en Workfront. Esto crea una buena idea básica de por qué algunas herramientas se utilizan de formas específicas y por qué algunas aún no se utilizan.
-
-Además, los usuarios pueden comprender cómo se captura y mide el trabajo que realizan en Workfront y cómo la administración puede reconocer cómo el trabajo benefició a la empresa y su éxito.
+Para obtener más información, consulte Prácticas recomendadas para administradores de sistemas: conocer a sus recursos en Experience League.
 
 </br>
 </br>
 
 **Práctica recomendada**
 
-Cree un Centro de excelencia de Workfront para informar sobre las prácticas recomendadas de la empresa con Workfront.
+Utilice los diagramas de procesos para apoyar las conversaciones en casos en los que la adopción sea difícil.
 
-**He aquí por qué**
+**He aquí la razón**
 
-El Centro de excelencia de Workfront está compuesto por expertos en temas (PYME) que ayudan a definir las prácticas recomendadas de la organización y ayudan a los equipos de asistencia a comprender cuáles son estas prácticas recomendadas y por qué.
+Al compartir diagramas de procesos con los administradores y usuarios de su equipo, se les ofrece una visión entre bastidores de por qué las cosas se crearon tal como estaban en Workfront. Esto crea una buena comprensión de línea de base de por qué algunas herramientas se utilizan de formas específicas y por qué algunas herramientas aún no se utilizan.
+
+Además, los usuarios pueden comprender cómo se captura y mide el trabajo que realizan en Workfront y cómo la administración puede entonces reconocer cómo el trabajo benefició a la compañía y su éxito.
 
 </br>
 </br>
 
 **Práctica recomendada**
 
-Utilice la comunidad de Experience League.
+Establezca un Centro de excelencia de Workfront para informar a las prácticas recomendadas de la empresa con Workfront.
 
-**He aquí por qué**
+**He aquí la razón**
 
-La comunidad de Experience League es una oportunidad para que usted solicite y reciba consejos sobre todas las cosas relacionadas con Workfront y el trabajo. Incluso si no desea participar en las discusiones, puede revisar la página para encontrar información sobre temas que le interesen o con los que tenga problemas.
+El Centro de excelencia de Workfront está compuesto por expertos en la materia (SME) que le ayudarán a definir las prácticas recomendadas de su organización y ayudarán a los equipos de soporte a comprender cuáles son dichas prácticas recomendadas y por qué.
+
+</br>
+</br>
+
+**Práctica recomendada**
+
+Utilice la Comunidad de Experience League.
+
+**He aquí la razón**
+
+La comunidad de Experience League es una oportunidad para que pida y reciba consejos sobre todas las cosas relacionadas con Workfront y el trabajo. Incluso si no desea participar en las discusiones, puede examinar la página para encontrar información sobre los temas que le interesan o con los que tiene problemas.
 
 </br>
 </br>
@@ -145,9 +145,9 @@ La comunidad de Experience League es una oportunidad para que usted solicite y r
 
 Establezca estándares o expectativas para los usuarios y asegúrese de que el liderazgo apoye esas expectativas.
 
-**He aquí por qué**
+**He aquí la razón**
 
-Es importante que los usuarios tengan expectativas claras para que sepan cuál es el objetivo de Workfront y dónde se encuentran para satisfacer esas expectativas. Es igualmente importante que sepan que el liderazgo está detrás de esas normas.
+Es importante que los usuarios tengan expectativas claras para saber cuál es el objetivo de Workfront y cuál es su posición a la hora de cumplir dichas expectativas. Es igualmente importante que sepan que el liderazgo está detrás de esos estándares.
 
 
-Asegúrese de que el liderazgo envía comunicaciones para expresar su apoyo.
+Asegúrese de que el liderazgo envíe comunicaciones que indiquen su apoyo.

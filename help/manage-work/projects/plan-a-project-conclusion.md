@@ -1,15 +1,15 @@
 ---
 title: 'Planificar un proyecto: revisión'
-description: 'Revise los cinco campos de un proyecto en los que centrarse al planificar un proyecto: tareas, duración, horas planificadas, predecesores y asignaciones.'
+description: 'Revise los cinco campos de un proyecto en los que centrarse cuando planifique un proyecto: tareas, duración, horas planificadas, predecesoras y asignaciones.'
 activity: use
 team: Technical Marketing
 feature: Work Management
 type: Tutorial
 role: User
 level: Intermediate
-kt: 10152
+jira: KT-10152
 exl-id: dfc53caa-5aa1-406f-ac31-de2cd1096202
-source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
 source-wordcount: '107'
 ht-degree: 5%
@@ -18,7 +18,7 @@ ht-degree: 5%
 
 # Planificar un proyecto: revisión
 
-Obtenga su [!DNL  Workfront] ejecuta proyectos rápidamente mediante una plantilla de proyecto. A continuación, planifique el proyecto centrándose primero en estos cinco campos:
+Obtenga su [!DNL  Workfront] los proyectos se ejecutan rápidamente mediante una plantilla de proyecto. A continuación, planifique el proyecto centrándose primero en estos cinco campos:
 
 1. Tareas
 1. Duración
@@ -26,7 +26,7 @@ Obtenga su [!DNL  Workfront] ejecuta proyectos rápidamente mediante una plantil
 1. Predecesoras
 1. Asignaciones
 
-Una vez todo esté configurado, cambie el estado del proyecto a Actual para que el proyecto esté activo. A medida que avance el proyecto, querrá realizar un seguimiento del trabajo que se está realizando, los problemas que surgen, las preguntas que necesitan respuesta, etc. Recuerde ... puede encontrar y administrar toda esa información en [!DNL Workfront]!
+Una vez establecido todo, cambie el estado del proyecto a Actual para poner en marcha el proyecto. A medida que avance el proyecto, querrá realizar un seguimiento del trabajo realizado, los problemas que surjan, las preguntas que necesiten respuesta y mucho más. Solo recuerde... puede encontrar y administrar toda esa información en [!DNL Workfront]!
 
 <!---
 footer urls for the LP

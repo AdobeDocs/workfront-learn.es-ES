@@ -8,10 +8,10 @@ type: Tutorial
 role: User
 level: Intermediate
 team: Technical Marketing
-kt: 8951
+jira: KT-8951
 exl-id: 9179fbc8-1000-4215-b2c3-de617c7f1d80
 doc-type: video
-source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
 source-wordcount: '37'
 ht-degree: 0%
@@ -20,9 +20,9 @@ ht-degree: 0%
 
 # Compartir una plantilla de proyecto
 
-Aprenderá a:
+Aprenderá a hacer lo siguiente:
 
 * Compartir una plantilla con otros usuarios
-* Compartir proyectos creados mediante una plantilla
+* Compartir proyectos creados con una plantilla
 
 >[!VIDEO](https://video.tv.adobe.com/v/335211/?quality=12&learn=on)

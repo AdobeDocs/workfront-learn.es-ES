@@ -8,10 +8,10 @@ type: Tutorial
 role: User
 level: Intermediate
 team: Technical Marketing
-kt: 8948
+jira: KT-8948
 exl-id: 8b50c79a-d5b7-4127-8daf-8a449b3fe570
 doc-type: video
-source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
 source-wordcount: '41'
 ht-degree: 0%
@@ -20,7 +20,7 @@ ht-degree: 0%
 
 # Buscar información financiera
 
-En este vídeo, aprenderá a:
+En este vídeo, aprenderá a hacer lo siguiente:
 
 * Encuentre información financiera sobre un proyecto y comprenda de dónde procede.
 

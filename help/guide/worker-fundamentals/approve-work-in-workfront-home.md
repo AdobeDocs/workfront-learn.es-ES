@@ -1,25 +1,25 @@
 ---
-title: Aprobar el trabajo en la página principal
-description: En este vídeo, aprenderá a encontrar aprobaciones en la lista de trabajo, aprobar o rechazar el trabajo y revisar una prueba.
+title: Aprobar el trabajo en Inicio
+description: En este vídeo, aprenderá a encontrar aprobaciones en la Lista de trabajos, aprobar o rechazar trabajos y revisar una prueba.
 topic: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 335105.png
-kt: Jira ticket
-source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
+jira: KT-Jira ticket
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
 source-wordcount: '49'
 ht-degree: 0%
 
 ---
 
-# Aprobar el trabajo en la página principal
+# Aprobar el trabajo en Inicio
 
-En este vídeo, aprenderá a:
+En este vídeo, aprenderá a hacer lo siguiente:
 
-* Buscar aprobaciones en la lista de trabajo
+* Buscar aprobaciones en la Lista de trabajos
 * Aprobar o rechazar trabajo
-* Revisar una prueba
+* Revisión de una revisión
 
 >[!VIDEO](https://video.tv.adobe.com/v/335105/?quality=12&learn=on)

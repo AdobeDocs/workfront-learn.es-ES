@@ -1,5 +1,5 @@
 ---
-title: Aprobaciones completas
+title: Completar aprobaciones
 description: Obtenga información sobre cómo identificar aprobaciones incompletas y resolverlas para que pueda cerrar el proyecto en [!DNL  Workfront].
 activity: use
 team: Technical Marketing
@@ -8,27 +8,27 @@ thumbnail: complete-approvals.jpeg
 type: Tutorial
 role: User
 level: Intermediate
-kt: 10134
+jira: KT-10134
 exl-id: fda55592-e4d3-4cb6-941f-09bf1bc76bf6
-source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
 source-wordcount: '200'
 ht-degree: 0%
 
 ---
 
-# Aprobaciones completas
+# Completar aprobaciones
 
-Las aprobaciones de tareas y problemas forman parte de muchos flujos de trabajo. Sin embargo, las aprobaciones no resueltas pueden impedir que establezca el estado del proyecto en Completado.
+Las aprobaciones de tareas y problemas forman parte de muchos flujos de trabajo. Sin embargo, las aprobaciones sin resolver pueden impedir que establezca el estado del proyecto en Completo.
 
-En el [!UICONTROL Tarea] del proyecto, seleccione una [!UICONTROL Ver] que incluye el [!UICONTROL Estado] para abrir el Navegador. Un vistazo rápido a esa columna mostrará si hay una aprobación incompleta en una tarea con el &quot;[!UICONTROL -aprobación pendiente]&quot; después del nombre del estado.
+En el [!UICONTROL Tarea] del proyecto, seleccione una [!UICONTROL Ver] que incluye el [!UICONTROL Estado] columna. Un vistazo rápido hacia abajo en esa columna mostrará si hay una aprobación incompleta en una tarea con la etiqueta &quot;[!UICONTROL -aprobación pendiente]&quot; después del nombre del estado.
 
-![Proyecto que muestra una aprobación incompleta](assets/planner-fund-approval-pending.png)
+![Proyecto con aprobación incompleta](assets/planner-fund-approval-pending.png)
 
-Tiene algunas opciones de qué hacer:
+Tiene varias opciones para elegir qué hacer:
 
-* **Complete la aprobación —** Esto puede significar recordar a otros la aprobación pendiente. Haga esto con una actualización a través de [!DNL Workfront]. Según el [!DNL Workfront] permisos, es posible que pueda completar la aprobación por su cuenta.
-* **Quitar la aprobación —** Si no se necesita la aprobación, puede ser más fácil eliminarla. Su capacidad para hacerlo depende de su [!DNL Workfront] permisos.
-* **Cambiar el estado —** Seleccione un estado que no tenga una aprobación adjunta. Asegúrese de que el estado sea igual a Completado.
+* **Completar la aprobación —** Esto puede significar recordar a otros la aprobación pendiente. Para ello, realice una actualización mediante [!DNL Workfront]. En función de su [!DNL Workfront] permisos, es posible que pueda completar la aprobación usted mismo.
+* **Eliminar la aprobación —** Si no se necesita la aprobación, puede que sea más fácil eliminarla. Su capacidad para hacerlo depende de su [!DNL Workfront] permisos.
+* **Cambiar el estado —** Seleccione un estado que no tenga una aprobación adjunta. Asegúrese de que el estado sea igual a Completo.
 
-Si su organización utiliza problemas para rastrear problemas, cambiar pedidos u otros eventos durante los proyectos, siga los mismos pasos en la [!UICONTROL Problemas] del proyecto.
+Si su organización utiliza problemas para realizar el seguimiento de problemas, solicitudes de cambio u otros eventos durante los proyectos, siga los mismos pasos en la [!UICONTROL Problemas] de su proyecto.

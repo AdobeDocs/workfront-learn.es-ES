@@ -5,9 +5,9 @@ topic: null
 activity: deploy
 doc-type: feature video
 team: Technical Marketing
-kt: Jira ticket
+jira: KT-Jira ticket
 role: Admin
-source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
 source-wordcount: '61'
 ht-degree: 0%
@@ -16,10 +16,10 @@ ht-degree: 0%
 
 # Personalización de listas de informes con plantillas de diseño
 
-En este vídeo, aprenderá a:
+En este vídeo, aprenderá a hacer lo siguiente:
 
-* Vaya a la configuración de la lista de informes de una plantilla de diseño
+* Vaya a la configuración de la lista de informes en una plantilla de diseño
 * Eliminación de filtros, vistas y agrupaciones
-* Añadir filtros, vistas y agrupaciones
+* Agregar filtros, vistas y agrupaciones
 
 >[!VIDEO](https://video.tv.adobe.com/v/335079/?quality=12&learn=on)

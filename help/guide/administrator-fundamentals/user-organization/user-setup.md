@@ -1,13 +1,13 @@
 ---
 title: Configuración de usuario
-description: En este vídeo, aprenda sobre licencias, niveles de acceso y funciones de trabajo.
+description: En este vídeo, obtendrá información sobre las licencias, los niveles de acceso y las funciones del puesto.
 topic: null
 activity: deploy
 doc-type: feature video
 team: Technical Marketing
-kt: Jira ticket
+jira: KT-Jira ticket
 role: Admin
-source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
 source-wordcount: '27'
 ht-degree: 11%
@@ -16,7 +16,7 @@ ht-degree: 11%
 
 # Configuración de usuario
 
-En este vídeo, aprenderá sobre:
+En este vídeo, aprenderá lo siguiente:
 
 * Licencias
 * Niveles de acceso

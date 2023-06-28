@@ -1,20 +1,20 @@
 ---
-title: 'Plantillas de proyecto: Introducción al curso'
+title: 'Plantillas de proyecto: introducción al curso'
 description: En este vídeo, aprenderá cómo las plantillas de proyecto pueden ayudar a su organización a capturar un flujo de trabajo completo de principio a fin.
 topic: null
 activity: deploy
 doc-type: intro video
 team: Technical Marketing
-kt: Jira ticket
+jira: KT-Jira ticket
 role: Admin
-source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
 source-wordcount: '50'
 ht-degree: 0%
 
 ---
 
-# Plantillas de proyecto: Introducción al curso
+# Plantillas de proyecto: introducción al curso
 
 En este vídeo, aprenderá cómo las plantillas de proyecto pueden ayudar a su organización a capturar un flujo de trabajo completo de principio a fin.
 

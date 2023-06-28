@@ -1,22 +1,22 @@
 ---
-title: Estructura de tareas principal-secundario en Workfront
+title: Estructura de tareas principal-secundaria en Workfront
 description: En este vídeo, aprenderá cómo se estructuran las tareas en un proyecto de Workfront
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
-kt: Jira ticket
-source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
+jira: KT-Jira ticket
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
 source-wordcount: '36'
 ht-degree: 0%
 
 ---
 
-# Estructura de tareas principal-secundario en Workfront
+# Estructura de tareas principal-secundaria en Workfront
 
-En este vídeo, aprenderá:
+En este vídeo, aprenderá lo siguiente:
 
-* Cómo se estructuran las tareas en un proyecto de Workfront
+* Estructura de las tareas en un proyecto de Workfront
 
 >[!VIDEO](https://video.tv.adobe.com/v/335087/?quality=12&learn=on)

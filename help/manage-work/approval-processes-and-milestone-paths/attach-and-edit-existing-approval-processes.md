@@ -8,10 +8,10 @@ type: Tutorial
 role: User
 level: Intermediate
 team: Technical Marketing
-kt: 8963
+jira: KT-8963
 exl-id: 4ada0ae9-1210-4484-b083-8461ee875f31
 doc-type: video
-source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
 source-wordcount: '52'
 ht-degree: 9%
@@ -20,7 +20,7 @@ ht-degree: 9%
 
 # Adjuntar y editar procesos de aprobación existentes
 
-En este vídeo, aprenderá a:
+En este vídeo, aprenderá a hacer lo siguiente:
 
 * Utilizar un proceso de aprobación existente
 * Editar un proceso de aprobación existente para un proyecto, tarea o problema específico

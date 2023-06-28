@@ -9,10 +9,10 @@ role: User
 level: Intermediate
 team: Technical Marketing
 last-substantial-update: 2023-06-01T00:00:00Z
-kt: 9083
+jira: KT-9083
 exl-id: 8180029a-a350-45cb-9948-eb5b44276b86
 doc-type: video
-source-git-commit: e8318b89bcf2fb3a6f27a9468495dac1d9084732
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
 source-wordcount: '153'
 ht-degree: 0%

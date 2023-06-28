@@ -5,8 +5,8 @@ topic: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
-kt: Jira ticket
-source-git-commit: 3dc5d407ea6ad97b597b2bfba961f0b169643762
+jira: KT-Jira ticket
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
 source-wordcount: '60'
 ht-degree: 0%

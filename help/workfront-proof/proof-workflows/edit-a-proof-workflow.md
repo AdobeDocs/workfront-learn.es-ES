@@ -1,6 +1,6 @@
 ---
 title: Edición de un flujo de trabajo de prueba
-description: Obtenga información sobre cómo actualizar una fecha límite de prueba, agregar usuarios a un flujo de trabajo existente y cambiar un flujo de trabajo existente a un flujo de trabajo automatizado en [!DNL  Workfront].
+description: Obtenga información sobre cómo actualizar una fecha límite de prueba, añadir usuarios a un flujo de trabajo existente y cambiar un flujo de trabajo existente a un flujo de trabajo automatizado en [!DNL  Workfront].
 activity: use
 feature: Workfront Proof
 type: Tutorial
@@ -8,10 +8,10 @@ role: User, Admin
 level: Intermediate
 team: Technical Marketing
 thumbnail: 335138.png
-kt: 8838
+jira: KT-8838
 exl-id: ebbc33c4-17a4-452b-99f6-1bfda3b4e66e
 doc-type: video
-source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
 source-wordcount: '129'
 ht-degree: 0%
@@ -20,22 +20,22 @@ ht-degree: 0%
 
 # Edición de un flujo de trabajo de prueba
 
-En este vídeo, aprenderá a:
+En este vídeo, aprenderá a hacer lo siguiente:
 
-* Actualizar la fecha límite de prueba
+* Actualizar la fecha límite de revisión
 * Añadir usuarios a un flujo de trabajo existente
-* Cambiar un flujo de trabajo existente a un flujo de trabajo automatizado
+* Cambiar un flujo de trabajo existente por uno automatizado
 
 >[!VIDEO](https://video.tv.adobe.com/v/335138/?quality=12&learn=on)
 
-## Su turno
+## Tu turno
 
 >[!IMPORTANT]
 >
->Recuerde a los compañeros de trabajo asignados a un flujo de trabajo de prueba que está trabajando con pruebas como parte de su formación en Workfront.
+>Recuerde a los compañeros asignados a un flujo de trabajo de prueba que está trabajando con pruebas como parte de su formación de Workfront.
 
-1. Busque una prueba que haya cargado en Workfront. Utilice la ventana Flujo de trabajo de prueba para hacer lo siguiente: Extraiga la fecha límite un día y cambie un revisor a un revisor y aprobador.
-1. Asegúrese de que la prueba tenga un flujo de trabajo automatizado asignado y, a continuación, añada una plantilla a la prueba.
+1. Busque una revisión que haya cargado en Workfront. Utilice la ventana Flujo de trabajo de pruebas para hacer lo siguiente: reduzca el plazo un día y cambie un revisor a revisor y aprobador.
+1. Asegúrese de que la prueba tenga asignado un flujo de trabajo automatizado y luego añada una plantilla a la prueba.
 
 
 

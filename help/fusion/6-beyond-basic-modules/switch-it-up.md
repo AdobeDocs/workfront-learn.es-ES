@@ -1,16 +1,16 @@
 ---
 title: ¡Cámbialo!
-description: Aprenda cuáles son las funciones del switch y los módulos del switch y cuándo utilizar una función del switch frente a un módulo del switch en [!DNL Adobe Workfront Fusion].
+description: Descubra cuáles son las funciones de conmutador y los módulos de conmutador y cuándo utilizar una función de conmutador en comparación con un módulo de conmutador en [!DNL Adobe Workfront Fusion].
 activity: use
 team: Technical Marketing
 type: Tutorial
 feature: Workfront Fusion
 role: User
 level: Beginner
-kt: 9047
+jira: KT-9047
 exl-id: 99adafb4-a40d-4392-a2e6-cb698e77f436
 doc-type: video
-source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
 source-wordcount: '52'
 ht-degree: 0%
@@ -19,9 +19,9 @@ ht-degree: 0%
 
 # ¡Cámbialo!
 
-En este vídeo, aprenderá:
+En este vídeo, aprenderá lo siguiente:
 
-* Qué son las funciones y los módulos del conmutador y cómo difieren
-* Cuándo utilizar una función de switch frente a un módulo de switch
+* Qué son las funciones y los módulos del conmutador y en qué se diferencian
+* Cuándo utilizar una función de interruptor frente a un módulo de interruptor
 
 >[!VIDEO](https://video.tv.adobe.com/v/335288/?quality=12&learn=on)

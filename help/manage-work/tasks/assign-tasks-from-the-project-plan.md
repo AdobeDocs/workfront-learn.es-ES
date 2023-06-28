@@ -1,6 +1,6 @@
 ---
-title: Asignación de tareas del plan de proyecto
-description: Obtenga información sobre cómo asignar un usuario a una tarea mediante la edición en línea en una [!DNL  Workfront] proyecto.
+title: Asignar tareas del plan del proyecto
+description: Aprenda a asignar un usuario a una tarea mediante la edición en línea en una [!DNL  Workfront] proyecto.
 activity: use
 feature: Work Management
 thumbnail: 335092.jpeg
@@ -8,19 +8,19 @@ type: Tutorial
 role: User
 level: Intermediate
 team: Technical Marketing
-kt: 8779
+jira: KT-8779
 exl-id: 14b893d4-e3bb-4e5d-a06b-99b744ad6b61
 doc-type: video
-source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
 source-wordcount: '44'
 ht-degree: 0%
 
 ---
 
-# Asignación de tareas del plan de proyecto
+# Asignar tareas del plan del proyecto
 
-En este vídeo, aprenderá a:
+En este vídeo, aprenderá a hacer lo siguiente:
 
 * Asignar un usuario a una tarea mediante la edición en línea
 

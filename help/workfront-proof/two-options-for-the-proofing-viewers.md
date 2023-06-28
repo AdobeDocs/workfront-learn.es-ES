@@ -1,40 +1,40 @@
 ---
-title: Explicación de los espectadores de prueba
-description: Obtenga información sobre [!DNL Workfront]el visor de pruebas basado en la web y el visor de pruebas de escritorio de , la diferencia entre los dos y cómo acceder a cada uno.
+title: Revisión de visualizadores explicada
+description: Más información [!DNL Workfront]El visor de revisión basado en la web de y el visor de revisión de escritorio de, la diferencia entre los dos y cómo acceder a cada uno.
 feature: Workfront Proof
 type: Tutorial
 role: User
 level: Beginner
-kt: 10160
+jira: KT-10160
 exl-id: 07575429-3d34-4cbf-8a35-d75dc912245a
-source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
 source-wordcount: '280'
 ht-degree: 0%
 
 ---
 
-# Explicación de los espectadores de prueba
+# Revisión de visualizadores explicada
 
-[!DNL Workfront] permite revisar dos categorías principales de pruebas: estática e interactiva.
+[!DNL Workfront] permite revisar dos categorías principales de pruebas: estáticas e interactivas.
 
-Las pruebas estáticas son elementos como PDF, imágenes y archivos de texto. Algunas pruebas del sitio web entran en la categoría de prueba interactiva, según cómo se haya cargado la prueba.
+Las pruebas estáticas son elementos como PDF, imágenes y archivos de texto. Algunas pruebas de sitios web entran en la categoría de prueba interactiva, según cómo se cargaron las pruebas.
 
-[!DNL Workfront] abre la versión apropiada del visor de pruebas (el visor de pruebas basado en web o el visor de pruebas de escritorio) en función del tipo de prueba que esté viendo (y algunas configuraciones realizadas por el administrador del sistema de pruebas).
+[!DNL Workfront] abre la versión adecuada del visor de revisión (el visor de revisión basado en la web o el visor de revisión de escritorio) en función del tipo de revisión que esté viendo (y algunas configuraciones realizadas por el administrador del sistema de revisión).
 
-El visor de pruebas basado en la web es [!DNL Workfront’s] de forma predeterminada para pruebas y vídeos estáticos. Al hacer clic en [!UICONTROL Prueba abierta], ya sea en un correo electrónico o en [!DNL Workfront] , el visor basado en web se abre como parte de su [!DNL Workfront] ventana del explorador.
+El visor de revisión basado en web es [!DNL Workfront’s] predeterminado para pruebas y vídeos estáticos. Al hacer clic en [!UICONTROL Abrir revisión], ya sea en un correo electrónico o en [!DNL Workfront] , el visor basado en web se abrirá como parte de su [!DNL Workfront] ventana del explorador.
 
-El visor de pruebas de escritorio es una aplicación independiente que se ejecuta en la estación de trabajo. Se utiliza principalmente para pruebas de sitios web interactivas creadas mediante una URL, vídeos incrustados o de flujo continuo, titulares interactivos y animaciones de HTML5. El visor le permite hacer clic en los vínculos y menús que forman parte del sitio web y navegar a diferentes páginas.
+El visualizador de pruebas de escritorio es una aplicación independiente que se ejecuta en la estación de trabajo. Se utiliza principalmente para pruebas de sitios web interactivos creados mediante una URL, vídeos incrustados o de transmisión, titulares interactivos y animaciones de HTML5. El visor le permite hacer clic en los vínculos y menús que forman parte del sitio web y navegar a diferentes páginas.
 
-Los dos visualizadores funcionan igual, lo que garantiza la colaboración en las revisiones independientemente del tipo de prueba.
+Los dos espectadores trabajan igual, lo que garantiza la colaboración en las revisiones sin importar el tipo de prueba.
 
-## Instalación del visor de pruebas de escritorio
+## Instalación del visor de revisión de escritorio
 
-La primera vez que abra una prueba con contenido interactivo, se le pedirá que descargue el visor de pruebas de escritorio. Simplemente siga las instrucciones.
+La primera vez que abra una prueba con contenido interactivo, se le pedirá que descargue el visualizador de pruebas de escritorio. Solo sigue las instrucciones.
 
-Si su organización no le permite instalar aplicaciones en su estación de trabajo, trabaje con el administrador del sistema para asegurarse de que dispone del visor de pruebas que necesita.
+Si su organización no le permite instalar aplicaciones en su estación de trabajo, póngase en contacto con el administrador del sistema para asegurarse de que dispone del visor de revisión que necesita.
 
-Una vez instalada la aplicación de visor de pruebas de escritorio, las pruebas interactivas se abrirán en el futuro. Solo tienes que descargarlo una vez.
+Una vez instalada la aplicación de visor de revisión de escritorio, las pruebas interactivas se abrirán en él en el futuro. Solo tiene que descargarlo una vez.
 
 <!-- 
 ### Learn more

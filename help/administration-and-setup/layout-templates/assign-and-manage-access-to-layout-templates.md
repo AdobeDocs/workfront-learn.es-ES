@@ -8,10 +8,10 @@ type: Tutorial
 team: Technical Marketing
 role: Admin
 thumbnail: 335080.jpeg
-kt: 8766
+jira: KT-8766
 exl-id: 9f250af7-0da4-4e50-80de-52136dc350fa
 doc-type: video
-source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
 source-wordcount: '53'
 ht-degree: 0%
@@ -20,10 +20,10 @@ ht-degree: 0%
 
 # Asignación y administración del acceso a las plantillas de diseño
 
-En este vídeo, aprenderá a:
+En este vídeo, aprenderá a hacer lo siguiente:
 
 * Navegar a asignaciones
-* Asignación de plantillas de diseño a usuarios, grupos o equipos
-* Control que puede administrar el acceso a la plantilla de diseño
+* Asignar plantillas de diseño a usuarios, grupos o equipos
+* Controlar quién puede administrar el acceso a la plantilla de diseño
 
 >[!VIDEO](https://video.tv.adobe.com/v/335080/?quality=12&learn=on)

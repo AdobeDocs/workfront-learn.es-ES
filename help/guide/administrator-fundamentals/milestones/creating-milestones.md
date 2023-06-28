@@ -1,13 +1,13 @@
 ---
 title: Creación de hitos
-description: En este vídeo, aprenderá cuáles son las rutas de hitos, cómo crear rutas de hitos y cómo agregar pasos de hitos.
+description: En este vídeo, aprenderá qué son las rutas de hitos, cómo crear rutas de hitos y cómo añadir pasos.
 topic: null
 activity: deploy
 doc-type: feature video
 team: Technical Marketing
-kt: Jira ticket
+jira: KT-Jira ticket
 role: Admin
-source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
 source-wordcount: '47'
 ht-degree: 0%
@@ -16,10 +16,10 @@ ht-degree: 0%
 
 # Creación de hitos
 
-En este vídeo, aprenderá:
+En este vídeo, aprenderá lo siguiente:
 
 * Qué rutas de hitos son
-* Cómo se crean las rutas de hitos
-* Adición de pasos de hitos a una ruta de hitos
+* Creación de rutas de hitos
+* Adición de pasos de hito a una trayectoria de hito
 
 >[!VIDEO](https://video.tv.adobe.com/v/335204/?quality=12&learn=on)

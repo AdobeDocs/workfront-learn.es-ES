@@ -9,10 +9,10 @@ level: Intermediate
 team: Technical Marketing
 thumbnail: 336092.png
 last-substantial-update: 2023-05-18T00:00:00Z
-kt: 8806
+jira: KT-8806
 exl-id: 07a4824e-809e-4649-b669-865519b95f1f
 doc-type: video
-source-git-commit: e8318b89bcf2fb3a6f27a9468495dac1d9084732
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
 source-wordcount: '91'
 ht-degree: 0%

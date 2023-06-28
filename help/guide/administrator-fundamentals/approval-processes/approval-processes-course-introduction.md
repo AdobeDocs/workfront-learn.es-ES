@@ -1,20 +1,20 @@
 ---
-title: 'Procesos de aprobación: Introducción al curso'
+title: 'Procesos de aprobación: introducción al curso'
 description: En este vídeo, aprenderá cómo los procesos de aprobación pueden simplificar y automatizar el proceso de revisión del trabajo.
 topic: null
 activity: deploy
 doc-type: feature video
 team: Technical Marketing
-kt: Jira ticket
+jira: KT-Jira ticket
 role: Admin
-source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
 source-wordcount: '40'
 ht-degree: 0%
 
 ---
 
-# Procesos de aprobación: Introducción al curso
+# Procesos de aprobación: introducción al curso
 
 En este vídeo, aprenderá cómo los procesos de aprobación pueden simplificar y automatizar el proceso de revisión del trabajo.
 

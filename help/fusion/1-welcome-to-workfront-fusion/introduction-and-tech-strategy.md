@@ -8,10 +8,10 @@ feature: Workfront Fusion
 role: User
 level: Beginner
 last-substantial-update: 2023-06-08T00:00:00Z
-kt: 8999
+jira: KT-8999
 exl-id: 7ca27805-5ca8-4f62-b691-cbdd6a791060
 doc-type: video
-source-git-commit: 5038db46f9c369ef5b356fc8e1a078a2d1d32bea
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
 source-wordcount: '293'
 ht-degree: 0%

@@ -1,25 +1,25 @@
 ---
-title: "Formularios personalizados: Creación y uso compartido de un formulario personalizado"
+title: "Formularios personalizados: Crear y compartir un formulario personalizado"
 description: En este vídeo, aprenderá a crear un formulario personalizado, agregar campos únicos al formulario, organizar campos mediante secciones y lógica y compartir formularios con los usuarios.
 activity: deploy
 doc-type: feature video
 team: Technical Marketing
-kt: Jira ticket
+jira: KT-Jira ticket
 role: Admin
-source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
 source-wordcount: '78'
 ht-degree: 0%
 
 ---
 
-# Formularios personalizados: Creación y uso compartido de un formulario personalizado
+# Formularios personalizados: Crear y compartir un formulario personalizado
 
-En este vídeo, aprenderá a:
+En este vídeo, aprenderá a hacer lo siguiente:
 
 * Determinar qué objetos utilizar para el formulario
-* Añadir campos únicos en una gran variedad de formatos
-* Organización de campos mediante secciones y lógica
+* Añadir campos únicos en una variedad de formatos
+* Organizar campos mediante secciones y lógica
 * Compartir formularios con otros usuarios
 
 >[!VIDEO](https://video.tv.adobe.com/v/335172/?quality=12&learn=on)

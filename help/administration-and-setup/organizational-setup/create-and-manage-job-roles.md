@@ -1,29 +1,29 @@
 ---
-title: Crear y administrar funciones de trabajo
-description: Obtenga información sobre cómo crear funciones de trabajo y asociarlas a usuarios para realizar mejores asignaciones.
+title: Crear y administrar roles
+description: Aprenda a crear funciones y asociarlas a los usuarios para realizar mejores asignaciones.
 feature: System Setup and Administration
 activity: deploy
 type: Tutorial
 team: Technical Marketing
 role: Admin
 level: Beginner
-kt: 12448
+jira: KT-12448
 doc-type: video
 last-substantial-update: 2023-03-27T00:00:00Z
-source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
+exl-id: ac72827b-6a65-473a-a5ac-7d0771230d63
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
 source-wordcount: '56'
 ht-degree: 0%
 
 ---
 
-# Crear y administrar funciones de trabajo
+# Crear y administrar roles
 
-En este vídeo, aprenderá:
+En este vídeo, aprenderá lo siguiente:
 
-* Qué funciones de trabajo son.
-* Cómo crear funciones de trabajo.
-* Cómo aplicar funciones de trabajo a usuarios para que se puedan asignar al trabajo correcto.
+* Qué funciones son.
+* Cómo crear puestos de trabajo.
+* Cómo aplicar los roles a los usuarios para que se les pueda asignar el trabajo correcto.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3416966/?quality=12&learn=on)
-

@@ -1,6 +1,6 @@
 ---
 title: Configuración de administración de recursos para proyectos
-description: 'Aprenda a optimizar las herramientas de administración de recursos: duraciones y fechas planificadas, horas planificadas y asignaciones de funciones de trabajo.'
+description: 'Aprenda a optimizar las herramientas de administración de recursos: duraciones y fechas planificadas, horas planificadas y asignaciones de funciones.'
 feature: Resource Management
 type: Tutorial
 role: Leader, User
@@ -8,10 +8,10 @@ level: Intermediate, Experienced
 activity: use
 team: Technical Marketing
 thumbnail: 335162.png
-kt: 8874
+jira: KT-8874
 exl-id: 5a9ea239-9f20-4ccc-9fc3-8a7e21178664
 doc-type: video
-source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
 source-wordcount: '48'
 ht-degree: 0%
@@ -20,8 +20,8 @@ ht-degree: 0%
 
 # Configuración de administración de recursos para proyectos
 
-En este tutorial de vídeo, aprenderá:
+En este tutorial de vídeo, aprenderá lo siguiente:
 
-* Cómo optimizar las herramientas de administración de recursos: duraciones y fechas planificadas, horas planificadas y asignaciones de funciones
+* Cómo optimizar las herramientas de administración de recursos: duraciones y fechas planificadas, horas planificadas y asignaciones de roles
 
 >[!VIDEO](https://video.tv.adobe.com/v/335162/?quality=12&learn=on)

@@ -8,9 +8,9 @@ type: Tutorial
 role: User, Admin
 level: Intermediate
 thumbnail: report-on-proofs.png
-kt: 10233
+jira: KT-10233
 exl-id: 9a1a9e16-61cc-4f95-977a-8870b7fd0dda
-source-git-commit: 42e75991ea78bfa8959158f9f3fd9a69e8ce0829
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
 source-wordcount: '445'
 ht-degree: 0%

@@ -1,28 +1,28 @@
 ---
-title: Comprender el mundo de los ganchos web
-description: Aprenda a utilizar webhooks como déclencheur y a crear colas para los datos entrantes con webhooks, todo en [!DNL Adobe Workfront Fusion].
+title: Comprender el mundo de los webhook
+description: Obtenga información sobre cómo utilizar webhooks como déclencheur y cómo crear colas para los datos entrantes con webhooks, todo en [!DNL Adobe Workfront Fusion].
 activity: use
 team: Technical Marketing
 type: Tutorial
 feature: Workfront Fusion
 role: User
 level: Beginner
-kt: 9050
+jira: KT-9050
 exl-id: 87140000-e26b-48b3-ad58-c60b6be7a7fa
 doc-type: video
-source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
 source-wordcount: '55'
 ht-degree: 0%
 
 ---
 
-# Comprender el mundo de los ganchos web
+# Comprender el mundo de los webhook
 
-En este vídeo, aprenderá:
+En este vídeo, aprenderá lo siguiente:
 
-* Cómo utilizar los enlaces web como déclencheur
-* La diferencia entre los enlaces web interactivos y pasivos
-* Cómo crear colas para datos entrantes con enlaces web
+* Cómo utilizar webhooks como déclencheur
+* La diferencia entre los webhooks adaptables y pasivos
+* Cómo crear colas para datos entrantes con webhooks
 
 >[!VIDEO](https://video.tv.adobe.com/v/335291/?quality=12&learn=on)

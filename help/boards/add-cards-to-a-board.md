@@ -5,12 +5,12 @@ feature: Agile
 activity: deploy
 type: Tutorial
 team: Technical Marketing
-kt: 10810
+jira: KT-10810
 role: User, Leader
 level: Beginner
 exl-id: 86bdeadc-ab72-4936-bc3a-45079d7a4ce1
 doc-type: video
-source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
 source-wordcount: '44'
 ht-degree: 0%

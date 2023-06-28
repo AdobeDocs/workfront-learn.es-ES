@@ -8,9 +8,9 @@ thumbnail: find-requests.jpeg
 type: Tutorial
 role: User
 level: Intermediate
-kt: 10143
+jira: KT-10143
 exl-id: 45956a0d-d63f-4539-ac65-f2c64a60b4bf
-source-git-commit: 9ac8702eaab26c4efd972507097557cb6728902d
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
 source-wordcount: '222'
 ht-degree: 0%

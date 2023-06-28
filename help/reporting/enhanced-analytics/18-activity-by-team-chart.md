@@ -1,6 +1,6 @@
 ---
-title: Comprender la actividad por gráfico de equipo en [!UICONTROL Análisis mejorado]
-description: El gráfico Actividad por equipo le permite comprender cómo los equipos principales de su organización pasan su tiempo en Workfront.
+title: Comprensión del gráfico actividad por equipo en [!UICONTROL Análisis mejorado]
+description: El gráfico Actividad por equipo permite comprender cómo los equipos de inicio de su organización pasan su tiempo en Workfront.
 activity: use
 team: Technical Marketing
 feature: Reports and Dashboards
@@ -8,39 +8,39 @@ thumbnail: understand-the-activity-by-team-chart.png
 type: Tutorial
 role: User
 level: Beginner
-kt: 10045
+jira: KT-10045
 exl-id: a9c5c4bc-0728-4199-b87e-e166c23dc25a
-source-git-commit: 038663f3bb3d7d152271a2c10dcd29a0220ad2fa
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
 source-wordcount: '317'
 ht-degree: 0%
 
 ---
 
-# Comprender la actividad por gráfico de equipo en [!UICONTROL Análisis mejorado]
+# Comprensión del gráfico actividad por equipo en [!UICONTROL Análisis mejorado]
 
-El gráfico Actividad por equipo le permite comprender cómo los equipos principales de su organización pasan su tiempo en Workfront. Los usuarios de Workfront pueden estar en varios equipos, pero solo pueden estar en un equipo de inicio. Los equipos utilizados en los gráficos Personas están formados solamente por aquellos usuarios que tienen a ese equipo designado como su equipo de origen.
+El gráfico Actividad por equipo permite comprender cómo los equipos de inicio de su organización pasan su tiempo en Workfront. Los usuarios de Workfront pueden estar en varios equipos, pero solo pueden estar en un equipo de inicio. Los equipos utilizados en los gráficos de Personas están formados únicamente por los usuarios que tienen ese equipo designado como su equipo de inicio.
 
-Las actividades (usuarios que iniciaron sesión, cambios en el estado de la tarea y tareas completadas) se muestran en diferentes colores para resumir estos eventos durante el período de tiempo filtrado.
+Las actividades (los usuarios que iniciaron sesión, los cambios de estado de las tareas y las tareas completadas) se muestran en colores diferentes para resumir estos eventos durante el período de tiempo filtrado.
 
-Ver esta información le ayuda a determinar:
+Ver esta información le ayuda a determinar lo siguiente:
 
-* Qué actividades están ocurriendo dentro de un equipo doméstico y a qué ritmo.
-* ¿Qué equipos domésticos se están sobrecargando o están utilizando más el sistema?
-* Si la distribución del trabajo es adecuada para el equipo de origen.
+* Qué actividades se están produciendo dentro de un equipo local y a qué ritmo.
+* Qué equipos de inicio están trabajando demasiado o están usando más el sistema.
+* Si la distribución del trabajo es apropiada para el equipo de inicio.
 
-![Imagen que muestra una actividad por gráfico de equipo con números en las áreas que se describen en las viñetas siguientes](assets/section-3-1.png)
+![Imagen que muestra una actividad por gráfico de equipo con números en las áreas descritas en las viñetas a continuación](assets/section-3-1.png)
 
-En el gráfico, puede ver:
+En el gráfico puede ver lo siguiente:
 
-1. Los nombres de los equipos de casa a la izquierda.
+1. Nombres del equipo de inicio a la izquierda.
 1. Las fechas de la parte inferior proceden del intervalo de fechas seleccionado.
-1. Los cuadros morados muestran que los usuarios asignados al proyecto iniciaron sesión ese día, con un tono más oscuro que indica un mayor número de usuarios que iniciaron sesión.
-1. Los cuadros rosas muestran que los usuarios cambiaron el estado de una tarea para el proyecto en ese día, con un tono más oscuro que indica que ha cambiado un número mayor de estados de tareas.
-1. Los cuadros azules muestran que los usuarios completaron una tarea para el proyecto, con un tono más oscuro que indica un mayor número de tareas que se completan.
+1. Los cuadros morados muestran que los usuarios asignados al proyecto iniciaron sesión ese día, con un tono más oscuro que indica un número mayor de usuarios que iniciaron sesión.
+1. Los cuadros rosas muestran que los usuarios cambiaron el estado de una tarea para el proyecto ese día, con un tono más oscuro que indica un número mayor de estados de tareas que cambian.
+1. Los cuadros azules muestran que los usuarios completaron una tarea para el proyecto, con un tono más oscuro que indica un número mayor de tareas que se están completando.
 
-## Cómo navegar al gráfico
+## Cómo navegar hasta el gráfico
 
-1. Haga clic en el [!UICONTROL People] en el panel izquierdo.
-1. Utilice la variable [!UICONTROL Filtro] para elegir uno o más equipos de inicio para examinarlos.
-1. Verá que el gráfico de actividad por equipo aparece en la parte superior de los gráficos de personas.
+1. Haga clic en [!UICONTROL People] en el panel izquierdo.
+1. Utilice el [!UICONTROL Filtrar] para elegir uno o más equipos de inicio para examinar.
+1. Verá el gráfico actividad por equipo en la parte superior de los gráficos de personas.

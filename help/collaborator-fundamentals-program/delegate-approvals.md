@@ -1,24 +1,24 @@
 ---
-title: Delegación de aprobaciones de trabajo
-description: Obtenga información sobre cómo delegar aprobaciones para proyectos, tareas, problemas y tarjetas de tiempo a otro usuario.
+title: Cómo delegar aprobaciones de trabajo
+description: Obtenga información sobre cómo delegar aprobaciones de proyectos, tareas, problemas y partes de tiempo a otro usuario.
 activity: use
 type: Tutorial
 team: Technical Marketing
-kt: 8810
+jira: KT-8810
 doc-type: video
-source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
 source-wordcount: '42'
 ht-degree: 0%
 
 ---
 
-# Delegar aprobaciones de [!DNL Home]
+# Delegar aprobaciones desde [!DNL Home]
 
-En este vídeo, aprenderá a:
+En este vídeo, aprenderá a hacer lo siguiente:
 
 * Asignar aprobaciones a otra persona
-* Finalizar el periodo de delegación
+* Finalizar el período de delegación
 * Buscar aprobaciones delegadas
 
 >[!VIDEO](https://video.tv.adobe.com/v/336094/?quality=12&learn=on)

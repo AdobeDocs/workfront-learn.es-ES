@@ -8,9 +8,9 @@ thumbnail: create-or-statements-in-filters.png
 type: Tutorial
 role: User
 level: Intermediate
-kt: 9987
+jira: KT-9987
 exl-id: 1a56f2f6-12df-43a5-943c-986a85661efa
-source-git-commit: 65bd26fefb280d12ec44a4923f6d96ac8d88d6fb
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
 source-wordcount: '915'
 ht-degree: 0%

@@ -8,9 +8,9 @@ level: Intermediate, Experienced
 activity: use
 team: Technical Marketing
 thumbnail: find-wlb.png
-kt: 10188
+jira: KT-10188
 exl-id: 788a7810-a8dd-4f36-81ac-119d6204a909
-source-git-commit: 5be1b743256cbabbf7e44bea0437e96b6094d170
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
 source-wordcount: '244'
 ht-degree: 0%

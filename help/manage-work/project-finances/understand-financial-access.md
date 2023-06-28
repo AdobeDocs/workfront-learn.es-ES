@@ -1,6 +1,6 @@
 ---
 title: Comprender el acceso financiero
-description: Obtenga información sobre cómo los derechos de acceso financiero permiten a los administradores controlar quién puede ver y editar la información financiera rastreada en Workfront.
+description: Descubra cómo los derechos de acceso financiero permiten a los administradores controlar quién puede ver y editar la información financiera rastreada en Workfront.
 activity: use
 team: Technical Marketing
 feature: Work Management
@@ -8,9 +8,9 @@ thumbnail: understand-financial-access.png
 type: Tutorial
 role: User
 level: Intermediate
-kt: 10067
+jira: KT-10067
 exl-id: 1c3d724a-8ff0-466f-9416-cff3da59c8ea
-source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
 source-wordcount: '415'
 ht-degree: 5%
@@ -19,26 +19,26 @@ ht-degree: 5%
 
 # Comprender el acceso financiero
 
-Si su organización está capturando datos financieros con [!DNL Workfront], como administrador del sistema, es su responsabilidad proteger y administrar quién tiene acceso para ver y editar esa información.
+Si su organización captura datos financieros con [!DNL Workfront], como administrador del sistema, es su responsabilidad proteger y administrar quién tiene acceso para ver y editar esa información.
 
-Para que un usuario pueda ver o editar información financiera, es necesario realizar dos cosas:
+Para que un usuario vea o edite información financiera, es necesario hacer dos cosas:
 
 1. Los derechos de acceso deben habilitarse en la variable [!UICONTROL Nivel de acceso].
-2. El permiso para utilizar esos derechos de acceso debe concederse objeto por objeto.
+2. El permiso para utilizar esos derechos de acceso debe otorgarse objeto por objeto.
 
-Por ejemplo, se puede conceder a un usuario derechos para ver datos financieros en su nivel de acceso, pero solo puede ver datos financieros de una tarea que se comparte con él y la visualización financiera está habilitada para compartir esa tarea.
+Por ejemplo, se puede otorgar a un usuario derechos para ver datos financieros en su nivel de acceso, pero solo puede ver datos financieros en una tarea que se comparte con él y la visualización financiera está habilitada para compartir esa tarea.
 
-Por lo tanto, es posible para un usuario con [!UICONTROL Nivel de acceso] derechos para ver las finanzas para poder ver las finanzas de algunos objetos y no de otros, según las opciones de uso compartido de cada uno de ellos. Sin embargo, ningún usuario puede ver las finanzas de ningún objeto a menos que tenga el derecho asignado en su [!UICONTROL Nivel de acceso].
+Por lo tanto, es posible para un usuario con [!UICONTROL Nivel de acceso] derechos para ver datos financieros para poder ver datos financieros de algunos objetos y no de otros, según las opciones de uso compartido individuales de esos objetos. Sin embargo, ningún usuario puede ver las finanzas de ningún objeto a menos que tenga el derecho otorgado a ellas en su [!UICONTROL Nivel de acceso].
 
 ## [!UICONTROL Nivel de acceso] configuración
 
-El acceso general a los datos financieros se concede en primer lugar mediante [!DNL Workfront] tipo de licencia.
+El acceso general a los datos financieros se concede en primer lugar por [!DNL Workfront] tipo de licencia.
 
 **[!UICONTROL Plan] las licencias pueden:**
 
 * Administrar registros de facturación
-* Administrar y ver la facturación de funciones y las tasas de coste
-* Administrar y ver la facturación y las tasas de coste de los usuarios
+* Administrar y ver tarifas de facturación y de costo de rol
+* Administrar y ver tarifas de facturación y de costo de usuario
 * Administrar gastos
 * Ver y editar finanzas
 
@@ -47,19 +47,19 @@ El acceso general a los datos financieros se concede en primer lugar mediante [!
 * Administrar gastos
 * Ver finanzas
 
-**[!UICONTROL Consulte] las licencias pueden:**
+**[!UICONTROL Revisar] las licencias pueden:**
 
 * Ver finanzas
 
-**Los permisos los puede modificar el [!UICONTROL Nivel de acceso]. Las tres opciones para acceder a los datos financieros son:**
+**Los permisos se pueden modificar mediante la variable [!UICONTROL Nivel de acceso]. Las tres opciones para el acceso a los datos financieros son:**
 
-* [!UICONTROL Sin acceso] — El usuario no podrá ver información financiera.
+* [!UICONTROL Sin acceso] — El usuario no podrá ver la información financiera.
 * [!UICONTROL Ver] — El usuario puede revisar y compartir la información.
-* [!UICONTROL Editar] — El usuario puede crear, editar, eliminar y compartir la información. (Solo disponible para una licencia de Plan).
+* [!UICONTROL Editar] — El usuario puede crear, editar, eliminar y compartir la información. (Solo disponible para una licencia de planificación).
 
-![Imagen que muestra las opciones generales de Datos financieros en un nivel de acceso](assets/setting-up-finances-8.png)
+![Imagen que muestra las opciones generales de datos financieros en un nivel de acceso](assets/setting-up-finances-8.png)
 
-Es importante tener en cuenta que la variable [!UICONTROL Ver] y [!UICONTROL Editar] las opciones tienen configuración adicional para un [!UICONTROL Plan] licencia. Haga clic en el engranaje en la [!UICONTROL Ver] para estas opciones:
+Es importante tener en cuenta que la variable [!UICONTROL Ver] y [!UICONTROL Editar] Las opciones de tienen configuraciones adicionales para un [!UICONTROL Plan] licencia. Haga clic en el engranaje de la [!UICONTROL Ver] para estas opciones:
 
 **[!UICONTROL Vista]**
 
@@ -70,7 +70,7 @@ Es importante tener en cuenta que la variable [!UICONTROL Ver] y [!UICONTROL Edi
 
 **[!UICONTROL Editar]**
 
-Estas dos opciones están disponibles en la sección [!UICONTROL Editar] junto con:
+Estas dos opciones están disponibles en la [!UICONTROL Editar] junto con:
 
 * Editar tarifas de facturación y de costo de rol
 * Editar tarifas de facturación y de costo de usuario
@@ -79,4 +79,4 @@ Estas dos opciones están disponibles en la sección [!UICONTROL Editar] junto c
 
 >[!NOTE]
 >
->Un usuario con acceso para añadir gastos también puede ver los gastos que agrega, así como los gastos añadidos por sus informes directos.
+>Un usuario con acceso para agregar gastos también puede ver los gastos que agrega, así como los gastos agregados por sus informes directos.

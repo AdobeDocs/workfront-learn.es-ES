@@ -1,13 +1,13 @@
 ---
 title: Crear una plantilla
-description: En este vídeo, aprenderá a crear una plantilla de proyecto desde cero y a partir de un proyecto existente.
+description: En este vídeo, aprenderá a crear una plantilla de proyecto desde cero y desde un proyecto existente.
 topic: null
 activity: deploy
 doc-type: feature video
 team: Technical Marketing
-kt: Jira ticket
+jira: KT-Jira ticket
 role: Admin
-source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
 source-wordcount: '45'
 ht-degree: 13%
@@ -16,7 +16,7 @@ ht-degree: 13%
 
 # Crear una plantilla
 
-En este vídeo, aprenderá a:
+En este vídeo, aprenderá a hacer lo siguiente:
 
 * Crear una plantilla de proyecto desde cero
 * Crear una plantilla de proyecto a partir de un proyecto existente

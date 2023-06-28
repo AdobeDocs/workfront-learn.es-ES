@@ -1,53 +1,53 @@
 ---
-title: Práctica recomendada - Comunicación
-description: Explore las recomendaciones de prácticas recomendadas de los expertos de Adobe Workfront sobre la configuración y administración de notificaciones de comunicación en Workfront.
+title: 'Práctica recomendada: Comunicación'
+description: Explore las prácticas recomendadas recomendadas por los expertos de Adobe Workfront para configurar y administrar las notificaciones de comunicación en Workfront.
 feature: Work Management
 role: Admin, Leader, User
 level: Beginner
-kt: 10905
+jira: KT-10905
 exl-id: 24e99491-e155-4a1e-8cc8-fa767116b18f
-source-git-commit: 444f059d3cc26d8e3074a7145bc5419407c786cf
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
 source-wordcount: '348'
 ht-degree: 1%
 
 ---
 
-# Práctica recomendada - Comunicación
+# Práctica recomendada: Comunicación
 
-## ¿Qué es una &quot;práctica recomendada&quot; de Adobe Workfront?
+## ¿Cuál es una &quot;práctica recomendada&quot; de Adobe Workfront?
 
-Las mejores prácticas son directrices que representan un curso de acción eficaz y eficiente; sean adoptados fácilmente por usted y los usuarios de su empresa; y se pueden replicar correctamente en toda la organización.
+Las prácticas recomendadas son directrices que representan un curso de acción eficaz y eficiente; que usted y los usuarios de su compañía adoptan fácilmente; y que se pueden replicar correctamente en toda la organización.
 
-Al revisar estas recomendaciones, tenga en cuenta que algunas prácticas recomendadas de Workfront son universales, mientras que otras pueden ser más específicas del tema. Utilice estas prácticas recomendadas como marco para ayudarle a guiar la configuración y el uso del sistema Workfront.
+Cuando revise estas recomendaciones, tenga en cuenta que algunas de las prácticas recomendadas de Workfront son universales, mientras que otras pueden ser más específicas del tema. Utilice estas prácticas recomendadas como marco de trabajo para guiar las configuraciones y el uso del sistema de Workfront.
 
 ## Navegar por esta página
 
-Al desplazarse por esta página, primero encontrará una lista de alto nivel de todas las prácticas recomendadas sobre el tema. Esto le permite revisar las recomendaciones sin profundizar en los detalles de &quot;por qué&quot;.
+A medida que se desplaza por esta página, primero encontrará una lista de alto nivel de todas las prácticas recomendadas para el tema. Esto le permite revisar las recomendaciones sin profundizar en los detalles del &quot;por qué&quot;.
 
-La pregunta &quot;¿Por qué son estas prácticas recomendadas?&quot; , que se encuentra después de la lista de alto nivel, proporciona buenos detalles sobre algunas de las prácticas recomendadas y por qué se consideran un proceso, una herramienta, etc., debe considerar la implementación con su instancia de Workfront.
+&quot;¿Por qué son estas prácticas recomendadas?&quot; , que se encuentra después de la lista de alto nivel, proporciona buenos detalles sobre algunas de las prácticas recomendadas y por qué se consideran un proceso, una herramienta, etc., debe considerar la implementación con su instancia de Workfront.
 
 </br>
 </br>
 
 ## Prácticas recomendadas de comunicación
 
-* Utilice los flujos de trabajo para determinar las notificaciones necesarias.
+* Utilice sus flujos de trabajo para determinar las notificaciones necesarias.
 
-* Cree un informe de Nota con instrucciones para que los usuarios busquen fácilmente comentarios o actualizaciones dentro de un proyecto.
+* Cree un informe de nota con solicitudes para que los usuarios busquen fácilmente comentarios/actualizaciones dentro de un proyecto.
 
 </br>
 </br>
 
-## ¿Por qué estas prácticas recomendadas?
+## ¿Por qué son estas prácticas recomendadas?
 
 **Práctica recomendada**
 
-Utilice los flujos de trabajo para determinar las notificaciones necesarias.
+Utilice sus flujos de trabajo para determinar las notificaciones necesarias.
 
-**He aquí por qué**
+**He aquí la razón**
 
-Al recorrer los flujos de trabajo paso a paso, es más fácil identificar los puntos de comunicación y garantizar que las notificaciones adecuadas estén habilitadas. Esto priva las notificaciones de la forma en que su organización ya está funcionando, lo que evita el spam o el desglose de las comunicaciones.
+Al recorrer paso a paso los flujos de trabajo, es más fácil identificar los puntos de comunicación y garantizar que se activan las notificaciones adecuadas. Esto prima las notificaciones para la forma en que su organización ya está trabajando, lo que evita el correo no deseado o la interrupción de las comunicaciones.
 
 </br>
 </br>
@@ -55,15 +55,15 @@ Al recorrer los flujos de trabajo paso a paso, es más fácil identificar los pu
 
 **Práctica recomendada**
 
-Cree un informe de Nota con instrucciones para que los usuarios busquen fácilmente comentarios o actualizaciones dentro de un proyecto.
+Cree un informe de nota con solicitudes para que los usuarios busquen fácilmente comentarios/actualizaciones dentro de un proyecto.
 
 
 
-**He aquí por qué**
+**He aquí la razón**
 
-Si tiene muchos subprocesos de actualización en un proyecto, puede ser difícil encontrar una actualización específica, especialmente porque Ctrl/Comando F no buscará dentro de los subprocesos. Un informe de Nota permite analizar fácilmente todas las actualizaciones en función de las opciones del mensaje sin tener que abrir cada subproceso. Las opciones de solicitud comunes serían:
+Si tiene muchos hilos de actualización en un proyecto, puede ser difícil encontrar una actualización específica, especialmente porque Ctrl/Comando F no buscará dentro de los hilos. Un informe de notas permite analizar fácilmente todas las actualizaciones en función de las opciones de solicitud sin tener que abrir todos los subprocesos. Las opciones de petición de datos comunes serían:
 
-* Texto de auditoría
-* Texto de la nota
+* Auditar texto
+* Texto de nota
 * Nombre del propietario
 * Fecha de entrada

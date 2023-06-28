@@ -8,9 +8,9 @@ type: Tutorial
 role: User, Admin
 level: Intermediate
 thumbnail: setup-global-proof-settings.png
-kt: 10237
+jira: KT-10237
 exl-id: c10eb48d-2e05-4b82-8393-60c4b9196d40
-source-git-commit: 65bd26fefb280d12ec44a4923f6d96ac8d88d6fb
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
 source-wordcount: '113'
 ht-degree: 0%

@@ -1,22 +1,22 @@
 ---
-title: Obtenga más información sobre las organizaciones de usuarios
-description: En este vídeo, aprenda sobre empresas, grupos y equipos.
+title: Más información sobre las organizaciones de usuarios
+description: En este vídeo, aprenderá acerca de empresas, grupos y equipos.
 topic: null
 activity: deploy
 doc-type: feature video
 team: Technical Marketing
-kt: Jira ticket
+jira: KT-Jira ticket
 role: Admin
-source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
 source-wordcount: '29'
 ht-degree: 10%
 
 ---
 
-# Obtenga más información sobre las organizaciones de usuarios
+# Más información sobre las organizaciones de usuarios
 
-En este vídeo, aprenderá sobre :
+En este vídeo, aprenderá sobre lo siguiente:
 
 * Compañías
 * Grupos

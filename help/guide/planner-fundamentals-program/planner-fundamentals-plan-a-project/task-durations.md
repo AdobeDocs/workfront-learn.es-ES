@@ -1,25 +1,25 @@
 ---
-title: Duraciones de las tareas
-description: En este vídeo, conozca qué es una duración de tarea en Workfront, cómo afectan las duraciones a las fechas de inicio y finalización de las tareas, cómo se tienen en cuenta las duraciones en los plazos del proyecto y algunas recomendaciones recomendadas para el uso de duraciones de tareas.
+title: Duraciones de tarea
+description: En este vídeo, aprenderá la duración de una tarea en Workfront, cómo afectan las duraciones a las fechas de inicio y finalización de las tareas, cómo afectan las duraciones a las escalas de tiempo del proyecto y algunas recomendaciones de prácticas recomendadas para utilizar las duraciones de tareas.
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
-kt: Jira ticket
-source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
+jira: KT-Jira ticket
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
 source-wordcount: '74'
 ht-degree: 0%
 
 ---
 
-# Duraciones de las tareas
+# Duraciones de tarea
 
-En este vídeo, aprenderá:
+En este vídeo, aprenderá lo siguiente:
 
-* ¿Qué duración de una tarea hay en Workfront?
+* Qué es una duración de tarea en Workfront
 * Cómo afectan las duraciones a las fechas de inicio y finalización de las tareas
-* Facturación de las duraciones en las cronologías del proyecto
-* Recomendaciones recomendadas para el uso de duraciones de tareas
+* Cómo se tienen en cuenta las duraciones en las escalas de tiempo del proyecto
+* Recomendaciones de prácticas recomendadas para el uso de duraciones de tareas
 
 >[!VIDEO](https://video.tv.adobe.com/v/335089/?quality=12&learn=on)

@@ -1,24 +1,24 @@
 ---
-title: workfront-dam/brand-connect-user en Home
-description: En este vídeo, aprenda a comunicar el progreso del trabajo con el estado y a filtrar la lista de trabajo para ver el trabajo completado.
+title: workfront-dam/brand-connect-user en Inicio
+description: En este vídeo, aprenderá a comunicar el progreso del trabajo con el estado y a filtrar la Lista de trabajos para ver el trabajo completado.
 topic: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
-kt: Jira ticket
-source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
+jira: KT-Jira ticket
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
 source-wordcount: '55'
 ht-degree: 0%
 
 ---
 
-# workfront-dam/brand-connect-user en Home
+# workfront-dam/brand-connect-user en Inicio
 
-En este vídeo, aprenderá:
+En este vídeo, aprenderá lo siguiente:
 
-* Comunicar el progreso del trabajo con el estado
+* Cómo comunicar el progreso del trabajo con el estado
 * Por qué el estado es importante
-* Filtrado de la lista de trabajo para ver el trabajo completado
+* Cómo filtrar la Lista de trabajos para ver el trabajo completado
 
 >[!VIDEO](https://video.tv.adobe.com/v/335104/?quality=12&learn=on)

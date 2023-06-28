@@ -1,26 +1,26 @@
 ---
-title: Cierre un objetivo una vez completado
-description: Aprenda a cerrar un objetivo en [!DNL Objetivos].
+title: Cerrar una meta una vez completada
+description: Aprenda a cerrar una meta en [!DNL Goals].
 activity: use
 feature: Workfront Goals
 type: Tutorial
 role: User
 level: Beginner
 team: Technical Marketing
-kt: 8926
+jira: KT-8926
 exl-id: 6d31d231-5b59-4924-907e-200800ba0f44
 doc-type: video
-source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
 source-wordcount: '55'
 ht-degree: 0%
 
 ---
 
-# Cierre un objetivo una vez completado
+# Cerrar una meta una vez completada
 
-En este vídeo, aprenderá a:
+En este vídeo, aprenderá a hacer lo siguiente:
 
-* Cierre un objetivo para indicar cuándo se ha alcanzado el objetivo o cuándo ya no está trabajando en él o planea hacerlo en el futuro inmediato
+* Cerrar una meta para indicar cuándo se ha completado la meta o cuándo ya no está trabajando en ella ni planea hacerlo en el futuro inmediato
 
 >[!VIDEO](https://video.tv.adobe.com/v/335198/?quality=12&learn=on)

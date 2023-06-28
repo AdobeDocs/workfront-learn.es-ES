@@ -8,9 +8,9 @@ type: Tutorial
 role: User, Admin
 level: Beginner
 thumbnail: proof-roles-and-email-alerts.png
-kt: 10177
+jira: KT-10177
 exl-id: 15bfb18a-5392-4a91-a6a2-223f7ac30dc5
-source-git-commit: 65bd26fefb280d12ec44a4923f6d96ac8d88d6fb
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
 source-wordcount: '551'
 ht-degree: 0%

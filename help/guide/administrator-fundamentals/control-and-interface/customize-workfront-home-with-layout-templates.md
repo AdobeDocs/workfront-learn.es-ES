@@ -1,28 +1,28 @@
 ---
-title: Personalizar inicio con plantillas de diseño
+title: Personalizar Inicio con plantillas de diseño
 description: En este vídeo, aprenderá a personalizar Inicio añadiendo o eliminando campos con una plantilla de diseño.
 topic: null
 activity: deploy
 doc-type: feature video
 team: Technical Marketing
-kt: Jira ticket
+jira: KT-Jira ticket
 role: Admin
 thumbnail: 335081.jpeg
-source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
 source-wordcount: '56'
 ht-degree: 0%
 
 ---
 
-# Personalizar inicio con plantillas de diseño
+# Personalizar Inicio con plantillas de diseño
 
-En este vídeo, aprenderá a:
+En este vídeo, aprenderá a hacer lo siguiente:
 
-* Navegar a la configuración principal
+* Navegar a la configuración de Inicio
 * Editar configuración global
-* Personalizar inicio con una plantilla de diseño
-* Quitar elementos de la página principal
-* Agregar elementos a la página principal
+* Personalizar la página de inicio mediante una plantilla de diseño
+* Quitar elementos de Inicio
+* Agregar elementos a Inicio
 
 >[!VIDEO](https://video.tv.adobe.com/v/335081/?quality=12&learn=on)
