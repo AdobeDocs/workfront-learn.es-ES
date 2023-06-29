@@ -1,6 +1,6 @@
 ---
-title: Revisión de un sitio web con revisión
-description: Obtenga información sobre cómo abrir una prueba de sitio web estática o interactiva en [!DNL  Workfront] y hacer comentarios.
+title: Revisar un sitio web con una prueba
+description: Obtenga información sobre cómo abrir una prueba de sitio web estática o interactiva en  [!DNL  Workfront]  y haga comentarios.
 activity: use
 feature: Workfront Proof
 type: Tutorial
@@ -12,19 +12,19 @@ jira: KT-8846
 exl-id: dcc8c441-3c5c-41e9-8cf2-031d3814a1ae
 doc-type: video
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '50'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Revisión de un sitio web con revisión
+# Revisar un sitio web con una prueba
 
-En este vídeo, aprenderá a hacer lo siguiente:
+Este vídeo contiene información sobre:
 
-* Abrir una revisión de sitio web
-* Realizar comentarios en una prueba de sitio web estático
-* Realización de comentarios en una prueba de sitio web interactivo
+* Abrir una prueba de sitio web
+* Realizar comentarios en una prueba de sitio web estática
+* Realizar comentarios en una prueba de sitio web interactiva
 
 >[!VIDEO](https://video.tv.adobe.com/v/335143/?quality=12&learn=on)
 
