@@ -1,6 +1,6 @@
 ---
 title: Introducción a [!UICONTROL Análisis mejorado]
-description: Conozca los campos más importantes que se deben actualizar en Workfront para que los análisis mejorados le muestren el progreso de sus equipos y proyectos en Workfront.
+description: Conozca los campos más importantes que debe actualizar en Workfront para que Análisis mejorado le muestre cómo progresan sus equipos y proyectos en Workfront.
 activity: use
 team: Technical Marketing
 feature: Reports and Dashboards
@@ -11,38 +11,38 @@ level: Beginner
 jira: KT-10027
 exl-id: 26c071bf-fe79-42f8-8677-4e172377483a
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '282'
-ht-degree: 4%
+ht-degree: 100%
 
 ---
 
-# Introducción a Adobe Workfront [!UICONTROL Análisis mejorado]
+# Introducción a [!UICONTROL Análisis mejorado] de Adobe Workfront
 
-Los análisis mejorados pueden mostrar el progreso de sus equipos y proyectos en Workfront y qué ha pasado en proyectos anteriores de los que podría aprender para planificar proyectos futuros.
+El análisis mejorado puede mostrarle cómo progresan sus equipos y proyectos en Workfront y qué sucedió en los anteriores, de lo que podría aprender para ayudar a planificar los futuros.
 
 ## Requisitos previos de Analytics
 
-Para sacar el máximo partido del análisis mejorado de Workfront, debe asegurarse de que sus equipos introduzcan datos y actualicen determinados campos con la mayor precisión posible.
+Para sacar el máximo partido al Análisis mejorado de Workfront, debe asegurarse de que sus equipos introduzcan datos y actualicen determinados campos con la mayor precisión posible.
 
-Cuando usamos el término &quot;equipo&quot; en Analytics, nos referimos a &quot;equipos de inicio&quot;. Los usuarios de Workfront pueden estar en varios equipos, pero solo pueden estar en un equipo de inicio. Los equipos utilizados en los gráficos de Personas están formados por usuarios únicos que tienen ese equipo designado como su equipo de inicio.
+Cuando utilizamos el término “equipo” en Analytics, nos referimos a “equipos locales”. Los usuarios de Workfront pueden estar en varios equipos, pero solo pueden estar en uno local. Los equipos utilizados en los gráficos Personas están formados solamente por usuarios que tienen a ese equipo designado como el local.
 
-Inicie las cosas correctamente asegurándose de que las plantillas de proyecto tengan asignadas horas y duraciones planificadas precisas a todas las tareas.
+Para empezar como es debido, asegúrese de que todas las plantillas de proyecto tengan asignadas las horas planificadas y duraciones precisas para todas las tareas.
 
-Al crear los informes y gráficos, Analytics utiliza la siguiente información. Workfront rellena automáticamente parte de esta información, pero algunos deben rellenarla los usuarios.
+Al crear los informes y gráficos, el análisis utiliza la siguiente información. Workfront cumplimenta parte de esta información automáticamente, pero otra parte deben rellenarla los usuarios.
 
-* Horas planificadas para la tarea (este es el campo más importante para Analytics). Si sus equipos no utilizan las horas planificadas, puede consultar algunos gráficos en función de la duración del proyecto).
+* Horas planificadas de la tarea (este es el campo más importante para el análisis. Si sus equipos no usan horas planificadas, puede ver gráficos seleccionados en función de la duración del proyecto).
 * Nombre del proyecto
 * Condición del proyecto
 * Estado del proyecto
-* Fecha planificada de inicio del proyecto
+* Fecha de inicio planificada del proyecto
 * Fecha planificada de finalización (para tareas y proyectos)
-* Fecha real de inicio del proyecto
-* Fecha real de finalización del proyecto
+* Fecha de inicio real del proyecto
+* Fecha de finalización real predeterminada
 * Duración de proyecto
-* Duración de tarea
-* Estado de la tarea (incluye marcar las tareas como completadas).
+* Duración de la tarea
+* Estado de la tarea (incluye las tareas de marcado como completadas).
 * Nombre de la tarea
-* Porcentaje completado de tarea
-* Fecha planificada de inicio de tarea
+* Porcentaje completado de la tarea
+* Fecha de inicio planificada de la tarea
 * Fecha planificada de finalización de la tarea
