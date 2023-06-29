@@ -1,6 +1,6 @@
 ---
-title: Tutorial sobre trabajar con JSON
-description: Aprenda a crear y analizar JSON en un escenario para satisfacer sus necesidades de diseño en [!DNL Adobe Workfront Fusion].
+title: Uso del tutorial de JSON
+description: Aprenda a crear y analizar JSON en un escenario para satisfacer sus necesidades de diseño en  [!DNL Adobe Workfront Fusion].
 activity: use
 team: Technical Marketing
 type: Tutorial
@@ -10,24 +10,24 @@ level: Beginner
 jira: KT-9060
 exl-id: 0d718e87-2faa-47d7-97d9-314071b329cb
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+source-git-commit: 23f4ab82d2823217c81a3fd37796e2a1260e7cf5
+workflow-type: ht
 source-wordcount: '130'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Tutorial sobre trabajar con JSON
+# Uso del tutorial de JSON
 
 Aprenda a crear y analizar JSON en un escenario para satisfacer sus necesidades de diseño.
 
-![Imagen de un escenario de Fusion](assets/final-functional-bits-and-bobs-2.png)
+![Una imagen de un escenario de Fusion](assets/final-functional-bits-and-bobs-2.png)
 
 ## Tutorial de matrices
 
-Workfront recomienda ver el vídeo del tutorial de ejercicios antes de intentar recrear el ejercicio en su propio entorno.
+Workfront recomienda ver el vídeo tutorial del ejercicio antes de intentar recrear el ejercicio en su propio entorno.
 
-En este vídeo, aprenderá a hacer lo siguiente:
+Este vídeo contiene información sobre:
 
 * Cree y analice JSON en un escenario para satisfacer sus necesidades de diseño
 
@@ -35,9 +35,9 @@ En este vídeo, aprenderá a hacer lo siguiente:
 
 >[!TIP]
 >
->Para obtener instrucciones paso a paso sobre cómo completar el tutorial, vaya a la [Tutorial sobre trabajar con JSON](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/exercises/working-with-json.html?lang=en) hacer ejercicio.
+>Para obtener instrucciones paso a paso sobre cómo completar el tutorial, vaya al ejercicio [Uso del tutorial de JSON](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/exercises/working-with-json.html?lang=es).
 
 
 ## ¿Desea obtener más información? Recomendamos lo siguiente:
 
-[Documentación de Workfront Fusion](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/workfront-fusion-2.html?lang=en)
+[Documentación de Workfront Fusion](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/workfront-fusion-2.html?lang=es)
