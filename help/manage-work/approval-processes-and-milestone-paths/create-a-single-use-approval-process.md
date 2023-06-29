@@ -1,6 +1,6 @@
 ---
 title: Creación de un proceso de aprobación de un solo uso
-description: Obtenga información sobre cómo crear un proceso de aprobación de un solo uso en un objeto en [!DNL  Workfront].
+description: Obtenga información sobre cómo crear un proceso de aprobación de un solo uso en un objeto en  [!DNL  Workfront].
 activity: use
 feature: Work Management
 thumbnail: 335225.jpeg
@@ -12,9 +12,9 @@ jira: KT-8962
 exl-id: 85d28b54-72a6-4dd1-bac8-8e7ffb3e2b76
 doc-type: video
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '39'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
