@@ -1,5 +1,5 @@
 ---
-title: Vencimiento de administración de recursos
+title: Vencimiento de la administración de recursos
 description: Obtenga información sobre cómo instalar el complemento de Microsoft Outlook
 feature: Resource Management
 type: Tutorial
@@ -12,43 +12,43 @@ jira: KT-8814
 exl-id: f9043748-116f-4d89-9330-bd74a762e684
 doc-type: video
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '363'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Vencimiento de administración de recursos
+# Vencimiento de la administración de recursos
 
-Saber qué recursos están disponibles y cuándo dentro de una organización puede resultar complicado y requerir mucho tiempo. Hay muchas partes móviles, actitudes y opiniones que pueden enturbiar las aguas.
+Saber qué recursos están disponibles y cuándo dentro de una organización puede ser complicado y llevar mucho tiempo. Hay muchas partes móviles, actitudes y opiniones que pueden enturbiar las aguas.
 
-Muchas organizaciones deciden adquirir un software de gestión de recursos con todas las campanas y silbidos pensando que resolverá todos sus problemas de recursos. Esto suele conllevar más partes móviles, detalles más profundos que los procesos actuales no implican y menos personas que utilicen el sistema que ha adquirido para resolver el problema.
+Muchas organizaciones deciden comprar un software de administración de recursos con todas las prestaciones, pensando que resolverá todos sus problemas. Esto a menudo lleva a más partes móviles y detalles más profundos que los procesos actuales no implican, lo que provoca que menos personas usen el sistema adquirido para resolver el problema.
 
-Entonces, ¿cómo desenreda sus necesidades de recursos para tener una idea más clara de su capacidad de recursos?
+Entonces, ¿cómo desenredar sus necesidades de recursos para ganar claridad acerca de su capacidad de recursos?
 
-La primera comprensión a la que hay que llegar es que los problemas de recursos no se resolverán de la noche a la mañana ni en un mes. Aprender a comprender y administrar sus recursos es una habilidad que requiere tiempo y esfuerzo para dominar.
+Lo primero es darse cuenta de que los problemas de recursos no se resolverán de la noche a la mañana, ni en un mes. Aprender a comprender y luego administrar sus recursos es una habilidad que lleva tiempo y esfuerzo dominar.
 
-Sin embargo, es posible que algunos de ustedes estén más familiarizados con el recorrido de dominar la administración de recursos de lo que creen. Eche un vistazo a cada fase del modelo de madurez de recursos y compruebe si reconoce a su organización en alguna de ellas.
+Sin embargo, puede que algunos estén más avanzados de lo que creen en su camino hacia dominar la administración de recursos. Eche un vistazo a cada etapa del Modelo de madurez de recursos y vea si reconoce su organización en una de ellas.
 
-## Cuatro etapas de madurez de la gestión de recursos
+## Cuatro etapas de madurez de la Administración de recursos
 
 >[!VIDEO](https://video.tv.adobe.com/v/335160/?quality=12&learn=on)
 
 
-## A dónde ir desde aquí
+## Hacia dónde ir
 
-¿Vio a su organización en una de estas etapas? Si lo hiciste, bueno. Desde aquí puede empezar a planificar el resto de su recorrido de administración de recursos.
+¿Ha visto su organización en una de estas etapas? Si lo ha hecho, estupendo. Desde aquí puede comenzar a planificar el resto de su recorrido de administración de recursos.
 
-&lt;!Along with this learning path, you’ll find a guide, Resource maturity growth, that presents ideas on how to progress from one resource management stage to another.&gt;
+&lt;!Junto con este itinerario de aprendizaje, encontrará una guía, Crecimiento de la madurez de los recursos, que presenta ideas sobre cómo progresar de una etapa de administración de recursos a otra.&gt;
 
-Si no lo hiciste, no te preocupes. Incluso con estas definiciones puede ser difícil determinar exactamente dónde está.
+Si no, no se preocupe. Incluso con estas definiciones puede ser difícil determinar exactamente dónde está.
 
-Eche un vistazo honesto a los procesos de administración de recursos y analice dónde se encuentra actualmente. Aborde y pueda responder preguntas como las siguientes:
+Analice y debata con franqueza en qué punto se encuentran sus procesos de administración de recursos. Aborde preguntas como las siguientes y sea capaz de responderlas:
 
-* ¿Cómo rastreamos la capacidad?
+* ¿Cómo seguimos la capacidad?
 * ¿Quién rastrea la capacidad?
-* ¿Están organizados nuestros recursos humanos y, si es así, cómo?
-* ¿Hay una o varias personas que dividen los recursos en trabajos priorizados?
+* ¿Están organizados nuestros recursos humanos y, en caso afirmativo, cómo?
+* ¿Hay una o varias personas dividiendo los recursos para priorizar el trabajo?
 * ¿Cómo se prioriza ese trabajo?, etc.
 
-Tome esas respuestas e identifique en qué fase de madurez de los recursos se encuentra su organización actualmente. Esto le proporcionará un punto de partida para pensar en cómo debería funcionar la administración de recursos para su organización.
+A partir de esas respuestas, identifique en qué fase de madurez de recursos se encuentra actualmente su organización. Esto le dará un punto de partida para pensar en cómo debería funcionar la administración de recursos en su organización.
