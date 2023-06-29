@@ -1,24 +1,24 @@
 ---
-title: Cómo realizar actualizaciones y buscar notificaciones
-description: Obtenga información sobre cómo realizar actualizaciones en solicitudes de aprobación y encontrar sus notificaciones.
+title: Cómo realizar actualizaciones y encontrar notificaciones
+description: Obtenga información sobre cómo actualizar las solicitudes de aprobación y encontrar las notificaciones.
 activity: use
 type: Tutorial
 team: Technical Marketing
 jira: KT-8809
 doc-type: video
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '39'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 # Actualizaciones y notificaciones
 
-En este vídeo, aprenderá a hacer lo siguiente:
+Este vídeo contiene información sobre:
 
-* Realización de sus propias actualizaciones en las solicitudes de aprobación
-* Buscar notificaciones
+* Actualice sus propias solicitudes de aprobación
+* Encuentre las notificaciones
 
 >[!VIDEO](https://video.tv.adobe.com/v/335109/?quality=12&learn=on)
 
