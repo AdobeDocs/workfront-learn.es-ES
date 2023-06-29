@@ -1,6 +1,6 @@
 ---
-title: Personalización de listas de informes mediante plantillas de diseño
-description: Aprenda a utilizar plantillas de diseño para añadir y eliminar filtros, vistas y grupos de las listas de creación de informes.
+title: Personalización de las listas de creación de informes mediante plantillas de diseño
+description: Aprenda a utilizar plantillas de diseño para añadir y quitar filtros, vistas y grupos de las listas de creación de informes.
 feature: System Setup and Administration
 activity: deploy
 team: Technical Marketing
@@ -12,45 +12,45 @@ jira: KT-8765
 exl-id: 00653fc8-0d12-49de-995a-6068d3fb7a2d
 doc-type: video
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
-source-wordcount: '221'
-ht-degree: 0%
+workflow-type: ht
+source-wordcount: '0'
+ht-degree: 100%
 
 ---
 
-# Personalización de listas de informes con plantillas de diseño
+# Personalizar listas de informes con plantillas de diseño
 
-En este vídeo, aprenderá a hacer lo siguiente:
+Este vídeo contiene información sobre:
 
-* Vaya a la configuración de la lista de informes en una plantilla de diseño
-* Eliminación de filtros, vistas y agrupaciones
-* Agregar filtros, vistas y agrupaciones
+* Ir a la configuración de la lista de informes de una plantilla de diseño
+* Quitar filtros, vistas y agrupaciones
+* Añadir filtros, vistas y agrupaciones
 
 >[!VIDEO](https://video.tv.adobe.com/v/335079/?quality=12&learn=on)
 
 ## Establecer valores predeterminados de lista
 
-La configuración de filtros, vistas o agrupaciones predeterminadas para los usuarios les permite acceder con mayor rapidez a información vital que puede hacer avanzar el trabajo con mayor rapidez.
+La configuración de filtros, vistas o agrupaciones predeterminados para los usuarios les proporciona un acceso más rápido a la información vital que puede avanzar más rápido.
 
-Como administrador de sistemas o grupos, puede determinar qué ven inicialmente los usuarios al ver una lista de proyectos, tareas, problemas, etc., estableciendo un filtro, una vista o una agrupación predeterminados a través de una plantilla de diseño.
+Como administrador de grupos o sistemas, puede determinar lo que los usuarios ven inicialmente al consultar una lista de proyectos, tareas, problemas, etc. Para ello, establezca un filtro, una vista o una agrupación predeterminados a través de una plantilla de diseño.
 
-![Plantilla de diseño [!UICONTROL Listas] ventana](assets/admin-fund-layout-template-default-lists-1-1.JPG)
+![Ventana [!UICONTROL Listas] de la plantilla de diseño](assets/admin-fund-layout-template-default-lists-1-1.JPG)
 
 >[!NOTE]
 >
->Aunque se puede configurar un filtro, una vista o una agrupación predeterminados, el sistema es adhesivo y mostrará el filtro, la vista o la agrupación que el usuario utilizó por última vez.
+>Aunque se puede configurar un filtro, una vista o una agrupación predeterminados, el sistema es persistente y mostrará el filtro, la vista o la agrupación que haya utilizado por última vez el usuario.
 
 
-Si desea establecer una lista predeterminada, puede:
+Si desea establecer una lista como predeterminada, puede hacer lo siguiente:
 
-* Pase el ratón sobre una opción ya incluida y haga clic en [!UICONTROL Establecer como predeterminado].
+* Pasar el ratón sobre una opción que ya esté enumerada y hacer clic en [!UICONTROL Establecer como predeterminada].
 
-![Plantilla de diseño [!UICONTROL Listas] ventana con [!UICONTROL Establecer como predeterminado] visible](assets/admin-fund-layout-template-default-lists-1-2.JPG)
+![La ventana [!UICONTROL Listas] de la plantilla de diseño con [!UICONTROL Establecer como predeterminada] visible](assets/admin-fund-layout-template-default-lists-1-2.JPG)
 
-* O bien, agregue un filtro, una vista o una agrupación personalizados y marque la casilla junto a [!UICONTROL Establecer predeterminado].
+* O bien, añada un filtro personalizado, vista o agrupación y marque la casilla situada junto a [!UICONTROL Establecer como predeterminado].
 
-![[!UICONTROL Agregar una vista existente] ventana](assets/admin-fund-layout-template-default-lists-1-3.JPG)
+Ventana ![[!UICONTROL Añadir una vista existente]](assets/admin-fund-layout-template-default-lists-1-3.JPG)
 
-Una vez finalizado, verá el [!UICONTROL Predeterminado] etiqueta.
+Una vez listo, verá la etiqueta [!UICONTROL Predeterminado].
 
-![[!UICONTROL Predeterminado] etiqueta junto a opción de lista](assets/admin-fund-layout-template-default-lists-1-4.JPG)
+Etiqueta ![[!UICONTROL Predeterminado] junto a la opción de lista](assets/admin-fund-layout-template-default-lists-1-4.JPG)
