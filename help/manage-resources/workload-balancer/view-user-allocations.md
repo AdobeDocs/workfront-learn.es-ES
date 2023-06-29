@@ -1,6 +1,6 @@
 ---
-title: Ver asignaciones de usuarios en el Distribuidor de cargas de trabajo
-description: Obtenga información sobre cómo seleccionar el modo Gráfico para obtener una vista de alto nivel de la asignación de usuarios y mostrar los desgloses de asignación diarios de los usuarios.
+title: Ver asignaciones de usuario en el equilibrador de carga de trabajo
+description: Obtenga información sobre cómo seleccionar el modo Gráfico para obtener una vista de alto nivel de la asignación de usuarios y mostrar los desgloses de asignación diaria de los usuarios.
 feature: Resource Management
 type: Tutorial
 role: Leader, User
@@ -12,17 +12,17 @@ jira: KT-8876
 exl-id: 05a10df0-9f96-4a38-b23c-c54b64231722
 doc-type: video
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '56'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Ver asignaciones de usuarios en [!DNL Workload Balancer]
+# Vea las asignaciones de usuario en [!DNL Workload Balancer]
 
-En este vídeo, aprenderá a hacer lo siguiente:
+Este vídeo contiene información sobre:
 
 * Seleccione el modo Gráfico para obtener una vista de alto nivel de la asignación de usuarios
-* Mostrar desgloses de asignación diarios de los usuarios
+* Mostrar los desgloses de asignación diarios de los usuarios
 
 >[!VIDEO](https://video.tv.adobe.com/v/335164/?quality=12&learn=on)
