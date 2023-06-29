@@ -1,6 +1,6 @@
 ---
 title: Información general sobre la formación de Workfront Fusion
-description: Obtenga información sobre el libro de actividades de Adobe Workfront Fusion y cómo obtener una cuenta de prueba de Workfront.
+description: Obtenga información acerca del libro de actividades de Adobe Workfront Fusion y cómo obtener una cuenta de unidad de prueba de Workfront.
 activity: use
 team: Technical Marketing
 type: Tutorial
@@ -10,52 +10,52 @@ level: Beginner
 jira: KT-11035
 exl-id: 998abb57-baff-4ebb-bd90-c67a553ee8d7
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '413'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 # Información general sobre la formación de Workfront Fusion
 
-Cada sección de Workfront Fusion contiene varios tutoriales, cada uno de los cuales presenta conceptos que debe comprender antes de pasar al siguiente tutorial. Un ejercicio de introducción le ayuda a dominar la mayoría de los conceptos.
+Cada sección de Workfront Fusion contiene varios tutoriales y cada uno presenta los conceptos que debe comprender antes de pasar al siguiente. El ejercicio de introducción le ayuda a dominar la mayoría de los conceptos.
 
-Los vídeos le muestran cómo completar cada ejercicio de introducción, lo que suele dar como resultado la creación de un nuevo escenario de Workfront Fusion. A continuación, puede completar el ejercicio en su propio entorno de Workfront Fusion y añadirlo a su propia colección de escenarios.
+Los vídeos le muestran cómo completar cada ejercicio, que normalmente lleva a crear un nuevo escenario de Workfront Fusion. A continuación, puede completar el ejercicio en su entorno Workfront Fusion, aumentando su propia colección de escenarios.
 
-En algunos tutoriales, creará un nuevo escenario desde cero. En otros tutoriales, empezará por hacer una copia de un escenario que creó anteriormente.
+En algunos tutoriales, creará un nuevo escenario desde cero. En otros, empezará haciendo una copia de uno que creó anteriormente.
 
 >[!IMPORTANT]
 >
->Asegúrese de completar cada tutorial en secuencia para que tenga disponibles los escenarios adecuados cuando necesite crear una copia.
+>Asegúrese de completar los tutoriales de manera secuencial para disponer de los escenarios adecuados cuando necesite hacer una copia.
 
 ## Recursos de formación y acceso a Workfront Fusion
 
-### Solicitar una prueba de conducción de Workfront
+### Solicitud de una unidad de prueba de Workfront
 
-Para completar los ejercicios en las rutas de aprendizaje de Workfront Fusion, necesitará una prueba de conducción de Workfront. Si ya tiene una prueba en carretera, le recomendamos una nueva para este curso de formación.
+Para completar los ejercicios en las rutas de aprendizaje de Workfront Fusion, necesitará una unidad de prueba de Workfront. Si ya tiene una unidad de prueba, le recomendamos una nueva para esta formación.
 
-Solicite un entorno de prácticas rellenando [este formulario](https://forms.office.com/r/f1J8HRGrNY). Si no puede acceder al formulario, envíe su nombre, dirección de correo electrónico y nombre de la empresa a wfttstdr@adobe.com.
+Solicite un entorno de práctica rellenando [este formulario](https://forms.office.com/r/f1J8HRGrNY). Si no puede acceder al formulario, envíe un correo electrónico con su nombre y el de su compañía a wfttstdr@adobe.com.
 
-### Acceder a Workfront Fusion para practicar
+### Acceso a Workfront Fusion para practicar
 
-Workfront no ofrece unidades de prueba de Workfront Fusion. Para practicar al completar los tutoriales, solicite acceso a Workfront Fusion al administrador de Workfront Fusion de su organización.
+Workfront no ofrece unidades de prueba de Workfront Fusion. Para practicar mientras completa los tutoriales, solicite acceso a Workfront Fusion al administrador de su organización.
 
-### Instrucciones paso a paso para completar los ejercicios de introducción
+### Instrucciones paso a paso sobre cómo completar los ejercicios del tutorial
 
-Existen instrucciones paso a paso para completar los ejercicios de introducción. Puede acceder a ellas desde la barra de navegación izquierda, debajo de Fusión > Ejercicios, o utilizar el vínculo que aparece en la parte inferior de un tutorial de tutorial.
+Hay instrucciones paso a paso para completar los ejercicios del tutorial. Puede acceder a ellas desde la barra de navegación izquierda en Fusion > Ejercicios o utilizar el vínculo proporcionado en la parte inferior de un tutorial.
 
-### Ejercicios de prácticas opcionales
+### Ejercicios prácticos opcionales
 
-Se proporcionan ejercicios y desafíos de prácticas después de algunos de los ejercicios de introducción.
+Tras algunos de los ejercicios de introducción se ofrecen prácticas y se plantean retos.
 
-Hay una serie de diferentes maneras de resolver los ejercicios de prácticas. La intención es desafiarle a que intente lograr el objetivo de un escenario sin tener que seguir los pasos o la &quot;respuesta correcta&quot;, porque esto es lo que tendrá que hacer al crear un escenario en su compañía.
+Existen varias formas de resolver los ejercicios prácticos. La intención es desafiarle a lograr una meta de escenario sin tener que seguir los pasos o la “respuesta correcta”, porque esto es lo que tendrá que hacer al crear un escenario en su compañía.
 
-El ejercicio práctico está relacionado con la actividad de tutorial.
+El ejercicio práctico está relacionado con la actividad del tutorial.
 
 Los desafíos son para aquellos que quieren probar algo que involucre otros conceptos que han aprendido.
 
 ### Cómo obtener ayuda
 
-Se proporcionan instrucciones paso a paso para ayudarle a realizar los ejercicios de introducción.
+Las instrucciones paso a paso le ayudarán a superar los ejercicios del tutorial.
 
-También hay un [Comunidad de Workfront Fusion 2.0](https://experienceleaguecommunities.adobe.com/t5/workfront-fusion-2-0/ct-p/workfront-fusion-2) donde puede publicar preguntas.
+También está la [comunidad de Workfront Fusion 2.0](https://experienceleaguecommunities.adobe.com/t5/workfront-fusion-2-0/ct-p/workfront-fusion-2) para publicar preguntas.
