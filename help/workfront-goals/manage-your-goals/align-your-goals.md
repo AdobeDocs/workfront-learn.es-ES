@@ -1,6 +1,6 @@
 ---
-title: Alinee sus objetivos
-description: Obtenga información sobre cómo navegar por el [!UICONTROL Alineación de metas] en [!DNL Goals].
+title: Alinear sus metas
+description: Obtenga información sobre cómo navegar por la página [!UICONTROL Alineación de metas] en [!DNL Goals].
 activity: use
 feature: Workfront Goals
 type: Tutorial
@@ -11,45 +11,45 @@ jira: KT-8923
 exl-id: 4ba304c2-94e0-4425-a74b-bcb825c3a97d
 doc-type: video
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '489'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 # Alineación de metas
 
-## Alinee objetivos entre personas, equipos y la compañía
+## Alinear metas entre personas, equipos y la compañía
 
-Ahora que ha creado y activado sus objetivos en [!DNL Workfront Goals], vamos a asegurarnos de que estén alineados entre sí. La alineación de objetivos es una parte importante de la gestión de objetivos. Si no ha completado la ruta de aprendizaje, Objetivos de Workfront, parte 1: Establezca una visión y una estrategia, le recomendamos que la tome primero antes de continuar.
+Ahora que ha creado y activado sus metas en [!DNL Workfront Goals], asegúrese de que estén alineadas entre sí. La alineación de las metas es una parte importante de su gestión. Si no ha completado la Parte 1 de Workfront Goals de la ruta de aprendizaje, Establezca una visión y estrategia, le recomendamos que la finalice primero antes de continuar.
 
 <!--Insert link to LP 1, above -->
 
-Utilice la sección Alineación de objetivos para lo siguiente:
+Utilice la sección Alineación de metas para lo siguiente:
 
 * Vea las metas que le pertenecen a usted o a su organización.
-* Mostrar jerarquía de metas y ver metas secundarias alineadas.
+* Mostrar la jerarquía de metas y ver las metas secundarias alineadas.
 * Abra la meta para ver sus indicadores de progreso.
 
-Garantizar que los objetivos estén alineados significa que todos, desde arriba hacia abajo, ejecutarán el trabajo que impulsa las mismas iniciativas hacia adelante. La visualización es una parte importante de cómo cada objetivo corporativo principal se alinea directamente con el nivel departamental, de equipo y del individuo. Los silos se reducen alineando los equipos de forma interfuncional. La alineación crea claridad en torno al propósito de todos y conecta a la organización con lo que realmente importa.
+Garantizar que las metas estén alineadas significa que todas, desde arriba hacia abajo, se ejecutarán en un trabajo que impulse las mismas iniciativas. La visualización es una parte importante de cómo cada meta corporativa superior se alinea directamente con los niveles departamentales, de equipos e individuales. Los silos se reducen alineando los equipos de forma interfuncional. La alineación crea claridad en torno al propósito de todos y conecta la organización con lo que realmente importa.
 
-Al alinear los objetivos de su empresa, recuerde que están pensados para crear claridad y enfoque a través de la simplicidad. Si estás luchando con la alineación, es probablemente porque estás tratando de forzar metas juntas que están inherentemente desconectadas. Cuando se sienta atrapado, simplemente vuelva a visitar los principales objetivos de la empresa, luego los objetivos del grupo y del equipo, y decida cuáles son los más importantes de mantener. Elimine cualquier cosa que parezca redundante o que no esté alineada con la visión de su organización.
+Al alinear las metas de su compañía, recuerde que están concebidas para crear claridad y enfoque a través de la simplicidad. Si tiene problemas con la alineación, probablemente se deba a que está tratando de unir metas que están de por sí desvinculadas. Si se siente atascado, simplemente vuelva a las metas principales de la compañía, luego a las del grupo y equipo, y decida cuáles son las más importantes que debe mantener. Elimine cualquier cosa que parezca redundante o que no esté en armonía con la visión de su organización.
 
-Una vez establecidas y revisadas las metas de nivel superior, es responsabilidad de los colaboradores individuales y de los integrantes del equipo crear metas que se desplacen en cascada desde ese nivel para establecer metas más enfocadas. El alcance de los objetivos individuales será más limitado.
+Una vez establecidas y revisadas las metas de nivel superior, depende de los colaboradores individuales y los integrantes del equipo crear metas que se desarrollen a partir de ese nivel con el fin de establecer metas más enfocadas. El ámbito de las metas individuales será más limitado.
 
 <!-- Pro-tips graphic -->
 
-Estas son algunas cosas que hay que tener en cuenta antes de alinear los objetivos en [!DNL Workfront]:
+Estas son algunas cosas que hay que tener en cuenta antes de alinear las metas en [!DNL Workfront]:
 
-* Manténgalo simple. Identifique las prioridades más importantes para la empresa en este momento y determine objetivos para apoyar eso.
-* Comience con 3-5 objetivos a nivel de compañía, como máximo.
-* Recuerde siempre que los objetivos deben ser específicos y tener un límite de tiempo.
-* No fuerces la alineación. Como la alineación influye en el progreso, alinee las metas únicamente cuando sea necesario. Una idea errónea común sobre alinear objetivos es que debe alinear cada uno dentro de su organización. Puede que no sea necesario alinear los objetivos de una unidad organizativa con otra, aunque todas las unidades deberían, de alguna manera, estar alineadas con la visión general de la compañía.
-* Asignar responsabilidad personal. Puede crear una jerarquía compleja al alinear los objetivos. Intente asignar el último objetivo de la jerarquía a un colaborador individual. Una verdadera jerarquía de metas significa que tiene colaboradores individuales en el último nivel de cada rama de alineación de metas para que puedan actualizar el progreso en sus propias metas, lo que podría actualizar el progreso general de las metas del equipo o grupo. Esta información contribuye al logro de los principales objetivos de la empresa.
+* Hágalo simple. Identifique las prioridades más importantes para la compañía en ese momento y determine las metas para satisfacerlas.
+* Comience con tres o cinco metas a nivel de compañía, como máximo.
+* Recuerde siempre que las metas deben ser específicas y tener un límite de tiempo.
+* No fuerce la alineación. Como la alineación influye en el progreso, solo alinee las metas cuando sea necesario. Una idea errónea común sobre la alineación de metas dentro de su organización es que debe alinear de a una. Tal vez no sea necesario alinear las metas de las entidades organizativas con otras, aunque todas las unidades deberían, de alguna manera, ajustarse a la visión general de la compañía.
+* Asigne responsabilidades personales. Puede crear una jerarquía compleja al alinear las metas. Intente asignar la última meta de la jerarquía a un colaborador individual. La verdadera jerarquía de metas significa que tiene colaboradores individuales en el último nivel de cada rama de alineación de metas para que puedan actualizar el progreso en sus propios objetivos, lo que podría actualizar el progreso del equipo global o de la meta del grupo. Esta información contribuye al logro de las principales metas de la compañía.
 
-En este vídeo, aprenderá a hacer lo siguiente:
+Este vídeo contiene información sobre:
 
-* Alinee los objetivos mediante un enfoque ascendente y descendente
-* Vaya a [!UICONTROL Alineación de metas] sección
+* Alineación de las metas utilizando un enfoque ascendente o descendente
+* Vaya a la sección [!UICONTROL Alineación de metas]
 
 >[!VIDEO](https://video.tv.adobe.com/v/335195/?quality=12&learn=on)
