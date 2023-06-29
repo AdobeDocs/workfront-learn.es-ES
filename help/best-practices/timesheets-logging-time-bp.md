@@ -1,105 +1,105 @@
 ---
-title: 'Práctica recomendada: Hojas de horas y registro del tiempo'
-description: Explore las recomendaciones de prácticas recomendadas de los expertos de Adobe Workfront sobre la configuración, administración y uso de perfiles de hojas de horas de Workfront, tipos de horas, preferencias de hojas de horas y hojas de horas. (Debe tener entre 60 y 160 caracteres, pero tiene 184)
+title: 'Práctica recomendada: plantillas de horas y tiempo de registro'
+description: Explore las prácticas recomendadas de los expertos de Adobe Workfront sobre la configuración, administración y uso de perfiles de plantillas de horas, tipos de horas, preferencias de plantillas de horas y plantillas de horas de Workfront. (Debe tener entre 60 y 160 caracteres, pero tiene 184)
 feature: Get Started with Workfront
 role: Admin, Leader, User
 level: Beginner
 jira: KT-10930
 exl-id: 15457411-fd4a-4348-892a-2fb08a079a35
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '681'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Práctica recomendada: Hojas de horas y registro del tiempo
+# Práctica recomendada: plantillas de horas y tiempo de registro
 
-## ¿Cuál es una &quot;práctica recomendada&quot; de Adobe Workfront?
+## ¿Qué es una &quot;práctica recomendada&quot; de Adobe Workfront?
 
-Las prácticas recomendadas son directrices que representan un curso de acción eficaz y eficiente; que usted y los usuarios de su compañía adoptan fácilmente; y que se pueden replicar correctamente en toda la organización.
+Las prácticas recomendadas son directrices que representan un procedimiento eficaz y efectivo, se adoptan fácilmente en la compañía y se pueden replicar correctamente en toda la organización.
 
-Cuando revise estas recomendaciones, tenga en cuenta que algunas de las prácticas recomendadas de Workfront son universales, mientras que otras pueden ser más específicas del tema. Utilice estas prácticas recomendadas como marco de trabajo para guiar las configuraciones y el uso del sistema de Workfront.
+Al revisar estas recomendaciones, hay que tener en cuenta que algunas prácticas recomendadas de Workfront son universales, mientras que otras pueden ser más específicas del tema. Utilice estas prácticas recomendadas como marco de ayuda para guiar la configuración y el uso del sistema Workfront.
 
-## Navegar por esta página
+## Navegación de esta página
 
-A medida que se desplaza por esta página, primero encontrará una lista de alto nivel de todas las prácticas recomendadas para el tema. Esto le permite revisar las recomendaciones sin profundizar en los detalles del &quot;por qué&quot;.
+Al desplazarse por esta página, encontrará en primer lugar una lista de alto nivel de todas las prácticas recomendadas sobre el tema. Esto permite revisar las recomendaciones sin profundizar en los detalles de &quot;por qué&quot;.
 
-&quot;¿Por qué son estas prácticas recomendadas?&quot; , que se encuentra después de la lista de alto nivel, proporciona buenos detalles sobre algunas de las prácticas recomendadas y por qué se consideran un proceso, una herramienta, etc., debe considerar la implementación con su instancia de Workfront.
+El punto &quot;¿Por qué estas son prácticas recomendadas?&quot; se encuentra después de la lista de alto nivel, proporciona mayores detalles sobre algunas de las prácticas recomendadas y por qué se consideran un proceso, una herramienta, etc., cuya implementación se debe considerar al trabajar con Workfront.
 
 </br>
 </br>
 
 
-## Prácticas recomendadas sobre hojas de horas y registro de horas
+## Prácticas recomendadas sobre las plantillas de horas y hora de registro
 
-* Limite el número de perfiles de hojas de horas.
+* Limite el número de perfiles de plantillas de horas.
 
-* Mantenga el número de tipos de horas al mínimo.
+* Reduzca al mínimo el número de tipos de hora.
 
-* Oculte el campo Horas extra en las hojas de horas si no se realiza un seguimiento de las horas extra en su organización.
+* Oculte el campo Tiempo extra de las plantillas de horas extra si no se realiza un seguimiento de las horas extra en su organización.
 
-* Requerir que las hojas de horas se envíen semanalmente.
+* Requiere que las plantillas de horas se envíen semanalmente.
 
 * Registre el tiempo diariamente para obtener las entradas de tiempo más precisas.
 
-* Desactivar la capacidad de registrar tiempo en el nivel de proyecto.
+* Desactive la capacidad de registrar el tiempo en el nivel de proyecto.
 
 </br>
 </br>
 
 
 
-## ¿Por qué son estas prácticas recomendadas?
+## ¿Por qué estas son prácticas recomendadas?
 
 **Práctica recomendada**
 
-Limite el número de perfiles de hojas de horas.
+Limite el número de perfiles de plantillas de horas.
 
 
 
-**He aquí la razón**
+**A continuación se explica por qué**
 
-Cree perfiles de hojas de horas basados en los tipos de horas generales que se necesitan y en quién debe aprobar las hojas de horas. Se recomienda utilizar la opción &quot;Su administrador&quot; para los aprobadores, en lugar de &quot;Personas específicas&quot;, para negar la necesidad de varios perfiles de hojas de horas. (Asegúrese de que el campo Informar a esté rellenado para los usuarios; de lo contrario, Workfront no reconocerá que tienen un responsable y no se asignará un aprobador a la plantilla de horas).
-
-</br>
-</br>
-
-**Práctica recomendada**
-
-Mantenga el número de tipos de horas al mínimo.
-
-
-
-**He aquí la razón**
-
-Demasiados tipos de horas (tanto para el tiempo facturable como para el no facturable) causan confusión sobre cómo se debe registrar el tiempo. Póngase en contacto con el comité de supervisión/gobernanza de Workfront de su organización para determinar qué tipos de horas son necesarios y cuáles deben notificarse.
+Cree perfiles de plantillas de horas en función de los tipos de hora generales que se necesitan y quién debe aprobar las plantillas de horas. Se recomienda utilizar la opción “Su administrador” para los aprobadores, en lugar de “Personas específicas”, para no tener que utilizar varios perfiles de plantillas de horas. (Asegúrese de que el campo “Informes para” esté rellenado para sus usuarios, o Workfront no reconocerá que tienen un administrador y la plantilla de horas no tendrá un aprobador asignado).
 
 </br>
 </br>
 
 **Práctica recomendada**
 
-Oculte el campo Horas extra en las hojas de horas si no se realiza un seguimiento de las horas extra en su organización.
+Reduzca al mínimo el número de tipos de hora.
 
 
 
-**He aquí la razón**
+**A continuación se explica por qué**
 
-Dado que el campo Horas extra se rellena manualmente en las plantillas de horas, puede causar confusión a los usuarios sobre cómo y cuándo se supone que deben utilizarlo. La opción para ocultar el campo Horas extra forma parte del perfil de hoja de horas.
+Demasiados tipos de hora (para tiempo facturable y no facturable) causan confusión sobre cómo se debe registrar el tiempo. Póngase en contacto con el comité de control/supervisión de Workfront de su organización para determinar qué tipos de horas se requieren y sobre cuáles es necesario informar.
 
 </br>
 </br>
 
 **Práctica recomendada**
 
-Requerir que las hojas de horas se envíen semanalmente.
+Oculte el campo Tiempo extra de las plantillas de horas extra si no se realiza un seguimiento de las horas extra en su organización.
 
 
 
-**He aquí la razón**
+**A continuación se explica por qué**
 
-Esto proporcionará mejores informes en tiempo real, proporcionando resultados en incrementos semanales en lugar de quincenales o mensuales. También facilita volver atrás y solucionar problemas antes de que lleguen demasiado lejos en el pasado.
+Dado que el campo Horas extras se rellena manualmente en las plantillas de horas, puede crear confusión entre los usuarios sobre cómo y cuándo deben utilizarlo. La opción para ocultar el campo Horas extra forma parte del Perfil de plantilla de horas.
+
+</br>
+</br>
+
+**Práctica recomendada**
+
+Requiere que las plantillas de horas se envíen semanalmente.
+
+
+
+**A continuación se explica por qué**
+
+Esto proporcionará una mejor creación de informes en tiempo real, proporcionando resultados en incrementos semanales en lugar de en forma quincenal o mensual. También facilita volver y solucionar problemas antes de que se extiendan demasiado en el pasado.
 
 </br>
 </br>
@@ -110,26 +110,26 @@ Registre el tiempo diariamente para obtener las entradas de tiempo más precisas
 
 
 
-**He aquí la razón**
+**A continuación se explica por qué**
 
-Es más fácil recordar en qué trabajó en un solo día que intentar recordar en varios días. Las entradas de tiempo precisas contribuyen a una planificación más precisa de la cronología del proyecto, que luego puede:
+Es más fácil recordar en qué trabajó en un solo día que intentar recordar varios días atrás. Las entradas de tiempo precisas contribuyen a una planificación más precisa de la cronología del proyecto, para poder lograr lo siguiente:
 
-Evite el agotamiento asegurándose de que las solicitudes de trabajo se ajusten a la capacidad de los recursos.
-Elimine los cuellos de botella de trabajo o la sobreasignación al ayudar a los usuarios a planificar y priorizar su trabajo semanal.
-Justificar el personal adicional para que se puedan alcanzar los objetivos estratégicos de la organización.
+Evitar la agonía asegurándose de que las solicitudes de trabajo se ajusten a la capacidad de los recursos.
+Eliminar los cuellos de botella o la asignación excesiva del trabajo, ayudando a los usuarios a planificar y priorizar su trabajo semanal.
+Justificar un número de personas adicionales para que se puedan alcanzar las metas estratégicas de la organización.
 
 
-Registrar el tiempo también ayuda al liderazgo a reconocer los esfuerzos y logros de su equipo.
+El registro del tiempo también ayuda al liderazgo a reconocer los esfuerzos y logros de su equipo.
 
 </br>
 </br>
 
 **Práctica recomendada**
 
-Desactivar la capacidad de registrar tiempo en el nivel de proyecto.
+Desactive la capacidad de registrar el tiempo en el nivel de proyecto.
 
 
 
-**He aquí la razón**
+**A continuación se explica por qué**
 
-El tiempo registrado en el nivel de proyecto no muestra en qué se trabajó realmente. Registrar las horas reales trabajadas en los niveles de tarea y problema muestra cuánto tiempo se tardó en completar elementos específicos de trabajo. Esta información puede resultar útil al ajustar las plantillas de proyecto, ya que podrá planificar con mayor precisión la cronología del proyecto y los recursos necesarios para las personas. También significa que los informes serán más precisos y ofrecerán una mejor perspectiva de hacia dónde va el tiempo de los trabajadores.
+El tiempo registrado en el nivel de proyecto no muestra a qué se dedicó realmente el tiempo de trabajo. El registro de las horas reales trabajadas en los niveles de tareas y problemas muestra cuánto tardaron en completarse elementos de trabajo específicos. Esta información puede resultar útil a la hora de ajustar plantillas de proyecto, ya que podrá planificar con mayor precisión la cronología del proyecto y planificar los recursos de personal necesarios. También significa que los informes serán más precisos y ofrecerán mejores datos sobre cómo se destina el tiempo de los trabajadores.
