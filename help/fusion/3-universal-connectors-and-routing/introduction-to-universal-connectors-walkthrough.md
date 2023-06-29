@@ -1,6 +1,6 @@
 ---
-title: Introducción al tutorial de conectores universales
-description: Aprenda a llamar a la API de Poke a través de un conector HTTP para recopilar y publicar información sobre un carácter de Pokemon, todo en [!DNL Adobe Workfront Fusion].
+title: Tutorial de introducción a los conectores universales
+description: Aprenda a llamar a la API de Poke a través de un conector HTTP para recopilar y publicar información sobre un carácter Pokemon, todo en  [!DNL Adobe Workfront Fusion].
 activity: use
 team: Technical Marketing
 type: Tutorial
@@ -11,37 +11,37 @@ jira: KT-9011
 exl-id: 87cc93a0-5ad8-4d40-bc85-b7fda35b0df3
 doc-type: video
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '140'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Introducción al tutorial de conectores universales
+# Tutorial de introducción a los conectores universales
 
 ## Información general
 
-Con un carácter de Pokemon en una hoja de cálculo, llame a la API de Poke a través de un conector HTTP para recopilar y publicar más información sobre ese carácter.
+Con un carácter Pokemon en una hoja de cálculo, llame a la API de Poke a través de un conector HTTP para recopilar y publicar más información sobre ese carácter.
 
 ![Una imagen del escenario de Fusion](assets/universal-connectors-and-routing-1.png)
 
-## Introducción al tutorial de conectores universales
+## Tutorial de introducción a los conectores universales
 
-Workfront recomienda ver el vídeo del tutorial de ejercicios antes de intentar recrear el ejercicio en su propio entorno.
+Workfront recomienda ver el vídeo tutorial del ejercicio antes de intentar recrear el ejercicio en su propio entorno.
 
 >[!VIDEO](https://video.tv.adobe.com/v/335270/?quality=12&learn=on)
 
-### URL del ejercicio
+### Ejercitar direcciones URL
 
-Sitio web de la API Pokemon: `https://pokeapi.co/`
+Sitio web de la API de Pokemon: `https://pokeapi.co/`
 
-URL del ejercicio: `https://pokeapi.co/api/v2/pokemon/{Character}`
+URL para ejercitarse: `https://pokeapi.co/api/v2/pokemon/{Character}`
 
 >[!TIP]
 >
->Para obtener instrucciones paso a paso sobre cómo completar el tutorial, vaya a la [Introducción al tutorial de conectores universales](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/exercises/introduction-to-universal-connectors.html?lang=en) hacer ejercicio.
+>Para obtener instrucciones paso a paso sobre cómo completar el tutorial, vaya al ejercicio [tutorial de la Introducción a los conectores universales](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/exercises/introduction-to-universal-connectors.html?lang=es).
 
 
 ## ¿Desea obtener más información? Recomendamos lo siguiente:
 
-[Documentación de Workfront Fusion](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/workfront-fusion-2.html?lang=en)
+[Documentación de Workfront Fusion](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/workfront-fusion-2.html?lang=es)
