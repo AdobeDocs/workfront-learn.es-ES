@@ -1,6 +1,6 @@
 ---
-title: Actualización de información del plan en [!DNL Scenario Planner]
-description: Aprenda a cambiar o actualizar la información de rol, presupuesto o costo después de crear un plan o una iniciativa en [!DNL Scenario Planner].
+title: Actualizar información del plan en  [!DNL Scenario Planner]
+description: Obtenga información sobre cómo cambiar o actualizar la función de trabajo, la información sobre el presupuesto o los costes después de crear un plan o iniciativa en  [!DNL Scenario Planner].
 feature: Resource Management
 type: Tutorial
 role: Leader, User
@@ -12,18 +12,18 @@ jira: KT-9078
 exl-id: da426ef6-5033-4974-a897-e82563a776f6
 doc-type: video
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '58'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Ajuste la información de rol, presupuesto y coste en la [!DNL Scenario Planner]
+# Ajustar la función de trabajo, la información sobre el presupuesto y los costes en [!DNL Scenario Planner]
 
-En este vídeo, aprenderá a hacer lo siguiente:
+Este vídeo contiene información sobre:
 
-* Adición o eliminación de funciones del puesto a un plan o iniciativa
-* Ajustar información de presupuesto
-* Ajuste de información de coste
+* Añadir o quitar funciones de trabajo de un plan o una iniciativa
+* Ajustar la información del presupuesto
+* Ajustar la información de costes
 
 >[!VIDEO](https://video.tv.adobe.com/v/335320/?quality=12&learn=on)
