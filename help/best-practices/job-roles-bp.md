@@ -1,109 +1,109 @@
 ---
-title: 'Práctica recomendada: Funciones del puesto'
-description: Explore las recomendaciones sobre prácticas recomendadas de los expertos de Adobe Workfront acerca de la configuración, administración y uso de las funciones del puesto de Workfront.
+title: 'Práctica recomendada: funciones de trabajo'
+description: Explore las prácticas recomendadas de los expertos de Adobe Workfront acerca de la configuración, administración y uso de las funciones de trabajo de Workfront.
 feature: People Teams and Groups
 role: Admin, Leader, User
 level: Beginner
 jira: KT-10912
 exl-id: 1975b52d-f3db-4800-a6e7-72faeb8916b7
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+source-git-commit: 23f4ab82d2823217c81a3fd37796e2a1260e7cf5
+workflow-type: ht
 source-wordcount: '600'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Práctica recomendada: Funciones del puesto
+# Práctica recomendada: funciones de trabajo
 
-## ¿Cuál es una &quot;práctica recomendada&quot; de Adobe Workfront?
+## ¿Qué es una &quot;práctica recomendada&quot; de Adobe Workfront?
 
-Las prácticas recomendadas son directrices que representan un curso de acción eficaz y eficiente; que usted y los usuarios de su compañía adoptan fácilmente; y que se pueden replicar correctamente en toda la organización.
+Las prácticas recomendadas son directrices que representan un procedimiento eficaz y efectivo, se adoptan fácilmente en la compañía y se pueden replicar correctamente en toda la organización.
 
-Cuando revise estas recomendaciones, tenga en cuenta que algunas de las prácticas recomendadas de Workfront son universales, mientras que otras pueden ser más específicas del tema. Utilice estas prácticas recomendadas como marco de trabajo para guiar las configuraciones y el uso del sistema de Workfront.
+Al revisar estas recomendaciones, hay que tener en cuenta que algunas prácticas recomendadas de Workfront son universales, mientras que otras pueden ser más específicas del tema. Utilice estas prácticas recomendadas como marco de ayuda para guiar la configuración y el uso del sistema Workfront.
 
-## Navegar por esta página
+## Navegación de esta página
 
-A medida que se desplaza por esta página, primero encontrará una lista de alto nivel de todas las prácticas recomendadas para el tema. Esto le permite revisar las recomendaciones sin profundizar en los detalles del &quot;por qué&quot;.
+Al desplazarse por esta página, encontrará en primer lugar una lista de alto nivel de todas las prácticas recomendadas sobre el tema. Esto permite revisar las recomendaciones sin profundizar en los detalles de &quot;por qué&quot;.
 
-&quot;¿Por qué son estas prácticas recomendadas?&quot; , que se encuentra después de la lista de alto nivel, proporciona buenos detalles sobre algunas de las prácticas recomendadas y por qué se consideran un proceso, una herramienta, etc., debe considerar la implementación con su instancia de Workfront.
-
-</br>
-</br>
-
-## Prácticas recomendadas sobre funciones
-
-* Utilice las convenciones de nomenclatura para los roles utilizados en la organización.
-
-* Asigne tareas a los roles al crear plantillas de proyecto.
-
-* No cree funciones por puesto.
-
-* Al crear funciones, tenga cuidado de no hacerlas demasiado granulares.
-
-* Cree funciones similares solo cuando sea necesaria una distinción clara.
+El punto &quot;¿Por qué estas son prácticas recomendadas?&quot; se encuentra después de la lista de alto nivel, proporciona mayores detalles sobre algunas de las prácticas recomendadas y por qué se consideran un proceso, una herramienta, etc., cuya implementación se debe considerar al trabajar con Workfront.
 
 </br>
 </br>
 
-## ¿Por qué son estas prácticas recomendadas?
+## Prácticas recomendadas de funciones de trabajo
+
+* Utilice convenciones de nomenclatura para las funciones de trabajo de toda la organización.
+
+* Asigne tareas a las funciones de trabajo al crear plantillas de proyecto.
+
+* No cree funciones de trabajo por títulos de trabajo.
+
+* Al crear funciones de trabajo, asegúrese de no hacerlas demasiado granulares.
+
+* Cree funciones similares solo cuando se necesite una distinción clara.
+
+</br>
+</br>
+
+## ¿Por qué estas son prácticas recomendadas?
 
 **Práctica recomendada**
 
-Utilice las convenciones de nomenclatura para los roles utilizados en la organización.
+Utilice convenciones de nomenclatura para las funciones de trabajo de toda la organización.
 
-**He aquí la razón**
+**A continuación se explica por qué**
 
-Las funciones del puesto son globales. Si desea diferenciar y administrar roles con el mismo nombre en varios grupos dentro de la organización, las convenciones de nomenclatura son el mejor método. Utilice una convención de nombres que se adapte a sus necesidades, pero recuerde simplificarla.
-
-</br>
-</br>
-
-**Práctica recomendada**
-
-Asigne tareas a los roles al crear plantillas de proyecto.
-
-**He aquí la razón**
-
-Cuando se asignan usuarios individuales a tareas en plantillas de proyecto, esto puede causar problemas de personal cuando un usuario cambia de función o abandona la organización. Esto hace que el mantenimiento de la plantilla y del proyecto sea más laborioso.
-
-Además, tener funciones asignadas a tareas le ayuda a prever sus necesidades de recursos y asignar trabajo con las herramientas de administración de recursos de Workfront.
+Las funciones de trabajo son globales. Si desea diferenciar y administrar funciones de trabajo con el mismo nombre en varios grupos dentro de la organización, las convenciones de nomenclatura son el mejor método. Utilice una convención de nomenclatura que se adapte a sus necesidades, pero recuerde mantenerla sencilla.
 
 </br>
 </br>
 
 **Práctica recomendada**
 
-No cree funciones por puesto.
+Asigne tareas a las funciones de trabajo al crear plantillas de proyecto.
 
-**He aquí la razón**
+**A continuación se explica por qué**
 
-Los roles representan el conjunto de habilidades que un usuario posee para completar una tarea. Los títulos de los trabajos no siempre reflejan el conjunto de habilidades del usuario o el tipo de trabajo que realiza.
+Cuando se asignan tareas a usuarios individuales en plantillas de proyecto, puede haber problemas con el personal si alguien cambia de funciones o abandona la organización. Esto hace que el mantenimiento de la plantilla y del proyecto requiera más tiempo.
 
-</br>
-</br>
-
-**Práctica recomendada**
-
-Al crear funciones, tenga cuidado de no hacerlas demasiado granulares.
-
-**He aquí la razón**
-
-Puede asociar un usuario con varios roles, pero es posible que no necesite un rol para cada aptitud que tenga un usuario. Base las funciones del puesto en sus necesidades para asignar tareas y el nivel de detalle deseado que necesite en los informes de administración de recursos.
+Además, tener funciones de trabajo asignadas a tareas le ayuda a prever sus necesidades de recursos y a asignar trabajo mediante las herramientas de administración de recursos de Workfront.
 
 </br>
 </br>
 
 **Práctica recomendada**
 
-Cree funciones similares solo cuando sea necesaria una distinción clara.
+No cree funciones de trabajo por títulos de trabajo.
 
-**He aquí la razón**
+**A continuación se explica por qué**
 
-En la mayoría de los casos, no es necesario tener varios puestos para representar al mismo conjunto de aptitudes. Sin embargo, necesitará varios puestos si:
+Las funciones de trabajo representan el conjunto de habilidades que posee un usuario para completar una tarea. Los títulos de trabajo no siempre reflejan el conjunto de habilidades o el tipo de labor del usuario.
 
-La tarifa de facturación es diferente. Por ejemplo, a un diseñador gráfico sénior se le puede facturar una tarifa diferente a la de un diseñador gráfico.
-Las asignaciones de trabajo requieren un tipo específico de rol. Por ejemplo, una tarea debe realizarla un administrador de proyectos, pero no un coordinador.
-Debe administrar los recursos según las funciones del puesto. Por ejemplo, puede tener 600 horas de diseño gráfico pero solo 200 horas de dirección artística sénior.
+</br>
+</br>
+
+**Práctica recomendada**
+
+Al crear funciones de trabajo, asegúrese de no hacerlas demasiado granulares.
+
+**A continuación se explica por qué**
+
+Puede asociar un usuario con varias funciones de trabajo, pero es posible que no necesite una por cada habilidad que tenga. Base las funciones de trabajo en sus necesidades para asignar tareas y el nivel de detalle deseado que necesita en los informes de administración de recursos.
+
+</br>
+</br>
+
+**Práctica recomendada**
+
+Cree funciones similares solo cuando se necesite una distinción clara.
+
+**A continuación se explica por qué**
+
+En la mayoría de los casos, no es necesario que múltiples funciones de trabajo representen el mismo conjunto de habilidades. Sin embargo, necesitará varias funciones de trabajo en estos casos:
+
+La tasa de facturación es diferente. Por ejemplo, un diseñador gráfico sénior puede tener una tarifa superior.
+Las asignaciones de trabajo requieren un tipo específico de función. Por ejemplo, una tarea debe realizarla un administrador de proyectos, pero no un coordinador.
+Debe administrar los recursos según las funciones de trabajo. Por ejemplo, puede tener 600 horas de diseño gráfico, pero solo 200 de dirección artística sénior.
 
 
-Si crea funciones similares, utilice el campo de descripción de cada una de ellas para indicar las diferencias entre las funciones, cuándo y cómo se utilizan, etc.
+Si crea funciones de trabajo similares, utilice el campo de descripción de cada una para indicar las diferencias, cuándo y cómo se utilizan, etc.
