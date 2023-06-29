@@ -1,6 +1,6 @@
 ---
-title: Comunicar estado de la meta
-description: Aprenda a comunicarse con otros sobre el progreso y el estado de sus objetivos en [!DNL Workfront Goals].
+title: Comunicar el estado de la meta
+description: Aprenda a comunicarse con otros sobre el progreso y el estado de sus objetivos en  [!DNL Workfront Goals].
 activity: use
 team: Technical Marketing
 feature: Workfront Goals
@@ -10,49 +10,49 @@ level: Beginner
 jira: KT-10120
 exl-id: 337b187d-bc73-48ca-9e2a-08ea164ad457
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '469'
-ht-degree: 1%
+ht-degree: 100%
 
 ---
 
-# Comunicar estado de la meta
+# Comunicar el estado de la meta
 
-Ahora que ha actualizado sus metas, dedique un momento a retroceder y obtener una visión general de las metas en las que está trabajando y cómo se relacionan con los objetivos del equipo, el grupo y la compañía. Comunicarse con los demás sobre el progreso y el estado de sus objetivos es una parte importante para mantenerse alineado.
+Ahora que ha actualizado sus objetivos, tome un momento para retroceder y obtener un vistazo de las metas en las que está trabajando y cómo se relacionan con las metas de equipo, grupo y compañía. Comunicarse con otras personas sobre el progreso y el estado de sus metas es una parte importante para mantenerlas alineadas.
 
-Existen varias formas de mantener a las personas adecuadas actualizadas sobre sus objetivos. Puede empezar por:
+Hay varias maneras de que las personas adecuadas estén actualizadas sobre sus metas. Puede empezar por lo siguiente:
 
-* Uso compartido e informes sobre sus objetivos
-* Aprovechamiento del [!UICONTROL Gráficos] para obtener una instantánea completa del progreso de sus objetivos
+* Uso compartido y creación de informes de sus metas
+* Aprovechamiento de la sección [!UICONTROL Gráficos] para obtener una instantánea completa del progreso de sus metas
 
 ## Compartir una meta
 
-Puede compartir un objetivo que haya creado o un objetivo creado por otra persona para la que tenga permisos de administración. No puede compartir objetivos con grupos, equipos o empresas. Si tiene permisos de Administración para una meta, puede cambiar los permisos de la meta para el creador de la meta. De forma predeterminada, la persona que crea el objetivo tiene permisos de Administración, pero puede cambiarlos a Vista.
+Puede compartir una meta que haya creado o una creada por otra persona a la que usted tenga permisos para administrar. No puede compartir las metas con grupos, equipos o compañías. Si tiene permisos de administración para una meta, puede cambiar los permisos de esta para el creador de la meta. De forma predeterminada, la persona que crea la meta tiene permisos de administración, pero puede cambiarlos a Vista.
 
-1. Haga clic en el nombre de la meta que desea compartir desde cualquier sección de la [!DNL Goals] para abrir el [!UICONTROL Detalles de meta] panel.
+1. Haga clic en el nombre de la meta que desea compartir en cualquier sección del área de [!DNL Goals] para abrir el panel [!UICONTROL Detalles de la meta].
 
-1. Haga clic en el icono de 3 puntos junto al nombre de la meta y, a continuación, haga clic en [!UICONTROL **Compartir**]. El [!UICONTROL Acceso a meta] aparece el cuadro.
+1. Haga clic en el icono de tres puntos junto al nombre del objetivo y, a continuación, haga clic en [!UICONTROL **Compartir**]. Se muestra la casilla [!UICONTROL Acceso a la meta].
 
-   ![Captura de pantalla de un gol compartido](assets/17-workfront-goals-share-a-goal.png)
+   ![Captura de pantalla para compartir una meta](assets/17-workfront-goals-share-a-goal.png)
 
 1. Realice una de las siguientes acciones:
 
-   * Seleccione el [!UICONTROL Administrar todo el sistema] para otorgar permisos de administración a todas las personas del sistema que tengan acceso de edición a [!DNL Goals] a través de su [!DNL Workfront] nivel de acceso. Esta opción no está seleccionada de forma predeterminada para todas las metas nuevas.
-   * Empiece a escribir el nombre de un usuario que desee dar [!UICONTROL Administrar] permisos para en [!UICONTROL Conceder acceso de administración a] cuadro. Seleccione el nombre cuando aparezca en la lista.
+   * Seleccione la configuración [!UICONTROL Administrar en todo el sistema] para otorgar permisos de administración a todas las personas del sistema que tengan acceso de edición a [!DNL Goals] a través de sus niveles de acceso de [!DNL Workfront]. De forma predeterminada, esta opción no está seleccionada para todas las metas nuevas.
+   * Comience a escribir el nombre de un usuario que desee proporcionar permisos de [!UICONTROL Administrar] en la casilla [!UICONTROL Dar acceso a Administrar a]. Seleccione el nombre cuando aparezca en la lista.
 
-1. Clic [!UICONTROL **Compartir**]. Se muestra una etiqueta &quot;en todo el sistema&quot; para los nombres de los usuarios que tienen permisos de administración en la meta en la [!UICONTROL Acceso a Administrar] en el campo [!UICONTROL Detalles de meta] panel.
+1. Haga clic en [!UICONTROL **Compartir**]. Una etiqueta “para todo el sistema” o los nombres de los usuarios que tienen permisos de administración para la meta se muestran en el campo [!UICONTROL Acceso a la administración] en el panel [!UICONTROL Detalles de la meta].
 
-## Informar sobre la información del objetivo
+## Informar sobre los datos de la meta
 
-Puede generar informes de objetivos o informes de proyectos que incluyan información sobre las metas asociadas en [!DNL Workfront]. Existen varias formas de ver la información de objetivos en los informes.
+Puede crear informes de metas o proyectos que incluyan información sobre las metas asociadas en [!DNL Workfront]. Existen varias formas de ver la información de la meta en los informes.
 
-* Cree un informe de objetivo en el área Informes. Puede mostrar información diversa sobre la meta en el informe Objetivo (por ejemplo: nombre, propietario, fechas, progreso, etc.), que incluye lo siguiente:
+* Cree un informe de la meta en el área Informes. En el informe de la meta se puede mostrar información diversa sobre esta (por ejemplo: nombre, propietario, fechas, progreso, etc.), que incluye lo siguiente:
 
-   * **Jerarquía de metas**: permite mostrar todas las metas padre y cómo se conectan entre sí.
-   * **Es meta de la compañía**: indica si su organización está designada como propietaria de un objetivo.
-   * **Tipo de propietario**— indica si el propietario de un objetivo es un usuario, un equipo o un grupo.
+   * **Jerarquía de metas**: muestra todas las metas principales y cómo se conectan entre sí.
+   * **Si es una meta de la compañía**: indica si su organización está designada como propietaria de la meta.
+   * **Tipo de propietario**: indica si el propietario de la meta es un usuario, equipo o grupo.
 
-* Cree un informe de proyecto que muestre la información del objetivo, lo que incluye lo siguiente:
-   * **Jerarquía de metas**: permite mostrar todas las metas padre y cómo se conectan entre sí.
-   * **Metas**: se trata de un campo de recopilación que muestra todas las metas asociadas a un proyecto.
-   * **Número de metas vinculadas**: el número de metas asociadas al proyecto.
+* Cree un informe de proyecto que muestre información de las metas y que incluya lo siguiente:
+   * **Jerarquía de metas**: muestra todas las metas principales y cómo se conectan entre sí.
+   * **Metas**: es un campo de recopilación que muestra todas las metas asociadas a un proyecto.
+   * **Número de metas vinculadas**: cantidad de metas asociadas con el proyecto.
