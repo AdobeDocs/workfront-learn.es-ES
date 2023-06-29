@@ -8,13 +8,13 @@ doc-type: Feature Video
 last-substantial-update: 2023-04-19T00:00:00Z
 jira: KT-13069
 thumbnail: 3418382.jpeg
-source-git-commit: 850b7de7aa4a396643da6e029e8663276d40ef05
-workflow-type: tm+mt
+exl-id: 022a343f-f7b4-41d0-bfdd-395157a19da7
+source-git-commit: ead4f1d828faba04c359e780a608eff9c555b688
+workflow-type: ht
 source-wordcount: '58'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
-
 
 # Añadir y administrar pines mediante plantillas de diseño
 
