@@ -1,44 +1,44 @@
 ---
-title: 'Práctica recomendada: Informes personalizados'
-description: Explore las recomendaciones sobre prácticas recomendadas de los expertos de Adobe Workfront acerca de la configuración, administración y uso de los informes personalizados de Workfront.
+title: 'Práctica recomendada: informes personalizados'
+description: Explore las prácticas recomendadas de los expertos de Adobe Workfront sobre la configuración, administración y uso de los informes personalizados de Workfront.
 feature: Reports and Dashboards
 role: Admin, Leader, User
 level: Beginner
 jira: KT-10908
 exl-id: 780b80fc-0f7e-41e2-8c6b-455d91642631
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '649'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Práctica recomendada: Informes personalizados
+# Práctica recomendada: informes personalizados
 
-## ¿Cuál es una &quot;práctica recomendada&quot; de Adobe Workfront?
+## ¿Qué es una &quot;práctica recomendada&quot; de Adobe Workfront?
 
-Las prácticas recomendadas son directrices que representan un curso de acción eficaz y eficiente; que usted y los usuarios de su compañía adoptan fácilmente; y que se pueden replicar correctamente en toda la organización.
+Las prácticas recomendadas son directrices que representan un procedimiento eficaz y efectivo, se adoptan fácilmente en la compañía y se pueden replicar correctamente en toda la organización.
 
-Cuando revise estas recomendaciones, tenga en cuenta que algunas de las prácticas recomendadas de Workfront son universales, mientras que otras pueden ser más específicas del tema. Utilice estas prácticas recomendadas como marco de trabajo para guiar las configuraciones y el uso del sistema de Workfront.
+Al revisar estas recomendaciones, hay que tener en cuenta que algunas prácticas recomendadas de Workfront son universales, mientras que otras pueden ser más específicas del tema. Utilice estas prácticas recomendadas como marco de ayuda para guiar la configuración y el uso del sistema Workfront.
 
-## Navegar por esta página
+## Navegación de esta página
 
-A medida que se desplaza por esta página, primero encontrará una lista de alto nivel de todas las prácticas recomendadas para el tema. Esto le permite revisar las recomendaciones sin profundizar en los detalles del &quot;por qué&quot;.
+Al desplazarse por esta página, encontrará en primer lugar una lista de alto nivel de todas las prácticas recomendadas sobre el tema. Esto permite revisar las recomendaciones sin profundizar en los detalles de &quot;por qué&quot;.
 
-&quot;¿Por qué son estas prácticas recomendadas?&quot; , que se encuentra después de la lista de alto nivel, proporciona buenos detalles sobre algunas de las prácticas recomendadas y por qué se consideran un proceso, una herramienta, etc., debe considerar la implementación con su instancia de Workfront.
+El punto &quot;¿Por qué estas son prácticas recomendadas?&quot; se encuentra después de la lista de alto nivel, proporciona mayores detalles sobre algunas de las prácticas recomendadas y por qué se consideran un proceso, una herramienta, etc., cuya implementación se debe considerar al trabajar con Workfront.
 
 </br>
 </br>
 
 ## Prácticas recomendadas de informes personalizados
 
-* Considere la posibilidad de utilizar indicadores de informe para reducir los resultados de un informe, en lugar de crear varios informes similares o estructuras de filtro complicadas en un informe.
+* Considere la posibilidad de utilizar directrices de informes para reducir los resultados de un informe en lugar de crear varios similares o estructuras de filtro complejas en uno.
 
-* Agilice la creación de informes copiando un informe existente similar desde el que generar el nuevo informe.
+* Acelere la creación de informes copiando uno existente similar desde el que generar el nuevo.
 
 * Utilice la funcionalidad de creación de informes predeterminada siempre que sea posible, en lugar del modo de texto.
 
-* Utilice caracteres comodín basados en usuarios para crear informes dinámicos de modo que el usuario que visualice el informe vea la información relevante para él.
+* Utilice los caracteres comodín basados en el usuario para crear informes dinámicos, de modo que vea la información relevante para estos.
 
 * Cree vistas que permitan la edición en línea.
 
@@ -46,21 +46,21 @@ A medida que se desplaza por esta página, primero encontrará una lista de alto
 </br>
 
 
-## ¿Por qué son estas prácticas recomendadas?
+## ¿Por qué estas son prácticas recomendadas?
 
 **Práctica recomendada**
 
-Considere la posibilidad de utilizar indicadores de informe para reducir los resultados de un informe, en lugar de crear varios informes similares o estructuras de filtro complicadas en un informe.
+Considere la posibilidad de utilizar directrices de informes para reducir los resultados de un informe en lugar de crear varios similares o estructuras de filtro complejas en uno.
 
 
-**He aquí la razón**
+**A continuación se explica por qué**
 
-Reduzca el número de informes que necesita generar (y amplíe el uso de los que crea) incluyendo indicadores, especialmente en los informes que ejecuta con frecuencia.
+Reduzca el número de informes que necesita generar (y amplíe su uso) incluyendo directrices, sobre todo en los que ejecuta con frecuencia.
 
-Los indicadores le permiten realizar adiciones de filtro &quot;en el momento&quot; en un informe sin editar la configuración de filtro del informe. Por ejemplo, tiene un informe que encuentra tareas de un estado determinado asignadas a un equipo específico. Agregue preguntas a este informe &quot;básico&quot; que le permitirán reducir el intervalo de tiempo de las fechas de vencimiento de las tareas, ver solo las tareas que tienen documentos adjuntos o localizar las tareas que tienen un formulario personalizado en particular adjunto.
+Las directrices permiten añadir filtros “en el momento” a un informe sin necesidad de editar su configuración de filtros. Por ejemplo, tiene un informe que encuentra tareas de un estado determinado que están asignadas a un equipo específico. Agregue directrices a este informe “básico” que le permitan reducir el período de tiempo de las fechas de vencimiento de las tareas, vea solo las que tienen documentos adjuntos o localice las que tienen un formulario personalizado específico adjunto.
 
 
-**Nota**: Algunos usuarios pueden encontrar confusas las indicaciones. Si es así, varios informes con títulos claros podrían ser una mejor solución para ellos.
+**Nota**: Estas directrices pueden ser confusas para algunos usuarios. Si es así, la mejor solución pueden ser varios informes con títulos claros.
 
 
 </br>
@@ -68,11 +68,11 @@ Los indicadores le permiten realizar adiciones de filtro &quot;en el momento&quo
 
 **Práctica recomendada**
 
-Agilice la creación de informes copiando un informe existente similar desde el que generar el nuevo informe.
+Acelere la creación de informes copiando uno existente similar desde el que generar el nuevo.
 
-**He aquí la razón**
+**A continuación se explica por qué**
 
-Esto no solo ahorra tiempo, sino que además garantiza que el nuevo informe contenga los filtros, las vistas o las agrupaciones que necesite del informe original.
+No solo ahorra tiempo, sino que también garantiza que el nuevo informe contenga los filtros, vistas o agrupaciones que necesite del original.
 
 </br>
 </br>
@@ -81,20 +81,20 @@ Esto no solo ahorra tiempo, sino que además garantiza que el nuevo informe cont
 
 Utilice la funcionalidad de creación de informes predeterminada siempre que sea posible, en lugar del modo de texto.
 
-**He aquí la razón**
+**A continuación se explica por qué**
 
-Esto simplifica al máximo la creación de informes de configuraciones para garantizar que sean escalables y compatibles con usted y otros.
+Esto hace que las configuraciones de creación de informes sean lo más sencillas posibles para garantizar que sean escalables y compatibles para usted y otros usuarios.
 
 </br>
 </br>
 
 **Práctica recomendada**
 
-Utilice caracteres comodín basados en usuarios para crear informes dinámicos de modo que el usuario que visualice el informe vea la información relevante para él.
+Utilice los caracteres comodín basados en el usuario para crear informes dinámicos, de modo que vea la información relevante para estos.
 
-**He aquí la razón**
+**A continuación se explica por qué**
 
-Los comodines basados en usuarios hacen que los informes sean más flexibles, lo que permite a los redactores de informes crear un único informe que se puede compartir con varios usuarios. Los comodines basados en usuarios no solo proporcionan información personalizada para el usuario que ha iniciado sesión que ve el informe personalizado, sino que también permiten reducir el número de informes que se deben crear y mantener.
+Los caracteres comodín basados en el usuario hacen que los informes sean más flexibles, lo que permite a los autores crear un único informe que se puede compartir con varias personas. Los caracteres comodín basados en el usuario no solo proporcionan información personalizada para que el usuario que ha iniciado sesión vea el informe a medida, sino que también permiten reducir el número que debe crearse y mantenerse.
 
 </br>
 </br>
@@ -103,6 +103,6 @@ Los comodines basados en usuarios hacen que los informes sean más flexibles, lo
 
 Cree vistas que permitan la edición en línea.
 
-**He aquí la razón**
+**A continuación se explica por qué**
 
-Con la edición en línea, los usuarios pueden cambiar la información sobre un elemento directamente desde un informe o una lista. Esto ahorra tiempo, ya que los usuarios no tienen que abrir el objeto para realizar cambios o rechazarlo de un objeto a otro al actualizar varios elementos. Asegúrese de que los usuarios sepan que la edición en línea es cómoda y rápida (dos cosas que contribuyen a la adopción por parte del usuario de Workfront).
+Con la edición en línea, los usuarios pueden cambiar información acerca de un elemento directamente desde un informe o una lista. Esto ahorra tiempo, ya que los usuarios no tienen que abrir el objeto para realizar cambios o rebotar de uno a otro al actualizar varios elementos. Asegúrese de que los usuarios sepan que la edición en línea es cómoda y rápida (dos cosas que contribuyen a la adopción de Workfront).
