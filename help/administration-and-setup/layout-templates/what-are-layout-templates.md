@@ -10,32 +10,32 @@ level: Intermediate, Experienced
 thumbnail: 10099.jpeg
 jira: KT-10099
 exl-id: 163c3421-37c1-4160-92be-ec27e353ada4
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+source-git-commit: 23f4ab82d2823217c81a3fd37796e2a1260e7cf5
+workflow-type: ht
 source-wordcount: '218'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 # ¿Qué son las plantillas de diseño?
 
-Workfront tiene muchas herramientas útiles para ayudarle a realizar su trabajo. Pero demasiado de una buena cosa puede ser abrumador.
+Workfront tiene una gran cantidad de herramientas útiles para ayudarle a trabajar. Sin embargo, tener muchas opciones puede ser abrumador.
 
 ![Inicio y menú principal](assets/what-are-layout-templates-01.png)
 
-Las plantillas de diseño permiten a los administradores de sistemas y de grupos personalizar la experiencia del usuario y permitir que estos se centren en lo que es importante para ellos.
+Las plantillas de diseño permiten a los administradores de sistemas y grupos personalizar la experiencia del usuario y centrarse en lo que es importante.
 
 ![Inicio y menú principal](assets/what-are-layout-templates-02.png)
 
-Por ejemplo, la mayoría de su organización no registra tiempo. Sin embargo, el equipo consultor sí factura a los clientes, por lo que necesitan registrar el tiempo para garantizar una facturación precisa. Con una plantilla de diseño, las hojas de horas se pueden ocultar para aquellos que no las necesiten y mostrar para aquellos que sí lo necesiten.
+Por ejemplo, la mayoría de su organización no registra el tiempo. Sin embargo, el equipo consultor factura a los clientes, por lo que necesita contabilizarlo para garantizar una facturación precisa. Con una plantilla de diseño, las fichas horarias pueden ocultarse para quienes no las necesiten y mostrarse para quienes sí.
 
 ![Inicio y menú principal](assets/what-are-layout-templates-03.png)
 
 ![Inicio y menú principal](assets/what-are-layout-templates-04.png)
 
 
-## Antes de generar
+## Antes de la versión
 
-Workfront recomienda hablar con los usuarios antes de crear una plantilla de diseño. La participación de aquellos que van a utilizar la plantilla de diseño, como los administradores del grupo, hará que la colocación de la información y las herramientas adecuadas delante de las personas adecuadas sea mucho más fluida.
+Workfront recomienda hablar con los usuarios antes de crear una plantilla de diseño. Lo que facilita la tarea de disponer la información y las herramientas adecuadas es involucrar a quienes usen la plantilla de diseño, como los administradores de grupo.
 
-Además, no tenga miedo de realizar cambios después de crear una plantilla. Continúe recibiendo comentarios sobre lo que necesitan y desean ver y acceder. Recuerde, las plantillas de diseño están pensadas para crear una experiencia limpia y sencilla para los usuarios.
+No tenga miedo de introducir cambios después de crear una plantilla. Continúe recabando información sobre lo que necesitan, desean ver y a lo que quieren acceder. Recuerde que las plantillas de diseño están concebidas para ofrecer una experiencia sencilla a los usuarios.
