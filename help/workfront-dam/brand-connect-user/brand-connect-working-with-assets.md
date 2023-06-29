@@ -1,6 +1,6 @@
 ---
-title: Cómo trabajar con recursos en Brand Connect
-description: Obtenga información sobre cómo ver recursos en Brand Connect y ver datos sobre un recurso, incluidos metadatos y palabras clave en [!UICONTROL WORKFRONT DAM].
+title: Cómo trabajar con Assets en Brand Connect
+description: Obtenga información sobre cómo ver recursos en Brand Connect y datos acerca de un recurso, incluidos metadatos y palabras clave en [!UICONTROL DAM de Workfront].
 activity: use
 feature: Digital Content and Documents
 type: Tutorial
@@ -11,17 +11,17 @@ jira: KT-8985
 exl-id: 67bc9228-f16e-4cba-bae2-d223e9d79d39
 doc-type: video
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '56'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Brand Connect: uso de recursos
+# Brand Connect: trabajo con recursos
 
-En este vídeo, aprenderá a hacer lo siguiente:
+Este vídeo contiene información sobre:
 
-* Visualización de recursos en Brand Connect
-* Ver datos de un recurso, incluidos metadatos y palabras clave
+* Ver recursos en Brand Connect
+* Ver datos acerca de un recurso, incluidos metadatos y palabras clave
 
 >[!VIDEO](https://video.tv.adobe.com/v/335247/?quality=12&learn=on)
