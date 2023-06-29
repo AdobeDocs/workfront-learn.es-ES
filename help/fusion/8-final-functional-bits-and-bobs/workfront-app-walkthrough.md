@@ -1,6 +1,6 @@
 ---
-title: Tutorial de aplicación de Workfront
-description: Obtenga información acerca de la variedad de útiles módulos de déclencheur, acción y búsqueda en la aplicación de Workfront en [!DNL Adobe Workfront Fusion].
+title: Tutorial de la aplicación Workfront
+description: Obtenga información sobre la variedad de módulos útiles de activador, acción y búsqueda en la aplicación Workfront en  [!DNL Adobe Workfront Fusion].
 activity: use
 team: Technical Marketing
 type: Tutorial
@@ -11,21 +11,21 @@ jira: KT-9056
 exl-id: 12e5ff29-2efe-4ce3-b4a7-0778bdf5e427
 doc-type: video
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '63'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Tutorial de aplicación de Workfront
+# Tutorial de la aplicación Workfront
 
-En este vídeo, aprenderá lo siguiente:
+En este vídeo, aprenderá sobre lo siguiente:
 
-* Una variedad de útiles módulos de déclencheur, acción y búsqueda en la aplicación de Workfront
+* Una variedad de módulos útiles de activador, acción y búsqueda en la aplicación Workfront
 
 >[!VIDEO](https://video.tv.adobe.com/v/335297/?quality=12&learn=on)
 
 
 ## ¿Desea obtener más información? Recomendamos lo siguiente:
 
-[Documentación de Workfront Fusion](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/workfront-fusion-2.html?lang=en)
+[Documentación de Workfront Fusion](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/workfront-fusion-2.html?lang=es)
