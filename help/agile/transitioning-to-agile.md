@@ -1,6 +1,6 @@
 ---
 title: Transición a Agile
-description: Antes de pasar a una metodología Agile, revise algunos consejos y preguntas que puede hacer.
+description: Antes de cambiar a una metodología ágil, consulte algunos consejos y preguntas que debe hacer.
 feature: Agile
 role: Admin, Leader, User
 level: Intermediate
@@ -9,54 +9,54 @@ thumbnail: transitioning-to-agile.jpeg
 hide: true
 hidefromtoc: true
 exl-id: eaad6a3f-9d1a-4dbe-8187-09e25de605f1
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+source-git-commit: 23f4ab82d2823217c81a3fd37796e2a1260e7cf5
+workflow-type: ht
 source-wordcount: '554'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 # Transición a Agile
 
-## Preguntas que debe hacerse antes de realizar el cambio
+## Preguntas que debe hacer antes del cambio
 
-Antes de empezar a adoptar Agile, veamos algunas preguntas que le ayudarán a determinar si es la opción correcta o no.
+Antes de pasar a adoptar Agile, veamos algunas preguntas que le ayudarán a determinar si será o no adecuado.
 
-La primera pregunta que debe hacerse es: ¿se permitirán los incrementos de productos o funciones en su empresa? ¿Necesita poder cambiar el enfoque o la dirección de ese producto en medio del proceso? En otras palabras, ¿está iniciando un proyecto sin conocer todos los detalles de cómo se verá el producto final en función del entorno, los futuros avances tecnológicos o los deseos/necesidades futuros que no sean evidentes en este momento?
+La primera pregunta es: ¿se permitirá en su compañía la entrega de incrementos de productos o funciones? ¿Necesita poder cambiar el enfoque o la dirección de ese producto en medio del proceso? En otras palabras, ¿está iniciando un proyecto sin conocer todos los detalles de cómo se verá el producto final en relación con el entorno, los futuros avances tecnológicos o los futuros deseos/necesidades que no son evidentes en este momento?
 
-Si puede responder afirmativamente a las preguntas anteriores, hasta ahora, la transición a Agile tiene buen aspecto. Este es el segundo conjunto de preguntas, centradas en la infraestructura de su equipo:
+Si puede responder afirmativamente a las preguntas anteriores, de momento, la transición a Agile es una buena opción. A continuación se muestra el segundo conjunto de preguntas centradas en la infraestructura de su equipo:
 
-* ¿Están ubicados uno cerca del otro?
+* ¿Los integrantes están ubicados cerca?
 
-* ¿Pueden tener stand-ups diarios en persona?
+* ¿Se pueden celebrar reuniones breves diarias en persona?
 
-* Si el equipo no está geográficamente cerca, ¿cuenta con tecnología que les permita colaborar rápidamente?
+* Si el equipo no está geográficamente cerca, ¿dispone de tecnología que permita colaborar rápidamente?
 
-* ¿Puedes poner a todos en un horario diario similar?
+* ¿Puede conseguir que todo el mundo tenga una programación diaria similar para las reuniones breves?
 
-* ¿Podrán trabajar en iteraciones?
+* ¿Podrán trabajar en las iteraciones?
 
-* ¿Comúnmente se les asigna trabajo como equipo o todos reciben trabajo asignado de lugares aleatorios?
+* ¿Se les asigna trabajo en equipo o se les asigna a todos desde lugares aleatorios?
 
-* ¿Están los miembros de su grupo abiertos al cambio?
+* ¿Los miembros de su grupo están abiertos al cambio?
 
-* ¿Están dispuestos y pueden colaborar y discutir constructivamente los problemas a medida que surgen?
+* ¿Están dispuestos a colaborar y son capaces de debatir constructivamente los temas a medida que surgen?
 
-* ¿Tiene personas que puedan asumir el rol de gerente de producto o maestro de Scrum si utiliza ese estilo de Agile?
-
-
-Estos tipos de preguntas deben formularse y abordarse si cree que ciertos aspectos de un equipo pueden izar banderas rojas como barreras para la adopción de Agile. Aunque no todo es abarcador, esto debería poner en marcha la conversación antes de sumergirse.
+* ¿Tiene personas que puedan asumir la función de gestor de productos o líder de equipo de Scrum si utiliza ese estilo de Agile?
 
 
-## Educar a su equipo
-
-Una vez que se sienta cómodo avanzando con Agile, querrá empezar por educar a sus equipos de Agile sobre cómo pasarán a sus nuevas funciones, cuándo empezarán a tener stand-ups diarios y cómo pasarán su trabajo actual a su nueva configuración de guion gráfico.
+Se deberían plantear y abordar este tipo de preguntas si cree que ciertos aspectos de un equipo pueden suponer un obstáculo para la adopción de Agile. Aunque no lo abarque todo, esto debería servir para iniciar la conversación antes de entrar en materia.
 
 
-## Qué debe tener en cuenta una vez que comience Agile
+## Formación de su equipo
 
-Después de establecer los pasos de transición y asegurarse de que todos se sientan cómodos con el nuevo estilo de trabajo, querrá asegurarse de que está monitorizando y rastreando su progreso y éxito. Si están luchando para correr a la misma velocidad que antes, ¿qué puede estar causando esos problemas? Si el equipo no está actualizando historias con su estado actual, ¿se han definido claramente esos estados?
+Una vez que se sienta con confianza para avanzar con Agile, querrá comenzar por educar a sus equipos sobre cómo harán la transición a sus nuevos puestos, cuándo comenzarán a tener reuniones breves diarias y cómo van a pasar su trabajo actual a su nueva configuración de guion gráfico.
 
-El seguimiento del progreso o el éxito de un nuevo equipo Agile será muy beneficioso para dar al equipo confianza en los cambios que está incorporando. Además, tener estas métricas ayudará a justificar los beneficios de la transición de un equipo a Agile cuando se encuentre en reuniones de nivel superior.
 
-Por último, es importante proporcionar a su equipo y a los nuevos maestros de scrum un formulario que describa las preguntas útiles que deben hacerse durante las comparaciones diarias y las retrospectivas de iteración. Esto proporciona una excelente documentación para futuras revisiones del proceso. También le permite al equipo identificar las áreas que necesitan mejorarse y ayudarles a responder preguntas de las que tal vez no piensen hablar si son nuevos en Agile.
+## Qué tener en cuenta cuando comience con Agile
+
+Después de definir los pasos de la transición y de asegurarse de que todo el mundo se sienta cómodo con el nuevo estilo de trabajo, deberá asegurarse de monitorizar y hacer un seguimiento de su progreso y su éxito. Si les cuesta desempeñarse a la misma velocidad que antes, ¿qué puede estar causando ese problema? Si el equipo no está actualizando las historias con su estado actual, ¿se han definido claramente esos estados?
+
+El seguimiento del progreso o éxito de un nuevo equipo ágil será muy beneficioso para darle confianza respecto a los cambios que están incorporando. Además, disponer de estas métricas ayudará a justificar los beneficios de la transición de un equipo a Agile en reuniones de nivel superior. 
+
+Por último, es importante proporcionar a su equipo y a los nuevos líderes del equipo de Scrum un formulario que contemple las preguntas útiles que se deben hacer durante las reuniones breves diarias y las retrospectivas de iteración. Esto proporciona una excelente documentación para futuras revisiones del proceso. También permite que el equipo identifique las áreas que necesitan mejoras y le ayuda a responder preguntas que quizás no se le ocurriría comentar si son nuevos en Agile.
