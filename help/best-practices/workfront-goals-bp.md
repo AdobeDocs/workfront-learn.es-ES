@@ -1,31 +1,31 @@
 ---
-title: 'Práctica recomendada: Objetivos de Workfront'
-description: Explore las recomendaciones sobre prácticas recomendadas de los expertos de Adobe Workfront acerca de la configuración, administración y uso de los Objetivos de Workfront.
+title: 'Práctica recomendada: Workfront Goals'
+description: Explore las prácticas recomendadas de los expertos de Adobe Workfront sobre la configuración, la administración y el uso de los objetivos de Workfront.
 feature: Workfront Goals
 role: Admin, Leader, User
 level: Beginner
 jira: KT-10933
 exl-id: 08c65fae-2077-4b37-b051-bc39d978a923
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '481'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Práctica recomendada: Objetivos de Workfront
+# Práctica recomendada: Workfront Goals
 
-## ¿Cuál es una &quot;práctica recomendada&quot; de Adobe Workfront?
+## ¿Qué es una &quot;práctica recomendada&quot; de Adobe Workfront?
 
-Las prácticas recomendadas son directrices que representan un curso de acción eficaz y eficiente; que usted y los usuarios de su compañía adoptan fácilmente; y que se pueden replicar correctamente en toda la organización.
+Las prácticas recomendadas son directrices que representan un procedimiento eficaz y efectivo, se adoptan fácilmente en la compañía y se pueden replicar correctamente en toda la organización.
 
-Cuando revise estas recomendaciones, tenga en cuenta que algunas de las prácticas recomendadas de Workfront son universales, mientras que otras pueden ser más específicas del tema. Utilice estas prácticas recomendadas como marco de trabajo para guiar las configuraciones y el uso del sistema de Workfront.
+Al revisar estas recomendaciones, hay que tener en cuenta que algunas prácticas recomendadas de Workfront son universales, mientras que otras pueden ser más específicas del tema. Utilice estas prácticas recomendadas como marco de ayuda para guiar la configuración y el uso del sistema Workfront.
 
-## Navegar por esta página
+## Navegación de esta página
 
-A medida que se desplaza por esta página, primero encontrará una lista de alto nivel de todas las prácticas recomendadas para el tema. Esto le permite revisar las recomendaciones sin profundizar en los detalles del &quot;por qué&quot;.
+Al desplazarse por esta página, encontrará en primer lugar una lista de alto nivel de todas las prácticas recomendadas sobre el tema. Esto permite revisar las recomendaciones sin profundizar en los detalles de &quot;por qué&quot;.
 
-&quot;¿Por qué son estas prácticas recomendadas?&quot; , que se encuentra después de la lista de alto nivel, proporciona buenos detalles sobre algunas de las prácticas recomendadas y por qué se consideran un proceso, una herramienta, etc., debe considerar la implementación con su instancia de Workfront.
+El punto &quot;¿Por qué estas son prácticas recomendadas?&quot; se encuentra después de la lista de alto nivel, proporciona mayores detalles sobre algunas de las prácticas recomendadas y por qué se consideran un proceso, una herramienta, etc., cuya implementación se debe considerar al trabajar con Workfront.
 
 </br>
 </br>
@@ -33,49 +33,49 @@ A medida que se desplaza por esta página, primero encontrará una lista de alto
 
 ## Prácticas recomendadas sobre Workfront Goals
 
-* Comience con 3-5 objetivos a nivel de compañía como máximo.
+* Comience con tres o cinco metas a nivel de compañía como máximo.
 
-* Asigne el último objetivo de la jerarquía a un colaborador individual.
+* Asigne la última meta de la jerarquía a un colaborador individual.
 
-* Establezca una cadencia para la frecuencia con la que revisará y ajustará los objetivos.
+* Establezca una regularidad en la frecuencia con la que revisará y ajustará las metas.
 
 * Comience creando filtros para cada grupo.
 
-* Alinee las metas entre sí para definir claramente la estrategia de su organización para que cada objetivo cuente.
+* Alinee las metas entre sí para definir claramente la estrategia de su organización y hacer que todas las metas cuenten.
 
-* Colabore en toda la organización revisando las actualizaciones y los comentarios de las metas en la sección Impulso de las metas de Adobe Workfront.
+* Colabore en toda la organización revisando las actualizaciones y comentarios de las metas en la sección Adobe Workfront Goals Pulse.
 
 </br>
 </br>
 
-## ¿Por qué son estas prácticas recomendadas?
+## ¿Por qué estas son prácticas recomendadas?
 
 **Práctica recomendada**
 
-Comience con 3-5 objetivos a nivel de compañía como máximo.
+Comience con tres o cinco metas a nivel de compañía como máximo.
 
 
 
-**He aquí la razón**
+**A continuación se explica por qué**
 
-Manténgalo simple. Antes de configurar el sistema, determine entre 3 y 5 objetivos a nivel de compañía. Esto no solo le permitirá acceder fácilmente a la herramienta Objetivos, sino que también le ayudará a identificar fácilmente cuáles son las prioridades más importantes para la empresa y a determinar los objetivos que apoyarán dichas prioridades.
+Hágalo simple. Antes de configurar su sistema, determine entre tres y cinco metas a nivel de compañía. Esto no solo le permitirá acceder fácilmente a la herramienta Metas, sino que también le ayudará a identificar fácilmente cuáles son sus prioridades actuales más importantes para la compañía y a determinar las metas que respaldarán esas prioridades.
 
 </br>
 </br>
 
 **Práctica recomendada**
 
-Asigne el último objetivo de la jerarquía a un colaborador individual.
+Asigne la última meta de la jerarquía a un colaborador individual.
 
 
 
-**He aquí la razón**
+**A continuación se explica por qué**
 
-Esto crea una responsabilidad personal hacia el logro del objetivo general de la compañía.
+Esto crea una responsabilidad personal hacia el logro de la meta general de la compañía.
 
 
 
-Aunque puede crear una jerarquía compleja al alinear las metas, una jerarquía de metas verdadera significa que tiene colaboradores individuales en el último nivel de cada rama de la alineación de metas. Esto significa que pueden actualizar el progreso en sus propias metas, lo que a su vez actualiza el progreso general de las metas del equipo o grupo.
+Aunque puede crear una jerarquía compleja cuando alinea las metas, una jerarquía verdadera significa que tiene colaboradores individuales en el último nivel de cada rama de alineación de las metas. Esto significa que pueden actualizar el progreso en sus propias metas, que luego actualizan el progreso del equipo general o de la meta grupal.
 
 </br>
 </br>
@@ -83,13 +83,13 @@ Aunque puede crear una jerarquía compleja al alinear las metas, una jerarquía 
 
 **Práctica recomendada**
 
-Establezca una cadencia para la frecuencia con la que revisará y ajustará los objetivos.
+Establezca una regularidad en la frecuencia con la que revisará y ajustará las metas.
 
 
 
-**He aquí la razón**
+**A continuación se explica por qué**
 
-Tener una cadencia establecida para revisar los objetivos establecidos y evaluar la trayectoria empresarial para el futuro puede ayudar a su equipo a mantenerse en el camino correcto y verdaderamente alineado con la visión de la compañía.
+Tener regularidad para revisar las metas establecidas y evaluar la trayectoria de negocio para el futuro puede ayudar a su equipo a mantenerse en el camino verdaderamente alineado con la visión de la compañía.
 
 
 </br>
@@ -101,6 +101,6 @@ Comience creando filtros para cada grupo.
 
 
 
-**He aquí la razón**
+**A continuación se explica por qué**
 
-Esto ayudará a reducir la información que usted y su equipo necesitan para comprender lo que se debe hacer y elimina el exceso de información que, por el momento, puede ser abrumador.
+Esto ayudará a reducir la información que usted y su equipo necesitan para comprender lo que hay que hacer y eliminar el exceso de información que, por el momento, puede ser abrumador.
