@@ -1,6 +1,6 @@
 ---
 title: Buscar información financiera
-description: Aprenda a encontrar información financiera sobre un proyecto y comprenda de dónde procede.
+description: Descubra cómo encontrar información financiera sobre un proyecto y comprenda de dónde procede.
 activity: use
 feature: Work Management
 thumbnail: 335208.png
@@ -12,15 +12,15 @@ jira: KT-8948
 exl-id: 8b50c79a-d5b7-4127-8daf-8a449b3fe570
 doc-type: video
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '41'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 # Buscar información financiera
 
-En este vídeo, aprenderá a hacer lo siguiente:
+Este vídeo contiene información sobre:
 
 * Encuentre información financiera sobre un proyecto y comprenda de dónde procede.
 
