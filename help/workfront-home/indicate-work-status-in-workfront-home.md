@@ -1,6 +1,6 @@
 ---
-title: Cambiar el estado del trabajo asignado en [!UICONTROL Inicio]
-description: Aprenda a cambiar el estado de las asignaciones para indicar que el trabajo está en curso desde el [!UICONTROL Inicio] página. Comprender por qué el estado es importante en [!DNL  Workfront].
+title: Cambio del estado del trabajo asignado en [!UICONTROL Inicio]
+description: Obtenga información sobre cómo cambiar el estado de las asignaciones para indicar que el trabajo está en curso desde la página [!UICONTROL Inicio]. Información sobre por qué el estado es importante en  [!DNL  Workfront].
 feature: Work Management
 type: Tutorial
 role: User
@@ -12,30 +12,30 @@ jira: KT-8800
 exl-id: c871cb18-65a3-4451-929d-f50cb3544b8d
 doc-type: video
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '174'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Cambiar el estado de las asignaciones de trabajo en [!DNL Workfront] [!UICONTROL Inicio]
+# Cambiar el estado de las asignaciones de trabajo en el [!UICONTROL Inicio] de [!DNL Workfront]
 
-En este vídeo, aprenderá lo siguiente:
+Este vídeo contiene información sobre:
 
 * El propósito del estado en [!DNL  Workfront]
-* Cómo cambiar el estado de las asignaciones de trabajo
+* Cambio del estado de las asignaciones de trabajo
 
 >[!VIDEO](https://video.tv.adobe.com/v/335101/?quality=12&learn=on)
 
-## Inicio frente a trabajo en ello
+## Iniciar o trabajar en él
 
-Al revisar sus asignaciones de trabajo en [!UICONTROL Inicio], puede que observe un botón que dice [!UICONTROL Iniciar tarea] o [!UICONTROL Iniciar problema].
+Mientras revisa sus asignaciones de trabajo en [!UICONTROL Inicio], puede observar un botón que dice [!UICONTROL Iniciar tarea] o [!UICONTROL Iniciar problema].
 
-![[!DNL Workfront] [!UICONTROL Inicio] página donde dice el botón [!UICONTROL Iniciar tarea].](assets/worker-fundamentals-1.png)
+Página de [!UICONTROL Inicio] de ![[!DNL Workfront] con el botón [!UICONTROL Iniciar tarea].](assets/worker-fundamentals-1.png)
 
-Al hacer clic en [!UICONTROL Iniciar tarea]Sin embargo, esto cambia automáticamente el estado de la tarea a En curso (o un estado que sea equivalente en su organización).
+Al hacer clic en [!UICONTROL Iniciar tarea], cambia automáticamente el estado de la tarea a En curso (o un estado equivalente en su organización).
 
-Algunos equipos pueden ver una [!UICONTROL Trabajar en ello] botón en su lugar. En ese caso, indica que acepta la asignación, pero que aún no ha empezado a trabajar en el elemento. El estado de la tarea no cambia.
+Es posible que algunos equipos vean un botón [!UICONTROL Trabajar en ello] en su lugar. En ese caso, está diciendo que acepta la asignación, pero aún no ha empezado a trabajar en el elemento. El estado de la tarea no cambia.
 
 El nombre y la funcionalidad del botón están determinados por el administrador del sistema o del grupo y por los flujos de trabajo y procesos de la organización.
 
