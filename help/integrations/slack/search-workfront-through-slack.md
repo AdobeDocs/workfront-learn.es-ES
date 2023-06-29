@@ -1,6 +1,6 @@
 ---
-title: Buscar en Workfront mediante [!DNL Slack]
-description: Aprenda a buscar [!DNL Workfront] mediante el Slack
+title: Búsqueda de Workfront a través de  [!DNL Slack]
+description: Obtenga información sobre cómo buscar  [!DNL Workfront]  a través de Slack
 activity: use
 feature: Workfront Integrations and Apps
 type: Tutorial
@@ -10,17 +10,17 @@ team: Technical Marketing
 jira: KT-8821
 exl-id: cb0ec783-0e2c-498d-a481-63617eddae8e
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+source-git-commit: 23f4ab82d2823217c81a3fd37796e2a1260e7cf5
+workflow-type: ht
 source-wordcount: '21'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Buscar [!DNL Workfront] mediante [!DNL Slack]
+# Búsqueda de [!DNL Workfront] a través de [!DNL Slack]
 
-En este vídeo, aprenderá a hacer lo siguiente:
+Este vídeo contiene información sobre:
 
-* Buscar [!DNL Workfront] mediante [!DNL Slack]
+* Búsqueda de [!DNL Workfront] a través de [!DNL Slack]
 
 >[!VIDEO](https://video.tv.adobe.com/v/335121/?quality=12&learn=on)
