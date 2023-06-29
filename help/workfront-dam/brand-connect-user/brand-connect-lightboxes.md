@@ -1,6 +1,6 @@
 ---
-title: Explicación de Lightboxes en Brand Connect
-description: Aprenda a crear, utilizar, administrar, compartir y colaborar en un Lightbox en Brand Connect de [!UICONTROL WORKFRONT DAM].
+title: Explicación de los Lightboxes en Brand Connect
+description: Obtenga información sobre cómo crear, utilizar, administrar, compartir y colaborar un lightbox en Brand Connect de [!UICONTROL DAM de Workfront].
 activity: use
 feature: Digital Content and Documents
 type: Tutorial
@@ -11,24 +11,24 @@ jira: KT-8986
 exl-id: 54447f9b-8f5e-4b5b-9298-232024064b4a
 doc-type: video
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '110'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Brand Connect: Lightboxes
+# Brand Connect: lightboxes
 
-En este vídeo, aprenderá a hacer lo siguiente:
+Este vídeo contiene información sobre:
 
-* Uso de una caja de luz para recopilar recursos y facilitar el acceso
+* Utilice un lightbox para recopilar recursos para acceder fácilmente
 * Creación de un lightbox y adición de archivos
-* Uso compartido de Lightbox
-* Ver y administrar Lightboxes
-* Colaboración en una Lightbox
+* Compartir un lightbox
+* Ver y administrar lightboxes
+* Colaborar en un lightbox
 
 >[!VIDEO](https://video.tv.adobe.com/v/335248/?quality=12&learn=on)
 
 ## Lightboxes frente a carpetas
 
-Las carpetas se utilizan para almacenar y organizar recursos. No puede crear carpetas en Brand Connect. Los Lightboxes permiten recopilar vínculos a recursos de diferentes carpetas en un solo lugar. Por ejemplo, puede utilizar un Lightbox para recopilar recursos relacionados con los materiales publicitarios de venta de invierno.
+Las carpetas se utilizan para almacenar y organizar recursos. No puede crear carpetas en Brand Connect. Los lightboxes permiten recopilar vínculos a recursos de distintas carpetas en un solo lugar. Por ejemplo, puede utilizar un lightbox para recopilar recursos relacionados con los materiales publicitarios de venta en invierno.
