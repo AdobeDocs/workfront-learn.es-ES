@@ -1,6 +1,6 @@
 ---
-title: Establezca una visión y una estrategia
-description: Aprenda a articular el "qué" y el "por qué" durante la fase de planificación, los objetivos de ejemplo y el alcance de la influencia.
+title: Establecer una visión y una estrategia
+description: Aprenda a articular el “qué” y el “por qué” durante la fase de planificación, las metas de ejemplo y el ámbito de influencia.
 activity: use
 feature: Workfront Goals
 type: Tutorial
@@ -11,49 +11,49 @@ jira: KT-8891
 exl-id: a1062cb3-94cb-4996-9352-dc15c6ae2a9a
 doc-type: video
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '572'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Establezca una visión y una estrategia
+# Establecer una visión y una estrategia
 
-En este vídeo, aprenderá lo siguiente:
+En este vídeo, aprenderá sobre lo siguiente:
 
-* Articulación del &quot;qué&quot; y el &quot;por qué&quot; durante la fase de planificación
-* Ejemplo de metas
+* Articulación del “qué” y del “por qué” durante la fase de planificación
+* Metas de ejemplo
 * Ámbito de influencia
 
 >[!VIDEO](https://video.tv.adobe.com/v/335185/?quality=12&learn=on)
 
-## Planifique una cadencia para revisiones y mantenimiento regulares
+## Planificar una cadencia para revisiones y mantenimiento regulares
 
-Su cadencia para planificar ceremonias, actividades y supervisión es tan importante como los detalles del plan en sí. La planificación moderna es continua y fluctuante. Debe anticipar la monitorización, la revisión y los ajustes a lo largo del camino. Al hacerlo, puede corregir el curso para alinearse con el resultado deseado.
+Su cadencia para la planificación de ceremonias, actividades y monitorización es tan importante como los detalles del plan en sí. La planificación moderna es continua y fluctúa. Debería anticipar la monitorización, revisión y ajuste a lo largo del proceso. Al hacerlo, puede corregir el curso para alinearlo con el resultado deseado.
 
-La alineación depende de la creación de una cultura que pueda dejar ir los esfuerzos de trabajo no impactantes. A menudo, nuestros proyectos y su finalización se convierten en nuestro único objetivo. Si bien es posible que impulsemos la conclusión de la labor, esto puede llevar al fracaso final del logro del objetivo final porque la labor dejó de ser pertinente para el resultado original.
+La alineación depende de la creación de una cultura que pueda dejar de lado los esfuerzos de trabajo sin impacto. A menudo, nuestros proyectos y su finalización se convierten en nuestro único foco. Si bien es posible que impulsemos la conclusión de los trabajos, esto puede llevar a que en última instancia no se logre la meta final porque la labor dejó de ser pertinente para el resultado original.
 
-Una cadencia tradicional para un ciclo de planificación a largo plazo/a corto plazo puede ser de 12 meses/3 meses. O podría ser 6 meses/1 mes o algo más.
+Una cadencia tradicional para un ciclo de planificación a largo plazo/a corto plazo puede ser de 12 a tres meses. O podría ser de seis meses o un mes y algo más.
 
-Tenga en cuenta estos conceptos a la hora de determinar la cadencia adecuada para su organización.
+Tenga en cuenta estos conceptos al determinar la cadencia adecuada para su organización.
 
-* En el entorno empresarial actual, los factores internos y externos son más volátiles y cambian con frecuencia. Para abordar estos factores estratégicamente, las revisiones y ajustes de los objetivos a más corto plazo deben ser de un mínimo de cada 3 meses.
+* En el entorno empresarial actual, los factores internos y externos son más volátiles y cambian con frecuencia. Para hacer frente a estos factores de manera estratégica, las revisiones y ajustes de los objetivos a corto plazo deben ser como mínimo cada tres meses.
 
-* Cada revisión debe incluir tiempo para reflexionar sobre los logros y esfuerzos pasados, y evaluar la trayectoria comercial para el futuro. Pregúntese a usted y a sus equipos... ¿todavía estamos en el camino?
+* Cada examen debería incluir tiempo para reflexionar sobre los logros y esfuerzos anteriores y evaluar la trayectoria de las actividades para el futuro. Pregúntese a sí mismo y pregunte a sus equipos... ¿Seguimos por buen camino?
 
-La siguiente figura ilustra la relación y el carácter cíclico de esta cadencia, entre no solo los objetivos a largo y a corto plazo, sino también los esfuerzos de trabajo a largo y a corto plazo.
+En la siguiente figura se ilustra la relación y el carácter cíclico de esta cadencia, no solo entre las metas a largo y corto plazo, sino también los esfuerzos de trabajo a largo y corto plazo.
 
-![Gráfico de un ciclo de ejecución estratégico](assets/02-workfront-goals-strategic-execution-cycle.png)
+![Gráfico de un ciclo de ejecución estratégica](assets/02-workfront-goals-strategic-execution-cycle.png)
 
-1. **Objetivos a largo plazo** suelen ser objetivos empresariales u organizativos más amplios que tardan 12 meses o más en alcanzarse. No es probable que se logren con esfuerzos de trabajo singulares. La mayoría de las empresas y organizaciones tienen un par de niveles de estas metas a largo plazo en la cima de la jerarquía que unen objetivos a corto plazo bajo una única meta final amplia.
-1. **Iniciativas a largo plazo** representan la estimación de alto nivel del esfuerzo de trabajo asignado para dirigir las operaciones. En última instancia, estas iniciativas se refinarán en esfuerzos de trabajo más consumibles (es decir, proyectos, tareas, etc.). Si bien estos suelen ser esfuerzos de trabajo más largos, por ejemplo 12 o más meses, en algunos casos pueden ser una agrupación de varias iniciativas de 6 o más meses de duración que corresponden al mismo resultado.
-1. **Objetivos a corto plazo** son los objetivos establecidos por sus recursos y equipos que se alinean con resultados de tipo más hito. Todos estos logros segmentados contribuyen al logro general de los objetivos a largo plazo de su empresa u organización.
-1. **Proyectos a corto plazo** hacer referencia al ámbito de trabajo definido con más precisión que se requiere para cumplir los objetivos a corto plazo. Pueden ser proyectos aislados o proyectos que formen parte de una iniciativa más amplia.
+1. Las **metas a largo plazo**, por lo general, son objetivos empresariales u organizativos más amplios que tardarán 12 meses o más en alcanzarse. No es probable que se logren con esfuerzos de trabajo singulares. La mayoría de las empresas y organizaciones tienen un par de niveles de estas metas a más largo plazo en la cima de la jerarquía que unen los objetivos a corto plazo bajo una única meta final amplia.
+1. Las **Iniciativas a largo plazo** representan la estimación de alto nivel del esfuerzo laboral que se asigna para impulsar operaciones. En última instancia, estas iniciativas se plasmarán en esfuerzos de trabajo más funcionales (por ejemplo, proyectos, tareas, etc.). Aunque estos suelen ser esfuerzos de trabajo más largos, por ejemplo de 12 o más, en algunos casos pueden ser una agrupación de varias iniciativas de seis meses o más de duración que correspondan al mismo resultado.
+1. Las **metas a corto plazo** son los objetivos establecidos por las personas y los equipos que se alinean con los resultados de tipo hito. Todos estos logros segmentados contribuyen al logro general de las metas a largo plazo de su empresa u organización.
+1. Los **proyectos a corto plazo** se refieren al ámbito de trabajo más limitado que se requiere para alcanzar las metas a corto plazo. Pueden ser proyectos aislados o proyectos que forman parte de una iniciativa más amplia.
 
 <!--
 Your turn graphic
 -->
 
-Dediquemos un minuto a la práctica y a aplicar lo que ha aprendido hasta ahora. Comience por trazar un conjunto inicial de objetivos para su equipo. Es posible que haya oído que esto se denomina objetivos en cascada o jerarquía de metas. Observe cómo todos se vinculan de nuevo a la meta a largo plazo y se suceden desde allí. No se preocupe por ser demasiado definitivo en esta fase. Esta es tu oportunidad de poner todos tus objetivos sobre la mesa. Refinaremos estos más a medida que avancemos.
+Tomemos un minuto para practicar y aplicar lo que ha aprendido hasta ahora. Comience asignando un conjunto inicial de metas para su equipo. Puede que haya oído que esto se denomina metas en cascada o jerarquía de metas. Observe cómo todos se vinculan a la meta a largo plazo y a la cascada desde allí. No se preocupe por ser demasiado preciso en esta fase. Esta es su oportunidad de proponer todas las metas que desea alcanzar. Se perfeccionan a medida que avanza.
 
-![Un gráfico de mapeo de objetivos a corto y largo plazo](assets/03-workfront-goals-goal-mapping.png)
+![Un gráfico de asignación de metas a corto y largo plazo](assets/03-workfront-goals-goal-mapping.png)
