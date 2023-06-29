@@ -1,6 +1,6 @@
 ---
-title: Administrar comentarios de revisión
-description: Obtenga información sobre cómo administrar los comentarios de prueba en [!DNL  Workfront] al aplicar acciones de comentario, resolver comentarios y filtrar la columna comentarios.
+title: Administrar comentarios de la prueba
+description: Obtenga información sobre cómo administrar los comentarios de prueba en  [!DNL  Workfront]  al aplicar acciones de comentario, resolviendo comentarios y filtrando la columna comentarios.
 activity: use
 team: Technical Marketing
 feature: Workfront Proof
@@ -10,46 +10,46 @@ level: Beginner
 thumbnail: manage-proof-comments.png
 jira: KT-10109
 exl-id: 603023f3-f79e-414c-a6da-1f42c234c63d
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+source-git-commit: 23f4ab82d2823217c81a3fd37796e2a1260e7cf5
+workflow-type: ht
 source-wordcount: '444'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Administrar comentarios de revisión
+# Administrar comentarios de la prueba
 
-[!DNL Workfront] le ayuda a realizar un seguimiento y administrar el trabajo relacionado con cada comentario en una prueba, como realizar correcciones en el recurso, con acciones de comentario o resolviendo comentarios.
+[!DNL Workfront] le ayuda a realizar el seguimiento y administrar el trabajo relacionado con cada comentario de una prueba (por ejemplo, hacer correcciones en el recurso) con acciones de comentarios o resolviendo comentarios.
 
-Las acciones de prueba son un &quot;indicador&quot; o una &quot;etiqueta&quot; en un comentario y se utilizan a menudo para indicar que se ha realizado o debe realizarse una acción con respecto al comentario. Se pueden seleccionar acciones desde el icono o desde el menú Más en cada comentario.
+Las acciones de prueba son un “indicador” o una “etiqueta” en un comentario y se utilizan a menudo para indicar que se ha realizado una acción o que es necesario realizar una acción con respecto al comentario. Se pueden seleccionar acciones del icono o del menú Más de cada comentario.
 
-![Imagen de una prueba en el visor de pruebas con el icono de indicador resaltado en el comentario y las acciones de prueba disponibles visibles.](assets/manage-comments-1.png)
+![Una imagen de una prueba en el visualizador de pruebas con el icono de indicador resaltado en el comentario y las acciones de prueba disponibles visibles.](assets/manage-comments-1.png)
 
-Por ejemplo, usted es responsable de decidir cuál de las correcciones realizadas durante el proceso de revisión se debe realizar realmente. Con una acción, puede marcar los comentarios relevantes, permitiendo que un diseñador o editor sepa qué revisiones realizar. Esa persona puede utilizar otra acción para indicar que se han realizado los cambios.
+Por ejemplo, usted es responsable de decidir cuál de las correcciones hechas durante el proceso de revisión debe realizarse realmente. Al utilizar una acción, puede marcar los comentarios relevantes, lo que permite que un diseñador o editor sepa qué revisiones realizar. Esa persona puede usar otra acción para indicar que se han realizado los cambios.
 
-![Una imagen de una prueba en el visor de pruebas con el [!UICONTROL Por hacer] acción de prueba resaltada en el comentario.](assets/manage-comments-2.png)
+![Una imagen de una prueba en el visualizador de pruebas con la acción de prueba [!UICONTROL tarea pendiente] resaltada en el comentario.](assets/manage-comments-2.png)
 
-Si no ve acciones en los comentarios, significa que su organización no las ha configurado. Hable con el administrador del sistema de revisión si cree que las acciones son algo que su organización debe utilizar.
+Si no ve acciones en la lista de comentarios, su organización no las ha configurado. Póngase en contacto con el administrador del sistema de pruebas si cree que las acciones son algo que su organización debe utilizar.
 
-La función &quot;resolver comentario&quot; se utiliza comúnmente para indicar que un comentario se ha abordado de alguna manera: se ha realizado una corrección o se ha respondido a una pregunta. Algunos [!DNL Workfront] Los clientes de &quot;resuelven&quot; un comentario cuando es una corrección que no necesita realizarse o cuando solo es un comentario que se ha leído.
+La función “resolver comentario” se utiliza comúnmente para indicar que un comentario se ha abordado de alguna manera: se ha realizado una corrección o se ha respondido a una pregunta. Algunos clientes de [!DNL Workfront] “resuelven” un comentario cuando se trata de una corrección que no necesita hacerse o simplemente de un comentario que ya se ha leído.
 
-Resuelva el comentario haciendo clic en el icono de marca de verificación. Esto coloca una marca de verificación verde en el comentario, lo que facilita la identificación de qué comentarios se han revisado a medida que analiza la columna de comentarios.
+Resuelva el comentario haciendo clic en el icono de marca de verificación. Esto coloca una marca de verificación verde en el comentario, lo que facilita la identificación de los comentarios que se han revisado a medida que se analizan en la columna de comentarios.
 
-![Imagen de una prueba en el visor de pruebas con el icono de marca de verificación resaltado en el comentario.](assets/manage-comments-4.png)
+![Una imagen de una prueba en el visualizador de pruebas con el icono de marca de verificación resaltado en el comentario.](assets/manage-comments-4.png)
 
-Puede filtrar la columna de comentarios por ambas funciones, lo que le ayuda a depurar lo que ve mientras trabaja con la prueba.
+Puede filtrar la columna de comentarios según ambas funciones, lo que le ayuda a depurar lo que ve mientras trabaja con la prueba.
 
-![Una imagen de los filtros de comentario en el visor de pruebas con el [!UICONTROL Acciones] y [!UICONTROL General] opciones de filtrado resaltadas.](assets/manage-comments-3.png)
+![Una imagen de los filtros de comentario en el visualizador de pruebas con las [!UICONTROL Acciones] y las opciones [!UICONTROL generales] de filtrado resaltadas.](assets/manage-comments-3.png)
 
-## Tu turno
+## Su turno
 
 >[!IMPORTANT]
 >
->Recuerde a los compañeros asignados a un flujo de trabajo de prueba que está trabajando con pruebas como parte de su formación de Workfront.
+>Recuerde a los compañeros de trabajo asignados a un flujo de trabajo de prueba que está trabajando con pruebas como parte de su formación en Workfront.
 
 
-1. Busque una revisión que haya cargado en Workfront. Abra el visor de pruebas para ver los comentarios realizados y responder a un comentario. Cierre el visor de pruebas cuando haya terminado.
-1. Utilice la sección Actualizaciones, ya sea en el panel Detalles del documento o en el panel de resumen, para ver los comentarios más recientes sobre una revisión que ha cargado en Workfront. Responder a un comentario.
+1. Encuentre una prueba que haya cargado en Workfront. Abra el visualizador de pruebas para ver los comentarios realizados y responder a un comentario. Ciérrelo cuando haya terminado.
+1. Utilice la sección Actualizaciones (ya sea en los Detalles del documento o en el panel de resumen) para ver los comentarios más recientes sobre una prueba que haya cargado en Workfront. Responda a un comentario.
 
 
 <!--
