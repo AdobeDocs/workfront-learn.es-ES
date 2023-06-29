@@ -1,6 +1,6 @@
 ---
-title: Administrar columnas del tablero
-description: Obtenga información sobre cómo editar, añadir, reorganizar y eliminar columnas en un tablero.
+title: Administrar columnas de tablero
+description: Descubra cómo editar, agregar, reorganizar y eliminar columnas en un tablero.
 feature: Agile
 activity: deploy
 type: Tutorial
@@ -11,14 +11,14 @@ level: Beginner
 exl-id: 50a1b0f4-1857-43cf-a8ae-1ebb2344afa0
 doc-type: video
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '32'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Administrar columnas del tablero
+# Administrar columnas de tablero
 
-Obtenga información sobre cómo editar, añadir, reorganizar y eliminar columnas en un tablero.
+Descubra cómo editar, agregar, reorganizar y eliminar columnas en un tablero.
 
 >[!VIDEO](https://video.tv.adobe.com/v/346570)
