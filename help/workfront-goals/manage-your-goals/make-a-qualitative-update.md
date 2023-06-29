@@ -1,5 +1,5 @@
 ---
-title: Realice una actualización cualitativa en [!DNL Workfront Goals]
+title: Realice una actualización cualitativa en  [!DNL Workfront Goals]
 description: Aprenda a realizar una actualización cualitativa o escrita en [!DNL Goals].
 activity: use
 feature: Workfront Goals
@@ -10,19 +10,19 @@ team: Technical Marketing
 jira: KT-8925
 exl-id: 92d40d56-0a25-488b-9308-64ddfe545baa
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+source-git-commit: 23f4ab82d2823217c81a3fd37796e2a1260e7cf5
+workflow-type: ht
 source-wordcount: '118'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Realización de una actualización cualitativa
+# Realizar una actualización cualitativa
 
-Las actualizaciones cualitativas o escritas se pueden realizar en varias áreas de [!DNL Workfront Goals]. Puede agregar comentarios a los objetivos en la [!UICONTROL Detalles de meta] , el panel [!UICONTROL Check-in] o la sección [!UICONTROL Pulse] sección. Aunque el proceso para agregar comentarios a los objetivos es similar en estas áreas, existen diferencias entre poder editar, eliminar o reaccionar a un comentario cuando se utiliza un área y otro. Cuando se escribe un comentario en cualquiera de estas áreas, el comentario es visible en todas las áreas en las que se muestran comentarios de objetivos.
+Se pueden realizar actualizaciones cualitativas o escritas en varias áreas de [!DNL Workfront Goals]. Puede agregar comentarios a las metas en el panel [!UICONTROL Detalles de la meta], la sección [!UICONTROL Registro] o la sección [!UICONTROL Pulso] para obtener más información. Aunque el proceso para añadir comentarios a las metas es similar en estas áreas, existen diferencias en la capacidad de editar, eliminar o reaccionar a un comentario al utilizar un área en lugar de otra. Cuando se introduce un comentario en cualquiera de estas áreas, el comentario es visible en todas las áreas donde se muestran los comentarios de la meta.
 
-En este vídeo, aprenderá a hacer lo siguiente:
+Este vídeo contiene información sobre:
 
-* Realización de una actualización cualitativa o escrita
+* Realizar una actualización cualitativa o escrita
 
 >[!VIDEO](https://video.tv.adobe.com/v/335197/?quality=12&learn=on)
