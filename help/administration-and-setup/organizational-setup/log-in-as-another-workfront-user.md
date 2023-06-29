@@ -11,40 +11,40 @@ thumbnail: 10104.jpeg
 jira: KT-10104
 exl-id: 7a29d9e9-6b19-4ca7-86ed-9fcb65050f29
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '255'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 # Iniciar sesión como otro usuario
 
-Una característica que los administradores de Workfront encuentran útil a la hora de configurar la experiencia del usuario es la función Iniciar sesión como. Esta función, en el [!UICONTROL Configurar] , le permite iniciar sesión como otro usuario sin tener que cerrar la sesión de su propia cuenta.
+Una característica que los administradores de Workfront encuentran útil cuando configuran la experiencia del usuario es la función Iniciar sesión como. Esta función, en el área [!UICONTROL Configuración], le permite iniciar sesión como otro usuario sin tener que salir de su propia cuenta.
 
-![[!UICONTROL Iniciar sesión como] página en [!UICONTROL Configurar] área](assets/admin-fund-log-in-as-1.png)
+Página ![[!UICONTROL Iniciar sesión como] en el área [!UICONTROL Configuración]](assets/admin-fund-log-in-as-1.png)
 
-## Ventajas de iniciar sesión como
+## Ventajas de Iniciar sesión como
 
-Esta función es útil por varios motivos:
+Esta función es útil por varios motivos.
 
 * Los administradores pueden obtener una vista previa de las plantillas de diseño asignadas a los usuarios para asegurarse de que los elementos de menú o los paneles se muestran correctamente.
-* Durante las pruebas del flujo de trabajo, resulta útil asegurarse de que los permisos de un usuario estén correctamente configurados.
-* Los administradores incluso pueden utilizar esta función para marcar una tarea como completada o para aprobar a alguien que no pueda hacerlo.
+* Resulta útil durante la prueba del flujo de trabajo para garantizar que los permisos de un usuario están correctamente configurados.
+* Los administradores incluso pueden aprovechar esta función para marcar una tarea como completada o realizar una aprobación para alguien que no pueda.
 
-## Acceder Iniciar sesión como
+## Acceso a Iniciar sesión como
 
-1. Seleccionar **[!UICONTROL Configurar]** desde el **[!DNL Main Menu]**.
-1. Clic **[!UICONTROL Iniciar sesión como]** en el panel izquierdo.
-1. Introduzca el nombre del usuario con el que debe iniciar sesión.
+1. Seleccione **[!UICONTROL Configuración]** en el **[!DNL Main Menu]**.
+1. Haga clic en **[!UICONTROL Iniciar sesión como]** en el panel izquierdo.
+1. Introduzca el nombre de usuario con el que desea iniciar sesión.
 
-![[!UICONTROL Acceder al registro] pestaña activada [!UICONTROL Iniciar sesión como] página](assets/admin-fund-log-in-as-3.png)
+Pestaña ![[!UICONTROL Registro de acceso] de la página [!UICONTROL Iniciar sesión como]](assets/admin-fund-log-in-as-3.png)
 
-Una vez que haya iniciado sesión, aparecerá una notificación en la parte superior de la pantalla que indica con quién ha iniciado sesión.
+Una vez iniciada la sesión, una notificación en la parte superior de la pantalla le indicará como quién ha iniciado sesión.
 
-![[!UICONTROL Ha iniciado sesión como] Mensaje en la parte superior de [!DNL Workfront] ventana](assets/admin-fund-log-in-as-2.png)
+Mensaje ![[!UICONTROL Actualmente identificado como] en la parte superior de la ventana de [!DNL Workfront]](assets/admin-fund-log-in-as-2.png)
 
-## La pestaña Actualizaciones rastrea la actividad
+## Seguimiento de actividad en la pestaña Actualizaciones
 
-Cuando un administrador de se conecta como otro usuario y realiza cambios/actualizaciones en nombre de ese usuario, los cambios se ven en el área de Actualizaciones de ese elemento específico. El ejemplo siguiente muestra que Joan Harris cambió una fecha límite en nombre de Roy Campbell.
+Cuando un administrador inicia sesión como otro usuario y efectúa cambios/actualizaciones en nombre de este, las modificaciones se ven en el área Actualizaciones para ese elemento específico. El siguiente ejemplo muestra cómo Joan Harris cambió una fecha de vencimiento en nombre de Roy Campbell.
 
-![Actualiza la sección](assets/admin-fund-log-in-as-4.png)
+Sección de ![[!UICONTROL Actualizaciones]](assets/admin-fund-log-in-as-4.png)
