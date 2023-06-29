@@ -1,6 +1,6 @@
 ---
-title: Vaya a Brand Portal en [!UICONTROL WORKFRONT DAM]
-description: Obtenga información sobre cómo acceder a Brand Portal en [!UICONTROL WORKFRONT DAM], cree carpetas, establezca fechas de caducidad en recursos individuales y edite la configuración de recursos.
+title: Navegación a Brand Portal en [!UICONTROL DAM de Workfront]
+description: Obtenga información sobre cómo acceder a Brand Portal en [!UICONTROL DAM de Workfront], crear carpetas, definir fechas de caducidad en recursos individuales y editar la configuración de recursos.
 activity: use
 feature: Digital Content and Documents
 type: Tutorial
@@ -11,29 +11,29 @@ jira: KT-8966
 exl-id: e882bcce-0e17-4040-9cbd-a3506f6ee099
 doc-type: video
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '238'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Brand Connect: Introducción y creación de carpetas de Brand Portal
+# Brand Connect: introducción y creación de carpetas de Brand Portal
 
-En este vídeo, aprenderá a hacer lo siguiente:
+Este vídeo contiene información sobre:
 
-* Acceso a Brand Portal
-* Crear carpetas y establecer la configuración de la carpeta
-* Establecer fechas de caducidad para recursos individuales
+* Acceder a Brand Portal
+* Crear carpetas y establecer la configuración de carpetas
+* Establecer fechas de caducidad en recursos individuales
 * Editar configuración de recursos
 
 >[!VIDEO](https://video.tv.adobe.com/v/335229/?quality=12&learn=on)
 
 ## Carpetas de recursos
 
-Las carpetas tienen varios propósitos en [!UICONTROL WORKFRONT DAM]. En primer lugar, son un medio para organizar los recursos. En segundo lugar, se utilizan para otorgar a diferentes grupos de usuarios acceso a los recursos de las carpetas.
+Las carpetas tienen varios propósitos en [!UICONTROL DAM de Workfront]. En primer lugar, son un medio para organizar los recursos. En segundo lugar, sirven para conceder a diferentes grupos de usuarios acceso a los recursos de las carpetas.
 
-Algunos usuarios explorarán las carpetas para encontrar los recursos que desean en lugar de buscar. Una estructura de carpetas lógica y bien pensada llevará a estos usuarios al lugar correcto. Algunos [!UICONTROL WORKFRONT DAM] los clientes organizan las carpetas por departamento, tipo de archivo, asunto del recurso, producto, evento o flujo de trabajo. Pero lo que funciona para una organización puede no funcionar para otra.
+Algunos usuarios examinarán las carpetas para encontrar los recursos que desean, en lugar de buscarlos. Una estructura de carpetas lógica y pensada los dirigirá al lugar correcto. Algunos clientes de [!UICONTROL DAM de Workfront] organizan las carpetas por departamento, tipo de archivo, tema del recurso, producto, evento o flujo de trabajo. Pero lo que funciona para una organización puede no funcionar para otra.
 
-Las carpetas también son el modo en que se concede a los usuarios acceso a los recursos. Los usuarios se organizan en grupos y, a continuación, se concede permiso a los grupos para acceder a las carpetas. Los permisos de las carpetas pueden variar según el grupo: solo visualización, carga de recursos, descarga de recursos, edición de recursos, etc.
+Las carpetas también son la forma en que se concede a los usuarios acceso a los recursos. Los usuarios se organizan en grupos y luego se concede permiso a los grupos para acceder a las carpetas. Los permisos de las carpetas pueden variar según el grupo: solo vista, cargar recursos, descargarlos, editarlos, etc.
 
-Al crear carpetas y carpetas anidadas, tenga en cuenta los grupos y usuarios que deberán acceder a los recursos de las carpetas. La estructura de los grupos puede afectar a la forma en que se organizan las carpetas, y la forma en que se organizan las carpetas puede afectar a la forma en que se crean los grupos.
+Al crear carpetas y carpetas anidadas, tenga en cuenta los grupos y usuarios que necesitarán acceder a los recursos dentro de las carpetas. La estructura de los grupos podría afectar a la forma en que se organizan las carpetas, y la manera en que se ordenan estas últimas podría influir en cómo se crean los grupos.
