@@ -1,6 +1,6 @@
 ---
 title: Introducción a la administración de un proyecto
-description: Descubra cuál es su función como jefe de proyecto y qué ver al supervisar el trabajo del proyecto.
+description: Conozca cuál es su función como administrador de proyectos y en qué fijarse al monitorizar el trabajo.
 activity: use
 feature: Work Management
 thumbnail: 335094.jpeg
@@ -12,35 +12,35 @@ jira: KT-8781
 exl-id: 4202941d-eb2d-43b5-91e8-06b0076a470d
 doc-type: video
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '183'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 # Introducción a la administración de un proyecto
 
-En este vídeo, aprenderá lo siguiente:
+Este vídeo contiene información sobre:
 
-* Aspectos a tener en cuenta al supervisar el trabajo del proyecto
-* Su función como jefe de proyecto
+* En qué fijarse al monitorizar el trabajo de un proyecto
+* Cuál es su función como administrador de proyectos
 
 >[!VIDEO](https://video.tv.adobe.com/v/335094/?quality=12&learn=on)
 
 ## Administración de un proyecto: revisión
 
-Con cada proyecto que administre, establecerá una rutina de cuándo revisar los proyectos y qué desea revisar cada vez. Mantenerse al día de sus proyectos y conducirlos al éxito es de lo que se trata ser gerente de proyecto.
+Con cada proyecto que administre, establecerá una rutina de cuándo revisar los proyectos y qué debe examinar cada vez. Administrar los proyectos consiste en estar al día con estos y dirigirlos al éxito.
 
-Cada jefe de proyecto gestiona sus proyectos de forma un poco diferente. Y cada equipo, departamento u organización puede tener diferentes requisitos y necesidades del proyecto.
+Cada administrador de proyectos gestiona de forma un poco diferente. Y cada equipo, departamento u organización puede tener diferentes requerimientos y necesidades.
 
-Sin embargo, independientemente de cómo administre un proyecto, querrá hacer lo siguiente:
+Sin embargo, independientemente de cómo administre un proyecto, debe tener en cuenta lo siguiente:
 
-* Asegúrese de que el trabajo se termina a tiempo.
-* Anticipar problemas y riesgos.
+* Asegúrese de que el trabajo se complete a tiempo.
+* Anticipe los problemas y riesgos.
 * Comuníquese con las partes interesadas.
-* Celebra las victorias en el camino.
+* Celebre los triunfos en el camino.
 
-En última instancia, su trabajo principal es dirigir el proyecto hacia la finalización exitosa. [!DNL Workfront] puede ayudarle a monitorizar el trabajo que se realiza a través de la cronología del proyecto; filtros, vistas y agrupaciones; actualizaciones; informes... y más.
+En última instancia, su principal trabajo es guiar el proyecto hacia su finalización satisfactoria. [!DNL Workfront] puede ayudarle a monitorizar el trabajo que se está realizando a través de la cronología del proyecto, filtros, vistas y agrupaciones, actualizaciones, informes, etc.
 
 <!---
 learn more urls
