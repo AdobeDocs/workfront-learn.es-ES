@@ -1,6 +1,6 @@
 ---
 title: Personalización de áreas de objeto con una plantilla de diseño
-description: Aprenda a utilizar una plantilla de diseño para añadir, quitar y reorganizar elementos en el menú del panel izquierdo de [!DNL  Workfront].
+description: Aprenda a utilizar una plantilla de diseño para agregar, quitar y reorganizar elementos en el menú del panel izquierdo en  [!DNL  Workfront].
 feature: System Setup and Administration
 activity: deploy
 team: Technical Marketing
@@ -12,18 +12,18 @@ jira: KT-8763
 exl-id: 5f4845ec-3107-4519-aac6-d5ec868202fa
 doc-type: video
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '65'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Personalización de áreas de objeto con una plantilla de diseño
+# Personalizar áreas de objeto con una plantilla de diseño
 
-En este vídeo, aprenderá a hacer lo siguiente:
+Este vídeo contiene información sobre:
 
-* Quitar elementos del menú del panel izquierdo de una página de objetos
-* Agregar elementos al menú del panel izquierdo
+* Eliminar elementos del menú del panel izquierdo de una página de objeto
+* Añadir elementos al menú del panel izquierdo
 * Reorganizar elementos en el menú del panel
 
 >[!VIDEO](https://video.tv.adobe.com/v/335075/?quality=12&learn=on)
