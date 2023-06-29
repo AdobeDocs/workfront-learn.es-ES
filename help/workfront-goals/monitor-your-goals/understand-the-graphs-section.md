@@ -1,6 +1,6 @@
 ---
-title: Comprender el [!UICONTROL Gráficos] sección
-description: Aprenda a leer e interpretar el gráfico de mantenimiento de objetivos y el gráfico de progreso de objetivos en [!DNL Goals].
+title: Comprender la sección [!UICONTROL Gráficos]
+description: Aprenda a leer e interpretar el gráfico de estado y progreso de las metas en [!DNL Goals].
 activity: use
 feature: Workfront Goals
 type: Tutorial
@@ -11,21 +11,21 @@ jira: KT-8929
 exl-id: 670d1cb7-b66b-4786-8fd8-f396892a4845
 doc-type: video
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '111'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Comprender el [!UICONTROL Gráficos] sección
+# Comprender la sección [!UICONTROL Gráficos]
 
-## Gráficos y estado de la meta
+## Estado de los gráficos y las metas
 
-El [!UICONTROL Gráficos] le permite ver el estado general y el progreso de sus objetivos. Observe las tendencias a lo largo del tiempo y vea una instantánea completa del progreso de sus objetivos durante un período de tiempo específico. Los dos gráficos predeterminados son el gráfico de estado de la meta y el gráfico de progreso de la meta. Esta información es fundamental para mantener los objetivos de la empresa alineados entre las iniciativas estratégicas.
+La sección [!UICONTROL Gráficos] le permite ver el estado general y el progreso de sus metas. Observe las tendencias a lo largo del tiempo y vea una instantánea completa del progreso de sus metas durante un período de tiempo específico. Los dos gráficos predeterminados son el de estado de las metas y el de progreso de estas. Esta información es fundamental para mantener las metas de la empresa alineadas con las iniciativas estratégicas.
 
-En este vídeo, aprenderá a hacer lo siguiente:
+Este vídeo contiene información sobre:
 
 * Leer e interpretar el gráfico de estado de la meta
-* Leer e interpretar el gráfico Progreso de la meta
+* Leer e interpretar el gráfico del progreso de la meta
 
 >[!VIDEO](https://video.tv.adobe.com/v/335201/?quality=12&learn=on)
