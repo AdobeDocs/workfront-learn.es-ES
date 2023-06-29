@@ -1,6 +1,6 @@
 ---
-title: Introducción a [!DNL Scenario Planner]
-description: Descubra cómo funciona el [!DNL Scenario Planner] puede ayudar a alinear las decisiones con el resultado de su negocio. Obtenga información sobre cómo navegar [!DNL Scenario Planner].
+title: Introducción a  [!DNL Scenario Planner]
+description: Aprenda cómo  [!DNL Scenario Planner]  puede ayudarle a alinear las decisiones con los resultados de su empresa. Descubra cómo navegar por  [!DNL Scenario Planner].
 feature: Resource Management
 type: Tutorial
 role: Leader, User
@@ -11,17 +11,17 @@ jira: KT-9074
 exl-id: 9a8bec0b-1f48-48d4-883b-2cb9cff251cf
 doc-type: video
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '48'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 # Un momento con el producto: Introducción a [!DNL Scenario Planner]
 
-En este vídeo hará lo siguiente:
+En este vídeo, aprenderá lo siguiente:
 
-* Obtenga información general de navegación sobre [!DNL Scenario Planner]
-* Comprender cómo [!DNL Scenario Planner] puede ayudar a alinear las decisiones con el resultado de su negocio.
+* Obtenga información general de navegación para [!DNL Scenario Planner]
+* Aprenda cómo [!DNL Scenario Planner] puede ayudarle a alinear las decisiones con los resultados de su empresa.
 
 >[!VIDEO](https://video.tv.adobe.com/v/335316/?quality=12&learn=on)
