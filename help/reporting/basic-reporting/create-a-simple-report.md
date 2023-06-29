@@ -1,6 +1,6 @@
 ---
 title: Creación de un informe simple
-description: Obtenga información sobre cómo crear un informe simple con un filtro, una vista y una agrupación existentes en Workfront.
+description: Obtenga información sobre cómo crear un informe sencillo mediante un filtro, una vista y una agrupación existentes en Workfront.
 activity: use
 feature: Reports and Dashboards
 type: Tutorial
@@ -12,48 +12,50 @@ thumbnail: 335153.png
 exl-id: 23a4f7ea-ab64-4e32-9bf5-dd7fc37eab53
 doc-type: video
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '240'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 # Creación de un informe simple
 
-En este vídeo, aprenderá a hacer lo siguiente:
+Este vídeo contiene información sobre:
 
-* Crear un informe simple con un filtro, una vista y una agrupación existentes
+* Creación de un informe sencillo mediante un filtro, una vista y una agrupación existentes
 
 >[!VIDEO](https://video.tv.adobe.com/v/335153/?quality=12&learn=on)
 
-## Actividad: Crear un informe de tareas simple
+## Actividad: Creación de un informe de tareas sencillo
 
-Desea realizar un seguimiento de todas las tareas activas en un solo informe. Cree un informe de tareas llamado &quot;Mis tareas actuales&quot; mediante lo siguiente:
+Desea rastrear todas las tareas activas en un solo informe. Cree un informe de tareas denominado “Mis tareas actuales” mediante el procedimiento siguiente:
 
-* Columnas (vista) = estándar
+* Columnas (Vista) = Estándar
 * Agrupaciones = Proyecto
 * Filtro = Mis tareas actuales
-* Descripción = Tareas incompletas en Proyectos actuales donde soy el propietario de la tarea, agrupadas por proyecto.
+* Descripción = Tareas incompletas en proyectos actuales donde soy el propietario de la tarea, agrupadas por proyecto.
 
 ## Respuesta
 
-1. Vaya a la **[!UICONTROL Menú principal]** y seleccione **[!UICONTROL Informes]**.
-1. Haga clic en **[!UICONTROL Nuevo informe]** menú desplegable y seleccione **[!UICONTROL Informe de tareas]**.
-1. Entrada [!UICONTROL Columnas (vista)], haga clic en **[!UICONTROL Aplicar vista existente]** y seleccione **[!UICONTROL Standard]**.
+1. Vaya al **[!UICONTROL Menú principal]** y seleccione **[!UICONTROL Informes]**.
+1. Haga clic en el menú desplegable **[!UICONTROL Nuevo informe]** y seleccione **[!UICONTROL Informe de tareas]**.
+1. En [!UICONTROL Columnas (Vista)], haga clic en el menú **[!UICONTROL Aplicar una vista existente]** y seleccione **[!UICONTROL Estándar]**.
 
-   ![Imagen de la pantalla para crear columnas en un informe de tareas](assets/simple-task-report-columns.png)
+   ![Una imagen de la pantalla para crear columnas en un informe de tareas](assets/simple-task-report-columns.png)
 
-1. En el **[!UICONTROL Agrupaciones]** , haga clic en **[!UICONTROL Aplicar agrupación existente]** y seleccione **[!UICONTROL Proyecto]**.
+1. En la pestaña **[!UICONTROL Agrupaciones]**, haga clic en el menú **[!UICONTROL Aplicar una agrupación existente]** y seleccione **[!UICONTROL Proyecto]**.
 
-   ![Imagen de la pantalla para crear agrupaciones en un informe de tareas](assets/simple-task-report-groupings.png)
+   ![Una imagen de la pantalla para crear agrupaciones en un informe de tareas](assets/simple-task-report-groupings.png)
 
-1. En el **[!UICONTROL Filtros]** , haga clic en **[!UICONTROL Aplicar un filtro existente]** y seleccione Mis tareas actuales.
+1. En la pestaña **[!UICONTROL Filtros]**, haga clic en el menú **[!UICONTROL Aplicar un filtro existente]** y seleccione Mis tareas actuales.
 
-   ![Imagen de la pantalla para crear filtros en un informe de tareas](assets/simple-task-report-filters.png)
+   ![Una imagen de la pantalla para crear filtros en un informe de tareas](assets/simple-task-report-filters.png)
 
-1. Abrir **[!UICONTROL Configuración de informes]** y asigne al informe el nombre &quot;Mis tareas actuales&quot;.
-1. En el campo Descripción, introduzca &quot;Tareas incompletas en Proyectos actuales en los que soy el propietario de la tarea, agrupadas por proyecto&quot;.
+1. Abra **[!UICONTROL Configuración del informe]** y asigne al informe el nombre “Mis tareas actuales”.
+1. En el campo Descripción, escriba
+“Tareas incompletas en proyectos actuales donde 
+soy el propietario de la tarea, agrupadas por proyecto”.
 
-   ![Imagen de la pantalla de configuración de un informe de tareas](assets/simple-task-report-report-settings.png)
+   ![Una imagen de la pantalla de configuración de informes en un informe de tareas](assets/simple-task-report-report-settings.png)
 
 1. Guarde y cierre el informe.
