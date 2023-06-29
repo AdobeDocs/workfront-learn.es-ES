@@ -1,6 +1,6 @@
 ---
-title: Gestionar el trabajo como equipo de Scrum
-description: Aprenda a crear un proyecto de registro de pendientes de equipo Agile y a crear una nueva historia.
+title: Administrar el trabajo como equipo de Scrum
+description: Obtenga información sobre cómo crear un proyecto de registro de asuntos pendientes con un equipo ágil y crear un nuevo artículo.
 feature: Agile
 role: Admin, User
 level: Intermediate
@@ -9,31 +9,31 @@ thumbnail: 346282.jpeg
 exl-id: 50773b9b-8f64-4aed-bd44-3a43026bd085
 doc-type: video
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '234'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Gestionar el trabajo como equipo de Scrum
+# Administrar el trabajo como equipo de Scrum
 
-Ahora que ha creado su equipo de depuración de marketing creativo, póngase en contacto con el maestro de depuración para ver cómo es su experiencia.
+Ahora que ha creado su equipo de análisis de Creative Marketing, experimente Scrum como un profesional.
 
-Como maestro de scrum, su objetivo es determinar en qué debe trabajar primero su equipo. Organizará las historias en el registro de pendientes según la prioridad del propietario del producto. Si el equipo ha recibido solicitudes de equipo de proyectos o colas de solicitudes, esas solicitudes ya se mostrarán en el registro de pendientes. Sin embargo, es posible que también tenga que agregar historias que no pertenezcan específicamente a un proyecto que ya se encuentra en Adobe Workfront.
+Como profesional de Scrum, su objetivo es determinar en primer lugar en qué debe trabajar su equipo. Organizará los artículos pendientes según la prioridad del propietario del producto. Si el equipo ha recibido solicitudes de equipo de proyectos o colas de solicitud, estas aparecerán en el registro de asuntos pendientes. Sin embargo, es posible que también tenga que agregar artículos que no pertenecen específicamente a un proyecto que ya se encuentra en Adobe Workfront.
 
-## Administrar su registro de pendientes
+## Administrar su registro de asuntos pendientes
 
-En este vídeo, aprenderá a hacer lo siguiente:
+Este vídeo contiene información sobre:
 
-- Crear un proyecto de registro de pendientes de equipo Agile
+- Creación de un registro de asuntos pendientes con un equipo ágil
 - Crear una nueva historia
 
-En este vídeo, aprenderá a: crear un proyecto de registro de pendientes de equipo Agile y crear una nueva historia.
+En este vídeo, aprenderá a crear un proyecto de registro de asuntos pendientes con un equipo ágil y a crear un nuevo artículo.
 
 >[!VIDEO](https://video.tv.adobe.com/v/346282/?quality=12&learn=on)
 
-El equipo de Agile preparará el registro de pendientes juntos. Esto básicamente significa que pasarán tres cosas.
+El equipo ágil preparará el registro de asuntos pendientes. Básicamente, significa que pasarán tres cosas.
 
-- En primer lugar, el administrador de la depuración ayudará al equipo a comprender cuáles son las expectativas del propietario del producto sobre qué trabajo se debe realizar.
-- En segundo lugar, los integrantes del equipo estimarán cuánto tiempo tardará en completarse cada historia.
-- En tercer lugar, el equipo utiliza esta información para tomar decisiones informadas sobre en qué trabajar y cuándo hacerlo.
+- En primer lugar, el maestro de análisis ayudará al equipo a comprender cuáles son las expectativas del propietario del producto con respecto a lo que debe hacerse.
+- En segundo lugar, los integrantes del equipo estimarán cuánto tardará en completar cada artículo.
+- En tercer lugar, el equipo utiliza esta información para tomar decisiones informadas sobre qué trabajar y cuándo trabajar en ello.
