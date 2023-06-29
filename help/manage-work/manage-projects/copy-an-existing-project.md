@@ -1,6 +1,6 @@
 ---
 title: Copiar un proyecto existente
-description: Obtenga información sobre cómo crear una copia de un proyecto existente.
+description: Aprenda a crear una copia de un proyecto existente.
 activity: use
 team: Technical Marketing
 feature: Work Management
@@ -11,17 +11,17 @@ level: Intermediate
 jira: KT-10155
 exl-id: 90a87fef-70e9-42fc-ac55-415980ef32c7
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '130'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 # Copiar un proyecto existente
 
-A veces, en lugar de utilizar una plantilla para crear un proyecto, solo necesita copiar un proyecto para otro uso único. Para ello, debe tener una licencia de planificación, con acceso de edición y creación a los proyectos.
+A veces, en lugar de usar una plantilla para crear un proyecto, solo tiene que copiar un proyecto para otro uso único. Para ello, debe tener una licencia de Plan, con acceso a Editar y Crear para los proyectos.
 
-Desplácese hasta el proyecto que desee copiar y haga clic en el menú de 3 puntos situado junto al nombre del proyecto. A continuación, seleccione Copiar.
+Vaya al proyecto que desea copiar y haga clic en el menú de tres puntos situado junto al nombre del proyecto. A continuación, seleccione Copiar.
 
 ![Cr](assets/copy-existing-01.png)
 
@@ -29,4 +29,4 @@ La ventana Copiar proyecto permite cambiar el título y el estado, así como bor
 
 ![Cr](assets/copy-existing-02.png)
 
-Si selecciona Borrar asignaciones y/o establece el estado en Planificación, el proyecto copiado no enviará notificaciones de asignación de tareas inmediatamente después de copiarlo.
+Si se selecciona Borrar asignaciones o establece el estado de Planificación, el proyecto copiado no envía notificaciones de asignación de tareas justo después de copiarlo.
