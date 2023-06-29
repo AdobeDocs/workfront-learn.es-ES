@@ -1,6 +1,6 @@
 ---
-title: Conectar manualmente las metas entre sí
-description: Aprenda a conectar manualmente los objetivos entre sí en [!DNL Workfront Goals].
+title: Conexión manual de metas entre sí
+description: Aprenda a conectar manualmente las metas entre sí en  [!DNL Workfront Goals].
 activity: use
 team: Technical Marketing
 feature: Workfront Goals
@@ -10,19 +10,19 @@ level: Beginner
 jira: KT-10123
 exl-id: 00e2dfd6-1b6e-4352-b1c7-9953e84d03db
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '182'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Conectar manualmente las metas entre sí
+# Conexión manual de metas entre sí
 
-La primera manera de alinear los objetivos en [!DNL Workfront Goals] es un enfoque de abajo a arriba. Esto toma una meta secundaria y la conecta a una meta principal. Esto resulta especialmente útil para los colaboradores individuales que tienen objetivos personales que desean alinear con los objetivos del equipo. Tener esta capacidad permite a los colaboradores individuales ver cómo su trabajo se alinea y encaja en el trabajo más grande de la organización. También proporciona visibilidad para que el liderazgo vea la progresión del trabajo individual y del trabajo de un equipo en relación con la estrategia general de la compañía.
+La primera manera de alinear las metas en [!DNL Workfront Goals] es tener un enfoque de principio a fin. Esto toma una meta secundaria y la conecta con una principal. Esto resulta especialmente útil para los colaboradores individuales que tienen metas personales que desean alinear con las metas del equipo. Tener esta capacidad permite a los colaboradores individuales ver cómo su trabajo se alinea y encaja en el trabajo más grande de la organización. También proporciona visibilidad para el liderazgo a fin de ver la progresión del trabajo individual y el trabajo de un equipo en relación con la estrategia general de la empresa.
 
-Existen algunas restricciones temporales al alinear objetivos:
+Existen algunas restricciones de tiempo al alinear metas:
 
-* Puede alinear metas que solo pertenezcan al mismo periodo de tiempo o a un periodo de tiempo futuro.
-* La meta secundaria debe finalizar antes o en el mismo día que la meta principal.
-* No se puede alinear con un objetivo en el pasado.
-* Puede alinear una meta trimestral con una meta anual, pero no con una meta anual.
+* Puede alinear las metas que solo pertenezcan al mismo período de tiempo o a un período de tiempo futuro.
+* La meta secundaria debe finalizar antes o en el mismo día que la principal.
+* No se puede alinear con una meta en el pasado.
+* Puede alinear una meta trimestral con una anual, pero no una meta anual con una trimestral.
