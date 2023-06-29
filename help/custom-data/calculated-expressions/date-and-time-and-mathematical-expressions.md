@@ -1,6 +1,6 @@
 ---
 title: Comprender la fecha y la hora y las expresiones matemáticas
-description: Descubra qué fecha, hora y expresiones matemáticas son y cuáles están disponibles para usar al crear datos personalizados en Adobe [!UICONTROL Workfront].
+description: Descubra qué son la fecha, hora y expresiones matemáticas y cuáles están disponibles para usar al crear datos personalizados en Adobe [!UICONTROL Workfront].
 feature: System Setup and Administration
 type: Tutorial
 role: Admin, Leader, User
@@ -10,9 +10,9 @@ team: Technical Marketing
 thumbnail: date-time-expressions.png
 exl-id: 333ba6ae-5004-4693-989b-03dc49fcbff8
 source-git-commit: 402027429b116f3bd0328595b7c8635dea468fab
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '181'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
@@ -26,14 +26,14 @@ Al consultar las expresiones de fecha y hora disponibles, encontrará varias opc
 
 ![Ejemplos de expresiones de fecha y hora](assets/datetimeexpressions01.png)
 
-Existen dos conjuntos de expresiones de fecha y hora que se utilizan con mayor frecuencia por [!DNL Workfront] clientes:
+Existen dos conjuntos de expresiones de fecha y hora que se utilizan con mayor frecuencia por los clientes de [!DNL Workfront]:
 
 * ADDDAYS/ADDWEEKDAY/ADDMONTHS/ADDYEARS y
 * DATEDIFF / WEEKDAYDIFF
 
 ## Expresiones matemáticas
 
-Las expresiones matemáticas permiten [!DNL Workfront] para realizar cálculos automáticamente, ya sea simple o complicado.
+Las expresiones matemáticas permiten a [!DNL Workfront] realizar cálculos automáticamente, ya sean simples o complicados.
 
 Al consultar las expresiones de fecha y hora disponibles, verá que tiene varias opciones disponibles.
 
@@ -44,4 +44,4 @@ Los clientes de Workfront suelen utilizar estos dos conjuntos de expresiones mat
 * SUB, SUM, DIV, PROD
 * ROUND
 
-<b>NOTA</b>: Para obtener una lista completa de las expresiones y más información sobre cada una, consulte la página de documentación &quot;Expresiones de datos calculadas&quot;.
+<b>Nota</b>: Para obtener una lista completa de las expresiones y más información sobre cada una, consulte la página de documentación “Expresiones de datos calculadas”.
