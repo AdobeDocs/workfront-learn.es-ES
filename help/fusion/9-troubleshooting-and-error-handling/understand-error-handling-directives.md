@@ -1,6 +1,6 @@
 ---
-title: Comprender las directivas de gestión de errores
-description: Obtenga información acerca de las directivas del controlador de errores que permiten que continúe la ejecución y las que detienen la ejecución, en [!DNL Adobe Workfront Fusion].
+title: Comprender las directivas de la gestión de errores
+description: Obtenga información sobre las directivas del controlador de error que permiten que la ejecución continúe y las que detienen la ejecución, en  [!DNL Adobe Workfront Fusion].
 activity: use
 team: Technical Marketing
 type: Tutorial
@@ -11,18 +11,18 @@ jira: KT-9064
 exl-id: cb8d0880-73d2-4118-b800-a126f8509309
 doc-type: video
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '318'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Comprender las directivas de gestión de errores
+# Comprender las directivas de la gestión de errores
 
-En este vídeo, aprenderá lo siguiente:
+Este vídeo contiene información sobre:
 
-* Las tres directivas de tratamiento de errores que permiten que continúe la ejecución
-* Las dos directivas de controlador de errores que detienen la ejecución
+* Las tres directivas del controlador de error que permiten que la ejecución continúe
+* Las dos directivas del controlador de error que detienen la ejecución
 
 >[!VIDEO](https://video.tv.adobe.com/v/335305/?quality=12&learn=on)
 
@@ -30,48 +30,48 @@ En este vídeo, aprenderá lo siguiente:
 
 ### Reanudar
 
-* Se especifica una salida de sustitución y se suministra al módulo que encuentra un error.
+* Se especifica una salida sustitutiva que se suministra al módulo que encuentra un error.
 * Se procesan los módulos siguientes.
-* El estado de ejecución del escenario se marca como &quot;correcto&quot;.
+* El estado de ejecución del escenario se marca como “éxito”.
 
-![Imagen de una directiva Resume](assets/troubleshooting-and-error-handling-2.png)
+![Una imagen de una directiva de reanudación](assets/troubleshooting-and-error-handling-2.png)
 
-### Descanso
+### Salto
 
 * El estado de la ejecución del escenario se almacena en la cola de ejecuciones incompletas, donde el error se puede resolver manualmente. Sin embargo, hay algunas excepciones que se mencionan aquí.
 * Los módulos siguientes no se procesan.
-* Si hay paquetes sin procesar, la ejecución del escenario continúa de forma normal.
-* El estado de ejecución del escenario se marca como &quot;advertencia&quot;.
+* Si hay paquetes sin procesar, la ejecución del escenario continúa normalmente.
+* El estado de ejecución del escenario se marca como “advertencia”.
 
-![Imagen de una directiva Break](assets/troubleshooting-and-error-handling-3.png)
+![Una imagen de una directiva de Salto](assets/troubleshooting-and-error-handling-3.png)
 
 ### Ignorar
 
 * El error se ignora y los módulos posteriores no se procesan.
-* Si hay paquetes sin procesar, la ejecución del escenario continúa de forma normal.
-* El estado de ejecución del escenario se marca como &quot;correcto&quot;.
+* Si hay paquetes sin procesar, la ejecución del escenario continúa normalmente.
+* El estado de ejecución del escenario se marca como “éxito”.
 
-![Imagen de una directiva Ignore](assets/troubleshooting-and-error-handling-4.png)
+![Una imagen de una directiva Ignorar](assets/troubleshooting-and-error-handling-4.png)
 
 ## Directivas: paradas de escenario
 
 ### Reversión
 
-* La ejecución de escenarios se detiene inmediatamente y se inicia una fase de reversión en todos los módulos para intentar revertirlos todos a su estado inicial.
+* La ejecución del escenario se detiene inmediatamente y se inicia una fase de reversión en todos los módulos en un intento de revertirlos a su estado inicial.
 * Los módulos siguientes no se procesan.
-* Salvo algunos tipos de error, el escenario se desactiva después del &quot;número de errores consecutivos&quot; especificado en Configuración del escenario.
-* El estado de ejecución del escenario se marca como &quot;error&quot;.
+* A excepción de algunos tipos de error, el escenario se desactiva después del “número de errores consecutivos” especificado en Configuración del escenario.
+* El estado de ejecución del escenario está marcado como “error”.
 
 >[!NOTE]
 >
->Este es el comportamiento predeterminado si no hay ninguna ruta de controlador de error adjunta al módulo y la opción &quot;Permitir el almacenamiento de ejecuciones incompletas&quot; en Configuración de escenario no está activada.
+>Este es el comportamiento predeterminado si no hay ninguna ruta de controlador de error adjunta al módulo y el ajuste “Permitir almacenamiento de ejecuciones incompletas” en la configuración de escenario no está seleccionado.
 
-![Imagen de una directiva Rollback](assets/troubleshooting-and-error-handling-5.png)
+![Una imagen de una directiva de Reversión](assets/troubleshooting-and-error-handling-5.png)
 
 ### Confirmar
 
 * El error se ignora y los módulos posteriores no se procesan.
-* Si hay paquetes sin procesar, la ejecución del escenario continúa de forma normal.
-* El estado de ejecución del escenario se marca como &quot;correcto&quot;.
+* Si hay paquetes sin procesar, la ejecución del escenario continúa normalmente.
+* El estado de ejecución del escenario se marca como “éxito”.
 
-![Imagen de una directiva Commit](assets/troubleshooting-and-error-handling-6.png)
+![Imagen de una directiva de Compromiso](assets/troubleshooting-and-error-handling-6.png)
