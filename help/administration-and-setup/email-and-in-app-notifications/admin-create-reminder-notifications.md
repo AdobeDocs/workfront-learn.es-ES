@@ -1,6 +1,6 @@
 ---
 title: Configurar notificaciones de recordatorio
-description: Obtenga información sobre cómo configurar notificaciones de recordatorio específicas del objeto para que los usuarios sepan cuándo vence el trabajo pronto o con retraso.
+description: Obtenga información sobre cómo configurar notificaciones de recordatorio específicas de objetos para informar a los usuarios de cuándo el trabajo debe realizarse pronto o ha vencido.
 feature: System Setup and Administration
 activity: deploy
 type: Tutorial
@@ -11,9 +11,9 @@ thumbnail: setupremindnote.png
 jira: KT-10091
 exl-id: f1ba58d7-3226-4c62-8aa4-40f88495b833
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '312'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
@@ -21,36 +21,36 @@ ht-degree: 0%
 this has the same content as the system administrator notification setup and mangement section of the email and inapp notificiations learning path
 --->
 
-# Configuración de notificaciones de recordatorio
+# Configurar notificaciones de recordatorio
 
-Los administradores del sistema crean las notificaciones de recordatorio en el [!UICONTROL Configurar] área. A continuación, los propietarios de proyecto, tarea y problema pueden adjuntarlos y utilizarlos como recordatorios de cuándo vence el trabajo pronto o ha vencido.
+Los administradores del sistema crean las notificaciones de recordatorio en el área [!UICONTROL Configuración]. Luego se pueden adjuntar y utilizar por los propietarios de proyectos, tareas y problemas como recordatorios para saber cuándo el trabajo debe realizarse pronto o ha vencido.
 
 Los recordatorios son específicos del objeto y deben adjuntarse manualmente al elemento de trabajo correspondiente para poder enviar la notificación.
 
-**Crear una notificación de recordatorio**
+**Creación de una notificación de recordatorio**
 
-1. Clic **[!UICONTROL Configurar]** en el **[!UICONTROL Menú principal]**.
-1. Haga clic en **[!UICONTROL Correo electrónico]** sección.
-1. Haga clic en **[!UICONTROL Notificaciones]** sección.
-1. Haga clic en **[!UICONTROL Nuevo recordatorio]** pestaña.
-1. Haga clic en **[!UICONTROL +Nueva notificación de recordatorio]** botón.
-1. Seleccione el objeto que desee en el menú desplegable.
+1. Haga clic en **[!UICONTROL Configuración]** en el **[!UICONTROL Menú principal]**.
+1. Haga clic en la sección **[!UICONTROL Correo electrónico]**.
+1. Haga clic en la sección **[!UICONTROL Notificaciones]**.
+1. Haga clic en la pestaña **[!UICONTROL Nuevo recordatorio]**.
+1. Haga clic en el botón **[!UICONTROL +Notificación de nuevo recordatorio]**.
+1. Seleccione el objeto deseado para el menú desplegable.
 1. Rellene la información requerida.
 1. Haga clic en **[!UICONTROL Guardar]**.
 
-![[!UICONTROL Nueva notificación de recordatorio] ventana](assets/admin-fund-reminder-notification-1.png)
+Ventana ![[!UICONTROL Nueva notificación de recordatorio] ](assets/admin-fund-reminder-notification-1.png)
 
-Al configurar el recordatorio, hay que tener en cuenta lo siguiente:
+Al configurar el recordatorio, hay que tener en cuenta algunos aspectos:
 
-* **[!UICONTROL Nombre de notificación de recordatorio] —** Nombre que verán los jefes de proyecto cuando adjunten un aviso a un objeto. Asegúrese de que el nombre sea sucinto pero descriptivo.
-* **[!UICONTROL Período de calificación] —** Número de horas, días, semanas o meses antes o después de la fecha seleccionada en la sección Intervalo.
-* **[!UICONTROL Programación] —** Seleccione si el recordatorio debe enviarse antes o después de las fechas de inicio/finalización planificadas, proyectadas o reales del objeto. Las opciones para las hojas de horas están relacionadas con la fecha de inicio, la fecha de finalización o la fecha de la última actualización.
-* **[!UICONTROL Criterios] —** Especifique los criterios para calificar el recordatorio que se va a enviar. Las opciones varían según el recordatorio específico del objeto.
-* **[!UICONTROL Destinatarios] —** Seleccione a quién debe enviarse el recordatorio. Las opciones de la parte interesada varían según el tipo de objeto seleccionado para el recordatorio.
+* **[!UICONTROL Nombre de notificación del recordatorio]:** este es el nombre que verán los administradores del proyecto cuando adjunten un recordatorio a un objeto. Asegúrese de que el nombre sea corto, pero descriptivo.
+* **[!UICONTROL Período de calificación]:** cantidad de horas, días, semanas o meses antes o después de la fecha seleccionada en la sección Temporización.
+* **[!UICONTROL Temporización]:** seleccione si el recordatorio debe enviarse antes o después de las fechas de inicio/finalización planificadas, previstas o reales del objeto. Las opciones para las hojas de horas están relacionadas con la fecha de inicio, la fecha de finalización o la fecha de la última actualización.
+* **[!UICONTROL Criterios]:** especifique los criterios para calificar el recordatorio que se va a enviar. Las opciones varían según el recordatorio específico del objeto.
+* **[!UICONTROL Destinatarios]:** seleccione a quién se debe enviar el recordatorio. Las opciones de las partes interesadas varían según el tipo de objeto seleccionado para el recordatorio.
 
-Una vez establecida y guardada la configuración del recordatorio, la notificación de recordatorio está disponible para que los propietarios de objetos la utilicen en [!DNL Workfront].
+Una vez establecida y guardada la configuración del recordatorio, los propietarios de objetos pueden utilizar la notificación del recordatorio en [!DNL Workfront].
 
-## Personalización de correo electrónico
+## Personalización del correo electrónico
 
 Las notificaciones de recordatorio utilizan un formato de correo electrónico y un mensaje predeterminados. Si desea personalizar el correo electrónico, puede crear una plantilla.
 
@@ -58,7 +58,7 @@ Las notificaciones de recordatorio utilizan un formato de correo electrónico y 
 paragraph above needs a hyperlink to an article
 --->
 
-![Ventana Nueva plantilla de correo electrónico](assets/admin-fund-email-customization.png)
+![Ventana de Nueva plantilla de correo electrónico](assets/admin-fund-email-customization.png)
 
 <!---
 learn more URLs
