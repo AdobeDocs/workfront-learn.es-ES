@@ -1,6 +1,6 @@
 ---
-title: Buscar recursos en [!UICONTROL WORKFRONT DAM]
-description: Obtenga información sobre cómo buscar recursos mediante metadatos y palabras clave, planificar el mantenimiento de metadatos y palabras clave, y establecer [!UICONTROL WORKFRONT DAM] prácticas recomendadas.
+title: Buscar recursos en el [!UICONTROL DAM de Workfront]
+description: Obtenga información sobre cómo buscar recursos utilizando metadatos y palabras clave, planificar el mantenimiento de metadatos y palabras clave y establecer las prácticas recomendadas del [!UICONTROL DAM de Workfront].
 activity: use
 feature: Digital Content and Documents
 type: Tutorial
@@ -11,18 +11,18 @@ jira: KT-8976
 exl-id: fffb4ab8-acec-4d7b-a786-f6be538bc7ee
 doc-type: video
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '60'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 # Metadatos y palabras clave: buscar recursos
 
-En este vídeo, aprenderá a hacer lo siguiente:
+Este vídeo contiene información sobre:
 
 * Buscar recursos mediante metadatos y palabras clave
-* Plan de mantenimiento de metadatos y palabras clave
-* Establecer [!UICONTROL WORKFRONT DAM] prácticas recomendadas
+* Planificar el mantenimiento de metadatos y palabras clave
+* Establecer prácticas recomendadas para el [!UICONTROL DAM de Workfront]
 
 >[!VIDEO](https://video.tv.adobe.com/v/335239/?quality=12&learn=on)
