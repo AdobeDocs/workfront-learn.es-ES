@@ -1,6 +1,6 @@
 ---
-title: Añadir y editar la configuración de columna en un tablero
-description: Aprenda a añadir y editar la configuración de columnas en un tablero.
+title: Agregar y editar la configuración de columna en un tablero
+description: Aprenda a agregar y editar la configuración de columnas en un tablero.
 feature: Agile
 activity: deploy
 type: Tutorial
@@ -10,15 +10,15 @@ role: User, Leader
 level: Beginner
 exl-id: e6070383-abda-466a-b490-ed9699a4befe
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+source-git-commit: 23f4ab82d2823217c81a3fd37796e2a1260e7cf5
+workflow-type: ht
 source-wordcount: '38'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Añadir y editar la configuración de columna en un tablero
+# Agregar y editar la configuración de columna en un tablero
 
-Aprenda a añadir y editar la configuración de columnas en un tablero.
+Aprenda a agregar y editar la configuración de columnas en un tablero.
 
 >[!VIDEO](https://video.tv.adobe.com/v/347332)
