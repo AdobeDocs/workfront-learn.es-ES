@@ -1,6 +1,6 @@
 ---
-title: Comprender cómo [!UICONTROL Objetivos de Workfront] se adapta a su ciclo de trabajo
-description: Conozca los 6 pasos de un ciclo de vida laboral típico y los componentes básicos de la "fase de estrategia" del ciclo de vida laboral.
+title: Comprender cómo [!UICONTROL Workfront Goals] se adapta a su ciclo de trabajo
+description: Obtenga información sobre los seis pasos de un ciclo de vida laboral típico y los componentes básicos de la “fase de estrategia” en el ciclo de vida laboral.
 activity: use
 feature: Workfront Goals
 type: Tutorial
@@ -10,19 +10,19 @@ team: Technical Marketing
 jira: KT-8890
 exl-id: 2e1823d6-a7f2-485e-952d-e3d230473808
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+source-git-commit: 23f4ab82d2823217c81a3fd37796e2a1260e7cf5
+workflow-type: ht
 source-wordcount: '133'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Comprender cómo [!UICONTROL Objetivos de Workfront] se adapta a su ciclo de trabajo
+# Comprender cómo [!UICONTROL Workfront Goals] se adapta a su ciclo de trabajo
 
-En este vídeo, aprenderá lo siguiente:
+En este vídeo, aprenderá sobre lo siguiente:
 
-* Los 6 pasos de un ciclo de vida laboral típico
-* Componentes básicos en la &quot;fase de estrategia&quot; del ciclo de vida
+* Los seis pasos en un ciclo de vida laboral típico
+* Componentes básicos de la “fase de estrategia” en el ciclo de vida laboral
 
 >[!VIDEO](https://video.tv.adobe.com/v/335184/?quality=12&learn=on)
 
@@ -30,7 +30,7 @@ En este vídeo, aprenderá lo siguiente:
 Your turn graphic
 -->
 
-Dedique un minuto a reflexionar sobre las siguientes preguntas presentadas en el vídeo. Apunte algunos pensamientos iniciales como respuesta. Utilice estas preguntas para guiar las conversaciones que tiene con sus equipos. ¿Qué aprendiste?
+Tómese un minuto para reflexionar sobre las siguientes preguntas del vídeo. Tome nota de algunos pensamientos iniciales como respuesta. Utilice estas preguntas para guiar las conversaciones que tenga con sus equipos. ¿Qué aprendió?
 
 1. ¿Qué estamos tratando de lograr?
 1. ¿Cómo mediremos el éxito?
