@@ -1,6 +1,6 @@
 ---
-title: Creación de una plantilla de diseño para [!DNL Workfront Goals] usuarios
-description: Obtenga información sobre cómo crear una plantilla de diseño con [!DNL Workfront Goals], assign the layout template to users, and change [!DNL Goals] terminología adecuada para su organización.
+title: Cree una plantilla de diseño para los usuarios de  [!DNL Workfront Goals]
+description: Obtenga información sobre cómo crear una plantilla de diseño con la terminología de  [!DNL Workfront Goals], assign the layout template to users, and change [!DNL Goals]  para adaptarse a su organización.
 activity: use
 feature: Workfront Goals
 type: Tutorial
@@ -11,23 +11,23 @@ jira: KT-8896
 exl-id: 6ece64db-3d96-4b14-bbd0-5e5b81e6cab5
 doc-type: video
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '84'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Creación de una plantilla de diseño para [!DNL Workfront Goals] usuarios
+# Cree una plantilla de diseño para los usuarios de [!DNL Workfront Goals]
 
-En el **[!UICONTROL Configurar]** , también puede crear y asignar una plantilla de diseño que incluya [!DNL Workfront Goals] para que usted y los usuarios puedan acceder a él más fácilmente.
+En el área **[!UICONTROL Configuración]**, también puede crear y asignar una plantilla de diseño que incluya [!DNL Workfront Goals] para que usted y los usuarios puedan acceder a él con mayor facilidad.
 
-En este vídeo, aprenderá a hacer lo siguiente:
+Este vídeo contiene información sobre:
 
 * Creación de una plantilla de diseño
 * Asignar la plantilla de diseño a los usuarios
 * Añadir [!DNL Goals] a una plantilla de diseño
-* Cambiar [!DNL Goals] terminología adecuada para su organización
-* Añadir [!DNL Goals] a la [!DNL Workfront] [!UICONTROL Menú principal]
+* Cambiar la terminología de [!DNL Goals] para adaptarla a su organización
+* Añadir [!DNL Goals] al [!DNL Workfront] [!UICONTROL Menú principal]
 
 >[!VIDEO](https://video.tv.adobe.com/v/335190/?quality=12&learn=on)
 
