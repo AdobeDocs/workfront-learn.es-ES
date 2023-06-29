@@ -1,6 +1,6 @@
 ---
-title: Informes avanzados, parte 1
-description: Comprender una revisión de la creación de informes, una introducción a [!UICONTROL Explorador de API] y modo texto, y un estudio en profundidad de los filtros de modo texto.
+title: Parte 1 de la creación de informes avanzada
+description: Comprender una revisión de la creación de informes, una introducción a [!UICONTROL Explorador de la API] y el modo de texto, y un estudio en profundidad de los filtros del modo de texto.
 activity: use
 feature: Reports and Dashboards
 thumbnail: 3409632.png
@@ -11,16 +11,16 @@ team: Technical Marketing
 jira: KT-11196
 exl-id: dec3d807-41b2-47a6-b4ff-476313b6fc07
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+source-git-commit: 23f4ab82d2823217c81a3fd37796e2a1260e7cf5
+workflow-type: ht
 source-wordcount: '67'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Informes avanzados, parte 1
+# Parte 1 de la creación de informes avanzada
 
-En este vídeo, aprenderá lo siguiente:
+Este vídeo contiene información sobre:
 
 * Una revisión de la creación de informes
 * Cómo utilizar el explorador de API y el modo de texto
@@ -32,4 +32,4 @@ En este vídeo, aprenderá lo siguiente:
 
 [[!UICONTROL Explorador de API]](https://developer.adobe.com/workfront/api-explorer/)
 
-[Manual de informes avanzado](/help/assets/advanced-reporting-manual.pdf)
+[Manual de creación de informes avanzado](/help/assets/advanced-reporting-manual.pdf)
