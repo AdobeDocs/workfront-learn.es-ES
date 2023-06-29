@@ -1,6 +1,6 @@
 ---
 title: Creación de una plantilla de flujo de trabajo automatizada
-description: Aprenda a crear una plantilla de flujo de trabajo automatizada asignando destinatarios de prueba y estableciendo plazos de prueba. A continuación, comparta la plantilla con otros usuarios.
+description: Aprenda a crear una plantilla de flujo de trabajo automatizada asignando destinatarios de revisión y estableciendo plazos de revisión. A continuación, comparta la plantilla con otros usuarios.
 activity: use
 feature: Workfront Proof
 type: Tutorial
@@ -11,31 +11,31 @@ thumbnail: 335130.png
 jira: KT-8830
 exl-id: eac89e40-d3ea-4376-82a2-16bec550d131
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+source-git-commit: 23f4ab82d2823217c81a3fd37796e2a1260e7cf5
+workflow-type: ht
 source-wordcount: '194'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 # Creación de una plantilla de flujo de trabajo automatizada
 
-En este vídeo, aprenderá a hacer lo siguiente:
+Este vídeo contiene información sobre:
 
-* Creación de una plantilla de flujo de trabajo automatizada para [!DNL  Workfront] revisión
-* Asignar destinatarios de prueba
-* Establecer una fecha límite del proceso de revisión y aprobación
-* Uso compartido de la plantilla de flujo de trabajo automatizado con otros usuarios
+* Cree una plantilla de flujo de trabajo automatizada para pruebas de [!DNL  Workfront]
+* Asignación de destinatarios de prueba
+* Establecer un plazo para el proceso de revisión y aprobación
+* Comparta la plantilla de flujo de trabajo automatizado con otros usuarios
 
 >[!VIDEO](https://video.tv.adobe.com/v/335130/?quality=12&learn=on)
 
 ## Opciones de activación de fase adicionales
 
-Rara vez, o nunca, se utilizan dos opciones para determinar cuándo debe iniciarse una fase del flujo de trabajo de revisión: [!UICONTROL Fecha y hora] y la opción &quot;[!UICONTROL Cuando transcurra la fecha límite de la etapa anterior]Opción &quot;.
+Rara vez se utilizan dos opciones para determinar cuándo se debe iniciar una fase de flujo de trabajo de prueba: la opción [!UICONTROL Fecha y hora] y la opción “[!UICONTROL Cuando pasa el plazo de la fase anterior]”.
 
-La segunda opción solo funciona en escenarios en los que tiene un gran grupo de personas revisando y no quiere esperar en todos. Es una especie de opción &quot;Le daré una cierta cantidad de tiempo para completar su revisión y luego perderá la oportunidad&quot;. Pero incluso esto puede ralentizar un proceso de revisión.
+La segunda opción solo funciona en escenarios en los que tiene un gran grupo de personas revisando y no desea esperar a todos ellos. Es una especie de “Le daré una cierta cantidad de tiempo para completar su revisión y luego perderá su oportunidad”. Pero incluso esto puede ralentizar un proceso de revisión.
 
-Si utiliza &quot;[!UICONTROL cuando transcurra la fecha límite de la etapa anterior],&quot; es importante recordar que puede activar manualmente una fase en cualquier momento si no desea esperar a que transcurra un plazo.
+Si utiliza “[!UICONTROL cuando pasa el plazo de la fase anterior]” es importante recordar que puede activar manualmente un escenario en cualquier momento si no desea esperar a que pase una fecha límite.
 
 <!--
 Lean More URLs
