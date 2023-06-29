@@ -1,6 +1,6 @@
 ---
-title: Tutorial sobre Set/Get variables
-description: Obtenga información sobre cómo buscar información sobre un proyecto en Workfront y enviar un correo electrónico con información relacionada en [!DNL Adobe Workfront Fusion].
+title: Introducción a las variables Set/Get
+description: Obtenga información sobre cómo buscar información acerca de un proyecto en Workfront y enviar un correo electrónico con información relacionada en  [!DNL Adobe Workfront Fusion].
 activity: use
 team: Technical Marketing
 type: Tutorial
@@ -11,40 +11,40 @@ jira: KT-9017
 exl-id: bd329144-4c4c-451f-9340-265fbdb5b249
 doc-type: video
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '215'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Tutorial sobre cómo establecer y obtener variables
+# Introducción a las variables Obtener/Establecer
 
-Busque información sobre un proyecto en Workfront y envíe un correo electrónico con información relacionada.
+Busque datos acerca de un proyecto en Workfront y envíe un correo electrónico con la información relacionada.
 
 ![Una imagen del escenario de Fusion](assets/universal-connectors-and-routing-8.png)
 
-## Tutorial sobre Obtener/Establecer variables
+## Tutorial de las variables Get/Set
 
-Workfront recomienda ver el vídeo del tutorial de ejercicios antes de intentar recrear el ejercicio en su propio entorno.
+Workfront recomienda ver el vídeo tutorial del ejercicio antes de intentar recrear el ejercicio en su propio entorno.
 
 >[!VIDEO](https://video.tv.adobe.com/v/335276/?quality=12&learn=on)
 
 >[!TIP]
 >
->Para obtener instrucciones paso a paso sobre cómo completar el tutorial, vaya a la [Tutorial sobre Set/Get variables](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/exercises/set-get-variables.html?lang=en) hacer ejercicio.
+>Para obtener instrucciones paso a paso sobre cómo completar el tutorial, vaya al ejercicio [Tutorial de las variables Set/Get](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/exercises/set-get-variables.html?lang=es).
 
-## Tu turno
+## Su turno
 
 >[!NOTE]
 >
->Los ejercicios y desafíos de práctica son opcionales y no son necesarios para completar el entrenamiento de Fusion.
+>Los ejercicios prácticos y los desafíos son opcionales y no son necesarios para completar la formación de Fusion.
 
-Este ejercicio práctico se basa en lo que ha aprendido en el tutorial, pero no se proporciona la solución.
+Este ejercicio práctico se basa en lo aprendido en el tutorial, pero no se proporciona la solución.
 
-Crear un clon del escenario &quot;Compartir variables entre rutas de acceso&quot; creado en este tutorial. Envíe por correo electrónico el mensaje que redacte al propietario del proyecto y al patrocinador del proyecto. También desea incluir la condición del proyecto en el mensaje. (Por ahora, está bien que la condición aparezca como una clave de dos letras).
+Haga un clon del escenario “Uso compartido de variables entre rutas de enrutamiento” que creó en este tutorial. Envíe por correo electrónico el mensaje que redacte al propietario y al patrocinador del proyecto. También debe incluir la condición del proyecto en el mensaje. (Por ahora, está bien que la condición aparezca como una clave de dos letras).
 
-**Reto:** Programe su escenario para enviar este &quot;correo electrónico&quot; todos los días a las 8 a. m. del lunes.
+**Desafío:** programe su escenario para enviar ese “correo electrónico” cada semana a las 8 a. m. del lunes.
 
 ## ¿Desea obtener más información? Recomendamos lo siguiente:
 
-[Documentación de Workfront Fusion](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/workfront-fusion-2.html?lang=en)
+[Documentación de Workfront Fusion](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/workfront-fusion-2.html?lang=es)
