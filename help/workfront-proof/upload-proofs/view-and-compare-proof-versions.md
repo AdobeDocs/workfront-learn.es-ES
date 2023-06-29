@@ -1,6 +1,6 @@
 ---
-title: Visualización y comparación de versiones de prueba
-description: Obtenga información sobre cómo abrir, identificar, marcar, comentar y comparar versiones de prueba en [!DNL  Workfront].
+title: Ver y comparar versiones de prueba
+description: Obtenga información sobre cómo abrir, identificar, marcar, comentar y comparar versiones de la revisión en  [!DNL  Workfront].
 activity: use
 feature: Workfront Proof
 type: Tutorial
@@ -12,18 +12,18 @@ jira: KT-8845
 doc-type: video
 exl-id: 8ade7208-4a39-4471-845f-5290fe27b66b
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '62'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Visualización y comparación de versiones de prueba
+# Ver y comparar versiones de prueba
 
-En este vídeo, aprenderá a hacer lo siguiente:
+Este vídeo contiene información sobre:
 
-* Abrir una versión de una revisión
-* Determine la versión de revisión que está viendo
+* Abrir una versión de una prueba
+* Determine qué versión de prueba está viendo
 * Realizar comentarios y marcas en una versión
 * Comparar la versión actual con una versión anterior del archivo
 
