@@ -7,15 +7,15 @@ mini-toc-levels: 2
 git-repo: https://github.com/AdobeDocs/workfront-learn.es-ES
 index: true
 source-git-commit: 991748b15e9252f8a903a2e6a4169c796a6923d1
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '65'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 
 # Metadatos para uso interno
 
-El archivo metadata.md incluye metadatos de nivel de repo que pasan a los archivos TOC.md de la guía del usuario en la repo. Si desea cambiar el contenido de metadata.md para cualquier guía del usuario, hágalo en cualquier archivo TOC.md.
+El archivo .md incluye metadatos de nivel de repo que pasan a los archivos de la guía del usuario TOC.md en el repositorio. Si desea cambiar el contenido de metadata.md para cualquier guía del usuario, hágalo en cualquier archivo TOC.md.
 
-Consulte [Metadatos](https://experienceleague.adobe.com/docs/authoring-guide-exl/using/editing/user-guide-setup/metadata.html?lang=en) para una lista de valores válidos para **solución**, **producto** y **type**.
+Consulte [Metadatos](https://experienceleague.adobe.com/docs/authoring-guide-exl/using/editing/user-guide-setup/metadata.html?lang=es) para una lista de valores válidos para **solución**, **producto** y **tipo**.
