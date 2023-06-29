@@ -1,6 +1,6 @@
 ---
-title: Comprender las colas de solicitudes
-description: Descubra cómo se estructuran las colas de solicitudes en [!DNL  Workfront] y cómo enviar una solicitud.
+title: Explicación de las colas de solicitud
+description: Descubra cómo se estructuran las colas de solicitud en  [!DNL  Workfront]  y cómo enviar una solicitud.
 activity: use
 feature: Work Management
 type: Tutorial
@@ -12,49 +12,49 @@ jira: KT-8957
 exl-id: 8d6f8ddc-c08e-46f6-8b77-50af02c36b5c
 doc-type: video
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '262'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Comprender las colas de solicitudes
+# Explicación de las colas de solicitud
 
-En este vídeo, aprenderá lo siguiente:
+Este vídeo contiene información sobre:
 
-* Cómo enviar una solicitud a través de un [!DNL  Workfront] cola de solicitudes
-* Cómo se estructuran las colas de solicitudes
+* Cómo enviar una solicitud a través de una cola de solicitudes de [!DNL  Workfront]
+* Cómo se estructuran las colas de solicitud
 
 >[!VIDEO](https://video.tv.adobe.com/v/335220/?quality=12&learn=on)
 
-## Solicitar borradores guardados automáticamente
+## Solicitar que los borradores se guarden automáticamente
 
-Cuando empiece a rellenar un formulario de solicitud, [!DNL Workfront] guarda un borrador automáticamente después de rellenar el [!UICONTROL Asunto] field. Esto significa que no perderá datos si necesita salir del [!UICONTROL Solicitudes] para hacer otra cosa o si necesita hacer una pausa en medio de su solicitud para recopilar más información.
+Cuando se empieza a rellenar un formulario de solicitud, [!DNL Workfront] guarda un borrador automáticamente después de rellenar el campo [!UICONTROL Asunto]. Esto significa que no perderá datos si necesita alejarse del área de [!UICONTROL Solicitudes] para hacer otra cosa o si necesita hacer una pausa en medio de la solicitud para recopilar más información.
 
-Verá una indicación de que el borrador se ha guardado en la parte superior de la ventana. [!DNL Workfront] guardará un borrador de su solicitud, incluso si los campos obligatorios aún no se han rellenado.
+Verá una indicación de que el borrador se ha guardado en la parte superior de la ventana. [!DNL Workfront] guardará un borrador de la solicitud, incluso si los campos obligatorios aún no se han rellenado.
 
-![imagen de un borrador al crear una solicitud](assets/queue-mgt-make-a-request-draft-1.png)
+![imagen de un borrador de solicitud](assets/queue-mgt-make-a-request-draft-1.png)
 
-Cuando esté listo para enviar la solicitud, búsquela en la [!UICONTROL Borradores] pestaña. Haga clic en el nombre para abrirlo y terminar de rellenar el formulario. Luego haga clic en [!UICONTROL Enviar solicitud] cuando haya terminado.
+Cuando esté listo para enviar la solicitud, localícela en la pestaña [!UICONTROL Borradores]. Haga clic en el nombre para abrirlo y terminar de rellenar el formulario. A continuación, haga clic en [!UICONTROL Enviar solicitud] cuando haya terminado.
 
-![imagen de un borrador de solicitud recuperado](assets/queue-mgt-make-a-request-draft-2.png)
+![imagen de recuperación de un borrador de solicitud](assets/queue-mgt-make-a-request-draft-2.png)
 
-## Tu turno
+## Su turno
 
-Vamos a dedicar un minuto a revisar la información que acaba de presentar.
+Tomemos un minuto para revisar la información que acaba de presentar.
 
-**Pregunta:** ¿Cómo realiza una solicitud en Workfront? Enumere los pasos en orden.
+**Pregunta:** ¿Cómo se realiza una solicitud en Workfront? Enumere los pasos en orden.
 
 * Elija el tipo de solicitud que debe realizar
 * Haga clic en Enviar solicitud
 * Rellene la información del formulario
-* Haga clic en &quot;Nueva solicitud&quot;
-* Vaya al área de solicitud
+* Haga clic en “Nueva solicitud”
+* Navegar al área de la solicitud
 
 
-**Respuesta:** Vaya al área de solicitud > Haga clic en Nueva solicitud > Elija el tipo de solicitud que necesita realizar > Rellene la información del formulario > Haga clic en Enviar solicitud
+**Respuesta:** Vaya al área de solicitud > Haga clic en Nueva solicitud > Elija el tipo de solicitud que debe realizar > Rellene la información del formulario > Haga clic en Enviar solicitud
 
-**Pregunta:** Una solicitud es realmente un ...
+**Pregunta:** Una solicitud es realmente un...
 
 **Respuesta:** Problema
 
