@@ -1,6 +1,6 @@
 ---
-title: Cómo realizar una actualización en [!UICONTROL Inicio]
-description: Obtenga información sobre cómo realizar actualizaciones en asignaciones de trabajo y responder a actualizaciones existentes. Etiqueta [!DNL Workfront] los usuarios en las actualizaciones para que se les notifique la comunicación.
+title: Cómo realizar una actualización en el [!UICONTROL Inicio]
+description: Obtenga información sobre cómo actualizar las asignaciones de trabajo y responder a las actualizaciones existentes. Etiquete a los usuarios de  [!DNL Workfront]  en las actualizaciones para que se les notifique sobre la comunicación.
 feature: Work Management
 type: Tutorial
 role: User
@@ -12,35 +12,35 @@ jira: KT-8801
 exl-id: a63af21e-7646-41b2-97f7-7cbfc7a031b0
 doc-type: video
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '245'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Comunicarse sobre el trabajo con actualizaciones en [!DNL Workfront] [!UICONTROL Inicio]
+# Comunique sobre los trabajos con las actualizaciones en el [!UICONTROL Inicio] de [!DNL Workfront] 
 
-En este vídeo, aprenderá a hacer lo siguiente:
+Este vídeo contiene información sobre:
 
-* Comunicarse mediante actualizaciones de asignaciones de trabajo
-* Etiquetar usuarios en [!DNL Workfront] actualizaciones
+* Comunicarse mediante actualizaciones sobre las asignaciones de trabajo
+* Etiquete a los usuarios en las actualizaciones de [!DNL Workfront]
 * Responder a actualizaciones existentes
 
 >[!VIDEO](https://video.tv.adobe.com/v/335102/?quality=12&learn=on)
 
-## Sugerencias para actualizar el trabajo en [!UICONTROL Inicio]
+## Sugerencias para actualizar los trabajos en el [!UICONTROL inicio]
 
-* Use actualizaciones para hacer preguntas, proporcionar información adicional o compartir una actualización general sobre el trabajo realizado.
-* &quot;Etiqueta&quot; otro [!UICONTROL Workfront] usuarios con el @name de asegurarse de que reciben notificaciones sobre la actualización. Esta es la mejor manera de asegurarse de que personas específicas vean la información más reciente. Puede &quot;etiquetar&quot; a usuarios individuales o a un equipo en una actualización.
-* Recuerde, el equivalente al infame correo electrónico &quot;responder a todos&quot; es cuando etiqueta un equipo o un grupo y continúa respondiendo dentro del hilo. Tenga esto en cuenta para evitar causar molestia. Puede dirigir la etiqueta por encima o por debajo, pero dentro del contexto del objeto.
+* Utilice actualizaciones para hacer preguntas, proporcionar información adicional o compartir una actualización general sobre el trabajo realizado.
+* “Etiquete” a otros usuarios de [!UICONTROL Workfront] con @nombre para asegurarse de que reciban notificaciones sobre la actualización. Esta es la mejor manera de asegurarse de que determinadas personas vean la información más reciente. Puede “etiquetar” a usuarios individuales o a un equipo en una actualización.
+* Recuerde, el equivalente al infame correo electrónico “responder a todos” es cuando etiquete un equipo o un grupo y siga respondiendo dentro del subproceso. Tenga en cuenta esto para evitar causar molestias. Puede dirigir la etiqueta por encima o por debajo todavía dentro del contexto del objeto.
 
 <!---
 paragraph below needs a hyperlink to an article
 --->
 
-* Si no está asignado a una tarea pero desea recibir notificaciones, suscríbase a la tarea. Obtenga más información en el artículo Suscribirse a elementos en [!UICONTROL Workfront] en el nuevo [!UICONTROL Workfront] experiencia.
-* Publicar actualizaciones en un día específico de la semana para que todos sepan cuándo buscar la información más reciente.
-* Utilice las herramientas de texto enriquecido para dar formato a las actualizaciones. Haga que la información destaque con negrita o cree un resumen fácil de leer con puntos de viñeta.
+* Si usted no está asignado a una tarea, pero desea recibir notificaciones, suscríbase a la tarea. Obtenga más información en el artículo Suscribirse a los elementos de [!UICONTROL Workfront] en la nueva experiencia de [!UICONTROL Workfront].
+* Publique actualizaciones en un día específico de la semana para que todos sepan cuándo buscar la información más reciente.
+* Utilice las herramientas de texto enriquecido para dar formato a las actualizaciones. Haga que la información se destaque con negrita o cree un resumen fácil de leer con viñetas.
 
 <!---
 learn more URLs
