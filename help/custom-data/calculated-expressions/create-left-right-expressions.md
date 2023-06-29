@@ -1,6 +1,6 @@
 ---
-title: Crear expresiones LEFT/RIGHT
-description: Aprenda a utilizar las expresiones LEFT/RIGHT en un campo calculado en Adobe [!DNL Workfront].
+title: Crear expresiones IZQUIERDA/DERECHA
+description: Aprenda a utilizar las expresiones IZQUIERDA/DERECHA en un campo calculado en Adobe [!DNL Workfront].
 feature: System Setup and Administration
 type: Tutorial
 role: Admin, Leader, User
@@ -12,17 +12,17 @@ jira: KT-8885
 exl-id: 6d0ad842-e354-465c-8b9c-88eb75d47fbc
 doc-type: video
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '46'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Crear expresiones LEFT/RIGHT
+# Crear expresiones IZQUIERDA/DERECHA
 
-En este vídeo, aprenderá lo siguiente:
+Este vídeo contiene información sobre:
 
-* Lo que hace la expresión LEFT / RIGHT
-* Cómo utilizar una expresión de texto LEFT / RIGHT en un campo calculado
+* Qué hacen las expresiones IZQUIERDA/DERECHA
+* Cómo usar una expresión de texto IZQUIERDA/DERECHA en un campo calculado
 
 >[!VIDEO](https://video.tv.adobe.com/v/335179/?quality=12&learn=on)
