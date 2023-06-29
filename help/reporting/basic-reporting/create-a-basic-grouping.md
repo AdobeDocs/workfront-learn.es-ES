@@ -1,6 +1,6 @@
 ---
-title: Crear una agrupación básica
-description: Descubra qué es una agrupación, cómo crearla y cómo compartirla con otros usuarios en Workfront.
+title: Creación de una agrupación básica
+description: Conozca qué es una agrupación, cómo crear una agrupación y cómo compartirla con otros usuarios en Workfront.
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335147.jpeg
@@ -12,15 +12,15 @@ jira: KT-8853
 exl-id: e564b836-29fc-43b8-adef-1465a2f765c9
 doc-type: video
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '228'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Crear una agrupación básica
+# Creación de una agrupación básica
 
-En este vídeo, aprenderá lo siguiente:
+Este vídeo contiene información sobre:
 
 * Qué es una agrupación en Workfront
 * Cómo crear una agrupación
@@ -30,24 +30,24 @@ En este vídeo, aprenderá lo siguiente:
 
 ## Actividad: Crear una agrupación básica
 
-Cree una agrupación de problemas que se utilizará en un informe para realizar el seguimiento de las solicitudes que pasan a través de una cola de solicitudes. Esta agrupación facilitará la visualización de tipos similares de problemas/solicitudes agrupados por su prioridad. Asigne un nombre a la agrupación &quot;Cola de solicitudes, Tema de cola, Prioridad&quot;.
+Cree una agrupación de problemas que se utilizará en un informe para rastrear las solicitudes que llegan a través de una cola de solicitudes. Esta agrupación facilitará la visualización de tipos similares de problemas/solicitudes agrupados por su prioridad. Asigne un nombre a la agrupación “Cola de solicitudes, Tema de la cola, Prioridad”.
 
-Agrupar el informe de problemas en función de:
+Agrupe el informe de problemas en función de lo siguiente:
 
-1. Nombre de la cola de solicitudes (será el nombre del proyecto)
-1. Tema de la cola
-1. La prioridad de la solicitud
+1. El nombre de la cola de solicitudes (será el nombre del proyecto)
+1. El tema de la cola
+1. Prioridad de la solicitud
 
 ## Respuesta
 
-![Imagen de la pantalla para crear una nueva agrupación](assets/grouping-exercise.png)
+![Una imagen de la pantalla para crear una nueva agrupación](assets/grouping-exercise.png)
 
-1. En un informe de lista de problemas, vaya a **[!UICONTROL Agrupación]** y seleccione **[!UICONTROL Nueva agrupación]**.
-1. Asigne un nombre a la agrupación &quot;Cola de solicitudes, Tema de cola, Prioridad&quot;.
-1. Clic **[!UICONTROL Agregar agrupación]**.
-1. En el [!UICONTROL Primero por] field. escriba &quot;nombre del proyecto&quot; y seleccione **[!UICONTROL Nombre]** en el origen del campo Proyecto.
-1. Clic **[!UICONTROL Añadir otra agrupación]**.
-1. En el [!UICONTROL Y luego por] , escriba &quot;queue&quot; y seleccione **[!UICONTROL Nombre]** en el [!UICONTROL Tema de cola] origen del campo.
-1. Clic **[!UICONTROL Añadir otra agrupación]**.
-1. En el [!UICONTROL Y luego por] , escriba &quot;prioridad&quot; y seleccione **[!UICONTROL Prioridad]** en el [!UICONTROL Problema] origen del campo.
-1. Clic **[!UICONTROL Guardar agrupación]**
+1. En un informe de lista de problemas, vaya al menú **[!UICONTROL Agrupación]** y seleccione **[!UICONTROL Nuevo grupo]**.
+1. Asigne un nombre a la agrupación “Cola de solicitudes, Tema de la cola, Prioridad”.
+1. Haga clic en **[!UICONTROL Agregar agrupación]**.
+1. En el campo [!UICONTROL Primero en]. escriba “nombre del proyecto” y seleccione **[!UICONTROL Nombre]** en el origen del campo Proyecto.
+1. Haga clic en **[!UICONTROL Añadir otra Agrupación]**.
+1. En el campo [!UICONTROL Y luego en], escriba “cola” y seleccione **[!UICONTROL Nombre]** en el origen del campo [!UICONTROL Tema de la cola].
+1. Haga clic en **[!UICONTROL Añadir otra Agrupación]**.
+1. En el campo [!UICONTROL Y luego en], escriba “prioridad” y, a continuación, seleccione **[!UICONTROL Prioridad]** en la fuente del campo [!UICONTROL Problema].
+1. Haga clic en **[!UICONTROL Guardar agrupación]**
