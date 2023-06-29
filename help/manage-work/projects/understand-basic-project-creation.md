@@ -1,5 +1,5 @@
 ---
-title: Comprender la creación básica de proyectos
+title: Información sobre la creación básica del proyecto
 description: Conozca los cuatro pasos para poner en marcha un proyecto, su definición y las tres formas más frecuentes de crearlos.
 activity: use
 feature: Work Management
@@ -12,15 +12,15 @@ jira: KT-8768
 exl-id: 1be0bec5-13b3-44b0-ba49-d25adf0378a5
 doc-type: video
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '143'
-ht-degree: 22%
+ht-degree: 100%
 
 ---
 
-# Comprender la creación básica de proyectos
+# Información sobre la creación básica del proyecto
 
-En este vídeo, aprenderá lo siguiente:
+Este vídeo contiene información sobre:
 
 * Cuatro pasos para poner en marcha un proyecto
 * La definición de un proyecto en [!DNL Workfront]
@@ -28,7 +28,7 @@ En este vídeo, aprenderá lo siguiente:
 
 >[!VIDEO](https://video.tv.adobe.com/v/335082/?quality=12&learn=on)
 
-Obtenga su [!DNL  Workfront] los proyectos se ejecutan rápidamente mediante una plantilla de proyecto. A continuación, planifique el proyecto centrándose primero en estos cinco campos:
+Ponga en marcha sus proyectos de [!DNL  Workfront] rápidamente mediante una plantilla de proyecto. A continuación, planifique el proyecto centrándose primero en estos cinco campos:
 
 1. Tareas
 1. Duración
@@ -36,4 +36,4 @@ Obtenga su [!DNL  Workfront] los proyectos se ejecutan rápidamente mediante una
 1. Predecesoras
 1. Asignaciones
 
-Una vez establecido todo, cambie el estado del proyecto a Actual para poner en marcha el proyecto. A medida que avance el proyecto, querrá realizar un seguimiento del trabajo realizado, los problemas que surjan, las preguntas que necesiten respuesta y mucho más. Solo recuerde... puede encontrar y administrar toda esa información en [!DNL Workfront]!
+Una vez todo esté configurado, cambie el estado del proyecto a Actual para que el proyecto esté activo. A medida que avance el proyecto, querrá realizar un seguimiento del trabajo que se está realizando, los problemas que surgen, las preguntas que necesitan respuesta, etc. Recuerde que puede encontrar y administrar toda esa información en [!DNL Workfront].
