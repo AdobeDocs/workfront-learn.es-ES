@@ -1,6 +1,6 @@
 ---
-title: Cómo registrar horas de trabajo en [!UICONTROL Inicio]
-description: Obtenga información sobre cómo registrar tiempo en asignaciones de trabajo en [!DNL  Workfront]. Comprenda por qué puede ser necesario registrar la hora en su organización.
+title: Cómo registrar horas en el trabajo en la [!UICONTROL Página de inicio]
+description: Aprenda a registrar el tiempo en las asignaciones de trabajo en  [!DNL  Workfront]. Comprenda por qué un registro del tiempo puede ser necesario en su organización.
 feature: Work Management
 type: Tutorial
 role: User
@@ -12,27 +12,27 @@ jira: KT-8802
 exl-id: 3bd3b403-bfa3-4120-8afe-7566fc8f184f
 doc-type: video
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '140'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Registrar horas de trabajo en [!DNL Workfront] [!UICONTROL Inicio]
+# Registrar las horas en el trabajo en la [!UICONTROL Página de inicio] de [!DNL Workfront] 
 
-En este vídeo, aprenderá lo siguiente:
+Este vídeo contiene información sobre:
 
-* El valor del tiempo de registro
-* Cómo registrar el tiempo de las asignaciones de trabajo
+* El valor de registrar el tiempo
+* Cómo registrar el tiempo en las asignaciones de trabajo
 
 >[!VIDEO](https://video.tv.adobe.com/v/335103/?quality=12&learn=on)
 
-## Sugerencias para registrar horas de trabajo en [!DNL Home]
+## Sugerencias para registrar las horas en el trabajo en [!DNL Home]
 
-Algunas opciones relacionadas con el registro del tiempo dependen de cómo configure Workfront el administrador del sistema.
+Algunas opciones relacionadas con el registro del tiempo dependen de cómo el administrador del sistema configure Workfront.
 
-* Es posible que pueda o no registrar tiempo en días futuros.
-* Es posible que tenga que seleccionar un tipo de hora en el menú desplegable para poder ser más específico sobre cómo pasó el tiempo. Este tipo de hora también puede indicar si su hora fue facturable o no facturable. Asegúrese de seleccionar el tipo de hora antes de introducir la hora haciendo clic en el [!UICONTROL Hora de registro] botón.
+* Puede que no pueda registrar el tiempo en días futuros.
+* Es posible que tenga que seleccionar un tipo de hora en el menú desplegable para que sea más específico sobre cómo ha dedicado su tiempo. Este tipo de hora también puede indicar si su tiempo era facturable o no facturable. Asegúrese de seleccionar el tipo de hora antes de hacer clic en el botón [!UICONTROL Registrar tiempo].
 
 <!---
 learn more URLs
