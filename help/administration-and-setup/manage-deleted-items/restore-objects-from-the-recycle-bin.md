@@ -1,6 +1,6 @@
 ---
-title: Restaurar objetos de la papelera de reciclaje
-description: Obtenga información sobre cómo buscar y restaurar proyectos, tareas o problemas eliminados de la papelera de reciclaje.
+title: Restaurar objetos desde la papelera de reciclaje
+description: Aprenda a buscar y restaurar proyectos, tareas o problemas eliminados de la papelera de reciclaje.
 feature: System Setup and Administration
 activity: deploy
 type: Tutorial
@@ -11,39 +11,39 @@ thumbnail: 10100.jpeg
 jira: KT-10100
 exl-id: 72eafec6-b4fc-454a-9372-4df1cdcba745
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '253'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Restaurar objetos de la papelera de reciclaje
+# Restaurar objetos desde la papelera de reciclaje
 
-El trabajo del proyecto pasa por muchos cambios. Puede eliminar algo, solo para darse cuenta 30 minutos después de que la tarea era necesaria o de que el documento era vital para el problema que está intentando resolver.
+El trabajo del proyecto experimenta muchos cambios. Puede eliminar algo y 30 minutos más tarde se da cuenta de que la tarea era necesaria o que el documento era vital para el problema que está tratando de resolver.
 
-Con la papelera de reciclaje, cuando se elimina el objeto, Workfront lo coloca en la papelera durante un máximo de 30 días. El administrador del sistema puede restaurar el objeto a su posición original en Workfront, junto con toda su información (actualizaciones, horas registradas, documentos, etc.).
+Cuando se elimina algún objeto, Workfront lo coloca en la papelera de reciclaje durante un máximo de 30 días. El administrador del sistema puede restaurar el objeto a su posición original en Workfront, junto con toda su información (actualizaciones, horas registradas, documentos, etc.).
 
-## Restaurar un objeto
+## Restauración de un objeto
 
-1. Seleccione el **Configurar** área en la **Menú principal**.
-1. Clic **Papelera de reciclaje** en el panel izquierdo.
-1. Seleccionar **Eliminados recientemente**.
+1. Seleccione el área **Configuración** en el **Menú principal**.
+1. Haga clic en **Papelera de reciclaje** en el panel de la izquierda.
+1. Seleccione **Eliminado recientemente**.
 
-![Sección de papelera de reciclaje eliminada recientemente en el área de configuración](assets/admin-fund-recycle-bin-1.png)
+![Sección Eliminado recientemente de la papelera de reciclaje en el área de configuración](assets/admin-fund-recycle-bin-1.png)
 
 Cada objeto restaurable tiene una pestaña para facilitar la búsqueda del elemento concreto que se va a restaurar.
 
 1. Haga clic en la pestaña del objeto deseado.
-1. Marque la casilla junto a los objetos que desea restaurar.
-1. Haga clic en **Restaurar** botón.
+1. Marque la casilla junto a los objetos para restaurarlos.
+1. Haga clic en el botón **Restaurar**.
 
-![Elementos seleccionados en la papelera de reciclaje](assets/admin-fund-recycle-bin-2.png)
+![Elementos seleccionados de la papelera de reciclaje](assets/admin-fund-recycle-bin-2.png)
 
-El objeto u objetos que se están restaurando aparecerán brevemente en un [!UICONTROL En curso] sección. Una vez que la pantalla se actualiza, los objetos ya no aparecen en la pantalla porque se han restaurado. Los elementos aparecen en el lugar en el que estaban anteriormente [!DNL Workfront], que puede verificar en la [!UICONTROL Restaurados recientemente] pantalla.
+Los objetos que se restauran se mostrarán brevemente en la sección [!UICONTROL En curso]. Una vez que se actualiza la pantalla, los objetos ya no aparecen en la pantalla porque se han restaurado. Los elementos aparecen donde estaban anteriormente en [!DNL Workfront], lo cual se puede verificar en la pantalla [!UICONTROL Restaurado recientemente].
 
-![Sección de la papelera de reciclaje restaurada recientemente en el área de configuración](assets/admin-fund-recycle-bin-3.png)
+![Sección Restaurado recientemente de la papelera de reciclaje en el área de configuración](assets/admin-fund-recycle-bin-3.png)
 
-Los administradores de grupos pueden restaurar un proyecto asociado al grupo que administran, así como cualquier tarea, problema o documento asociado con el proyecto.
+Los administradores del grupo pueden restaurar un proyecto asociado al grupo que administran, junto con cualquier tarea, problema o documento asociado al proyecto.
 
 <!---
 learn more URL
