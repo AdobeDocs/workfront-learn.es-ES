@@ -1,6 +1,6 @@
 ---
-title: Publique un proyecto
-description: Aprenda a tomar su [!DNL  Workfront] proyecto activo mediante el estado del proyecto.
+title: Lanzamiento de un proyecto
+description: Aprenda a lanzar su proyecto de  [!DNL  Workfront]  utilizando el estado del proyecto.
 activity: use
 feature: Work Management
 thumbnail: 335093.jpeg
@@ -12,16 +12,16 @@ jira: KT-8780
 exl-id: 100aed51-2ab4-4a75-af2b-1860c7463a3c
 doc-type: video
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '35'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Publique un proyecto
+# Lanzamiento de un proyecto
 
-En este vídeo, aprenderá a hacer lo siguiente:
+Este vídeo contiene información sobre:
 
-* Publique el proyecto mediante el estado del proyecto
+* Lanzar su proyecto utilizando el estado del proyecto
 
 >[!VIDEO](https://video.tv.adobe.com/v/335093/?quality=12&learn=on)
