@@ -1,6 +1,6 @@
 ---
-title: Trabajo con recursos en [!UICONTROL WORKFRONT DAM]
-description: Aprenda a trabajar con recursos en [!UICONTROL WORKFRONT DAM].
+title: Trabajar con recursos en [!UICONTROL DAM de Workfront]
+description: Obtenga información sobre cómo trabajar con recursos en [!UICONTROL DAM de Workfront].
 activity: use
 feature: Digital Content and Documents
 type: Tutorial
@@ -11,18 +11,18 @@ jira: KT-8995
 doc-type: video
 exl-id: ae0f3a7f-ca79-451f-851c-6792f44d218f
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '50'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Colaborador: trabajar con recursos
+# Colaborador: trabajo con recursos
 
-En este vídeo, aprenderá a hacer lo siguiente:
+Este vídeo contiene información sobre:
 
-* Cargar recursos en [!UICONTROL WORKFRONT DAM]
-* Añadir metadatos y palabras clave a los recursos
+* Carga de recursos a [!UICONTROL DAM de Workfront]
+* Adición de metadatos y palabras clave a los recursos
 * Uso de una plantilla de metadatos
 * Adición de archivos relacionados a un recurso
 * Descarga de recursos
