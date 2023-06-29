@@ -1,6 +1,6 @@
 ---
-title: Asignar trabajo en el Distribuidor de cargas de trabajo
-description: Obtenga información sobre cómo ver el panel de resumen de tareas y realizar asignaciones a una tarea no asignada.
+title: Asignación de trabajo en el Distribuidor de cargas de trabajo
+description: Obtenga información sobre cómo ver el panel de resumen de tareas y efectuar asignaciones a una tarea no asignada.
 feature: Resource Management
 type: Tutorial
 role: Leader, User
@@ -12,18 +12,18 @@ jira: KT-8878
 exl-id: ec3dd98e-4944-4d6a-9936-be83c390fa2e
 doc-type: video
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '50'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Asignar trabajo en [!DNL Workload Balancer]
+# Asignación de trabajo en [!DNL Workload Balancer]
 
-En este vídeo, aprenderá a hacer lo siguiente:
+Este vídeo contiene información sobre:
 
-* Vea el panel de resumen de tareas para ver los detalles de una tarea
-* Realizar asignaciones a una tarea sin asignar
+* Vista del panel de resumen de tareas para ver los detalles de una tarea
+* Asignaciones a una tarea no asignada
 
 
 >[!VIDEO](https://video.tv.adobe.com/v/335166/?quality=12&learn=on)
