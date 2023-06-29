@@ -1,6 +1,6 @@
 ---
-title: Creación de empresas
-description: Aprenda a utilizar compañías como parte de su organización de usuarios y estructura de permisos de elementos. A continuación, cree compañías para su organización.
+title: Creación de compañías
+description: Obtenga información sobre cómo utilizar a las compañías como parte de su organización de usuarios y estructura de permisos de elementos. A continuación, cree las compañías para su organización.
 feature: System Setup and Administration
 activity: deploy
 type: Tutorial
@@ -12,17 +12,17 @@ jira: KT-8757
 exl-id: 1a48aa59-ae69-4bd9-843c-8edfc0bdb517
 doc-type: video
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '41'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Creación de empresas
+# Creación de compañías
 
-En este vídeo, aprenderá lo siguiente:
+Este vídeo contiene información sobre:
 
 * Definición de compañías de Workfront
-* Cómo crear empresas y asociaciones
+* Cómo crear compañías y asociaciones
 
 >[!VIDEO](https://video.tv.adobe.com/v/335069/?quality=12&learn=on)
