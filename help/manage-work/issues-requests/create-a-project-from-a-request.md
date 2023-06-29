@@ -12,18 +12,18 @@ jira: KT-9723
 exl-id: 5095d6bb-2721-47f1-be52-8e43d3edb2fd
 doc-type: video
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '57'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 # Creación de un proyecto a partir de una solicitud
 
-En este vídeo, aprenderá a hacer lo siguiente:
+Este vídeo contiene información sobre:
 
-* Revisar la información enviada con la solicitud
+* Revise la información enviada con la solicitud
 * Seleccione la plantilla de proyecto adecuada
-* Completar la conversión de solicitud a proyecto
+* Complete la conversión de solicitud a proyecto
 
 >[!VIDEO](https://video.tv.adobe.com/v/340343/?quality=12&learn=on)
