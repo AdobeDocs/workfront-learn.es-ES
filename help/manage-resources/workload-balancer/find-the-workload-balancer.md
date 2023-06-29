@@ -1,6 +1,6 @@
 ---
-title: Búsqueda del Distribuidor de cargas de trabajo
-description: Obtenga información sobre cómo encontrar el equilibrador de carga de trabajo en Workfront y familiarizarse con algunas de las áreas disponibles.
+title: Buscar el equilibrador de carga de trabajo
+description: Aprenda a encontrar el Distribuidor de cargas de trabajo en Workfront y a familiarizarse con algunas de las áreas disponibles.
 feature: Resource Management
 type: Tutorial
 role: Leader, User
@@ -10,39 +10,39 @@ team: Technical Marketing
 thumbnail: find-wlb.png
 jira: KT-10188
 exl-id: 788a7810-a8dd-4f36-81ac-119d6204a909
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+source-git-commit: 23f4ab82d2823217c81a3fd37796e2a1260e7cf5
+workflow-type: ht
 source-wordcount: '244'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Busque el [!DNL Workload Balancer]
+# Encontrar el [!DNL Workload Balancer]
 
-Saber qué recursos están disponibles y cómo distribuirlos puede ser una tarea difícil para cualquiera. Por este motivo, Workfront ha creado el [!DNL Workload Balancer].
+Saber qué recursos están disponibles y cómo distribuirlos puede ser una tarea difícil para cualquiera. Por eso Workfront creó el [!DNL Workload Balancer].
 
-Su propósito es darle una buena perspectiva y administración de las cargas de trabajo diarias y semanales de las personas que administra. Esto le ayuda a realizar mejores asignaciones, según la función y la disponibilidad, en varios proyectos.
+Su objetivo es proporcionarle una mayor comprensión y administración de las cargas de trabajo diarias y semanales de las personas que dirige. Esto le ayuda a hacer mejores asignaciones, según la función y la disponibilidad, a través de múltiples proyectos.
 
 ![recursos en el menú principal](assets/Find_01.png)
 
-* Clic [!UICONTROL Recursos] en el [!UICONTROL Menú principal].
-* Vaya a la [!UICONTROL Programación] de la sección Administración de recursos.
-* Haga clic en [!UICONTROL &quot;Distribuidor de cargas de trabajo&quot;] que aparece.
+* Haga clic en [!UICONTROL Recurso] en el [!UICONTROL Menú principal].
+* Vaya a la sección [!UICONTROL Programación] en el área Administración de recursos.
+* Haga clic en la sección que aparece del [!UICONTROL “Distribuidor de cargas de trabajo”].
 
-![sección distribuidor de cargas](assets/Find_02.png)
+![sección del Distribuidor de cargas de trabajo](assets/Find_02.png)
 
 ## Áreas dentro del Distribuidor de cargas de trabajo
 
-Aparecen dos secciones en la variable [!DNL Workload Balancer]: Trabajo asignado y Trabajo no asignado.
+Aparecen dos secciones en [!DNL Workload Balancer]: trabajo asignado y trabajo no asignado.
 
-![área sin asignar](assets/Find_03.png)
+![área no asignada](assets/Find_03.png)
 
-El área Trabajo asignado muestra una lista de usuarios y el trabajo al que ya se les ha asignado en Workfront. De forma predeterminada, esta área se filtra a los usuarios que forman parte de los equipos de Workfront a los que pertenece. De este modo puede ver en qué equipo se han asignado miembros para trabajar.
+El área trabajo asignado muestra una lista de usuarios y el trabajo al que ya han sido asignados en Workfront. De forma predeterminada, esta área se filtra a los usuarios que forman parte de los equipos de Workfront a los que usted pertenece. De este modo puede ver en qué integrantes del equipo se han asignado para trabajar.
 
-![usuarios del área asignada](assets/Find_03b.png)
+![usuarios de área asignados](assets/Find_03b.png)
 
-El área de Trabajo no asignado muestra el trabajo que aún debe asignarse, ya sea a una persona, un rol o un equipo. Sin embargo, al principio, esta área no mostrará nada.
+El área Trabajo sin asignar muestra el trabajo que aún debe asignarse, ya sea a una persona, a una función de trabajo o a un equipo. Sin embargo, inicialmente, esta área no mostrará nada.
 
 ![área de trabajo sin asignar](assets/Find_03c.png)
 
-Al comenzar con el área de Trabajo no asignado en blanco, tiene la oportunidad de centrarse primero en las cargas de trabajo actuales de los usuarios, en el área de Trabajo asignado, antes de realizar asignaciones.
+Al comenzar con el área Trabajo sin asignar en blanco, tiene la oportunidad de centrarse primero en las cargas de trabajo actuales de los usuarios, en el área Trabajo asignado, antes de realizar asignaciones.
