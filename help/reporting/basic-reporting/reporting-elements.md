@@ -1,6 +1,6 @@
 ---
-title: Comprender los elementos de informes
-description: Aprenda a utilizar elementos de creación de informes existentes (filtros, vistas y agrupaciones) para acceder a la información que se rastrea en Workfront.
+title: Comprensión de los elementos de creación de informes
+description: Aprenda a utilizar los elementos de informes existentes (filtros, vistas y agrupaciones) para acceder a la información que se rastrea en Workfront.
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335145.jpeg
@@ -12,16 +12,16 @@ jira: KT-8849
 exl-id: 50e2fab3-f548-4c21-9f11-1ebc449822e1
 doc-type: video
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '45'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Comprender los elementos de informes
+# Comprensión de los elementos de creación de informes
 
-En este vídeo, aprenderá a hacer lo siguiente:
+Este vídeo contiene información sobre:
 
-* Utilice los elementos de creación de informes existentes (filtros, vistas y agrupaciones) para acceder a la valiosa información de la que se realiza un seguimiento en Workfront
+* Utilice los elementos de creación de informes existentes (filtros, vistas y agrupaciones) para acceder a la valiosa información que se rastrea en Workfront
 
 >[!VIDEO](https://video.tv.adobe.com/v/335145/?quality=12&learn=on)
