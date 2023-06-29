@@ -1,8 +1,8 @@
 ---
 source-git-commit: 960fec2f8329aa037e7342a63f37f8c26042e8d4
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '294'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 # Contribución
@@ -17,7 +17,7 @@ Este proyecto se adhiere al [código de conducta](code-of-conduct.md) de Adobe. 
 
 ## Documentación de la Guía de colaborador
 
-Consulte la [Guía de colaborador](https://experienceleague.adobe.com/docs/contributor/contributor-guide/introduction.html).
+Consulte la [Guía de colaborador](https://experienceleague.adobe.com/docs/contributor/contributor-guide/introduction.html?lang=es).
 
 ## ¿Tiene una pregunta?
 
@@ -38,7 +38,7 @@ submitting a pull request!
 
 ## De colaborador a creador
 
-Nos encanta que nuestra comunidad contribuya. Si quiere ir un paso más allá de colaborador y convertirse en creador con pleno acceso de escritura y voz en el proyecto, debe recibir una invitación al proyecto. Los creadores existentes emplean un proceso de nominación interno que debe alcanzar un &quot;consenso perezoso&quot; (el silencio es la aprobación) antes de que se emitan las invitaciones. Si cree que reúne las condiciones necesarias y quiere implicarse más profundamente, no dude en ponerse en contacto con los creadores existentes para mantener una conversación al respecto.
+Nos encanta que nuestra comunidad contribuya. Si quiere ir un paso más allá de colaborador y convertirse en creador con pleno acceso de escritura y voz en el proyecto, debe recibir una invitación al proyecto. Los creadores existentes emplean un proceso de nominación interno que debe alcanzar un “consenso perezoso” (el silencio es la aprobación) antes de que se emitan las invitaciones. Si cree que reúne las condiciones necesarias y quiere implicarse más profundamente, no dude en ponerse en contacto con los creadores existentes para mantener una conversación al respecto.
 
 ## Problemas de seguridad
 
