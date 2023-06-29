@@ -1,6 +1,6 @@
 ---
-title: Póngalo y cógelo
-description: Aprenda a compartir datos entre diferentes rutas y a utilizar las variables Set y Get, todo en [!DNL Adobe Workfront Fusion].
+title: Variables Set/Get
+description: Obtenga información sobre cómo compartir datos entre diferentes rutas y utilice las variables Set/Get, todo en  [!DNL Adobe Workfront Fusion].
 activity: use
 team: Technical Marketing
 type: Tutorial
@@ -11,17 +11,17 @@ jira: KT-9016
 exl-id: 18781714-af56-4bde-84c5-bf445186e43a
 doc-type: video
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '44'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Póngalo y cógelo
+# Variables Set/Get
 
-En este vídeo, aprenderá a hacer lo siguiente:
+Este vídeo contiene información sobre:
 
-* Uso compartido de datos entre diferentes rutas
-* Usar las variables Set y Get
+* Compartir datos entre diferentes rutas
+* Uso de las variables Set/Get
 
 >[!VIDEO](https://video.tv.adobe.com/v/335275/?quality=12&learn=on)
