@@ -1,6 +1,6 @@
 ---
 title: Comprender la comunicación del proyecto
-description: Obtenga información sobre cómo comunicar el trabajo del proyecto mediante una buena planificación de proyectos, actualizaciones, estado de las tareas, porcentaje completado, problemas e informes.
+description: Obtenga información sobre cómo comunicarse sobre el trabajo del proyecto mediante una buena planificación del proyecto, actualizaciones, estado de la tarea, porcentaje completado, problemas e informes.
 activity: use
 team: Technical Marketing
 feature: Work Management
@@ -12,9 +12,9 @@ last-substantial-update: 2023-05-05T00:00:00Z
 jira: KT-10147
 exl-id: 0f2a2c78-8844-47b1-b0db-542392d9ce97
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '108'
-ht-degree: 2%
+ht-degree: 100%
 
 ---
 
@@ -32,6 +32,6 @@ En este vídeo aprenderá a comunicarse con todas las partes interesadas del pro
 
 >[!TIP]
 >
->Para crear el informe Búsqueda de notas que se muestra en el vídeo, consulte la actividad en la [Crear un informe de tareas](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-task-report.html?lang=en) tutorial.
+>Para crear el informe Búsqueda de notas que se muestra en el vídeo, consulte la actividad en el tutorial [Creación de un informe de tareas](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-task-report.html?lang=es).
 >
->Para agregar el informe Búsqueda de notas al panel de proyecto, consulte la actividad en la [Creación de paneles](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-dashboards.html?lang=en) tutorial.
+>Para agregar el informe Búsqueda de notas al panel del proyecto, consulte la actividad en el tutorial [Creación de paneles](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-dashboards.html?lang=es).
