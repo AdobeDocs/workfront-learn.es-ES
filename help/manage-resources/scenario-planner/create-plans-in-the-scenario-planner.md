@@ -1,6 +1,6 @@
 ---
-title: Cómo crear un plan en [!DNL Scenario Planner]
-description: Obtenga información sobre cómo crear un plan en [!DNL Scenario Planner].
+title: Cómo crear un plan en  [!DNL Scenario Planner]
+description: Obtenga información sobre cómo crear un plan en  [!DNL Scenario Planner].
 feature: Resource Management
 type: Tutorial
 role: Leader, User
@@ -12,24 +12,24 @@ jira: KT-9076
 exl-id: 554c00cd-5958-4e5d-acec-22a96a7353b0
 doc-type: video
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '129'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Crear planes en [!DNL Scenario Planner]
+# Creación de planes en [!DNL Scenario Planner]
 
-En este vídeo, aprenderá a crear un plan en la [!DNL Scenario Planner].
+En este vídeo, aprenderá a crear un plan en [!DNL Scenario Planner].
 
 >[!VIDEO](https://video.tv.adobe.com/v/335318/?quality=12&learn=on)
 
-## Calcular información de rol para un plan
+## Cálculo de la información de la función para un plan
 
-Al crear un plan, puede establecer si el esfuerzo del rol debe estimarse en ETC o en horas. El valor predeterminado del sistema es FTE, pero se puede cambiar al crear un plan.
+Al crear un plan, puede establecer si el esfuerzo de la función debe estimarse en FTE u horas. El sistema predeterminado es FTE, pero se puede cambiar al crear un plan.
 
-![Seleccionar [!UICONTROL ETC] o [!UICONTROL Horas] en el [!UICONTROL Nuevo plan] ventana](assets/scenario-planner-1.png)
+![Seleccione [!UICONTROL FTE] u [!UICONTROL Horas] en la ventana [!UICONTROL Nuevo plan]](assets/scenario-planner-1.png)
 
-Una vez creado el plan, todos los números añadidos para los roles del plan, los escenarios del plan y cualquier iniciativa se introducen y se muestran en el formato seleccionado. Ese formato se muestra en la parte superior de las columnas que requieren información sobre la función del puesto.
+Una vez creado el plan, todos los números añadidos para las funciones, los escenarios y cualquier iniciativa se introducen y muestran en el formato seleccionado. Ese formato aparece en la parte superior de las columnas que requieren información sobre la función.
 
-![Ver información en [!UICONTROL ETC] o [!UICONTROL Horas] en el [!DNL Scenario Planner]](assets/scenario-planner-2.png)
+![Vista de información en [!UICONTROL FTE] u [!UICONTROL Horas] en [!DNL Scenario Planner]](assets/scenario-planner-2.png)
