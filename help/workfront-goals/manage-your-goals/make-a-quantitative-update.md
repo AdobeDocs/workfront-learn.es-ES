@@ -1,6 +1,6 @@
 ---
-title: Actualización del progreso de los resultados y las actividades en [!DNL Workfront Goals]
-description: Obtenga información sobre cómo actualizar el progreso en resultados y actividades en [!DNL Workfront Goals].
+title: Actualización del progreso en resultados y actividades en  [!DNL Workfront Goals]
+description: Obtenga información sobre cómo actualizar el progreso en resultados y actividades en  [!DNL Workfront Goals].
 activity: use
 feature: Workfront Goals
 type: Tutorial
@@ -11,16 +11,16 @@ jira: KT-8924
 exl-id: c535cb38-bc33-403c-a9a0-3333d715eb14
 doc-type: video
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '37'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Actualización del progreso de los resultados y las actividades
+# Actualización del progreso en resultados y actividades
 
-En este vídeo, aprenderá a hacer lo siguiente:
+Este vídeo contiene información sobre:
 
-* Actualización del progreso de los resultados y las actividades
+* Actualización del progreso en resultados y actividades
 
 >[!VIDEO](https://video.tv.adobe.com/v/335196/?quality=12&learn=on)
