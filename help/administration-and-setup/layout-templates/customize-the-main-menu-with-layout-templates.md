@@ -1,6 +1,6 @@
 ---
-title: Personalización de [!UICONTROL Menú principal] con plantillas de diseño
-description: Aprenda a utilizar una plantilla de diseño para personalizar el [!UICONTROL Menú principal].
+title: Personalice el [!UICONTROL Menú principal] con plantillas de diseño
+description: Información sobre cómo utilizar una plantilla de diseño para personalizar el [!UICONTROL Menú principal].
 feature: System Setup and Administration
 team: Technical Marketing
 role: Admin
@@ -12,19 +12,19 @@ jira: KT-8760
 exl-id: 5fa4e251-fcf3-41a4-be50-f0302a481358
 doc-type: video
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '51'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Personalización de [!UICONTROL Menú principal] con plantillas de diseño
+# Personalizar el [!UICONTROL Menú principal] con plantillas de diseño
 
-En este vídeo, aprenderá a hacer lo siguiente:
+Este vídeo contiene información sobre:
 
-* Configure las variables [!UICONTROL Menú principal]
-* Quitar elementos del [!UICONTROL Menú principal]
-* Añadir elementos a [!UICONTROL Menú principal]
+* Configurar el [!UICONTROL Menú principal]
+* Eliminar elementos del [!UICONTROL Menú principal]
+* Añadir elementos al [!UICONTROL Menú principal]
 
 
 >[!VIDEO](https://video.tv.adobe.com/v/335073/?quality=12&learn=on)
