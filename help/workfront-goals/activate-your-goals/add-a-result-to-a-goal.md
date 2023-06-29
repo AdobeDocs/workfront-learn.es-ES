@@ -1,6 +1,6 @@
 ---
-title: Añadir un resultado a una meta
-description: Obtenga información sobre cómo activar un objetivo agregando un resultado en [!DNL Workfront Goals].
+title: Agregar un resultado a una meta
+description: Aprenda a activar una meta añadiendo el resultado en  [!DNL Workfront Goals].
 activity: use
 feature: Workfront Goals
 type: Tutorial
@@ -11,15 +11,15 @@ jira: KT-8922
 exl-id: e54aa547-97d1-4603-bb63-503e605be408
 doc-type: video
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '38'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Añadir un resultado a una meta
+# Agregar un resultado a una meta
 
-En este vídeo, aprenderá a hacer lo siguiente:
+Este vídeo contiene información sobre:
 
 * Activar una meta añadiendo un resultado
 
