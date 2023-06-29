@@ -1,6 +1,6 @@
 ---
-title: Comprender la visión subyacente [!UICONTROL Objetivos de Workfront]
-description: Más información [!DNL Workfront Goals] in [!DNL  Workfront] del equipo de productos.
+title: Comprensión de la visión subyacente a [!UICONTROL Workfront Goals]
+description: Obtenga información acerca de  [!DNL Workfront Goals]  en  [!DNL  Workfront]  del equipo del producto.
 activity: use
 feature: Workfront Goals
 type: Tutorial
@@ -11,15 +11,15 @@ jira: KT-8887
 exl-id: 42327448-227b-428f-93aa-6039db1291e5
 doc-type: video
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '27'
-ht-degree: 3%
+ht-degree: 100%
 
 ---
 
-# Comprender la visión detrás de los objetivos de Workfront
+# Comprensión de la visión subyacente a Workfront Goals
 
-En este vídeo, aprenderá lo siguiente:
+En este vídeo, aprenderá sobre lo siguiente:
 
 * [!DNL Workfront Goals] en [!DNL  Workfront]
 
