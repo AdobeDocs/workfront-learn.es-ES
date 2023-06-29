@@ -1,5 +1,5 @@
 ---
-title: Cerrar una meta una vez completada
+title: Cierre de la meta una vez completada
 description: Aprenda a cerrar una meta en [!DNL Goals].
 activity: use
 feature: Workfront Goals
@@ -11,16 +11,16 @@ jira: KT-8926
 exl-id: 6d31d231-5b59-4924-907e-200800ba0f44
 doc-type: video
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '55'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Cerrar una meta una vez completada
+# Cierre de la meta una vez completada
 
-En este vídeo, aprenderá a hacer lo siguiente:
+Este vídeo contiene información sobre:
 
-* Cerrar una meta para indicar cuándo se ha completado la meta o cuándo ya no está trabajando en ella ni planea hacerlo en el futuro inmediato
+* Cierre una meta para indicar cuándo se ha alcanzado o cuándo ya no está trabajando en esta ni piensa hacerlo en el futuro inmediato
 
 >[!VIDEO](https://video.tv.adobe.com/v/335198/?quality=12&learn=on)
