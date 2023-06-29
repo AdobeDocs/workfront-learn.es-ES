@@ -1,6 +1,6 @@
 ---
-title: Introducción a [!UICONTROL WORKFRONT DAM]
-description: Obtenga información sobre cómo buscar y ver recursos y explorar cómo la estructura de carpetas afecta a la organización de recursos y al acceso en [!UICONTROL WORKFRONT DAM].
+title: Introducción al [!UICONTROL DAM de Workfront]
+description: Obtenga información sobre cómo buscar y ver recursos, y explore cómo la estructura de carpetas afecta a la organización de recursos y al acceso en el [!UICONTROL DAM de Workfront].
 activity: use
 feature: Digital Content and Documents
 type: Tutorial
@@ -11,28 +11,28 @@ jira: KT-8965
 exl-id: fdda9461-e96d-4e34-8d80-99059e5394b0
 doc-type: video
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '187'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Configuración del sistema: introducción a [!UICONTROL WORKFRONT DAM]
+# Configuración del sistema: introducción al [!UICONTROL DAM de Workfront]
 
-[!UICONTROL WORKFRONT DAM] es una solución de administración de activos digitales (DAM) diseñada especialmente para administrar, controlar y publicar sus recursos creativos y de marketing. Se puede utilizar junto con flujos de trabajo que ya tiene en [!DNL Workfront], donde puede administrar proyectos, asignaciones de tareas y otros trabajos. Uso [!DNL Workfront] para crear solicitudes de recursos y, a continuación, administrar la producción y revisión de recursos. Depurar, almacenar y distribuir recursos completados y aprobados mediante [!UICONTROL WORKFRONT DAM].
+[!UICONTROL DAM de Workfront] es una solución de administración de activos digitales (digital asset management, DAM) diseñada especialmente para administrar, controlar y publicar sus recursos creativos y de marketing. Se puede utilizar junto con flujos de trabajo que ya tiene en [!DNL Workfront], donde puede administrar proyectos, asignaciones de tareas y otros trabajos. Use [!DNL Workfront] para crear solicitudes de recursos y administrar la producción y revisión de activos. Depurar, almacenar y distribuir recursos completados y aprobados con el [!UICONTROL DAM de Workfront].
 
 
-Como administrador del sistema, usted es responsable de la configuración de [!UICONTROL WORKFRONT DAM] y mantenerlo. Necesita que las partes interesadas aporten una perspectiva de sus procesos para poder proporcionarles un sistema que satisfaga sus necesidades. Estas partes interesadas podrían incluir:
+Como administrador del sistema, usted es responsable de configurar y mantener el [!UICONTROL DAM de Workfront]. Necesita que las partes interesadas le den los datos de sus procesos para poder proporcionarles un sistema que satisfaga sus necesidades. Estas partes interesadas podrían incluir las siguientes:
 
-* Clientes internos, como gestores de ventas, representantes de publicidad o especialistas en marketing
-* Gerente de producción
-* Director creativo
-* Miembro del equipo creativo
+* Clientes internos, como gerentes de ventas, representantes de publicidad o especialistas en marketing
+* Gestores de producción
+* Directores creativos
+* Integrantes del equipo creativo
 
-En este vídeo hará lo siguiente:
+En este vídeo, aprenderá lo siguiente:
 
-* Obtenga información general de alto nivel sobre [!UICONTROL WORKFRONT DAM]
-* Buscar y ver recursos
-* Explore cómo la estructura de carpetas afecta a la organización de recursos y al acceso a ellos
+* Obtenga información general de alto nivel sobre el [!UICONTROL DAM de Workfront]
+* Búsqueda y vista de recursos
+* Explore cómo afecta la estructura de carpetas a la organización y al acceso de los recursos
 
 >[!VIDEO](https://video.tv.adobe.com/v/335228/?quality=12&learn=on)
