@@ -1,6 +1,6 @@
 ---
-title: Configuración de los usuarios de revisión
-description: Obtenga información sobre cómo determinar qué [!DNL  Workfront] los usuarios obtienen una licencia de revisión y, a continuación, ajustan la configuración de usuario en [!DNL Workfront] y la configuración del back-end.
+title: Configuración para los usuarios de la revisión
+description: Aprenda a determinar cuáles usuarios de  [!DNL  Workfront]  obtienen una licencia de revisión y, a continuación, ajuste la configuración de usuario en las configuraciones de tanto  [!DNL Workfront]  como el back-end.
 activity: use
 type: Tutorial
 feature: Workfront Proof
@@ -12,22 +12,22 @@ jira: KT-8826
 exl-id: d055825a-712c-426c-8803-37bb6105ce9f
 doc-type: video
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '111'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Configuración de los usuarios de revisión
+# Configuración para los usuarios de la revisión
 
-Antes de empezar a crear usuarios en [!DNL  Workfront], es una práctica recomendada contar con su [!DNL Workfront] Configuración del sistema de revisión y revisión completada. Algunos de estos ajustes se aplican a los perfiles de usuario a medida que se crean. Pero no se preocupe si no las obtuvo antes de que se crearan algunos usuarios... puede editar esa configuración en cada perfil de usuario individual.
+Antes de empezar a crear usuarios en [!DNL  Workfront], se recomienda completar su configuración global de [!DNL Workfront] y del sistema de prueba. Algunas de estas configuraciones se aplican a los perfiles de usuario a medida que se crean. Pero no se preocupe si no lo realizó antes de que se crearan algunos usuarios, puede editar las configuraciones en cada perfil de usuario individual.
 
 
-En este vídeo, aprenderá a hacer lo siguiente:
+Este vídeo contiene información sobre:
 
-* Determinar qué usuarios obtienen una licencia de revisión
-* Ajuste la configuración de usuario de prueba en [!DNL  Workfront]
-* Ajuste la configuración de usuario de prueba en las configuraciones del back-end de prueba
+* Determinar qué usuarios obtienen una licencia de prueba
+* Ajuste la configuración del usuario de prueba en [!DNL  Workfront]
+* Ajuste la configuración del usuario de prueba en las configuraciones del back-end de revisión
 
 >[!VIDEO](https://video.tv.adobe.com/v/335126/?quality=12&learn=on)
 
