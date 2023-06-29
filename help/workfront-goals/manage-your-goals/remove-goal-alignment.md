@@ -1,6 +1,6 @@
 ---
-title: Quitar alineación de objetivo
-description: Obtenga información sobre cómo quitar la alineación de objetivos en [!DNL Workfront Goals].
+title: Eliminar alineación de metas
+description: Aprenda a eliminar la alineación de metas en  [!DNL Workfront Goals].
 activity: use
 team: Technical Marketing
 feature: Workfront Goals
@@ -10,21 +10,21 @@ level: Beginner
 jira: KT-10124
 exl-id: 3e5751b8-2547-42c5-bcb7-d312d31271d5
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '119'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Quitar alineación de objetivo
+# Eliminar alineación de metas
 
-¿Qué sucede cuando la alineación entre metas ya no tiene sentido? Puede quitar la alineación del objetivo.
+¿Qué sucede cuando ya no se debe realizar la alineación entre las metas? También puede quitarla.
 
-1. Ir a una meta principal alineada con una meta secundaria.
-1. Haga clic en para abrir [!UICONTROL Indicadores de progreso] panel.
-1. Haga clic en la casilla de verificación situada junto a la meta secundaria que desee desconectar de la meta principal.
-1. Haga clic en el icono &quot;X&quot; junto al icono de lápiz.
+1. Vaya a una meta principal alineada con una secundaria.
+1. Haga clic para abrir el panel [!UICONTROL Indicadores de progreso].
+1. Haga clic en la casilla de verificación situada junto a la meta secundaria que desea desconectar de la principal.
+1. Haga clic en el icono “X” junto al icono de lápiz.
 
-![Captura de pantalla del [!UICONTROL Quitar alineación] opción en [!DNL Workfront Goals]](assets/08-workfront-goals-remove-goal-alignment.png)
+![Captura de pantalla de la opción [!UICONTROL Quitar alineación] en [!DNL Workfront Goals]](assets/08-workfront-goals-remove-goal-alignment.png)
 
-La meta se convierte en una meta independiente y su progreso ya no influye en el progreso de la meta principal original. No olvide agregar actividades o resultados a los objetivos para medir el progreso y moverlo a un estado Activo.
+La meta se convierte en una independiente y su progreso ya no influye en el progreso de la meta principal original. No olvide añadir actividades o resultados a las metas para medir el progreso y moverlas al estado Activo.
