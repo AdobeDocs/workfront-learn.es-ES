@@ -1,6 +1,6 @@
 ---
-title: Actualización y revisión de finanzas
-description: Obtenga información sobre cómo revisar la información financiera asociada a un proyecto en [!DNL  Workfront].
+title: Actualizar y revisar las finanzas
+description: Obtenga información sobre cómo revisar la información financiera asociada a un proyecto en  [!DNL  Workfront].
 activity: use
 team: Technical Marketing
 feature: Work Management
@@ -11,40 +11,40 @@ level: Intermediate
 jira: KT-10137
 exl-id: fd977963-c8fe-4200-b46e-3de46373f400
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '255'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Actualización y revisión de finanzas
+# Actualizar y revisar las finanzas
 
-Si su organización utiliza [!DNL Workfront] para realizar un seguimiento de la información financiera relacionada con el proyecto, revisar los gastos y crear registros de facturación puede ser parte del proceso de cierre de un proyecto.
+Si su organización utiliza [!DNL Workfront] para realizar un seguimiento de la información financiera relacionada con el proyecto, la revisión de los gastos y la creación de registros de facturación pueden formar parte de su proceso de cierre de un proyecto.
 
 >[!NOTE]
 >
->Muchos [!DNL Workfront] los clientes gestionan sus gastos y las finanzas del proyecto en un sistema de terceros, en lugar de en [!DNL Workfront]. Por lo tanto, es posible que tenga diferentes procesos o directrices para actualizar y revisar la información financiera antes de cerrar un proyecto.
+>Muchos clientes de [!DNL Workfront] gestionan sus gastos y finanzas del proyecto en un sistema de terceros, en lugar de en [!DNL Workfront]. Por lo tanto, es posible que tenga diferentes procesos o directrices para actualizar y revisar la información financiera antes de cerrar un proyecto.
 
 
 ## Gastos
 
-Los gastos se pueden registrar en tareas individuales o en el propio proyecto. Independientemente del artículo en el que esté registrado el gasto, puede ver todos los gastos en la [!UICONTROL Gastos] del proyecto en sí.
+Los gastos se pueden registrar en tareas individuales o en el propio proyecto. Independientemente de la partida en la que se registre el gasto, puede ver todos los gastos en la sección [!UICONTROL Gastos] del propio proyecto.
 
-![[!UICONTROL Gastos] sección de un proyecto](assets/expense-section.png)
+Sección ![[!UICONTROL Gastos] de un proyecto](assets/expense-section.png)
 
 ## Registros de facturación
 
-Los registros de facturación se utilizan en [!DNL Workfront] para recopilar horas facturables, gastos facturables, ingresos facturables e importes facturables adicionales en un único registro y cantidad. A menudo, se exportan desde [!DNL Workfront] en un sistema contable o de facturación de terceros.
+Los registros de facturación se utilizan en [!DNL Workfront] para agrupar las horas, gastos, ingresos y cantidades facturables adicionales en un único registro e importe. A menudo, se exportan desde [!DNL Workfront] en un sistema contable o de facturación de terceros.
 
 Debe tener acceso a los datos financieros de [!DNL Workfront] para crear y ver registros de facturación.
 
-## Información financiera
+## Datos financieros
 
-Un vistazo a la [!UICONTROL Finanzas] información en la [!UICONTROL Detalles del proyecto] le permite ver las cifras reales de beneficios, ingresos y costes.
+Un vistazo a la información de [!UICONTROL Finanzas] en los [!UICONTROL Detalles del proyecto] permite ver las cifras reales de beneficios, ingresos y costes.
 
-![Sección Finanzas de [!UICONTROL Detalles del proyecto] ventana de un proyecto](assets/finance-section-project-details.png)
+![Sección de finanzas de la ventana [!UICONTROL Detalles del proyecto] en un proyecto](assets/finance-section-project-details.png)
 
-La mayor parte de la información financiera de la [!UICONTROL Detalles del proyecto] se configura durante la creación del proyecto y los números que ve aquí se basan en esa información. Por lo tanto, al cerrar un proyecto, no es necesario actualizar ni añadir nada en los detalles financieros.
+La mayoría de la información financiera de los [!UICONTROL Detalles del proyecto] se configura durante la creación del proyecto y los números que vea aquí se basan en esa información. Por lo tanto, mientras cierra un proyecto, realmente no hay nada que necesite actualizar o agregar en los datos financieros.
 
 <!---
 learn more urls
