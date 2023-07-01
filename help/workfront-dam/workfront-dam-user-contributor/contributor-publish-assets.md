@@ -10,8 +10,8 @@ team: Technical Marketing
 jira: KT-8997
 exl-id: 30f2684c-345a-4834-9e61-4e65f0c7a3e7
 doc-type: video
-source-git-commit: 23f4ab82d2823217c81a3fd37796e2a1260e7cf5
-workflow-type: ht
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+workflow-type: tm+mt
 source-wordcount: '179'
 ht-degree: 100%
 

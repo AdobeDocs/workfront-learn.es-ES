@@ -10,8 +10,8 @@ role: User, Leader
 level: Beginner
 exl-id: f2327549-a8db-4621-867d-e6f13a6d292f
 doc-type: video
-source-git-commit: 23f4ab82d2823217c81a3fd37796e2a1260e7cf5
-workflow-type: ht
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+workflow-type: tm+mt
 source-wordcount: '52'
 ht-degree: 100%
 

@@ -10,8 +10,8 @@ level: Beginner
 jira: KT-9004
 exl-id: 3161f088-2d94-4a05-9151-d4ddc638afb0
 doc-type: video
-source-git-commit: 23f4ab82d2823217c81a3fd37796e2a1260e7cf5
-workflow-type: ht
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+workflow-type: tm+mt
 source-wordcount: '296'
 ht-degree: 100%
 

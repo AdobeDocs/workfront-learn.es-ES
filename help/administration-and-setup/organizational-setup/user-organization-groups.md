@@ -11,8 +11,8 @@ thumbnail: 335070.png
 jira: KT-8758
 exl-id: b7f8ccb5-457f-4d89-bb57-5d9d6e169191
 doc-type: video
-source-git-commit: 23f4ab82d2823217c81a3fd37796e2a1260e7cf5
-workflow-type: ht
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+workflow-type: tm+mt
 source-wordcount: '268'
 ht-degree: 100%
 

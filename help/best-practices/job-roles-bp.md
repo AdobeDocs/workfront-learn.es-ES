@@ -6,8 +6,8 @@ role: Admin, Leader, User
 level: Beginner
 jira: KT-10912
 exl-id: 1975b52d-f3db-4800-a6e7-72faeb8916b7
-source-git-commit: 23f4ab82d2823217c81a3fd37796e2a1260e7cf5
-workflow-type: ht
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+workflow-type: tm+mt
 source-wordcount: '600'
 ht-degree: 100%
 
