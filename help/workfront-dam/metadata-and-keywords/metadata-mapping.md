@@ -10,7 +10,7 @@ level: Intermediate
 jira: KT-10088
 exl-id: 3869db93-9fbc-4689-b838-0f4400a436c3
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '276'
 ht-degree: 100%
 

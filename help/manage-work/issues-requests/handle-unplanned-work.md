@@ -1,5 +1,5 @@
 ---
-title: Gestionar trabajo no planificado
+title: Gestión de trabajo no planificado
 description: Aprenda a gestionar el trabajo no planificado con Adobe Workfront.
 activity: use
 team: Technical Marketing
@@ -14,13 +14,13 @@ exl-id: 43caddaf-5fd8-4580-9a37-59b5ecc57c91
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
 source-wordcount: '36'
-ht-degree: 0%
+ht-degree: 33%
 
 ---
 
-# Gestionar trabajo no planificado
+# Gestión de trabajo no planificado
 
-En este vídeo, aprenderá lo siguiente:
+Este vídeo contiene información sobre:
 
 * Cuándo registrar un problema
 * Cómo registrar un problema

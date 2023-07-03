@@ -1,6 +1,6 @@
 ---
 title: Tutorial de administración
-description: Aprenda a cambiar entre diferentes organizaciones o equipos y a añadir usuarios al sistema en [!DNL Adobe Workfront Fusion].
+description: Obtenga información sobre cómo cambiar entre diferentes organizaciones o equipos y agregar usuarios al sistema en  [!DNL Adobe Workfront Fusion].
 activity: use
 team: Technical Marketing
 type: Tutorial
@@ -13,15 +13,15 @@ doc-type: video
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
 source-wordcount: '92'
-ht-degree: 0%
+ht-degree: 70%
 
 ---
 
 # Tutorial de administración
 
-Aprenda a cambiar entre diferentes organizaciones o equipos y a añadir usuarios al sistema.
+Aprenda a cambiar entre diferentes organizaciones o equipos y a agregar usuarios al sistema.
 
-![Imagen de un escenario con control de errores](assets/workfront-fusion-administration-1.png)
+![Una imagen de un escenario con gestión de errores](assets/workfront-fusion-administration-1.png)
 
 ## Tutorial de administración
 
@@ -35,4 +35,4 @@ En este vídeo aprenderá lo siguiente:
 
 ## ¿Desea obtener más información? Recomendamos lo siguiente:
 
-[Documentación de Workfront Fusion](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/workfront-fusion-2.html?lang=en)
+[Documentación de Workfront Fusion](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/workfront-fusion-2.html?lang=es)

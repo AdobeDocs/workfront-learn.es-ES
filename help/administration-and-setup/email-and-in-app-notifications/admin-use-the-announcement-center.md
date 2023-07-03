@@ -11,7 +11,7 @@ thumbnail: 10094.jpeg
 jira: KT-10094
 exl-id: 7372516e-47e0-44a9-a756-ddc17824da84
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '257'
 ht-degree: 100%
 

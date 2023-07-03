@@ -1,6 +1,6 @@
 ---
 title: Revisar y aprobar el trabajo digital mediante Workfront Home
-description: Obtenga información sobre cómo buscar y realizar aprobaciones de proyectos, tareas, problemas, documentos y pruebas en [!DNL Workfront Home].
+description: Aprenda a buscar y realizar aprobaciones para proyectos, tareas, problemas, documentos y revisiones en  [!DNL Workfront Home].
 activity: use
 feature: Work Management
 thumbnail: 335108.jpeg
@@ -14,18 +14,18 @@ doc-type: video
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
 source-wordcount: '78'
-ht-degree: 0%
+ht-degree: 52%
 
 ---
 
 # Revisar y aprobar el trabajo digital mediante [!DNL Workfront Home]
 
-En este vídeo, aprenderá a hacer lo siguiente:
+Este vídeo contiene información sobre:
 
 * Buscar aprobaciones en [!DNL Workfront Home]
-* Aprobar proyectos, tareas y problemas
-* Realización de aprobaciones de documentos
-* Realización de aprobaciones para pruebas
+* Realizar aprobaciones de proyectos, tareas y problemas
+* Realizar aprobaciones de documentos
+* Realizar aprobaciones para pruebas
 
 >[!VIDEO](https://video.tv.adobe.com/v/335108/?quality=12&learn=on)
 

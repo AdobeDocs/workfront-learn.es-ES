@@ -1,5 +1,5 @@
 ---
-title: Comprender el modo de texto básico de las agrupaciones
+title: Comprensión del modo de texto básico de las agrupaciones
 description: Aprenda qué es el modo texto, qué es camel case y algunos modos de texto básicos "plug and play" que puede utilizar en sus agrupaciones en Workfront.
 activity: use
 feature: Reports and Dashboards
@@ -14,36 +14,36 @@ doc-type: video
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
 source-wordcount: '283'
-ht-degree: 0%
+ht-degree: 84%
 
 ---
 
-# Comprender el modo de texto básico de las agrupaciones
+# Comprensión del modo de texto básico de las agrupaciones
 
 >[!IMPORTANT]
 >
 >Requisitos previos:
 >
->* Comprender los elementos de informes
->* Comprender los componentes de informes
->* Crear una agrupación básica
+>* Comprensión de los elementos de creación de informes
+>* Información sobre los componentes del sistema de informes
+>* Creación de una agrupación básica
 
 >[!TIP]
 >
->* Para comprender mejor el modo de texto, le recomendamos que vea el evento del seminario web grabado [Pregunte al experto - Introducción a los informes en modo texto](https://experienceleague.adobe.com/docs/workfront-events/events/reporting-and-dashboards/introduction-to-text-mode-reporting.html?lang=en), que tiene una hora de duración.
->* Para obtener más información acerca del modo de texto, le recomendamos que vea la [Informes avanzados](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/advanced-reporting/welcome-to-advanced-reporting.html?lang=en) tutoriales, que en conjunto tienen una duración de cinco horas y media.
+>* Para comprender mejor el modo de texto, le recomendamos que consulte el evento de seminario web grabado [Pregunte al experto: introducción a la creación de informes en modo de texto](https://experienceleague.adobe.com/docs/workfront-events/events/reporting-and-dashboards/introduction-to-text-mode-reporting.html?lang=es), que dura una hora.
+>* Para obtener más información acerca del modo de texto, le recomendamos que consulte los tutoriales de [Creación de informes avanzada](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/advanced-reporting/welcome-to-advanced-reporting.html?lang=es), que tienen una duración de cinco horas y media en total.
 
-En este vídeo, aprenderá lo siguiente:
+Este vídeo contiene información sobre:
 
-* Qué modo de texto es
-* Qué es Camel Case
+* Qué es el modo de texto
+* Qué son las palabras agrupadas en mayúsculas y minúsculas
 * Algunos modos de texto básicos &quot;plug and play&quot; que puede utilizar en sus agrupaciones
 
 >[!VIDEO](https://video.tv.adobe.com/v/3410641/?quality=12&learn=on)
 
-## Tarea: agrupación de 4 elementos principales
+## Tarea: Agrupación de cuatro elementos principales
 
-El siguiente modo de texto agrupará las tareas en función de hasta cuatro niveles de elementos primarios y dejará en blanco los elementos primarios que no existan.
+El siguiente modo de texto agrupa tareas basadas en hasta cuatro niveles de elementos principales y deja en blanco los que no existen.
 
 ```
 textmode=true
@@ -55,19 +55,19 @@ group.0.namekeyargkey.1=name
 group.0.valueformat=string
 ```
 
-![Imagen de pantalla que muestra las tareas del proyecto agrupadas por 4 elementos principales](assets/4-parents-grouping.png)
+![Una imagen de pantalla que muestra las tareas del proyecto agrupadas por cuatro elementos principales](assets/4-parents-grouping.png)
 
 
-## Tarea - Agrupación de porcentaje completado
+## Tarea: agrupación de porcentaje completado
 
-El siguiente modo de texto agrupará las tareas en función del porcentaje completado. Las tareas caerán en una de las siguientes categorías cuando se agrupen:
+El siguiente modo de texto agrupa las tareas en función de su porcentaje completado. Cuando se agrupen, las tareas se clasificarán en una de las siguientes categorías:
 
-* 0%
-* Del 1% al 25%
-* Del 26% al 50%
-* Del 51% al 75%
-* del 76 % al 99 %
-* 100%
+* 0 %
+* De 1 a 25 %
+* De 26 a 50 %
+* De 51 a 75 %
+* De 76 a 99 %
+* 100 %
 
 ```
 group.0.linkedname=direct
@@ -77,11 +77,11 @@ group.0.valueformat=doubleAsString
 textmode=true
 ```
 
-![Imagen de pantalla que muestra las tareas del proyecto agrupadas por porcentaje completado](assets/percent-complete-grouping.png)
+![Una imagen de pantalla que muestra las tareas del proyecto agrupadas por porcentaje completado](assets/percent-complete-grouping.png)
 
-## Tarea: statusEquatesWith y luego status
+## Tarea: statusEquatesWith, a continuación, por estado
 
-El siguiente modo de texto agrupará las tareas por statusEquatesWith y luego por status.
+El siguiente modo de texto agrupa las tareas por statusEquatesWith y, a continuación, por estado.
 
 ```
 group.0.enumclass=com.attask.common.constants.TaskStatusEnum
@@ -101,10 +101,10 @@ group.1.valueformat=val
 textmode=true
 ```
 
-![Imagen de pantalla que muestra las tareas del proyecto agrupadas por statusEquatesWith](assets/status-equates-with.png)
+![Una imagen de pantalla que muestra las tareas del proyecto agrupadas por statusEquatesWith](assets/status-equates-with.png)
 
 
-## Aprobación de revisión - Agrupar por nombre de proyecto
+## Aprobación de prueba: agrupar por nombre de proyecto
 
 ```
 group.0.valueformat=HTML
@@ -112,7 +112,7 @@ group.0.valuefield=documentVersion:document:project:name
 group.0.displayname=Project Name
 ```
 
-![Imagen de pantalla que muestra las aprobaciones de prueba agrupadas por nombre de proyecto](assets/proof-approvals-grouped-by-project-name.png)
+![Una imagen de pantalla que muestra las aprobaciones de prueba agrupadas por nombre de proyecto](assets/proof-approvals-grouped-by-project-name.png)
 
 
 ## Aprobación de revisión - Agrupar por nombre de documento
@@ -123,5 +123,5 @@ group.0.valuefield=documentVersion:document:name
 group.0.valueformat=HTML
 ```
 
-![Imagen de pantalla que muestra las aprobaciones de prueba agrupadas por nombre de proyecto](assets/proof-approvals-grouped-by-doc-name.png)
+![Una imagen de pantalla que muestra las aprobaciones de prueba agrupadas por nombre de proyecto](assets/proof-approvals-grouped-by-doc-name.png)
 

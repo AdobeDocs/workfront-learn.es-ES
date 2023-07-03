@@ -11,7 +11,7 @@ thumbnail: set-default-proof-roles.png
 jira: KT-10235
 exl-id: 77dfb9f1-3242-47ca-a0ce-203b535af156
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '266'
 ht-degree: 100%
 

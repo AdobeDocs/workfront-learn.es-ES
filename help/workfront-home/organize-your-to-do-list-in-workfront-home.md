@@ -1,6 +1,6 @@
 ---
 title: Organizar la lista de tareas pendientes en [!DNL Workfront] [!UICONTROL Inicio]
-description: Obtenga información sobre cómo filtrar y ordenar el trabajo asignado, identificar el trabajo que está listo para iniciarse y aceptar asignaciones de trabajo en [!DNL  Workfront].
+description: Aprenda a filtrar y ordenar el trabajo asignado, identificar el trabajo listo para iniciarse y aceptar asignaciones de trabajo en  [!DNL  Workfront].
 feature: Work Management
 type: Tutorial
 role: User
@@ -14,7 +14,7 @@ doc-type: video
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
 source-wordcount: '130'
-ht-degree: 0%
+ht-degree: 86%
 
 ---
 
@@ -22,9 +22,9 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->El [!UICONTROL [!DNL Sort by]] en la opción [!UICONTROL Lista de trabajos] se ha cambiado a [!UICONTROL Agrupar por], y las tareas y problemas también se pueden agrupar por sus [!UICONTROL Fecha planificada de inicio].
+>Se cambió el nombre de la opción [!UICONTROL [!DNL Sort by]] en la [!UICONTROL Lista de trabajo] a [!UICONTROL Agrupar por], y las tareas y los problemas también se pueden agrupar por su [!UICONTROL Fecha de inicio planificada].
 
-En este vídeo, aprenderá a hacer lo siguiente:
+Este vídeo contiene información sobre:
 
 * Ordenar asignaciones de trabajo
 * Filtrar asignaciones de trabajo por tipo
@@ -35,6 +35,6 @@ En este vídeo, aprenderá a hacer lo siguiente:
 
 >[!NOTE]
 >
->De forma predeterminada, los primeros elementos vencidos aparecen en la parte superior de la [!UICONTROL Lista de trabajos]. Si desea que los elementos de trabajo aparezcan en orden descendente, haga clic en las flechas a la derecha del área Agrupar por.
+>De forma predeterminada, los primeros elementos que vencen aparecen en la parte superior de la [!UICONTROL Lista de trabajo]. Si desea que los elementos de trabajo aparezcan en orden descendente, haga clic en las flechas a la derecha del grupo por área.
 
-![Imagen de una pantalla que muestra su lista de trabajos agrupada por fecha de vencimiento.](assets/work-list-arrows.png)
+![Imagen de una pantalla que muestra la lista de trabajo agrupada por fecha de vencimiento.](assets/work-list-arrows.png)

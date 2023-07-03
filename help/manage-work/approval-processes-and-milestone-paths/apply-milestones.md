@@ -1,6 +1,6 @@
 ---
 title: Aplicar hitos
-description: Obtenga información sobre cómo aplicar rutas de hitos a una [!DNL  Workfront] proyecto y asocie tareas clave como pasos de hito dentro del proyecto.
+description: Aprenda a aplicar rutas de hitos a un proyecto de  [!DNL  Workfront]  y a asociar tareas clave como pasos de hito dentro del proyecto.
 feature: Work Management
 thumbnail: 335205.jpeg
 type: Tutorial
@@ -15,13 +15,13 @@ doc-type: video
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
 source-wordcount: '78'
-ht-degree: 0%
+ht-degree: 52%
 
 ---
 
 # Aplicar hitos
 
-En este vídeo, aprenderá a hacer lo siguiente:
+Este vídeo contiene información sobre:
 
 * Aplicación de una trayectoria del hito a un proyecto
 * Agregar un hito a una tarea
@@ -31,5 +31,5 @@ En este vídeo, aprenderá a hacer lo siguiente:
 
 >[!TIP]
 >
->Para obtener información sobre cómo crear una vista de Hito, consulte la actividad de vista de Hito en [Crear una vista básica](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-basic-view.html?lang=en).
+>Para obtener información sobre cómo crear una vista de Hito, consulte la actividad de vista de Hito en [Crear una vista básica](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-basic-view.html?lang=es).
 

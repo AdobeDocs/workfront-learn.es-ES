@@ -11,7 +11,7 @@ thumbnail: exportform.png
 jira: KT-10059
 exl-id: aeef197e-1d8c-43a9-8580-0c83d8027a3f
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '165'
 ht-degree: 100%
 

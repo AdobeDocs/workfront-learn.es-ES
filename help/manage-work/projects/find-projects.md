@@ -1,6 +1,6 @@
 ---
-title: Buscar sus proyectos
-description: Aprenda a encontrar sus proyectos en [!DNL  Workfront] uso de anclajes, favoritos, tableros y [!UICONTROL Proyectos] página.
+title: Encontrar sus proyectos
+description: Aprenda a encontrar sus proyectos en  [!DNL  Workfront]  mediante pines, favoritos, paneles y la página [!UICONTROL Proyectos].
 activity: use
 feature: Work Management
 thumbnail: find-projects.jpeg
@@ -14,13 +14,13 @@ doc-type: video
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
 source-wordcount: '213'
-ht-degree: 0%
+ht-degree: 68%
 
 ---
 
-# Buscar sus proyectos
+# Encontrar sus proyectos
 
-Workfront no puede administrar sus proyectos por usted, pero puede darle la visibilidad que necesita sobre el trabajo que se está realizando. [!DNL Workfront] facilita la supervisión del progreso del trabajo, la comunicación con el equipo, los ajustes de cronología, etc.
+Workfront no puede administrar sus proyectos por usted, pero puede darle la visibilidad que necesita sobre el trabajo que se está realizando. [!DNL Workfront] facilita el seguimiento del progreso del trabajo, la comunicación con su equipo, los ajustes de la cronología y mucho más.
 
 <!---
 In this section, you will learn how to:
@@ -33,36 +33,36 @@ Use [!DNL Workfront] features when reviewing the task list to monitor project pr
 
 ## Buscar un proyecto reciente
 
-Para buscar rápidamente un proyecto reciente (y otros objetos), haga clic en [!UICONTROL Recientes] icono.
+Para encontrar rápidamente un proyecto reciente (y otros objetos), haga clic en el icono [!UICONTROL Recientes].
 
-![[!UICONTROL Estado] campo expandido en el encabezado del proyecto](assets/recents.png)
+Campo ![[!UICONTROL Estado] expandido en el encabezado del proyecto](assets/recents.png)
 
 >[!NOTE]
 >
->Los siguientes vídeos no contienen audio. Son una demostración de la [!DNL Workfront] características mencionadas.
+>Los siguientes vídeos no contienen audio. Son una demostración de las características mencionadas de [!DNL Workfront].
 
-## Anclar un proyecto
+## Fijar un proyecto
 
 Cuando esté trabajando en un proyecto, facilite su búsqueda anclándolo a la barra de menús para que pueda abrirlo con un solo clic.
 
 >[!VIDEO](https://video.tv.adobe.com/v/335038/?quality=12&learn=on)
 
-## Marcar como favorito un proyecto
+## Guardar un proyecto en favoritos
 
-Si está administrando varios proyectos, es posible que desee convertirlos en &quot;favoritos&quot; haciendo clic en el icono de estrella. A continuación, puede encontrar la lista en [!UICONTROL Favoritos] en la barra de menú principal.
+Si está administrando varios proyectos, es posible que desee convertirlos en &quot;favoritos&quot; haciendo clic en el icono de estrella. A continuación, puede encontrar la lista en el icono [!UICONTROL Favoritos] en la barra de menús principal.
 
 >[!VIDEO](https://video.tv.adobe.com/v/335039/?quality=12&learn=on)
 
 
-## Abrir un proyecto desde un panel
+## Apertura de un proyecto desde un panel
 
-Muchos [!DNL Workfront] los clientes utilizan informes compilados en un panel para encontrar su trabajo en curso.
+Muchos clientes de [!DNL Workfront] utilizan informes compilados en un panel para encontrar el trabajo en curso.
 
 >[!VIDEO](https://video.tv.adobe.com/v/335041/?quality=12&learn=on)
 
 
 ## Abra un proyecto desde la página Proyectos
 
-Y, por supuesto, sus proyectos siempre están disponibles en el [!UICONTROL Proyectos] área. Simplemente haga clic en el nombre del proyecto para abrirlo.
+Y, por supuesto, sus proyectos siempre están disponibles en el área [!UICONTROL Proyectos]. Haga clic en el nombre del proyecto para abrirlo.
 
 >[!VIDEO](https://video.tv.adobe.com/v/335040/?quality=12&learn=on)

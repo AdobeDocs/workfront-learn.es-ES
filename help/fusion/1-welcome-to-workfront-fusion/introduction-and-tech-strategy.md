@@ -14,7 +14,7 @@ doc-type: video
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
 source-wordcount: '293'
-ht-degree: 0%
+ht-degree: 10%
 
 ---
 
@@ -38,15 +38,15 @@ El administrador del sistema Fusion le enviará una nueva invitación de usuario
 
 Si es el administrador del sistema de Fusion, puede consultar los siguientes tutoriales para aprender a crear equipos y añadir nuevos usuarios.
 
-* [Explicación de organizaciones, equipos y usuarios](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/workfront-fusion-administration/understand-organizations-teams-and-users.html?lang=en)
+* [Comprender las organizaciones, los equipos y los usuarios](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/workfront-fusion-administration/understand-organizations-teams-and-users.html?lang=en)
 * [Tutorial de administración](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/workfront-fusion-administration/administration-walkthrough.html?lang=en)
 
 ## Introducción y estrategia tecnológica
 
-En este vídeo verá lo siguiente:
+En este vídeo, verá lo siguiente:
 
 * La potencia y flexibilidad de Fusion
-* Funcionalidades principales y de diseñador de Fusion
-* Un escenario de ejemplo de Fusion
+* Las funcionalidades principales y de diseño de Fusion
+* Un ejemplo de escenario de Fusion
 
 >[!VIDEO](https://video.tv.adobe.com/v/335259/?quality=12&learn=on)

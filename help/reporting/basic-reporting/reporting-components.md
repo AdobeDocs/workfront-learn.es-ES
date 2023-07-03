@@ -1,6 +1,6 @@
 ---
-title: Comprender los componentes de informes
-description: Conozca los componentes clave subyacentes a la creación de informes y cómo se utilizan en un elemento de creación de informes en Workfront.
+title: Información sobre los componentes del sistema de informes
+description: Información sobre los componentes clave detrás de los informes y cómo se utilizan en un elemento de informes en Workfront.
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335146.jpeg
@@ -14,16 +14,16 @@ doc-type: video
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
 source-wordcount: '287'
-ht-degree: 0%
+ht-degree: 15%
 
 ---
 
-# Comprender los componentes de informes
+# Información sobre los componentes del sistema de informes
 
-En este vídeo, aprenderá lo siguiente:
+Este vídeo contiene información sobre:
 
-* Los componentes clave detrás de los informes de Workfront
-* Uso de estos componentes en un elemento de creación de informes
+* Los componentes clave de los informes de Workfront
+* El uso de estos componentes en un elemento de informes
 
 >[!VIDEO](https://video.tv.adobe.com/v/335146/?quality=12&learn=on)
 

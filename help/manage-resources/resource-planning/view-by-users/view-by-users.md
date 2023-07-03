@@ -1,6 +1,6 @@
 ---
-title: Vista por usuarios en el Planificador de recursos
-description: Consulte cómo utilizar la opción Ver por usuario y cómo se muestra la información de recursos en esta vista.
+title: Vista por usuario en el Planificador de recursos
+description: Consulte cómo utilizar la opción Vista por usuario y cómo se muestra la información de recursos en esta vista.
 feature: Resource Management
 type: Tutorial
 role: Leader, User
@@ -14,15 +14,15 @@ doc-type: video
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
 source-wordcount: '49'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Vista por usuarios en [!DNL Resource Planner]
+# Vista por usuarios en el [!DNL Resource Planner]
 
-En este vídeo hará lo siguiente:
+En este vídeo, aprenderá lo siguiente:
 
-* Consulte [!UICONTROL Ver por usuario]vista
+* Consulte la [!UICONTROL Vista por usuario ]
 * Descubra cómo se muestra la información de recursos en esta vista
 
 

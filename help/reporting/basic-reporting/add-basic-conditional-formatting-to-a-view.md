@@ -1,6 +1,6 @@
 ---
-title: Añadir formato condicional básico
-description: Aprenda a utilizar las reglas de columna para cambiar el color del texto, el formato y los colores de fondo en un informe o vista, en función de los criterios que establezca.
+title: Añadir un formato condicional básico
+description: Aprenda a utilizar reglas de columna para cambiar el color del texto, el formato y los colores de fondo en un informe o una vista, según los criterios que haya establecido.
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335149.jpeg
@@ -14,18 +14,18 @@ doc-type: video
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
 source-wordcount: '449'
-ht-degree: 0%
+ht-degree: 81%
 
 ---
 
-# Agregar formato condicional básico a una vista
+# Añadir un formato condicional básico a una vista
 
-El formato condicional se realiza creando reglas de columna. Las reglas de columna permiten dar formato a una columna de una manera específica según los criterios que establezca.
+El formato condicional se realiza creando reglas de columna. Las reglas de columna permiten dar un formato específico a la columna basándose en el criterio que usted elija.
 
-En este vídeo, aprenderá lo siguiente:
+Este vídeo contiene información sobre:
 
-* Qué es el formato condicional en una vista
-* Creación y modificación del formato condicional
+* ¿Qué formato condicional hay en una vista?
+* Cómo crear y modificar el formato condicional
 
 >[!VIDEO](https://video.tv.adobe.com/v/335149/?quality=12&learn=on)
 
@@ -42,33 +42,33 @@ Para crear un formato condicional:
    * texto de reemplazo
    * mostrar un icono
 
-## Actividad: añadir formato condicional a una vista
+## Actividad: Añadir formato condicional a una vista
 
 Cree una vista de tareas denominada &quot;Estándar + Progreso&quot; utilizando la vista Estándar existente y agregando este formato condicional a la vista [!UICONTROL Nombre] columna.
 
-1. Agregue una regla de columna que pondrá el fondo del campo en rojo cuando el estado del progreso de la tarea sea Late.
-1. Agregue una regla de columna que pondrá de color amarillo el fondo del campo cuando el estado del progreso sea Retrasado o En riesgo.
+1. Añada una regla de columna que ponga el campo en segundo plano en rojo cuando el estado de progreso de la tarea sea Tarde.
+1. Agregue una regla de columna que haga que el fondo del campo aparezca de color amarillo cuando el estado de progreso sea Detrás o En riesgo.
 
-Esto le ayudará a identificar tareas con problemas sin incluir la columna para el estado de progreso como parte de la vista.
+Esto le ayudará a identificar las tareas con problemas sin incluir la columna para el estado de progreso como parte de la vista.
 
 ## Respuesta
 
-![Imagen de la pantalla para crear una regla de columna nueva](assets/conditional-formatting-exercise.png)
+![Imagen de la pantalla para crear una nueva regla de columna](assets/conditional-formatting-exercise.png)
 
-1. En un informe de lista de tareas, vaya a **[!UICONTROL Ver]** menú desplegable y seleccione **[!UICONTROL Nueva vista]**.
+1. En un informe de lista de tareas, vaya al menú desplegable **[!UICONTROL Ver]** y seleccione **[!UICONTROL Nueva vista]**.
 1. Asigne a la vista el nombre &quot;Estándar + Progreso&quot;.
 1. Utilice las columnas predeterminadas proporcionadas.
-1. Seleccione el [!UICONTROL Nombre de tarea] columna. Esta es la columna a la que desea aplicar el formato condicional, por lo que aparece en rojo o amarillo si el estado de progreso de la tarea no es A tiempo.
-1. Clic **[!UICONTROL Opciones avanzadas]** en la esquina superior derecha de la ventana de report builder.
-1. Clic **[!UICONTROL Agregar una regla para esta columna]**.
-1. Inicie la regla de columna cambiando [!UICONTROL Tarea] > [!UICONTROL Nombre] en la parte superior de la ventana para [!UICONTROL Tarea] > [!UICONTROL Estado de progreso]. Simplemente haga clic en **[!UICONTROL X]** junto a [!UICONTROL Tarea] > [!UICONTROL Nombre] para eliminarlo del campo.
+1. Seleccione la columna [!UICONTROL Nombre de la tarea]. Esta es la columna a la que desea aplicar el formato condicional, por lo que aparece en rojo o amarillo si el estado de progreso de la tarea no es Tiempo activo.
+1. Haga clic en **[!UICONTROL Opciones avanzadas]** en la esquina superior derecha de la ventana del Creador de informes.
+1. Haga clic en **[!UICONTROL Añadir una regla para esta columna]**.
+1. Inicie la regla de columna cambiando [!UICONTROL Tarea] > [!UICONTROL Nombre] en la parte superior de la ventana para [!UICONTROL Tarea] > [!UICONTROL Estado de progreso]. Haga clic en el icono **[!UICONTROL X]** junto a [!UICONTROL Tarea] > [!UICONTROL Nombre] para eliminarlo del campo.
 1. Escriba &quot;progress&quot; en el campo y seleccione [!UICONTROL Estado de progreso] en el [!UICONTROL Tarea] origen del campo.
-1. Seleccionar **[!UICONTROL Retrasado]** en el campo a la derecha de [!UICONTROL Igual] calificador.
-1. Elija un fondo rojo en la [!UICONTROL Color del texto] fila.
-1. Clic **[!UICONTROL Agregar regla]** para guardar la regla de columna.
-1. Ahora haga clic en **[!UICONTROL Agregar regla de columna]** para agregar otra regla.
-1. Igual que antes, elimine [!UICONTROL Tarea] > [!UICONTROL Nombre] en el campo criterios. Sustitúyala por [!UICONTROL Estado de progreso] en el [!UICONTROL Tarea] origen del campo.
-1. Seleccionar ambos [!UICONTROL En riesgo] y [!UICONTROL Rezagado] en el campo a la derecha del calificador Igual.
-1. Elija un fondo de color amarillo en la [!UICONTROL Color del texto] fila.
-1. Clic **[!UICONTROL Agregar regla]** para guardar la regla de columna.
-1. Clic **[!UICONTROL Guardar vista]** para guardar la vista.
+1. Seleccione **[!UICONTROL Tarde]** en el campo a la derecha del calificador [!UICONTROL Igual].
+1. Elija un fondo de rojo en la fila [!UICONTROL Color del texto].
+1. Haga clic en **[!UICONTROL Agregar regla]** para guardar la regla de columna.
+1. Ahora haga clic en **[!UICONTROL Agregar regla de columna]** de nuevo para agregar otra regla.
+1. Igual que antes, elimine [!UICONTROL Tarea] > [!UICONTROL Nombre] del campo criterios. Sustitúyalo por [!UICONTROL Estado de progreso] en el origen del campo [!UICONTROL Tarea].
+1. Seleccione ambos [!UICONTROL En riesgo] y [!UICONTROL Detrás] en el campo a la derecha del calificador Igual.
+1. Elija un fondo amarillo en la fila [!UICONTROL Color del texto].
+1. Haga clic en **[!UICONTROL Agregar regla]** para guardar la regla de columna.
+1. Haga clic en **[!UICONTROL Guardar vista]** para guardar la vista.
