@@ -9,7 +9,7 @@ thumbnail: email-alert-vs-proof-notifications.png
 jira: KT-10174
 exl-id: 51423110-960c-46ed-8b4e-6e73c67c42e0
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '197'
 ht-degree: 100%
 

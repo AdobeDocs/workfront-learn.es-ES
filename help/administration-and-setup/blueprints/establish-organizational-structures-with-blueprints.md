@@ -9,7 +9,7 @@ role: Admin
 level: Beginner, Intermediate
 jira: KT-10102
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '131'
 ht-degree: 100%
 

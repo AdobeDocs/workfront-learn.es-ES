@@ -11,7 +11,7 @@ thumbnail: manage-incoming-requests.jpeg
 jira: KT-10154
 exl-id: df831816-fc60-4c63-b46c-ec2ba49fb061
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '203'
 ht-degree: 100%
 

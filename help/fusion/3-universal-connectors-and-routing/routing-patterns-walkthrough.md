@@ -11,7 +11,7 @@ jira: KT-9015
 exl-id: 3ba15bf6-b296-4356-9974-1262c5d97602
 doc-type: video
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '123'
 ht-degree: 100%
 

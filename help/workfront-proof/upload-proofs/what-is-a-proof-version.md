@@ -11,7 +11,7 @@ thumbnail: what-is-a-proof-version.png
 jira: KT-10161
 exl-id: 3a3c6315-d032-4f78-bdbc-e1070c7fb1e1
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '166'
 ht-degree: 100%
 

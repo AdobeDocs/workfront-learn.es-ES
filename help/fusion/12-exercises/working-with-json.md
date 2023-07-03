@@ -11,7 +11,7 @@ jira: KT-11056
 thumbnail: KT11056.png
 exl-id: 72d5159e-72e5-4202-90de-753b3d7626de
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '485'
 ht-degree: 100%
 
