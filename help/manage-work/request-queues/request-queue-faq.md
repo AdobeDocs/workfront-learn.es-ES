@@ -5,12 +5,13 @@ feature: Work Management
 type: Tutorial
 role: Admin, User
 level: Beginner, Intermediate
+last-substantial-update: 2023-07-18T00:00:00Z
 jira: KT-10101
 exl-id: bfa3ae5f-9618-444c-9eb8-5d82db9a77c7
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 3749de45d255e638d532131d38cba12c7f5d32f0
 workflow-type: tm+mt
-source-wordcount: '289'
-ht-degree: 100%
+source-wordcount: '368'
+ht-degree: 68%
 
 ---
 
@@ -36,7 +37,9 @@ Consulte este artículo para obtener más información: [Convertir problemas](ht
 
 **¿Dónde encuentro una cola de solicitudes para realizar ediciones?**
 
-Puede usar el campo [!UICONTROL Buscar] en la barra de navegación o localícela en el área [!UICONTROL Proyectos].
+Puede usar el complemento [!UICONTROL Buscar] en la barra de navegación o búsquelo enumerado en la [!UICONTROL Proyectos] área.
+
+Si abre una solicitud desde la cola de solicitudes, puede hacer clic en el nombre del proyecto en el área de rutas de exploración.
 
 **¿Puedo transferir la información de un formulario personalizado de solicitud a un proyecto?**
 
@@ -44,4 +47,10 @@ Sí. Esto implica crear un formulario personalizado y seleccionar ambos tipos de
 
 **Estoy viendo un informe de proyecto o tarea. ¿Cómo puedo averiguar de qué solicitud se ha originado este objeto?**
 
-Puede aprovechar el origen del campo **[!UICONTROL Generador de problema convertido]** para añadir esta información a los informes de proyecto y tarea.
+Puede acceder a los campos en la **[!UICONTROL Problema convertido]** y el **[!UICONTROL Originador de problema convertido]** orígenes de campos para agregar esa información a los informes de proyecto y tarea.
+
+**¿Cuál es la mejor manera de filtrar por colas de solicitud en un informe?**
+
+Si el filtro del proyecto incluye **Cola>>Es pública>>Igual a>>Ninguna** el informe solo mostrará los proyectos que **NO** colas de solicitudes.
+
+Si el filtro del proyecto incluye **Cola>>Es pública>>No es igual a>>Ninguna** el informe solo mostrará los proyectos que **SON** colas de solicitudes.
