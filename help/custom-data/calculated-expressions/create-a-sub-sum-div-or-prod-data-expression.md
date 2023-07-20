@@ -1,7 +1,7 @@
 ---
 title: Cree una expresión de datos SUB, SUM, DIV o PROD
 description: Aprenda a utilizar y crear las expresiones matemáticas básicas en un campo calculado de Adobe  [!DNL Workfront].
-feature: System Setup and Administration
+feature: Custom Forms
 type: Tutorial
 role: Admin, Leader, User
 level: Experienced
@@ -11,10 +11,10 @@ thumbnail: 335177.png
 jira: KT-8914
 exl-id: e767b73b-1591-4d96-bb59-2f2521e3efa3
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 409147f9a62302d28e14b834981992a0421d4e4b
 workflow-type: tm+mt
 source-wordcount: '380'
-ht-degree: 100%
+ht-degree: 80%
 
 ---
 
@@ -35,7 +35,7 @@ La expresión ROUND toma cualquier número y lo redondea a un determinado númer
 
 La mayoría de las veces, la expresión de datos ROUND se utiliza junto con otra expresión de datos y cuando el campo de formato se deja como Texto o Número.
 
-Vamos a crear un campo calculado para determinar la diferencia entre el número de horas planificadas y registradas realmente en una tarea, que requerirá la expresión SUB y tendrá este aspecto:
+Vamos a crear un campo calculado para determinar la diferencia entre el número de horas planificadas y las horas realmente registradas en una tarea, que requiere la expresión SUB y tiene este aspecto:
 
 **SUB({workRequired},{actualWorkRequired})**
 
@@ -47,7 +47,7 @@ Si el formato se cambia a Número al crear el campo calculado en el formulario p
 
 ![Equilibrador de carga de trabajo con informe de utilización](assets/round01.png)
 
-Sin embargo, si el formato de campo al crear un campo personalizado se deja como Texto, el formato no se puede cambiar fácilmente en la vista. La expresión ROUND debe utilizarse para evitar ver números como este en el proyecto:
+Sin embargo, si el formato del campo al crear un campo personalizado se deja como Texto, el formato no se puede cambiar fácilmente dentro de la vista. La expresión ROUND debe utilizarse para evitar ver números como este en el proyecto:
 
 ![Equilibrador de carga de trabajo con informe de utilización](assets/round02.png)
 
@@ -57,7 +57,7 @@ La expresión ROUND incluye el nombre de la expresión (ROUND) y, normalmente, d
 
 Una expresión está estructurada de esta manera: ROUND(punto de datos, #)
 
-En la expresión que calcula la diferencia entre las horas planificadas y las reales, utilice esta expresión: DIV(SUB({workRequired},{actualWorkRequired}),60) como primer punto de datos. A continuación, asegúrese de que el número que proviene de esa expresión no supere los dos lugares a la derecha del decimal.
+En la expresión que calcula la diferencia entre las horas planificadas y las reales, utilice esta expresión: DIV(SUB({workRequired},{actualWorkRequired}),60) como primer punto de datos. A continuación, asegúrese de que el número que proviene de esa expresión no vaya más de 2 lugares a la derecha del decimal.
 
 ![Equilibrador de carga de trabajo con informe de utilización](assets/round03.png)
 

@@ -1,23 +1,23 @@
 ---
 title: Respuestas a preguntas sobre los Formularios personalizados
 description: Obtener respuestas a preguntas comunes sobre formularios personalizados.
-feature: System Setup and Administration
+feature: Custom Forms
 type: Tutorial
 role: Admin, Leader, User
 level: Beginner, Intermediate
 activity: use
 team: Technical Marketing
 jira: KT-10058
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 409147f9a62302d28e14b834981992a0421d4e4b
 workflow-type: tm+mt
 source-wordcount: '317'
-ht-degree: 100%
+ht-degree: 95%
 
 ---
 
 # Preguntas frecuentes sobre formularios personalizados
 
-**¿Puedo cambiar el tipo de visualización de un campo después de haberlo creado? Por ejemplo, ¿puedo cambiar de un menú desplegable a casillas de verificación?**
+**¿Puedo cambiar el tipo de visualización de un campo después de crearlo? Por ejemplo, ¿puedo cambiar de un menú desplegable a casillas de verificación?**
 
 Sí. El tipo de visualización puede cambiarse a otro tipo de visualización similar: texto a párrafo, menú desplegable a casillas de verificación o botones de opción, etc. Para obtener más información sobre cómo cambiar el tipo de visualización, consulte el artículo Crear un formulario personalizado.
 

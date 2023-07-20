@@ -2,14 +2,14 @@
 title: Introducción al curso de procesos de aprobación
 description: Descubra cómo los procesos de aprobación pueden simplificar y automatizar el proceso de revisión de trabajo.
 activity: deploy
-feature: Work Management
+feature: Approvals
 type: Tutorial
 role: User
 level: Intermediate
 team: Technical Marketing
 jira: KT-8961
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 409147f9a62302d28e14b834981992a0421d4e4b
 workflow-type: tm+mt
 source-wordcount: '37'
 ht-degree: 100%

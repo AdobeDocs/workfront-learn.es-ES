@@ -1,7 +1,7 @@
 ---
 title: Uso de las expresiones ISBLANK y CONTAINS
 description: Aprenda a utilizar y crear las expresiones ISBLANK y CONTAINS en un campo calculado en Adobe  [!DNL Workfront].
-feature: System Setup and Administration
+feature: Custom Forms
 type: Tutorial
 role: Admin, Leader, User
 level: Experienced
@@ -9,10 +9,10 @@ activity: use
 team: Technical Marketing
 thumbnail: isblank-contains.png
 exl-id: 819ffec8-e7e6-4a3c-a589-1348aa09e27d
-source-git-commit: 37a222dd921c0c3ffe72a8e091f6dbf1f18cee68
-workflow-type: ht
+source-git-commit: 409147f9a62302d28e14b834981992a0421d4e4b
+workflow-type: tm+mt
 source-wordcount: '404'
-ht-degree: 100%
+ht-degree: 64%
 
 ---
 
@@ -24,7 +24,7 @@ Por ejemplo, para ver si un proyecto tiene una descripción, use la expresión I
 
 ![Equilibrador de carga de trabajo con informe de utilización](assets/isblank01.png)
 
-Para buscar un valor específico en la descripción, como “evento de caridad”, utilice la expresión de texto CONTAIN. Si encuentra “evento de caridad” en la descripción, el campo calculado dice “verdadero”. Muestra “falso” si no encuentra “evento de caridad”.
+Para buscar un valor específico en la descripción, como &quot;evento de caridad&quot;, utilice la expresión de texto CONTAINS. Si encuentra &quot;evento de caridad&quot; en la descripción, el campo calculado indica &quot;true&quot;. Muestra &quot;false&quot; si no encuentra &quot;evento de caridad&quot;.
 
 ![Equilibrador de carga de trabajo con informe de utilización](assets/isblank02.png)
 
@@ -42,23 +42,23 @@ ISBLANK({description})
 
 ## CONTAINS
 
-La expresión de texto CONTAINS incluye el nombre de la expresión, la palabra o frase que está buscando y el campo en el que buscarlo.
+La expresión de texto CONTAINS incluye el nombre de la expresión, la palabra o frase que está buscando y el campo en el que buscar.
 
-**CONTAINS(“frase”,{fields})**
+**CONTAINS(&quot;frase&quot;,{fields})**
 
-Asegúrese de colocar comillas alrededor de la palabra o frase que está buscando; de lo contrario, la expresión no será válida.
+Asegúrese de poner comillas alrededor de la palabra o frase que está buscando; de lo contrario, la expresión no será válida.
 
-En el ejemplo anterior (al buscar “evento de caridad” en la descripción del proyecto), la expresión sería la siguiente:
+En el ejemplo anterior (buscando &quot;evento de caridad&quot; en la descripción del proyecto), la expresión sería:
 
-**CONTAINS(“evento de caridad”,{description})**
+**CONTAINS(&quot;evento de caridad&quot;,{description})**
 
 ![Equilibrador de carga de trabajo con informe de utilización](assets/isblank04.png)
 
-**Nota**: La expresión CONTAINS distingue entre mayúsculas y minúsculas. Por ejemplo, si “Evento de caridad” aparece con inicial mayúscula en el campo de descripción, escríbalo del mismo modo.
+**Nota**: La expresión CONTAINS distingue entre mayúsculas y minúsculas. Por ejemplo, si &quot;Evento de caridad&quot; aparece en mayúscula en el campo de descripción, ponga en mayúscula esa frase en la expresión.
 
-**CONTAINS(“Evento de caridad”,{description})**
+**CONTAINS(&quot;Evento de caridad&quot;,{description})**
 
-Tanto las expresiones ISBLANK como CONTAINS son útiles si desea ver si hay un valor presente. Sin embargo, puede ser más útil saber cuál es el valor, para verlo realmente o tener algún tipo de descriptor para proporcionar una mejor perspectiva.
+Las expresiones ISBLANK y CONTAINS son buenas para usar si desea ver si hay un valor presente. Sin embargo, puede ser más útil saber cuál es el valor, para verlo realmente o tener algún tipo de descriptor para proporcionar una mejor perspectiva.
 
 Por ejemplo, en lugar de saber simplemente que un proyecto se ha convertido a partir de una solicitud, quiere averiguar el nombre de la solicitud original.
 

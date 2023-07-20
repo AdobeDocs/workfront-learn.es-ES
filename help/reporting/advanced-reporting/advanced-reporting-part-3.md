@@ -2,7 +2,7 @@
 title: Parte 3 de la creación de informes avanzada
 description: Comprenda un estudio en profundidad de las agrupaciones de modo texto, los agregados calculados y las agrupaciones calculadas.
 activity: use
-feature: Reports and Dashboards
+feature: Text Mode Reporting
 thumbnail: 3409632.png
 type: Tutorial
 role: User
@@ -11,7 +11,7 @@ team: Technical Marketing
 jira: KT-11202
 exl-id: 208af7e6-7625-4e81-bcb3-c3c7932828e5
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 409147f9a62302d28e14b834981992a0421d4e4b
 workflow-type: tm+mt
 source-wordcount: '49'
 ht-degree: 100%

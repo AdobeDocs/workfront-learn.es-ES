@@ -1,8 +1,8 @@
 ---
 title: Comprender el modo de texto básico de los filtros
-description: Aprenda qué es el modo de texto, qué son las palabras agrupadas en mayúsculas y minúsculas y algún modo de texto básico de “plug and play” que puede utilizar en los filtros de informe en Workfront.
+description: Aprenda qué es el modo de texto, qué es camel case y algunos modos de texto básicos "plug and play" que puede utilizar en los filtros de informes en Workfront.
 activity: use
-feature: Reports and Dashboards
+feature: Text Mode Reporting
 thumbnail: 336820.png
 type: Tutorial
 role: User
@@ -11,10 +11,10 @@ team: Technical Marketing
 jira: KT-9086
 exl-id: b3f16468-b720-468d-887a-b313fc32bd89
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 409147f9a62302d28e14b834981992a0421d4e4b
 workflow-type: tm+mt
 source-wordcount: '416'
-ht-degree: 100%
+ht-degree: 88%
 
 ---
 
@@ -38,7 +38,7 @@ Este vídeo contiene información sobre:
 
 * Qué es el modo de texto
 * Qué son las palabras agrupadas en mayúsculas y minúsculas
-* Algunos modos de texto “plug and play” básicos que se pueden usar en los filtros de informe
+* Algunos modos de texto básicos &quot;Plug and Play&quot; que puede utilizar en los filtros de informes
 
 >[!VIDEO](https://video.tv.adobe.com/v/336820/?quality=12&learn=on)
 
@@ -118,7 +118,7 @@ status_Mod=in
 ```
 
 
-## Nota: Mostrar todos los comentarios en los que estoy etiquetado
+## Nota - Mostrar todos los comentarios en los que estoy etiquetado
 
 ```
 tags:userID=$$USER.ID

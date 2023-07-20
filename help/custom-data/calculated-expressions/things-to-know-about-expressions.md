@@ -1,7 +1,7 @@
 ---
 title: Aspectos importantes sobre las expresiones de campos calculados
 description: Obtenga información sobre una lista de conceptos que son dignos de conocer al trabajar con campos calculados personalizados en  [!DNL Workfront].
-feature: System Setup and Administration
+feature: Custom Forms
 type: Tutorial
 role: Admin, Leader, User
 level: Experienced
@@ -9,10 +9,10 @@ activity: use
 team: Technical Marketing
 thumbnail: to-know-expressions.png
 exl-id: 512a3071-f47f-4fd4-bf5f-9b18bef8ba59
-source-git-commit: 71f9ec5fad80664cc1d1f12c6772b131ee46c59c
+source-git-commit: 409147f9a62302d28e14b834981992a0421d4e4b
 workflow-type: tm+mt
 source-wordcount: '959'
-ht-degree: 100%
+ht-degree: 86%
 
 ---
 
@@ -66,7 +66,7 @@ La información que se muestra en un campo calculado seguirá siendo la misma y 
 
 Las expresiones se pueden actualizar mediante la opción Recalcular expresiones del menú Más de un objeto.
 
-Si desea ver la cantidad de días que ha estado abierto un problema. Cree un campo calculado llamado “Días abiertos” con la expresión DATEDIFF.
+Si desea ver la cantidad de días que ha estado abierto un problema. Cree un campo calculado llamado &quot;Días abiertos&quot; con la expresión DATEDIFF.
 
 * Nombre del campo = Días abiertos
 * Expresión = DATEDIFF({entryDate},$$TODAY)
@@ -75,7 +75,7 @@ Una vez guardado, el número de días entre la primera vez que se creó el probl
 
 Al ver la misma página de detalles o la misma vista de informe al día siguiente, se espera que ese número aumente en uno. Si el número es 5 hoy, mañana debería ser 6. El día siguiente debe ser 7, luego 8, etc.
 
-Sin embargo, el campo seguirá mostrando el 5 cada día. El campo debe “volver a ejecutarse” o recalcularse para actualizar la información.
+Sin embargo, el campo seguirá mostrando el 5 cada día. El campo debe &quot;volver a ejecutarse&quot; o recalcularse para actualizar la información.
 
 Para actualizar un campo con la opción Volver a calcular expresiones:
 
@@ -85,7 +85,7 @@ Para actualizar un campo con la opción Volver a calcular expresiones:
 
 ![Volver a calcular la opción de expresión en el objeto](assets/T2K06.png)
 
-También puede volver a calcular varias expresiones al mismo tiempo utilizando la función “edición masiva” en una lista o informe. Supongamos que ha creado un informe que muestra una lista de problemas con el cálculo Días abiertos que aparece en una columna. Si desea volver a calcular todos los problemas a la vez, haga lo siguiente:
+También puede recalcular varias expresiones al mismo tiempo mediante la función de &quot;edición masiva&quot; en una lista o informe. Supongamos que ha creado un informe que muestra una lista de problemas con el cálculo Días abiertos que aparece en una columna. Si desea volver a calcular todos los problemas a la vez, haga lo siguiente:
 
 * Seleccione todos los problemas del informe.
 * Seleccione la opción de edición para editar de forma masiva todos los problemas seleccionados.
@@ -105,9 +105,9 @@ Tan pronto como se guarda un campo calculado en un formulario personalizado y se
 
 Sin embargo, si tiene un campo calculado en el formulario A y el mismo campo calculado en el formulario B, la idea inicial es que los cálculos son exactamente iguales. No siempre es así. El campo calculado del formulario A podría estar calculando de forma completamente diferente en el formulario B.
 
-Cuando se selecciona un campo personalizado calculado de la biblioteca de campos y se agrega a un formulario personalizado, el campo se agrega, pero el cálculo queda en blanco. Una razón por la que esto sucede es que el cálculo puede estar haciendo referencia a campos que no existen para otro tipo de objeto.
+Cuando se selecciona un campo personalizado calculado de la biblioteca de campos y se agrega a un formulario personalizado, el campo se agrega, pero el cálculo queda en blanco. Una razón por la que esto sucede es que el cálculo puede hacer referencia a campos que no existen para otro tipo de objeto.
 
-Por ejemplo, ha creado un campo calculado, “Días hasta finalizar”, para determinar cuánto tiempo tardó en completarse una tarea en un proyecto.
+Por ejemplo, ha creado un campo calculado, &quot;Días para completar&quot;, para determinar cuánto tiempo se tardó en completar una tarea de un proyecto.
 
 * WEEKDAYDIFF({actualStartDate},{actualCompletionDate})
 
@@ -121,4 +121,4 @@ Según la necesidad, los campos calculados en los formularios personalizados pue
 
 Most of the examples and exercises in this course have been relatively simple to provide a base understanding of the expressions most commonly used and how to build those expressions in a custom calculated field. 
 
-Now you’re ready to start building your own calculated custom fields.-->
+Now you're ready to start building your own calculated custom fields.-->
