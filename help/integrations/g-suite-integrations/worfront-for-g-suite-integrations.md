@@ -10,10 +10,10 @@ team: Technical Marketing
 jira: KT-8813
 exl-id: 5a752e3c-81c3-4db9-8419-0e5de3483421
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: aa552b484b467509c0c75fa581e16401a172b5c7
 workflow-type: tm+mt
-source-wordcount: '64'
-ht-degree: 100%
+source-wordcount: '94'
+ht-degree: 68%
 
 ---
 
@@ -26,3 +26,7 @@ Este vídeo contiene información sobre:
 * Aprobar el trabajo de Workfront desde [!DNL Gmail]
 
 >[!VIDEO](https://video.tv.adobe.com/v/335114/?quality=12&learn=on)
+
+## Instalación de Adobe Workfront para G Suite
+
+Para obtener instrucciones sobre cómo instalar la versión más reciente, consulte: [Instalación de Adobe Workfront para G Suite](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-g-suite/install-workfront-for-gsuite.html).
