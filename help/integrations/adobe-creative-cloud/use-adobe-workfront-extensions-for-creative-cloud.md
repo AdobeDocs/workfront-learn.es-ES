@@ -1,6 +1,6 @@
 ---
-title: Uso de complementos de Adobe Workfront para Creative Cloud
-description: 'Busque y actualice el trabajo asignado en Adobe Workfront sin salir de las siguientes aplicaciones de Adobe Creative Cloud: Photoshop, XD, InDesign, Illustrator, Premiere Pro y After Effects'
+title: Uso de complementos de Adobe Workfront para integrar con Creative Cloud
+description: 'Integre Workfront con Creative Cloud para buscar y actualizar el trabajo asignado en Workfront sin salir de las siguientes aplicaciones de Creative Cloud: Photoshop,, InDesign, Illustrator, XD y Premiere Pro After Effects'
 activity: use
 feature: Workfront Integrations and Apps
 type: Tutorial
@@ -10,16 +10,19 @@ team: Technical Marketing
 jira: KT-8811
 doc-type: video
 exl-id: 1a9b767c-3efd-4ecd-9a99-178586cc6774
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+badgeIntegration: label="Integración" type="positive"
+feature-set: Workfront
+topic: Integrations
+source-git-commit: ce2aad1cd0ecb7d568ed9a01d97147cbd126ca05
 workflow-type: tm+mt
-source-wordcount: '217'
-ht-degree: 100%
+source-wordcount: '232'
+ht-degree: 61%
 
 ---
 
-# Uso de complementos de Adobe Workfront para Creative Cloud
+# Uso de complementos de Adobe Workfront para integrar con Creative Cloud
 
-Busque y actualice el trabajo asignado en Adobe Workfront sin salir de las siguientes aplicaciones de Adobe Creative Cloud:
+Integre Workfront con Creative Cloud para buscar y actualizar el trabajo asignado en Adobe Workfront sin salir de las siguientes aplicaciones de Adobe Creative Cloud:
 
 * Photoshop
 * XD
