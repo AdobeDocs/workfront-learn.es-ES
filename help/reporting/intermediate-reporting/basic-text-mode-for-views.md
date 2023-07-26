@@ -11,10 +11,10 @@ team: Technical Marketing
 jira: KT-11367
 exl-id: 156e5510-4a51-449f-9c8c-e16fdd8ea23d
 doc-type: video
-source-git-commit: 409147f9a62302d28e14b834981992a0421d4e4b
+source-git-commit: 078fa7b82919ada1dcf35791b43f996b875cbf8f
 workflow-type: tm+mt
-source-wordcount: '650'
-ht-degree: 90%
+source-wordcount: '685'
+ht-degree: 83%
 
 ---
 
@@ -25,9 +25,9 @@ ht-degree: 90%
 >
 >Requisitos previos:
 >
->* Comprensión de los elementos de creación de informes
->* Información sobre los componentes del sistema de informes
->* Creación de una vista básica
+>* [Comprensión de los elementos de creación de informes](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/reporting-elements.html?lang=en)
+>* [Información sobre los componentes del sistema de informes](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/reporting-components.html?lang=en)
+>* [Crear una vista básica](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-basic-view.html?lang=es)
 
 >[!TIP]
 >
@@ -231,16 +231,23 @@ type=iterate
 
 ![Una imagen de pantalla que muestra la vista Asignaciones y funciones](assets/assignments-roles-and-percent-view.png)
 
-## Tarea: predecesores y sucesores de varios proyectos
+## Tarea: predecesoras y sucesoras entre proyectos
 
 ### Filtro de tareas (opcional)
 
-**Mostrar todas las tareas que tengan al menos un predecesor de proyecto cruzado**
+**Mostrar todas las tareas que tengan al menos una predecesora entre proyectos o al menos una sucesora entre proyectos en los proyectos actuales**
 
 ```
 predecessorsMM:ID_Mod=notblank
 predecessorsMM:projectID=FIELD:projectID
 predecessorsMM:projectID_Mod=ne
+project:statusEquatesWith=CUR
+project:statusEquatesWith_Mod=in
+OR:1:project:statusEquatesWith=CUR
+OR:1:project:statusEquatesWith_Mod=in
+OR:1:successorsMM:ID_Mod=notblank
+OR:1:successorsMM:projectID=FIELD:projectID
+OR:1:successorsMM:projectID_Mod=ne
 ```
 
 ### Tarea: mostrar nombres de predecesor y predecesor de proyecto
@@ -315,7 +322,7 @@ valueformat=HTML
 width=150
 ```
 
-![Una imagen de pantalla que muestra la vista Cruzar predecesores y sucesores del proyecto](assets/cross-project-predecessors-and-successors.png)
+![Imagen de pantalla que muestra la vista de predecesoras y sucesoras entre proyectos](assets/cross-project-predecessors-and-successors.png)
 
 
 ## Tarea: iteración que muestra todas las personas asignadas y quién asignó cada una
