@@ -1,6 +1,6 @@
 ---
-title: Organizar la lista de tareas pendientes en [!DNL Workfront] [!UICONTROL Inicio]
-description: Aprenda a filtrar y ordenar el trabajo asignado, identificar el trabajo listo para iniciarse y aceptar asignaciones de trabajo en  [!DNL  Workfront].
+title: Organice la lista de tareas pendientes en el  [!DNL Workfront] [!UICONTROL Inicio]
+description: Aprenda a filtrar y ordenar el trabajo asignado, identificar el trabajo listo para iniciarse y aceptar asignaciones de trabajo en [!DNL  Workfront].
 feature: Work Management
 type: Tutorial
 role: User
@@ -12,13 +12,13 @@ jira: KT-8798
 exl-id: fd941683-5866-453a-8e15-70b35f183730
 doc-type: video
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '130'
-ht-degree: 86%
+ht-degree: 100%
 
 ---
 
-# Organizar la lista de tareas pendientes en [!DNL Workfront] [!UICONTROL Inicio]
+# Organice la lista de tareas pendientes en el [!DNL Workfront] [!UICONTROL Inicio]
 
 >[!NOTE]
 >
@@ -28,7 +28,7 @@ Este vídeo contiene información sobre:
 
 * Ordenar asignaciones de trabajo
 * Filtrar asignaciones de trabajo por tipo
-* Identificar el trabajo que está listo para iniciarse
+* Identificar el trabajo que está listo para empezar
 * Aceptar asignaciones de trabajo
 
 >[!VIDEO](https://video.tv.adobe.com/v/335099/?quality=12&learn=on)
