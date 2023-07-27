@@ -11,9 +11,9 @@ level: Intermediate
 jira: KT-10065
 exl-id: 190c66f5-b412-48bd-8695-3bd7da088ccb
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '433'
-ht-degree: 94%
+ht-degree: 100%
 
 ---
 
@@ -37,7 +37,7 @@ El [!UICONTROL EAC] representa el coste total proyectado de la tarea o proyecto 
 * **Calcular en el nivel de proyecto:** el [!UICONTROL EAC] para la tarea principal y el proyecto se determinan utilizando las horas/costes laborales reales en las fórmulas del [!UICONTROL EAC]. El cálculo incluye las horas/costes reales y los gastos añadidos directamente a la tarea o proyecto principal.
 * R **esumen de tareas/subtareas:** el [!UICONTROL EAC] para la tarea principal y el proyecto se determinan añadiendo el [!UICONTROL EAC] para cada tarea secundaria. Este cálculo excluye las horas/costes reales añadidos directamente a una tarea principal o proyecto.
 
-El [!UICONTROL EAC] cálculos se enumeran en [Calcular estimación al finalizar (EAC)](https://experienceleague.adobe.com/docs/workfront/using/manage-work/projects/project-finances/calculate-eac.html?lang=en).
+Los cálculos [!UICONTROL EAC] se enumeran en [Calcular estimación al finalizar (EAC)](https://experienceleague.adobe.com/docs/workfront/using/manage-work/projects/project-finances/calculate-eac.html?lang=es).
 
 **Métricas de rendimiento: Configuración**
 
