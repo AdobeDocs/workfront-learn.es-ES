@@ -12,9 +12,9 @@ jira: KT-8729
 exl-id: 1409a1af-3bdb-40f7-af01-f9de2357b602
 doc-type: video
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '474'
-ht-degree: 88%
+ht-degree: 100%
 
 ---
 
@@ -63,7 +63,7 @@ Workfront recomienda establecer el tipo de condición en Estado de progreso para
 
 ![Imagen de los posibles estados de progreso](assets/section-2-3.png)
 
-Cuando se establece en Progress Status, la condición del proyecto puede ser:
+Cuando se establece en Estado de progreso, la condición del proyecto puede ser:
 
 * **En el destino**: cuando el estado del progreso de la última tarea de la ruta crítica es el de A tiempo, la condición del proyecto estará En el destino. El proyecto está en vías de finalizar según lo programado.
 * **En riesgo**: cuando el estado de progreso de la última tarea en la ruta crítica está Detrás o En riesgo, la condición del proyecto está En riesgo. El proyecto está en vías de finalizar tarde, pero aún no es tarde.
@@ -71,4 +71,4 @@ Cuando se establece en Progress Status, la condición del proyecto puede ser:
 
 >[!NOTE]
 >
->Las condiciones se pueden personalizar para su entorno, por lo que puede encontrar más de tres opciones o los nombres pueden ser diferentes a los anteriores. Para obtener información sobre cómo personalizar condiciones, consulte el artículo [Crear o editar una condición personalizada](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/customize/custom-conditions/create-edit-custom-conditions.html?lang=en).
+>Las condiciones se pueden personalizar para su entorno, por lo que puede encontrar más de tres opciones o los nombres pueden ser diferentes a los anteriores. Para obtener información sobre las condiciones de personalización, consulte el artículo [Crear o editar una condición personalizada](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/customize/custom-conditions/create-edit-custom-conditions.html?lang=es).
