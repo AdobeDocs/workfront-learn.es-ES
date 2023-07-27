@@ -11,8 +11,8 @@ thumbnail: 335133.png
 jira: KT-8833
 exl-id: 8301ef00-1f47-4779-aa35-c735b66fdcac
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+source-git-commit: 23f4ab82d2823217c81a3fd37796e2a1260e7cf5
+workflow-type: ht
 source-wordcount: '575'
 ht-degree: 100%
 
@@ -34,7 +34,7 @@ Este vídeo contiene información sobre:
 
 La configuración situada en la parte inferior de la ventana de carga de prueba es opcional, por lo que debe consultar a su organización para ver si la utiliza y cómo.
 
-![Imagen de la ventana [!UICONTROL Nueva prueba ] con la [!UICONTROL Configuración de la fase] resaltada.](assets/additional-proof-workflow-settings.png)
+![Imagen de la ventana [!UICONTROL Nueva prueba]con la [!UICONTROL Configuración de la fase] resaltada.](assets/additional-proof-workflow-settings.png)
 
 * **[!UICONTROL Bloqueo de fase]:** esto evita que las personas en esta fase del flujo de trabajo realicen comentarios o cambien de decisión una vez completada su fase del flujo de trabajo.
 * **[!UICONTROL Transferir derechos de decisión principal]:** acelere el proceso de revisión designando a un responsable principal de la toma de decisiones. Cuando esté definido, [!DNL Workfront] reconoce la decisión de la revisión de esta persona como la decisión más importante. Una vez que esa persona toma su decisión, la fase finaliza y no se necesitan otras decisiones.
