@@ -1,6 +1,6 @@
 ---
 title: Introducción al tutorial de iteradores
-description: Obtenga información sobre cómo contar el número de tareas activas de un proyecto y, a continuación, calcule el valor de cada uno de los paquetes de tareas, todo en  [!DNL Adobe Workfront Fusion].
+description: Obtenga información sobre cómo contar el número de tareas activas de un proyecto y, a continuación, calcule el valor de cada uno de los paquetes de tareas, todo en [!DNL Adobe Workfront Fusion].
 activity: use
 team: Technical Marketing
 type: Tutorial
@@ -11,9 +11,9 @@ jira: KT-9021
 exl-id: 16ad5fb3-bc8f-4d95-8e4b-15b655438621
 doc-type: video
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '168'
-ht-degree: 94%
+ht-degree: 100%
 
 ---
 
@@ -31,7 +31,7 @@ Workfront recomienda ver el vídeo tutorial del ejercicio antes de intentar recr
 
 >[!TIP]
 >
->Para obtener instrucciones paso a paso sobre cómo completar el tutorial, vaya al ejercicio [Introducción al tutorial de iteradores](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/exercises/introduction-to-iterators-exercise.html?lang=en).
+>Para obtener instrucciones paso a paso sobre cómo completar el tutorial, vaya al ejercicio [Introducción al tutorial de iteradores](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/exercises/introduction-to-iterators-exercise.html?lang=es).
 
 
 ## ¿Desea obtener más información? Recomendamos lo siguiente:
