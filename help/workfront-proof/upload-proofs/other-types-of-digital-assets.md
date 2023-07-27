@@ -1,6 +1,6 @@
 ---
 title: Cargar una prueba de un vídeo
-description: Obtenga información sobre cómo cargar un vídeo para revisión en  [!DNL  Workfront].
+description: Obtenga información sobre cómo cargar un vídeo para revisión en [!DNL  Workfront].
 activity: use
 team: Technical Marketing
 feature: Workfront Proof
@@ -11,7 +11,7 @@ thumbnail: upload-a-proof-video.png
 jira: KT-10176
 exl-id: 09fb15ea-caf6-4793-ac16-cf24b52cc3f2
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '282'
 ht-degree: 100%
 
