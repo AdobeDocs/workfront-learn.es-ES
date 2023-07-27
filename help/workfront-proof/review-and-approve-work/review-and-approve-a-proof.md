@@ -1,6 +1,6 @@
 ---
 title: Revisar y aprobar una prueba
-description: Obtenga información sobre cómo acceder y comentar una prueba, utilice el marcado para indicar los cambios necesarios, responda a los comentarios de la prueba y tome una decisión sobre una prueba en  [!DNL Workfront].
+description: Obtenga información sobre cómo acceder y comentar una prueba, utilice el marcado para indicar los cambios necesarios, responda a los comentarios de la prueba y tome una decisión sobre una prueba en [!DNL Workfront].
 activity: use
 feature: Workfront Proof
 type: Tutorial
@@ -12,7 +12,7 @@ jira: KT-8841
 exl-id: fd6e008c-a162-49fa-9f7e-ab7333165dad
 doc-type: video
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '683'
 ht-degree: 100%
 
@@ -51,7 +51,7 @@ Si está trabajando en [!DNL Workfront] y se le ha solicitado que apruebe una pr
 
 ![Una imagen del [!DNL Workfront] [!UICONTROL inicio] con el filtro [!UICONTROL Aprobaciones] activado y una prueba seleccionada de la lista.](assets/open-proof-from-home.png)
 
-Es importante tener en cuenta que las pruebas aparecen en el [!UICONTROL Inicio] de [!DNL Workfront] solo si se le ha asignado aprobarla. Si solo se le ha pedido que revise la prueba, no aparecerá en el [!UICONTROL Inicio] de [!DNL Workfront] cuando seleccione [!UICONTROL Aprobaciones ]de la lista de filtros.
+Es importante tener en cuenta que las pruebas aparecen en el [!UICONTROL Inicio] de [!DNL Workfront] solo si se le ha asignado aprobarla. Si solo se le ha pedido que revise la prueba, no aparecerá en el [!UICONTROL Inicio] de [!DNL Workfront] cuando seleccione [!UICONTROL Aprobaciones]de la lista de filtros.
 
 Seleccione la aprobación de prueba en la [!UICONTROL Lista de trabajo] y, a continuación, haga clic en el vínculo [!UICONTROL Ir a la Prueba] para abrirlo en el visualizador de pruebas.
 
