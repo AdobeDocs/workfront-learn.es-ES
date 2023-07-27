@@ -12,20 +12,20 @@ last-substantial-update: 2023-05-26T00:00:00Z
 jira: KT-10071
 exl-id: 1d82e588-a986-4d83-b3b5-3325a5926a61
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '69'
-ht-degree: 68%
+ht-degree: 100%
 
 ---
 
 # Administración de asignaciones de problemas
 
-La gestión de los problemas es una responsabilidad importante del gestor del proyecto y de los encargados de trabajar en ellos.
+La gestión de los problemas es una responsabilidad importante del gestor del proyecto y de los asignados a trabajar en ellos.
 
 Este vídeo contiene información sobre:
 
 * Asignación de un problema
-* Buscar una asignación de problema
+* Encontrar una asignación de un problema
 * Actualización del progreso en los problemas
 * Actualización del estado del problema
 
