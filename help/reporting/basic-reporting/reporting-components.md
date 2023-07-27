@@ -12,9 +12,9 @@ jira: KT-8850
 exl-id: e9f9ba24-540f-49e1-ac52-740df489317b
 doc-type: video
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '287'
-ht-degree: 15%
+ht-degree: 100%
 
 ---
 
@@ -27,9 +27,9 @@ Este vídeo contiene información sobre:
 
 >[!VIDEO](https://video.tv.adobe.com/v/335146/?quality=12&learn=on)
 
-## Componentes de informes
+## Componentes de creación de informes
 
-![Imagen de la pantalla para crear un filtro](assets/reporting-components-1.png)
+![Una imagen de la pantalla para crear un filtro](assets/reporting-components-1.png)
 
 **A - Origen del campo**
 
@@ -54,7 +54,7 @@ Los calificadores de filtro ayudan a reducir los posibles resultados visibles en
 
 Especifican cómo se relacionan el origen del campo y el nombre del campo con el campo de valor.
 
-Ejemplos: Equal, Contains, Null, Less than
+Ejemplos: Igual, Contiene, Nulo, Menor que
 
 **D - Valor**
 
@@ -68,5 +68,5 @@ Ejemplos: Nuevo, Actual, $$TODAYbw, Descripción
 
 >[!TIP]
 >
->Para obtener ayuda sobre los nombres de campo específicos en Workfront, consulte en la [Glosario de terminología de Adobe Workfront](https://experienceleague.adobe.com/docs/workfront/using/basics/workfront-terminology-glossary.html?lang=en).
+>Para obtener ayuda sobre los nombres de campo específicos en Workfront, consulte en el [Glosario de terminología de Adobe Workfront](https://experienceleague.adobe.com/docs/workfront/using/basics/workfront-terminology-glossary.html?lang=es).
 
