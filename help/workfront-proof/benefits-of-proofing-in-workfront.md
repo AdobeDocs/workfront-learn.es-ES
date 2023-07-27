@@ -1,6 +1,6 @@
 ---
 title: Conozca las ventajas de las pruebas
-description: Descubra qué es la revisión y las ventajas de utilizar la revisión digital en  [!DNL  Workfront].
+description: Descubra qué es la revisión y las ventajas de utilizar la revisión digital en [!DNL  Workfront].
 activity: use
 feature: Workfront Proof
 type: Tutorial
@@ -12,13 +12,13 @@ jira: KT-8822
 exl-id: 9721f0b1-ee24-4db1-ac1b-f0c355ad0a9a
 doc-type: video
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '169'
-ht-degree: 85%
+ht-degree: 100%
 
 ---
 
-# Conozca las ventajas de la revisión en [!DNL Workfront]
+# Conozca las ventajas de la revisión de [!DNL Workfront]
 
 Este vídeo contiene información sobre:
 
@@ -29,12 +29,12 @@ Este vídeo contiene información sobre:
 
 ## Terminología de revisión
 
-Antes de sumergirse en la configuración de revisión en [!DNL  Workfront], familiarícese con la terminología específica utilizada. Verá estos términos utilizados con frecuencia a lo largo de este tutorial.
+Antes de sumergirse en la configuración de revisión en [!DNL  Workfront], familiarícese con la terminología específica utilizada. Verá que estos términos se repiten con frecuencia a lo largo de este tutorial.
 
 * **Prueba:** versión digital de un archivo que se puede revisar, marcar y aprobar mediante el visualizador de pruebas de [!DNL Workfront's].
 * **Flujo de trabajo de prueba:** proceso de creación, enrutamiento y administración de una prueba en [!DNL Workfront]. Los pasos que se siguen para completar estas acciones.
 * **Plantilla de prueba o plantilla de flujo de trabajo automatizada:** pasos de flujo de trabajo preformateados que se pueden aplicar rápidamente a una prueba. Incluya revisores, aprobadores, funciones de prueba, alertas de correo electrónico y plazos.
 * **Función de prueba:** define lo que un usuario puede hacer con una prueba (por ejemplo, comentar, marcar, aprobar, etc.).
-* **Alerta de correo electrónico —** Notificación cuando hay actividad en la prueba.
+* **Alerta de correo electrónico:** notificación enviada cuando hay actividad en la prueba.
 * **Usuario de prueba:** alguien con una licencia de Plan o Trabajo de [!DNL Workfront] que puede cargar, revisar, aprobar, administrar, etc., pruebas digitales.
 
