@@ -12,7 +12,7 @@ jira: KT-8906
 exl-id: 2114027c-e616-45a3-aca4-6382b6a20fda
 doc-type: video
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '318'
 ht-degree: 100%
 
@@ -22,7 +22,7 @@ ht-degree: 100%
 
 En este vídeo, aprenderá lo siguiente:
 
-* Consulte la vista [!UICONTROL Ver por función ]
+* Consulte la vista [!UICONTROL Ver por función]
 * Descubra cómo se muestra la información de recursos en esta vista
 
 
