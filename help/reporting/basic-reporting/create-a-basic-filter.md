@@ -12,9 +12,9 @@ jira: kt-8857, kt-13080
 exl-id: c64e5362-67ca-492f-95a3-05c660be5c03
 doc-type: video
 source-git-commit: 9ac8702eaab26c4efd972507097557cb6728902d
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '96'
-ht-degree: 65%
+ht-degree: 100%
 
 ---
 
@@ -28,12 +28,12 @@ Este vídeo contiene información sobre:
 
 >[!VIDEO](https://video.tv.adobe.com/v/335151/?quality=12&learn=on)
 
-## Comprender la nueva experiencia de filtrado
+## Comprender la nueva experiencia de filtro
 
 Este vídeo contiene información sobre:
 
 * Habilitar y deshabilitar la nueva experiencia de filtro
-* Creación y edición de filtros
+* Crear y editar filtros
 * Apilar filtros
 
 >[!VIDEO](https://video.tv.adobe.com/v/3419558/?quality=12&learn=on)
