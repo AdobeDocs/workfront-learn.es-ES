@@ -11,15 +11,15 @@ level: Intermediate
 jira: KT-9987
 exl-id: 1a56f2f6-12df-43a5-943c-986a85661efa
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '915'
-ht-degree: 63%
+ht-degree: 100%
 
 ---
 
 # Crear instrucciones OR en filtros
 
-Cuando se genera un filtro con varias líneas de criterios, Workfront coloca de forma predeterminada una Y entre cada línea. Esto significa que cada resultado de la lista, cuando utiliza este filtro, cumple todas las reglas.
+Cuando genera un filtro con varias líneas de criterios, Workfront coloca de forma predeterminada una AND entre cada una. Esto significa que cada resultado de la lista, cuando utiliza este filtro, cumple todas las reglas.
 
 En este ejemplo, tenemos tres criterios, o reglas, para un filtro de proyecto:
 
@@ -33,13 +33,13 @@ Los proyectos de la lista de resultados cumplen los tres criterios, lo que le ay
 
 ![Una imagen de una lista filtrada en [!DNL Workfront]](assets/or-statement-2.png)
 
-Sin embargo, puede haber ocasiones en las que desea que los resultados del filtro cumplan varios criterios, y es entonces cuando las instrucciones OR pueden ayudar. Con una instrucción OR, está diciendo al filtro que desea ver cosas que coincidan con CUALQUIERA de sus instrucciones OR en oposición a TODAS sus instrucciones AND.
+Sin embargo, puede haber ocasiones en las que quiera que los resultados del filtro cumplan varios criterios, y es entonces cuando las instrucciones OR pueden ayudar. Con una instrucción OR, está diciendo al filtro que desea ver cosas que coincidan con CUALQUIERA de sus instrucciones OR en oposición a TODAS sus instrucciones AND.
 
 ## Uso de instrucciones O
 
 Las instrucciones O amplían o aumentan la cantidad de información que encuentra el filtro, ya que, para aparecer en la lista de resultados, un elemento debe cumplir solamente una de las reglas de filtro, no todas.
 
-Veamos una instrucción OR simple: proyectos que usted es el administrador de proyectos (propietario) para proyectos OR creados por usted.
+Veamos una instrucción OR: proyectos en los que es el administrador del proyecto (propietario) para proyectos OR creados por usted.
 
 ![Una imagen de la creación de un filtro con instrucciones O en [!DNL Workfront]](assets/or-statement-3.png)
 
@@ -51,11 +51,11 @@ El O entre las dos reglas de filtro amplía los criterios de búsqueda, lo que i
 
 ## Varias reglas de filtro con instrucciones O
 
-Veamos ahora una instrucción OR que contiene varias reglas de filtro a cada lado de OR. Utiliza las mismas dos reglas que antes, pero agrega otra: los proyectos también deben tener el estado Actual.
+Ahora veamos una instrucción OR que contiene varias reglas de filtro a cada lado del OR. Utiliza las mismas dos reglas que antes, pero agrega otra: los proyectos también deben tener el estado Actual.
 
 ![Una imagen de la creación de un filtro con instrucciones O en [!DNL Workfront]](assets/or-statement-5.png)
 
-Observe que Workfront &quot;agrupa&quot; las reglas de filtrado a cada lado del operador OR (hay un cuadro gris alrededor de ellas). Esto indica a Workfront que ejecute las reglas en cada lado del operador OR junto, buscando proyectos que cumplan ambos criterios porque están unidos con AND.
+Observe que Workfront “agrupa” las reglas de filtro a cada lado del operador OR (hay una casilla gris alrededor de ellas). Esto le indica a Workfront que ejecute las reglas a cada lado de OR de forma conjunta, buscando proyectos que cumplan ambos criterios porque están unidos con AND.
 
 En este ejemplo, Workfront busca lo siguiente:
 
@@ -63,7 +63,7 @@ En este ejemplo, Workfront busca lo siguiente:
 * **MÁS (O)**
 * Proyectos que ha creado que también tienen el estado Actual.
 
-Colocar la regla &quot;el estado del proyecto es igual a actual&quot; a cada lado de OR garantiza que la regla funcione junto con cada una de las demás reglas. Esta regla común a veces se denomina &quot;constante&quot;.
+Colocar la regla “estado del proyecto es igual a Actual” en cada lado de OR garantiza que la regla funcione conjuntamente con cada una de las otras reglas. Esta regla común a veces se denomina “constante”.
 
 >[!NOTE]
 >
@@ -73,7 +73,7 @@ Colocar la regla &quot;el estado del proyecto es igual a actual&quot; a cada lad
 
 Sin las reglas de filtro comunes, es posible que no obtenga los resultados de búsqueda previstos.
 
-Por ejemplo, si coloca la regla &quot;el estado del proyecto es igual a Actual&quot; solo en un lado del OR, solo funciona con las demás reglas de filtro de esa sección. En la imagen siguiente, verá que la regla &quot;el estado del proyecto es igual a actual&quot; solo se encuentra en la sección superior.
+Por ejemplo, si pone la regla “estado del proyecto es igual a Actual” solo en un lado de la condición OR, únicamente funciona con las otras reglas de filtro de esa sección. En la siguiente imagen verá que la regla “estado del proyecto es igual a Actual” solo está en la sección superior.
 
 ![Una imagen de la creación de un filtro con instrucciones O en [!DNL Workfront]](assets/or-statement-6.png)
 
@@ -83,19 +83,19 @@ Esto significa que Workfront buscará lo siguiente:
 * **MÁS (O)**
 * Todos los proyectos que ha creado.
 
-Como puede ver, esta configuración le proporciona resultados ligeramente diferentes al filtro con la regla de filtro repetido. Es por eso que asegurarse de que el filtro esté configurado correctamente es importante para asegurarse de que obtiene los resultados que desea y necesita.
+Como puede ver, esta configuración le proporciona resultados ligeramente diferentes al filtro con la regla de filtro repetido. Por eso es importante asegurarse de que el filtro esté configurado correctamente, para garantizar que obtiene los resultados que desea y necesita.
 
-No es posible utilizar instrucciones O con frecuencia al crear filtros. Pero, si lo hace, puede reducir el número de filtros que necesita crear. Solo asegúrese de que los filtros no devuelvan demasiados resultados; una lista larga puede dificultar a los usuarios la búsqueda de la información exacta necesaria.
+No es posible utilizar instrucciones O con frecuencia al crear filtros. Pero, si lo hace, puede reducir el número de filtros que necesita crear. Asegúrese de que los filtros no devuelvan demasiados resultados; una lista larga puede dificultar la búsqueda de la información exacta que necesitan los usuarios.
 
 ## Actividad de filtro O
 
-Desea encontrar tareas incompletas que se le han asignado o que no se han asignado a nadie. Configure un filtro de modo que se asemeje al que se muestra a continuación. ¿Le dará este filtro los resultados que desea? ¿Por qué sí o por qué no?
+Desea encontrar tareas incompletas que están asignadas a usted o que no están asignadas a nadie. Configure un filtro de modo que se asemeje al que se muestra a continuación. ¿Le dará este filtro los resultados que desea? ¿Por qué sí o por qué no?
 
 ![Una imagen de una instrucción O creada incorrectamente en [!DNL Workfront]](assets/or-statement-your-turn-1.png)
 
 ### Respuestas
 
-No, este filtro no proporcionará los resultados esperados (tareas que no han finalizado y que no se le han asignado a usted o que no se le han asignado a nadie) porque la regla de filtrado para el estado de la tarea solo está a un lado del operador OR.
+No, este filtro no proporciona los resultados que desea (tareas que no han finalizado y que, o bien están asignadas a usted o a nadie), ya que la regla de filtro para el estado de la tarea solo está en una parte de la instrucción OR.
 
 En su lugar, este filtro genera una lista que muestra:
 
