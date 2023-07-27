@@ -1,6 +1,6 @@
 ---
-title: Crear una vista básica
-description: Obtenga información sobre qué es una vista, cómo crearla y cómo compartir una vista con otros usuarios en Workfront.
+title: Creación de una vista básica
+description: Aprenda qué es una vista, cómo crear una y cómo compartirla con otros usuarios en Workfront.
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335148.jpeg
@@ -13,15 +13,15 @@ jira: KT-8854
 exl-id: ba3c0e10-dcf1-4a7b-bf11-ccfed9040e6d
 doc-type: video
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '696'
-ht-degree: 6%
+ht-degree: 100%
 
 ---
 
-# Crear una vista básica
+# Creación de una vista básica
 
-En este vídeo, aprenderá lo siguiente:
+Este vídeo contiene información sobre:
 
 * Qué es una vista en Workfront
 * Creación y modificación de una vista
@@ -31,9 +31,9 @@ En este vídeo, aprenderá lo siguiente:
 
 ## Actividad 1: crear una vista de estado de tareas
 
-Como jefe de proyecto, jefe de equipo o jefe de recursos, desea realizar un seguimiento del progreso del trabajo de las tareas. Con esta vista, se obtienen varios indicadores de estado de una tarea, todos en una fila de la lista o del informe.
+Como administrador del proyecto, jefe de equipo o administrador de recursos, debe seguir el progreso del trabajo de las tareas. Con esta vista, se obtienen varios indicadores de estado de una tarea en una fila de la lista o del informe.
 
-Cree una vista de tareas denominada &quot;Vista de estado de tareas&quot; con las siguientes columnas:
+Cree una vista de tarea denominada “Vista de estado de tarea” con las siguientes columnas:
 
 * [!UICONTROL Nombre de la tarea]
 * [!UICONTROL Asignaciones]
@@ -45,26 +45,26 @@ Cree una vista de tareas denominada &quot;Vista de estado de tareas&quot; con la
 
 ## Respuesta de actividad 1
 
-![Imagen de la pantalla para crear una vista del estado de una tarea](assets/view-exercise.png)
+![Una imagen de la pantalla para crear una vista de estado de tareas](assets/view-exercise.png)
 
-1. En un informe de lista de tareas, vaya a **[!UICONTROL Ver]** menú desplegable y seleccione **[!UICONTROL Nueva vista]**.
-1. Asigne a la vista el nombre &quot;Vista de estado de la tarea&quot;.
-1. Elimine estas columnas: [!UICONTROL Hrs pln], [!UICONTROL Predecesoras], [!UICONTROL Comenzar el], y [!UICONTROL Vence el].
-1. Clic **[!UICONTROL Agregar columna]**.
-1. En el [!UICONTROL Mostrar en esta columna] , escriba &quot;status&quot; y seleccione &quot;Status&quot; en la [!UICONTROL Tarea] origen del campo.
-1. Clic **[!UICONTROL Agregar columna]** otra vez.
-1. En el [!UICONTROL Mostrar en esta columna] , escriba &quot;estado&quot; y seleccione &quot;Estado de progreso&quot; en el campo [!UICONTROL Tarea] origen del campo.
-1. Clic **[!UICONTROL Agregar columna]** otra vez.
-1. En el [!UICONTROL Mostrar en esta columna] , escriba &quot;status&quot; y, a continuación, seleccione &quot;Status Icons&quot; en el origen del campo Task.
+1. En un informe de lista de tareas, vaya al menú desplegable **[!UICONTROL Ver]** y seleccione **[!UICONTROL Nueva vista]**.
+1. Asigne el nombre de su vista como “Vista de estado de la tarea”.
+1. Quite estas columnas: [!UICONTROL Horas plan.], [!UICONTROL Predecesores], [!UICONTROL Iniciar en] y [!UICONTROL Vence el].
+1. Haga clic en **[!UICONTROL Añadir columna]**.
+1. En el campo [!UICONTROL Mostrar en esta columna], escriba “estado” y, a continuación, seleccione “Estado” en la fuente del campo [!UICONTROL Tarea].
+1. Haga clic en **[!UICONTROL Añadir columna]** de nuevo.
+1. En el campo [!UICONTROL Mostrar en esta columna], escriba “estado” y, a continuación, seleccione “Estado de progreso” en la fuente del campo [!UICONTROL Tarea].
+1. Haga clic en **[!UICONTROL Añadir columna]** de nuevo.
+1. En el campo [!UICONTROL Mostrar en esta columna], escriba “estado” y, a continuación, seleccione “Iconos de estado” en la fuente del campo Tarea.
 1. Haga clic en **[!UICONTROL Guardar]**.
 
-Pase el ratón sobre cada uno de los iconos de la [!UICONTROL Iconos de estado] para ver lo que representan. Si aparece en gris, significa que la tarea no tiene notas, documentos, procesos de aprobación, etc. Si aparece un icono en color, hay al menos uno de ese elemento asociado con la tarea. Puede hacer clic en los iconos de la nota o del documento para ir a ese elemento.
+Pase el ratón sobre cada uno de los iconos de la columna [!UICONTROL Iconos de estado] para ver lo que representan. Si aparecen en gris, significa que la tarea no tiene notas, documentos, procesos de aprobación, etc. Si un icono aparece en color, hay al menos uno de los elementos asociados a la tarea. Puede hacer clic en los iconos de nota o documento para ir a ese elemento.
 
-## Actividad 2: crear una vista de hito
+## Actividad 2: Crear una vista hito
 
-Si utiliza hitos, esta vista es la forma más sencilla de ver los hitos por nombre y agregarlos o editarlos mediante la edición en línea.
+Si utiliza hitos, esta vista es la forma más sencilla de ver los hitos por nombre y agregarlos o editarlos mediante el uso de la edición en línea.
 
-Cree una vista de tareas denominada &quot;Vista de hito&quot; con las columnas siguientes:
+Cree una vista de tarea denominada “Vista de hito” con las columnas siguientes:
 
 * [!UICONTROL Nombre de la tarea]
 * [!UICONTROL Asignaciones]
@@ -78,15 +78,15 @@ Cree una vista de tareas denominada &quot;Vista de hito&quot; con las columnas s
 
 ## Respuesta de actividad 2
 
-![Imagen de la pantalla para crear una vista de hito](assets/view-milestone-exercise-1.png)
+![Una imagen de la pantalla para crear una vista hito](assets/view-milestone-exercise-1.png)
 
-1. En la lista de tareas de un proyecto, vaya a **[!UICONTROL Ver]** menú desplegable y seleccione **[!UICONTROL Nueva vista]**.
+1. En una lista de tareas de proyecto, vaya al menú desplegable **[!UICONTROL Vista]** y seleccione **[!UICONTROL Nueva vista]**.
 1. Asigne un nombre a la vista &quot;Vista de hito&quot;.
-1. Haga clic en [!UICONTROL Predecesoras] para seleccionarla.
-1. En el [!UICONTROL Mostrar en esta columna] , haga clic en el icono X de la [!UICONTROL Tarea > Predecesoras] , luego escriba &quot;[!UICONTROL nombre de hito]&quot; y haga clic en &quot;[!UICONTROL Nombre]&quot; en la lista.
+1. Haga clic en la columna [!UICONTROL Predecesoras] para seleccionarla.
+1. En el campo de [!UICONTROL Mostrar en esta columna], haga clic en el icono X del campo de la [!UICONTROL Tarea >> Predecesoras], a continuación escriba &quot;[!UICONTROL nombre de hito]&quot; y haga clic en &quot;[!UICONTROL Nombre]&quot; en la lista.
 1. Haga clic en **[!UICONTROL Guardar]**.
 
-![Imagen de una lista de tareas con una vista de hito](assets/view-milestone-exercise-2.png)
+![Imagen de una lista de tareas haciendo uso de una vista de hito](assets/view-milestone-exercise-2.png)
 
 ## Actividad 3: crear una vista de tipos de duración y restricciones de tarea
 
@@ -106,26 +106,26 @@ Cree una vista de tareas denominada &quot;Vista de tipos de duración y restricc
 * [!UICONTROL Restricción de tarea]
 * [!UICONTROL Fecha de restricción]
 
-Cambie el [!UICONTROL Formato de campo] en el [!UICONTROL Comenzar el] y [!UICONTROL Vence el] para mostrar tanto la fecha como la hora.
+Cambie el [!UICONTROL Formato de campo] en las columnas [!UICONTROL Comenzar el] y [!UICONTROL Vence el] para mostrar tanto la fecha como la hora.
 
 ## Respuesta de actividad 3
 
 ![Imagen de la pantalla que muestra la vista de tipos de duración y restricciones de tarea](assets/view-activity-3.png)
 
-1. En la lista de tareas de un proyecto, vaya a **[!UICONTROL Ver]** menú desplegable y seleccione **[!UICONTROL Nueva vista]**.
+1. En un informe de lista de tareas, vaya al menú desplegable **[!UICONTROL Vista]** y seleccione **[!UICONTROL Nueva vista]**.
 1. Asigne un nombre a la vista &quot;Vista de tipos de duración y restricciones de tareas&quot;.
-1. Retire el [!UICONTROL % completado] columna.
-1. Clic **[!UICONTROL Agregar columna]**.
-1. En el [!UICONTROL Mostrar en esta columna] campo, tipo [!UICONTROL &quot;duration&quot;] luego seleccione [!UICONTROL &quot;Duración planificada&quot;] en el [!UICONTROL Tarea] origen del campo.
-1. Mueva esta columna entre las [!UICONTROL Duración] y el [!UICONTROL Hrs pln] columnas.
-1. Clic **[!UICONTROL Agregar columna]** otra vez.
-1. En el [!UICONTROL Mostrar en esta columna] campo, tipo [!UICONTROL &quot;tipo de duración&quot;] luego seleccione [!UICONTROL &quot;Tipo de duración&quot;] en el [!UICONTROL Tarea] origen del campo.
-1. Clic **[!UICONTROL Agregar columna]** otra vez.
-1. En el [!UICONTROL Mostrar en esta columna] campo, tipo [!UICONTROL &quot;restricción&quot;] luego seleccione [!UICONTROL &quot;Restricción de tarea&quot;] en el origen del campo Tarea.
-1. Clic **[!UICONTROL Agregar columna]** otra vez.
-1. En el [!UICONTROL Mostrar en esta columna] campo, tipo [!UICONTROL &quot;restricción&quot;] luego seleccione [!UICONTROL &quot;Fecha de restricción&quot;] en el origen del campo Tarea.
-1. Seleccione el [!UICONTROL Comenzar el] y luego haga clic en [!UICONTROL Opciones avanzadas].
-1. En el [!UICONTROL Formato de campo] selección desplegable [!UICONTROL &quot;10/17/60 3:00 AM&quot;].
-1. Seleccione el [!UICONTROL Vence el] y luego haga clic en [!UICONTROL Opciones avanzadas].
-1. En el [!UICONTROL Formato de campo] selección desplegable [!UICONTROL &quot;10/17/60 3:00 AM&quot;].
+1. Quite la columna del [!UICONTROL % completado].
+1. Haga clic en **[!UICONTROL Añadir columna]**.
+1. En el campo [!UICONTROL Mostrar en esta columna], escriba [!UICONTROL &quot;duración&quot;] y, a continuación, seleccione [!UICONTROL “Duración planificada&quot;] en la fuente del campo [!UICONTROL Tarea].
+1. Mueva esta columna entre las columnas de [!UICONTROL Duración] y el [!UICONTROL Pln Hrs].
+1. Haga clic en **[!UICONTROL Añadir columna]** de nuevo.
+1. En el campo [!UICONTROL Mostrar en esta columna], escriba [!UICONTROL “tipo de duración”] y, a continuación, seleccione [!UICONTROL &quot;Tipo de duración&quot;] en la fuente del campo [!UICONTROL Tarea].
+1. Haga clic en **[!UICONTROL Añadir columna]** de nuevo.
+1. En el campo [!UICONTROL Mostrar en esta columna], escriba [!UICONTROL “restricción”] y, a continuación, seleccione [!UICONTROL “Restricción de tarea”] en la fuente del campo Tarea.
+1. Haga clic en **[!UICONTROL Añadir columna]** de nuevo.
+1. En el campo [!UICONTROL Mostrar en esta columna], escriba [!UICONTROL “restricción”] y, a continuación, seleccione [!UICONTROL “fecha de restricción”] en la fuente del campo Tarea.
+1. Seleccione la columna de [!UICONTROL Comenzar el] y luego haga clic en [!UICONTROL Opciones avanzadas].
+1. En el menú desplegable [!UICONTROL Formato de campo] seleccione [!UICONTROL &quot;10/17/60 3:00 AM&quot;].
+1. Seleccione la columna de [!UICONTROL Vence el] y seguidamente haga clic en [!UICONTROL Opciones avanzadas].
+1. En el menú desplegable [!UICONTROL Formato de campo] seleccione [!UICONTROL &quot;10/17/60 3:00 AM&quot;].
 1. Haga clic en **[!UICONTROL Guardar]**.
