@@ -1,6 +1,6 @@
 ---
 title: Cerrar tareas y problemas
-description: Obtenga información sobre cómo asegurarse de que las tareas y los problemas se cierren antes de cerrar un proyecto en  [!DNL  Workfront].
+description: Obtenga información sobre cómo asegurarse de que las tareas y los problemas se cierren antes de cerrar un proyecto en [!DNL  Workfront].
 activity: use
 team: Technical Marketing
 feature: Work Management
@@ -11,17 +11,17 @@ level: Intermediate
 jira: KT-10133
 exl-id: 20b8d1f7-01ba-4536-aa7b-3d318d9d86c0
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '135'
-ht-degree: 65%
+ht-degree: 100%
 
 ---
 
 # Cerrar tareas y problemas
 
-Uno de los primeros pasos para cerrar un [!DNL Workfront] El proyecto se está asegurando de que todas las tareas y problemas tengan el estado Completo o un estado equivalente.
+Uno de los primeros pasos para cerrar un proyecto de [!DNL Workfront] se asegura de que todas las tareas y problemas tengan un estado de completado o un estado equivalente.
 
-Comience con la lista de tareas y seleccione una [!UICONTROL Vista] que muestra el [!UICONTROL Porcentaje completado] o la columna [!UICONTROL Estado] o ambas. Un análisis rápido en la lista de tareas le permite identificar qué tareas no han tenido un cambio de estado.
+Comience con la lista de tareas y seleccione una [!UICONTROL Vista] que muestra el [!UICONTROL Porcentaje completado] o la columna [!UICONTROL Estado] o ambas. Un análisis rápido de la lista de tareas le permite identificar qué tareas no han tenido un cambio de estado.
 
 Columna [!UICONTROL Porcentaje completado] del ![proyecto](assets/planner-fund-close-tasks-and-issues.png)
 
