@@ -11,15 +11,15 @@ thumbnail: setup-global-proof-settings.png
 jira: KT-10237
 exl-id: c10eb48d-2e05-4b82-8393-60c4b9196d40
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '113'
-ht-degree: 53%
+ht-degree: 100%
 
 ---
 
 # Configuración global de pruebas
 
-Inicie la configuración del sistema para la revisión en [!DNL Workfront] estableciendo la configuración predeterminada global que afecta a los usuarios. La configuración de estos valores predeterminados ahora garantiza que los usuarios que cree tengan las configuraciones mínimas necesarias para empezar a utilizar las funcionalidades de revisión... además, le ahorra tiempo a medida que trabaja en las configuraciones de revisión.
+Inicie la configuración del sistema para la revisión en [!DNL Workfront] estableciendo la configuración predeterminada global que afecta a los usuarios. La configuración de estos valores predeterminados garantiza ahora que los usuarios que cree tengan los ajustes mínimos necesarios para empezar a utilizar las funciones de revisión... Además, le ahorra tiempo a medida que trabaja a través de la configuración de revisión.
 
 * Asignación de funciones de prueba predeterminadas
 * Establecer la configuración predeterminada de la cuenta
