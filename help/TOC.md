@@ -6,7 +6,7 @@ feature-set: Workfront
 source-git-commit: ce2aad1cd0ecb7d568ed9a01d97147cbd126ca05
 workflow-type: tm+mt
 source-wordcount: '2389'
-ht-degree: 98%
+ht-degree: 99%
 
 ---
 
@@ -122,7 +122,7 @@ ht-degree: 98%
       + [Comprender la vista [!UICONTROL Gantt]](manage-work/projects/understand-the-gantt-view.md)
 
    + Tareas {#tasks}
-      + [Creación de tareas](manage-work/tasks/how-to-create-tasks.md)
+      + [Crear tareas](manage-work/tasks/how-to-create-tasks.md)
       + [Comprender las tareas principales y secundarias](manage-work/tasks/understand-parent-child-tasks.md)
       + [Trabajo con tareas](manage-work/tasks/work-with-tasks.md)
       + [Asignación de tareas del plan del proyecto](manage-work/tasks/assign-tasks-from-the-project-plan.md)

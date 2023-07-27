@@ -1,6 +1,6 @@
 ---
 title: Encontrar sus proyectos
-description: Aprenda a encontrar sus proyectos en  [!DNL  Workfront]  mediante pines, favoritos, paneles y la página [!UICONTROL Proyectos].
+description: Aprenda a encontrar sus proyectos en [!DNL  Workfront] mediante pines, favoritos, paneles y la página [!UICONTROL Proyectos].
 activity: use
 feature: Work Management
 thumbnail: find-projects.jpeg
@@ -14,13 +14,13 @@ doc-type: video
 source-git-commit: d66815b0b0a572113ed85dee9bdf469dac08581f
 workflow-type: tm+mt
 source-wordcount: '198'
-ht-degree: 66%
+ht-degree: 100%
 
 ---
 
 # Encontrar sus proyectos
 
-Workfront no puede administrar sus proyectos por usted, pero puede darle la visibilidad que necesita sobre el trabajo que se está realizando. [!DNL Workfront] facilita el seguimiento del progreso del trabajo, la comunicación con su equipo, los ajustes de la cronología y mucho más.
+Workfront no puede administrar sus proyectos por usted, pero puede darle la visibilidad que necesita en el trabajo que se está realizando. [!DNL Workfront] facilita el seguimiento del progreso del trabajo, la comunicación con su equipo, los ajustes de la cronología y mucho más.
 
 <!---
 In this section, you will learn how to:
@@ -39,13 +39,13 @@ Campo ![[!UICONTROL Estado] expandido en el encabezado del proyecto](assets/rece
 
 ## Fijar un proyecto
 
-Cuando esté trabajando en un proyecto, facilite su búsqueda anclándolo a la barra de menús para que pueda abrirlo con un solo clic.
+Como está trabajando en un proyecto, resulta fácil encontrarlo si lo fija en la barra de menús para que pueda abrirlo con un solo clic.
 
 >[!VIDEO](https://video.tv.adobe.com/v/335038/?quality=12&learn=on)
 
 ## Guardar un proyecto en favoritos
 
-Si está administrando varios proyectos, es posible que desee convertirlos en &quot;favoritos&quot; haciendo clic en el icono de estrella. A continuación, puede encontrar la lista en el icono [!UICONTROL Favoritos] en la barra de menús principal.
+Si administra varios proyectos, puede que desee hacerlos “favoritos” haciendo clic en el icono de estrella. A continuación, puede encontrar la lista en el icono [!UICONTROL Favoritos] en la barra de menús principal.
 
 >[!VIDEO](https://video.tv.adobe.com/v/335039/?quality=12&learn=on)
 

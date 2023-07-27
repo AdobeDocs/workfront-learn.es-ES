@@ -1,6 +1,6 @@
 ---
 title: Comprender el modo de texto básico de las vistas
-description: Aprenda qué es el modo texto, qué es camel case y algunos modos de texto básicos "plug and play" que puede utilizar en sus vistas en Workfront.
+description: Aprenda qué es el modo de texto, qué son las palabras en mayúsculas y minúsculas y el modo de texto básico “plug and play” que puede usar en sus vistas de Workfront.
 activity: use
 feature: Text Mode Reporting
 thumbnail: 336820.png
@@ -14,7 +14,7 @@ doc-type: video
 source-git-commit: 078fa7b82919ada1dcf35791b43f996b875cbf8f
 workflow-type: tm+mt
 source-wordcount: '685'
-ht-degree: 83%
+ht-degree: 90%
 
 ---
 
@@ -38,7 +38,7 @@ Este vídeo contiene información sobre:
 
 * Qué es el modo de texto
 * Qué son las palabras agrupadas en mayúsculas y minúsculas
-* Algunos modos de texto básicos &quot;plug and play&quot; que puede utilizar en sus vistas
+* Algunos modos básicos de texto “plug and play” que puede usar en sus vistas
 
 >[!VIDEO](https://video.tv.adobe.com/v/3410571/?quality=12&learn=on)
 
@@ -511,7 +511,7 @@ shortview=false
 section=0
 ```
 
-![Imagen de pantalla que muestra la vista de fechas de aprobación del documento](assets/document-approval-dates.png)
+![Una imagen de pantalla que muestra la vista fechas de aprobación del documento](assets/document-approval-dates.png)
 
 ## Aprobaciones de revisión
 
