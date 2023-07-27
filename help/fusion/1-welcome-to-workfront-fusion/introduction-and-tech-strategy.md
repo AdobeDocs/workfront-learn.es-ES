@@ -1,6 +1,6 @@
 ---
 title: Introducción a Fusion
-description: Obtenga información acerca de la potencia y flexibilidad de [!DNL Adobe Workfront Fusion]y cómo empezar a utilizar su propia instancia de Fusion.
+description: Obtenga información acerca de la potencia y flexibilidad de [!DNL Adobe Workfront Fusion]y cómo empezar con el uso de su propia instancia de Fusion.
 activity: use
 team: Technical Marketing
 type: Tutorial
@@ -12,15 +12,15 @@ jira: KT-8999
 exl-id: 7ca27805-5ca8-4f62-b691-cbdd6a791060
 doc-type: video
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '293'
-ht-degree: 10%
+ht-degree: 100%
 
 ---
 
 # Introducción a Fusion
 
-Obtenga información acerca de la potencia y flexibilidad de [!DNL Adobe Workfront Fusion]y cómo empezar a utilizar su propia instancia de Fusion.
+Obtenga información acerca de la potencia y flexibilidad de [!DNL Adobe Workfront Fusion]y cómo empezar con el uso de su propia instancia de Fusion.
 
 ## ¿Qué es Adobe Workfront Fusion?
 
@@ -30,16 +30,16 @@ Workfront Fusion es una potente plataforma de integración que permite que el tr
 
 Fusion es un producto añadido incluido en algunos paquetes de Workfront y no en otros. Si su paquete de Workfront no incluye Fusion, póngase en contacto con las ventas.
 
-## Introducción a Fusion
+## Introducción al uso de Fusion
 
-Para poder hacer cualquier cosa en Fusion necesita estar en un equipo dentro de una organización. El administrador del sistema Fusion creará equipos en su organización e invitará a los usuarios a estar en uno o más equipos.
+Para poder hacer cualquier cosa en Fusion necesita estar en un equipo dentro de una organización. El administrador del sistema de Fusion creará equipos en su organización e invitará a los usuarios a estar en uno o más equipos.
 
-El administrador del sistema Fusion le enviará una nueva invitación de usuario, que consistirá en dos correos electrónicos. Cuando haya recibido ambos correos electrónicos, siga las instrucciones que se indican en [Iniciar sesión como nuevo usuario](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/welcome-to-workfront-fusion/log-in-as-a-new-user.html?lang=en).
+El administrador del sistema de Fusion le enviará una nueva invitación de usuario, que consistirá en dos correos electrónicos. Cuando haya recibido ambos correos electrónicos, siga las instrucciones que se indican en [Iniciar sesión como nuevo usuario](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/welcome-to-workfront-fusion/log-in-as-a-new-user.html?lang=es).
 
 Si es el administrador del sistema de Fusion, puede consultar los siguientes tutoriales para aprender a crear equipos y añadir nuevos usuarios.
 
-* [Comprender las organizaciones, los equipos y los usuarios](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/workfront-fusion-administration/understand-organizations-teams-and-users.html?lang=en)
-* [Tutorial de administración](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/workfront-fusion-administration/administration-walkthrough.html?lang=en)
+* [Comprender las organizaciones, los equipos y los usuarios](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/workfront-fusion-administration/understand-organizations-teams-and-users.html?lang=es)
+* [Tutorial de administración](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/workfront-fusion-administration/administration-walkthrough.html?lang=es)
 
 ## Introducción y estrategia tecnológica
 
