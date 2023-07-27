@@ -1,6 +1,6 @@
 ---
 title: Comprensión del modo de texto básico de las agrupaciones
-description: Aprenda qué es el modo texto, qué es camel case y algunos modos de texto básicos "plug and play" que puede utilizar en sus agrupaciones en Workfront.
+description: Aprenda qué es el modo de texto, qué son las palabras agrupadas en mayúsculas y minúsculas y el modo de texto básico “plug and play” que puede usar en sus agrupaciones de Workfront.
 activity: use
 feature: Text Mode Reporting
 thumbnail: 336820.png
@@ -12,9 +12,9 @@ jira: KT-11369
 exl-id: 5f45c64f-a22b-4983-91fd-9a1939f99fb1
 doc-type: video
 source-git-commit: 409147f9a62302d28e14b834981992a0421d4e4b
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '283'
-ht-degree: 84%
+ht-degree: 100%
 
 ---
 
@@ -37,7 +37,7 @@ Este vídeo contiene información sobre:
 
 * Qué es el modo de texto
 * Qué son las palabras agrupadas en mayúsculas y minúsculas
-* Algunos modos de texto básicos &quot;plug and play&quot; que puede utilizar en sus agrupaciones
+* Algunos modos de texto “plug and play” básicos que puede usar en sus agrupaciones
 
 >[!VIDEO](https://video.tv.adobe.com/v/3410641/?quality=12&learn=on)
 
@@ -115,7 +115,7 @@ group.0.displayname=Project Name
 ![Una imagen de pantalla que muestra las aprobaciones de prueba agrupadas por nombre de proyecto](assets/proof-approvals-grouped-by-project-name.png)
 
 
-## Aprobación de revisión - Agrupar por nombre de documento
+## Aprobación de prueba: agrupar por nombre de documento
 
 ```
 group.0.displayname=Document Name
