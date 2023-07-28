@@ -6,10 +6,10 @@ role: Admin, Leader, User
 level: Beginner
 jira: KT-10915
 exl-id: 2e874e41-9ec8-47f9-afea-c99be65f9838
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: a7baac7e1bf18c454d1ddb8980898159a3802866
 workflow-type: tm+mt
-source-wordcount: '953'
-ht-degree: 100%
+source-wordcount: '1055'
+ht-degree: 90%
 
 ---
 
@@ -151,3 +151,18 @@ Es importante que los usuarios tengan expectativas claras para que sepan cuál e
 
 
 Asegúrese de que el liderazgo envía comunicaciones para expresar su apoyo.
+
+</br>
+</br>
+
+
+**Práctica recomendada**
+
+Cree e implemente una encuesta de adopción de sus usuarios para comprender mejor dónde están experimentando desafíos y dónde ven valor
+
+**A continuación se explica por qué**
+
+Nuestros clientes más exitosos han desarrollado una cadencia regular para recopilar comentarios a fin de comprender qué podría obstaculizar una mejor adopción de la solución de Workfront. La recopilación de datos de comentarios permitirá a los administradores encontrar los recursos adecuados para realizar mejoras. Esta Guía de encuestas de adopción recorre las etapas de ejecución, medición, planificación y revisión de la realización de una encuesta entre los usuarios de Workfront.
+
+[Descargue la encuesta de la Guía de adopción de Workfront](../assets/adoption-survey.pdf)
+
