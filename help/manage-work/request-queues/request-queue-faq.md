@@ -1,6 +1,6 @@
 ---
 title: Respuestas a preguntas comunes sobre las colas de solicitud
-description: Obtenga respuestas a preguntas comunes sobre las colas de solicitud en  [!DNL  Workfront].
+description: Obtenga respuestas a preguntas comunes sobre las colas de solicitud en [!DNL  Workfront].
 feature: Work Management
 type: Tutorial
 role: Admin, User
@@ -9,9 +9,9 @@ last-substantial-update: 2023-07-18T00:00:00Z
 jira: KT-10101
 exl-id: bfa3ae5f-9618-444c-9eb8-5d82db9a77c7
 source-git-commit: ce2aad1cd0ecb7d568ed9a01d97147cbd126ca05
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '414'
-ht-degree: 59%
+ht-degree: 100%
 
 ---
 
@@ -19,7 +19,7 @@ ht-degree: 59%
 
 **¿Por qué puedo ver una cola de solicitudes, pero mi usuario no?**
 
-En la pestaña [!UICONTROL Detalles de cola] de la cola de solicitudes/proyecto, asegúrese de que el usuario se ajusta a los criterios del campo ¿Quién puede añadir solicitudes a esta cola?” .
+En la pestaña [!UICONTROL Detalles de cola] de la cola de solicitudes/proyecto, asegúrese de que el usuario se ajusta a los criterios del campo “¿Quién puede añadir solicitudes a esta cola?” .
 
 **Otorgue a los usuarios acceso a la cola, pero ahora también pueden ver el proyecto de cola de solicitudes. ¿Por qué?**
 
@@ -37,20 +37,20 @@ Consulte este artículo para obtener más información: [Convertir problemas](ht
 
 **¿Dónde encuentro una cola de solicitudes para realizar ediciones?**
 
-Puede usar el complemento [!UICONTROL Buscar] en la barra de navegación o búsquelo enumerado en la [!UICONTROL Proyectos] área.
+Puede usar el campo [!UICONTROL Buscar] en la barra de navegación o localícela en el área [!UICONTROL Proyectos].
 
 Si abre una solicitud desde la cola de solicitudes, puede hacer clic en el nombre del proyecto en el área de rutas de exploración.
 
-**¿Puedo transferir la información de un formulario personalizado de solicitud a un formulario personalizado de proyecto?**
+**¿Puedo transferir la información de un formulario personalizado de solicitud a un proyecto?**
 
-Sí. Al crear un formulario personalizado, seleccione ambas [!UICONTROL Proyecto] y [!UICONTROL Problema] como tipos de objeto. Adjunte el formulario personalizado a la solicitud. Al convertir la solicitud en un proyecto, el formulario personalizado se adjuntará automáticamente al nuevo proyecto y los valores contenidos en cualquier campo aparecerán en los formularios personalizados de solicitud y de proyecto.
+Sí. Al crear un formulario personalizado, seleccione ambas [!UICONTROL Proyecto] y [!UICONTROL Problema] como tipos de objeto. Adjunte el formulario personalizado a la solicitud. Al convertir la solicitud en un proyecto, el formulario personalizado se adjuntará automáticamente al nuevo proyecto y los valores contenidos en cualquier campo aparecerán tanto en los formularios personalizados de solicitud como del proyecto.
 
 **Estoy viendo un informe de proyecto o tarea. ¿Cómo puedo averiguar de qué solicitud se ha originado este objeto?**
 
-Puede acceder a los campos en la **[!UICONTROL Problema convertido]** y el **[!UICONTROL Originador de problema convertido]** orígenes de campos para agregar esa información a los informes de proyecto y tarea.
+Puede acceder a los campos en los orígenes de campo **[!UICONTROL Problema convertido]** y **[!UICONTROL Generador de problema convertido]** para añadir esta información a los informes de proyecto y tarea.
 
 **¿Cuál es la mejor manera de filtrar por colas de solicitud en un informe?**
 
-Si el filtro del proyecto incluye **Cola>>Es pública>>Igual a>>Ninguna** el informe solo mostrará los proyectos que **NO** colas de solicitudes.
+Si el filtro del proyecto incluye **Cola>>Es pública>>Igual a>>Ninguna** el informe solo mostrará los proyectos que **NO** son colas de solicitud.
 
-Si el filtro del proyecto incluye **Cola>>Es pública>>No es igual a>>Ninguna** el informe solo mostrará los proyectos que **SON** colas de solicitudes.
+Si el filtro del proyecto incluye **Cola>>Es pública>>No es igual a>>Ninguna** el informe solo mostrará los proyectos que **SON** colas de solicitud.
