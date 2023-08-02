@@ -12,9 +12,9 @@ jira: KT-8953
 exl-id: ba993197-9f84-4fc0-86cc-cf849c889f56
 doc-type: video
 source-git-commit: 5d8337dc369c6e7c664f110235847737d342b2c7
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '80'
-ht-degree: 62%
+ht-degree: 100%
 
 ---
 
@@ -30,4 +30,4 @@ En este vídeo, aprenderá sobre lo siguiente:
 
 >[!IMPORTANT]
 >
->Para obtener una explicación más completa de los tipos de duración y las restricciones de tareas, consulte [Explicación y administración de los tipos de duración y las restricciones de tareas](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/intermediate-projects/understand-and-manage-duration-types-and-task-constraints.html?lang=en).
+>Para obtener una explicación más completa de los tipos de duración y las restricciones de tareas, consulte [Explicación y administración de los tipos de duración y las restricciones de tareas](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/intermediate-projects/understand-and-manage-duration-types-and-task-constraints.html?lang=es).
