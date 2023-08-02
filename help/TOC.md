@@ -6,7 +6,7 @@ feature-set: Workfront
 source-git-commit: 2c0cbec8de35ef7d517e856a3080f2495bc41e7d
 workflow-type: tm+mt
 source-wordcount: '2401'
-ht-degree: 98%
+ht-degree: 99%
 
 ---
 
@@ -335,13 +335,13 @@ ht-degree: 98%
 
 + Integraciones {#integrations}
    + Adobe Creative Cloud {#adobe-creative-cloud}
-      + [Uso de complementos de Adobe Workfront para integrar con Creative Cloud](integrations/adobe-creative-cloud/use-adobe-workfront-extensions-for-creative-cloud.md)
+      + [Uso de complementos de Adobe Workfront para su integración con Creative Cloud](integrations/adobe-creative-cloud/use-adobe-workfront-extensions-for-creative-cloud.md)
 
    + Adobe Experience Manager Assets Essentials {#adobe-assets-essentials}
-      + [Configurando](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/configure.html)
-      + [Asignación de metadatos](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/map-metadata.html)
-      + [Envío de documentos y vinculación de recursos](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/link-send.html)
-      + [Historial de versiones](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/versions.html)
+      + [Configurando](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/configure.html?lang=es-ES)
+      + [Asignación de metadatos](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/map-metadata.html?lang=es-ES)
+      + [Envío de documentos y vinculación de recursos](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/link-send.html?lang=es-ES)
+      + [Historial de versiones](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/versions.html?lang=es-ES)
 
    + G Suite {#g-suite-integrations}
       + [Mejore el flujo de trabajo con la integración de G Suite](integrations/g-suite-integrations/worfront-for-g-suite-integrations.md)
@@ -353,13 +353,13 @@ ht-degree: 98%
       + [Instalación del complemento de Microsoft Outlook](integrations/outlook/integrations-microsoft-outlook.md)
 
    + Microsoft Teams {#ms-teams}
-      + [Información general sobre Adobe Workfront para Microsoft Teams](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/workfront-for-microsoft-teams.html)
-      + [Instalación de Adobe Workfront para Microsoft Teams](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/install-workfront-ms-teams.html)
-      + [Acceso a Adobe Workfront desde Microsoft Teams](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/access-workfront-from-ms-teams.html)
-      + [Buscar y compartir elementos de Adobe Workfront en Microsoft Teams](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/search-for-and-share-wf-items-in-ms-teams.html)
-      + [Crear tareas de Adobe Workfront a partir de Microsoft Teams](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/create-workfront-tasks-from-ms-teams.html)
-      + [Envío de solicitudes de Adobe Workfront desde Microsoft Teams](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/submit-workfront-requests-from-ms-teams.html)
-      + [Administración de notificaciones de Adobe Workfront en Microsoft Teams](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/manage-wf-notifications-approval-requests-ms-teams.html)
+      + [Información general sobre Adobe Workfront para Microsoft Teams](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/workfront-for-microsoft-teams.html?lang=es-ES)
+      + [Instalación de Adobe Workfront para Microsoft Teams](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/install-workfront-ms-teams.html?lang=es-ES)
+      + [Acceso a Adobe Workfront desde Microsoft Teams](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/access-workfront-from-ms-teams.html?lang=es-ES)
+      + [Buscar y compartir elementos de Adobe Workfront en Microsoft Teams](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/search-for-and-share-wf-items-in-ms-teams.html?lang=es-ES)
+      + [Crear tareas de Adobe Workfront a partir de Microsoft Teams](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/create-workfront-tasks-from-ms-teams.html?lang=es-ES)
+      + [Envío de solicitudes de Adobe Workfront desde Microsoft Teams](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/submit-workfront-requests-from-ms-teams.html?lang=es-ES)
+      + [Administración de notificaciones de Adobe Workfront en Microsoft Teams](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/manage-wf-notifications-approval-requests-ms-teams.html?lang=es-ES)
 
    + Slack {#slack}
       + [Comprender Workfront para [!UICONTROL Slack]](integrations/slack/introduction-to-workfront-for-slack.md)
