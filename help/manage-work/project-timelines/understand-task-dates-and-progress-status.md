@@ -1,6 +1,6 @@
 ---
 title: Comprender los tipos de fechas y el estado de progreso
-description: Obtenga información sobre cómo ver los distintos tipos de fechas en  [!DNL  Workfront]  y utilice el estado de progreso para realizar un seguimiento del progreso del trabajo.
+description: Obtenga información sobre cómo ver los distintos tipos de fechas en [!DNL  Workfront] y utilice el estado de progreso para realizar un seguimiento del progreso del trabajo.
 activity: use
 feature: Work Management
 thumbnail: 335095.jpeg
@@ -12,9 +12,9 @@ jira: KT-8782
 exl-id: 5504c294-80d4-4c37-8b41-9caf521cea27
 doc-type: video
 source-git-commit: b26ce60a2cac197d19b48656fedaa2eb51c33657
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '111'
-ht-degree: 50%
+ht-degree: 100%
 
 ---
 
@@ -29,7 +29,7 @@ Este vídeo contiene información sobre:
 
 >[!NOTE]
 >
->Como se indica en el vídeo, es importante que las personas cambien el estado de **[!UICONTROL Nuevo]** hasta **[!UICONTROL En curso]** cuando inician una tarea, de modo que [!UICONTROL Fecha real de inicio] será correcto. Pero si se olvidan de hacer esto cuando inicien la tarea, podrán volver atrás y editar la [!UICONTROL Fecha real de inicio] en cualquier momento.
+>Como se indica en el vídeo, es importante que las personas cambien el estado de **[!UICONTROL Nuevo]** a **[!UICONTROL En curso]** cuando inician una tarea, de modo que la [!UICONTROL Fecha de inicio real] sea correcta. Pero si se olvidan de hacerlo cuando inicien la tarea, podrán volver atrás y editar la [!UICONTROL Fecha de inicio real] en cualquier momento.
 
 
 <!---
