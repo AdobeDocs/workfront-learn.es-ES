@@ -12,13 +12,13 @@ last-substantial-update: 2023-05-12T00:00:00Z
 jira: KT-10127
 exl-id: e32f89f0-9b02-42e8-85b4-57fe461b1c36
 source-git-commit: 5d8337dc369c6e7c664f110235847737d342b2c7
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '61'
-ht-degree: 86%
+ht-degree: 100%
 
 ---
 
-# Cambio del estado del proyecto para completar
+# Cambio del estado del proyecto a completo
 
 En este vídeo aprenderá:
 
