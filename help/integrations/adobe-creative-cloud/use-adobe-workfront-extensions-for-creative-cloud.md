@@ -1,6 +1,6 @@
 ---
-title: Uso de complementos de Adobe Workfront para integrar con Creative Cloud
-description: 'Integre Workfront con Creative Cloud para buscar y actualizar el trabajo asignado en Workfront sin salir de las siguientes aplicaciones de Creative Cloud: Photoshop,, InDesign, Illustrator, XD y Premiere Pro After Effects'
+title: Uso de complementos de Adobe Workfront para su integración con Creative Cloud
+description: 'Integre Workfront con Creative Cloud para buscar y actualizar el trabajo asignado en Workfront sin salir de las siguientes aplicaciones de Creative Cloud: Photoshop, XD, InDesign, Illustrator, Premiere Pro y After Effects'
 activity: use
 feature: Workfront Integrations and Apps
 type: Tutorial
@@ -14,13 +14,13 @@ badgeIntegration: label="Integración" type="positive"
 feature-set: Workfront
 topic: Integrations
 source-git-commit: ce2aad1cd0ecb7d568ed9a01d97147cbd126ca05
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '232'
-ht-degree: 61%
+ht-degree: 100%
 
 ---
 
-# Uso de complementos de Adobe Workfront para integrar con Creative Cloud
+# Uso de complementos de Adobe Workfront para su integración con Creative Cloud
 
 Integre Workfront con Creative Cloud para buscar y actualizar el trabajo asignado en Adobe Workfront sin salir de las siguientes aplicaciones de Adobe Creative Cloud:
 
@@ -33,9 +33,9 @@ Integre Workfront con Creative Cloud para buscar y actualizar el trabajo asignad
 
 Debe instalar el complemento correcto para la aplicación de Adobe Creative Cloud que está utilizando:
 
-* Para Photoshop, consulte [Instalación y apertura de Adobe Workfront para Photoshop](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-creative-cloud/install-wf-cc/wf-cc-install-ps.html?)
-* Para XD, consulte [Instalar y abrir Adobe Workfront para XD](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-creative-cloud/install-wf-cc/wf-adobe-xd-install.html?)
-* Para InDesign, Illustrator, Premiere Pro y After Effects, consulte [Instalación y apertura de Adobe Workfront para diseño y vídeo](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-creative-cloud/install-wf-cc/wf-install-cc.html?)
+* Para Photoshop, consulte [Instalación y apertura de Adobe Workfront para Photoshop](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-creative-cloud/install-wf-cc/wf-cc-install-ps.html?lang=es-ES)
+* Para XD, consulte [Instalar y abrir Adobe Workfront para XD](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-creative-cloud/install-wf-cc/wf-adobe-xd-install.html?lang=es-ES)
+* Para InDesign, Illustrator, Premiere Pro y After Effects, consulte [Instalación y apertura de Adobe Workfront para diseño y vídeo](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-creative-cloud/install-wf-cc/wf-install-cc.html?lang=es-ES)
 
 >[!NOTE]
 >
