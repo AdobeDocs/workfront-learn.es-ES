@@ -12,7 +12,7 @@ jira: KT-8716, KT-8717, KT-8718, KT-8719
 exl-id: 2d894587-60ad-4d1e-961f-886a8accfb17
 doc-type: video
 source-git-commit: d66815b0b0a572113ed85dee9bdf469dac08581f
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '198'
 ht-degree: 100%
 
