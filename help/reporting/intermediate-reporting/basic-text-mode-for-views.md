@@ -12,9 +12,9 @@ jira: KT-11367
 exl-id: 156e5510-4a51-449f-9c8c-e16fdd8ea23d
 doc-type: video
 source-git-commit: 078fa7b82919ada1dcf35791b43f996b875cbf8f
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '685'
-ht-degree: 90%
+ht-degree: 100%
 
 ---
 
@@ -25,8 +25,8 @@ ht-degree: 90%
 >
 >Requisitos previos:
 >
->* [Comprensión de los elementos de creación de informes](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/reporting-elements.html?lang=en)
->* [Información sobre los componentes del sistema de informes](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/reporting-components.html?lang=en)
+>* [Comprensión de los elementos de creación de informes](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-task-report.html?lang=es)
+>* [Información sobre los componentes del sistema de informes](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/reporting-components.html?lang=es)
 >* [Crear una vista básica](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-basic-view.html?lang=es)
 
 >[!TIP]
@@ -231,7 +231,7 @@ type=iterate
 
 ![Una imagen de pantalla que muestra la vista Asignaciones y funciones](assets/assignments-roles-and-percent-view.png)
 
-## Tarea: predecesoras y sucesoras entre proyectos
+## Tarea: predecesores y sucesores de varios proyectos
 
 ### Filtro de tareas (opcional)
 
@@ -308,7 +308,7 @@ valueformat=HTML
 width=90
 ```
 
-### Tarea: mostrar el porcentaje completado del proyecto del predecesor entre proyectos
+### Tarea: mostrar el porcentaje completado del proyecto del predecesor de proyectos cruzados
 
 ```
 displayname=Predecessor project percent complete
@@ -322,7 +322,7 @@ valueformat=HTML
 width=150
 ```
 
-![Imagen de pantalla que muestra la vista de predecesoras y sucesoras entre proyectos](assets/cross-project-predecessors-and-successors.png)
+![Una imagen de pantalla que muestra la vista predecesores y sucesores de varios proyectos](assets/cross-project-predecessors-and-successors.png)
 
 
 ## Tarea: iteración que muestra todas las personas asignadas y quién asignó cada una
