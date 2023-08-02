@@ -10,9 +10,9 @@ team: Technical Marketing
 thumbnail: gs-calc-fields-expressions.png
 exl-id: fbd17f01-9e97-4ead-9a56-7ce4f81255ec
 source-git-commit: 409147f9a62302d28e14b834981992a0421d4e4b
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '500'
-ht-degree: 93%
+ht-degree: 100%
 
 ---
 
@@ -59,7 +59,7 @@ Las expresiones de texto buscan, diseccionan y combinan información encontrada 
 
 Por ejemplo, las expresiones de texto se pueden utilizar para lo siguiente:
 
-* Muestre &quot;Más de 5.000 $&quot; cuando los gastos del proyecto sean superiores a 5.000 $ o &quot;Menos de 5.000 $&quot; cuando los gastos estén por debajo de ese valor, en una columna de la vista de proyecto.
+* Mostrar “Más de 5000 dólares” cuando los gastos del proyecto superen los 5000 dólares o &quot;Menos de 5000 dólares&quot; cuando los gastos estén por debajo de eso, en una columna de la vista del proyecto.
 
 * Asigne a cada proyecto un número único que incluya el año en que se creó el proyecto, el número de referencia de [!DNL Workfront] del proyecto, el nombre y las iniciales del propietario del proyecto.
 
@@ -67,7 +67,7 @@ Por ejemplo, las expresiones de texto se pueden utilizar para lo siguiente:
 
 Las expresiones de texto se pueden utilizar en un campo personalizado para realizar estos tipos de búsquedas y combinaciones en Workfront.
 
-Al ver las posibles expresiones de texto, encontrará varias opciones.
+Al consultar las posibles expresiones de texto, encontrará varias opciones.
 
 ![La administración de recursos configura un localizador](assets/TE01.png)
 
