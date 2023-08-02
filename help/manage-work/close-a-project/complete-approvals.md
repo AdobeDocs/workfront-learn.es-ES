@@ -1,6 +1,6 @@
 ---
 title: Aprobaciones completas
-description: Obtenga información sobre cómo identificar aprobaciones incompletas y resolverlas para que pueda cerrar el proyecto en  [!DNL  Workfront].
+description: Obtenga información sobre cómo identificar aprobaciones incompletas y resolverlas para que pueda cerrar el proyecto en [!DNL  Workfront].
 activity: use
 team: Technical Marketing
 feature: Work Management
@@ -11,9 +11,9 @@ level: Intermediate
 jira: KT-10134
 exl-id: fda55592-e4d3-4cb6-941f-09bf1bc76bf6
 source-git-commit: 5d8337dc369c6e7c664f110235847737d342b2c7
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '199'
-ht-degree: 95%
+ht-degree: 100%
 
 ---
 
@@ -29,6 +29,6 @@ Algunas opciones de lo que debe hacer son las siguientes:
 
 * **Completar la aprobación:** esto puede significar recordar a otros la aprobación pendiente. Haga esto con una actualización mediante [!DNL Workfront]. Según los permisos de [!DNL Workfront], es posible que pueda completar la aprobación por su cuenta.
 * **Quitar la aprobación:** si no se necesita la aprobación, puede ser más fácil eliminarla. Su capacidad para hacerlo depende de sus permisos de [!DNL Workfront].
-* **Cambiar el estado:** seleccione un estado que no tenga una aprobación adjunta. Asegúrese de que el estado sea igual a Completo.
+* **Cambiar el estado:** seleccione un estado que no tenga una aprobación adjunta. Asegúrese de que el estado sea igual a Completar.
 
 Si su organización utiliza los problemas para rastrearlos, cambiar pedidos u otros eventos durante los proyectos, siga los mismos pasos en la sección [!UICONTROL Problemas] del proyecto.
