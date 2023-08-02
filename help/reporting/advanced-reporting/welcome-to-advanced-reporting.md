@@ -11,9 +11,9 @@ team: Technical Marketing
 jira: KT-11198
 exl-id: 3baec042-1c1c-4075-b8ff-b1537758ef37
 source-git-commit: 409147f9a62302d28e14b834981992a0421d4e4b
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '440'
-ht-degree: 94%
+ht-degree: 100%
 
 ---
 
@@ -35,7 +35,7 @@ La **Parte 3 de la creación de informes avanzada** contiene un estudio en profu
 
 Antes de ver estos tutoriales, deberá poseer lo siguiente:
 
-* Un conocimiento adecuado del uso de Workfront. Esto significa que ha sido un usuario serio de Workfront durante al menos 3 a 6 meses.
+* Un conocimiento adecuado del uso de Workfront. Esto significa que ha sido un usuario profesional de Workfront durante al menos entre tres y seis meses.
 * Un conocimiento adecuado de los objetos que desea incluir en los informes.
 * Un conocimiento adecuado del uso de formularios personalizados, especialmente campos personalizados calculados.
 * Un tipo de licencia [!UICONTROL Plan] con derechos para crear informes y filtros habilitados.
