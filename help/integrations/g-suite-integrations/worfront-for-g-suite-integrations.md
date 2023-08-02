@@ -1,6 +1,6 @@
 ---
 title: Mejore el flujo de trabajo con la integración de G Suite
-description: Obtenga información sobre cómo convertir un correo electrónico en una tarea o un problema de  [!DNL Workfront] , ver y actualizar trabajo de Gmail con  [!DNL Workfront]  y aprobar trabajo de Gmail con  [!DNL Workfront] .
+description: Obtenga información sobre cómo convertir un correo electrónico en una tarea o un problema de [!DNL Workfront] , ver y actualizar trabajo de Gmail con  [!DNL Workfront]  y aprobar trabajo de Gmail con  [!DNL Workfront] .
 activity: use
 feature: Workfront Integrations and Apps
 type: Tutorial
@@ -11,9 +11,9 @@ jira: KT-8813
 exl-id: 5a752e3c-81c3-4db9-8419-0e5de3483421
 doc-type: video
 source-git-commit: aa552b484b467509c0c75fa581e16401a172b5c7
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '94'
-ht-degree: 68%
+ht-degree: 100%
 
 ---
 
@@ -29,4 +29,4 @@ Este vídeo contiene información sobre:
 
 ## Instalación de Adobe Workfront para G Suite
 
-Para obtener instrucciones sobre cómo instalar la versión más reciente, consulte: [Instalación de Adobe Workfront para G Suite](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-g-suite/install-workfront-for-gsuite.html).
+Para obtener instrucciones sobre cómo instalar la versión más reciente, consulte: [Instalación de Adobe Workfront para G Suite](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-g-suite/install-workfront-for-gsuite.html?lang=es).
