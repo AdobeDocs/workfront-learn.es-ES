@@ -9,15 +9,15 @@ activity: use
 team: Technical Marketing
 jira: KT-10058
 source-git-commit: 409147f9a62302d28e14b834981992a0421d4e4b
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '317'
-ht-degree: 95%
+ht-degree: 100%
 
 ---
 
 # Preguntas frecuentes sobre formularios personalizados
 
-**¿Puedo cambiar el tipo de visualización de un campo después de crearlo? Por ejemplo, ¿puedo cambiar de un menú desplegable a casillas de verificación?**
+**¿Puedo cambiar el tipo de visualización de un campo después de haberlo creado? Por ejemplo, ¿puedo cambiar de un menú desplegable a casillas de verificación?**
 
 Sí. El tipo de visualización puede cambiarse a otro tipo de visualización similar: texto a párrafo, menú desplegable a casillas de verificación o botones de opción, etc. Para obtener más información sobre cómo cambiar el tipo de visualización, consulte el artículo Crear un formulario personalizado.
 
