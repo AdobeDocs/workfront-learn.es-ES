@@ -11,8 +11,8 @@ thumbnail: 335133.png
 jira: KT-8833
 exl-id: 8301ef00-1f47-4779-aa35-c735b66fdcac
 doc-type: video
-source-git-commit: 23f4ab82d2823217c81a3fd37796e2a1260e7cf5
-workflow-type: ht
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+workflow-type: tm+mt
 source-wordcount: '575'
 ht-degree: 100%
 
