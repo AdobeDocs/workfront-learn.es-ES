@@ -1,6 +1,6 @@
 ---
-title: Creación y administración de programaciones
-description: Conozca el propósito de las programaciones, cómo crearlas y editarlas, y los ajustes adicionales para determinar mejor cuándo se puede trabajar.
+title: Crear y administrar programaciones
+description: Obtenga información sobre la finalidad de las programaciones, cómo crearlas y editarlas y la configuración adicional para determinar mejor cuándo se puede realizar el trabajo.
 feature: System Setup and Administration
 topic: Administration
 role: Admin
@@ -10,15 +10,15 @@ last-substantial-update: 2023-07-28T00:00:00Z
 jira: KT-13725
 thumbnail: 3422184.jpeg
 source-git-commit: 7bb4b893cd9a8be7cfd360141bb7d8b105cabf83
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '52'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 
-# Creación y administración de programaciones
+# Crear y administrar programaciones
 
-Conozca el propósito de las programaciones, cómo crearlas y editarlas, y los ajustes adicionales para determinar mejor cuándo se puede trabajar.
+Obtenga información sobre la finalidad de las programaciones, cómo crearlas y editarlas y la configuración adicional para determinar mejor cuándo se puede realizar el trabajo.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3422184/?learn=on)
