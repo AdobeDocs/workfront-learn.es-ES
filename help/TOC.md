@@ -28,11 +28,11 @@ ht-degree: 99%
       + [Restaurar objetos desde la papelera de reciclaje](administration-and-setup/manage-deleted-items/restore-objects-from-the-recycle-bin.md)
 
    + Configurar valores predeterminados del sistema {#configure-system-defaults}
-      + [Creación y administración de estados de objetos](administration-and-setup/configure-system-defaults/create-and-manage-object-statuses.md)
+      + [Crear y administrar estados de objetos](administration-and-setup/configure-system-defaults/create-and-manage-object-statuses.md)
       + [Comprender los tipos de problemas predeterminados](administration-and-setup/configure-system-defaults/default-issue-types.md)
       + [Crear un informe de problemas](administration-and-setup/configure-system-defaults/create-an-issue-status.md)
       + [Crear estado de problemas en todo el sistema](administration-and-setup/configure-system-defaults/customize-systemwide-issue-status.md)
-      + [Creación y administración de programaciones](administration-and-setup/configure-system-defaults/create-and-manage-schedules.md)
+      + [Crear y administrar programaciones](administration-and-setup/configure-system-defaults/create-and-manage-schedules.md)
       + [Creación y administración de la gravedad de los problemas](administration-and-setup/configure-system-defaults/create-and-manage-issue-severities.md)
       + [Personalizar tipos de problemas y terminología](administration-and-setup/configure-system-defaults/customize-issue-types-and-terminology.md)
       + [Configurar las preferencias de problemas predeterminadas globales](administration-and-setup/configure-system-defaults/configure-global-default-issue-preferences.md)
@@ -193,7 +193,7 @@ ht-degree: 99%
 
    + Proyectos intermedios {#intermediate-projects}
       + [Explicación y administración de los tipos de duración y las restricciones de tareas](manage-work/intermediate-projects/understand-and-manage-duration-types-and-task-constraints.md)
-      + [Explicación de las tareas predecesoras entre proyectos](manage-work/intermediate-projects/understand-cross-project-predecessors.md)
+      + [Comprender a los predecesores de varios proyectos](manage-work/intermediate-projects/understand-cross-project-predecessors.md)
 
 
 + Creación de informes {#reporting}
