@@ -3,9 +3,9 @@ user-guide-description: Tutoriales de Workfront
 role: User
 level: Beginner
 feature-set: Workfront
-source-git-commit: c552c61e9e81ed8850a339f0521aecce53eb5b48
+source-git-commit: d4f12d257aa65f2a72ca952467ff0dbce1b999cf
 workflow-type: tm+mt
-source-wordcount: '2405'
+source-wordcount: '2410'
 ht-degree: 99%
 
 ---
@@ -600,6 +600,7 @@ ht-degree: 99%
       + [Administrar columnas de tablero](boards/manage-board-columns.md)
       + [Agregar tarjetas a un tablero](boards/add-cards-to-a-board.md)
       + [Administrar tarjetas en un tablero](boards/manage-cards-on-a-board.md)
+      + [Personalizar tarjetas en un tablero](boards/customize-cards-on-a-board.md)
       + [Añadir y administrar integrantes del equipo en un panel](boards/add-and-manage-team-members-for-a-board.md)
       + [Agregar y editar la configuración de columna en un tablero](boards/add-and-edit-column-settings-on-a-board.md)
       + [Añadir y administrar etiquetas para tarjetas](boards/add-and-manage-tags-for-cards.md)
