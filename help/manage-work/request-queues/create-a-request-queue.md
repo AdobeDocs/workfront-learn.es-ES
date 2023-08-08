@@ -11,10 +11,10 @@ thumbnail: 335221.jpeg
 jira: KT-8958
 exl-id: 7d581548-7060-426d-a89b-97bddd0fbc96
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 09d46b1bb90b86af49bc300bba8822c93ee9e050
 workflow-type: tm+mt
-source-wordcount: '142'
-ht-degree: 100%
+source-wordcount: '129'
+ht-degree: 76%
 
 ---
 
@@ -23,8 +23,8 @@ ht-degree: 100%
 Este vídeo contiene información sobre:
 
 * Crear una cola de solicitudes creando primero un proyecto
-* Configuración de una cola de solicitudes
 * Configuración de los detalles de la cola de solicitudes
+* Hacer que la cola se active
 
 >[!VIDEO](https://video.tv.adobe.com/v/335221/?quality=12&learn=on)
 
@@ -34,14 +34,10 @@ Tomemos un minuto para revisar la información que acaba de presentar.
 
 **Pregunta:** ¿Cuál de las siguientes debe estar en su lugar para que una Cola de solicitudes se active? (seleccione todas las que correspondan)
 
-1. Estado del proyecto = actual
+1. Estado del proyecto = Actual
 1. Se ha seleccionado “Problema” en el tipo de solicitud
 1. Se ha seleccionado “Publicar como Cola de solicitudes de ayuda”
 1. Estado del proyecto = Actual o Planificación
 
-**Respuesta:** 1) Estado del proyecto = actual y 3) “Publicar como Cola de solicitudes de ayuda” está seleccionado
-
-**Pregunta:** Las solicitudes se pueden realizar por correo electrónico. ¿Verdadero o falso?
-
-**Respuesta:** Verdadero
+**Respuesta:** 1) Estado del proyecto = Actual y 3) Se selecciona Publicar como Cola de solicitudes de ayuda
 
