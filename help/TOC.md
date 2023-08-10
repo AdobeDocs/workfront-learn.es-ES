@@ -122,7 +122,7 @@ ht-degree: 99%
       + [Seguimiento del progreso general del proyecto](manage-work/projects/track-overall-project-progress.md)
       + [Seguimiento del progreso del trabajo con las métricas del proyecto](manage-work/projects/track-work-progress-with-project-metrics.md)
       + [Comprender la vista [!UICONTROL Gantt]](manage-work/projects/understand-the-gantt-view.md)
-      + [Comprender el [!UICONTROL Tablero] vista](manage-work/projects/understand-the-board-view.md)
+      + [Comprender la vista [!UICONTROL Tablero]](manage-work/projects/understand-the-board-view.md)
 
    + Tareas {#tasks}
       + [Crear tareas](manage-work/tasks/how-to-create-tasks.md)
