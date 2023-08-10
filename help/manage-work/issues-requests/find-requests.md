@@ -4,24 +4,32 @@ description: Descubra cómo puede usar los paneles, [!UICONTROL Inicio], el áre
 activity: use
 team: Technical Marketing
 feature: Work Management
-thumbnail: find-requests.jpeg
+thumbnail: 3422686.jpg
 type: Tutorial
 role: User
-level: Intermediate
+level: Beginner
+last-substantial-update: 2023-08-10T00:00:00Z
 jira: KT-10143
 exl-id: 45956a0d-d63f-4539-ac65-f2c64a60b4bf
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: ht
-source-wordcount: '222'
-ht-degree: 100%
+source-git-commit: ce044bb73f980bd7424d3a477a05cef2a8527230
+workflow-type: tm+mt
+source-wordcount: '100'
+ht-degree: 27%
 
 ---
 
 # Buscar solicitudes
 
-Si encuentra solicitudes que pueden variar, póngase en contacto con su equipo de [!DNL  Workfront] interno para saber cómo va a administrar la admisión de solicitudes. Algunos lugares en [!DNL Workfront] donde puede encontrar solicitudes son los siguientes:
+En este vídeo aprenderá a encontrar solicitudes a las que está asignado, solicitudes que ha creado y solicitudes que administra.
 
-* **Tableros:** muchos clientes de [!DNL Workfront] escriben informes personalizados que muestran solicitudes entrantes, rastrean solicitudes que se han convertido en proyectos y mucho más. Estos informes individuales se ensamblan en un panel, por lo que todo se puede ver fácil y rápidamente. [!DNL Workfront] recomienda este método de administración de solicitudes, ya que se puede personalizar según las necesidades de su organización.
-* **[!UICONTROL Página principal]:** las solicitudes se etiquetan como un problema, ya que así es como el back-end de [!DNL Workfront] gestiona una solicitud realizada a través de una cola de solicitudes.
-* Área de **** Solicitudes: la página [!UICONTROL Enviado], de forma predeterminada, muestra las solicitudes a las que tiene acceso que siguen abiertas o sin resolver. Cambie el [!UICONTROL Filtro] para ver todas las solicitudes enviadas a las que tiene acceso, solo sus solicitudes o solo sus solicitudes abiertas. Para ver rápidamente los detalles de una solicitud, selecciónela en la lista y abra el panel de resumen.
-* Página **[!UICONTROL Equipos]:** cuando las solicitudes se dirigen a un equipo, aparecen en la página [!UICONTROL Equipos] en la sección [!UICONTROL Solicitudes del equipo]. A partir de ahí, los integrantes del equipo pueden asignarse el trabajo por su cuenta o un jefe de equipo puede asignarlo.
+Aprenderá a encontrar estas solicitudes en los siguientes lugares:
+
+* Workfront [!UICONTROL Inicio]
+* El [!UICONTROL Solicitudes] área
+* El [!UICONTROL Equipos] página
+* En un tablero personalizado
+
+
+>[!VIDEO](https://video.tv.adobe.com/v/3422686/?quality=12&learn=on)
+
+Si desea obtener información sobre cómo crear informes personalizados y colocarlos en un tablero, consulte la [Curso básico de creación de informes](https://experienceleague.adobe.com/docs/workfront-course-map/using/learning-programs/basic-report-creation-program.html)
