@@ -11,9 +11,9 @@ team: Technical Marketing
 jira: KT-9723
 exl-id: 5095d6bb-2721-47f1-be52-8e43d3edb2fd
 doc-type: video
-source-git-commit: ce044bb73f980bd7424d3a477a05cef2a8527230
+source-git-commit: 060ceb14d274e8b2ad080c1f58290a2c5769e007
 workflow-type: tm+mt
-source-wordcount: '415'
+source-wordcount: '416'
 ht-degree: 54%
 
 ---
@@ -32,13 +32,13 @@ Este vídeo contiene información sobre:
 
 El [!UICONTROL Opciones] El administrador del sistema puede ocultar esta sección si desea que utilice los valores predeterminados que ha establecido. Si la variable [!UICONTROL Opciones] Esta sección sí aparece, pero qué significan las opciones:
 
-**Mantener el problema original y enlazar su solución a este proyecto.**
+**Mantener el problema original y enlazar su solución a este proyecto**
 
 Si se selecciona esta opción, el problema original se marcará como resuelto cuando se complete el proyecto. Si esta opción es **no** seleccionado, el problema original se eliminará al crear el proyecto.
 
 **Permitir que (nombre de usuario) tenga acceso a este proyecto**
 
-Si se selecciona esta opción, la persona que realizó la solicitud (o en nombre de quién se realizó la solicitud) recibirá automáticamente derechos de acceso al nuevo proyecto una vez creado. Si esta opción es **no** seleccionados, no se les otorgarán derechos.
+Si se selecciona esta opción, la persona que realizó la solicitud (o en nombre de quién se realizó la solicitud) recibirá automáticamente derechos de acceso al nuevo proyecto una vez creado. Si esta opción es **no** seleccionados, no se les otorgará ningún derecho automáticamente.
 
 ![Imagen de una pantalla de un proyecto que muestra las opciones de conversión](assets/conversion-options.png)
 
