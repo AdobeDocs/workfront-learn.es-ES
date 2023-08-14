@@ -1,5 +1,5 @@
 ---
-title: Buscar solicitudes
+title: Búsqueda y administración de solicitudes
 description: Descubra cómo puede usar los paneles, [!UICONTROL Inicio], el área [!UICONTROL Solicitudes] y la página [!UICONTROL Equipos] para encontrar las solicitudes entrantes realizadas a través de una cola de solicitudes.
 activity: use
 team: Technical Marketing
@@ -11,14 +11,14 @@ level: Beginner
 last-substantial-update: 2023-08-10T00:00:00Z
 jira: KT-10143
 exl-id: 45956a0d-d63f-4539-ac65-f2c64a60b4bf
-source-git-commit: 060ceb14d274e8b2ad080c1f58290a2c5769e007
+source-git-commit: cdb9e1387636686f0de604ff6a143ea2739818c9
 workflow-type: tm+mt
-source-wordcount: '100'
-ht-degree: 27%
+source-wordcount: '104'
+ht-degree: 22%
 
 ---
 
-# Buscar solicitudes
+# Búsqueda y administración de solicitudes
 
 En este vídeo aprenderá a encontrar solicitudes a las que está asignado, solicitudes que ha creado y solicitudes que administra.
 
