@@ -9,8 +9,9 @@ role: User
 level: Beginner
 thumbnail: manage-incoming-requests.jpeg
 jira: KT-10154
+hidefromtoc: true
 exl-id: df831816-fc60-4c63-b46c-ec2ba49fb061
-source-git-commit: cdb9e1387636686f0de604ff6a143ea2739818c9
+source-git-commit: fa555822c372f09e0a99e9470a3f45c03f1ddf3c
 workflow-type: tm+mt
 source-wordcount: '42'
 ht-degree: 57%
