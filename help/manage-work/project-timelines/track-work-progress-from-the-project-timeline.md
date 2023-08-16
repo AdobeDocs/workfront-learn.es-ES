@@ -7,13 +7,14 @@ feature: Work Management
 thumbnail: track-work-progress-from-the-project-timeline.jpeg
 type: Tutorial
 role: User
+last-substantial-update: 2023-08-16T00:00:00Z
 level: Intermediate
 jira: KT-10150
 exl-id: c8793f49-24b8-48cc-af84-5239234ead0e
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: e25a7c0119567c068504edcb8c3ddd29622d52c5
 workflow-type: tm+mt
-source-wordcount: '324'
-ht-degree: 100%
+source-wordcount: '417'
+ht-degree: 56%
 
 ---
 
@@ -23,14 +24,20 @@ Asegúrese de que las tareas avancen de la forma en que deberían para lograr lo
 
 ## Porcentaje completado
 
-El porcentaje completado de cada tarea a veces se utiliza para medir cómo progresa el trabajo. Es importante tener en cuenta que este campo debe ajustarse manualmente, ya que es la estimación que hace el usuario asignado de lo avanzado que está.
+El porcentaje completado de cada tarea de trabajo se utiliza a veces para medir el progreso del trabajo. Es importante tener en cuenta... que este campo debe ajustarse manualmente, ya que es la estimación del usuario asignado de lo avanzado que están.
+
+>[!TIP]
+>
+>Aunque el porcentaje completado en las tareas de trabajo debe actualizarse manualmente, Workfront calcula el porcentaje completado de una tarea principal en función del porcentaje completado y de la duración o las horas planificadas de cada tarea secundaria. Esto significa que obtendrá una mayor precisión porcentual de finalización si divide las tareas grandes en subtareas más pequeñas.
+
 
 ![La lista de tareas del proyecto muestra la columna de [!UICONTROL Porcentaje completado] ](assets/planner-fund-task-percent-complete.png)
 
-Hay dos veces en que el porcentaje completado cambia automáticamente:
+Hay tres ocasiones en que el porcentaje completado cambia automáticamente:
 
-Cuando el [!UICONTROL estado] de la tarea está configurada como Completo, el porcentaje completado cambia a 100.
-Si el [!UICONTROL estado] de la tarea vuelve a ser Nuevo, el porcentaje completado se restablece a 0.
+* Cuando el [!UICONTROL estado] de la tarea está configurada como Completo, el porcentaje completado cambia a 100.
+* Si el [!UICONTROL estado] de la tarea vuelve a ser Nuevo, el porcentaje completado se restablece a 0.
+* En una tarea principal cuando cambia el porcentaje completado de una tarea secundaria.
 
 ## Estado
 
@@ -38,12 +45,14 @@ Incluya la variable [!UICONTROL estado] en una columna [!UICONTROL Ver] para ver
 
 ## Asignaciones de tareas
 
-Al revisar el proyecto, revise las asignaciones de las tareas. Tal vez el trabajo se retrasó porque a nadie se le asignó la tarea. O tal vez la persona asignada no tenía la habilidad adecuada para completar el trabajo. Añada más personas a la tarea o reasígnela para asegurarse de que se realice el trabajo.
+Al revisar el proyecto, revise las asignaciones de las tareas. Tal vez el trabajo se retrasó porque a nadie se le asignó la tarea. O tal vez la persona asignada no tenía las habilidades adecuadas para completar el trabajo. Añada más personas a la tarea o reasígnela para asegurarse de que se realice el trabajo.
 
 ## Restricción de tarea
 
-A veces, las restricciones de tareas se cambian y usted no se da cuenta. Las restricciones pueden alterar el desarrollo de la cronología, por lo que puede que desee comprobar que están configuradas como desea.
+A veces, las restricciones de tareas cambian y no se da cuenta. Las restricciones pueden afectar al comportamiento de la cronología, por lo que debe asegurarse de que estén establecidas como desee.
 
 ![Lista de tareas de proyecto que muestra la columna de restricción de tareas](assets/planner-fund-task-constraint.png)
 
 Cree una vista personalizada que incluya la columna [!UICONTROL Restricción de tareas] para ver esta información en la lista de tareas. Si planificó el proyecto con una fecha de inicio, querrá que sus tareas tengan la restricción [!UICONTROL Lo antes posible] ([!UICONTROL ASAP]).
+
+Para obtener más información sobre las delimitaciones de tareas, consulte [Explicación y administración de los tipos de duración y las restricciones de tareas](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/intermediate-projects/understand-and-manage-duration-types-and-task-constraints.html).

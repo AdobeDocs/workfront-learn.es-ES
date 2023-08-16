@@ -10,10 +10,10 @@ role: User
 level: Intermediate
 jira: KT-10156
 exl-id: 1f44eb26-98bf-4723-b162-27a4f8cb8177
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: e25a7c0119567c068504edcb8c3ddd29622d52c5
 workflow-type: tm+mt
-source-wordcount: '167'
-ht-degree: 100%
+source-wordcount: '164'
+ht-degree: 85%
 
 ---
 
@@ -31,6 +31,9 @@ La ventana de detalles permite realizar cambios en la configuración del nuevo p
 >
 >Para crear un proyecto con este método, debe acceder al área Plantillas de Workfront. Si no puede acceder a las plantillas, puede seguir utilizando una plantilla para crear un proyecto desde el área Proyectos o al convertir un problema o una tarea.
 
-**Consejo profesional**: si hay una plantilla que utiliza con frecuencia, colóquela en favoritos. Verá la plantilla en el menú Nuevo proyecto, además de aparecer en el menú Favoritos y recientes de la barra de navegación.
+>[!TIP]
+>
+>Si hay una plantilla que use con frecuencia, guárdela como favorita. Verá la plantilla en el menú Nuevo proyecto, además de aparecer en el menú Favoritos de la barra de exploración.
+
 
 ![Nuevas plantillas en favoritos del proyecto](assets/direct-template-03.png)

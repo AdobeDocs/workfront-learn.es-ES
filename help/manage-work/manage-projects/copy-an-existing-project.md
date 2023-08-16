@@ -10,10 +10,10 @@ role: User
 level: Intermediate
 jira: KT-10155
 exl-id: 90a87fef-70e9-42fc-ac55-415980ef32c7
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: e25a7c0119567c068504edcb8c3ddd29622d52c5
 workflow-type: tm+mt
-source-wordcount: '130'
-ht-degree: 100%
+source-wordcount: '129'
+ht-degree: 82%
 
 ---
 
@@ -29,4 +29,4 @@ La ventana Copiar proyecto permite cambiar el título y el estado, así como bor
 
 ![Cr](assets/copy-existing-02.png)
 
-Si se selecciona Borrar asignaciones o establece el estado de Planificación, el proyecto copiado no envía notificaciones de asignación de tareas justo después de copiarlo.
+Si selecciona Borrar asignaciones o establece el estado en Planificación, el proyecto copiado no enviará notificaciones de asignación de tareas inmediatamente después de copiarlo.
