@@ -8,9 +8,10 @@ thumbnail: close-tasks-and-issues.jpeg
 type: Tutorial
 role: User
 level: Intermediate
+last-substantial-update: 2023-08-16T00:00:00Z
 jira: KT-10133
 exl-id: 20b8d1f7-01ba-4536-aa7b-3d318d9d86c0
-source-git-commit: a63de5541cbe92d1dbea286caf5465df0bbdce9a
+source-git-commit: db11cd2eff1b197803bf0ff8e19dad96ab31f3e8
 workflow-type: tm+mt
 source-wordcount: '154'
 ht-degree: 35%
