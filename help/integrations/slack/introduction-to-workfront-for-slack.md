@@ -11,9 +11,9 @@ jira: KT-8815
 exl-id: f1d857c3-2140-45db-8473-1183baa490d2
 doc-type: video
 source-git-commit: 01a1f3c4b41798cebe4239de69067bce437cb8a0
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '63'
-ht-degree: 61%
+ht-degree: 100%
 
 ---
 
@@ -27,5 +27,5 @@ En este vídeo, aprenderá lo siguiente:
 
 >[!NOTE]
 >
->Para obtener información sobre cómo configurar [!UICONTROL Workfront para Slack], consulte [Adobe Workfront para Slack](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-slack/use-workfront-for-slack.html?lang=en).
+>Para obtener información sobre cómo configurar [!UICONTROL Workfront para Slack], consulte [Adobe Workfront para Slack](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-slack/use-workfront-for-slack.html?lang=es).
 
