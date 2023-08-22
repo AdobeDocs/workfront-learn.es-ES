@@ -5,8 +5,8 @@ level: Beginner
 feature-set: Workfront
 source-git-commit: 64789af613bd6b38e58bd2c15df622729b883b22
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '2416'
+ht-degree: 99%
 
 ---
 
@@ -140,8 +140,8 @@ ht-degree: 0%
       + [Búsqueda y administración de solicitudes](manage-work/issues-requests/find-requests.md)
       + [Administración de asignaciones de problemas](manage-work/issues-requests/manage-issue-assignments.md)
       + [Actualizar solicitud](manage-work/issues-requests/update-a-request.md)
-      + [Conversión de un problema o una solicitud en un proyecto](manage-work/issues-requests/create-a-project-from-a-request.md)
-      + [Conversión de un problema o una solicitud en una tarea](manage-work/issues-requests/convert-issues-to-other-work-items.md)
+      + [Convertir un problema/solicitud en un proyecto](manage-work/issues-requests/create-a-project-from-a-request.md)
+      + [Convertir un problema/solicitud en una tarea](manage-work/issues-requests/convert-issues-to-other-work-items.md)
       + [Revisar y aprobar el trabajo digital](manage-work/issues-requests/review-and-approve-digital-work.md)
       + [Informe de problemas](manage-work/issues-requests/report-on-issues.md)
 
