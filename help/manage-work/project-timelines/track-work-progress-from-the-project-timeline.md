@@ -12,9 +12,9 @@ level: Intermediate
 jira: KT-10150
 exl-id: c8793f49-24b8-48cc-af84-5239234ead0e
 source-git-commit: e25a7c0119567c068504edcb8c3ddd29622d52c5
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '417'
-ht-degree: 56%
+ht-degree: 100%
 
 ---
 
@@ -24,20 +24,20 @@ Asegúrese de que las tareas avancen de la forma en que deberían para lograr lo
 
 ## Porcentaje completado
 
-El porcentaje completado de cada tarea de trabajo se utiliza a veces para medir el progreso del trabajo. Es importante tener en cuenta... que este campo debe ajustarse manualmente, ya que es la estimación del usuario asignado de lo avanzado que están.
+El porcentaje completado de cada tarea a veces se utiliza para medir cómo progresa el trabajo. Es importante tener en cuenta que este campo tiene que ajustarse manualmente, ya que es la estimación que hace la persona asignada de cuánto ha avanzado.
 
 >[!TIP]
 >
->Aunque el porcentaje completado en las tareas de trabajo debe actualizarse manualmente, Workfront calcula el porcentaje completado de una tarea principal en función del porcentaje completado y de la duración o las horas planificadas de cada tarea secundaria. Esto significa que obtendrá una mayor precisión porcentual de finalización si divide las tareas grandes en subtareas más pequeñas.
+>Aunque el porcentaje completado de las tareas de trabajo debe actualizarse manualmente, Workfront calcula el porcentaje completado de una tarea principal basándose en el porcentaje completado y en la duración o las horas planificadas de cada tarea secundaria. Esto significa que obtendrá un porcentaje completado más preciso si divide las tareas grandes en subtareas más pequeñas.
 
 
 ![La lista de tareas del proyecto muestra la columna de [!UICONTROL Porcentaje completado] ](assets/planner-fund-task-percent-complete.png)
 
-Hay tres ocasiones en que el porcentaje completado cambia automáticamente:
+Hay tres ocasiones en las que el porcentaje completado cambia automáticamente:
 
-* Cuando el [!UICONTROL estado] de la tarea está configurada como Completo, el porcentaje completado cambia a 100.
+* Cuando el [!UICONTROL estado] de la tarea se establece en Completo, el porcentaje completado cambia a 100.
 * Si el [!UICONTROL estado] de la tarea vuelve a ser Nuevo, el porcentaje completado se restablece a 0.
-* En una tarea principal cuando cambia el porcentaje completado de una tarea secundaria.
+* En una tarea principal, cuando cambia el porcentaje completado de una tarea secundaria.
 
 ## Estado
 
@@ -49,10 +49,10 @@ Al revisar el proyecto, revise las asignaciones de las tareas. Tal vez el trabaj
 
 ## Restricción de tarea
 
-A veces, las restricciones de tareas cambian y no se da cuenta. Las restricciones pueden afectar al comportamiento de la cronología, por lo que debe asegurarse de que estén establecidas como desee.
+A veces las restricciones de las tareas cambian y no se da cuenta. Las restricciones pueden afectar al comportamiento de la cronología, por lo que debe asegurarse de que están establecidas como desee.
 
 ![Lista de tareas de proyecto que muestra la columna de restricción de tareas](assets/planner-fund-task-constraint.png)
 
 Cree una vista personalizada que incluya la columna [!UICONTROL Restricción de tareas] para ver esta información en la lista de tareas. Si planificó el proyecto con una fecha de inicio, querrá que sus tareas tengan la restricción [!UICONTROL Lo antes posible] ([!UICONTROL ASAP]).
 
-Para obtener más información sobre las delimitaciones de tareas, consulte [Explicación y administración de los tipos de duración y las restricciones de tareas](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/intermediate-projects/understand-and-manage-duration-types-and-task-constraints.html).
+Para obtener más información sobre las restricciones de tareas, consulte [Explicación y administración de los tipos de duración y las restricciones de tareas](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/intermediate-projects/understand-and-manage-duration-types-and-task-constraints.html?lang=es).
