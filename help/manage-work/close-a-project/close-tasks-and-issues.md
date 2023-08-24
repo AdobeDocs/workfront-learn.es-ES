@@ -12,9 +12,9 @@ last-substantial-update: 2023-08-16T00:00:00Z
 jira: KT-10133
 exl-id: 20b8d1f7-01ba-4536-aa7b-3d318d9d86c0
 source-git-commit: db11cd2eff1b197803bf0ff8e19dad96ab31f3e8
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '154'
-ht-degree: 35%
+ht-degree: 100%
 
 ---
 
@@ -22,8 +22,8 @@ ht-degree: 35%
 
 Uno de los primeros pasos para cerrar un proyecto de [!DNL Workfront] se asegura de que todas las tareas y problemas tengan un estado de completado o un estado equivalente.
 
-Si la variable [!UICONTROL Porcentaje completado] el campo del encabezado del proyecto muestra el 100 % sabe que todas las tareas están marcadas como 100 % completadas. Sin embargo, una tarea que [!UICONTROL Completo - Aprobación pendiente] seguirá leyendo como 100%, por lo que no olvide comprobar si hay alguno. Consulte [Completar aprobaciones](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/close-a-project/complete-approvals.html) para obtener todas las sugerencias acerca de las aprobaciones.
+Si el campo [!UICONTROL Porcentaje completado] del encabezado del proyecto muestra 100 %, sabrá que todas sus tareas están marcadas como completadas al 100 %. Sin embargo, una tarea que esté [!UICONTROL Completada - Pendiente de aprobación] seguirá apareciendo como 100 %, así que no se olvide de comprobarla. Consulte [Aprobaciones completas](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/close-a-project/complete-approvals.html?lang=es) para conocer todos los consejos acerca de las aprobaciones.
 
-Si tiene problemas incompletos, incluso los que están pendientes de aprobación, aparecerá un número junto a la pestaña Problemas que muestra cuántos. Si el número es cero, no tiene problemas incompletos.
+Si tiene algún problema que esté incompleto, incluso los que están pendientes de aprobación, aparecerá un número junto a la pestaña Problemas mostrando la cantidad. Si el número es cero, no tiene ningún problema incompleto.
 
-![Visualización del proyecto [!UICONTROL Porcentaje completado] y problemas pendientes](assets/close-tasks-and-issues.png)
+![El proyecto muestra el [!UICONTROL Porcentaje completado] y problemas pendientes](assets/close-tasks-and-issues.png)
