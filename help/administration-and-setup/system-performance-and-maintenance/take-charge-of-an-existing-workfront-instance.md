@@ -10,10 +10,10 @@ jira: KT-11747
 team: Technical Marketing
 thumbnail: null
 exl-id: ad900f59-319b-49ee-bc23-e816edc2de24
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: ht
-source-wordcount: '645'
-ht-degree: 100%
+source-git-commit: be1afb2a1c24b35c7fc84e77fab08934e3cbbe48
+workflow-type: tm+mt
+source-wordcount: '772'
+ht-degree: 66%
 
 ---
 
@@ -21,23 +21,24 @@ ht-degree: 100%
 
 Lo maravilloso de Workfront es que se puede personalizar. Y justamente eso es también lo desafiante de Workfront. Si es un nuevo administrador del sistema o del grupo que toma el control de una instancia de Workfront existente, puede resultar abrumador averiguar cómo se configuró originalmente.
 
-Sin embargo, a través de nuestra lista de comprobación de instancias heredadas, puede aprender todo lo que necesita saber sobre su instancia.\
-<br>
-</br>
-<a href="assets/adobe-workfront-system-admin-playbook-inherited-instance.xlsx" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM">
-<span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Descargar la lista de comprobación de instancias heredadas </span>
-</a>
+Sin embargo, a través de nuestra lista de comprobación de instancias heredadas, puede aprender todo lo que necesita saber sobre su instancia.
 
-![Imagen de lista de comprobación de instancias heredadas](assets/wf-inherited-instance-imagel.jpg)
+![Imagen de lista de comprobación de instancias heredadas](assets/wf-inherited-instance-image.png)
+<br></br>
 
-En esta lista de comprobación, podrá revisar un conjunto completo de preguntas, recursos y vínculos para comprender claramente cómo se ha configurado.
+En la lista de comprobación de instancias heredadas, revisará un conjunto completo de preguntas, recursos y vínculos para comprender claramente cómo se ha configurado.
 
-Además, hemos esbozado tres fases clave por las que pasará (descubrimiento, auditoría y documentación) con las duraciones sugeridas. Se pueden ajustar para adaptarlas a sus necesidades específicas y no tienen que estar todas en una sola sesión.
+La lista de comprobación se ha creado como modelo de Workfront y como hoja de cálculo de Excel descargable. Recomendamos utilizar el modelo para administrar y documentar su trabajo directamente en Workfront.
 
-Las pestañas de la hoja de cálculo están organizadas por tema, no por cronología, de modo que puede avanzar por el documento de la manera que mejor se adapte a usted y a su organización.
+Tanto el modelo como la hoja de cálculo están organizados por temas, en lugar de por cronología, para que pueda progresar de la manera que mejor se adapte a usted y a su organización. . Las duraciones proporcionadas son solo un ejemplo y debe ajustarlas para adaptarlas a sus necesidades específicas. ¡Esto no tiene que hacerse todo de una sola vez!
 
-Siempre que sea posible, le recomendamos que trabaje con otras personas de su organización para revisar y documentar estos elementos, y que mantenga este documento actualizado si hay algún cambio importante. Los futuros administradores de su instancia le agradecerán.
+Siempre que sea posible, le animamos a que trabaje con otros miembros de su organización para revisar y documentar estos elementos, y a que mantenga su documentación actualizada si se producen cambios importantes. Los futuros administradores de su instancia le agradecerán.
 
+* Para descargar el modelo, vaya al menú principal en su propia instancia de Workfront y seleccione Modelos. Busque el modelo titulado &quot;Conceptos básicos de instancias heredadas&quot; | Lista de comprobación&quot; y haga clic en Instalar. Elija el entorno de producción o de zona protegida y continúe configurando. Puede encontrar más información sobre la instalación y configuración de modelos [aquí](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/blueprints/blueprints-install.html?lang=en).
+
+* Para descargar la lista de comprobación de Excel, haga clic en [aquí](assets/adobe-workfront-system-admin-playbook-inherited-instance.xlsx).
+
+Tanto si utiliza el modelo como la lista de comprobación de Excel, puede considerar este proceso en tres fases clave: Detección, Auditoría y Documentación. A continuación se enumeran las descripciones y los resultados ideales.
 
 <br>
 </br>
@@ -97,6 +98,7 @@ Al pasar por cada fase y con la ayuda de la lista de comprobación de instancias
 </br>
 
 A continuación encontrará información adicional.
+* [Seminario web: sugerencias para hacerse cargo de una instancia heredada](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/webinar-system-admin-essentials-tips-for-taking-over-an-existing/td-p/571873)
 * [Definición de objetivos para la implementación de Workfront](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/get-started-administration/define-wf-goals-objectives.html?lang=es)
 * [Publicación de blog: patrocinio ejecutivo y valor para el liderazgo](https://experienceleaguecommunities.adobe.com/t5/workfront-blogs/customer-success-tips-executive-sponsorship-and-value-to/ba-p/518353)
 * [Publicación de blog: introducción a los KPI de Adobe Workfront](https://experienceleaguecommunities.adobe.com/t5/workfront-blogs/kpi-dashboards-in-the-new-workfront-experience-introduction-to/ba-p/549001)
