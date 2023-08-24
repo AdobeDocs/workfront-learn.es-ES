@@ -11,9 +11,9 @@ level: Intermediate
 jira: KT-10156
 exl-id: 1f44eb26-98bf-4723-b162-27a4f8cb8177
 source-git-commit: e25a7c0119567c068504edcb8c3ddd29622d52c5
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '164'
-ht-degree: 85%
+ht-degree: 100%
 
 ---
 
@@ -33,7 +33,7 @@ La ventana de detalles permite realizar cambios en la configuración del nuevo p
 
 >[!TIP]
 >
->Si hay una plantilla que use con frecuencia, guárdela como favorita. Verá la plantilla en el menú Nuevo proyecto, además de aparecer en el menú Favoritos de la barra de exploración.
+>Si hay una plantilla que use con frecuencia, guárdela como favorita. Verá la plantilla en el menú Nuevo proyecto, y además aparecerá en el menú Favoritos de la barra de navegación.
 
 
 ![Nuevas plantillas en favoritos del proyecto](assets/direct-template-03.png)
