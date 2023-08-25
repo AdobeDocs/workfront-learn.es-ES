@@ -11,10 +11,10 @@ thumbnail: review-approve-digital-work.png
 jira: KT-8841
 exl-id: fd6e008c-a162-49fa-9f7e-ab7333165dad
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: ht
-source-wordcount: '683'
-ht-degree: 100%
+source-git-commit: cbeb3387107da639899ab22e4372200356551154
+workflow-type: tm+mt
+source-wordcount: '684'
+ht-degree: 95%
 
 ---
 
@@ -43,7 +43,7 @@ El correo electrónico [!UICONTROL Nueva prueba] también contiene información 
 * El número de versión le permite saber qué versión de la prueba va a ver.
 * Y, lo que es más importante, la fecha límite aparece en dos lugares del correo electrónico: justo encima de la sección de detalles de la prueba y en la barra gris de la fase del flujo de trabajo de la que forma parte.
 
-Una vez que esté listo para iniciar la revisión, todo lo que debe hacer es hacer clic en el botón de color azul [!UICONTROL Ir a la prueba] y el archivo se abre automáticamente en el visualizador de revisión de [!DNL Workfront’s].
+Una vez que esté listo para iniciar la revisión, todo lo que tiene que hacer es hacer clic en el botón azul [!UICONTROL Ir a la revisión] y el archivo se abre automáticamente en el [!DNL Workfront] visualizador de pruebas.
 
 ### Abrir una prueba desde el [!UICONTROL Inicio]
 
