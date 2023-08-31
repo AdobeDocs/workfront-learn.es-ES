@@ -13,14 +13,21 @@ hidefromtoc: true
 jira: KT-null
 exl-id: f669d044-9498-4a07-90b3-1917504f7bf4
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 254a31d341f0b3b1ecf458cbbeddc0d6ad5c779a
 workflow-type: tm+mt
-source-wordcount: '401'
-ht-degree: 100%
+source-wordcount: '500'
+ht-degree: 69%
 
 ---
 
 # Workfront para ejecutivos
+
+Como ejecutivo, Adobe Workfront puede:
+
+* Manténgase informado sobre el progreso del trabajo que le preocupa a través de **informes y paneles**
+* Le ofrece una forma sencilla de **comunicarse con las partes interesadas del proyecto mediante actualizaciones**
+* Le ofrece una forma sencilla de **realizar una solicitud de trabajo**
+* Le ofrece una forma fácil de ver **elementos que esperan su aprobación**
 
 ## Informes y paneles
 
@@ -40,19 +47,26 @@ Haga clic en Paneles en el icono de menú Principal en la esquina superior derec
 
 Los líderes pueden acceder a los distintos paneles disponibles desde el panel de navegación izquierdo.
 
-![Imagen de la opción Paneles en el menú principal](assets/workfront-4-executives-2.png)
+![Una imagen de la página Paneles](assets/workfront-4-executives-2.png)
 
-* **Todos los Paneles**: muestra los paneles que usted y otros usuarios han creado y a los que tienen permisos para Ver al menos.
+* **Todos los paneles**: Muestra los tableros que usted u otros usuarios han creado y para los que tiene permisos de visualización.
 * **Mis paneles**: muestra los paneles que ha creado.
 * **Paneles compartidos**: muestra los paneles que otros usuarios han creado y compartido con usted.
 
-Con un panel, los líderes son capaces de revisar cosas como los “Costes, ingresos y presupuestos”, para los proyectos importantes y problemas abiertos con los que sus equipos están lidiando. También pueden ver proyectos que están en riesgo, así como una lista de elementos que necesitan aprobación ejecutiva.
+Con un tablero, los líderes pueden revisar cosas como &quot;Costos, Ingresos y Presupuestos&quot;, para proyectos importantes y problemas pendientes con los que sus equipos están lidiando. También pueden ver proyectos que están en riesgo, así como una lista de elementos que necesitan aprobación ejecutiva.
 
 Los informes de Workfront pueden mejorar la rendición de cuentas de sus empleados. La clave para aprovechar los informes es establecer un flujo de trabajo claro para la forma en que su organización los utiliza. Asegúrese de que todos tengan una idea clara de qué informes se utilizan para medir el éxito.
 
 ![Ejemplo de informes en un panel de Workfront ](assets/workfront-4-executives-3.png)
 
 Ejemplo de informes en un panel de Workfront
+
+## Comunicarse con las partes interesadas del proyecto mediante actualizaciones
+
+Comuníquese con el equipo del proyecto dentro del propio proyecto para que todas las comunicaciones del proyecto sean fácilmente accesibles.
+
+![Imagen de la página Actualizaciones](assets/workfront-4-executives-4.png)
+
 
 ## Realizar una solicitud
 
@@ -65,3 +79,10 @@ Este vídeo contiene información sobre:
 * Ver las solicitudes enviadas
 
 >[!VIDEO](https://video.tv.adobe.com/v/336092/?quality=12&learn=on)
+
+## Elementos que esperan su aprobación
+
+Entrada [!UICONTROL Inicio] puede encontrar fácilmente artículos en espera de su aprobación.
+
+![Imagen de la página de inicio](assets/workfront-4-executives-5.png)
+
