@@ -11,10 +11,10 @@ team: Technical Marketing
 jira: KT-8950
 exl-id: 1f706148-c001-42a8-a675-48e91d445f0b
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: ht
-source-wordcount: '254'
-ht-degree: 100%
+source-git-commit: 18d4628f9b614a459d2d018938b2786db760e163
+workflow-type: tm+mt
+source-wordcount: '284'
+ht-degree: 41%
 
 ---
 
@@ -27,12 +27,24 @@ Este vídeo contiene información sobre:
 
 >[!VIDEO](https://video.tv.adobe.com/v/335210/?quality=12&learn=on)
 
-## Crear una plantilla con modelos
+## Plantillas creadas con [!UICONTROL Modelos]
 
-Los administradores del sistema pueden utilizar modelos para ayudar a generar plantillas de proyecto. Esta función, ubicada en el Menú principal, le permite acceder a plantillas creadas previamente y listas para usarse dirigidas a un departamento y a un nivel de madurez específico. Estas plantillas ofrecen a los usuarios un punto de partida para repetir la creación de proyectos y ayudan a mantener la coherencia entre proyectos de alcance similar.
-
-Aunque las plantillas de proyecto hechas con los modelos se pueden aprovechar al crear proyectos, no se pueden aplicar directamente a este proceso (como convertir una tarea o solicitud en un proyecto). Una distinción clave entre un modelo y una plantilla de proyecto es que se utiliza un modelo para generar una plantilla, mientras que una plantilla de proyecto sirve para crear un proyecto.
+Los administradores del sistema pueden utilizar [!UICONTROL Modelos] para ayudar a crear plantillas de proyecto. Esta función, ubicada en el Menú principal, le permite acceder a plantillas creadas previamente y listas para usarse dirigidas a un departamento y a un nivel de madurez específico. Estas plantillas ofrecen a los usuarios un punto de partida para repetir la creación de proyectos y ayudan a mantener la coherencia entre proyectos de alcance similar.
 
 ![Modelos en el Menú principal](assets/pt-blueprints-01.png)
 
-Para instalar un modelo en los entornos de producción o de zona protegida, seleccione Modelos en el Menú principal. Examine el catálogo o utilice la opción Filtrar por tipo del menú de filtrado derecho para localizar e instalar el modelo que mejor se adapte a las necesidades de su proyecto. Configure los detalles de la plantilla de proyecto (como la asignación de las funciones de trabajo del modelo a las funciones de trabajo de su organización) antes de instalar el modelo, si es necesario. Después de instalar el modelo, puede realizar cambios en la nueva plantilla para adaptarla a las necesidades de su organización.
+Como planificador, puede examinar la lista de modelos disponibles en Workfront. No puede aplicar un modelo directamente al crear un nuevo proyecto (como convertir una tarea o solicitud en un proyecto). Una distinción clave entre un modelo y una plantilla de proyecto es que se utiliza un modelo para generar una plantilla, mientras que una plantilla de proyecto sirve para crear un proyecto. Un administrador del sistema debe instalar el modelo para que se cree la plantilla correspondiente.
+
+Si encuentra un modelo que le parezca interesante, puede hacer clic en **[!UICONTROL Detalles]** para obtener más información.
+
+![Lista de modelos](assets/pt-blueprints-02.png)
+
+El [!UICONTROL Detalles] La pantalla de explica más sobre el modelo, incluido el historial de instalación si se ha instalado el modelo.
+
+![Detalles sobre el uso de un modelo](assets/pt-blueprints-03.png)
+
+Si el modelo estaba instalado, puede hacer clic en **[!UICONTROL Ver detalles]** para obtener vínculos a la plantilla creada y a cualquier otro objeto creado para admitir la plantilla.
+
+![Detalles acerca de la instalación de un modelo](assets/pt-blueprints-04.png)
+
+Si el modelo aún no se ha instalado, puede solicitarlo al administrador del sistema.
