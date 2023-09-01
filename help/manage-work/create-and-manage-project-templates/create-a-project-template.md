@@ -1,6 +1,6 @@
 ---
-title: Crear una plantilla de proyecto
-description: Aprenda a crear una plantilla de proyecto desde cero y a partir de una existente.
+title: Crear una plantilla de proyecto y obtener más información [!UICONTROL Modelos]
+description: Aprenda a crear una plantilla de proyecto desde cero a partir de una plantilla existente y comprenda cómo [!UICONTROL Modelos] le permite acceder a un mundo de plantillas de proyecto útiles creadas por expertos en Workfront.
 activity: use
 feature: Work Management
 thumbnail: 335210.jpeg
@@ -8,17 +8,22 @@ type: Tutorial
 role: User
 level: Intermediate
 team: Technical Marketing
+last-substantial-update: 2023-08-31T00:00:00Z
 jira: KT-8950
 exl-id: 1f706148-c001-42a8-a675-48e91d445f0b
 doc-type: video
-source-git-commit: 18d4628f9b614a459d2d018938b2786db760e163
+source-git-commit: 92efb9c393580fa7a466ecc855f5440e4c177d11
 workflow-type: tm+mt
-source-wordcount: '284'
-ht-degree: 41%
+source-wordcount: '345'
+ht-degree: 20%
 
 ---
 
-# Crear una plantilla de proyecto
+# Crear una plantilla de proyecto y obtener más información [!UICONTROL Modelos]
+
+Aprenda a crear una plantilla de proyecto desde cero a partir de una plantilla existente y comprenda cómo [!UICONTROL Modelos] le permite acceder a un mundo de plantillas de proyecto útiles creadas por expertos en Workfront.
+
+## Crear una plantilla de proyecto
 
 Este vídeo contiene información sobre:
 
@@ -29,11 +34,11 @@ Este vídeo contiene información sobre:
 
 ## Plantillas creadas con [!UICONTROL Modelos]
 
-Los administradores del sistema pueden utilizar [!UICONTROL Modelos] para ayudar a crear plantillas de proyecto. Esta función, ubicada en el Menú principal, le permite acceder a plantillas creadas previamente y listas para usarse dirigidas a un departamento y a un nivel de madurez específico. Estas plantillas ofrecen a los usuarios un punto de partida para repetir la creación de proyectos y ayudan a mantener la coherencia entre proyectos de alcance similar.
+Los usuarios de Workfront pueden utilizar [!UICONTROL Modelos] para ayudar a crear plantillas de proyecto. Esta función, ubicada en el Menú principal, le permite acceder a plantillas creadas previamente y listas para usarse dirigidas a un departamento y a un nivel de madurez específico. Estas plantillas ofrecen a los usuarios un punto de partida para repetir la creación de proyectos y ayudan a mantener la coherencia entre proyectos de alcance similar.
 
 ![Modelos en el Menú principal](assets/pt-blueprints-01.png)
 
-Como planificador, puede examinar la lista de modelos disponibles en Workfront. No puede aplicar un modelo directamente al crear un nuevo proyecto (como convertir una tarea o solicitud en un proyecto). Una distinción clave entre un modelo y una plantilla de proyecto es que se utiliza un modelo para generar una plantilla, mientras que una plantilla de proyecto sirve para crear un proyecto. Un administrador del sistema debe instalar el modelo para que se cree la plantilla correspondiente.
+Cualquier usuario con licencia puede examinar la lista de modelos disponibles en Workfront. No puede aplicar un modelo directamente al crear un nuevo proyecto (como convertir una tarea o solicitud en un proyecto). Una diferencia clave entre un modelo y una plantilla de proyecto es que un modelo se utiliza para crear una plantilla, mientras que una plantilla se utiliza para crear un proyecto. **Un administrador del sistema debe instalar el modelo para que se cree la plantilla correspondiente.**
 
 Si encuentra un modelo que le parezca interesante, puede hacer clic en **[!UICONTROL Detalles]** para obtener más información.
 

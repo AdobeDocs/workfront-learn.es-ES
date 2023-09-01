@@ -3,10 +3,10 @@ user-guide-description: Tutoriales de Workfront
 role: User
 level: Beginner
 feature-set: Workfront
-source-git-commit: 16e31674c519ae5b11f7fd665289e697f5f816ed
+source-git-commit: 92efb9c393580fa7a466ecc855f5440e4c177d11
 workflow-type: tm+mt
-source-wordcount: '2422'
-ht-degree: 99%
+source-wordcount: '2426'
+ht-degree: 98%
 
 ---
 
@@ -165,7 +165,7 @@ ht-degree: 99%
       + [Aplicar hitos](manage-work/approval-processes-and-milestone-paths/apply-milestones.md)
 
    + Crear y administrar plantillas de proyecto {#create-and-manage-project-templates}
-      + [Crear una plantilla de proyecto](manage-work/create-and-manage-project-templates/create-a-project-template.md)
+      + [Crear una plantilla de proyecto y obtenga información sobre los modelos](manage-work/create-and-manage-project-templates/create-a-project-template.md)
       + [Creación de un proyecto directamente a partir de una plantilla](manage-work/create-and-manage-project-templates/create-a-project-directly-from-a-template.md)
       + [Compartir una plantilla de proyecto](manage-work/create-and-manage-project-templates/share-a-project-template.md)
       + [Copiar un proyecto existente](manage-work/manage-projects/copy-an-existing-project.md)
