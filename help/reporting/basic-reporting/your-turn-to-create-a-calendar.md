@@ -1,5 +1,5 @@
 ---
-title: Su turno para crear un calendario
+title: Su turno para crear un informe de calendario
 description: Aprenda a crear un calendario de clientes que muestre las tareas y los problemas incompletos.
 activity: use
 team: Technical Marketing
@@ -10,33 +10,33 @@ level: Beginner
 thumbnail: your-turn-to-create-a-calendar.png
 jira: KT-10026
 exl-id: 74d57f1a-c6c5-49e0-9529-2e2deb2f273e
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: e5017c98275f3b3853d7a37ee9d1d77d8d7f9098
 workflow-type: tm+mt
-source-wordcount: '378'
-ht-degree: 100%
+source-wordcount: '380'
+ht-degree: 75%
 
 ---
 
-# Su turno para crear un calendario
+# Su turno para crear un calendario informe
 
 En esta actividad adquirirá experiencia práctica elaborando su propio calendario.
 
 ## Actividad: elaborar un calendario
 
-Confeccione un calendario de clientes llamado “Mis trabajos incompletos”.
+Cree un calendario de clientes llamado &quot;Mi trabajo incompleto&quot;.
 
-Incluya un grupo de calendario llamado “Tareas incompletas” que muestre todas las tareas incompletas asignadas que tiene asignadas en Proyectos actuales.
+Incluya un grupo de calendario llamado &quot;Tareas incompletas&quot; que muestre todas las tareas incompletas que se le han asignado en Proyectos actuales.
 
 Seleccione el color rojo para estos elementos.
 
-Incluya otro grupo de calendario llamado “Problemas incompletos” que muestre todos los problemas incompletos que tiene asignados en Proyectos actuales. Seleccione el color azul para estos elementos.
+Incluya otro grupo de calendario llamado &quot;Problemas incompletos&quot; que muestre todos los problemas incompletos asignados a usted en Proyectos actuales. Seleccione el color azul para estos elementos.
 
 ## Respuesta
 
 1. Vaya al área Calendarios en el menú principal.
-1. Haga clic en el botón Nuevo calendario y llame al calendario “Mi trabajo incompleto”.
+1. Haga clic en el botón Nuevo calendario y asigne al calendario el nombre &quot;Mi trabajo incompleto&quot;.
 1. En la primera agrupación, haga clic en Agregar elementos avanzados.
-1. En la ventana emergente Agregar elementos al calendario, nombre el grupo “Tareas incompletas”.
+1. En la ventana Agregar elementos al calendario que aparece, asigne un nombre al grupo &quot;Tareas incompletas&quot;.
 1. Seleccione rojo como color.
 1. Cambie el campo Fecha a Fechas planificadas.
 1. Establezca En el calendario, el campo Mostrar en Solo fecha de finalización.
@@ -57,7 +57,7 @@ Incluya otro grupo de calendario llamado “Problemas incompletos” que muestre
 
 1. Cree una segunda agrupación haciendo clic en Agregar al calendario.
 1. En esta agrupación, haga clic en Agregar elementos avanzados.
-1. En la ventana Agregar elementos al calendario que aparece, llame al grupo “Problemas incompletos”.
+1. En la ventana Agregar elementos al calendario que aparece, asigne un nombre al grupo &quot;Problemas incompletos&quot;.
 1. Seleccione azul como color.
 1. Cambie el campo Fecha a Fechas planificadas.
 1. Establezca En el calendario, el campo Mostrar en Solo fecha de finalización.
