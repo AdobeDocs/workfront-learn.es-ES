@@ -10,16 +10,22 @@ level: Beginner
 jira: KT-11038
 thumbnail: KT11038.png
 exl-id: 8ecf4979-f291-4788-bdaa-ab5485fb0849
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: e639d3391ea6a8b46592dd18cf57b9eed50fbf8c
 workflow-type: tm+mt
-source-wordcount: '906'
-ht-degree: 100%
+source-wordcount: '978'
+ht-degree: 92%
 
 ---
 
 # Diseño del escenario inicial
 
 Conozca algunas sugerencias básicas de navegación para cuando inicie sesión por primera vez en Workfront Fusion, así como para crear su primer escenario.
+
+## Requisitos previos
+
+1. Este ejercicio requiere una prueba de conducción de Workfront. Puede solicitar una rellenando el formulario [este formulario](https://forms.office.com/r/f1J8HRGrNY). Si no puede acceder al formulario, envíe su nombre, dirección de correo electrónico y nombre de la empresa a wfttstdr@adobe.com.
+1. Los ejercicios de fusión suponen que ha visto el vídeo de introducción que corresponde al ejercicio. En este caso es [Tutorial de diseño del escenario inicial](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/understand-the-basics/initial-scenario-design-walkthrough.html?lang=en).
+
 
 ## Información general del ejercicio
 
@@ -48,7 +54,7 @@ Cree un nuevo proyecto en Workfront para cada fila del archivo CSV de la lista d
 
    ![Imagen 4 de diseño del escenario inicial](../12-exercises/assets/initial-scenario-design-4.png)
 
-1. Introduzca la dirección URL de la instancia de Workfront y haga clic en Siguiente.
+1. Introduzca la URL de **su instancia de Workfront** y, a continuación, haga clic en Siguiente.
 
    ![Imagen 5 de diseño del escenario inicial](../12-exercises/assets/initial-scenario-design-5.png)
 

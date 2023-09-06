@@ -10,10 +10,10 @@ level: Beginner
 thumbnail: combine-multiple-files-single-proof.png
 jira: KT-10163
 exl-id: 2a3e97f7-51b3-4e14-bb15-6d255cd18034
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: e639d3391ea6a8b46592dd18cf57b9eed50fbf8c
 workflow-type: tm+mt
-source-wordcount: '408'
-ht-degree: 100%
+source-wordcount: '445'
+ht-degree: 73%
 
 ---
 
@@ -21,7 +21,7 @@ ht-degree: 100%
 
 La combinación de varios archivos en una sola prueba puede a menudo hacer que el proceso de pruebas sea más ágil.
 
-La opción “combinar” es útil cuando los archivos individuales están relacionados o forman parte de una entrega completa y todos los archivos deben ser revisados por las mismas personas antes de la misma fecha límite.
+La opción &quot;combinar&quot; es útil cuando los archivos individuales están relacionados o forman parte de una entrega completa y todos los archivos deben ser revisados por las mismas personas en el mismo plazo.
 
 Por ejemplo, el equipo creativo diseñó un folleto. Cuatro diseñadores produjeron las páginas y las guardaron como PDF individuales. Si cada diseñador cargara estas pruebas como pruebas individuales, los revisores tendrían cuatro pruebas independientes para revisar. Además, sería más difícil asegurarse de que las piezas del folleto encajen juntas.
 
@@ -39,22 +39,29 @@ Para combinar pruebas:
 
 ![Una imagen de la ventana [!UICONTROL Prueba nueva] con la lista de archivos cargados y las secciones de [!UICONTROL Prueba única] resaltadas.](assets/combine-proofs.png)
 
-Una vez cargada la prueba, la verá como un archivo ZIP en la pestaña [!UICONTROL Documentos].
+Una vez cargada la prueba, la verá como un archivo ZIP en la [!UICONTROL Documentos] pestaña.
 
 No se requiere nada más para ver el archivo combinado. Haga clic en [!UICONTROL Prueba abierta] como de costumbre y la prueba se abre en el visualizador de pruebas.
 
 ![Imagen del visualizador de pruebas con una prueba de varias páginas visible.](assets/combine-proofs-2.png)
 
+## ¿Qué sucede con la combinación de archivos de vídeo?
+
+Lamentablemente, la combinación de archivos no es posible cuando los archivos de medios enriquecidos como vídeos, animaciones y URL interactivas están en su lista.
+
+![Imagen de un mensaje de error que explica que no se pueden combinar archivos de vídeo.](assets/combine-proofs-2.png)
+
+
 ## Su turno
 
 >[!IMPORTANT]
 >
->Recuerde a sus compañeros de trabajo que les envía una prueba como parte de su formación en Workfront.
+>Recuerde a sus compañeros que les envía una prueba como parte de su formación de Workfront.
 
 
 Buscar tres o cuatro archivos (PDF, archivo de texto, etc.) en el equipo.
 
-1. Abra un proyecto, tarea o problema que esté utilizando para la práctica en Workfront.
+1. Abra un proyecto, una tarea o un problema que esté utilizando para realizar prácticas en Workfront.
 1. Cargue los archivos, combinándolos en una sola prueba.
 1. Ajuste el orden de los archivos moviendo el último de la lista para que sea el primero de la lista.
 1. Asigne el flujo de trabajo que desee (básico o automatizado) y complete la carga.
