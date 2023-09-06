@@ -10,7 +10,7 @@ level: Beginner
 thumbnail: combine-multiple-files-single-proof.png
 jira: KT-10163
 exl-id: 2a3e97f7-51b3-4e14-bb15-6d255cd18034
-source-git-commit: e639d3391ea6a8b46592dd18cf57b9eed50fbf8c
+source-git-commit: 466857e92481a28b8030fb1c33016d39d61faa64
 workflow-type: tm+mt
 source-wordcount: '445'
 ht-degree: 73%
@@ -49,7 +49,7 @@ No se requiere nada más para ver el archivo combinado. Haga clic en [!UICONTROL
 
 Lamentablemente, la combinación de archivos no es posible cuando los archivos de medios enriquecidos como vídeos, animaciones y URL interactivas están en su lista.
 
-![Imagen de un mensaje de error que explica que no se pueden combinar archivos de vídeo.](assets/combine-proofs-2.png)
+![Imagen de un mensaje de error que explica que no se pueden combinar archivos de vídeo.](assets/combine-proofs-error.png)
 
 
 ## Su turno
