@@ -11,13 +11,13 @@ jira: KT-8984
 exl-id: 6a7350cf-c9e3-4af6-a1bf-0f159e8eaf09
 doc-type: video
 source-git-commit: 16e31674c519ae5b11f7fd665289e697f5f816ed
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '496'
-ht-degree: 73%
+ht-degree: 100%
 
 ---
 
-# Brand Connect: Comprender la navegación y la búsqueda como usuario
+# Brand Connect: comprender la navegación y la búsqueda como usuario
 
 Este vídeo contiene información sobre:
 
@@ -31,7 +31,7 @@ Este vídeo contiene información sobre:
 
 Una búsqueda básica examina los nombres de archivo, los campos de metadatos, las palabras clave y el contenido del recurso (según el tipo de recurso). No incluye nombres de carpeta.
 
-La mayoría de los resultados de búsqueda son coincidencias exactas. Una excepción a esta regla de &quot;coincidencia exacta&quot; es cuando el [!UICONTROL Brand Connect] busca en el campo nombre de archivo. [!UICONTROL Brand Connect] devuelve coincidencias de nombre de archivo parciales, en lugar de coincidir exactamente con el nombre del archivo.
+La mayoría de los resultados de búsqueda son coincidencias exactas. Una excepción a esta regla de “coincidencia exacta” es cuando [!UICONTROL Brand Connect] busca el campo Nombre de archivo. [!UICONTROL Brand Connect] devuelve coincidencias de nombre de archivo parciales, en lugar de coincidir exactamente con el nombre del archivo.
 
 ## Búsqueda avanzada en [!UICONTROL Brand Connect]
 
@@ -51,24 +51,24 @@ Utilice el operador O para buscar recursos que contengan cualquiera de los térm
 
 ### Frase
 
-Para encontrar una frase exacta, utilice comillas dobles alrededor de las palabras. Todas las palabras se encontrarán juntas y en orden. Por ejemplo, &quot;Torre Eiffel&quot; encontrará esas palabras en ese orden exacto.
+Para encontrar una frase exacta, utilice comillas dobles alrededor de las palabras. Todas las palabras se encontrarán juntas y en orden. Por ejemplo, “Torre Eiffel” encontrará estas palabras en este orden exacto.
 
 ### Operador negativo
 
-Si desea excluir una palabra de los resultados de búsqueda, ponga un signo menos (-) delante de la palabra. Asegúrese de que no haya un espacio entre el signo menos y la palabra. Por ejemplo, para excluir recursos que tengan la palabra &quot;torre&quot; en los metadatos, la búsqueda podría configurarse como Torre de París.
+Si desea excluir una palabra de los resultados de búsqueda, ponga un signo menos (-) delante de la palabra. Asegúrese de que no haya un espacio entre el signo menos y la palabra. Por ejemplo, para excluir los recursos que tengan la palabra “torre” en los metadatos, la búsqueda se puede configurar como París -torre.
 
 ### Operador de campo vacío
 
-Para encontrar recursos que no tengan información en un campo de metadatos específico, introduzca el campo que desee buscar con este formato: ?[xxxxx]. Por ejemplo, si desea buscar recursos que no tengan asignadas palabras clave, escriba ?[keyword] en el campo de búsqueda.
+Para encontrar recursos que no tengan información en un campo de metadatos específico, introduzca el campo que desee buscar con este formato: ?[xxxxx]. Por ejemplo, si desea encontrar recursos que no tienen asignadas palabras clave, introduzca ?[keyword] en el campo de búsqueda.
 
 ## Directrices de marca
 
-Las directrices de marca son un conjunto de reglas que explican el funcionamiento de la marca de su organización. Estas directrices, también denominadas estándares de marca, guía de estilo, libro de marca o guías de identidad de marca, pueden incluir:
+Las directrices de marca son un conjunto de reglas que explican cómo funciona la marca de su organización. Estas directrices, también denominadas estándares de marca, guía de estilo, libro de marca o guías de identidad de marca, pueden incluir:
 
-* Una visión general del historial, la visión, la personalidad y el tono de voz de su marca.
-* Los puntos y no puntos a tener en cuenta al utilizar el logotipo de la empresa.
+* Información general de la historia, la visión, la personalidad y el tono de voz de su marca.
+* Las reglas y normas básicas en el uso del logotipo de la compañía.
 * Ejemplos de fuentes aprobadas para impresión y uso en la web.
-* Desgloses de los colores primarios y secundarios de la empresa.
+* Desgloses de los colores primario y secundario de la compañía.
 * Muestras de estilo de imagen y fotos que funcionan bien con la marca.
 
 Una vez iniciada la sesión en [!UICONTROL Brand Connect], acceda a las directrices haciendo clic en Directrices de marca en la barra de navegación superior.
