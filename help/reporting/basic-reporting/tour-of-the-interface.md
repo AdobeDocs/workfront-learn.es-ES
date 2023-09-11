@@ -1,5 +1,5 @@
 ---
-title: Explicación de la interfaz de informes de calendario
+title: Explicación de la interfaz del informe de calendario
 description: Conozca la interfaz de calendario, que incluye agrupaciones de calendario, vistas y acciones.
 activity: use
 team: Technical Marketing
@@ -12,22 +12,22 @@ thumbnail: understand-the-calendar-interface.png
 jira: KT-10025
 exl-id: dfe8e5b1-8b49-4a67-a64e-a20267813752
 source-git-commit: e5017c98275f3b3853d7a37ee9d1d77d8d7f9098
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '81'
-ht-degree: 41%
+ht-degree: 100%
 
 ---
 
-# Explicación de la interfaz de informes de calendario
+# Explicación de la interfaz del informe de calendario
 
 Un informe de calendario es un informe dinámico que muestra el trabajo y los días libres en una vista de calendario. Se puede mostrar información de fecha en un informe de calendario para los objetos siguientes:
 
 * Tareas
 * Proyectos
 * Problemas
-* Tiempo libre
+* Días libres
 
-En este vídeo aprenderá lo siguiente:
+En este vídeo, aprenderá acerca de lo siguiente:
 
 * Agrupaciones de calendario
 * Vistas del calendario
