@@ -1,5 +1,5 @@
 ---
-title: Crear un informe de calendario personalizado
+title: Creación de un informe de calendario personalizado
 description: Aprenda a crear su propio calendario personalizado con sus elementos de trabajo y días libres personales.
 activity: use
 team: Technical Marketing
@@ -12,9 +12,9 @@ thumbnail: create-a-custom-calendar.png
 jira: KT-10024
 exl-id: d5c928f2-7989-401f-ad86-08fe971c9ff5
 source-git-commit: e5017c98275f3b3853d7a37ee9d1d77d8d7f9098
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '89'
-ht-degree: 51%
+ht-degree: 100%
 
 ---
 
@@ -25,9 +25,9 @@ Un informe de calendario es un informe dinámico que muestra el trabajo y los d�
 * Tareas
 * Proyectos
 * Problemas
-* Tiempo libre
+* Días libres
 
-En este vídeo aprenderá a:
+Este vídeo contiene información sobre:
 
 * Crear un nuevo calendario
 * Crear una agrupación de calendario
