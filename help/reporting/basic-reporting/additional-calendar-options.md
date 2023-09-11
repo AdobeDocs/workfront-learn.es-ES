@@ -1,5 +1,5 @@
 ---
-title: Comprender las opciones de informe de calendario adicionales
+title: Explicación de las opciones de informe de calendario adicionales
 description: Obtenga información sobre cómo copiar, editar, compartir y eliminar un calendario.
 activity: use
 feature: Reports and Dashboards
@@ -12,27 +12,27 @@ thumbnail: understand-additional-calendar-options.png
 jira: KT-10023
 exl-id: 329e8288-d2ec-4350-8374-59aa47241ef8
 source-git-commit: e5017c98275f3b3853d7a37ee9d1d77d8d7f9098
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '80'
-ht-degree: 20%
+ht-degree: 100%
 
 ---
 
-# Comprender las opciones de informe de calendario adicionales
+# Explicación de las opciones de informe de calendario adicionales
 
 Un informe de calendario es un informe dinámico que muestra el trabajo y los días libres en una vista de calendario. Se puede mostrar información de fecha en un informe de calendario para los objetos siguientes:
 
 * Tareas
 * Proyectos
 * Problemas
-* Tiempo libre
+* Días libres
 
-En este vídeo aprenderá a:
+Este vídeo contiene información sobre:
 
-* Copiar un calendario
+* Copia de un calendario
 * Editar una agrupación de calendario
 * Eliminar una agrupación de calendario
 * Compartir un calendario
-* Eliminar un calendario
+* Eliminación de un calendario
 
 >[!VIDEO](https://video.tv.adobe.com/v/3423530/?quality=12&learn=on)
