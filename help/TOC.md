@@ -4,9 +4,9 @@ role: User
 level: Beginner
 feature-set: Workfront
 source-git-commit: 92efb9c393580fa7a466ecc855f5440e4c177d11
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '2426'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
@@ -165,7 +165,7 @@ ht-degree: 98%
       + [Aplicar hitos](manage-work/approval-processes-and-milestone-paths/apply-milestones.md)
 
    + Crear y administrar plantillas de proyecto {#create-and-manage-project-templates}
-      + [Crear una plantilla de proyecto y obtenga información sobre los modelos](manage-work/create-and-manage-project-templates/create-a-project-template.md)
+      + [Crear una plantilla de proyecto y obtenga información acerca de los modelos](manage-work/create-and-manage-project-templates/create-a-project-template.md)
       + [Creación de un proyecto directamente a partir de una plantilla](manage-work/create-and-manage-project-templates/create-a-project-directly-from-a-template.md)
       + [Compartir una plantilla de proyecto](manage-work/create-and-manage-project-templates/share-a-project-template.md)
       + [Copiar un proyecto existente](manage-work/manage-projects/copy-an-existing-project.md)
@@ -231,9 +231,9 @@ ht-degree: 98%
       + [Parte 3 de la creación de informes avanzada](reporting/advanced-reporting/advanced-reporting-part-3.md)
 
    + Informes de calendario {#calendar-reports}
-      + [Explicación de la interfaz de informes de calendario](reporting/basic-reporting/tour-of-the-interface.md)
-      + [Crear un informe de calendario personalizado](reporting/basic-reporting/creating-custom-calendars.md)
-      + [Comprender las opciones de informe de calendario adicionales](reporting/basic-reporting/additional-calendar-options.md)
+      + [Explicación de la interfaz del informe de calendario](reporting/basic-reporting/tour-of-the-interface.md)
+      + [Creación de un informe de calendario personalizado](reporting/basic-reporting/creating-custom-calendars.md)
+      + [Explicación de las opciones de informe de calendario adicionales](reporting/basic-reporting/additional-calendar-options.md)
       + [Su turno para crear un informe de calendario](reporting/basic-reporting/your-turn-to-create-a-calendar.md)
 
    + Análisis mejorado {#enhanced-analytics}
