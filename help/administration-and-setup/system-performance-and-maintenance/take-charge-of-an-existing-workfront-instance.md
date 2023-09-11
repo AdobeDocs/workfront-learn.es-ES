@@ -11,9 +11,9 @@ team: Technical Marketing
 thumbnail: null
 exl-id: ad900f59-319b-49ee-bc23-e816edc2de24
 source-git-commit: ed631261fc3ad4eb72b59e1ca5b3a79951d8645b
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '772'
-ht-degree: 93%
+ht-degree: 100%
 
 ---
 
@@ -30,7 +30,7 @@ En esta lista de comprobación de instancias heredadas, podrá revisar un conjun
 
 La lista de comprobación se ha creado como modelo de Workfront y como hoja de cálculo de Excel descargable. Recomendamos utilizar el modelo para administrar y documentar su trabajo directamente en Workfront.
 
-Tanto el modelo como la hoja de cálculo están organizados por temas, en lugar de por cronología, para que pueda progresar de la manera que mejor se adapte a usted y a su organización. Las duraciones proporcionadas son solo un ejemplo y debe ajustarlas para adaptarlas a sus necesidades específicas. ¡No es necesario hacer todo esto de una vez!
+Tanto el modelo como la hoja de cálculo están organizadas por tema, no por cronología, de modo que puede avanzar de la manera que mejor se adapte a usted y a su organización. Las duraciones proporcionadas son solo un ejemplo y debe ajustarlas para adaptarlas a sus necesidades específicas. ¡No es necesario hacer todo esto de una vez!
 
 Siempre que sea posible, le recomendamos que trabaje con otras personas de su organización para revisar y documentar estos elementos, y que mantenga esta documentación actualizada si hay algún cambio importante. Los futuros administradores de su instancia se lo agradecerán.
 
