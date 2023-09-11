@@ -11,9 +11,9 @@ level: Intermediate
 jira: KT-10049
 exl-id: f0d5bbe3-54e6-41be-8497-e54ad7cd7707
 source-git-commit: 16e31674c519ae5b11f7fd665289e697f5f816ed
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '219'
-ht-degree: 74%
+ht-degree: 100%
 
 ---
 
@@ -23,7 +23,7 @@ ht-degree: 74%
 
 Los administradores del sistema gestionan los tipos de cambio. Se pueden configurar divisas adicionales según sea necesario para su organización.
 
-La divisa base predeterminada de Workfront es el dólar estadounidense. Esta es la moneda en la que se calculará la información financiera de forma predeterminada. Este valor predeterminado se puede cambiar a nivel global y en proyectos individuales.
+La divisa base predeterminada de Workfront es el dólar estadounidense. Esta es la moneda en la que se calculará la información financiera de forma predeterminada. Este valor predeterminado se puede cambiar de manera global y en proyectos individuales.
 
 ## Configuración de divisas y tipos de cambio
 
@@ -36,7 +36,7 @@ La divisa base predeterminada de Workfront es el dólar estadounidense. Esta es 
 1. Haga clic en el botón **[!UICONTROL Agregar divisa]**.
 1. Seleccione la moneda del país en la lista desplegable.
 1. Introduzca el tipo de cambio deseado para la divisa.
-1. Si una moneda distinta al dólar estadounidense debe ser la [!DNL Workfront] moneda base del sistema (predeterminada), haga clic en el botón situado junto al nombre de la moneda.
+1. Si una divisa que no sea el dólar de los EE. UU. debe establecerse como la moneda base del sistema de [!DNL Workfront] (predeterminada), haga clic en el botón situado junto al nombre de la divisa.
 1. Haga clic en **[!UICONTROL Guardar]** cuando se hayan agregado todas las divisas.
 
 ![Una imagen de la adición de una divisa a la lista de tipos de cambio](assets/setting-up-finances-5.png)
