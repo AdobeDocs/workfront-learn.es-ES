@@ -11,14 +11,14 @@ team: Technical Marketing
 last-substantial-update: 2023-09-14T00:00:00Z
 jira: KT-13879
 doc-type: video
-source-git-commit: 0c1695807751540ce72fb68e0cbfc1f04a5862a9
+source-git-commit: 1c80c7f0240c7b82f0a8bdb73757ee48b11d193b
 workflow-type: tm+mt
-source-wordcount: '129'
-ht-degree: 32%
+source-wordcount: '128'
+ht-degree: 30%
 
 ---
 
-# Comprender a los predecesores de varios proyectos
+# Predecesoras avanzadas
 
 >[!IMPORTANT]
 >
