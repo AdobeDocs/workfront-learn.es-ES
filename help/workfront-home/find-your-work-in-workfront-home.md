@@ -10,7 +10,7 @@ team: Technical Marketing
 jira: KT-8797
 exl-id: 99c864da-0711-4a30-8067-03b7fbd198df
 doc-type: video
-source-git-commit: 72d187e0d0ba2bf09af518e0977faedd0885f50f
+source-git-commit: 372e815c623a81ab155aecf2177c84c3f14041f0
 workflow-type: tm+mt
 source-wordcount: '72'
 ht-degree: 63%
@@ -23,7 +23,7 @@ ht-degree: 63%
 
 >[!NOTE]
 >
->Actualmente hay dos experiencias de Inicio disponibles en Workfront. Si tiene la nueva experiencia de Inicio, consulte la [Quitar, agregar y reorganizar widgets en Inicio](help/workfront-home/review-work-in-my-updates-or-workfront-home.md) tutorial.
+>Actualmente hay dos experiencias de Inicio disponibles en Workfront. Si tiene la nueva experiencia de Inicio, consulte la [Quitar, agregar y reorganizar widgets en Inicio](/help/workfront-home/remove-add-and-rearrange-widgets.md) tutorial.
 
 
 Este vídeo contiene información sobre:

@@ -11,7 +11,7 @@ team: Technical Marketing
 jira: KT-8962
 exl-id: 85d28b54-72a6-4dd1-bac8-8e7ffb3e2b76
 doc-type: video
-source-git-commit: e639d3391ea6a8b46592dd18cf57b9eed50fbf8c
+source-git-commit: 9045f121d34cb95eeb0ea7ddc1b35acd11f56bb2
 workflow-type: tm+mt
 source-wordcount: '294'
 ht-degree: 9%
@@ -36,5 +36,5 @@ En este vídeo, aprenderá a crear un proceso de aprobación de un solo uso en u
 >
 >Puede configurar una aprobación de un solo uso en proyectos y problemas del mismo modo que se describe para las tareas en el vídeo.
 >
->Si desea configurar aprobaciones automáticas de problemas, solo pueden realizarse mediante un proceso de aprobación global de problemas y aplicarse en un tema de cola. Consulte [Crear una cola de solicitudes](https://experienceleague.corp.adobe.com/docs/workfront/using/manage-work/requests/create-and-manage-request-queues/create-request-queue.html) para obtener información sobre cómo hacerlo.
+>Si desea configurar aprobaciones automáticas de problemas, solo pueden realizarse mediante un proceso de aprobación global de problemas y aplicarse en un tema de cola. Consulte [Crear una cola de solicitudes](https://experienceleague.adobe.com/docs/workfront/using/manage-work/requests/create-and-manage-request-queues/create-request-queue.html) para obtener información sobre cómo hacerlo.
 
