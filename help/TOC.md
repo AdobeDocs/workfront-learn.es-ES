@@ -3,7 +3,7 @@ user-guide-description: Tutoriales de Workfront
 role: User
 level: Beginner
 feature-set: Workfront
-source-git-commit: 71f4e25a5971f16801b513c70de6e46fa7d5f0b2
+source-git-commit: 6e0f1a5c426625635d29c601a03edc16ec315245
 workflow-type: tm+mt
 source-wordcount: '2430'
 ht-degree: 99%
@@ -160,8 +160,8 @@ ht-degree: 99%
       + [Crear proceso de aprobación de un solo uso](manage-work/approval-processes-and-milestone-paths/create-a-single-use-approval-process.md)
       + [Adjuntar y editar procesos de aprobación existentes](manage-work/approval-processes-and-milestone-paths/attach-and-edit-existing-approval-processes.md)
       + [Delegar tareas, problemas y aprobaciones](manage-work/approval-processes-and-milestone-paths/delegate-approvals.md)
-      + [Ver hitos](manage-work/approval-processes-and-milestone-paths/view-milestones.md)
       + [Aplicar hitos](manage-work/approval-processes-and-milestone-paths/apply-milestones.md)
+      + [Ver hitos](manage-work/approval-processes-and-milestone-paths/view-milestones.md)
 
    + Crear y administrar plantillas de proyecto {#create-and-manage-project-templates}
       + [Crear una plantilla de proyecto y obtenga información acerca de los modelos](manage-work/create-and-manage-project-templates/create-a-project-template.md)
