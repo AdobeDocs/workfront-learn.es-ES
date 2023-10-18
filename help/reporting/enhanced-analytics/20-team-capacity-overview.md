@@ -1,6 +1,6 @@
 ---
-title: Comprender la capacidad del equipo en [!UICONTROL Análisis mejorado]
-description: Descubra cómo el gráfico de capacidad del Equipo muestra cuándo se ha asignado de más o de menos a un equipo local.
+title: Comprender la capacidad del equipo
+description: Obtenga información sobre el gráfico de capacidad del equipo en [!UICONTROL Análisis mejorado] muestra cuándo se ha asignado demasiado o menos de lo debido a un equipo de inicio.
 activity: use
 team: Technical Marketing
 feature: Reports and Dashboards
@@ -10,14 +10,14 @@ role: User
 level: Beginner
 jira: KT-10047
 exl-id: 59f86c60-19a5-4be6-920c-8e2fc18e52a7
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
 workflow-type: tm+mt
-source-wordcount: '392'
-ht-degree: 100%
+source-wordcount: '389'
+ht-degree: 95%
 
 ---
 
-# Comprender la capacidad del equipo en [!UICONTROL Análisis mejorado]
+# Comprender la capacidad del equipo
 
 El gráfico de capacidad del Equipo muestra si al equipo local se le ha asignado de más o de menos. El gráfico muestra el volumen de trabajo asignado al equipo local en un día determinado y lo marca con un color azul más oscuro cuando se acercan al desgaste o no están siendo desafiados. Un color más claro y transparente indica que la carga de trabajo está más equilibrada.
 

@@ -1,6 +1,6 @@
 ---
-title: Realice acciones haciendo actualizaciones en [!UICONTROL Análisis mejorado]
-description: Aprenda a realizar actualizaciones desde el gráfico de grupo Tareas en Workfront.
+title: Realice acciones haciendo actualizaciones
+description: Aprenda a realizar actualizaciones desde la tabla Tareas en vuelo en [!UICONTROL Análisis mejorado].
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335053.png
@@ -11,14 +11,14 @@ team: Technical Marketing
 jira: KT-8736
 exl-id: f574a537-b635-4b17-a067-3c168eea850a
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
 workflow-type: tm+mt
-source-wordcount: '47'
-ht-degree: 100%
+source-wordcount: '42'
+ht-degree: 64%
 
 ---
 
-# Realice acciones haciendo actualizaciones en [!UICONTROL Análisis mejorado]
+# Realice acciones haciendo actualizaciones
 
 Este vídeo contiene información sobre:
 

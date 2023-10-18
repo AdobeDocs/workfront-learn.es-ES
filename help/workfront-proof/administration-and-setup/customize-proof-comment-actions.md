@@ -1,5 +1,5 @@
 ---
-title: Personalización de acciones para comentarios de prueba
+title: Personalizar acciones de comentarios de prueba
 description: Descubra cómo se pueden utilizar las acciones en los comentarios de prueba. Aprenda a configurar y personalizar etiquetas de acción para las funciones de prueba.
 activity: use
 feature: Workfront Proof
@@ -11,14 +11,14 @@ thumbnail: 335128.png
 jira: KT-8828
 exl-id: e71fcad9-bb8a-4adf-8469-51ce190d6c54
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
 workflow-type: tm+mt
-source-wordcount: '95'
-ht-degree: 100%
+source-wordcount: '93'
+ht-degree: 75%
 
 ---
 
-# Personalización de acciones para comentarios de prueba
+# Personalizar acciones de comentarios de prueba
 
 Este vídeo contiene información sobre:
 
@@ -30,5 +30,5 @@ Este vídeo contiene información sobre:
 
 ## Su turno
 
-Observe los flujos de trabajo de prueba que ya ha creado y reflexione sobre las discusiones que ha mantenido con los equipos mediante flujos de trabajo de revisión y aprobación. ¿Se necesitarán acciones? Si es así, actualice los documentos en los que haya registrado los flujos de trabajo para incluir las acciones.
+Observe los flujos de trabajo de prueba que ya ha creado y reflexione sobre las conversaciones que ha mantenido con los equipos mediante los flujos de trabajo de revisión y aprobación. ¿Se necesitarán acciones? Si es así, actualice los documentos en los que haya registrado los flujos de trabajo para incluir las acciones.
 

@@ -1,5 +1,5 @@
 ---
-title: Conozca las horas planificadas y vistas de duración en [!UICONTROL Análisis mejorado]
+title: Comprender las horas planificadas y las vistas de duración
 description: En los gráficos de árbol Evolución y Proyecto, puede ver la información por horas planificadas o duración.
 activity: use
 team: Technical Marketing
@@ -10,14 +10,14 @@ role: User
 level: Beginner
 jira: KT-10044
 exl-id: caae6dd0-910c-4bdf-a9db-611c272af7ce
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
 workflow-type: tm+mt
-source-wordcount: '145'
+source-wordcount: '139'
 ht-degree: 100%
 
 ---
 
-# Conozca las horas planificadas y las vistas de duración en [!UICONTROL Análisis mejorado]
+# Comprender las horas planificadas y las vistas de duración
 
 En los gráficos de árbol Evolución y Proyecto, puede ver la información por horas planificadas o duración, según lo que considere más preciso para su entorno de Workfront.
 

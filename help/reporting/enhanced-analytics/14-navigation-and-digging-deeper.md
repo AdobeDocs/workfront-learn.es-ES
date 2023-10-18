@@ -1,6 +1,6 @@
 ---
-title: Profundizar en la navegación en [!UICONTROL Análisis mejorado]
-description: Aprenda a ver rápidamente cuánto tiempo dedican los trabajadores a cada proyecto en Workfront.
+title: Profundizar en la navegación
+description: Aprenda a ver rápidamente cuánto tiempo dedican los trabajadores a cada proyecto en [!UICONTROL Análisis mejorado].
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335050.png
@@ -11,14 +11,14 @@ team: Technical Marketing
 jira: KT-8733
 doc-type: video
 exl-id: e29ea4c8-1d57-4dfa-b36c-e19c3c77f1cf
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
 workflow-type: tm+mt
-source-wordcount: '229'
-ht-degree: 100%
+source-wordcount: '224'
+ht-degree: 92%
 
 ---
 
-# Profundizar en la navegación en [!UICONTROL Análisis mejorado]
+# Profundizar en la navegación
 
 Este vídeo contiene información sobre:
 

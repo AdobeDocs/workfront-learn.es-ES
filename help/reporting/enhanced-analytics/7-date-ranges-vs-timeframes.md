@@ -10,14 +10,14 @@ role: User
 level: Beginner
 jira: KT-10043
 exl-id: 9ed421a0-5f44-4096-a7ad-c4be4d00808f
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
 workflow-type: tm+mt
-source-wordcount: '319'
-ht-degree: 100%
+source-wordcount: '316'
+ht-degree: 94%
 
 ---
 
-# Explicación de los intervalos de fechas y los marcos de tiempo en [!UICONTROL Análisis mejorado]
+# Explicación de los intervalos de fechas y los marcos de tiempo
 
 Al ver los gráficos en [!DNL Enhanced analytics], los intervalos de fechas se especifican utilizando el widget de calendario. Los intervalos de tiempo se crean dentro de un gráfico cuando hace clic y arrastra para definir una región específica, por lo que puede acercar y obtener una vista más detallada de la información durante ese intervalo de tiempo.
 

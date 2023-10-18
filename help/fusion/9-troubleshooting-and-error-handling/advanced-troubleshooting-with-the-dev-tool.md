@@ -1,6 +1,6 @@
 ---
 title: Solución de problemas avanzada con la herramienta de desarrollo
-description: Obtenga información sobre cómo instalar y utilizar  [!DNL Adobe Workfront Fusion Dev Tool] y revise las diferentes herramientas de diseño de escenarios avanzados que incluye.
+description: Obtenga información sobre cómo instalar y utilizar  [!DNL Adobe Workfront Fusion dev tool] y revise las diferentes herramientas de diseño de escenarios avanzados que incluye.
 activity: use
 team: Technical Marketing
 type: Tutorial
@@ -10,10 +10,10 @@ level: Beginner
 jira: KT-9061
 exl-id: 4b2bf553-547d-4fc5-afbe-367e680b26b8
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
 workflow-type: tm+mt
 source-wordcount: '54'
-ht-degree: 100%
+ht-degree: 81%
 
 ---
 
@@ -21,7 +21,7 @@ ht-degree: 100%
 
 Este vídeo contiene información sobre:
 
-* Instalación y uso de la herramienta de desarrollo de Workfront Fusion
+* Cómo instalar y utilizar la herramienta de desarrollo de Workfront Fusion
 * Cómo revisar las distintas herramientas de diseño de escenarios avanzados
 
 >[!VIDEO](https://video.tv.adobe.com/v/335302/?quality=12&learn=on)

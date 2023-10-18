@@ -10,14 +10,14 @@ level: Beginner
 jira: KT-9007
 exl-id: 3609d5dc-c398-43b0-a253-d8f95b67b818
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
 workflow-type: tm+mt
-source-wordcount: '245'
+source-wordcount: '242'
 ht-degree: 100%
 
 ---
 
-# Uso del tutorial del filtro poderoso
+# Tutorial de filtros
 
 Con el ejercicio de tutorial “Más allá de la asignación básica” que ha creado anteriormente, agregue un filtro entre los dos módulos para crear solo proyectos que tengan el color de proyecto “Rojo” en la lista de proyectos.
 

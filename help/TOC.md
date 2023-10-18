@@ -3,10 +3,10 @@ user-guide-description: Tutoriales de Workfront
 role: User
 level: Beginner
 feature-set: Workfront
-source-git-commit: 6e0f1a5c426625635d29c601a03edc16ec315245
+source-git-commit: 444e3019bf3ed707bb205c9fcce7f96d7ffc0cde
 workflow-type: tm+mt
-source-wordcount: '2430'
-ht-degree: 99%
+source-wordcount: '2436'
+ht-degree: 98%
 
 ---
 
@@ -201,7 +201,7 @@ ht-degree: 99%
       + [Información sobre los componentes del sistema de informes](reporting/basic-reporting/reporting-components.md)
       + [Creación de una agrupación básica](reporting/basic-reporting/create-a-basic-grouping.md)
       + [Creación de una vista básica](reporting/basic-reporting/create-a-basic-view.md)
-      + [Añadir un formato condicional básico](reporting/basic-reporting/add-basic-conditional-formatting-to-a-view.md)
+      + [Añadir un formato condicional básico a una vista](reporting/basic-reporting/add-basic-conditional-formatting-to-a-view.md)
       + [Creación de un filtro básico](reporting/basic-reporting/create-a-basic-filter.md)
       + [Crear una actividad de filtro básica](reporting/basic-reporting/create-a-basic-filter-activity.md)
       + [Creación de un informe simple](reporting/basic-reporting/create-a-simple-report.md)
@@ -308,7 +308,7 @@ ht-degree: 99%
       + [Establezca una visión y estrategia para su organización](workfront-goals/establish-a-vision-for-your-org/establish-a-vision-and-strategy.md)
       + [Crear una declaración objetiva clara](workfront-goals/establish-a-vision-for-your-org/create-a-clear-objective-statement.md)
       + [Colaborar en torno a las metas empresariales y organizativas](workfront-goals/establish-a-vision-for-your-org/collaborate-around-enterprise-and-organizational-goals.md)
-      + [Alineación de grupos y equipos con su estrategia](workfront-goals/establish-a-vision-for-your-org/align-groups-and-teams-to-the-strategy.md)
+      + [Alineación de grupos y equipos con la estrategia](workfront-goals/establish-a-vision-for-your-org/align-groups-and-teams-to-the-strategy.md)
 
    + Crear sus metas {#create-goals}
       + [Información general de [!UICONTROL Workfront Goals]](workfront-goals/create-your-goals/understand-how-to-use-workfront-goals.md)
@@ -340,10 +340,10 @@ ht-degree: 99%
       + [Uso de complementos de Adobe Workfront para su integración con Creative Cloud](integrations/adobe-creative-cloud/use-adobe-workfront-extensions-for-creative-cloud.md)
 
    + Adobe Experience Manager Assets Essentials {#adobe-assets-essentials}
-      + [Configurando](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/configure.html?lang=es-ES)
+      + [Configuración de la integración](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/configure.html?lang=es-ES)
       + [Asignación de metadatos](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/map-metadata.html?lang=es-ES)
       + [Envío de documentos y vinculación de recursos](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/link-send.html?lang=es-ES)
-      + [Historial de versiones](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/versions.html?lang=es-ES)
+      + [Mantener historial de versiones](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/versions.html?lang=es-ES)
 
    + G Suite {#g-suite-integrations}
       + [Mejore el flujo de trabajo con la integración de G Suite](integrations/g-suite-integrations/worfront-for-g-suite-integrations.md)
@@ -465,7 +465,7 @@ ht-degree: 99%
       + [Agregación](fusion/12-exercises/aggregation.md)
       + [Agregación avanzada](fusion/12-exercises/advanced-aggregation.md)
       + [Historial de ejecución](fusion/12-exercises/execution-history.md)
-      + [Exploración de ejecuciones, ciclos y paquetes](fusion/12-exercises/exploring-runs-cycles-and-bundles.md)
+      + [Exploración de ciclos de ejecución y paquetes](fusion/12-exercises/exploring-runs-cycles-and-bundles.md)
       + [Función de conmutación](fusion/12-exercises/switch-function.md)
       + [Módulo de conmutación](fusion/12-exercises/switch-module.md)
       + [Webhooks](fusion/12-exercises/webhooks.md)
@@ -494,7 +494,7 @@ ht-degree: 99%
 
    + Cargar pruebas {#upload-proofs}
       + [¿Qué es una versión de prueba?](workfront-proof/upload-proofs/what-is-a-proof-version.md)
-      + [¿Quién carga las versiones de prueba?](workfront-proof/upload-proofs/who-uploads-the-proof-versions.md)
+      + [Quién carga las versiones de prueba](workfront-proof/upload-proofs/who-uploads-the-proof-versions.md)
       + [Convertir un documento en una prueba](workfront-proof/upload-proofs/convert-a-document-to-a-proof.md)
       + [Ver y comparar versiones de prueba](workfront-proof/upload-proofs/view-and-compare-proof-versions.md)
       + [Cargar una versión de prueba](workfront-proof/upload-proofs/upload-a-proof-version.md)
@@ -544,7 +544,7 @@ ht-degree: 99%
       + [Configuración de los metadatos](workfront-dam/metadata-and-keywords/metadata-setup.md)
 
    + Personalización de Brand Connect {#brand-connect-customization}
-      + [¿Qué es [!UICONTROL Brand Connect]?](workfront-dam/brand-connect-customization/what-is-brand-connect.md)
+      + [Qué es [!UICONTROL Brand Connect]](workfront-dam/brand-connect-customization/what-is-brand-connect.md)
       + [Establezca la configuración del sistema en [!UICONTROL Brand Connect]](workfront-dam/brand-connect-customization/establish-system-settings.md)
       + [Añadir páginas personalizadas en [!UICONTROL Brand Connect]](workfront-dam/brand-connect-customization/add-custom-pages-in-brand-connect.md)
       + [Cree directrices de marca en [!UICONTROL Brand Connect]](workfront-dam/brand-connect-customization/create-brand-guidelines-in-brand-connect.md)

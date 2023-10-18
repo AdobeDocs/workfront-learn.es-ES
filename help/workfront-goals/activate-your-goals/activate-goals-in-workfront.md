@@ -1,5 +1,5 @@
 ---
-title: Activación de metas en  [!DNL Workfront Goals]
+title: Activar metas
 description: Aprenda a activar las metas en  [!DNL Workfront Goals]  una vez creadas.
 activity: use
 team: Technical Marketing
@@ -9,14 +9,14 @@ role: User
 level: Beginner
 jira: KT-10118
 exl-id: 53df924b-0ba2-442a-95a6-40bd9b12d206
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
 workflow-type: tm+mt
-source-wordcount: '327'
+source-wordcount: '325'
 ht-degree: 100%
 
 ---
 
-# Activación de metas en [!DNL Workfront]
+# Activar metas
 
 Ahora que ha creado las metas, se deben activar. Cuando crea una meta, se guarda en el estado [!UICONTROL Borrador]. Las metas en el estado [!UICONTROL Borrador] no forman parte de la administración de metas hasta que las active. Una vez activados, cambian al estado [!UICONTROL Activo] y muestran el progreso en el panel y cómo se alinean con la estrategia general. Las metas en el estado [!UICONTROL Activo] se asocian a un indicador de progreso, normalmente, una actividad, un resultado, un proyecto o una meta alineada (relación de meta principal-secundaria).
 

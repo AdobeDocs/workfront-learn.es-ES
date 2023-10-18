@@ -1,6 +1,6 @@
 ---
-title: Comprensión de la actividad por gráfico de equipos en [!UICONTROL Análisis mejorado]
-description: El gráfico Actividad por equipos le permite comprender cómo los equipos locales de su organización invierten el tiempo en Workfront.
+title: Comprender la actividad por gráfico de equipos
+description: El gráfico Actividad por equipo en [!UICONTROL Análisis mejorado] le permite comprender cómo los equipos de inicio de su organización pasan su tiempo en Workfront.
 activity: use
 team: Technical Marketing
 feature: Reports and Dashboards
@@ -10,14 +10,14 @@ role: User
 level: Beginner
 jira: KT-10045
 exl-id: a9c5c4bc-0728-4199-b87e-e166c23dc25a
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
 workflow-type: tm+mt
-source-wordcount: '317'
-ht-degree: 100%
+source-wordcount: '314'
+ht-degree: 92%
 
 ---
 
-# Comprensión de la actividad por gráfico de equipos en [!UICONTROL Análisis mejorado]
+# Comprender la actividad por gráfico de equipos
 
 El gráfico Actividad por equipos le permite comprender cómo los equipos locales de su organización invierten el tiempo en Workfront. Los usuarios de Workfront pueden estar en varios equipos, pero solo pueden estar en uno local. Los equipos utilizados en los gráficos de personas están formados solamente por aquellos usuarios que tienen a ese equipo designado como el local.
 

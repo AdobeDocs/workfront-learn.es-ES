@@ -1,5 +1,5 @@
 ---
-title: 'Un momento con el producto: introducción a Workbench Analytics'
+title: Un momento con el producto acerca de [!UICONTROL Análisis mejorado]
 description: Obtenga información sobre cómo se ha desarrollado el análisis y las interesantes funcionalidades que ofrece con Joel Pettioven, responsable de  [!DNL Enhanced analytics].
 activity: use
 feature: Reports and Dashboards
@@ -10,14 +10,14 @@ team: Technical Marketing
 doc-type: video
 jira: KT-8870
 exl-id: 037ec658-a7b7-44cd-a7af-b1923935f41c
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
 workflow-type: tm+mt
-source-wordcount: '53'
+source-wordcount: '55'
 ht-degree: 100%
 
 ---
 
-# Introducción a Workfront Analytics
+# Un momento con el producto acerca de [!UICONTROL Análisis mejorado]
 
 Vea este vídeo de Joel Pettioven de Workfront, responsable de [!DNL Enhanced analytics], para conocer cómo se ha desarrollado el análisis y las interesantes prestaciones que ofrece.
 

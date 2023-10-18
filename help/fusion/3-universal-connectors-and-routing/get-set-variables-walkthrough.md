@@ -10,14 +10,14 @@ level: Beginner
 jira: KT-9017
 exl-id: bd329144-4c4c-451f-9340-265fbdb5b249
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
 workflow-type: tm+mt
-source-wordcount: '215'
+source-wordcount: '214'
 ht-degree: 100%
 
 ---
 
-# Introducción a las variables Obtener/Establecer
+# Introducción a las variables Set/Get
 
 Busque datos acerca de un proyecto en Workfront y envíe un correo electrónico con la información relacionada.
 

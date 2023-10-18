@@ -10,22 +10,22 @@ role: User
 level: Beginner
 jira: KT-10027
 exl-id: 26c071bf-fe79-42f8-8677-4e172377483a
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
 workflow-type: tm+mt
-source-wordcount: '282'
-ht-degree: 100%
+source-wordcount: '280'
+ht-degree: 85%
 
 ---
 
-# Introducción a [!UICONTROL Análisis mejorado] de Adobe Workfront
+# Introducción a [!UICONTROL Análisis mejorado]
 
 El análisis mejorado puede mostrarle cómo progresan sus equipos y proyectos en Workfront y qué sucedió en los anteriores, de lo que podría aprender para ayudar a planificar los futuros.
 
 ## Requisitos previos de Analytics
 
-Para sacar el máximo partido al Análisis mejorado de Workfront, debe asegurarse de que sus equipos introduzcan datos y actualicen determinados campos con la mayor precisión posible.
+Para sacar el máximo partido al análisis mejorado de Workfront, debe asegurarse de que sus equipos introduzcan datos y actualicen determinados campos con la mayor precisión posible.
 
-Cuando utilizamos el término “equipo” en Analytics, nos referimos a “equipos locales”. Los usuarios de Workfront pueden estar en varios equipos, pero solo pueden estar en uno local. Los equipos utilizados en los gráficos Personas están formados solamente por usuarios que tienen a ese equipo designado como el local.
+Cuando usamos el término &quot;equipo&quot; en Analytics, nos referimos a &quot;equipos de inicio&quot;. Los usuarios de Workfront pueden estar en varios equipos, pero solo pueden estar en uno local. Los equipos utilizados en los gráficos Personas están formados solamente por usuarios que tienen a ese equipo designado como el local.
 
 Para empezar como es debido, asegúrese de que todas las plantillas de proyecto tengan asignadas las horas planificadas y duraciones precisas para todas las tareas.
 

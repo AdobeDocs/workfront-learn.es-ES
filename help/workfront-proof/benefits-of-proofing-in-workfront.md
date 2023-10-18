@@ -11,14 +11,14 @@ thumbnail: 336095.png
 jira: KT-8822
 exl-id: 9721f0b1-ee24-4db1-ac1b-f0c355ad0a9a
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: ht
-source-wordcount: '169'
+source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
+workflow-type: tm+mt
+source-wordcount: '168'
 ht-degree: 100%
 
 ---
 
-# Conozca las ventajas de la revisión de [!DNL Workfront]
+# Conozca las ventajas de las pruebas
 
 Este vídeo contiene información sobre:
 

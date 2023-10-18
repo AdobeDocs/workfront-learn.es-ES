@@ -8,14 +8,14 @@ level: Beginner, Intermediate
 last-substantial-update: 2023-07-18T00:00:00Z
 jira: KT-10101
 exl-id: bfa3ae5f-9618-444c-9eb8-5d82db9a77c7
-source-git-commit: ce2aad1cd0ecb7d568ed9a01d97147cbd126ca05
-workflow-type: ht
-source-wordcount: '414'
+source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
+workflow-type: tm+mt
+source-wordcount: '416'
 ht-degree: 100%
 
 ---
 
-# Preguntas frecuentes sobre las colas de solicitud
+# Respuestas a preguntas comunes sobre las colas de solicitud
 
 **¿Por qué puedo ver una cola de solicitudes, pero mi usuario no?**
 

@@ -1,5 +1,5 @@
 ---
-title: Definir y expresar el objetivo o la meta final
+title: Crear una declaración objetiva clara
 description: Aprenda a crear una declaración objetiva clara, o la intención del Comandante, y a escribir metas empresariales u organizativas sólidas.
 activity: use
 feature: Workfront Goals
@@ -10,14 +10,14 @@ team: Technical Marketing
 jira: KT-8892
 exl-id: 95035fac-e434-4073-91e1-e16997a36a46
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
 workflow-type: tm+mt
-source-wordcount: '395'
+source-wordcount: '392'
 ht-degree: 100%
 
 ---
 
-# Definir y expresar la meta
+# Crear una declaración objetiva clara
 
 Este vídeo contiene información sobre:
 

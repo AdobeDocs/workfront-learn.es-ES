@@ -1,6 +1,6 @@
 ---
-title: Obtenga información sobre el acceso y la revisión del gráfico de evolución en [!UICONTROL Análisis mejorado]
-description: Obtenga información sobre cómo acceder al gráfico de evolución y comprenda la relación entre las horas restantes, la condición del proyecto y la velocidad del proyecto en Workfront.
+title: Comprender el acceso y la revisión del gráfico de evolución
+description: Obtenga información sobre cómo acceder al gráfico de evolución y comprenda la relación entre las horas restantes, las condiciones del proyecto y la velocidad del proyecto en [!UICONTROL Análisis mejorado].
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335051.png
@@ -11,14 +11,14 @@ team: Technical Marketing
 jira: KT-8734
 exl-id: d06c1b04-205d-478a-b44a-c43ebe55f649
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
 workflow-type: tm+mt
-source-wordcount: '298'
-ht-degree: 100%
+source-wordcount: '293'
+ht-degree: 90%
 
 ---
 
-# Obtenga información sobre el acceso y la revisión de la evolución en [!UICONTROL Análisis mejorado]
+# Comprender el acceso y la revisión del desglose
 
 Este vídeo contiene información sobre:
 

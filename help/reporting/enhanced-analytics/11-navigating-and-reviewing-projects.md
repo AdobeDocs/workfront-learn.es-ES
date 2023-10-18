@@ -1,6 +1,6 @@
 ---
-title: Información sobre cómo navegar y revisar proyectos en [!UICONTROL Análisis mejorado]
-description: Obtenga información sobre cómo leer el gráfico del plan de grupo en Workfront.
+title: Explicación de la navegación y revisión de proyectos
+description: Aprenda a leer la tabla de planes de vuelo en [!UICONTROL Análisis mejorado].
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335047.png
@@ -11,14 +11,14 @@ team: Technical Marketing
 jira: KT-8729
 exl-id: 1409a1af-3bdb-40f7-af01-f9de2357b602
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: ht
-source-wordcount: '474'
-ht-degree: 100%
+source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
+workflow-type: tm+mt
+source-wordcount: '469'
+ht-degree: 97%
 
 ---
 
-# Información sobre cómo navegar y revisar proyectos en [!UICONTROL Análisis mejorado]
+# Explicación de la navegación y revisión de proyectos
 
 Este vídeo contiene información sobre:
 

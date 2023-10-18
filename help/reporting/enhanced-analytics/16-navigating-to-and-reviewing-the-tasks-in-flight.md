@@ -1,6 +1,6 @@
 ---
-title: Revisión de las tareas en curso en [!UICONTROL Análisis mejorado]
-description: Obtenga información sobre cómo acceder al gráfico de grupo Tareas y cómo ver rápidamente qué tareas no se han completado en un proyecto, todo en Workfront.
+title: Revise las tareas grupales
+description: Obtenga información sobre cómo acceder a la tabla Tareas en vuelo y cómo ver rápidamente qué tareas no se han completado en un proyecto, todo en [!UICONTROL Análisis mejorado].
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335052.png
@@ -11,14 +11,14 @@ team: Technical Marketing
 jira: KT-8735
 exl-id: 4305831f-952b-4d4a-98c4-1fc391a0e1f0
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
 workflow-type: tm+mt
-source-wordcount: '251'
-ht-degree: 100%
+source-wordcount: '246'
+ht-degree: 89%
 
 ---
 
-# Revisión de las tareas en curso en [!UICONTROL Análisis mejorado]
+# Revise las tareas grupales
 
 Este vídeo contiene información sobre:
 

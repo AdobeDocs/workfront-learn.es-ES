@@ -1,5 +1,5 @@
 ---
-title: Cómo personalizar el [!UICONTROL DAM de Workfront]
+title: Personalizar [!UICONTROL WORKFRONT DAM]
 description: Aprenda a personalizar el [!UICONTROL DAM de Workfront] creando marcas de agua, modificando la ventana de inicio de sesión de [!UICONTROL DAM], aplicando promoción de la marca en la interfaz y mucho más.
 activity: use
 feature: Digital Content and Documents
@@ -10,14 +10,14 @@ team: Technical Marketing
 jira: KT-8969
 exl-id: cc7c90f8-8af0-45d8-b5d3-69d40ebacb7e
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
 workflow-type: tm+mt
-source-wordcount: '75'
-ht-degree: 100%
+source-wordcount: '71'
+ht-degree: 91%
 
 ---
 
-# Configuración del sistema: personalizar el [!UICONTROL DAM de Workfront]
+# Personalizar [!UICONTROL WORKFRONT DAM]
 
 Este vídeo contiene información sobre:
 

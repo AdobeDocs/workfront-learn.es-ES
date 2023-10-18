@@ -1,5 +1,5 @@
 ---
-title: Configure las plantillas de metadatos en [!UICONTROL DAM de Workfront]
+title: Configuración de una plantilla de metadatos
 description: Obtenga información sobre cómo ahorrar tiempo con las plantillas de metadatos, configurar una plantilla de metadatos y aplicar una plantilla a una carpeta en [!UICONTROL DAM de Workfront].
 activity: use
 feature: Digital Content and Documents
@@ -10,14 +10,14 @@ team: Technical Marketing
 jira: KT-8975
 exl-id: 6455e20f-9c5c-4727-84cb-1f8bb825bd2a
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: ht
-source-wordcount: '59'
+source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
+workflow-type: tm+mt
+source-wordcount: '57'
 ht-degree: 100%
 
 ---
 
-# Metadatos y palabras clave: plantillas de metadatos
+# Configuración de una plantilla de metadatos
 
 Este vídeo contiene información sobre:
 

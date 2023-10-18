@@ -1,5 +1,5 @@
 ---
-title: Instale el [!UICONTROL complemento de Microsoft Outlook]
+title: Instale el [!UICONTROL Microsoft Outlook] complemento
 description: Obtenga información sobre cómo instalar el [!UICONTROL complemento de Microsoft Outlook]
 activity: use
 feature: Workfront Integrations and Apps
@@ -10,10 +10,10 @@ team: Technical Marketing
 jira: KT-8814
 exl-id: bd55c464-aae3-40a4-bc1b-e0dbdc5bb238
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
 workflow-type: tm+mt
 source-wordcount: '142'
-ht-degree: 100%
+ht-degree: 96%
 
 ---
 

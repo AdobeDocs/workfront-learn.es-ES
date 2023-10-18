@@ -10,14 +10,14 @@ role: User
 level: Beginner
 jira: KT-10028
 exl-id: 630235a5-0e11-4d94-9210-49ea6e80b48d
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
 workflow-type: tm+mt
-source-wordcount: '193'
-ht-degree: 100%
+source-wordcount: '190'
+ht-degree: 94%
 
 ---
 
-# Comprensión de los gráficos de trabajo y personas en [!UICONTROL Análisis mejorado]
+# Comprensión de los gráficos de trabajo y personas
 
 Los gráficos de trabajo muestran la actividad desde la perspectiva del proyecto y la tarea, mientras que los de personas lo hacen desde la de un equipo local.
 
@@ -27,7 +27,7 @@ Seleccione el tipo de gráficos de Analytics que desea ver (Trabajo o Personas) 
 
 ![Una imagen de cómo encontrar la función [!UICONTROL Analytics] en [!DNL Workfront Classic]](assets/section-1-1.png)
 
-Cuando vaya a los gráficos de trabajo, verá de forma predeterminada lo siguiente:
+Cuando vaya a los gráficos de trabajo, verá de forma predeterminada:
 
 1. Estadísticas de KPI
 1. Plan de grupo

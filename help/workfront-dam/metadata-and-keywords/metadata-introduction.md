@@ -1,5 +1,5 @@
 ---
-title: Metadatos y palabras clave de [!UICONTROL DAM de Workfront]
+title: Comprender los metadatos
 description: Obtenga información sobre lo que se tratará en el [!UICONTROL DAM de Workfront] Curso para administradores, metadatos y palabras clave de la parte 2.
 activity: use
 feature: Digital Content and Documents
@@ -10,14 +10,14 @@ team: Technical Marketing
 jira: KT-8970
 exl-id: 0d1d6fb5-907b-4732-ba11-b398eca72284
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
 workflow-type: tm+mt
-source-wordcount: '131'
+source-wordcount: '124'
 ht-degree: 100%
 
 ---
 
-# Metadatos y palabras clave: introducción al curso
+# Comprender los metadatos
 
 Los metadatos son todos los datos utilizados para describir un recurso. Los campos de metadatos tienen un nombre y los usuarios pueden editar o cambiar la información de muchos de esos campos. Algunos campos de metadatos se rellenan con la aplicación o el dispositivo de donde proviene el recurso y no se pueden editar.
 

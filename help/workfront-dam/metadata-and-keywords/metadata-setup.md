@@ -1,5 +1,5 @@
 ---
-title: Cómo configurar metadatos en el [!UICONTROL DAM de Workfront]
+title: Configuración de los metadatos
 description: Obtenga información sobre cómo crear un esquema de metadatos, comprender los distintos tipos, utilizar campos de metadatos existentes y mucho más en el [!UICONTROL DAM de Workfront].
 activity: use
 feature: Digital Content and Documents
@@ -10,14 +10,14 @@ team: Technical Marketing
 jira: KT-8972
 exl-id: 65ca5265-8fa7-4a46-8747-1fa362c6332b
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
 workflow-type: tm+mt
-source-wordcount: '294'
-ht-degree: 100%
+source-wordcount: '289'
+ht-degree: 84%
 
 ---
 
-# Metadatos y palabras clave: configuración de los metadatos
+# Configuración de los metadatos
 
 Este vídeo contiene información sobre:
 
@@ -38,13 +38,13 @@ Estas son algunas prácticas recomendadas que le ayudarán a empezar a trabajar 
 * Agregue términos de uso para los recursos administrados por derechos para evitar el uso indebido.
 * Añada metadatos a los recursos en cuanto los cargue.
 * Implemente menús desplegables predefinidos para los datos más utilizados con el fin de evitar incoherencias.
-* Educar a los colaboradores responsables de agregar metadatos en la estrategia de metadatos de su organización.
-* Comunique sus requisitos de metadatos a proveedores externos (por ejemplo, “las fotos deben enviarse con los términos de uso, el crédito y los metadatos de ubicación ya agregados”).
+* Forme a los colaboradores responsables de agregar metadatos a la estrategia de metadatos de su organización.
+* Comunique los requisitos de metadatos a los proveedores externos (por ejemplo, &quot;Las fotos deben enviarse con las condiciones de uso, el crédito y los metadatos de ubicación ya añadidos&quot;).
 * Realice auditorías periódicas para asegurarse de que los metadatos se añadan correctamente.
 
 ## Desarrolle de una estrategia de metadatos
 
-Observe el flujo de trabajo de los recursos al desarrollar la estrategia de metadatos de su organización. Su consultor de [!DNL Workfront] puede ayudarle a responder a las siguientes preguntas clave:
+Observe el flujo de trabajo de recursos al desarrollar la estrategia de metadatos de su organización. Su consultor de [!DNL Workfront] puede ayudarle a responder a las siguientes preguntas clave:
 
 * ¿Quién es el responsable de añadir los metadatos?
 * ¿Qué metadatos son necesarios? ¿Cuáles son opcionales?
