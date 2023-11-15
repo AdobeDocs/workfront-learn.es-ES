@@ -4,11 +4,11 @@ description: Obtenga respuestas a preguntas comunes sobre las colas de solicitud
 feature: Work Management
 type: Tutorial
 role: Admin, User
-level: Beginner, Intermediate
+level: Beginner
 last-substantial-update: 2023-07-18T00:00:00Z
 jira: KT-10101
 exl-id: bfa3ae5f-9618-444c-9eb8-5d82db9a77c7
-source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
+source-git-commit: ec82cd0aafb89df7b3c46eb716faf3a25cd438a2
 workflow-type: tm+mt
 source-wordcount: '416'
 ht-degree: 100%

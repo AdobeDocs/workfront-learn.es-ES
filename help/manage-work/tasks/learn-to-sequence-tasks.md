@@ -6,12 +6,12 @@ feature: Work Management
 thumbnail: 335091.jpeg
 type: Tutorial
 role: User
-level: Intermediate
+level: Beginner
 team: Technical Marketing
 jira: KT-8778
 exl-id: 4044743f-71f8-4416-a365-575d90d5bd70
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: ec82cd0aafb89df7b3c46eb716faf3a25cd438a2
 workflow-type: tm+mt
 source-wordcount: '66'
 ht-degree: 100%
@@ -31,7 +31,7 @@ Este vídeo contiene información sobre:
 
 <!---
 Learn more urls
-There’s a lot more you can learn about predecessors, such as dependency type and lag. [!DNL Workfront] recommends getting the basics down first, then pulling those other features into your project planning. If you’re curious, here are some articles about additional functionality.
+There's a lot more you can learn about predecessors, such as dependency type and lag. [!DNL Workfront] recommends getting the basics down first, then pulling those other features into your project planning. If you're curious, here are some articles about additional functionality.
 Overview of task predecessors
 Create predecessor relationships by chaining tasks
 Creating a predecessor relationship on the task list

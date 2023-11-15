@@ -8,11 +8,11 @@ thumbnail: track-work-progress-from-the-project-timeline.jpeg
 type: Tutorial
 role: User
 last-substantial-update: 2023-08-16T00:00:00Z
-level: Intermediate
+level: Beginner
 jira: KT-10150
 exl-id: c8793f49-24b8-48cc-af84-5239234ead0e
-source-git-commit: e25a7c0119567c068504edcb8c3ddd29622d52c5
-workflow-type: ht
+source-git-commit: ec82cd0aafb89df7b3c46eb716faf3a25cd438a2
+workflow-type: tm+mt
 source-wordcount: '417'
 ht-degree: 100%
 

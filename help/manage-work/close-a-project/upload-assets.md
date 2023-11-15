@@ -7,19 +7,19 @@ feature: Work Management
 thumbnail: upload-assets.jpeg
 type: Tutorial
 role: User
-level: Intermediate
+level: Beginner
 jira: KT-10138
 exl-id: d6004151-3b05-4433-ad1c-aff1187e61ac
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: ec82cd0aafb89df7b3c46eb716faf3a25cd438a2
 workflow-type: tm+mt
 source-wordcount: '134'
-ht-degree: 100%
+ht-degree: 89%
 
 ---
 
 # Cargar recursos
 
-Antes de cerrar un proyecto de [!DNL Workfront], compruebe que todos los archivos relevantes se encuentran adjuntos en la sección [!UICONTROL Documentos]. Cargue estos archivos como documento o como prueba, según las directrices de su organización.
+Antes de cerrar un proyecto de [!DNL Workfront], compruebe que todos los archivos relevantes se encuentran adjuntos en la sección [!UICONTROL Documentos]. Cargue estos elementos como un documento o una prueba, tal como determinan las directrices de su organización.
 
 Es posible que deba cargar el documento o la prueba como una versión de un archivo existente.
 

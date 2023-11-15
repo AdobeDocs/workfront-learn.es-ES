@@ -6,13 +6,13 @@ feature: Work Management
 thumbnail: 335096.jpeg
 type: Tutorial
 role: User
-level: Intermediate
+level: Beginner
 team: Technical Marketing
 jira: KT-8783
 exl-id: 7dad82df-ef20-4ed3-a52d-27f52d05f678
 doc-type: video
-source-git-commit: d34e7acf962b6205d0912b2e40f9a4e2582772fa
-workflow-type: ht
+source-git-commit: ec82cd0aafb89df7b3c46eb716faf3a25cd438a2
+workflow-type: tm+mt
 source-wordcount: '58'
 ht-degree: 100%
 

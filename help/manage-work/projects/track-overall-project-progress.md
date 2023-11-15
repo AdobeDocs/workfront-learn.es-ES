@@ -7,13 +7,13 @@ feature: Work Management
 thumbnail: track-overall-project-progress.jpeg
 type: Tutorial
 role: User
-level: Intermediate
+level: Beginner
 jira: KT-10149
 exl-id: 03ebbbaf-0f8a-43ff-b682-9766aca25741
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: ec82cd0aafb89df7b3c46eb716faf3a25cd438a2
 workflow-type: tm+mt
 source-wordcount: '203'
-ht-degree: 100%
+ht-degree: 82%
 
 ---
 
@@ -27,9 +27,9 @@ El [!UICONTROL Porcentaje completado] se basa en el progreso general de las tare
 
 >[!NOTE]
 >
->Una configuración global del sistema afecta a cómo se calcula el porcentaje completado del proyecto, en función de la duración o las horas planificadas de las tareas.
+>Una configuración global del sistema afecta a cómo se calcula el porcentaje completado del proyecto, en función de las duraciones o de las horas planificadas de las tareas.
 
-El proyecto [!UICONTROL Condición] se denomina “estado de la programación del proyecto”. Hay varias cosas que influyen en la forma en que se calcula la condición. [!DNL Workfront] considera la [!UICONTROL Fecha planificada de finalización] y la [!UICONTROL Fecha de finalización proyectada], así como la ruta crítica, para calcular si el proyecto es [!UICONTROL Puntual], está [!UICONTROL En riesgo] o [!UICONTROL En problemas].
+El proyecto [!UICONTROL Condición] se denomina &quot;estado del calendario del proyecto&quot;. Hay varias cosas que influyen en la forma en que se calcula la condición. [!DNL Workfront] considera la [!UICONTROL Fecha planificada de finalización] y la [!UICONTROL Fecha de finalización proyectada], así como la ruta crítica, para calcular si el proyecto es [!UICONTROL Puntual], está [!UICONTROL En riesgo] o [!UICONTROL En problemas].
 
 ![Encabezado del proyecto que muestra [!UICONTROL Condición]](assets/planner-fund-condition.png)
 

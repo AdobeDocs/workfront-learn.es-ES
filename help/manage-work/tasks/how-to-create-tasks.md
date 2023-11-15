@@ -5,12 +5,12 @@ feature: Work Management
 thumbnail: how-to-create-tasks.jpeg
 type: Tutorial
 role: User
-level: Intermediate
+level: Beginner
 last-substantial-update: 2023-05-15T00:00:00Z
 jira: KT-10151
 exl-id: 68102c46-80be-4255-89b8-38022d421c6c
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: ht
+source-git-commit: ec82cd0aafb89df7b3c46eb716faf3a25cd438a2
+workflow-type: tm+mt
 source-wordcount: '41'
 ht-degree: 100%
 

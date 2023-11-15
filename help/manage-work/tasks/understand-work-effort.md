@@ -7,11 +7,11 @@ feature: Work Management
 thumbnail: understand-work-effort.jpeg
 type: Tutorial
 role: User
-level: Intermediate
+level: Beginner
 jira: KT-10153
 exl-id: 71ed10b8-4801-4cd3-828c-334f6c3a86d8
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: ht
+source-git-commit: ec82cd0aafb89df7b3c46eb716faf3a25cd438a2
+workflow-type: tm+mt
 source-wordcount: '185'
 ht-degree: 100%
 

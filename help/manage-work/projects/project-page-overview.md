@@ -6,13 +6,13 @@ team: Technical Marketing
 feature: Work Management
 type: Tutorial
 role: User
-level: Intermediate
+level: Beginner
 jira: KT-10142
 exl-id: b56c49a5-bd3b-43b0-8e14-7443f5c7e4b1
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: ec82cd0aafb89df7b3c46eb716faf3a25cd438a2
 workflow-type: tm+mt
 source-wordcount: '405'
-ht-degree: 100%
+ht-degree: 84%
 
 ---
 
@@ -23,11 +23,11 @@ La página del proyecto está repleta de funciones que le ayudarán a administra
 ![Página del proyecto](assets/project-page-graphic-for-planner.png)
 
 1. **Ruta de exploración:** navegue por la jerarquía de programas y portafolios detrás del proyecto.
-2. **Tipo de objeto:** mostrar el tipo de objeto en la página de aterrizaje le ayuda a identificar lo que está viendo en [!DNL Workfront]. El término “proyecto” puede personalizarlo su administrador del sistema de [!DNL Workfront].
-3. **Nombre del proyecto:** nombre del proyecto que está viendo. Haga clic en el nombre para editarlo.
-4. **Encabezado del proyecto:** información estándar disponible en todas las páginas del proyecto.
+2. **Tipo de objeto:** Mostrar el tipo de objeto en la página de aterrizaje le ayuda a identificar lo que está viendo en [!DNL Workfront]. El término &quot;proyecto&quot; lo puede personalizar su [!DNL Workfront] administrador del sistema.
+3. **Nombre del proyecto:** El nombre del proyecto que está viendo. Haga clic en el nombre para editarlo.
+4. **Encabezado del proyecto:** Información estándar disponible en todas las páginas del proyecto.
 5. **[!UICONTROL Porcentaje completado]:** esto se actualiza automáticamente en función de las tareas completadas en el proyecto.
-6. **[!UICONTROL Propietario del proyecto]:** en la mayoría de las organizaciones, este es el administrador del proyecto. Esta es la persona responsable de administrar y garantizar que se complete el proyecto en [!DNL Workfront].
+6. **[!UICONTROL Propietario del proyecto]:** en la mayoría de las organizaciones, este es el administrador del proyecto. Esta es la persona responsable de administrar el proyecto en [!DNL Workfront] y asegurarse de que se complete.
 7. **[!UICONTROL Fecha planificada de finalización]:** el administrador del proyecto fijará la fecha planificada de finalización en la cronología del proyecto.
 8. **[!UICONTROL Condición]:** la [!UICONTROL Condición] es una representación visual del progreso del proyecto. [!DNL Workfront] puede configurar automáticamente la [!UICONTROL Condición] en función del estado de progreso de las tareas del proyecto. O la [!UICONTROL Condición] se puede configurar manualmente mediante los detalles del proyecto.
 9. **[!UICONTROL Estado]:** el [!UICONTROL Estado] indica en qué parte del proceso se encuentra el proyecto. Si el proyecto aún está en fase de planificación, en curso o si se ha completado todo el trabajo del proyecto.
