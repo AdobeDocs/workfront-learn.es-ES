@@ -10,7 +10,7 @@ role: User, Leader
 level: Beginner
 exl-id: 2744efec-9194-4bd9-8bc4-391cc796c5a4
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: ea0bd2ad43efdaa6b84d8249f2848783fd531d93
 workflow-type: tm+mt
 source-wordcount: '69'
 ht-degree: 100%
@@ -21,4 +21,4 @@ ht-degree: 100%
 
 Comprenda mejor que es un tablero y cómo puede beneficiarle a usted o a su equipo en la gestión del trabajo. Consulte dónde acceder a los tableros y cómo crear un tablero básico.
 
->[!VIDEO](https://video.tv.adobe.com/v/346548)
+>[!VIDEO](https://video.tv.adobe.com/v/346548/?quality=12&learn=on)
