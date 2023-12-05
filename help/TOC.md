@@ -3,10 +3,10 @@ user-guide-description: Tutoriales de Workfront
 role: User
 level: Beginner
 feature-set: Workfront
-source-git-commit: 444e3019bf3ed707bb205c9fcce7f96d7ffc0cde
+source-git-commit: eb1fdeaf12cec97a576802007a5e0683e50579ee
 workflow-type: tm+mt
-source-wordcount: '2436'
-ht-degree: 98%
+source-wordcount: '2375'
+ht-degree: 97%
 
 ---
 
@@ -89,6 +89,7 @@ ht-degree: 98%
       + [Compartir campos personalizados](custom-data/custom-forms/share-custom-fields.md)
       + [Edición de un formulario personalizado](custom-data/custom-forms/custom-forms-edit-a-custom-form.md)
       + [Asignación de un formulario personalizado a un objeto](custom-data/custom-forms/custom-forms-using-a-custom-form.md)
+      + [Adición de saltos de sección y lógicas a un formulario personalizado](custom-data/custom-forms/add-section-breaks-and-logic-to-a-custom-form.md)
       + [Exportar un formulario personalizado como PDF](custom-data/custom-forms/export-a-custom-form-as-a-pdf.md)
 
    + Expresiones calculadas {#calculated-expressions}
@@ -164,7 +165,7 @@ ht-degree: 98%
       + [Ver hitos](manage-work/approval-processes-and-milestone-paths/view-milestones.md)
 
    + Crear y administrar plantillas de proyecto {#create-and-manage-project-templates}
-      + [Crear una plantilla de proyecto y obtenga información acerca de los modelos](manage-work/create-and-manage-project-templates/create-a-project-template.md)
+      + [Creación de una plantilla de proyecto y aprendizaje de modelos](manage-work/create-and-manage-project-templates/create-a-project-template.md)
       + [Creación de un proyecto directamente a partir de una plantilla](manage-work/create-and-manage-project-templates/create-a-project-directly-from-a-template.md)
       + [Compartir una plantilla de proyecto](manage-work/create-and-manage-project-templates/share-a-project-template.md)
       + [Copiar un proyecto existente](manage-work/manage-projects/copy-an-existing-project.md)
@@ -587,7 +588,7 @@ ht-degree: 98%
 + Agile {#agile}
 
    + Scrum {#scrum}
-      + [Crear un equipo ágil de Scrum](agile/create-a-scrum-agile-team.md)
+      + [Crear un equipo de Scrum Agile](agile/create-a-scrum-agile-team.md)
       + [Administrar el trabajo como equipo de Scrum](agile/manage-work-scrum-team.md)
       + [Preparación del registro de asuntos pendientes](agile/gooming-the-backlog.md)
       + [Planificar y crear una iteración](agile/plan-and-create-an-iteration.md)
