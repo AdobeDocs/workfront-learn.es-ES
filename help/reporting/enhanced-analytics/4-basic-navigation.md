@@ -10,26 +10,21 @@ level: Beginner
 team: Technical Marketing
 jira: KT-8724
 exl-id: 464bf4b9-4b41-421a-ad71-e60b7c9ccf64
-source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
+source-git-commit: 75b9d3b1163466909a4f5b3cbf0f3a66694f5038
 workflow-type: tm+mt
-source-wordcount: '96'
-ht-degree: 100%
+source-wordcount: '69'
+ht-degree: 84%
 
 ---
 
 # Comprender la navegación básica
 
-Para navegar hasta [!UICONTROL Analytics] en la nueva experiencia de Workfront, use el botón [!UICONTROL Menú principal].
+Para desplazarse a [!UICONTROL Analytics] en Workfront, utilice el [!UICONTROL Menú principal] botón.
 
 ![Una imagen de cómo encontrar la función [!UICONTROL Analytics] en Workfront [!UICONTROL menú principal]](assets/Navigate-NWE.png)
 
-Buscar análisis en [!DNL Workfront Classic] en la barra de navegación global.
+En este vídeo, verá lo siguiente:
 
-![Una imagen de cómo encontrar la función [!UICONTROL Analytics] en el [!DNL Workfront Classic]](assets/Navigate-Classic.png)
-
-Este vídeo contiene información sobre:
-
-* Cómo navegar al área de Analytics
 * Información general sobre los gráficos de trabajo
 * Información general sobre los gráficos de personas
 
