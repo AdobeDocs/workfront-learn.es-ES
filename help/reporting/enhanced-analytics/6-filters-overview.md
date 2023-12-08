@@ -11,9 +11,9 @@ team: Technical Marketing
 jira: KT-8721
 exl-id: b63ab88a-c196-489f-92e8-ffe94be6aa2b
 doc-type: video
-source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
+source-git-commit: c1fd3897fad6e369a98c4fc904133ff99bf36925
 workflow-type: tm+mt
-source-wordcount: '262'
+source-wordcount: '267'
 ht-degree: 79%
 
 ---
@@ -24,6 +24,7 @@ Este vídeo contiene información sobre:
 
 * Adición de un filtro basado en campos de proyecto comunes
 * Adición de un filtro mediante un formulario personalizado
+* Sugerencias de filtrado
 
 >[!VIDEO](https://video.tv.adobe.com/v/335043/?quality=12&learn=on)
 
