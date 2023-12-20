@@ -6,9 +6,9 @@ role: Admin, Leader, User
 level: Beginner
 jira: KT-10908
 exl-id: 780b80fc-0f7e-41e2-8c6b-455d91642631
-source-git-commit: 4c00418e88cf7e52a234b2f3c5af3c7eec6406ab
+source-git-commit: 0c822b5be5272c5b638039d83294b00d25c32141
 workflow-type: tm+mt
-source-wordcount: '632'
+source-wordcount: '620'
 ht-degree: 84%
 
 ---
@@ -35,8 +35,6 @@ La pregunta “¿Por qué son estas prácticas recomendadas?” se encuentra des
 * Considere la posibilidad de utilizar directrices de informes para reducir los resultados de un informe en lugar de crear varios similares o estructuras de filtro complejas en uno.
 
 * Acelere la creación de informes copiando uno existente similar desde el que generar el nuevo.
-
-* Utilice la funcionalidad de creación de informes predeterminada siempre que sea posible, en lugar del modo de texto.
 
 * Utilice los caracteres comodín basados en el usuario para crear informes dinámicos, de modo que vea la información relevante para estos.
 
@@ -88,7 +86,7 @@ Los caracteres comodín basados en el usuario hacen que los informes sean más f
 </br>
 </br>
 
-Para obtener instrucciones sobre cómo utilizar caracteres comodín basados en usuarios en los informes, consulte [Creación de filtros con comodines basados en usuarios](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/intermediate-reporting/create-filters-with-user-based-wildcards.html)
+Para obtener instrucciones sobre cómo utilizar caracteres comodín basados en usuarios en los informes, consulte [Creación de filtros con comodines basados en usuarios](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/intermediate-reporting/create-filters-with-user-based-wildcards.html).
 
 **Práctica recomendada**
 
