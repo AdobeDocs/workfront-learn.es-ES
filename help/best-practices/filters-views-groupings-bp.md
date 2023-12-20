@@ -6,10 +6,10 @@ role: Admin, Leader, User
 level: Beginner
 jira: KT-10911
 exl-id: 845aa0b4-3fe9-4bc1-9dde-2f22c537e758
-source-git-commit: 0c822b5be5272c5b638039d83294b00d25c32141
+source-git-commit: 0ff5accae867f07cc31ac2be7b0c12981412346e
 workflow-type: tm+mt
-source-wordcount: '783'
-ht-degree: 71%
+source-wordcount: '785'
+ht-degree: 70%
 
 ---
 
@@ -53,7 +53,7 @@ Para obtener los datos que necesita, reduzca el número de informes personalizad
 
 La creación de informes de un solo uso para cada segmento de datos que desee ver es un proceso laborioso y satura el sistema de Workfront.
 
-Para obtener instrucciones sobre cómo crear informes con peticiones de datos, consulte el capítulo titulado &quot;Cómo configurar y utilizar las peticiones de datos de informes&quot; en [Comprender la configuración de informes](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/report-settings.html).
+Para obtener instrucciones sobre cómo crear informes con peticiones de datos, consulte el capítulo titulado &quot;Cómo configurar y utilizar las peticiones de datos&quot; en la [Comprender la configuración de informes](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/report-settings.html) vídeo.
 
 Para obtener instrucciones sobre cómo crear informes con indicadores personalizados, consulte [Creación de mensajes personalizados](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/intermediate-reporting/custom-prompts.html).
 
