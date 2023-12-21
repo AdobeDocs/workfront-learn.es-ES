@@ -6,10 +6,10 @@ role: Admin, Leader, User
 level: Beginner
 jira: KT-10905
 exl-id: 24e99491-e155-4a1e-8cc8-fa767116b18f
-source-git-commit: 4c00418e88cf7e52a234b2f3c5af3c7eec6406ab
+source-git-commit: 97e97fa1a91e7ddae69c1e9fff162917c72b757d
 workflow-type: tm+mt
-source-wordcount: '376'
-ht-degree: 92%
+source-wordcount: '407'
+ht-degree: 85%
 
 ---
 
@@ -48,6 +48,10 @@ Utilice los flujos de trabajo para determinar las notificaciones necesarias.
 **He aquí por qué**
 
 Al recorrer los flujos de trabajo paso a paso, es más fácil identificar los puntos de comunicación y garantizar que las notificaciones adecuadas estén habilitadas. Esto prepara las notificaciones para la forma en que su organización ya está trabajando, lo que evita el spam o la interrupción de la comunicación.
+
+Para obtener instrucciones sobre cómo configurar notificaciones de eventos, consulte [Configuración de notificaciones de eventos](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/administration-and-setup/email-and-in-app-notifications/admin-set-up-event-notifications.html)
+
+Para obtener instrucciones sobre cómo administrar las notificaciones de eventos, consulte [Administración de notificaciones de eventos en la aplicación y por correo electrónico](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/administration-and-setup/email-and-in-app-notifications/manage-inapp-and-email-notifications.html)
 
 </br>
 </br>
