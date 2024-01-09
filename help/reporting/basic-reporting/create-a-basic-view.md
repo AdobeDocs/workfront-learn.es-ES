@@ -12,10 +12,10 @@ last-substantial-update: 2023-06-20T00:00:00Z
 jira: KT-8854
 exl-id: ba3c0e10-dcf1-4a7b-bf11-ccfed9040e6d
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: ht
-source-wordcount: '696'
-ht-degree: 100%
+source-git-commit: 6a155c50d31e789381c1151e9ee9c091e62c909e
+workflow-type: tm+mt
+source-wordcount: '827'
+ht-degree: 86%
 
 ---
 
@@ -129,3 +129,29 @@ Cambie el [!UICONTROL Formato de campo] en las columnas [!UICONTROL Comenzar el]
 1. Seleccione la columna de [!UICONTROL Vence el] y seguidamente haga clic en [!UICONTROL Opciones avanzadas].
 1. En el menú desplegable [!UICONTROL Formato de campo] seleccione [!UICONTROL &quot;10/17/60 3:00 AM&quot;].
 1. Haga clic en **[!UICONTROL Guardar]**.
+
+## Actividad 4: crear una vista del estado activo de una plantilla de proyecto
+
+Cualquiera que administre plantillas de proyecto apreciará ver el estado activo (Verdadero o Falso) de cada plantilla en una lista. Mejor aún: el campo se puede editar en línea.
+
+Cree una vista de plantilla de proyecto denominada &quot;Estado activo de la plantilla del proyecto&quot; con las siguientes columnas:
+
+* [!UICONTROL Nombre]
+* [!UICONTROL Propietario]
+* [!UICONTROL Duración]
+* [!UICONTROL Horas planificadas]
+* [!UICONTROL Costo planificado]
+* [!UICONTROL Indicadores]
+* [!UICONTROL Nombre de grupo]
+* [!UICONTROL Está activo]
+
+
+## Respuesta de actividad 4
+
+![Imagen de la pantalla que muestra la vista de estado activo de una plantilla de proyecto](assets/view-activity-4.png)
+
+1. En una lista de plantillas de proyecto, vaya a **[!UICONTROL Ver]** menú desplegable y seleccione **[!UICONTROL Nueva vista]**.
+1. Asigne a la vista el nombre &quot;Estándar+estado activo&quot;.
+1. Haga clic en **[!UICONTROL Añadir columna]**.
+1. En el [!UICONTROL Mostrar en esta columna] , escriba &quot;is&quot; y seleccione &quot;Is Active&quot; en el campo [!UICONTROL Plantilla] origen del campo.
+1. Clic **[!UICONTROL Guardar vista]**.
