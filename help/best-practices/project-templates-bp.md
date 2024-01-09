@@ -6,10 +6,10 @@ role: Admin, Leader, User
 level: Beginner
 jira: KT-10919
 exl-id: 17cd2e49-ee16-4b80-a8b2-ccc254fa8014
-source-git-commit: 6a155c50d31e789381c1151e9ee9c091e62c909e
+source-git-commit: d39151288d8b749940c5183063392ee471769445
 workflow-type: tm+mt
-source-wordcount: '1705'
-ht-degree: 61%
+source-wordcount: '1743'
+ht-degree: 60%
 
 ---
 
@@ -190,6 +190,8 @@ Revise y actualice regularmente las plantillas de proyecto.
 
 A medida que cambian los procesos y los equipos, las plantillas de proyecto deben actualizarse. Establezca una cadencia regular, como trimestral, para comprobar y ver qué plantillas no se utilizan de forma activa. Puede desactivarlos para que sigan en Workfront, pero no aparecerán en las listas de selección de plantillas.
 
+Para obtener instrucciones sobre cómo desactivar una plantilla de proyecto, consulte [Desactivar una plantilla de proyecto](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/create-and-manage-project-templates/deactivate-a-project-template.html).
+
 </br>
 </br>
 
@@ -245,4 +247,4 @@ Cuando crea una plantilla a partir de un proyecto existente, a menos que elija l
 
 Todos estos usuarios se incluirán como parte del equipo del proyecto, en las secciones Personas y Programación del proyecto. Como resultado, se propagarán a todos los proyectos creados a partir de esa plantilla. Esto podría causar confusión al usuario porque, como parte del equipo del proyecto, recibe notificaciones sobre la actividad en el proyecto, ve el proyecto en la lista Proyectos en los que estoy y obtiene permisos para el proyecto y sus tareas, problemas y documentos.
 
-
+Para obtener instrucciones sobre cómo editar el equipo del proyecto en una plantilla de proyecto, consulte [Editar el equipo del proyecto en una plantilla de proyecto](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/create-and-manage-project-templates/edit-the-project-team-in-a-project-template.html).

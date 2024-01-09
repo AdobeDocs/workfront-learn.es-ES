@@ -12,9 +12,9 @@ last-substantial-update: 2023-06-20T00:00:00Z
 jira: KT-8854
 exl-id: ba3c0e10-dcf1-4a7b-bf11-ccfed9040e6d
 doc-type: video
-source-git-commit: 6a155c50d31e789381c1151e9ee9c091e62c909e
+source-git-commit: d39151288d8b749940c5183063392ee471769445
 workflow-type: tm+mt
-source-wordcount: '827'
+source-wordcount: '826'
 ht-degree: 86%
 
 ---
@@ -134,7 +134,7 @@ Cambie el [!UICONTROL Formato de campo] en las columnas [!UICONTROL Comenzar el]
 
 Cualquiera que administre plantillas de proyecto apreciará ver el estado activo (Verdadero o Falso) de cada plantilla en una lista. Mejor aún: el campo se puede editar en línea.
 
-Cree una vista de plantilla de proyecto denominada &quot;Estado activo de la plantilla del proyecto&quot; con las siguientes columnas:
+Cree una vista de plantilla de proyecto denominada &quot;Estándar+estado activo&quot; con las siguientes columnas:
 
 * [!UICONTROL Nombre]
 * [!UICONTROL Propietario]
