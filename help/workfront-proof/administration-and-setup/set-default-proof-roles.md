@@ -9,9 +9,9 @@ role: User, Admin
 level: Intermediate
 thumbnail: set-default-proof-roles.png
 jira: KT-10235
-last-substantial-update: 2024-01-23T00:00:00Z
+last-substantial-update: 2024-01-24T00:00:00Z
 exl-id: 77dfb9f1-3242-47ca-a0ce-203b535af156
-source-git-commit: 731005176bc02e3a4d26d00373931fa7444afeea
+source-git-commit: 30748311c14fb8aa6b10c03a74e83f46bdb5dfbf
 workflow-type: tm+mt
 source-wordcount: '359'
 ht-degree: 52%

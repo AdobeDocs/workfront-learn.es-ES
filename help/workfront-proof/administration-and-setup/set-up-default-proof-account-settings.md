@@ -9,9 +9,9 @@ role: User, Admin
 level: Intermediate
 thumbnail: set-up-proof-actual-default-settings.png
 jira: KT-10236
-last-substantial-update: 2024-01-23T00:00:00Z
+last-substantial-update: 2024-01-24T00:00:00Z
 exl-id: 6eda8bcd-ab0f-4e02-9080-64b6051b327f
-source-git-commit: 731005176bc02e3a4d26d00373931fa7444afeea
+source-git-commit: 30748311c14fb8aa6b10c03a74e83f46bdb5dfbf
 workflow-type: tm+mt
 source-wordcount: '563'
 ht-degree: 58%
