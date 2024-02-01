@@ -3,10 +3,10 @@ user-guide-description: Tutoriales de Workfront
 role: User
 level: Beginner
 feature-set: Workfront
-source-git-commit: 74af2d2eebceded98ef9c26db15e66c1ea830c55
+source-git-commit: 2134c921e39a549808bb11235b32e25903f77df4
 workflow-type: tm+mt
-source-wordcount: '2378'
-ht-degree: 97%
+source-wordcount: '2385'
+ht-degree: 96%
 
 ---
 
@@ -148,6 +148,7 @@ ht-degree: 97%
       + [Explicación de la configuración de una solicitud de flujo](manage-work/request-queues/understand-settings-for-a-flow-request.md)
       + [Crear una cola de solicitudes](manage-work/request-queues/create-a-request-queue.md)
       + [Crear un flujo de solicitud](manage-work/request-queues/create-a-request-flow.md)
+      + [Crear una cola de solicitudes de comentarios de administrador del sistema](manage-work/request-queues/create-a-system-admin-feedback-request-queue.md)
       + [Respuestas a preguntas comunes sobre las colas de solicitud](manage-work/request-queues/request-queue-faq.md)
 
    + Portafolios {#portfolios}
