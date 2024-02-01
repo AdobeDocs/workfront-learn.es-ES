@@ -11,9 +11,9 @@ thumbnail: 335154.png
 jira: KT-8859
 exl-id: 90bad2e8-9cd2-4ae7-973b-eeab9d615bef
 doc-type: video
-source-git-commit: 2134c921e39a549808bb11235b32e25903f77df4
+source-git-commit: 8cd01b3dca3a62c1d8699d7d076dccddf2010907
 workflow-type: tm+mt
-source-wordcount: '793'
+source-wordcount: '794'
 ht-degree: 47%
 
 ---
@@ -101,7 +101,7 @@ Incluya instrucciones para lo siguiente:
 
 ## Actividad 2: Crear un informe de comentarios del equipo de administración
 
-Este es un informe de problemas que muestra todos los problemas de una cola de solicitudes de comentarios creada para los administradores del sistema. Puede ver cómo crear esta cola de solicitudes en la **Crear una cola de solicitudes de comentarios de administrador del sistema** tutorial.
+Este es un informe de problemas que muestra todos los problemas de una cola de solicitudes de comentarios creada para los administradores del sistema. Puede ver cómo crear esta cola de solicitudes en la [Crear una cola de solicitudes de comentarios de administrador del sistema](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/request-queues/create-a-system-admin-feedback-request-queue.html) tutorial.
 
 Este informe también utiliza un formulario personalizado. Para obtener información sobre cómo crear un formulario personalizado, consulte la [Crear y compartir un formulario personalizado](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/custom-data/custom-forms/custom-forms-creating-and-sharing-a-custom-form.html) tutorial.
 
@@ -159,7 +159,8 @@ Filtre por el ID del proyecto de la cola de solicitudes donde residen los proble
    ![Imagen de la pantalla para crear columnas de informe de problemas](assets/task-report-activity-2-1.png)
 
    * [!UICONTROL Problema] > [!UICONTROL Nombre]
-   * [!UICONTROL Contacto principal] > [!UICONTROL Nombre] Nota: Aparece con &quot;Propietario:Nombre&quot; como etiqueta de columna. Puede cambiarlo a &quot;Notificado por&quot; haciendo clic en Opciones avanzadas y escribiendo &quot;Notificado por&quot; en **Etiqueta de columna personalizada** field.
+   * [!UICONTROL Contacto principal] > [!UICONTROL Nombre]
+      * Nota: Aparece con &quot;Propietario:Nombre&quot; como etiqueta de columna. Puede cambiarlo a &quot;Notificado por&quot; haciendo clic en Opciones avanzadas y escribiendo &quot;Notificado por&quot; en **Etiqueta de columna personalizada** field.
    * [!UICONTROL Problema] > [!UICONTROL Tipo de proceso]
    * [!UICONTROL Problema] > [!UICONTROL Nombre del proceso]
    * [!UICONTROL Problema] > [!UICONTROL Grado del proceso]
