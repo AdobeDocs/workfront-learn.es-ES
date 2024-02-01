@@ -11,7 +11,7 @@ team: Technical Marketing
 last-substantial-update: 2024-02-01T00:00:00Z
 jira: KT-14864
 doc-type: video
-source-git-commit: 2134c921e39a549808bb11235b32e25903f77df4
+source-git-commit: a371abf052a0ef37edc31fa1e0b02d8265567447
 workflow-type: tm+mt
 source-wordcount: '152'
 ht-degree: 5%
@@ -37,6 +37,5 @@ En este vídeo aprenderá:
 >[!VIDEO](https://video.tv.adobe.com/v/3427124/?quality=12&learn=on)
 
 Para obtener información sobre cómo crear el **Informe de comentarios del equipo de administración** Si utiliza en el vídeo, consulte el [Crear un informe de tareas](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-task-report.html?lang=es) y busque la actividad para **Crear un informe de comentarios del equipo de administración** siguiendo el vídeo.
-<br>
-<br>
+
 Para obtener información sobre cómo crear un formulario personalizado, consulte la [Crear y compartir un formulario personalizado](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/custom-data/custom-forms/custom-forms-creating-and-sharing-a-custom-form.html) tutorial.
