@@ -2,7 +2,7 @@
 title: Crear una cola de solicitudes de comentarios de administrador del sistema
 description: Obtenga información sobre cómo crear una cola de solicitudes útil donde los administradores puedan obtener comentarios sobre los flujos de trabajo y los procesos.
 feature: Work Management
-thumbnail: create-a-system-admin-feedback-request-queue.jpg
+thumbnail: 3427124.jpg
 type: Tutorial
 role: Admin
 level: Intermediate
@@ -11,7 +11,7 @@ team: Technical Marketing
 last-substantial-update: 2024-02-01T00:00:00Z
 jira: KT-14864
 doc-type: video
-source-git-commit: a371abf052a0ef37edc31fa1e0b02d8265567447
+source-git-commit: 104e03ccca2faeae5379698a6c7e5066d49db120
 workflow-type: tm+mt
 source-wordcount: '152'
 ht-degree: 5%
