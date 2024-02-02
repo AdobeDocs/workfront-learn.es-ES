@@ -3,9 +3,9 @@ user-guide-description: Tutoriales de Workfront
 role: User
 level: Beginner
 feature-set: Workfront
-source-git-commit: 2134c921e39a549808bb11235b32e25903f77df4
+source-git-commit: 9d918e0a18ddf5a901086bbfbc92dfddd7eae392
 workflow-type: tm+mt
-source-wordcount: '2385'
+source-wordcount: '2382'
 ht-degree: 96%
 
 ---
@@ -177,7 +177,6 @@ ht-degree: 96%
       + [Seguimiento del progreso desde la cronología del proyecto](manage-work/project-timelines/track-work-progress-from-the-project-timeline.md)
 
    + Cierre de un proyecto {#close-a-project}
-      + [Cierre de un proyecto](manage-work/close-a-project/close-a-project-in-workfront.md)
       + [Cambiar el estado del proyecto a completo](manage-work/projects/change-the-project-status.md)
       + [Cerrar tareas y problemas](manage-work/close-a-project/close-tasks-and-issues.md)
       + [Aprobaciones completas](manage-work/close-a-project/complete-approvals.md)
