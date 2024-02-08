@@ -9,10 +9,11 @@ role: User
 level: Beginner
 jira: KT-9001
 exl-id: 78408bf8-e676-4e49-b023-5ea0a6999229
+recommendations: noDisplay,noCatalog
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: ht
-source-wordcount: '131'
+source-git-commit: 7cd5e383310f48660955b9e953a7baf13530b105
+workflow-type: tm+mt
+source-wordcount: '113'
 ht-degree: 100%
 
 ---
@@ -33,9 +34,7 @@ Este vídeo contiene información sobre:
 
 >[!VIDEO](https://video.tv.adobe.com/v/335261/?quality=12&learn=on)
 
->[!TIP]
->
->Para obtener instrucciones paso a paso sobre cómo completar el tutorial, vaya al ejercicio [Tutorial de diseño del escenario inicial](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/exercises/initial-scenario-design.html?lang=es).
+Para obtener instrucciones paso a paso sobre cómo completar el tutorial, vaya al ejercicio [Tutorial de diseño del escenario inicial](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/exercises/initial-scenario-design.html?lang=es).
 
 
 
