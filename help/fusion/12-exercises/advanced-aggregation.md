@@ -1,5 +1,5 @@
 ---
-title: Agregación avanzada
+title: Ejercicio de agregación avanzado
 description: Llame a un servicio web para devolver detalles sobre varios países e identificar la población, agrupada por subregión.
 activity: use
 team: Technical Marketing
@@ -9,15 +9,16 @@ role: User
 level: Beginner
 jira: KT-11048
 thumbnail: KT11048.png
+recommendations: noDisplay,noCatalog
 exl-id: 5364befa-491d-4b75-b1f0-10244f70ad7c
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: a4e61514567ac8c2b4ad5c9ecacb87bd83947731
 workflow-type: tm+mt
-source-wordcount: '481'
-ht-degree: 100%
+source-wordcount: '493'
+ht-degree: 98%
 
 ---
 
-# Agregación avanzada
+# Ejercicio de agregación avanzado
 
 Obtenga información sobre cómo utilizar las agrupaciones al agregarlas.
 

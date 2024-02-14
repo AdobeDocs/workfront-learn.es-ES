@@ -9,17 +9,18 @@ role: User
 level: Beginner
 jira: KT-9071
 exl-id: b0613d86-9eed-46a9-bc31-6ad406382047
+recommendations: noDisplay,noCatalog
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: a4e61514567ac8c2b4ad5c9ecacb87bd83947731
 workflow-type: tm+mt
-source-wordcount: '169'
-ht-degree: 100%
+source-wordcount: '160'
+ht-degree: 91%
 
 ---
 
 # Optimización del escenario de Workfront Fusion
 
-¿Qué es la “optimización del escenario” y qué puede hacer para optimizar los escenarios?
+¿Qué es la &quot;optimización de escenarios&quot; y qué puede hacer para optimizarlos?
 
 La optimización del escenario es una habilidad practicada que requiere tiempo y dedicación para desarrollarse. Su primer intento de crear un escenario para un resultado comercial no debe ser el último. Los escenarios deben iterarse desde el primer día hasta que se inicie la integración. Incluso después del lanzamiento, los escenarios deben revisarse y actualizarse a lo largo de su vida útil para mantenerse al día con los cambios de comportamiento y del negocio.
 

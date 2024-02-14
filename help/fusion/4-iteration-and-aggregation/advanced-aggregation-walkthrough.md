@@ -9,10 +9,11 @@ role: User
 level: Beginner
 jira: KT-9040
 exl-id: c79250d0-7341-4a25-83dc-de99ce5c6dc4
+recommendations: noDisplay,noCatalog
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: a4e61514567ac8c2b4ad5c9ecacb87bd83947731
 workflow-type: tm+mt
-source-wordcount: '278'
+source-wordcount: '245'
 ht-degree: 100%
 
 ---
@@ -34,9 +35,7 @@ Workfront recomienda ver el vídeo tutorial del ejercicio antes de intentar recr
 * `https://restcountries.com/v2/lang/es`
 * `https://restcountries.com/v2/name/{country name}`
 
->[!TIP]
->
->Para obtener instrucciones paso a paso sobre cómo completar el tutorial, vaya al ejercicio [Tutorial de agregación avanzada](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/exercises/advanced-aggregation.html?lang=es).
+
 
 ## Fortalecimiento del principio de agregación
 

@@ -9,10 +9,11 @@ role: User
 level: Beginner
 jira: KT-9060
 exl-id: 0d718e87-2faa-47d7-97d9-314071b329cb
+recommendations: noDisplay,noCatalog
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: a4e61514567ac8c2b4ad5c9ecacb87bd83947731
 workflow-type: tm+mt
-source-wordcount: '130'
+source-wordcount: '96'
 ht-degree: 100%
 
 ---
@@ -33,9 +34,6 @@ Este vídeo contiene información sobre:
 
 >[!VIDEO](https://video.tv.adobe.com/v/335301/?quality=12&learn=on)
 
->[!TIP]
->
->Para obtener instrucciones paso a paso sobre cómo completar el tutorial, vaya al ejercicio [Uso del tutorial de JSON](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/exercises/working-with-json.html?lang=es).
 
 
 ## ¿Desea obtener más información? Recomendamos lo siguiente:

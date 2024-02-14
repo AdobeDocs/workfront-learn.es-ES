@@ -9,10 +9,11 @@ role: User
 level: Beginner
 jira: KT-9017
 exl-id: bd329144-4c4c-451f-9340-265fbdb5b249
+recommendations: noDisplay,noCatalog
 doc-type: video
-source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
+source-git-commit: a4e61514567ac8c2b4ad5c9ecacb87bd83947731
 workflow-type: tm+mt
-source-wordcount: '214'
+source-wordcount: '181'
 ht-degree: 100%
 
 ---
@@ -29,9 +30,6 @@ Workfront recomienda ver el vídeo tutorial del ejercicio antes de intentar recr
 
 >[!VIDEO](https://video.tv.adobe.com/v/335276/?quality=12&learn=on)
 
->[!TIP]
->
->Para obtener instrucciones paso a paso sobre cómo completar el tutorial, vaya al ejercicio [Tutorial de las variables Set/Get](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/exercises/set-get-variables.html?lang=es).
 
 ## Su turno
 

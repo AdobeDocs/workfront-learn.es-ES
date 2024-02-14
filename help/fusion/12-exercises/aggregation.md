@@ -1,5 +1,5 @@
 ---
-title: Agregación
+title: Ejercicio de acumulación
 description: Aprenda a acumular varios paquetes de información en un solo valor.
 activity: use
 team: Technical Marketing
@@ -9,15 +9,16 @@ role: User
 level: Beginner
 jira: KT-11047
 thumbnail: KT11047.png
+recommendations: noDisplay,noCatalog
 exl-id: 4626b623-8b05-41be-9cfc-917e28222855
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: a4e61514567ac8c2b4ad5c9ecacb87bd83947731
 workflow-type: tm+mt
-source-wordcount: '294'
-ht-degree: 100%
+source-wordcount: '302'
+ht-degree: 98%
 
 ---
 
-# Agregación
+# Ejercicio de acumulación
 
 Aprenda a acumular varios paquetes de información en un solo valor.
 

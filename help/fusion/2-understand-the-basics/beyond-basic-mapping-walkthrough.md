@@ -9,10 +9,11 @@ role: User
 level: Beginner
 jira: KT-9004
 exl-id: 3161f088-2d94-4a05-9151-d4ddc638afb0
+recommendations: noDisplay,noCatalog
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: a4e61514567ac8c2b4ad5c9ecacb87bd83947731
 workflow-type: tm+mt
-source-wordcount: '296'
+source-wordcount: '264'
 ht-degree: 100%
 
 ---
@@ -29,9 +30,6 @@ Workfront recomienda ver el vídeo tutorial del ejercicio antes de intentar recr
 
 >[!VIDEO](https://video.tv.adobe.com/v/335264/?quality=12&learn=on)
 
->[!TIP]
->
->Para obtener instrucciones paso a paso sobre cómo completar el tutorial, vaya al ejercicio [Más allá del tutorial de asignación básico](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/exercises/beyond-basic-mapping.html?lang=es).
 
 ## Su turno
 

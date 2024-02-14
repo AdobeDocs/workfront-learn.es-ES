@@ -1,5 +1,5 @@
 ---
-title: Patrones de enrutamiento
+title: Ejercicio de patrones de enrutamiento
 description: Refuerce su concepto de enrutamiento y rutas de reserva sin tener que lidiar con ninguna otra API.
 activity: use
 team: Technical Marketing
@@ -9,15 +9,16 @@ role: User
 level: Beginner
 jira: KT-11044
 thumbnail: KT11044.png
+recommendations: noDisplay,noCatalog
 exl-id: d8218115-5180-4e64-8ec1-d2d6afc88d23
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: a4e61514567ac8c2b4ad5c9ecacb87bd83947731
 workflow-type: tm+mt
-source-wordcount: '344'
-ht-degree: 100%
+source-wordcount: '361'
+ht-degree: 98%
 
 ---
 
-# Patrones de enrutamiento
+# Ejercicio de patrones de enrutamiento
 
 Refuerce su concepto de enrutamiento y rutas de reserva sin tener que lidiar con ninguna otra API.
 

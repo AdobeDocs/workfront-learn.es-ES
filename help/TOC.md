@@ -3,10 +3,10 @@ user-guide-description: Tutoriales de Workfront
 role: User
 level: Beginner
 feature-set: Workfront
-source-git-commit: b1b9159078ecc389338d6bc6bd31e38ea3149149
+source-git-commit: a4e61514567ac8c2b4ad5c9ecacb87bd83947731
 workflow-type: tm+mt
-source-wordcount: '2389'
-ht-degree: 96%
+source-wordcount: '2408'
+ht-degree: 94%
 
 ---
 
@@ -384,50 +384,68 @@ ht-degree: 96%
 
    + Comprender los conceptos básicos {#understand-the-basics}
       + [Tutorial inicial en el diseño de escenarios](fusion/2-understand-the-basics/initial-scenario-design-walkthrough.md)
+      + [Ejercicio de diseño del escenario inicial](fusion/12-exercises/initial-scenario-design.md)
       + [Panel de asignación y editor de fórmulas](fusion/2-understand-the-basics/mapping-panel-and-formula-editor.md)
       + [Asignación de notas importantes del panel](fusion/2-understand-the-basics/mapping-panel-important-notes.md)
       + [Más allá del tutorial de asignación básico](fusion/2-understand-the-basics/beyond-basic-mapping-walkthrough.md)
+      + [Más allá del ejercicio de mapeo básico](fusion/12-exercises/beyond-basic-mapping.md)
       + [Uso de filtros](fusion/2-understand-the-basics/use-filters.md)
       + [Tutorial de filtros](fusion/2-understand-the-basics/filters-walkthrough.md)
+      + [Ejercicio de filtros](fusion/12-exercises/filters.md)
       + [Tutorial de Acceso a versiones anteriores](fusion/2-understand-the-basics/access-previous-versions-walkthrough.md)
+      + [Ejercicio de acceso a versiones anteriores](fusion/12-exercises/access-previous-versions.md)
 
    + Conectores universales y enrutamiento {#universal-connectors-and-routing}
       + [Información general sobre el ejercicio de conectores universales](fusion/3-universal-connectors-and-routing/universal-connectors-exercise-overview.md)
       + [Tutorial de introducción a los conectores universales](fusion/3-universal-connectors-and-routing/introduction-to-universal-connectors-walkthrough.md)
+      + [Introducción al ejercicio de conectores universales](fusion/12-exercises/introduction-to-universal-connectors.md)
       + [Entender los enrutadores](fusion/3-universal-connectors-and-routing/understand-routers.md)
       + [Recorrido por los enrutadores](fusion/3-universal-connectors-and-routing/routers-walkthrough.md)
+      + [Ejercicio de enrutadores](fusion/12-exercises/routers.md)
       + [Patrones de enrutamiento comunes](fusion/3-universal-connectors-and-routing/common-routing-patterns.md)
       + [Tutorial de patrones de enrutamiento](fusion/3-universal-connectors-and-routing/routing-patterns-walkthrough.md)
+      + [Ejercicio de patrones de enrutamiento](fusion/12-exercises/routing-patterns.md)
       + [Establecer y obtener](fusion/3-universal-connectors-and-routing/set-it-and-get-it.md)
       + [Tutorial de las variables Get/Set](fusion/3-universal-connectors-and-routing/get-set-variables-walkthrough.md)
+      + [Ejercicio Set/Get variables](fusion/12-exercises/set-get-variables.md)
 
    + Iteración y agregación {#iteration-and-aggregation}
       + [Introducción a los iteradores](fusion/4-iteration-and-aggregation/introduction-to-iterators.md)
       + [Introducción al tutorial de iteradores](fusion/4-iteration-and-aggregation/introduction-to-iterators-walkthrough.md)
+      + [Introducción al ejercicio de iteradores](fusion/12-exercises/introduction-to-iterators-exercise.md)
       + [Introducción a las agregaciones](fusion/4-iteration-and-aggregation/introduction-to-aggregations.md)
       + [Tutorial de agregación](fusion/4-iteration-and-aggregation/aggregation-walkthrough.md)
+      + [Ejercicio de acumulación](fusion/12-exercises/aggregation.md)
       + [Tutorial de agregación avanzada](fusion/4-iteration-and-aggregation/advanced-aggregation-walkthrough.md)
+      + [Ejercicio de agregación avanzado](fusion/12-exercises/advanced-aggregation.md)
 
    + Historial de ejecución y programación {#execution-history-and-scheduling}
       + [Introducción al historial de ejecución](fusion/5-execution-history-and-scheduling/introduction-to-execution-history.md)
       + [Tutorial del historial de ejecución](fusion/5-execution-history-and-scheduling/execution-history-walkthrough.md)
+      + [Ejercicio de historial de ejecución](fusion/12-exercises/execution-history.md)
       + [Información sobre la programación del escenario](fusion/5-execution-history-and-scheduling/understand-scenario-scheduling.md)
       + [El equilibrador ejecuta ciclos y paquetes](fusion/5-execution-history-and-scheduling/balance-runs-cycles-and-bundles.md)
       + [Ejecuta el tutorial de ciclos y paquetes](fusion/5-execution-history-and-scheduling/runs-cycles-and-bundles-walkthrough.md)
+      + [Exploración de carreras, ciclos y paquetes de ejercicios](fusion/12-exercises/exploring-runs-cycles-and-bundles.md)
 
    + Más allá de los módulos básicos {#beyond-basic-modules}
       + [Familiarícese con las aplicaciones adicionales y los módulos comunes](fusion/6-beyond-basic-modules/become-familiar-with-additional-apps-and-common-modules.md)
       + [Cambiar hacia arriba](fusion/6-beyond-basic-modules/switch-it-up.md)
       + [Tutorial de funciones de conmutación](fusion/6-beyond-basic-modules/switch-function-walkthrough.md)
+      + [Ejercicio de función de cambio](fusion/12-exercises/switch-function.md)
       + [Recorrido por el módulo Switch](fusion/6-beyond-basic-modules/switch-module-walkthrough.md)
+      + [Cambiar ejercicio del módulo](fusion/12-exercises/switch-module.md)
       + [Comprender el mundo de los webhook](fusion/6-beyond-basic-modules/understand-the-webhook-world.md)
       + [Tutorial de webhooks](fusion/6-beyond-basic-modules/webhooks-walkthrough.md)
+      + [Ejercicio de webhooks](fusion/12-exercises/webhooks.md)
 
    + Estructuras de datos y almacenes de datos {#data-structures-and-data-stores}
       + [Explicación de las estructuras de datos](fusion/7-data-structures-and-data-stores/understand-data-structures.md)
       + [Tutorial de estructuras de datos](fusion/7-data-structures-and-data-stores/data-structures-walkthrough.md)
+      + [Ejercicio de estructuras de datos](fusion/12-exercises/data-structures.md)
       + [Comprender los almacenes de datos](fusion/7-data-structures-and-data-stores/understand-data-stores.md)
       + [Tutorial de los almacenes de datos](fusion/7-data-structures-and-data-stores/data-stores-walkthrough.md)
+      + [Ejercicio de almacenes de datos](fusion/12-exercises/data-stores.md)
 
    + Bits y bobs funcionales finales {#final-functional-bits-and-bobs}
       + [Tutorial de la aplicación Workfront](fusion/8-final-functional-bits-and-bobs/workfront-app-walkthrough.md)
@@ -435,10 +453,12 @@ ht-degree: 96%
       + [Tutorial de matrices](fusion/8-final-functional-bits-and-bobs/arrays-walkthrough.md)
       + [Comprender JSON en escenarios](fusion/8-final-functional-bits-and-bobs/understand-json-in-scenarios.md)
       + [Uso del tutorial de JSON](fusion/8-final-functional-bits-and-bobs/working-with-json-walkthrough.md)
+      + [Trabajar con el ejercicio JSON](fusion/12-exercises/working-with-json.md)
 
    + Solución de problemas y gestión de errores {#troubleshooting-and-error-handling}
       + [Solución de problemas avanzada con la herramienta de desarrollo](fusion/9-troubleshooting-and-error-handling/advanced-troubleshooting-with-the-dev-tool.md)
       + [Tutorial de la herramienta de desarrollo](fusion/9-troubleshooting-and-error-handling/dev-tool-walkthrough.md)
+      + [Ejercicio de herramienta de desarrollo](fusion/12-exercises/devtool.md)
       + [Qué es la gestión de errores](fusion/9-troubleshooting-and-error-handling/what-is-error-handling.md)
       + [Comprender las directivas de la gestión de errores](fusion/9-troubleshooting-and-error-handling/understand-error-handling-directives.md)
       + [Tutorial de gestión de errores](fusion/9-troubleshooting-and-error-handling/error-handling-walkthrough.md)
@@ -455,27 +475,6 @@ ht-degree: 96%
       + [Accesibilidad y claridad](fusion/11-design-optimization-and-testing/accessibility-and-clarity.md)
       + [Protecciones del escenario](fusion/11-design-optimization-and-testing/scenario-guardrails.md)
       + [Prueba e inicio](fusion/11-design-optimization-and-testing/testing-considerations.md)
-   + Ejercicios {#exercises}
-      + [Diseño del escenario inicial](fusion/12-exercises/initial-scenario-design.md)
-      + [Más allá de la asignación básica](fusion/12-exercises/beyond-basic-mapping.md)
-      + [Filtros](fusion/12-exercises/filters.md)
-      + [Acceso a versiones anteriores](fusion/12-exercises/access-previous-versions.md)
-      + [Introducción a los conectores universales](fusion/12-exercises/introduction-to-universal-connectors.md)
-      + [Enrutadores](fusion/12-exercises/routers.md)
-      + [Patrones de enrutamiento](fusion/12-exercises/routing-patterns.md)
-      + [Variables Set/Get](fusion/12-exercises/set-get-variables.md)
-      + [Introducción a los iteradores](fusion/12-exercises/introduction-to-iterators-exercise.md)
-      + [Agregación](fusion/12-exercises/aggregation.md)
-      + [Agregación avanzada](fusion/12-exercises/advanced-aggregation.md)
-      + [Historial de ejecución](fusion/12-exercises/execution-history.md)
-      + [Exploración de ciclos de ejecución y paquetes](fusion/12-exercises/exploring-runs-cycles-and-bundles.md)
-      + [Función de conmutación](fusion/12-exercises/switch-function.md)
-      + [Módulo de conmutación](fusion/12-exercises/switch-module.md)
-      + [Webhooks](fusion/12-exercises/webhooks.md)
-      + [Estructuras de datos](fusion/12-exercises/data-structures.md)
-      + [Almacenes de datos](fusion/12-exercises/data-stores.md)
-      + [Trabajar con JSON](fusion/12-exercises/working-with-json.md)
-      + [Herramienta de desarrollo](fusion/12-exercises/devtool.md)
 
 + Revisión de Workfront {#workfront-proof}
    + [Conozca las ventajas de las pruebas](workfront-proof/benefits-of-proofing-in-workfront.md)

@@ -9,10 +9,11 @@ role: User
 level: Beginner
 jira: KT-9013
 exl-id: 6c111e5b-1c8f-43fd-9e2d-16599de2a337
+recommendations: noDisplay,noCatalog
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: ht
-source-wordcount: '878'
+source-git-commit: a4e61514567ac8c2b4ad5c9ecacb87bd83947731
+workflow-type: tm+mt
+source-wordcount: '853'
 ht-degree: 100%
 
 ---
@@ -37,9 +38,6 @@ Workfront recomienda ver el vídeo tutorial del ejercicio antes de intentar recr
 
 Si tiene problemas para acceder a su propio token de superhéroe, puede utilizar este token compartido: 10110256647253588. Tenga en cuenta cuántas veces llama a la API de superhéroe para que este token compartido siga funcionando para todos.
 
->[!TIP]
->
->Para obtener instrucciones paso a paso sobre cómo completar el tutorial, vaya al ejercicio [Tutorial de enrutadores](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/exercises/routers.html?lang=es).
 
 
 ## Buscar elementos en el panel de asignación

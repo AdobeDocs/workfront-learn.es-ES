@@ -9,11 +9,12 @@ role: User
 level: Beginner
 jira: KT-9020
 exl-id: 1ecc04a7-b7f0-4285-ab87-160396cc13bc
+recommendations: noDisplay,noCatalog
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: a4e61514567ac8c2b4ad5c9ecacb87bd83947731
 workflow-type: tm+mt
-source-wordcount: '131'
-ht-degree: 100%
+source-wordcount: '99'
+ht-degree: 67%
 
 ---
 
@@ -21,7 +22,7 @@ ht-degree: 100%
 
 ## Información general
 
-Con el escenario “Introducción a la iteración” que creó en el último tutorial, agregue las horas planificadas en cada tarea en funcionamiento del proyecto y envíese un correo electrónico con esa información.
+Utilizando el escenario &quot;Introducción a la iteración&quot; creado en el último tutorial, agregue las horas planificadas en cada tarea de trabajo del proyecto y envíese un correo electrónico con esa información.
 
 ![Una imagen del escenario de Fusion](assets/iteration-and-aggregation-2.png)
 
@@ -31,9 +32,6 @@ Workfront recomienda ver el vídeo tutorial del ejercicio antes de intentar recr
 
 >[!VIDEO](https://video.tv.adobe.com/v/335280/?quality=12&learn=on)
 
->[!TIP]
->
->Para obtener instrucciones paso a paso sobre cómo completar el tutorial, vaya al ejercicio [Tutorial de agregación](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/exercises/aggregation.html?lang=es).
 
 
 ## ¿Desea obtener más información? Recomendamos lo siguiente:

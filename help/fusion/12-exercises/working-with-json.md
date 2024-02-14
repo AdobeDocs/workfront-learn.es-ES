@@ -1,5 +1,5 @@
 ---
-title: Trabajar con JSON
+title: Trabajar con el ejercicio JSON
 description: Aprenda a crear y analizar JSON en un escenario para satisfacer sus necesidades de diseño.
 activity: use
 team: Technical Marketing
@@ -9,15 +9,16 @@ role: User
 level: Beginner
 jira: KT-11056
 thumbnail: KT11056.png
+recommendations: noDisplay,noCatalog
 exl-id: 72d5159e-72e5-4202-90de-753b3d7626de
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: a4e61514567ac8c2b4ad5c9ecacb87bd83947731
 workflow-type: tm+mt
-source-wordcount: '485'
-ht-degree: 100%
+source-wordcount: '496'
+ht-degree: 98%
 
 ---
 
-# Trabajar con JSON
+# Trabajar con el ejercicio JSON
 
 Aprenda a crear y analizar JSON en un escenario para satisfacer sus necesidades de diseño.
 

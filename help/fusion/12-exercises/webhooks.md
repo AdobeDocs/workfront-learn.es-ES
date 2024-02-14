@@ -1,5 +1,5 @@
 ---
-title: Webhooks
+title: Ejercicio de webhooks
 description: Obtenga información sobre cómo crear, activar y administrar escenarios iniciados por los webhooks.
 activity: use
 team: Technical Marketing
@@ -9,15 +9,16 @@ role: User
 level: Beginner
 jira: KT-11053
 thumbnail: KT11053.png
+recommendations: noDisplay,noCatalog
 exl-id: d6a62a26-a8ab-477c-a8f2-98f3b9ff5edf
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: a4e61514567ac8c2b4ad5c9ecacb87bd83947731
 workflow-type: tm+mt
-source-wordcount: '647'
-ht-degree: 100%
+source-wordcount: '654'
+ht-degree: 99%
 
 ---
 
-# Webhooks
+# Ejercicio de webhooks
 
 Obtenga información sobre cómo crear, activar y administrar escenarios iniciados por los webhooks.
 

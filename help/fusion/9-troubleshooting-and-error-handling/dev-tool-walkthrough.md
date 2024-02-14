@@ -9,10 +9,11 @@ role: User
 level: Beginner
 jira: KT-9062
 exl-id: 93717347-6b51-427b-82e3-ca7becbf5f0f
+recommendations: noDisplay,noCatalog
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: a4e61514567ac8c2b4ad5c9ecacb87bd83947731
 workflow-type: tm+mt
-source-wordcount: '164'
+source-wordcount: '131'
 ht-degree: 100%
 
 ---
@@ -28,10 +29,6 @@ Instale y utilice las diferentes áreas de la herramienta de desarrollo de Workf
 Workfront recomienda ver el vídeo tutorial del ejercicio antes de intentar recrear el ejercicio en su propio entorno.
 
 >[!VIDEO](https://video.tv.adobe.com/v/335303/?quality=12&learn=on)
-
->[!TIP]
->
->Para obtener instrucciones paso a paso sobre cómo completar el tutorial, vaya al ejercicio [Recorrido por la herramienta de desarrollo](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/exercises/devtool.html?lang=es).
 
 
 ## Descargue la herramienta de desarrollo

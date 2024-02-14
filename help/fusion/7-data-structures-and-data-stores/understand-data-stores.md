@@ -9,9 +9,10 @@ role: User
 level: Beginner
 jira: KT-9054
 exl-id: d85e52cb-08d0-4a3a-8187-59e63492c1d5
+recommendations: noDisplay,noCatalog
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: ht
+source-git-commit: a4e61514567ac8c2b4ad5c9ecacb87bd83947731
+workflow-type: tm+mt
 source-wordcount: '57'
 ht-degree: 100%
 

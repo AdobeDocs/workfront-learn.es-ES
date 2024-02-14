@@ -1,5 +1,5 @@
 ---
-title: Estructuras de datos
+title: Ejercicio de estructuras de datos
 description: Transformar datos de un archivo de origen a un archivo de destino. (Debe tener entre 60 y 160 caracteres, pero tiene 58 caracteres)
 activity: use
 team: Technical Marketing
@@ -9,15 +9,16 @@ role: User
 level: Beginner
 jira: KT-11054
 thumbnail: KT11054.png
+recommendations: noDisplay,noCatalog
 exl-id: 06a39a87-23f3-4d4a-995e-d32fb9c5f50d
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: a4e61514567ac8c2b4ad5c9ecacb87bd83947731
 workflow-type: tm+mt
-source-wordcount: '1048'
-ht-degree: 100%
+source-wordcount: '1079'
+ht-degree: 99%
 
 ---
 
-# Estructuras de datos
+# Ejercicio de estructuras de datos
 
 Transformar datos de un archivo de origen a un archivo de destino.
 

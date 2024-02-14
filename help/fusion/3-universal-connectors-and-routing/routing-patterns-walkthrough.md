@@ -9,10 +9,11 @@ role: User
 level: Beginner
 jira: KT-9015
 exl-id: 3ba15bf6-b296-4356-9974-1262c5d97602
+recommendations: noDisplay,noCatalog
 doc-type: video
-source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
+source-git-commit: a4e61514567ac8c2b4ad5c9ecacb87bd83947731
 workflow-type: tm+mt
-source-wordcount: '121'
+source-wordcount: '88'
 ht-degree: 100%
 
 ---
@@ -28,10 +29,6 @@ Utilice el módulo de la variable Set para enviar un número a través de varias
 Workfront recomienda ver el vídeo tutorial del ejercicio antes de intentar recrear el ejercicio en su propio entorno.
 
 >[!VIDEO](https://video.tv.adobe.com/v/335274/?quality=12&learn=on)
-
->[!TIP]
->
->Para obtener instrucciones paso a paso sobre cómo completar el tutorial, vaya al ejercicio [Tutorial de patrones de enrutamiento](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/exercises/routing-patterns.html?lang=es).
 
 
 ## ¿Desea obtener más información? Recomendamos lo siguiente:

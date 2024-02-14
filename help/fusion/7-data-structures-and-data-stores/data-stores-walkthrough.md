@@ -9,10 +9,11 @@ role: User
 level: Beginner
 jira: KT-9055
 exl-id: e96fd109-2463-4702-b1bf-b42a6dcd7fc4
+recommendations: noDisplay,noCatalog
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: a4e61514567ac8c2b4ad5c9ecacb87bd83947731
 workflow-type: tm+mt
-source-wordcount: '426'
+source-wordcount: '393'
 ht-degree: 100%
 
 ---
@@ -31,9 +32,6 @@ Workfront recomienda ver el vídeo tutorial del ejercicio antes de intentar recr
 
 >[!VIDEO](https://video.tv.adobe.com/v/335296/?quality=12&learn=on)
 
->[!TIP]
->
->Para obtener instrucciones paso a paso sobre cómo completar el tutorial, vaya al ejercicio [Recorrido por los almacenes de datos](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/exercises/data-stores.html?lang=es).
 
 
 ## Nota final

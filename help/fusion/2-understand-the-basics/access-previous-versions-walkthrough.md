@@ -1,6 +1,6 @@
 ---
 title: Tutorial de Acceso a versiones anteriores
-description: Descubra cómo puede restaurar versiones anteriores después de haber realizado cambios en su escenario y guardarlas en  [!DNL Adobe Workfront Fusion].
+description: Descubra cómo puede restaurar versiones anteriores después de haber realizado cambios en el escenario y haberlos guardado en [!DNL Adobe Workfront Fusion].
 activity: use
 team: Technical Marketing
 type: Tutorial
@@ -9,11 +9,12 @@ role: User
 level: Beginner
 jira: KT-9009
 exl-id: dd2cc2a2-e5af-41cc-bc0d-6be1efd996d9
+recommendations: noDisplay,noCatalog
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: a4e61514567ac8c2b4ad5c9ecacb87bd83947731
 workflow-type: tm+mt
-source-wordcount: '295'
-ht-degree: 100%
+source-wordcount: '263'
+ht-degree: 86%
 
 ---
 
@@ -21,7 +22,7 @@ ht-degree: 100%
 
 En este vídeo, aprenderá lo siguiente:
 
-* Cómo puede restaurar versiones anteriores después de haber realizado cambios en el escenario y de haberlo guardado varias veces.
+* Descubra cómo puede restaurar versiones anteriores después de realizar cambios en el escenario y guardarlo varias veces.
 
 ## Tutorial de Acceso a versiones anteriores
 
@@ -33,9 +34,6 @@ Workfront recomienda ver el vídeo tutorial del ejercicio antes de intentar recr
 >
 >Después de guardar el escenario, hay una nueva versión disponible en el menú de tres puntos si necesita acceder a ella en el futuro. Las versiones de escenarios guardadas anteriormente solo están disponibles durante 60 días. Si necesita acceder a versiones anteriores de más de 60 días con fines de auditoría, Workfront recomienda guardar un modelo del escenario y archivarlo en una ubicación determinada.
 
->[!TIP]
->
->Para obtener instrucciones paso a paso sobre cómo completar el tutorial, vaya al ejercicio [Acceso al tutorial de versiones anteriores](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/exercises/access-previous-versions.html?lang=es).
 
 ## Añadir a la terminología
 

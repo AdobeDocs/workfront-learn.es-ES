@@ -1,5 +1,5 @@
 ---
-title: Historial de ejecución
+title: Ejercicio de historial de ejecución
 description: Revise y audite detalles sobre ejecuciones anteriores y configuraciones de escenario.
 activity: use
 team: Technical Marketing
@@ -9,15 +9,16 @@ role: User
 level: Beginner
 jira: KT-11049
 thumbnail: KT11049.png
+recommendations: noDisplay,noCatalog
 exl-id: 5ccbf773-fdb2-4886-b315-e5c9daa72554
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: a4e61514567ac8c2b4ad5c9ecacb87bd83947731
 workflow-type: tm+mt
-source-wordcount: '282'
-ht-degree: 100%
+source-wordcount: '292'
+ht-degree: 97%
 
 ---
 
-# Historial de ejecución
+# Ejercicio de historial de ejecución
 
 Revise y audite detalles sobre ejecuciones anteriores y configuraciones de escenario.
 

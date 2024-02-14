@@ -1,5 +1,5 @@
 ---
-title: Módulo de conmutación
+title: Cambiar ejercicio del módulo
 description: Obtenga información sobre cómo utilizar el módulo de cambio cuando necesite realizar transformaciones de datos más complejas o dinámicas.
 activity: use
 team: Technical Marketing
@@ -9,15 +9,16 @@ role: User
 level: Beginner
 jira: KT-11052
 thumbnail: KT11052.png
+recommendations: noDisplay,noCatalog
 exl-id: 1b810168-582d-4d7d-b061-d152af546bc8
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: a4e61514567ac8c2b4ad5c9ecacb87bd83947731
 workflow-type: tm+mt
-source-wordcount: '319'
-ht-degree: 100%
+source-wordcount: '327'
+ht-degree: 98%
 
 ---
 
-# Módulo de conmutación
+# Cambiar ejercicio del módulo
 
 Obtenga información sobre cómo utilizar el módulo de cambio cuando necesite realizar transformaciones de datos más complejas o dinámicas.
 
