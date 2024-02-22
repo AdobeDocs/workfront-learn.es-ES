@@ -2,7 +2,7 @@
 title: Explicación de las colas de solicitud
 description: Descubra cómo se estructuran las colas de solicitud en  [!DNL  Workfront]  y cómo enviar una solicitud.
 activity: use
-feature: Work Management
+feature: Work Management,Get Started with Workfront
 type: Tutorial
 role: Admin, User
 level: Intermediate
@@ -11,7 +11,7 @@ thumbnail: 335220.jpeg
 jira: KT-8957
 exl-id: 8d6f8ddc-c08e-46f6-8b77-50af02c36b5c
 doc-type: video
-source-git-commit: 6e0f1a5c426625635d29c601a03edc16ec315245
+source-git-commit: cacc76a0dec27e7554eb0ac494d65a9255367226
 workflow-type: tm+mt
 source-wordcount: '262'
 ht-degree: 63%

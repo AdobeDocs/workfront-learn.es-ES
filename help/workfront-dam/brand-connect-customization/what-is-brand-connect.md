@@ -1,8 +1,8 @@
 ---
 title: ¿Qué es [!UICONTROL Brand Connect]?
-description: Obtenga información acerca de lo que se tratará en el curso Personalización de Brand Connect, Administrador de [!UICONTROL DAM de Workfront], Parte 3.
+description: Obtenga una introducción a [!UICONTROL Brand Connect].
 activity: use
-feature: Digital Content and Documents
+feature: Digital Content and Documents,Get Started with Workfront
 type: Tutorial
 role: User
 level: Beginner
@@ -10,14 +10,14 @@ team: Technical Marketing
 jira: KT-8977
 exl-id: 5acd8581-1629-421c-867e-cefbeb214832
 doc-type: video
-source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
+source-git-commit: cacc76a0dec27e7554eb0ac494d65a9255367226
 workflow-type: tm+mt
-source-wordcount: '152'
-ht-degree: 83%
+source-wordcount: '140'
+ht-degree: 73%
 
 ---
 
-# Qué es [!UICONTROL Brand Connect]?
+# ¿Qué es [!UICONTROL Brand Connect]?
 
 [!UICONTROL Brand Connect] es la parte de [!UICONTROL DAM de Workfront] que los usuarios finales accederán para buscar y descargar los recursos de la compañía aprobados. Estos usuarios suelen ser usuarios internos que han solicitado recursos o que buscan algo parecido al logotipo de una compañía.
 
@@ -29,7 +29,7 @@ Personalice el aspecto de las [!UICONTROL Brand Portal] para ayudar a los usuari
 
 En este vídeo, aprenderá lo siguiente:
 
-* Obtenga una introducción al curso de [!UICONTROL Brand Connect]
+* Obtenga una introducción a [!UICONTROL Brand Connect]
 
 >[!VIDEO](https://video.tv.adobe.com/v/335240/?quality=12&learn=on)
 
