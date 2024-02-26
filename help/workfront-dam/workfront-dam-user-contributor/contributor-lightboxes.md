@@ -1,5 +1,5 @@
 ---
-title: Información sobre lightboxes en [!UICONTROL DAM de Workfront]
+title: Comprender lightboxes como colaborador
 description: Obtenga información sobre cómo crear y utilizar lightboxes en [!UICONTROL DAM de Workfront].
 activity: use
 feature: Digital Content and Documents
@@ -10,14 +10,14 @@ team: Technical Marketing
 jira: KT-8994
 exl-id: 15f5f6d8-c808-4989-9cfb-c7226f0211b3
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 2cb3cc67f4f1fcd1345f178bf525d7b00f6271cf
 workflow-type: tm+mt
-source-wordcount: '139'
-ht-degree: 100%
+source-wordcount: '142'
+ht-degree: 91%
 
 ---
 
-# Colaborador: lightboxes
+# Comprender lightboxes como colaborador
 
 Este vídeo contiene información sobre:
 
@@ -31,6 +31,6 @@ Este vídeo contiene información sobre:
 
 ## Carpetas frente a Lightboxes
 
-Las carpetas se utilizan para almacenar y organizar recursos. El acceso a los recursos lo concede la carpeta. Es posible que haya más carpetas en [!UICONTROL DAM de Workfront] de las que ve.
+Las carpetas se utilizan para almacenar y organizar recursos. El acceso a los recursos lo concede la carpeta. Es posible que haya más carpetas en [!UICONTROL WORKFRONT DAM] de lo que ves.
 
 Lightboxes es una herramienta de [!UICONTROL DAM de Workfront] que puede utilizar para recopilar y organizar los recursos que necesite. Puede crear un lightbox único o crear uno para cada asignación en la que trabaje. Solo verá los lightboxes que ha creado, a menos que otro usuario comparta uno con usted o le pida que colabore en un lightbox.

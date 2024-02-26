@@ -1,6 +1,6 @@
 ---
-title: Buscar y organizar recursos en [!UICONTROL DAM de Workfront]
-description: Obtenga información sobre cómo buscar recursos, buscar dentro de carpetas, optimizar los resultados de búsqueda, usar metadatos y palabras clave como filtros de búsqueda y más en [!UICONTROL DAM de Workfront].
+title: Comprender la búsqueda de recursos como colaborador
+description: Obtenga información sobre cómo buscar recursos, buscar en carpetas, optimizar los resultados de búsqueda, utilizar metadatos y palabras clave como filtros de búsqueda en [!UICONTROL WORKFRONT DAM].
 activity: use
 feature: Digital Content and Documents
 type: Tutorial
@@ -10,14 +10,14 @@ team: Technical Marketing
 jira: KT-8993
 exl-id: 28b60118-a471-48bf-ae9b-3a2aed6a6130
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 2cb3cc67f4f1fcd1345f178bf525d7b00f6271cf
 workflow-type: tm+mt
 source-wordcount: '407'
-ht-degree: 100%
+ht-degree: 90%
 
 ---
 
-# Colaborador: buscar recursos
+# Comprender la búsqueda de recursos como colaborador
 
 Este vídeo contiene información sobre:
 
@@ -34,7 +34,7 @@ Este vídeo contiene información sobre:
 
 Una búsqueda básica examina los nombres de archivo, los campos de metadatos, las palabras clave y el contenido del recurso (según el tipo de recurso). No incluye el nombre de la carpeta.
 
-La mayoría de los resultados de búsqueda son coincidencias exactas. Una excepción a esta regla de “coincidencia exacta” es cuando [!UICONTROL DAM de Workfront] busca el campo nombre de archivo. [!UICONTROL DAM de Workfront] devuelve coincidencias de nombre de archivo parciales, en lugar de coincidencias exactas con el nombre de archivo.
+La mayoría de los resultados de búsqueda son coincidencias exactas. Una excepción a esta regla de &quot;coincidencia exacta&quot; es cuando el [!UICONTROL WORKFRONT DAM] busca en el campo nombre de archivo. [!UICONTROL DAM de Workfront] devuelve coincidencias de nombre de archivo parciales, en lugar de coincidencias exactas con el nombre de archivo.
 
 ## Operadores de usuario al buscar
 
@@ -54,11 +54,11 @@ Utilice el operador O para buscar recursos que contengan cualquiera de los térm
 
 ### Frase
 
-Para encontrar una frase exacta, utilice comillas dobles alrededor de las palabras. Todas las palabras se encontrarán juntas y en orden. Por ejemplo, &quot;Torre Eiffel&quot; encontrará estas palabras en este orden exacto.
+Para encontrar una frase exacta, utilice comillas dobles alrededor de las palabras. Todas las palabras se encontrarán juntas y en orden. Por ejemplo, “Torre Eiffel” encontrará estas palabras en este orden exacto.
 
 ### Operador negativo
 
-Si desea excluir una palabra de los resultados de búsqueda, ponga un signo menos (-) delante de la palabra. Asegúrese de que no haya un espacio entre el signo menos y la palabra. Por ejemplo, para excluir los recursos que tengan la palabra &quot;torre&quot; en los metadatos, la búsqueda se puede configurar como París -torre.
+Si desea excluir una palabra de los resultados de búsqueda, ponga un signo menos (-) delante de la palabra. Asegúrese de que no haya un espacio entre el signo menos y la palabra. Por ejemplo, para excluir los recursos que tengan la palabra “torre” en los metadatos, la búsqueda se puede configurar como París -torre.
 
 ### Operador de campo vacío
 

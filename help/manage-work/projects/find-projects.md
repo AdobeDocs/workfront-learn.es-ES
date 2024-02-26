@@ -2,7 +2,7 @@
 title: Encontrar sus proyectos
 description: Aprenda a encontrar sus proyectos en [!DNL  Workfront] mediante pines, favoritos, paneles y la página [!UICONTROL Proyectos].
 activity: use
-feature: Work Management
+feature: Work Management,Get Started with Workfront
 thumbnail: find-projects.jpeg
 type: Tutorial
 role: User
@@ -11,7 +11,7 @@ team: Technical Marketing
 jira: KT-8716, KT-8717, KT-8718, KT-8719
 exl-id: 2d894587-60ad-4d1e-961f-886a8accfb17
 doc-type: video
-source-git-commit: ec82cd0aafb89df7b3c46eb716faf3a25cd438a2
+source-git-commit: 2cb3cc67f4f1fcd1345f178bf525d7b00f6271cf
 workflow-type: tm+mt
 source-wordcount: '198'
 ht-degree: 100%

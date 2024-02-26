@@ -1,5 +1,5 @@
 ---
-title: Agregue un vínculo [!UICONTROL DAM de Workfront] en Workfront
+title: Agregue un vínculo [!UICONTROL DAM de Workfront]
 description: Obtenga información sobre cómo añadir un vínculo [!UICONTROL DAM de Workfront] en Workfront para que pueda vincular [!UICONTROL DAM] al proyecto, la tarea o el problema en Workfront.
 activity: use
 team: Technical Marketing
@@ -9,14 +9,14 @@ role: User
 level: Beginner
 jira: KT-10106
 exl-id: bd0a6498-2cac-49b1-85d1-e6fc2a7ab07c
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 2cb3cc67f4f1fcd1345f178bf525d7b00f6271cf
 workflow-type: tm+mt
-source-wordcount: '266'
-ht-degree: 100%
+source-wordcount: '263'
+ht-degree: 95%
 
 ---
 
-# Agregue un vínculo de [!UICONTROL DAM de Workfront] en [!DNL Workfront]
+# Agregue un vínculo [!UICONTROL DAM de Workfront]
 
 Comience configurando la conexión entre los dos sistemas.
 
@@ -35,7 +35,7 @@ Ahora puede colocar un vínculo al elemento [!UICONTROL DAM de Workfront] en [!D
    ![Una imagen de la opción [!UICONTROL Desde DAM de Workfront] en el menú desplegable [!UICONTROL Agregar nuevo]](assets/01-contributor-from-workfront-dam.png)
 1. Una lista de los archivos y carpetas a los que tiene acceso en [!UICONTROL DAM de Workfront] aparece en la ventana.
 
-1. Busque el recurso que está buscando y marque la casilla junto a él. La vista predeterminada es una lista, pero puede cambiar a una en miniatura con los iconos en la esquina superior derecha de la ventana.
+1. Busque el recurso que está buscando y marque la casilla que aparece junto a él. La vista predeterminada es una lista, pero puede cambiar a una en miniatura con los iconos en la esquina superior derecha de la ventana.
 
    ![Una imagen de recursos seleccionados en una ventana emergente](assets/02-contributor-select-files-in-dam.png)
 

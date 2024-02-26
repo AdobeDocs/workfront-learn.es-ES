@@ -3,14 +3,14 @@ title: Seguimiento del progreso general del proyecto
 description: Descubra cómo la información mostrada en el encabezado del proyecto puede ayudarle a realizar un seguimiento del progreso y el estado generales del proyecto.
 activity: use
 team: Technical Marketing
-feature: Work Management
+feature: Work Management,Get Started with Workfront
 thumbnail: track-overall-project-progress.jpeg
 type: Tutorial
 role: User
 level: Beginner
 jira: KT-10149
 exl-id: 03ebbbaf-0f8a-43ff-b682-9766aca25741
-source-git-commit: ec82cd0aafb89df7b3c46eb716faf3a25cd438a2
+source-git-commit: 2cb3cc67f4f1fcd1345f178bf525d7b00f6271cf
 workflow-type: tm+mt
 source-wordcount: '203'
 ht-degree: 82%

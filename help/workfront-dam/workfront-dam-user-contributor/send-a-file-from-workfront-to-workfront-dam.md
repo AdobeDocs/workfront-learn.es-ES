@@ -1,5 +1,5 @@
 ---
-title: Enviar un archivo de Workfront a [!UICONTROL DAM de Workfront]
+title: Enviar un archivo como colaborador
 description: Obtenga información sobre cómo enviar un archivo completado en  [!DNL Workfront]  a [!UICONTROL DAM de Workfront].
 activity: use
 team: Technical Marketing
@@ -9,14 +9,14 @@ role: User
 level: Beginner
 jira: KT-10108
 exl-id: 13e24ccc-4d29-4c3a-8340-5fcdbfe4f859
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 2cb3cc67f4f1fcd1345f178bf525d7b00f6271cf
 workflow-type: tm+mt
-source-wordcount: '179'
+source-wordcount: '176'
 ht-degree: 100%
 
 ---
 
-# Enviar un archivo desde [!DNL Workfront] a [!UICONTROL DAM de Workfront]
+# Enviar un archivo como colaborador
 
 Cuando tenga un archivo completado en [!DNL Workfront], puede enviarlo a [!UICONTROL DAM de Workfront] con unos pocos clics.
 

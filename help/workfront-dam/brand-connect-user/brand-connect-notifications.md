@@ -1,5 +1,5 @@
 ---
-title: Modificar la configuración de notificación en Brand Connect
+title: Comprender las notificaciones de Brand Connect
 description: Obtenga información sobre cómo ver notificaciones en la aplicación, modificar la configuración de notificaciones y crear una libreta de direcciones en Brand Connect de [!UICONTROL DAM de Workfront].
 activity: use
 feature: Digital Content and Documents
@@ -10,14 +10,14 @@ team: Technical Marketing
 jira: KT-8988
 exl-id: a7f79d27-c9e1-4a27-9757-a3bf6299b794
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 2cb3cc67f4f1fcd1345f178bf525d7b00f6271cf
 workflow-type: tm+mt
-source-wordcount: '49'
-ht-degree: 100%
+source-wordcount: '48'
+ht-degree: 83%
 
 ---
 
-# Brand Connect: notificaciones
+# Comprender las notificaciones de Brand Connect
 
 Este vídeo contiene información sobre:
 
