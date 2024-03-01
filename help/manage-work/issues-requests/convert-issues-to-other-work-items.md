@@ -4,14 +4,13 @@ description: Obtenga información sobre cómo convertir un problema o una solici
 activity: use
 team: Technical Marketing
 feature: Work Management
-thumbnail: 3427605.jpg
 type: Tutorial
 role: User
 level: Intermediate
 last-substantial-update: 2024-02-28T00:00:00Z
 jira: KT-10069
 exl-id: 1fd4d862-e44b-4c50-9663-70e727f6e9b7
-source-git-commit: b97e182e50aa2ed6e447ad11d0c86449d5b5da7c
+source-git-commit: 7eb3c1265368a349e9483bc3aa00831068300b2e
 workflow-type: tm+mt
 source-wordcount: '63'
 ht-degree: 57%
