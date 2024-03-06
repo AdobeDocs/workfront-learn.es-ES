@@ -9,12 +9,13 @@ role: User
 level: Beginner
 team: Technical Marketing
 jira: KT-8770
+last-substantial-update: 2024-03-05T00:00:00Z
 exl-id: 98eaadc5-1b1d-4641-83a5-818e7dd60769
 doc-type: video
-source-git-commit: cacc76a0dec27e7554eb0ac494d65a9255367226
+source-git-commit: 5358a1e6f3c2cddfb2066954a922d8804e0b0a14
 workflow-type: tm+mt
-source-wordcount: '188'
-ht-degree: 100%
+source-wordcount: '94'
+ht-degree: 70%
 
 ---
 
@@ -29,20 +30,11 @@ Este vídeo contiene información sobre:
 
 >[!VIDEO](https://video.tv.adobe.com/v/335084/?quality=12&learn=on)
 
-## Consejos profesionales
+## Más información sobre cómo trabajar con tareas
 
-* La ventana [!UICONTROL Nuevo proyecto a partir de plantilla] permite seleccionar fácilmente la plantilla adecuada para el proyecto. Desplácese por el panel izquierdo para buscar una plantilla y selecciónela para obtener una vista previa de sus contenidos. Esta vista previa muestra cuántas tareas hay en la plantilla, las funciones de trabajo necesarias y mucho más.
-
-Ventana ![[!UICONTROL Nuevo proyecto a partir de plantilla] ](assets/planner-fund-new-project-from-template-window.png)
-
-* Si hay una plantilla que use con frecuencia, guárdela como favorita. Verá la plantilla en el menú[!UICONTROL Nuevo proyecto], y además, aparece en el icono [!UICONTROL Favoritos y recientes] en la barra de navegación. Simplemente, haga clic en el icono de estrella de favoritos dondequiera que lo vea, por ejemplo, en la página de plantilla, mientras elige una plantilla para crear su proyecto, etc.
-
-Lista de![[!UICONTROL Plantillas favoritas] en el botón [!UICONTROL Nuevo proyecto] ](assets/planner-fund-template-favorites.png)
-
-<!---
-learn more:
-create a project using a template
-create a project
-copy a project
-import a project from Microsoft Project
---->
+* [Creación de tareas](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/tasks/how-to-create-tasks.html)
+* [Trabajar con tareas](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/tasks/work-with-tasks.html)
+* [Asignar tareas del plan del proyecto](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/tasks/assign-tasks-from-the-project-plan.html)
+* [Comprender las duraciones de tareas](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/tasks/understand-task-durations.html)
+* [Aprenda a secuenciar tareas](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/tasks/learn-to-sequence-tasks.html)
+* [Comprender las horas planificadas](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/tasks/understand-planned-hours.html)
