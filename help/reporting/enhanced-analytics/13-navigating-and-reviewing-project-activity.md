@@ -1,6 +1,6 @@
 ---
 title: Explicación de la navegación y revisión de la actividad del proyecto
-description: Obtenga información sobre cómo comparar proyectos en función de usuarios que iniciaron sesión, cambios de estado de tareas y tareas completadas en [!UICONTROL Análisis mejorado].
+description: Aprenda a comparar proyectos en función de los usuarios que han iniciado sesión, los cambios de estado de las tareas y las tareas completadas en [!UICONTROL Análisis mejorado.]
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335049.png
@@ -13,9 +13,9 @@ recommendations: noDisplay,noCatalog
 exl-id: 26ac507d-b3c6-400f-9ac6-42ef493f9380
 doc-type: video
 source-git-commit: d29054f0551a9add8460e4c9fd265cee2dfb72ca
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '235'
-ht-degree: 91%
+ht-degree: 100%
 
 ---
 

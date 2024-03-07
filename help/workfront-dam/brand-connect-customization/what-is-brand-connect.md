@@ -11,9 +11,9 @@ jira: KT-8977
 exl-id: 5acd8581-1629-421c-867e-cefbeb214832
 doc-type: video
 source-git-commit: cacc76a0dec27e7554eb0ac494d65a9255367226
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '140'
-ht-degree: 73%
+ht-degree: 100%
 
 ---
 
@@ -25,7 +25,7 @@ A los usuarios de [!UICONTROL Brand Connect] se les asigna el tipo de función [
 
 <!-- Need the cross-reference link to other LP, mentioned above -->
 
-Personalice el aspecto de las [!UICONTROL Brand Portal] para ayudar a los usuarios a encontrar lo que necesitan rápidamente y garantizar que los recursos más recientes estén fácilmente disponibles.
+Personalice el aspecto de [!UICONTROL Brand Portal] de su organización para ayudar a los usuarios a encontrar rápidamente lo que necesitan y garantizar que los activos más recientes estén fácilmente disponibles.
 
 En este vídeo, aprenderá lo siguiente:
 

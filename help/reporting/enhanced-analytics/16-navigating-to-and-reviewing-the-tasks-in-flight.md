@@ -1,6 +1,6 @@
 ---
 title: Revise las tareas grupales
-description: Obtenga información sobre cómo acceder a la tabla Tareas en vuelo y cómo ver rápidamente qué tareas no se han completado en un proyecto, todo en [!UICONTROL Análisis mejorado].
+description: Obtenga información sobre cómo acceder al gráfico de grupo Tareas y para ver rápidamente qué tareas no se han completado en un proyecto, todo en [!UICONTROL Análisis mejorado].
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335052.png
@@ -13,9 +13,9 @@ recommendations: noDisplay,noCatalog
 exl-id: 4305831f-952b-4d4a-98c4-1fc391a0e1f0
 doc-type: video
 source-git-commit: d29054f0551a9add8460e4c9fd265cee2dfb72ca
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '246'
-ht-degree: 89%
+ht-degree: 100%
 
 ---
 

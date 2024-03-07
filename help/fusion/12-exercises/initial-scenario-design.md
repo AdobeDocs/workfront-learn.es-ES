@@ -12,9 +12,9 @@ thumbnail: KT11038.png
 recommendations: noDisplay,noCatalog
 exl-id: 8ecf4979-f291-4788-bdaa-ab5485fb0849
 source-git-commit: a4e61514567ac8c2b4ad5c9ecacb87bd83947731
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '983'
-ht-degree: 92%
+ht-degree: 100%
 
 ---
 
@@ -24,8 +24,8 @@ Conozca algunas sugerencias básicas de navegación para cuando inicie sesión p
 
 ## Requisitos previos
 
-1. Este ejercicio requiere una prueba de conducción de Workfront. Puede solicitar una rellenando el formulario [este formulario](https://forms.office.com/r/f1J8HRGrNY). Si no puede acceder al formulario, envíe su nombre, dirección de correo electrónico y nombre de la empresa a wfttstdr@adobe.com.
-1. Los ejercicios de fusión suponen que ha visto el vídeo de introducción que corresponde al ejercicio. En este caso es [Tutorial de diseño del escenario inicial](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/understand-the-basics/initial-scenario-design-walkthrough.html?lang=en).
+1. Este ejercicio requiere una unidad de prueba de Workfront. Puede solicitar una rellenando [este formulario](https://forms.office.com/r/f1J8HRGrNY). Si no puede acceder al formulario, envíe un correo electrónico con su nombre y el de su compañía a wfttstdr@adobe.com.
+1. Los ejercicios de Fusion suponen que ha visto el vídeo de introducción que corresponde al ejercicio. En este caso es [Tutorial de diseño del escenario inicial](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/understand-the-basics/initial-scenario-design-walkthrough.html?lang=es).
 
 
 ## Información general del ejercicio
@@ -55,7 +55,7 @@ Cree un nuevo proyecto en Workfront para cada fila del archivo CSV de la lista d
 
    ![Imagen 4 de diseño del escenario inicial](../12-exercises/assets/initial-scenario-design-4.png)
 
-1. Introduzca la URL de **su instancia de Workfront** y, a continuación, haga clic en Siguiente.
+1. Introduzca la dirección URL de su **instancia de Workfront** y haga clic en Siguiente.
 
    ![Imagen 5 de diseño del escenario inicial](../12-exercises/assets/initial-scenario-design-5.png)
 

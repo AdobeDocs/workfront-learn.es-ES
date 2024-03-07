@@ -1,5 +1,5 @@
 ---
-title: Comprensión del equipo del proyecto
+title: Información sobre el equipo del proyecto
 description: Descubra para qué se puede utilizar el equipo del proyecto y cómo mantenerlo.
 feature: Work Management
 thumbnail: 3427227.jpg
@@ -12,13 +12,13 @@ last-substantial-update: 2024-02-07T00:00:00Z
 jira: KT-14781
 doc-type: video
 source-git-commit: b1b9159078ecc389338d6bc6bd31e38ea3149149
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '41'
-ht-degree: 14%
+ht-degree: 100%
 
 ---
 
-# Comprensión del equipo del proyecto
+# Información sobre el equipo del proyecto
 
 En este vídeo aprenderá:
 

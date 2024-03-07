@@ -12,9 +12,9 @@ jira: KT-10235
 last-substantial-update: 2024-01-24T00:00:00Z
 exl-id: 77dfb9f1-3242-47ca-a0ce-203b535af156
 source-git-commit: 30748311c14fb8aa6b10c03a74e83f46bdb5dfbf
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '359'
-ht-degree: 52%
+ht-degree: 100%
 
 ---
 
@@ -35,8 +35,8 @@ Sin embargo, esta función de prueba predeterminada se puede cambiar a medida qu
 
 1. Seleccione **Configuración** del [!UICONTROL Menú principal].
 1. Seleccione **Revisar y aprobar** en el menú de la izquierda.
-1. Haga clic en el botón situado junto a la función de prueba predeterminada que desee para las dos funciones nuevas [!DNL Workfront] usuarios y usuarios de prueba invitados para &quot;destinatarios designados&quot;: cualquier persona que se añada al flujo de trabajo de prueba, ya sea de forma manual o a través de una plantilla de flujo de trabajo.
-1. Haga clic en el botón situado junto a la función de prueba predeterminada que desee para las dos funciones nuevas [!DNL Workfront] usuarios y usuarios de prueba invitados para usuarios &quot;no destinatarios&quot;. Generalmente, son [!DNL Workfront] usuarios que tienen acceso a una prueba pero que no son una de las personas asignadas al flujo de trabajo.
+1. Haga clic en el botón situado junto a la función de prueba predeterminada para los usuarios de [!DNL Workfront] nuevos y usuarios de prueba invitados para “destinatarios designados”: cualquier persona que se añada al flujo de trabajo de prueba, ya sea de forma manual o a través de una plantilla de flujo de trabajo.
+1. Haga clic en el botón situado junto a la función de prueba predeterminada para usuarios de [!DNL Workfront] nuevos y usuarios de prueba invitados para usuarios “que no son destinatarios”. Estos son generalmente usuarios de [!DNL Workfront] que tienen acceso a una prueba, pero que no son una de las personas asignadas al flujo de trabajo.
 1. Guarde los cambios.
 
 ![Configuración de revisión y aprobación en Workfront](assets/proof-system-setups-workfront-defaults.png)
@@ -47,4 +47,4 @@ Tenga en cuenta lo que se espera que haga la mayoría de los usuarios e invitado
 
 | Práctica recomendada | He aquí por qué |
 |---|---|
-| Utilice solo lectura o Revisor para la configuración &quot;Funciones para usuarios que no son destinatarios y que abren una revisión de documento&quot; en Workfront. | El resto de opciones de esta configuración requieren que se tome una decisión sobre la prueba, lo que puede descarrilar el flujo de trabajo de prueba. Por lo general, las personas que no se agregan al flujo de trabajo de prueba solo necesitan ver la prueba o hacer comentarios, no aprobar realmente la prueba, por lo que las opciones Solo lectura o Revisor son las mejores. <br> <br>Nota: Esta configuración se encuentra en el menú principal de Workfront > Configuración > Revisión y aprobación. |
+| Utilice únicamente Solo lectura o Revisor para los ajustes “Funciones para usuarios que no sean destinatarios que abran una prueba de documento” en Workfront. | Las demás opciones para esta configuración requieren que se tome una decisión de la revisión, lo que puede entorpecer el flujo de trabajo de la revisión. Por lo general, las personas que no están añadidas al flujo de trabajo de la revisión solo tienen que ver la prueba o comentar, no aprobar, por lo que las opciones Solo lectura o Revisor son la mejor elección.<br> <br>Nota: Este ajuste se encuentra en el menú principal de Workfront > Configuración > Revisión y aprobación. |

@@ -12,9 +12,9 @@ jira: KT-8957
 exl-id: 8d6f8ddc-c08e-46f6-8b77-50af02c36b5c
 doc-type: video
 source-git-commit: cacc76a0dec27e7554eb0ac494d65a9255367226
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '262'
-ht-degree: 63%
+ht-degree: 100%
 
 ---
 
@@ -22,20 +22,20 @@ ht-degree: 63%
 
 Este vídeo contiene información sobre:
 
-* Cómo enviar una solicitud a través de una [!DNL  Workfront] cola de solicitudes
+* Envío de una solicitud a través de una cola de solicitudes de [!DNL  Workfront]
 * Cómo se estructuran las colas de solicitud
 
 >[!VIDEO](https://video.tv.adobe.com/v/335220/?quality=12&learn=on)
 
 ## Solicitar que los borradores se guarden automáticamente
 
-Cuando se empieza a rellenar un formulario de solicitud, [!DNL Workfront] guarda un borrador automáticamente después de rellenar el campo [!UICONTROL Asunto]. Esto significa que no perderá datos si necesita salir del [!UICONTROL Solicitudes] para hacer otra cosa o si necesita hacer una pausa en medio de su solicitud para recopilar más información.
+Cuando se empieza a rellenar un formulario de solicitud, [!DNL Workfront] guarda un borrador automáticamente después de rellenar el campo [!UICONTROL Asunto]. Esto significa que no perderá datos si necesita alejarse del área de [!UICONTROL Solicitudes] para hacer otra cosa o si necesita hacer una pausa en medio de la solicitud para recopilar más información.
 
-Verá una indicación de que el borrador se ha guardado en la parte superior de la ventana. [!DNL Workfront] guardará un borrador de su solicitud, incluso si los campos obligatorios aún no se han rellenado.
+Verá una indicación de que el borrador se ha guardado en la parte superior de la ventana. [!DNL Workfront] guarda un borrador de la solicitud, incluso si los campos obligatorios aún no se han rellenado.
 
 ![imagen de un borrador de solicitud](assets/queue-mgt-make-a-request-draft-1.png)
 
-Cuando esté listo para enviar la solicitud, búsquela en la [!UICONTROL Borradores] pestaña. Haga clic en el nombre para abrirlo y terminar de rellenar el formulario. Luego haga clic en [!UICONTROL Enviar solicitud] cuando hayas terminado.
+Cuando esté listo para enviar la solicitud, localícela en la pestaña [!UICONTROL Borradores]. Haga clic en el nombre para abrirlo y terminar de rellenar el formulario. A continuación, haga clic en [!UICONTROL Enviar solicitud] cuando haya terminado.
 
 ![imagen de recuperación de un borrador de solicitud](assets/queue-mgt-make-a-request-draft-2.png)
 

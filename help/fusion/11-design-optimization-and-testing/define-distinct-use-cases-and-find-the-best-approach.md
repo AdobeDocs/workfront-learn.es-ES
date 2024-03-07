@@ -12,9 +12,9 @@ exl-id: 2be7bc61-5c63-47b2-b140-ad9352508d5c
 recommendations: noDisplay,noCatalog
 doc-type: video
 source-git-commit: a4e61514567ac8c2b4ad5c9ecacb87bd83947731
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '155'
-ht-degree: 74%
+ht-degree: 100%
 
 ---
 
@@ -22,7 +22,7 @@ ht-degree: 74%
 
 Al pensar en una automatización antes de crear, existen estrategias que puede implementar para minimizar el trabajo necesario o el número de iteraciones que debe realizar.
 
-Ahorrará la mayor parte del tiempo definiendo un caso de uso claro activado por un evento específico. Cuando no se toma tiempo temprano para asegurarse de que se dirige en la dirección correcta, terminará con escenarios complejos o ineficientes.
+Para ahorrar más tiempo, debe definir un caso de uso claro activado por un evento específico. Si no se toma tiempo desde el principio para asegurarse de que va en la dirección correcta, terminará con escenarios complejos o ineficientes.
 
 Este vídeo contiene información sobre:
 

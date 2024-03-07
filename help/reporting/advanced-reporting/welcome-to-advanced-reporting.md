@@ -11,9 +11,9 @@ team: Technical Marketing
 jira: KT-11198
 exl-id: 3baec042-1c1c-4075-b8ff-b1537758ef37
 source-git-commit: 2cb3cc67f4f1fcd1345f178bf525d7b00f6271cf
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '446'
-ht-degree: 91%
+ht-degree: 100%
 
 ---
 
@@ -39,13 +39,13 @@ Antes de ver estos tutoriales, deberá poseer lo siguiente:
 * Un conocimiento adecuado de los objetos que desea incluir en los informes.
 * Un conocimiento adecuado del uso de formularios personalizados, especialmente campos personalizados calculados.
 * Un tipo de licencia [!UICONTROL Plan] con derechos para crear informes y filtros habilitados.
-* Debería haber realizado estos cursos:
-   * [[!UICONTROL Elementos básicos de informes]](https://experienceleague.adobe.com/docs/courses/using/workfront-u-1-2022-1-reporting.html?lang=es)
+* Debería haber realizado los siguientes cursos:
+   * [[!UICONTROL Elementos básicos de creación de informes]](https://experienceleague.adobe.com/docs/courses/using/workfront-u-1-2022-1-reporting.html?lang=es)
    * [[!UICONTROL Creación de informes y paneles personalizados]](https://experienceleague.adobe.com/docs/courses/using/workfront-u-1-2022-3-reporting.html?lang=es)
    * [[!UICONTROL Creación de filtros intermedios]](https://experienceleague.adobe.com/docs/courses/using/workfront-u-1-2022-2-reporting.html?lang=es)
 * También debería haber seguido estos tutoriales:
-   * [[!UICONTROL Comprender el modo de texto básico de las vistas]](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/intermediate-reporting/basic-text-mode-for-views.html?lang=es)
-   * [[!UICONTROL Comprender el modo de texto básico de las agrupaciones]](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/intermediate-reporting/basic-text-mode-for-groupings.html?lang=es)
+   * [[!UICONTROL Comprensión del modo de texto básico de las agrupaciones]](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/intermediate-reporting/basic-text-mode-for-views.html?lang=es)
+   * [[!UICONTROL Comprensión del modo de texto básico de las agrupaciones]](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/intermediate-reporting/basic-text-mode-for-groupings.html?lang=es).
 
 ## Audiencia a quien va destinado
 

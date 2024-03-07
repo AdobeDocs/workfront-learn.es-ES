@@ -11,9 +11,9 @@ jira: KT-8973
 exl-id: 7853a76c-02df-4f50-bb05-c03abfeafd05
 doc-type: video
 source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '410'
-ht-degree: 67%
+ht-degree: 100%
 
 ---
 
@@ -31,20 +31,20 @@ En este vídeo, aprenderá lo siguiente:
 
 Es importante establecer las prácticas recomendadas para que sus esfuerzos se concentren en las palabras clave. A continuación se presentan algunas directrices.
 
-* Sea coherente con las siglas y abreviaturas. No escriba en la palabra clave un recurso con &quot;AZ&quot; y otro con &quot;Arizona&quot;.
-* Sea coherente en plural frente al singular. Elija un formato o use siempre ambos. Por ejemplo, use &quot;pies&quot; y &quot;manos&quot; o &quot;pie, pies&quot; y &quot;mano, manos&quot;.
-* Sea coherente en la forma en que describe una acción o actividad, por ejemplo, use &quot;correr&quot; y &quot;nadar&quot; o &quot;correr&quot; y &quot;nadar&quot;.
-* No seas demasiado estrecho. &quot;Keokuk, IA&quot; puede ser demasiado estrecho para una palabra clave y completamente irreconocible para los usuarios. &quot;Sureste de Iowa&quot; sería mejor.
-* No seas demasiado amplio. &quot;Universidad&quot; puede no funcionar, especialmente si todo en su sistema se relaciona con una universidad. Determine qué distinguirá los recursos, como un nombre de colegio específico.
+* Sea coherente con las siglas y abreviaturas. No escriba la palabra clave “AZ” en un recurso y “Arizona” en otro.
+* Sea coherente en plural frente al singular. Elija un formato o use siempre ambos. Por ejemplo, puede utilizar “pies” y “manos” o “pie, pies” y “mano, manos”.
+* Sea coherente en la forma en que describe una acción o actividad, por ejemplo, utilice “corriendo” y “nadando” o “correr” y “nadar”.
+* No se limite demasiado. “Keokuk, IA” puede ser demasiado restrictiva para una palabra clave y completamente irreconocible para los usuarios. “Sudeste Iowa”, por ejemplo, sería mejor.
+* Tampoco se extienda demasiado. “Universidad” puede no funcionar, especialmente si todo en su sistema se relaciona con una universidad. Determine qué distinguirá los recursos, como un nombre de colegio específico.
 * Tenga en cuenta la relevancia. Solo porque cada recurso tenga un código de proyecto no significa que sea útil para los usuarios que dependen de palabras clave para encontrar recursos. Si esta información debe permanecer con el recurso, considere la posibilidad de agregarla en otro campo de metadatos.
-* No utilice muy pocas palabras clave, de lo contrario no ayudarán a reducir los resultados de búsqueda.
-* No confíe en palabras clave para cada fragmento de datos. Utilice campos de metadatos para obtener información como el nombre o la ubicación de un fotógrafo.
+* No utilice pocas palabras clave; de lo contrario, no ayudarán a reducir los resultados de la búsqueda.
+* No confíe en las palabras clave para cada fragmento de datos. Utilice campos de metadatos para obtener información como el nombre o la ubicación de un fotógrafo.
 
 ## Estrategia de palabras clave
 
 Una estrategia de palabras clave le ayudará a lograr un alto nivel de coherencia y precisión con la forma en que se etiquetan los recursos.
 
-Tenga en cuenta los casos de uso al agregar palabras clave para mantener sus esfuerzos centrados. Complete esta frase cuando considere una palabra clave: &quot;**¿Qué probabilidad hay de que [insertar persona/rol] buscará por [insertar palabra clave] al buscar [insertar recurso]?**&quot;
+Tenga en cuenta los casos de uso al agregar palabras clave para mantener sus esfuerzos centrados. Complete esta oración cuando considere una palabra clave: “**¿Qué probabilidad hay de que [insertar persona/función] utilizará [insertar palabra clave] al buscar [insertar recurso]?**”
 
 Describa qué tipos de palabras clave deben agregarse a los recursos. Una buena regla general en la adición de palabras clave es responder a las siguientes preguntas básicas:
 

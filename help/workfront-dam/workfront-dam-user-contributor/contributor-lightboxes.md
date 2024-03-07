@@ -11,9 +11,9 @@ jira: KT-8994
 exl-id: 15f5f6d8-c808-4989-9cfb-c7226f0211b3
 doc-type: video
 source-git-commit: 2cb3cc67f4f1fcd1345f178bf525d7b00f6271cf
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '142'
-ht-degree: 91%
+ht-degree: 100%
 
 ---
 
@@ -31,6 +31,6 @@ Este vídeo contiene información sobre:
 
 ## Carpetas frente a Lightboxes
 
-Las carpetas se utilizan para almacenar y organizar recursos. El acceso a los recursos lo concede la carpeta. Es posible que haya más carpetas en [!UICONTROL WORKFRONT DAM] de lo que ves.
+Las carpetas se utilizan para almacenar y organizar recursos. El acceso a los recursos lo concede la carpeta. Es posible que haya más carpetas en [!UICONTROL DAM de Workfront] de las que ve.
 
 Lightboxes es una herramienta de [!UICONTROL DAM de Workfront] que puede utilizar para recopilar y organizar los recursos que necesite. Puede crear un lightbox único o crear uno para cada asignación en la que trabaje. Solo verá los lightboxes que ha creado, a menos que otro usuario comparta uno con usted o le pida que colabore en un lightbox.

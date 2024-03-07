@@ -12,9 +12,9 @@ exl-id: 627c767d-de31-4bc6-bac7-c8143c0dbbaf
 recommendations: noDisplay,noCatalog
 doc-type: video
 source-git-commit: a4e61514567ac8c2b4ad5c9ecacb87bd83947731
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '316'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
@@ -41,7 +41,7 @@ Su meta en las pruebas es asegurarse de que se sigan los requisitos, de que no h
 Tenga en cuenta estas directrices para garantizar que las pruebas sean coherentes y capture todos los elementos esenciales.
 
 * Determine qué datos de prueba se necesitan en función de los requisitos. Normalmente, las pruebas más efectivas se basan en requisitos bien definidos y documentados.
-* Planifique y comunique cómo generar los datos necesarios para probar la profundidad, la amplitud, la complejidad y la carga. Evite las pruebas solo de &quot;ruta feliz&quot;. Piense en todas las formas en que los usuarios pueden interactuar con las automatizaciones y en la amplia gama de datos posibles que se procesarán.
+* Planifique y comunique cómo generar los datos necesarios para probar la profundidad, la amplitud, la complejidad y la carga. Evite las pruebas únicamente de “ruta feliz”. Piense en todas las formas en que los usuarios pueden interactuar con las automatizaciones y en la amplia gama de datos posibles que se procesarán.
 * Considere los datos de entrada y salida necesarios entre sistemas conectados. Compruebe la entrada y la salida en esos sistemas, no solo en Workfront Fusion.
 
 Priorice las pruebas a lo largo de todo el ciclo de vida de su implementación de Workfront Fusion. Al diseñar, piense en cómo puede probar si las decisiones de diseño cumplen los requisitos. Piense en cómo los datos inesperados podrían dar lugar a errores y añada la gestión de errores pertinente a medida que genera. Planifique la iteración a través de prototipos viables a medida que realiza pruebas continuas.

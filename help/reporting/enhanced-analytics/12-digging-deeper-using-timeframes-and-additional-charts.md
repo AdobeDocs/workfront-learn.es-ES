@@ -1,6 +1,6 @@
 ---
-title: Profundizar con marcos de tiempo y gráficos adicionales
-description: Aprenda a explorar en profundidad un proyecto en el gráfico del plan de vuelo para que el gráfico de evolución y el gráfico de tareas en vuelo aparezcan en [!UICONTROL Análisis mejorado].
+title: Profundizar en el uso de marcos de tiempo y gráficos adicionales
+description: Aprenda a explorar en profundidad un proyecto en el gráfico Plan de grupo para que el gráfico de evolución y tareas aparezcan en el [!UICONTROL análisis mejorado].
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335048.png
@@ -13,13 +13,13 @@ recommendations: noDisplay,noCatalog
 exl-id: a6b4b6d2-f45a-452f-990b-bf8fc7d263ff
 doc-type: video
 source-git-commit: d29054f0551a9add8460e4c9fd265cee2dfb72ca
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '84'
-ht-degree: 51%
+ht-degree: 100%
 
 ---
 
-# Profundizar con marcos de tiempo y gráficos adicionales
+# Profundizar en el uso de marcos de tiempo y gráficos adicionales
 
 Este vídeo contiene información sobre:
 

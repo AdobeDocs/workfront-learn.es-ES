@@ -1,6 +1,6 @@
 ---
 title: Realice acciones haciendo actualizaciones
-description: Aprenda a realizar actualizaciones desde la tabla Tareas en vuelo en [!UICONTROL Análisis mejorado].
+description: Aprenda a realizar actualizaciones en Tareas del gráfico de grupo en [!UICONTROL Análisis mejorado].
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335053.png
@@ -13,9 +13,9 @@ recommendations: noDisplay,noCatalog
 exl-id: f574a537-b635-4b17-a067-3c168eea850a
 doc-type: video
 source-git-commit: d29054f0551a9add8460e4c9fd265cee2dfb72ca
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '42'
-ht-degree: 64%
+ht-degree: 100%
 
 ---
 

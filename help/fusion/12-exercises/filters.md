@@ -1,5 +1,5 @@
 ---
-title: Ejercicio de filtros
+title: Ejercicio con filtros
 description: Descubra cómo utilizar el filtro entre módulos para permitir solo determinados tipos de paquetes.
 activity: use
 team: Technical Marketing
@@ -12,13 +12,13 @@ thumbnail: KT1101.png
 recommendations: noDisplay,noCatalog
 exl-id: d2cec1ea-7ff9-48ae-8bfb-0c767d346079
 source-git-commit: a4e61514567ac8c2b4ad5c9ecacb87bd83947731
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '229'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
-# Ejercicio de filtros
+# Ejercicio con filtros
 
 Descubra cómo utilizar el filtro entre módulos para permitir solo determinados tipos de paquetes.
 

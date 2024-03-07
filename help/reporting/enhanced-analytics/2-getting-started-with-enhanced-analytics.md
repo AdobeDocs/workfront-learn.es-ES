@@ -12,9 +12,9 @@ jira: KT-10027
 recommendations: noDisplay,noCatalog
 exl-id: 26c071bf-fe79-42f8-8677-4e172377483a
 source-git-commit: cacc76a0dec27e7554eb0ac494d65a9255367226
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '280'
-ht-degree: 85%
+ht-degree: 100%
 
 ---
 
@@ -24,9 +24,9 @@ El análisis mejorado puede mostrarle cómo progresan sus equipos y proyectos en
 
 ## Requisitos previos de Analytics
 
-Para sacar el máximo partido al análisis mejorado de Workfront, debe asegurarse de que sus equipos introduzcan datos y actualicen determinados campos con la mayor precisión posible.
+Para sacar el máximo partido al Análisis mejorado de Workfront, debe asegurarse de que sus equipos introduzcan datos y actualicen determinados campos con la mayor precisión posible.
 
-Cuando usamos el término &quot;equipo&quot; en Analytics, nos referimos a &quot;equipos de inicio&quot;. Los usuarios de Workfront pueden estar en varios equipos, pero solo pueden estar en uno local. Los equipos utilizados en los gráficos Personas están formados solamente por usuarios que tienen a ese equipo designado como el local.
+Cuando empleamos el término “equipo” en Analytics, nos referimos a “equipos locales”. Los usuarios de Workfront pueden estar en varios equipos, pero solo pueden estar en uno local. Los equipos utilizados en los gráficos Personas están formados solamente por usuarios que tienen a ese equipo designado como el local.
 
 Para empezar como es debido, asegúrese de que todas las plantillas de proyecto tengan asignadas las horas planificadas y duraciones precisas para todas las tareas.
 

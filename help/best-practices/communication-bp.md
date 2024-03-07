@@ -7,9 +7,9 @@ level: Beginner
 jira: KT-10905
 exl-id: 24e99491-e155-4a1e-8cc8-fa767116b18f
 source-git-commit: 78252d557403a4f14e6c8ac3b309819038d23c54
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '407'
-ht-degree: 85%
+ht-degree: 100%
 
 ---
 
@@ -49,9 +49,9 @@ Utilice los flujos de trabajo para determinar las notificaciones necesarias.
 
 Al recorrer los flujos de trabajo paso a paso, es más fácil identificar los puntos de comunicación y garantizar que las notificaciones adecuadas estén habilitadas. Esto prepara las notificaciones para la forma en que su organización ya está trabajando, lo que evita el spam o la interrupción de la comunicación.
 
-Para obtener instrucciones sobre cómo configurar notificaciones de eventos, consulte [Configuración de notificaciones de eventos](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/administration-and-setup/email-and-in-app-notifications/admin-set-up-event-notifications.html).
+Para obtener instrucciones sobre cómo configurar notificaciones de eventos, consulte [Configurar notificaciones de eventos](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/administration-and-setup/email-and-in-app-notifications/admin-set-up-event-notifications.html?lang=es).
 
-Para obtener instrucciones sobre cómo administrar las notificaciones de eventos, consulte [Administración de notificaciones de eventos en la aplicación y por correo electrónico](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/administration-and-setup/email-and-in-app-notifications/manage-inapp-and-email-notifications.html).
+Para obtener instrucciones sobre cómo administrar las notificaciones de eventos, consulte [Administración de notificaciones de eventos en la aplicación y por correo electrónico](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/administration-and-setup/email-and-in-app-notifications/manage-inapp-and-email-notifications.html?lang=es).
 
 </br>
 </br>
@@ -72,5 +72,5 @@ Si tiene muchos subprocesos de actualización en un proyecto, puede ser difícil
 * Nombre del propietario
 * Fecha de entrada
 
-Para obtener instrucciones paso a paso acerca de cómo crear un informe de notas con mensajes, vea la [Crear un informe de tareas](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-task-report.html) tutorial y, a continuación, realice la siguiente actividad.
+Para obtener instrucciones paso a paso acerca de cómo crear un informe de notas con indicaciones, vea el tutorial [Creación de un informe de tareas](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-task-report.html?lang=es) y, a continuación, realice la siguiente actividad.
 

@@ -12,9 +12,9 @@ jira: KT-10043
 recommendations: noDisplay,noCatalog
 exl-id: 9ed421a0-5f44-4096-a7ad-c4be4d00808f
 source-git-commit: d29054f0551a9add8460e4c9fd265cee2dfb72ca
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '318'
-ht-degree: 94%
+ht-degree: 100%
 
 ---
 
@@ -28,7 +28,7 @@ Simplemente, haga clic en cualquier fecha del calendario para indicar una fecha 
 
 ![Imagen de la selección de un intervalo de fechas mediante el widget de calendario](assets/section-1-3.png)
 
-Los gráficos de [!DNL Analytics] muestran los datos de los últimos 60 días y los próximos 15 días de forma predeterminada. Puede seleccionar un nuevo intervalo de fechas y aplicarlo a todos los gráficos mientras utiliza [!DNL Analytics].
+Los gráficos de [!DNL Analytics] muestran los datos de los últimos 60 días y los próximos 15 días de forma predeterminada. Puede seleccionar un nuevo intervalo de fecha y aplicarlo a todos los gráficos mientras utiliza [!DNL Analytics].
 
 Cuando actualiza la página, se desplaza o cierra/inicia la sesión en Workfront, el intervalo de fechas se restablece al valor predeterminado.
 

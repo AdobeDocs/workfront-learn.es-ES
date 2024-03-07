@@ -1,6 +1,6 @@
 ---
 title: Comprender la búsqueda de recursos como colaborador
-description: Obtenga información sobre cómo buscar recursos, buscar en carpetas, optimizar los resultados de búsqueda, utilizar metadatos y palabras clave como filtros de búsqueda en [!UICONTROL WORKFRONT DAM].
+description: Obtenga información sobre cómo buscar recursos, buscar dentro de carpetas, optimizar los resultados de búsqueda, usar metadatos y palabras clave como filtros de búsqueda en [!UICONTROL DAM de Workfront].
 activity: use
 feature: Digital Content and Documents
 type: Tutorial
@@ -11,9 +11,9 @@ jira: KT-8993
 exl-id: 28b60118-a471-48bf-ae9b-3a2aed6a6130
 doc-type: video
 source-git-commit: 2cb3cc67f4f1fcd1345f178bf525d7b00f6271cf
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '407'
-ht-degree: 90%
+ht-degree: 100%
 
 ---
 
@@ -34,7 +34,7 @@ Este vídeo contiene información sobre:
 
 Una búsqueda básica examina los nombres de archivo, los campos de metadatos, las palabras clave y el contenido del recurso (según el tipo de recurso). No incluye el nombre de la carpeta.
 
-La mayoría de los resultados de búsqueda son coincidencias exactas. Una excepción a esta regla de &quot;coincidencia exacta&quot; es cuando el [!UICONTROL WORKFRONT DAM] busca en el campo nombre de archivo. [!UICONTROL DAM de Workfront] devuelve coincidencias de nombre de archivo parciales, en lugar de coincidencias exactas con el nombre de archivo.
+La mayoría de los resultados de búsqueda son coincidencias exactas. Una excepción a esta regla de “coincidencia exacta” es cuando [!UICONTROL DAM de Workfront] busca el campo de nombre de archivo. [!UICONTROL DAM de Workfront] devuelve coincidencias de nombre de archivo parciales, en lugar de coincidencias exactas con el nombre de archivo.
 
 ## Operadores de usuario al buscar
 

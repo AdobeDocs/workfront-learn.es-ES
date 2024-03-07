@@ -12,9 +12,9 @@ last-substantial-update: 2024-02-01T00:00:00Z
 jira: KT-14864
 doc-type: video
 source-git-commit: 104e03ccca2faeae5379698a6c7e5066d49db120
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '152'
-ht-degree: 5%
+ht-degree: 100%
 
 ---
 
@@ -24,9 +24,9 @@ ht-degree: 5%
 >
 >Requisitos previos:
 >
->* [Crear una cola de solicitudes](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/request-queues/create-a-request-queue.html)
->* [Creación de un flujo de solicitud](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/request-queues/create-a-request-flow.html)
->* O ya se siente cómodo creando una cola de solicitudes que usa una regla de enrutamiento y un formulario personalizado.
+>* [Crear una cola de solicitudes](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/request-queues/create-a-request-queue.html?lang=es)
+>* [Crear un flujo de solicitud](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/request-queues/create-a-request-flow.html?lang=es)
+>* O si se siente cómodo creando una cola de solicitudes que usa una regla de enrutamiento y un formulario personalizado.
 
 En este vídeo aprenderá:
 
@@ -36,6 +36,6 @@ En este vídeo aprenderá:
 
 >[!VIDEO](https://video.tv.adobe.com/v/3427124/?quality=12&learn=on)
 
-Para obtener información sobre cómo crear el **Informe de comentarios del equipo de administración** Si utiliza en el vídeo, consulte el [Crear un informe de tareas](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-task-report.html?lang=es) y busque la actividad para **Crear un informe de comentarios del equipo de administración** siguiendo el vídeo.
+Para obtener información sobre cómo crear el **Informe de comentarios del equipo de administración** que se ha usado en el vídeo, consulte el tutorial [Crear un informe de tareas](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-task-report.html?lang=es) y busque la actividad **Crear un informe de comentarios del equipo de administración** siguiendo el vídeo.
 
-Para obtener información sobre cómo crear un formulario personalizado, consulte la [Crear y compartir un formulario personalizado](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/custom-data/custom-forms/custom-forms-creating-and-sharing-a-custom-form.html) tutorial.
+Para obtener información sobre cómo crear un formulario personalizado, consulte el tutorial [Crear y compartir un formulario personalizado](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/custom-data/custom-forms/custom-forms-creating-and-sharing-a-custom-form.html?lang=es).

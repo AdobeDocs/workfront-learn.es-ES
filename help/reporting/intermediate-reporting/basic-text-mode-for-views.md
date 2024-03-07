@@ -12,9 +12,9 @@ jira: KT-11367
 exl-id: 156e5510-4a51-449f-9c8c-e16fdd8ea23d
 doc-type: video
 source-git-commit: e17c8cafba5b0829c4bed987a5dad14ecbcb7eaf
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '650'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -33,7 +33,7 @@ ht-degree: 99%
 >
 >* Para comprender mejor el modo de texto, le recomendamos que consulte el evento de seminario web grabado [Pregunte al experto: introducción a la creación de informes en modo de texto](https://experienceleague.adobe.com/docs/workfront-events/events/reporting-and-dashboards/introduction-to-text-mode-reporting.html?lang=es), que dura una hora.
 >* Para obtener más información acerca del modo de texto, le recomendamos que consulte los tutoriales de [Creación de informes avanzada](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/advanced-reporting/welcome-to-advanced-reporting.html?lang=es), que tienen una duración de cinco horas y media en total.
->* Haga clic aquí para acceder [[!UICONTROL Explorador de API]](https://developer.adobe.com/workfront/api-explorer/)
+>* Haga clic aquí para acceder al [[!UICONTROL Explorador de la API]](https://developer.adobe.com/workfront/api-explorer/)
 
 Este vídeo contiene información sobre:
 

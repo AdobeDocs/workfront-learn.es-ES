@@ -12,9 +12,9 @@ exl-id: 8d873fa6-20fb-418b-9e4e-dce59a98cd1c
 recommendations: noDisplay,noCatalog
 doc-type: video
 source-git-commit: a4e61514567ac8c2b4ad5c9ecacb87bd83947731
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '108'
-ht-degree: 94%
+ht-degree: 100%
 
 ---
 
@@ -35,4 +35,4 @@ En este vídeo, aprenderá sobre lo siguiente:
 
 [Documentación de Workfront Fusion](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/workfront-fusion-2.html?lang=es)
 
-[Protecciones de rendimiento de Adobe Workfront Fusion](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/get-started-with-workfront-fusion/fusion-performance-guardrails.html)
+[Protecciones de rendimiento de Adobe Workfront Fusion](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/get-started-with-workfront-fusion/fusion-performance-guardrails.html?lang=es)

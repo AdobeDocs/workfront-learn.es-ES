@@ -1,6 +1,6 @@
 ---
 title: Comprender un caso de uso de comparaciones de KPI
-description: Obtenga información sobre cómo comparar KPI en [!UICONTROL Análisis mejorado] desde el intervalo de fechas actual hasta un intervalo de fechas anterior y cómo comparar los indicadores clave de rendimiento (KPI) con dos filtros diferentes.
+description: Obtenga información sobre cómo comparar los indicadores clave de rendimiento (KPI) del [!UICONTROL Análisis mejorado] del intervalo de fechas actual con un intervalo de fechas anterior y cómo comparar los KPI con dos filtros diferentes.
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335054.png
@@ -13,9 +13,9 @@ recommendations: noDisplay,noCatalog
 exl-id: 28b85cb9-cb9e-4f0a-ad09-9a0d73d05ed0
 doc-type: video
 source-git-commit: d29054f0551a9add8460e4c9fd265cee2dfb72ca
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '76'
-ht-degree: 64%
+ht-degree: 100%
 
 ---
 

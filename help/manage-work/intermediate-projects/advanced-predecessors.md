@@ -1,6 +1,6 @@
 ---
 title: Predecesoras avanzadas
-description: Obtenga información acerca de los tipos de dependencia de predecesoras, los tipos de retardo, las predecesoras forzadas, los errores de bucle de dependencia y algunos métodos abreviados y prácticas recomendadas.
+description: Obtenga información acerca de los tipos de dependencia de predecesoras, los tipos de retardo, las predecesoras aplicadas, los errores de bucle de dependencia y algunos métodos abreviados y prácticas recomendadas.
 feature: Work Management
 thumbnail: 3424287.jpg
 type: Tutorial
@@ -11,10 +11,11 @@ team: Technical Marketing
 last-substantial-update: 2023-09-14T00:00:00Z
 jira: KT-13879
 doc-type: video
-source-git-commit: a3bb4728c12a24929bdaf2351074c1cfc08a4511
-workflow-type: tm+mt
-source-wordcount: '128'
-ht-degree: 30%
+exl-id: a9d9ffa6-9ff1-4a77-9288-7cd0009a7ad6
+source-git-commit: c67e4c30947c383fd6ed4de7a861f09a654c5c20
+workflow-type: ht
+source-wordcount: '97'
+ht-degree: 100%
 
 ---
 
@@ -31,14 +32,14 @@ En este vídeo, aprenderá acerca de lo siguiente:
 
 * Dependencias de tareas
 * Tipos de retardo
-* Predecesoras forzadas
+* Predecesoras aplicadas
 * Errores de bucle de dependencia
 * Métodos abreviados y prácticas recomendadas
 
 >[!VIDEO](https://video.tv.adobe.com/v/3424287/?quality=12&learn=on)
 
-Para obtener más información sobre el uso de predecesoras, consulte [Usar predecesoras de tareas](https://experienceleague.adobe.com/docs/workfront/using/manage-work/tasks/use-task-predecessors/use-task-predecessors.html).
+Para obtener más información sobre el uso de predecesoras, consulte [Usar predecesoras de tareas](https://experienceleague.adobe.com/docs/workfront/using/manage-work/tasks/use-task-predecessors/use-task-predecessors.html?lang=es).
 
-Para obtener más información sobre las delimitaciones de tareas, consulte [Explicación y administración de los tipos de duración y las restricciones de tareas](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/intermediate-projects/understand-and-manage-duration-types-and-task-constraints.html?lang=es).
+Para obtener más información sobre las restricciones de tareas, consulte [Explicación y administración de los tipos de duración y las restricciones de tareas](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/intermediate-projects/understand-and-manage-duration-types-and-task-constraints.html?lang=es).
 
-Para obtener más información sobre las tareas predecesoras entre proyectos, consulte [Explicación de las tareas predecesoras entre proyectos](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/intermediate-projects/understand-cross-project-predecessors.html).
+Para obtener más información sobre las tareas predecesoras entre proyectos, consulte [Comprender a las predecesoras de varios proyectos](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/intermediate-projects/understand-cross-project-predecessors.html?lang=es).

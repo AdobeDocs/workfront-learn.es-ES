@@ -12,7 +12,7 @@ exl-id: 2f5a2088-b32c-457f-baa1-913501d74b73
 recommendations: noDisplay,noCatalog
 doc-type: video
 source-git-commit: a4e61514567ac8c2b4ad5c9ecacb87bd83947731
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '38'
 ht-degree: 100%
 

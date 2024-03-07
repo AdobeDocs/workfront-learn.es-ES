@@ -11,9 +11,10 @@ team: Technical Marketing
 last-substantial-update: 2023-07-27T00:00:00Z
 jira: KT-13737
 doc-type: video
-source-git-commit: 497e93fefedeb3c1c72838cb9c09f5f4d17fb0dd
+exl-id: 1789418f-095b-4621-afe7-fd222d5908e8
+source-git-commit: c67e4c30947c383fd6ed4de7a861f09a654c5c20
 workflow-type: ht
-source-wordcount: '129'
+source-wordcount: '112'
 ht-degree: 100%
 
 ---

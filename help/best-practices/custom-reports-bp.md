@@ -7,9 +7,9 @@ level: Beginner
 jira: KT-10908
 exl-id: 780b80fc-0f7e-41e2-8c6b-455d91642631
 source-git-commit: 0c822b5be5272c5b638039d83294b00d25c32141
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '620'
-ht-degree: 84%
+ht-degree: 100%
 
 ---
 
@@ -55,7 +55,7 @@ Considere la posibilidad de utilizar directrices de informes para reducir los re
 
 Reduzca el número de informes que necesita generar (y amplíe su uso) incluyendo directrices, sobre todo en los que ejecuta con frecuencia.
 
-Los indicadores le permiten realizar adiciones de filtro &quot;en el momento&quot; en un informe sin editar la configuración de filtro del informe. Por ejemplo, tiene un informe que encuentra tareas de un estado determinado que están asignadas a un equipo específico. Agregue preguntas a este informe &quot;básico&quot; que le permitirán reducir el intervalo de tiempo de las fechas de vencimiento de las tareas, ver solo las tareas que tienen documentos adjuntos o localizar las tareas que tienen un formulario personalizado en particular adjunto.
+Las directrices permiten añadir filtros “en el momento” a un informe sin necesidad de editar su configuración de filtros. Por ejemplo, tiene un informe que encuentra tareas de un estado determinado que están asignadas a un equipo específico. Añada directrices a este informe “básico” que le permitan reducir el período de tiempo de las fechas de vencimiento de las tareas, ver solo las que tienen documentos adjuntos o localizar las que tienen un formulario personalizado específico adjunto.
 
 
 **Nota**: Estas directrices pueden ser confusas para algunos usuarios. Si es así, la mejor solución pueden ser varios informes con títulos claros.
@@ -86,7 +86,7 @@ Los caracteres comodín basados en el usuario hacen que los informes sean más f
 </br>
 </br>
 
-Para obtener instrucciones sobre cómo utilizar caracteres comodín basados en usuarios en los informes, consulte [Creación de filtros con comodines basados en usuarios](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/intermediate-reporting/create-filters-with-user-based-wildcards.html).
+Para obtener instrucciones sobre cómo utilizar caracteres comodín basados en usuarios en los informes, consulte [Crear filtros con comodines basados en el usuario](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/intermediate-reporting/create-filters-with-user-based-wildcards.html?lang=es).
 
 **Práctica recomendada**
 
@@ -94,4 +94,4 @@ Cree vistas que permitan la edición en línea.
 
 **He aquí por qué**
 
-Con la edición en línea, los usuarios pueden cambiar información acerca de un elemento directamente desde un informe o una lista. Esto ahorra tiempo, ya que los usuarios no tienen que abrir el objeto para realizar cambios o rebotar de un objeto a otro al actualizar varios elementos. Asegúrese de que los usuarios sepan que la edición en línea es cómoda y rápida (dos cosas que contribuyen a la adopción de Workfront).
+Con la edición en línea, los usuarios pueden cambiar información acerca de un elemento directamente desde un informe o una lista. Esto ahorra tiempo, ya que los usuarios no tienen que abrir el objeto para realizar cambios ni pasar de uno a otro al actualizar varios elementos. Asegúrese de que los usuarios sepan que la edición en línea es cómoda y rápida (dos cosas que contribuyen a la adopción de Workfront).

@@ -11,9 +11,9 @@ jira: KT-11037
 recommendations: noDisplay,noCatalog
 exl-id: ba2c5c64-ab4d-42d3-8a69-6b9df1373b29
 source-git-commit: a4e61514567ac8c2b4ad5c9ecacb87bd83947731
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '697'
-ht-degree: 88%
+ht-degree: 100%
 
 ---
 
@@ -25,11 +25,11 @@ Al principio de la formación sobre Workfront Fusion, ha aprendido algunas prác
 
 Como regla general, la meta principal de Workfront Fusion es tener siempre diseños de escenario simples. He aquí algunas formas de conseguir diseños sencillos de interpretar.
 
-* Asegúrese de nombrar todos los módulos. Haga clic con el botón derecho en un módulo y seleccione Cambiar nombre. Las etiquetas de módulo deben ser cortas pero comprensibles para su rendimiento. Por ejemplo, &quot;Crear proyecto Mktg con plantilla Ch&quot;.
+* Asegúrese de nombrar todos los módulos. Haga clic con el botón derecho en un módulo y seleccione Cambiar nombre. Las etiquetas de módulo deben ser cortas pero comprensibles para su rendimiento. Por ejemplo, “Crear proy. de mkting con plantilla ch”.
   ![Una imagen de un escenario con gestión de errores](assets/design-optimization-and-testing-1.png)
 * Etiquete también las rutas de enrutamiento. Incluso si una ruta no utiliza un filtro directamente después de un enrutador, puede aplicar una etiqueta sin rellenar la lógica del filtro. Esto permite a otros comprender qué paquetes pasan, por cuáles rutas y por qué. Para crear una etiqueta para una ruta de enrutador sin filtro, haga clic con el botón derecho en ella, añada una etiqueta y guárdela.
   ![Una imagen de un escenario con gestión de errores](assets/design-optimization-and-testing-2.png)
-* Agregue notas cuando corresponda en un escenario en el que una etiqueta de módulo o de ruta de enrutamiento sea demasiado corta para aclarar lo que realmente está sucediendo. Puede agregar notas siempre que lo desee a lo largo del proceso de diseño e iteración.
+* Añada notas donde corresponda en un escenario si una etiqueta de módulo o de ruta de enrutamiento van a ser demasiado cortas para aclarar lo que realmente está ocurriendo. Puede agregar notas siempre que lo desee a lo largo del proceso de diseño e iteración.
 
 Sin embargo, puede que sea más fácil leer y comprender si las incorpora al final del diseño del escenario, cuando esté listo para su lanzamiento. Trabaje desde el final del diseño de su escenario (la esquina inferior derecha) hacia atrás. De este modo, las notas que se aplican al principio del escenario aparecen en la parte superior de la lista al abrir el panel de notas.
 
@@ -67,7 +67,7 @@ Puede crear una plantilla en la sección Plantillas de equipo. La plantilla que 
 
 Al crear la plantilla, puede incluir un asistente para guiar a las personas que la utilizan para generar sus escenarios, cambiar las conexiones, los datos asignados y otros campos de panel según corresponda.
 
-Marque la casilla &quot;Usar en asistente&quot; para agregar instrucciones que estarán disponibles cuando alguien cree un escenario con su plantilla. Esta información aparecerá en el campo Ayuda. Para permitir que los usuarios vean este texto al usar la plantilla, active Utilizar como valor predeterminado.
+Marque la casilla “Usar en el asistente” para añadir instrucciones que estarán disponibles cuando alguien cree un escenario con su plantilla. Esta información aparecerá en el campo Ayuda. Para permitir que los usuarios vean este texto al usar la plantilla, active Utilizar como valor predeterminado.
 
 ![Una imagen de un escenario con gestión de errores](assets/design-optimization-and-testing-8.png)
 

@@ -1,6 +1,6 @@
 ---
 title: Editar el equipo del proyecto en una plantilla de proyecto
-description: Evite incluir involuntariamente a miembros del equipo del proyecto en un equipo del proyecto de plantilla aprendiendo a editar el equipo del proyecto de plantilla.
+description: Evite incluir involuntariamente a integrantes del equipo del proyecto en un equipo del proyecto de plantilla, aprenda a editar el equipo del proyecto de plantilla.
 activity: use
 feature: Work Management
 thumbnail: 3426803.jpeg
@@ -12,9 +12,9 @@ team: Technical Marketing
 jira: KT-14755
 doc-type: video
 source-git-commit: 20d9bb3a9bccd3e78335f49cac1aabbc00b2da3d
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '63'
-ht-degree: 9%
+ht-degree: 100%
 
 ---
 
@@ -22,7 +22,7 @@ ht-degree: 9%
 
 En este vídeo aprenderá:
 
-* Cómo evitar la inclusión involuntaria de **non** miembros del equipo del proyecto en un equipo del proyecto de plantilla.
-* Cómo editar el equipo del proyecto de plantilla.
+* Cómo evitar la inclusión involuntaria de integrantes que **no** sean del equipo del proyecto en un equipo del proyecto de plantilla.
+* Editar el equipo del proyecto de plantilla.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3426803/?quality=12&learn=on)

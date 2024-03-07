@@ -9,13 +9,13 @@ doc-type: Feature Video
 last-substantial-update: 2023-07-28T00:00:00Z
 jira: KT-13725
 thumbnail: 3422184.jpeg
-source-git-commit: 7bb4b893cd9a8be7cfd360141bb7d8b105cabf83
+exl-id: bf1e802c-9ec6-4636-8c87-283616d1c767
+source-git-commit: c67e4c30947c383fd6ed4de7a861f09a654c5c20
 workflow-type: ht
 source-wordcount: '52'
 ht-degree: 100%
 
 ---
-
 
 # Crear y administrar programaciones
 

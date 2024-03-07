@@ -4,9 +4,9 @@ role: User
 level: Beginner
 feature-set: Workfront
 source-git-commit: 2cb3cc67f4f1fcd1345f178bf525d7b00f6271cf
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '2405'
-ht-degree: 93%
+ht-degree: 100%
 
 ---
 
@@ -87,7 +87,7 @@ ht-degree: 93%
       + [Compartir campos personalizados](custom-data/custom-forms/share-custom-fields.md)
       + [Edición de un formulario personalizado](custom-data/custom-forms/custom-forms-edit-a-custom-form.md)
       + [Asignación de un formulario personalizado a un objeto](custom-data/custom-forms/custom-forms-using-a-custom-form.md)
-      + [Adición de saltos de sección y lógicas a un formulario personalizado](custom-data/custom-forms/add-section-breaks-and-logic-to-a-custom-form.md)
+      + [Añadir saltos de sección y lógicas a un formulario personalizado](custom-data/custom-forms/add-section-breaks-and-logic-to-a-custom-form.md)
       + [Exportar un formulario personalizado como PDF](custom-data/custom-forms/export-a-custom-form-as-a-pdf.md)
 
    + Expresiones calculadas {#calculated-expressions}
@@ -115,7 +115,7 @@ ht-degree: 93%
       + [Introducción a la administración de un proyecto](manage-work/projects/getting-started-manage-a-project.md)
       + [Encontrar proyectos](manage-work/projects/find-projects.md)
       + [Compartir un proyecto](manage-work/projects/share-a-project.md)
-      + [Comprensión del equipo del proyecto](manage-work/projects/understand-the-project-team.md)
+      + [Información sobre el equipo del proyecto](manage-work/projects/understand-the-project-team.md)
       + [Comprender la comunicación del proyecto](manage-work/projects/understand-project-communication.md)
       + [Ver información del proyecto](manage-work/projects/view-project-information.md)
       + [Seguimiento del progreso general del proyecto](manage-work/projects/track-overall-project-progress.md)
@@ -165,7 +165,7 @@ ht-degree: 93%
       + [Ver hitos](manage-work/approval-processes-and-milestone-paths/view-milestones.md)
 
    + Crear y administrar plantillas de proyecto {#create-and-manage-project-templates}
-      + [Creación de una plantilla de proyecto y aprendizaje de modelos](manage-work/create-and-manage-project-templates/create-a-project-template.md)
+      + [Crear una plantilla de proyecto y obtener más información acerca de los Modelos](manage-work/create-and-manage-project-templates/create-a-project-template.md)
       + [Creación de un proyecto directamente a partir de una plantilla](manage-work/create-and-manage-project-templates/create-a-project-directly-from-a-template.md)
       + [Compartir una plantilla de proyecto](manage-work/create-and-manage-project-templates/share-a-project-template.md)
       + [Copiar un proyecto existente](manage-work/manage-projects/copy-an-existing-project.md)
@@ -269,7 +269,7 @@ ht-degree: 93%
       + [Vencimiento de la administración de recursos](manage-resources/resource-management/resource-management-maturity.md)
       + [Configuración de administración de recursos para proyectos](manage-resources/resource-management/settings-for-projects.md)
       + [Configuración de administración de recursos para usuarios](manage-resources/resource-management/settings-for-users.md)
-      + [Configuraciones de administración de recursos, Distribuidor de cargas de trabajo e informes de utilización](manage-resources/resource-management/rm-setups-workload-balancer-and-utilization-report.md)
+      + [Configuraciones de administración de recursos, Distribuidor de cargas de trabajo e informe de utilización](manage-resources/resource-management/rm-setups-workload-balancer-and-utilization-report.md)
 
    + Distribuidor de cargas de trabajo {#workload-balancer}
       + [Buscar el equilibrador de carga de trabajo](manage-resources/workload-balancer/find-the-workload-balancer.md)
@@ -346,7 +346,7 @@ ht-degree: 93%
       + [Configuración de la integración](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/configure.html?lang=es-ES)
       + [Asignación de metadatos](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/map-metadata.html?lang=es-ES)
       + [Envío de documentos y vinculación de recursos](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/link-send.html?lang=es-ES)
-      + [Mantener historial de versiones](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/versions.html?lang=es-ES)
+      + [Mantenimiento del historial de versiones](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/versions.html?lang=es-ES)
 
    + G Suite {#g-suite-integrations}
       + [Mejore el flujo de trabajo con la integración de G Suite](integrations/g-suite-integrations/worfront-for-g-suite-integrations.md)
@@ -388,10 +388,10 @@ ht-degree: 93%
       + [Panel de asignación y editor de fórmulas](fusion/2-understand-the-basics/mapping-panel-and-formula-editor.md)
       + [Asignación de notas importantes del panel](fusion/2-understand-the-basics/mapping-panel-important-notes.md)
       + [Más allá del tutorial de asignación básico](fusion/2-understand-the-basics/beyond-basic-mapping-walkthrough.md)
-      + [Más allá del ejercicio de mapeo básico](fusion/12-exercises/beyond-basic-mapping.md)
+      + [Ejercicio sobre Más allá de la asignación básica](fusion/12-exercises/beyond-basic-mapping.md)
       + [Uso de filtros](fusion/2-understand-the-basics/use-filters.md)
       + [Tutorial de filtros](fusion/2-understand-the-basics/filters-walkthrough.md)
-      + [Ejercicio de filtros](fusion/12-exercises/filters.md)
+      + [Ejercicio con filtros](fusion/12-exercises/filters.md)
       + [Tutorial de Acceso a versiones anteriores](fusion/2-understand-the-basics/access-previous-versions-walkthrough.md)
       + [Ejercicio de acceso a versiones anteriores](fusion/12-exercises/access-previous-versions.md)
 
@@ -407,7 +407,7 @@ ht-degree: 93%
       + [Ejercicio de patrones de enrutamiento](fusion/12-exercises/routing-patterns.md)
       + [Establecer y obtener](fusion/3-universal-connectors-and-routing/set-it-and-get-it.md)
       + [Tutorial de las variables Get/Set](fusion/3-universal-connectors-and-routing/get-set-variables-walkthrough.md)
-      + [Ejercicio Set/Get variables](fusion/12-exercises/set-get-variables.md)
+      + [Ejercicio de variables Set/Get](fusion/12-exercises/set-get-variables.md)
 
    + Iteración y agregación {#iteration-and-aggregation}
       + [Introducción a los iteradores](fusion/4-iteration-and-aggregation/introduction-to-iterators.md)
@@ -415,18 +415,18 @@ ht-degree: 93%
       + [Introducción al ejercicio de iteradores](fusion/12-exercises/introduction-to-iterators-exercise.md)
       + [Introducción a las agregaciones](fusion/4-iteration-and-aggregation/introduction-to-aggregations.md)
       + [Tutorial de agregación](fusion/4-iteration-and-aggregation/aggregation-walkthrough.md)
-      + [Ejercicio de acumulación](fusion/12-exercises/aggregation.md)
+      + [Ejercicio de agregación](fusion/12-exercises/aggregation.md)
       + [Tutorial de agregación avanzada](fusion/4-iteration-and-aggregation/advanced-aggregation-walkthrough.md)
-      + [Ejercicio de agregación avanzado](fusion/12-exercises/advanced-aggregation.md)
+      + [Ejercicio de agregación avanzada](fusion/12-exercises/advanced-aggregation.md)
 
    + Historial de ejecución y programación {#execution-history-and-scheduling}
       + [Introducción al historial de ejecución](fusion/5-execution-history-and-scheduling/introduction-to-execution-history.md)
       + [Tutorial del historial de ejecución](fusion/5-execution-history-and-scheduling/execution-history-walkthrough.md)
-      + [Ejercicio de historial de ejecución](fusion/12-exercises/execution-history.md)
+      + [Ejercicio del historial de ejecución](fusion/12-exercises/execution-history.md)
       + [Información sobre la programación del escenario](fusion/5-execution-history-and-scheduling/understand-scenario-scheduling.md)
       + [El equilibrador ejecuta ciclos y paquetes](fusion/5-execution-history-and-scheduling/balance-runs-cycles-and-bundles.md)
       + [Ejecuta el tutorial de ciclos y paquetes](fusion/5-execution-history-and-scheduling/runs-cycles-and-bundles-walkthrough.md)
-      + [Exploración de carreras, ciclos y paquetes de ejercicios](fusion/12-exercises/exploring-runs-cycles-and-bundles.md)
+      + [Ejercicio de Exploración de ejecuciones, ciclos y paquetes](fusion/12-exercises/exploring-runs-cycles-and-bundles.md)
 
    + Más allá de los módulos básicos {#beyond-basic-modules}
       + [Familiarícese con las aplicaciones adicionales y los módulos comunes](fusion/6-beyond-basic-modules/become-familiar-with-additional-apps-and-common-modules.md)
@@ -434,7 +434,7 @@ ht-degree: 93%
       + [Tutorial de funciones de conmutación](fusion/6-beyond-basic-modules/switch-function-walkthrough.md)
       + [Ejercicio de función de cambio](fusion/12-exercises/switch-function.md)
       + [Recorrido por el módulo Switch](fusion/6-beyond-basic-modules/switch-module-walkthrough.md)
-      + [Cambiar ejercicio del módulo](fusion/12-exercises/switch-module.md)
+      + [Ejercicio del módulo de cambio](fusion/12-exercises/switch-module.md)
       + [Comprender el mundo de los webhook](fusion/6-beyond-basic-modules/understand-the-webhook-world.md)
       + [Tutorial de webhooks](fusion/6-beyond-basic-modules/webhooks-walkthrough.md)
       + [Ejercicio de webhooks](fusion/12-exercises/webhooks.md)
@@ -453,12 +453,12 @@ ht-degree: 93%
       + [Tutorial de matrices](fusion/8-final-functional-bits-and-bobs/arrays-walkthrough.md)
       + [Comprender JSON en escenarios](fusion/8-final-functional-bits-and-bobs/understand-json-in-scenarios.md)
       + [Uso del tutorial de JSON](fusion/8-final-functional-bits-and-bobs/working-with-json-walkthrough.md)
-      + [Trabajar con el ejercicio JSON](fusion/12-exercises/working-with-json.md)
+      + [Trabajar con ejercicio de JSON](fusion/12-exercises/working-with-json.md)
 
    + Solución de problemas y gestión de errores {#troubleshooting-and-error-handling}
       + [Solución de problemas avanzada con la herramienta de desarrollo](fusion/9-troubleshooting-and-error-handling/advanced-troubleshooting-with-the-dev-tool.md)
       + [Tutorial de la herramienta de desarrollo](fusion/9-troubleshooting-and-error-handling/dev-tool-walkthrough.md)
-      + [Ejercicio de herramienta de desarrollo](fusion/12-exercises/devtool.md)
+      + [Ejercicio con la herramienta Dev](fusion/12-exercises/devtool.md)
       + [Qué es la gestión de errores](fusion/9-troubleshooting-and-error-handling/what-is-error-handling.md)
       + [Comprender las directivas de la gestión de errores](fusion/9-troubleshooting-and-error-handling/understand-error-handling-directives.md)
       + [Tutorial de gestión de errores](fusion/9-troubleshooting-and-error-handling/error-handling-walkthrough.md)
@@ -496,7 +496,7 @@ ht-degree: 93%
 
    + Cargar pruebas {#upload-proofs}
       + [¿Qué es una versión de prueba?](workfront-proof/upload-proofs/what-is-a-proof-version.md)
-      + [Quién carga las versiones de prueba](workfront-proof/upload-proofs/who-uploads-the-proof-versions.md)
+      + [¿Quién carga las versiones de prueba?](workfront-proof/upload-proofs/who-uploads-the-proof-versions.md)
       + [Convertir un documento en una prueba](workfront-proof/upload-proofs/convert-a-document-to-a-proof.md)
       + [Ver y comparar versiones de prueba](workfront-proof/upload-proofs/view-and-compare-proof-versions.md)
       + [Cargar una versión de prueba](workfront-proof/upload-proofs/upload-a-proof-version.md)
@@ -558,7 +558,7 @@ ht-degree: 93%
       + [Comprender la administración de recursos como colaborador](workfront-dam/workfront-dam-user-contributor/contributor-asset-management.md)
       + [Comprender la búsqueda de recursos como colaborador](workfront-dam/workfront-dam-user-contributor/contributor-find-assets.md)
       + [Comprender lightboxes como colaborador](workfront-dam/workfront-dam-user-contributor/contributor-lightboxes.md)
-      + [Comprender las prácticas recomendadas de metadatos y palabras clave](workfront-dam/workfront-dam-user-contributor/metadata-and-keyword-best-practices.md)
+      + [Prácticas recomendadas de metadatos y palabras clave](workfront-dam/workfront-dam-user-contributor/metadata-and-keyword-best-practices.md)
       + [Trabajar con recursos como colaborador](workfront-dam/workfront-dam-user-contributor/contributor-work-with-assets.md)
       + [Enviar un archivo como colaborador](workfront-dam/workfront-dam-user-contributor/send-a-file-from-workfront-to-workfront-dam.md)
       + [Publicar recursos como colaborador](workfront-dam/workfront-dam-user-contributor/contributor-publish-assets.md)
@@ -573,7 +573,7 @@ ht-degree: 93%
       + [Trabajar con recursos como usuario](workfront-dam/brand-connect-user/brand-connect-working-with-assets.md)
 
 + Página de inicio {#home}
-   + [Quitar, agregar y reorganizar widgets en Inicio](workfront-home/remove-add-and-rearrange-widgets.md)
+   + [Quitar, añadir y reorganizar widgets en Inicio](workfront-home/remove-add-and-rearrange-widgets.md)
    + [Encontrar su trabajo](workfront-home/find-your-work-in-workfront-home.md)
    + [Organizar la lista de tareas pendientes](workfront-home/organize-your-to-do-list-in-workfront-home.md)
    + [Priorizar su trabajo](workfront-home/prioritize-your-work-in-workfront-home.md)
@@ -589,7 +589,7 @@ ht-degree: 93%
 + Agile {#agile}
 
    + Scrum {#scrum}
-      + [Crear un equipo de Scrum Agile](agile/create-a-scrum-agile-team.md)
+      + [Crear un equipo ágil de Scrum](agile/create-a-scrum-agile-team.md)
       + [Administrar el trabajo como equipo de Scrum](agile/manage-work-scrum-team.md)
       + [Preparación del registro de asuntos pendientes](agile/gooming-the-backlog.md)
       + [Planificar y crear una iteración](agile/plan-and-create-an-iteration.md)
@@ -638,7 +638,7 @@ ht-degree: 93%
    + [Rendimiento y mantenimiento del sistema](best-practices/system-performance-maintenance-bp.md)
    + [Creación de informes con modo de texto](best-practices/test-mode-reporting-bp.md)
    + [Planificación y administración de la cronología](best-practices/timeline-planning-management-bp.md)
-   + [Hojas de horas y registro del tiempo](best-practices/timesheets-logging-time-bp.md)
+   + [Plantillas de horas y tiempo de registro](best-practices/timesheets-logging-time-bp.md)
    + [Utilización](best-practices/utilization-bp.md)
    + [Workfront Goals](best-practices/workfront-goals-bp.md)
    + [Distribuidor de cargas de trabajo](best-practices/workload-balancer-bp.md)

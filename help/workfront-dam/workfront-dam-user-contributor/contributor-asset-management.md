@@ -11,9 +11,9 @@ jira: KT-8996
 exl-id: a09d0b0e-2631-414e-87e6-385ddbeb5cd2
 doc-type: video
 source-git-commit: 2cb3cc67f4f1fcd1345f178bf525d7b00f6271cf
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '460'
-ht-degree: 88%
+ht-degree: 100%
 
 ---
 
@@ -38,8 +38,8 @@ Una parte del flujo de trabajo puede incluir la administración de varias versio
 
 El sistema permite el control automático de la versión de los recursos cuando se carga en la misma carpeta un archivo con el mismo nombre que un archivo existente. Consulte con el administrador del sistema para ver si esta funcionalidad se ha activado.
 
-Si el control de versiones automático está activado, la versión de un recurso solo se eliminará si se ha cargado en la carpeta que contiene el recurso original. Ambos recursos deben tener el mismo nombre de archivo. Si el recurso se carga en una carpeta diferente, el recurso se introduce como un archivo nuevo.
-Si el control de versiones no está activado, se carga un archivo con el mismo nombre que un archivo existente como un archivo nuevo, independientemente de la carpeta en la que se coloque. Esto podría conllevar tener dos recursos con el mismo nombre en la misma carpeta.
+Si el control de versiones automático está activado, un recurso solo se convertirá en una versión si se carga en la carpeta que alberga el recurso original. Ambos recursos deben tener el mismo nombre de archivo. Si el recurso se carga en una carpeta diferente, el recurso se introduce como un archivo nuevo.
+Si el control de versiones no está activado, un archivo con el mismo nombre que un archivo existente se carga como un archivo nuevo, independientemente de la carpeta en la que se coloque. Esto podría conllevar tener dos recursos con el mismo nombre en la misma carpeta.
 
 También puede cargar manualmente versiones de un recurso específico. Haga clic en el icono de edición del recurso y, a continuación, seleccione **[!UICONTROL Cargar nueva versión]**.
 

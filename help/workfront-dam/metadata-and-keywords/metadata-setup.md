@@ -11,9 +11,9 @@ jira: KT-8972
 exl-id: 65ca5265-8fa7-4a46-8747-1fa362c6332b
 doc-type: video
 source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '289'
-ht-degree: 84%
+ht-degree: 100%
 
 ---
 
@@ -38,13 +38,13 @@ Estas son algunas prácticas recomendadas que le ayudarán a empezar a trabajar 
 * Agregue términos de uso para los recursos administrados por derechos para evitar el uso indebido.
 * Añada metadatos a los recursos en cuanto los cargue.
 * Implemente menús desplegables predefinidos para los datos más utilizados con el fin de evitar incoherencias.
-* Forme a los colaboradores responsables de agregar metadatos a la estrategia de metadatos de su organización.
-* Comunique los requisitos de metadatos a los proveedores externos (por ejemplo, &quot;Las fotos deben enviarse con las condiciones de uso, el crédito y los metadatos de ubicación ya añadidos&quot;).
+* Eduque a los colaboradores responsables de añadir metadatos sobre la estrategia de metadatos de su organización.
+* Comunique los requisitos de metadatos a proveedores externos (por ejemplo, “Las fotos deben enviarse con los términos de uso, el crédito y los metadatos de ubicación ya agregados”).
 * Realice auditorías periódicas para asegurarse de que los metadatos se añadan correctamente.
 
 ## Desarrolle de una estrategia de metadatos
 
-Observe el flujo de trabajo de recursos al desarrollar la estrategia de metadatos de su organización. Su consultor de [!DNL Workfront] puede ayudarle a responder a las siguientes preguntas clave:
+Observe el flujo de trabajo de los recursos cuando desarrolle la estrategia de metadatos de su organización. Su consultor de [!DNL Workfront] puede ayudarle a responder a las siguientes preguntas clave:
 
 * ¿Quién es el responsable de añadir los metadatos?
 * ¿Qué metadatos son necesarios? ¿Cuáles son opcionales?

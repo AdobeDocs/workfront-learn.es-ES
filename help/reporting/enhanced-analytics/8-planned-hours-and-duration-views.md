@@ -12,7 +12,7 @@ jira: KT-10044
 recommendations: noDisplay,noCatalog
 exl-id: caae6dd0-910c-4bdf-a9db-611c272af7ce
 source-git-commit: d29054f0551a9add8460e4c9fd265cee2dfb72ca
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '130'
 ht-degree: 100%
 

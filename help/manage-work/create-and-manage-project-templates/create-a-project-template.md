@@ -1,6 +1,6 @@
 ---
 title: Crear una plantilla de proyecto y obtener más información acerca de los [!UICONTROL Modelos]
-description: Aprenda a crear una plantilla de proyecto desde cero y desde un proyecto existente, y comprenda cómo [!UICONTROL Modelos] le permite acceder a un mundo de plantillas de proyecto útiles creadas por expertos en Workfront.
+description: Aprenda a crear una plantilla de proyecto desde cero a partir de un proyecto existente, y comprenda cómo los [!UICONTROL Modelos] le permiten acceder a un mundo de plantillas de proyecto útiles creadas por expertos en Workfront.
 activity: use
 feature: Work Management
 thumbnail: 335210.jpeg
@@ -13,15 +13,15 @@ jira: KT-8950
 exl-id: 1f706148-c001-42a8-a675-48e91d445f0b
 doc-type: video
 source-git-commit: ec82cd0aafb89df7b3c46eb716faf3a25cd438a2
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '345'
-ht-degree: 81%
+ht-degree: 100%
 
 ---
 
 # Crear una plantilla de proyecto y obtener más información acerca de los [!UICONTROL Modelos]
 
-Aprenda a crear una plantilla de proyecto desde cero y desde un proyecto existente, y comprenda cómo [!UICONTROL Modelos] le permite acceder a un mundo de plantillas de proyecto útiles creadas por expertos en Workfront.
+Aprenda a crear una plantilla de proyecto desde cero y a partir de un proyecto existente, y comprenda cómo los [!UICONTROL Modelos] le permiten acceder a un mundo de plantillas de proyecto útiles creadas por expertos en Workfront.
 
 ## Crear una plantilla de proyecto
 

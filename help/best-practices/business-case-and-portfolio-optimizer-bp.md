@@ -7,9 +7,9 @@ level: Beginner
 jira: KT-10904
 exl-id: 6928404e-52ba-4905-9377-295e80d79e27
 source-git-commit: 0c822b5be5272c5b638039d83294b00d25c32141
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '440'
-ht-degree: 75%
+ht-degree: 100%
 
 ---
 
@@ -51,7 +51,7 @@ El uso de un caso empresarial antes de que se inicie el proyecto, o incluso al p
 
 También le ofrece la oportunidad de mostrar a las partes interesadas cómo contribuye su proyecto a las metas del departamento, la región o compañía.
 
-Para obtener instrucciones sobre cómo utilizar el caso comercial, consulte [Comprender el caso empresarial](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/portfolios/introduction-to-the-business-case.html).
+Para obtener instrucciones sobre cómo utilizar el caso empresarial, consulte [Información sobre el caso empresarial](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/portfolios/introduction-to-the-business-case.html?lang=es).
 
 </br>
 </br>
@@ -62,9 +62,9 @@ Estime y ajuste la información importante del proyecto, como el coste, la aline
 
 **He aquí por qué**
 
-Comprobar que esta información sea lo más similar posible a lo que implica el proyecto en la &quot;vida real&quot; permite utilizar con precisión la función de puntuación en Portfolio Optimizer para determinar la prioridad de los proyectos enumerados. Portfolio Optimizer es una buena herramienta para garantizar que sus proyectos se prioricen de forma eficiente y estén alineados con la estrategia y el valor de su empresa.
+Asegurarse de que esta información esté cerca de lo que implicará el proyecto “real”, le permitirá utilizar con precisión la función de puntuación en el Optimizador de portafolios para determinar la prioridad de los proyectos enumerados. El optimizador de portafolios es una buena herramienta que garantiza que los proyectos tengan prioridad de forma eficiente y que estén alineados con la estrategia y el valor de su compañía.
 
-Para obtener instrucciones sobre cómo utilizar el caso comercial, consulte [Comprender el caso empresarial](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/portfolios/introduction-to-the-business-case.html).
+Para obtener instrucciones sobre cómo utilizar el caso empresarial, consulte [Información sobre el caso empresarial](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/portfolios/introduction-to-the-business-case.html?lang=es).
 
-Para obtener instrucciones sobre cómo utilizar Portfolio Optimizer, consulte [Uso de Portfolio Optimizer para priorizar y administrar el trabajo](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/portfolios/prioritize-and-manage-work-with-portfolios.html).
+Para obtener instrucciones sobre cómo utilizar el Optimizador de portafolios, consulte [Utilice el Optimizador de portafolios para priorizar y administrar el trabajo](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/portfolios/prioritize-and-manage-work-with-portfolios.html?lang=es).
 

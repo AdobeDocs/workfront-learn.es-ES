@@ -13,9 +13,9 @@ jira: KT-8854
 exl-id: ba3c0e10-dcf1-4a7b-bf11-ccfed9040e6d
 doc-type: video
 source-git-commit: d39151288d8b749940c5183063392ee471769445
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '826'
-ht-degree: 86%
+ht-degree: 100%
 
 ---
 
@@ -130,28 +130,28 @@ Cambie el [!UICONTROL Formato de campo] en las columnas [!UICONTROL Comenzar el]
 1. En el menú desplegable [!UICONTROL Formato de campo] seleccione [!UICONTROL &quot;10/17/60 3:00 AM&quot;].
 1. Haga clic en **[!UICONTROL Guardar]**.
 
-## Actividad 4: crear una vista del estado activo de una plantilla de proyecto
+## Actividad 4: Crear una vista del estado activo de las plantillas de proyecto
 
-Cualquiera que administre plantillas de proyecto apreciará ver el estado activo (Verdadero o Falso) de cada plantilla en una lista. Mejor aún: el campo se puede editar en línea.
+Cualquiera que administre plantillas de proyecto apreciará ver el estado activo (verdadero o falso) de cada plantilla en la lista. Todavía mejor, el campo se puede editar en línea.
 
-Cree una vista de plantilla de proyecto denominada &quot;Estándar+estado activo&quot; con las siguientes columnas:
+Cree una vista de plantilla de proyecto denominada “Estándar+estado activo” con las siguientes columnas:
 
 * [!UICONTROL Nombre]
 * [!UICONTROL Propietario]
 * [!UICONTROL Duración]
 * [!UICONTROL Horas planificadas]
-* [!UICONTROL Costo planificado]
+* [!UICONTROL Coste planificado]
 * [!UICONTROL Indicadores]
-* [!UICONTROL Nombre de grupo]
+* [!UICONTROL Nombre del grupo ]
 * [!UICONTROL Está activo]
 
 
 ## Respuesta de actividad 4
 
-![Imagen de la pantalla que muestra la vista de estado activo de una plantilla de proyecto](assets/view-activity-4.png)
+![Una imagen de la pantalla que muestra una vista del estado activo de la plantilla de un proyecto](assets/view-activity-4.png)
 
-1. En una lista de plantillas de proyecto, vaya a **[!UICONTROL Ver]** menú desplegable y seleccione **[!UICONTROL Nueva vista]**.
-1. Asigne a la vista el nombre &quot;Estándar+estado activo&quot;.
+1. En una lista de plantillas del proyecto, vaya al menú desplegable **[!UICONTROL Vista]** y seleccione **[!UICONTROL Nueva vista]**.
+1. Asigne un nombre a la vista “Estándar + estado activo”.
 1. Haga clic en **[!UICONTROL Añadir columna]**.
-1. En el [!UICONTROL Mostrar en esta columna] , escriba &quot;is&quot; y seleccione &quot;Is Active&quot; en el campo [!UICONTROL Plantilla] origen del campo.
-1. Clic **[!UICONTROL Guardar vista]**.
+1. En el campo [!UICONTROL Mostrar en esta columna], escriba “está” y, a continuación, seleccione “Está activo” en la fuente del campo [!UICONTROL Plantilla].
+1. Pulse **[!UICONTROL Guardar vista]**.

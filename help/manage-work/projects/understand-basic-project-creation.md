@@ -12,9 +12,9 @@ jira: KT-8768
 exl-id: 1be0bec5-13b3-44b0-ba49-d25adf0378a5
 doc-type: video
 source-git-commit: cacc76a0dec27e7554eb0ac494d65a9255367226
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '143'
-ht-degree: 83%
+ht-degree: 100%
 
 ---
 
@@ -36,4 +36,4 @@ Ponga en marcha sus proyectos de [!DNL  Workfront] rápidamente mediante una pla
 1. Predecesoras
 1. Asignaciones
 
-Una vez todo esté configurado, cambie el estado del proyecto a Actual para que el proyecto esté activo. A medida que avance el proyecto, querrá realizar un seguimiento del trabajo realizado, los problemas que surjan, las preguntas que necesiten respuesta y mucho más. Recuerde que puede encontrar y administrar toda esa información en [!DNL Workfront].
+Una vez todo esté configurado, cambie el estado del proyecto a Actual para que el proyecto esté activo. A medida que avance el proyecto, querrá hacer un seguimiento del trabajo que se está realizando, los problemas que surgen, las preguntas que necesitan respuesta, etc. Recuerde que puede encontrar y administrar toda esa información en [!DNL Workfront].

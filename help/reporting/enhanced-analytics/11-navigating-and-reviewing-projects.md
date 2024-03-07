@@ -1,6 +1,6 @@
 ---
 title: Explicación de la navegación y revisión de proyectos
-description: Aprenda a leer la tabla de planes de vuelo en [!UICONTROL Análisis mejorado].
+description: Obtenga información sobre cómo leer el gráfico del plan de grupo en [!UICONTROL Análisis mejorado].
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335047.png
@@ -13,9 +13,9 @@ recommendations: noDisplay,noCatalog
 exl-id: 1409a1af-3bdb-40f7-af01-f9de2357b602
 doc-type: video
 source-git-commit: d29054f0551a9add8460e4c9fd265cee2dfb72ca
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '459'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Comprender el gráfico de capacidad de recursos
-description: Obtenga información sobre el gráfico de capacidad de recursos en [!UICONTROL Análisis mejorado] muestra el número de horas planificadas asignadas a un equipo de inicio dentro del período de tiempo filtrado en comparación con el total de horas disponibles del equipo.
+description: Descubra cómo el gráfico de capacidad de recursos en [!UICONTROL Análisis mejorado] muestra el número de horas planificadas asignadas a un equipo local dentro del período de tiempo filtrado en comparación con el total de horas disponibles del equipo.
 activity: use
 team: Technical Marketing
 feature: Reports and Dashboards
@@ -12,9 +12,9 @@ jira: KT-10046
 recommendations: noDisplay,noCatalog
 exl-id: ec21049e-4f39-4bb4-91d2-c8873151811c
 source-git-commit: d29054f0551a9add8460e4c9fd265cee2dfb72ca
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '406'
-ht-degree: 92%
+ht-degree: 100%
 
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: Más allá del ejercicio de mapeo básico
+title: Ejercicio sobre Más allá de la asignación básica
 description: Información sobre cómo utilizar las fórmulas del panel de asignación para manipular o convertir los campos enviados a un módulo.
 activity: use
 team: Technical Marketing
@@ -12,13 +12,13 @@ thumbnail: KT11039.png
 recommendations: noDisplay,noCatalog
 exl-id: 979d794d-b936-402e-b07c-71e999f40780
 source-git-commit: a4e61514567ac8c2b4ad5c9ecacb87bd83947731
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '314'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 
-# Más allá del ejercicio de mapeo básico
+# Ejercicio sobre Más allá de la asignación básica
 
 Información sobre cómo utilizar las fórmulas del panel de asignación para manipular o convertir los campos enviados a un módulo.
 
