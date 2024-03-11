@@ -5,16 +5,16 @@ activity: use
 team: Technical Marketing
 type: Tutorial
 feature: Workfront Fusion
-role: User
+role: Admin
 level: Beginner
 jira: KT-9069
 exl-id: a16f408a-1a2f-4e5a-bbea-1f1b8124c091
 recommendations: noDisplay,noCatalog
 doc-type: video
-source-git-commit: a4e61514567ac8c2b4ad5c9ecacb87bd83947731
-workflow-type: ht
-source-wordcount: '83'
-ht-degree: 100%
+source-git-commit: 2d916e60fe92fc68fc247586acb7b50819c5fd2e
+workflow-type: tm+mt
+source-wordcount: '107'
+ht-degree: 77%
 
 ---
 
@@ -33,6 +33,11 @@ En este vídeo aprenderá:
 * Cómo invitar a usuarios a una organización y a un equipo
 
 >[!VIDEO](https://video.tv.adobe.com/v/335310/?quality=12&learn=on)
+
+>[!NOTE]
+>
+>Si su organización se ha incorporado a Adobe Admin Console, consulte [Añadir usuarios a Adobe Workfront Fusion mediante Adobe Admin Console](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/fusion-in-experience-cloud/add-fusion-users-admin-console.html).
+
 
 ## ¿Desea obtener más información? Recomendamos lo siguiente:
 
