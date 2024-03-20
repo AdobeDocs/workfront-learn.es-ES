@@ -12,9 +12,9 @@ jira: KT-8836
 exl-id: 57774ffc-a3e3-4802-9ea2-75ab47c7cc11
 doc-type: video
 source-git-commit: 2d916e60fe92fc68fc247586acb7b50819c5fd2e
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '164'
-ht-degree: 72%
+ht-degree: 100%
 
 ---
 
@@ -29,7 +29,7 @@ Este vídeo contiene información sobre:
 
 ## Cargar una versión desde el visualizador de pruebas
 
-Si tiene una prueba abierta en el visualizador de pruebas, puede iniciar una carga de versión directamente desde el menú de versión. Haga clic en [!UICONTROL Nueva versión] vínculo que se va a enrutar directamente a &quot;[!UICONTROL cargar una nueva versión]&quot; y complete la carga.
+Si tiene una prueba abierta en el visualizador de pruebas, puede iniciar una carga de versión directamente desde el menú de versión. Haga clic en el vínculo [!UICONTROL Nueva versión] que se enruta directamente a la página “[!UICONTROL cargar una nueva versión]” y complete la carga.
 
 ![Una imagen del visualizador de pruebas con el menú de versión expandido en la esquina superior izquierda y el vínculo [!UICONTROL Nueva versión] resaltado.](assets/upload-version-from-viewer.png)
 
@@ -37,9 +37,9 @@ Si tiene una prueba abierta en el visualizador de pruebas, puede iniciar una car
 
 >[!IMPORTANT]
 >
->Recuerde a sus compañeros que les envía una prueba como parte de su formación de Workfront.
+>Recuerde a sus compañeros de trabajo que les envía una prueba como parte de su formación en Workfront.
 
-Encuentre una revisión que haya cargado en Workfront. Cargue una nueva versión de esa prueba, asigne una nueva plantilla de flujo de trabajo o realice cambios en el flujo de trabajo existente.
+Encuentre una prueba que haya cargado en Workfront. Cargue una nueva versión de esa prueba, asigne una nueva plantilla de flujo de trabajo o realice cambios en el flujo de trabajo existente.
 
 <!--
 ### Learn more 
