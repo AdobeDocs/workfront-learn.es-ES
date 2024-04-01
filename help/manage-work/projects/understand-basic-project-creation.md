@@ -13,9 +13,9 @@ jira: KT-8768
 exl-id: 1be0bec5-13b3-44b0-ba49-d25adf0378a5
 doc-type: video
 source-git-commit: 27edaa8c15c1a7ed042708d2e20996a078ab871a
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '150'
-ht-degree: 71%
+ht-degree: 100%
 
 ---
 
@@ -23,8 +23,8 @@ ht-degree: 71%
 
 Este vídeo contiene información sobre:
 
-* Definición de un proyecto en Workfront
-* Pasos básicos para poner en marcha un proyecto
+* La definición de un proyecto en Workfront
+* Cuatro pasos para poner en marcha un proyecto
 * Información sobre tareas y problemas
 * Práctica recomendada para empezar a crear proyectos
 
