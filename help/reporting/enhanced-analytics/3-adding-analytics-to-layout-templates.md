@@ -1,6 +1,6 @@
 ---
-title: Adición de Analytics a las plantillas de diseño
-description: Descubra cómo los administradores de sistemas y grupos conceden acceso a Analytics.
+title: Cómo acceder a [!UICONTROL Análisis mejorado]
+description: Descubra cómo los administradores de sistemas y grupos conceden acceso a [!UICONTROL Análisis mejorado] mediante una plantilla de diseño.
 activity: use
 feature: Reports and Dashboards,Get Started with Workfront
 thumbnail: 335045.png
@@ -9,17 +9,28 @@ role: Admin
 level: Beginner
 team: Technical Marketing
 jira: KT-8726
+last-substantial-update: 2024-04-02T00:00:00Z
 recommendations: noDisplay,noCatalog
 exl-id: 4bdff3ba-772f-4526-ab6b-8428f695d9a2
 doc-type: video
-source-git-commit: cacc76a0dec27e7554eb0ac494d65a9255367226
-workflow-type: ht
-source-wordcount: '85'
-ht-degree: 100%
+source-git-commit: ab24a55009efd8960cb6f8fe1f4da553c9f8dbce
+workflow-type: tm+mt
+source-wordcount: '156'
+ht-degree: 44%
 
 ---
 
-# Adición de Analytics a las plantillas de diseño
+
+# Cómo acceder a Enhanced Analytics
+
+Al igual que la mayoría de las demás funciones de Workfront, puede acceder a [!UICONTROL Análisis mejorado] en el menú principal. Pero [!UICONTROL Analytics] no está en el menú principal de forma predeterminada.
+
+![Una imagen del menú principal ](assets/analytics-on-main-menu.png)
+
+Si no lo ve allí, el administrador del sistema o del grupo deberá agregarlo por usted. Lo harán en una plantilla de diseño. El siguiente vídeo explica cómo hacerlo.
+
+
+## Adición de Analytics a las plantillas de diseño
 
 En este vídeo, aprenderá cómo los administradores de sistemas y grupos otorgan acceso a [!UICONTROL Analytics] en Workfront.
 
