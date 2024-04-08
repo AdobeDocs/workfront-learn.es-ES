@@ -12,10 +12,10 @@ team: Technical Marketing
 jira: KT-8771
 exl-id: 2c70b05e-6320-41e6-9c28-782edd7d4a8c
 doc-type: video
-source-git-commit: 1506ba1d0209de4834a150536d9a530609413800
+source-git-commit: 109e024dd64ea1b53bffd4b3e1f7971ae0abb070
 workflow-type: tm+mt
-source-wordcount: '454'
-ht-degree: 91%
+source-wordcount: '475'
+ht-degree: 87%
 
 ---
 
@@ -34,7 +34,7 @@ Este vídeo contiene información sobre:
 
 La página del proyecto está repleta de funciones que le ayudarán a administrar su trabajo. Póngase en contacto con el administrador del sistema si necesita una opción, pero no la ve en su instancia de [!DNL Workfront]. Estas son algunas de las funciones principales de la página del proyecto que deben tenerse en cuenta.
 
-![Página del proyecto](assets/project-page-graphic-for-planner.png)
+![Captura de pantalla de la página del proyecto](assets/project-page-graphic-for-planner-v2.png)
 
 1. **Ruta de exploración:** navegue por la jerarquía de programas y portafolios detrás del proyecto.
 2. **Tipo de objeto:** mostrar el tipo de objeto en la página de aterrizaje le ayuda a identificar lo que está viendo en [!DNL Workfront]. El término “proyecto” puede personalizarlo su administrador del sistema [!DNL Workfront].
@@ -50,10 +50,5 @@ La página del proyecto está repleta de funciones que le ayudarán a administra
 12. **Menú del panel izquierdo:** vaya a información diversa sobre el proyecto con el panel izquierdo. Haga clic en el icono para contraer el panel si necesita un poco más de espacio en la pantalla. Arrastre y suelte los iconos para que el orden le ayude a trabajar de forma eficaz. Las opciones que ve las establece el administrador del sistema de [!DNL Workfront].
 13. **Lista de tareas:** muestra todas las tareas que conforman el plan del proyecto. La información visible sobre cada tarea viene determinada por la vista seleccionada.
 14. **Panel de resumen:** El panel de resumen proporciona una vista rápida de la información sobre la tarea seleccionada. Haga clic en el icono para abrir o cerrar.
+15. **Agregar más tareas** Haga clic aquí para agregar otra tarea al final de la lista de tareas mediante la edición en línea.
 
-<!---
-learn more:
-simplified left navigation
-edit projects
-new toolbar for lists
---->
