@@ -12,7 +12,7 @@ team: Technical Marketing
 jira: KT-8771
 exl-id: 2c70b05e-6320-41e6-9c28-782edd7d4a8c
 doc-type: video
-source-git-commit: 109e024dd64ea1b53bffd4b3e1f7971ae0abb070
+source-git-commit: adb114409c60ee4d52a7477116e2acef62ce30df
 workflow-type: tm+mt
 source-wordcount: '475'
 ht-degree: 87%
@@ -51,4 +51,5 @@ La página del proyecto está repleta de funciones que le ayudarán a administra
 13. **Lista de tareas:** muestra todas las tareas que conforman el plan del proyecto. La información visible sobre cada tarea viene determinada por la vista seleccionada.
 14. **Panel de resumen:** El panel de resumen proporciona una vista rápida de la información sobre la tarea seleccionada. Haga clic en el icono para abrir o cerrar.
 15. **Agregar más tareas** Haga clic aquí para agregar otra tarea al final de la lista de tareas mediante la edición en línea.
+
 
