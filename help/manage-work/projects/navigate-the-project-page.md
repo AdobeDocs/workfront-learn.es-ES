@@ -15,7 +15,7 @@ doc-type: video
 source-git-commit: adb114409c60ee4d52a7477116e2acef62ce30df
 workflow-type: tm+mt
 source-wordcount: '475'
-ht-degree: 87%
+ht-degree: 95%
 
 ---
 
@@ -46,10 +46,10 @@ La página del proyecto está repleta de funciones que le ayudarán a administra
 8. **[!UICONTROL Condición]:** la [!UICONTROL Condición] es una representación visual del progreso del proyecto. [!DNL Workfront] puede configurar automáticamente la [!UICONTROL Condición] en función del estado de progreso de las tareas del proyecto. O la [!UICONTROL Condición] se puede configurar manualmente mediante los detalles del proyecto.
 9. **[!UICONTROL Estado]:** el [!UICONTROL Estado] indica en qué parte del proceso se encuentra el proyecto. Si el proyecto aún está en fase de planificación, en curso o si se ha completado todo el trabajo del proyecto.
 10. **[!UICONTROL Nueva tarea]:** haga clic para crear una nueva tarea en el proyecto. La tarea se genera en la parte inferior de la lista.
-11. **[!UICONTROL Exportar]:** Exporta la lista de tareas o las tareas seleccionadas a un archivo de PDF, hoja de cálculo o delimitado por tabulaciones.
+11. **[!UICONTROL Exportar]:** exporte la lista de tareas o tareas seleccionadas a un PDF, hoja de cálculo o archivo delimitado por tabuladores.
 12. **Menú del panel izquierdo:** vaya a información diversa sobre el proyecto con el panel izquierdo. Haga clic en el icono para contraer el panel si necesita un poco más de espacio en la pantalla. Arrastre y suelte los iconos para que el orden le ayude a trabajar de forma eficaz. Las opciones que ve las establece el administrador del sistema de [!DNL Workfront].
 13. **Lista de tareas:** muestra todas las tareas que conforman el plan del proyecto. La información visible sobre cada tarea viene determinada por la vista seleccionada.
-14. **Panel de resumen:** El panel de resumen proporciona una vista rápida de la información sobre la tarea seleccionada. Haga clic en el icono para abrir o cerrar.
+14. **Panel de resumen:** el panel de resumen proporciona un vistazo rápido a la información sobre la tarea seleccionada. Haga clic en el icono para abrir o cerrar.
 15. **Agregar más tareas** Haga clic aquí para agregar otra tarea al final de la lista de tareas mediante la edición en línea.
 
 
