@@ -1,6 +1,6 @@
 ---
 title: Personalizar [!UICONTROL Inicio] con plantillas de diseño
-description: Aprenda a personalizar los usuarios [!UICONTROL Inicio] para acceder, rastrear, aprobar y actualizar el trabajo de forma rápida y sencilla.
+description: Aprenda a personalizar el área [!UICONTROL Inicio] de sus usuarios para acceder, realizar el seguimiento, aprobar y actualizar el trabajo de forma rápida y sencilla.
 feature: System Setup and Administration
 team: Technical Marketing
 role: Admin
@@ -12,22 +12,22 @@ jira: KT-8767
 exl-id: cab57062-5aab-4ab4-9d3b-cd9dd9df3b47
 doc-type: video
 source-git-commit: f383784d7859926ab6c4f40f713577eba2154b39
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '80'
-ht-degree: 42%
+ht-degree: 100%
 
 ---
 
-# Personalizar [!UICONTROL Espacio de trabajo principal] con plantillas de diseño
+# Personalizar el [!UICONTROL espacio de trabajo Inicio] con plantillas de diseño
 
-Aprenda a personalizar los usuarios [!UICONTROL Inicio] para acceder, rastrear, aprobar y actualizar el trabajo de forma rápida y sencilla.
+Aprenda a personalizar el área [!UICONTROL Inicio] de sus usuarios para acceder, realizar el seguimiento, aprobar y actualizar el trabajo de forma rápida y sencilla.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3428091/?quality=12&learn=on)
 
 <br>
 </br>
 
-## Personalizar heredado [!UICONTROL Inicio] con plantillas de diseño
+## Personalizar [!UICONTROL Inicio] heredado con plantillas de diseño
 
 Este vídeo contiene información sobre:
 
