@@ -3,10 +3,10 @@ user-guide-description: Tutoriales de Workfront
 role: User
 level: Beginner
 feature-set: Workfront
-source-git-commit: ab24a55009efd8960cb6f8fe1f4da553c9f8dbce
+source-git-commit: c2ba2ddfbbc642398a0136ecbf7c3613208080c4
 workflow-type: tm+mt
 source-wordcount: '2404'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -107,9 +107,9 @@ ht-degree: 99%
 + Administrar trabajo {#manage-work}
    + Proyectos {#projects}
       + [Información sobre la creación básica del proyecto](manage-work/projects/understand-basic-project-creation.md)
+      + [Navegar por la página del proyecto](manage-work/projects/navigate-the-project-page.md)
       + [Descubra cuatro formas para crear un proyecto](manage-work/projects/understand-other-ways-to-create-projects.md)
       + [Rellene los detalles del proyecto](manage-work/projects/fill-in-the-project-details.md)
-      + [Navegar por la página del proyecto](manage-work/projects/navigate-the-project-page.md)
       + [Introducción a la planificación de un proyecto](manage-work/projects/getting-started-plan-a-project.md)
       + [Lanzamiento de un proyecto](manage-work/projects/take-a-project-live.md)
       + [Introducción a la administración de un proyecto](manage-work/projects/getting-started-manage-a-project.md)
@@ -153,7 +153,7 @@ ht-degree: 99%
       + [Respuestas a preguntas comunes sobre las colas de solicitud](manage-work/request-queues/request-queue-faq.md)
 
    + Portafolios {#portfolios}
-      + [Comprender los portafolios](portfolios-and-programs/overview-of-adobe-workfront-portfolios.md)
+      + [Comprensión de los portafolios](portfolios-and-programs/overview-of-adobe-workfront-portfolios.md)
       + [Información sobre el [!UICONTROL Caso empresarial]](portfolios-and-programs/introduction-to-the-business-case.md)
       + [Utilice el [!UICONTROL Optimizador de portafolios] para priorizar y administrar el trabajo](portfolios-and-programs/prioritize-and-manage-work-with-portfolios.md)
 

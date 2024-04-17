@@ -12,25 +12,21 @@ last-substantial-update: 2024-04-02T00:00:00Z
 jira: KT-13737
 doc-type: video
 exl-id: 1789418f-095b-4621-afe7-fd222d5908e8
-source-git-commit: ab24a55009efd8960cb6f8fe1f4da553c9f8dbce
+source-git-commit: c9a137de3772a70b81294930823e3db92a96d893
 workflow-type: tm+mt
-source-wordcount: '213'
-ht-degree: 52%
+source-wordcount: '212'
+ht-degree: 100%
 
 ---
 
 # Comprender a los predecesores de varios proyectos
 
->[!IMPORTANT]
->
->Requisitos previos:
+Las tareas predecesoras entre proyectos son una forma sencilla de establecer dependencias entre tareas de distintos proyectos. Por ejemplo, una compañía constructora puede tener un proyecto llamado **Construcción de una carretera de acceso al desarrollo de viviendas de Summerhill** y otro proyecto llamado **Construcción de una casa modelo en Summerhill**. Haciendo que la primera tarea en **Construcción de una casa modelo** tenga una tarea predecesora entre proyectos de la última tarea de **Construcción de una carretera de acceso**, se asegura de que la carretera de acceso esté en su lugar antes de comenzar a construir la casa. Como las tareas están vinculadas, si el proyecto **Construcción de la carretera de acceso** se retrasa, la fecha de inicio prevista de **Construcción de una casa modelo** se retrasará automáticamente en consecuencia.
+
+>[!PREREQUISITES]
 >
 >* [Aprenda a secuenciar tareas](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/tasks/learn-to-sequence-tasks.html?lang=es)
 >* O ya se siente cómodo utilizando tareas predecesoras en sus proyectos
-
->[!NOTE]
->
->Las tareas predecesoras entre proyectos son una forma sencilla de establecer dependencias entre tareas de distintos proyectos. Por ejemplo, una empresa constructora puede tener un proyecto llamado **Construye una carretera de acceso a Summerhill Vivienda Desarrollo** y otro proyecto llamado **Construir una casa modelo en Summerhill**. Realizando la primera tarea en **Página principal del modelo de compilación** tiene una tarea predecesora entre proyectos de la última tarea en **Carretera de acceso de construcción**, se asegura de que la carretera de acceso esté en su lugar antes de comenzar a construir la casa. Como las tareas están vinculadas, si la variable **Carretera de acceso de construcción** resbalones del proyecto, la variable **Página principal del modelo de compilación** la fecha de inicio planificada se retrasará automáticamente según corresponda.
 
 
 En este vídeo aprenderá:

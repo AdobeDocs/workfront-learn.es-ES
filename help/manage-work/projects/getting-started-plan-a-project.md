@@ -8,13 +8,14 @@ type: Tutorial
 role: User
 level: Beginner
 team: Technical Marketing
+recommendations: noDisplay,noCatalog
 jira: KT-8772
 exl-id: 6df467a3-6e26-4bd4-94ac-b77cd43b5aa3
 doc-type: video
-source-git-commit: cacc76a0dec27e7554eb0ac494d65a9255367226
-workflow-type: ht
-source-wordcount: '77'
-ht-degree: 100%
+source-git-commit: c2ba2ddfbbc642398a0136ecbf7c3613208080c4
+workflow-type: tm+mt
+source-wordcount: '109'
+ht-degree: 95%
 
 ---
 
@@ -28,3 +29,12 @@ Este vídeo contiene información sobre:
 * Cómo establecer la fecha de inicio o finalización
 
 >[!VIDEO](https://video.tv.adobe.com/v/335086/?quality=12&learn=on)
+
+## Tutoriales recomendados sobre este tema
+
+* [Creación de tareas](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/tasks/how-to-create-tasks.html?lang=es)
+* [Trabajo con tareas](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/tasks/work-with-tasks.html?lang=es)
+* [Asignación de tareas del plan del proyecto](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/tasks/assign-tasks-from-the-project-plan.html?lang=es)
+* [Información sobre las duraciones de las tareas](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/tasks/understand-task-durations.html?lang=es)
+* [Aprenda a secuenciar tareas](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/tasks/learn-to-sequence-tasks.html?lang=es)
+* [Comprender las horas planificadas](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/tasks/understand-planned-hours.html?lang=es)

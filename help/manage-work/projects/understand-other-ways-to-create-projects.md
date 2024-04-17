@@ -9,13 +9,14 @@ role: User
 level: Beginner
 team: Technical Marketing
 jira: KT-8770
+recommendations: noDisplay,noCatalog
 last-substantial-update: 2024-03-05T00:00:00Z
 exl-id: 98eaadc5-1b1d-4641-83a5-818e7dd60769
 doc-type: video
-source-git-commit: 5358a1e6f3c2cddfb2066954a922d8804e0b0a14
-workflow-type: ht
-source-wordcount: '94'
-ht-degree: 100%
+source-git-commit: c2ba2ddfbbc642398a0136ecbf7c3613208080c4
+workflow-type: tm+mt
+source-wordcount: '83'
+ht-degree: 74%
 
 ---
 
@@ -30,11 +31,9 @@ Este vídeo contiene información sobre:
 
 >[!VIDEO](https://video.tv.adobe.com/v/335084/?quality=12&learn=on)
 
-## Más información sobre cómo trabajar con tareas
+## Tutoriales recomendados sobre este tema
 
-* [Creación de tareas](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/tasks/how-to-create-tasks.html?lang=es)
-* [Trabajo con tareas](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/tasks/work-with-tasks.html?lang=es)
-* [Asignación de tareas del plan del proyecto](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/tasks/assign-tasks-from-the-project-plan.html?lang=es)
-* [Información sobre las duraciones de las tareas](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/tasks/understand-task-durations.html?lang=es)
-* [Aprenda a secuenciar tareas](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/tasks/learn-to-sequence-tasks.html?lang=es)
-* [Comprender las horas planificadas](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/tasks/understand-planned-hours.html?lang=es)
+* [Comprender la creación básica de proyectos](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/projects/understand-basic-project-creation)
+* [Navegar por la página del proyecto](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/projects/navigate-the-project-page)
+* [Rellene los detalles del proyecto](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/projects/fill-in-the-project-details)
+
