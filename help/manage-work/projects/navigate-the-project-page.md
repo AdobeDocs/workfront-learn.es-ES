@@ -16,7 +16,7 @@ doc-type: video
 source-git-commit: c2ba2ddfbbc642398a0136ecbf7c3613208080c4
 workflow-type: tm+mt
 source-wordcount: '498'
-ht-degree: 72%
+ht-degree: 77%
 
 ---
 
@@ -51,7 +51,7 @@ La página del proyecto está repleta de funciones que le ayudarán a administra
 12. **Menú del panel izquierdo:** vaya a información diversa sobre el proyecto con el panel izquierdo. Haga clic en el icono Tarea en la parte superior para contraer el panel si necesita un poco más de espacio en la pantalla. Arrastre y suelte los iconos para que el orden le ayude a trabajar de forma eficaz. Las opciones que ve las establece el administrador del sistema de [!DNL Workfront].
 13. **Lista de tareas:** muestra todas las tareas que conforman el plan del proyecto. La información visible sobre cada tarea viene determinada por la vista seleccionada.
 14. **Panel de resumen:** el panel de resumen proporciona un vistazo rápido a la información sobre la tarea seleccionada. Haga clic en el icono del panel de resumen para abrir o cerrar.
-15. **Agregar más tareas** Haga clic aquí para agregar otra tarea al final de la lista de tareas mediante la edición en línea.
+15. **Añadir más tareas** Haga clic aquí para añadir otra tarea al final de la lista de tareas mediante la edición en línea.
 
 ## Tutoriales recomendados sobre este tema
 
