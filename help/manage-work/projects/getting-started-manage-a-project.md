@@ -8,14 +8,15 @@ type: Tutorial
 role: User
 level: Beginner
 team: Technical Marketing
+last-substantial-update: 2024-04-22T00:00:00Z
 recommendations: noDisplay,noCatalog
 jira: KT-8781
 exl-id: 4202941d-eb2d-43b5-91e8-06b0076a470d
 doc-type: video
-source-git-commit: c9a137de3772a70b81294930823e3db92a96d893
+source-git-commit: 109b55ef1c161e458e9152b32142c727778b2b5d
 workflow-type: tm+mt
-source-wordcount: '209'
-ht-degree: 87%
+source-wordcount: '211'
+ht-degree: 77%
 
 ---
 
@@ -41,7 +42,7 @@ Sin embargo, independientemente de cómo administre un proyecto, debe tener en c
 * Comuníquese con las partes interesadas.
 * Celebre los triunfos en el camino.
 
-En última instancia, su principal trabajo es guiar el proyecto hacia su finalización satisfactoria. [!DNL Workfront] puede ayudarle a monitorizar el trabajo que se está realizando a través de la cronología del proyecto, filtros, vistas y agrupaciones, actualizaciones, informes, etc.
+En última instancia, su principal trabajo es guiar el proyecto hacia su finalización satisfactoria. Adobe Workfront puede ayudarle a monitorizar el trabajo que se realiza en la cronología del proyecto; filtros, vistas y agrupaciones; actualizaciones; informes... y más.
 
 <!---
 learn more urls
