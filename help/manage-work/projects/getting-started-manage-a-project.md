@@ -1,6 +1,6 @@
 ---
 title: Introducción a la administración de un proyecto
-description: Conozca cuál es su función como administrador de proyectos y en qué fijarse al monitorizar el trabajo.
+description: Obtenga información sobre cómo monitorizar el progreso del proyecto, profundizar para ver los detalles de las tareas y cómo comunicarse con las partes interesadas.
 activity: use
 feature: Work Management,Get Started with Workfront
 thumbnail: 335094.jpeg
@@ -13,10 +13,10 @@ recommendations: noDisplay,noCatalog
 jira: KT-8781
 exl-id: 4202941d-eb2d-43b5-91e8-06b0076a470d
 doc-type: video
-source-git-commit: 109b55ef1c161e458e9152b32142c727778b2b5d
+source-git-commit: 711f00f77facf887b703a075f8cef97b7e1829ff
 workflow-type: tm+mt
-source-wordcount: '211'
-ht-degree: 77%
+source-wordcount: '213'
+ht-degree: 60%
 
 ---
 
@@ -24,8 +24,9 @@ ht-degree: 77%
 
 Este vídeo contiene información sobre:
 
-* En qué fijarse al monitorizar el trabajo de un proyecto
-* Cuál es su función como administrador de proyectos
+* Monitorización del progreso del proyecto
+* Cómo explorar en profundidad para ver los detalles de la tarea
+* Comunicación con las partes interesadas
 
 >[!VIDEO](https://video.tv.adobe.com/v/335094/?quality=12&learn=on)
 
