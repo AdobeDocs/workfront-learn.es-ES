@@ -16,7 +16,7 @@ doc-type: video
 source-git-commit: 711f00f77facf887b703a075f8cef97b7e1829ff
 workflow-type: tm+mt
 source-wordcount: '213'
-ht-degree: 60%
+ht-degree: 72%
 
 ---
 
@@ -56,8 +56,8 @@ Project management knowledge areas
 
 ## Tutoriales recomendados sobre este tema
 
-* [Publique un proyecto](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/projects/take-a-project-live.md)
-* [Buscar proyectos](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/projects/find-projects.md)
+* [Lanzamiento de un proyecto](https://experienceleague.adobe.com/es/docs/workfront-learn/tutorials-workfront/manage-work/projects/take-a-project-live.md)
+* [Encontrar proyectos](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/projects/find-projects.md)
 * [Compartir un proyecto](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/projects/share-a-project.md)
-* [Comprensión del equipo del proyecto](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/projects/understand-the-project-team.md)
+* [Información sobre el equipo del proyecto](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/projects/understand-the-project-team.md)
 * [Comprender la comunicación del proyecto](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/projects/understand-project-communication.md)
