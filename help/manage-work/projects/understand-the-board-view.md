@@ -13,9 +13,9 @@ recommendations: noDisplay,noCatalog
 jira: KT-13743
 exl-id: f28cbb99-ef14-4ef2-96c8-d5e01d609ede
 source-git-commit: c9a137de3772a70b81294930823e3db92a96d893
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '66'
-ht-degree: 57%
+ht-degree: 100%
 
 ---
 
@@ -33,5 +33,5 @@ En este vídeo aprenderá:
 
 * [Introducción a la administración de un proyecto](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/projects/getting-started-manage-a-project.md)
 * [Seguimiento del progreso general del proyecto](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/projects/track-overall-project-progress.md)
-* [Seguimiento del progreso del trabajo con métricas del proyecto](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/projects/track-work-progress-with-project-metrics.md)
-* [Comprender el [!UICONTROL Gantt] vista](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/projects/understand-the-gantt-view.md)
+* [Seguimiento del progreso del trabajo con las métricas del proyecto](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/projects/track-work-progress-with-project-metrics.md)
+* [Comprender la vista [!UICONTROL Gantt]](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/projects/understand-the-gantt-view.md)

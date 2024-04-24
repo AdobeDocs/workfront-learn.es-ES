@@ -13,9 +13,9 @@ recommendations: noDisplay,noCatalog
 jira: KT-10147
 exl-id: 0f2a2c78-8844-47b1-b0db-542392d9ce97
 source-git-commit: c9a137de3772a70b81294930823e3db92a96d893
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '113'
-ht-degree: 79%
+ht-degree: 100%
 
 ---
 
@@ -40,6 +40,6 @@ En este vídeo aprenderá a comunicarse con todas las partes interesadas del pro
 ## Tutoriales recomendados sobre este tema
 
 * [Introducción a la administración de un proyecto](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/projects/getting-started-manage-a-project.md)
-* [Buscar proyectos](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/projects/find-projects.md)
+* [Encontrar proyectos](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/projects/find-projects.md)
 * [Compartir un proyecto](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/projects/share-a-project.md)
-* [Comprensión del equipo del proyecto](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/anage-work/projects/understand-the-project-team.md)
+* [Información sobre el equipo del proyecto](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/anage-work/projects/understand-the-project-team.md)

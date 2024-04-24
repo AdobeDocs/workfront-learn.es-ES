@@ -14,9 +14,9 @@ last-substantial-update: 2024-03-05T00:00:00Z
 exl-id: 98eaadc5-1b1d-4641-83a5-818e7dd60769
 doc-type: video
 source-git-commit: c2ba2ddfbbc642398a0136ecbf7c3613208080c4
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '83'
-ht-degree: 74%
+ht-degree: 100%
 
 ---
 
@@ -33,7 +33,7 @@ Este vídeo contiene información sobre:
 
 ## Tutoriales recomendados sobre este tema
 
-* [Comprender la creación básica de proyectos](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/projects/understand-basic-project-creation)
+* [Información sobre la creación básica del proyecto](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/projects/understand-basic-project-creation)
 * [Navegar por la página del proyecto](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/projects/navigate-the-project-page)
-* [Rellene los detalles del proyecto](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/projects/fill-in-the-project-details)
+* [Rellene los detalles del proyecto](https://experienceleague.adobe.com/es/docs/workfront-learn/tutorials-workfront/manage-work/projects/fill-in-the-project-details)
 

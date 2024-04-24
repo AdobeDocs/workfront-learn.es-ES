@@ -12,9 +12,9 @@ recommendations: noDisplay,noCatalog
 jira: KT-10149
 exl-id: 03ebbbaf-0f8a-43ff-b682-9766aca25741
 source-git-commit: c9a137de3772a70b81294930823e3db92a96d893
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '231'
-ht-degree: 87%
+ht-degree: 100%
 
 ---
 
@@ -46,6 +46,6 @@ Overview of project condition and condition type
 ## Tutoriales recomendados sobre este tema
 
 * [Introducción a la administración de un proyecto](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/projects/getting-started-manage-a-project.md)
-* [Seguimiento del progreso del trabajo con métricas del proyecto](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/projects/track-work-progress-with-project-metrics.md)
-* [Comprender el [!UICONTROL Gantt] vista](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/projects/understand-the-gantt-view.md)
-* [Comprender el [!UICONTROL Tablero] vista](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/projects/understand-the-board-view.md)
+* [Seguimiento del progreso del trabajo con las métricas del proyecto](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/projects/track-work-progress-with-project-metrics.md)
+* [Comprender la vista [!UICONTROL Gantt]](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/projects/understand-the-gantt-view.md)
+* [Comprender la vista [!UICONTROL Tablero]](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/projects/understand-the-board-view.md)

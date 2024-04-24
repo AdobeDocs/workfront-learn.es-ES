@@ -13,9 +13,9 @@ recommendations: noDisplay,noCatalog
 jira: KT-10144
 exl-id: 9f9cf889-8be5-43e2-88ab-52b1c35603ec
 source-git-commit: c9a137de3772a70b81294930823e3db92a96d893
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '92'
-ht-degree: 69%
+ht-degree: 100%
 
 ---
 
@@ -34,5 +34,5 @@ Puede obtener más información con el artículo en línea [Introducción al gr�
 
 * [Introducción a la administración de un proyecto](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/projects/getting-started-manage-a-project.md)
 * [Seguimiento del progreso general del proyecto](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/projects/track-overall-project-progress.md)
-* [Seguimiento del progreso del trabajo con métricas del proyecto](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/projects/track-work-progress-with-project-metrics.md)
-* [Comprender el [!UICONTROL Tablero] vista](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/projects/understand-the-board-view.md)
+* [Seguimiento del progreso del trabajo con las métricas del proyecto](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/projects/track-work-progress-with-project-metrics.md)
+* [Comprender la vista [!UICONTROL Tablero]](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/projects/understand-the-board-view.md)
