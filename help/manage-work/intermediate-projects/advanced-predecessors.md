@@ -12,21 +12,21 @@ last-substantial-update: 2023-09-14T00:00:00Z
 jira: KT-13879
 doc-type: video
 exl-id: a9d9ffa6-9ff1-4a77-9288-7cd0009a7ad6
-source-git-commit: c67e4c30947c383fd6ed4de7a861f09a654c5c20
-workflow-type: ht
-source-wordcount: '97'
+source-git-commit: 61b6971457198d2c39cc4dab67aebc6e8c6988f6
+workflow-type: tm+mt
+source-wordcount: '96'
 ht-degree: 100%
 
 ---
 
 # Predecesoras avanzadas
 
->[!IMPORTANT]
->
->Requisitos previos:
+
+>[!PREREQUISITES]
 >
 >* [Aprenda a secuenciar tareas](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/tasks/learn-to-sequence-tasks.html?lang=es)
 >* O ya se siente cómodo utilizando tareas predecesoras en sus proyectos
+
 
 En este vídeo, aprenderá acerca de lo siguiente:
 

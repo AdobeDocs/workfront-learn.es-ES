@@ -11,22 +11,22 @@ team: Technical Marketing
 last-substantial-update: 2024-02-01T00:00:00Z
 jira: KT-14864
 doc-type: video
-source-git-commit: 104e03ccca2faeae5379698a6c7e5066d49db120
-workflow-type: ht
-source-wordcount: '152'
+exl-id: bef0ba6b-6c29-46ec-ae0d-c54f5609ff5f
+source-git-commit: 61b6971457198d2c39cc4dab67aebc6e8c6988f6
+workflow-type: tm+mt
+source-wordcount: '151'
 ht-degree: 100%
 
 ---
 
 # Crear una cola de solicitudes de comentarios de administrador del sistema
 
->[!IMPORTANT]
->
->Requisitos previos:
+>[!PREREQUISITES]
 >
 >* [Crear una cola de solicitudes](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/request-queues/create-a-request-queue.html?lang=es)
 >* [Crear un flujo de solicitud](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/request-queues/create-a-request-flow.html?lang=es)
 >* O si se siente cómodo creando una cola de solicitudes que usa una regla de enrutamiento y un formulario personalizado.
+
 
 En este vídeo aprenderá:
 
