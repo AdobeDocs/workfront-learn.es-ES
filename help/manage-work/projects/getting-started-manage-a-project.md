@@ -1,6 +1,6 @@
 ---
 title: Introducción a la administración de un proyecto
-description: Obtenga información sobre cómo monitorizar el progreso del proyecto, profundizar para ver los detalles de las tareas y cómo comunicarse con las partes interesadas.
+description: Obtenga información sobre cómo supervisar el progreso del proyecto, profundizar para ver los detalles de las tareas y cómo comunicarse con las partes interesadas.
 activity: use
 feature: Work Management,Get Started with Workfront
 thumbnail: 335094.jpeg
@@ -14,9 +14,9 @@ jira: KT-8781
 exl-id: 4202941d-eb2d-43b5-91e8-06b0076a470d
 doc-type: video
 source-git-commit: 711f00f77facf887b703a075f8cef97b7e1829ff
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '213'
-ht-degree: 72%
+ht-degree: 100%
 
 ---
 
@@ -24,9 +24,9 @@ ht-degree: 72%
 
 Este vídeo contiene información sobre:
 
-* Monitorización del progreso del proyecto
+* Cómo supervisar el progreso del proyecto
 * Cómo explorar en profundidad para ver los detalles de la tarea
-* Comunicación con las partes interesadas
+* Cómo comunicarse con las partes interesadas
 
 >[!VIDEO](https://video.tv.adobe.com/v/335094/?quality=12&learn=on)
 
@@ -43,7 +43,7 @@ Sin embargo, independientemente de cómo administre un proyecto, debe tener en c
 * Comuníquese con las partes interesadas.
 * Celebre los triunfos en el camino.
 
-En última instancia, su principal trabajo es guiar el proyecto hacia su finalización satisfactoria. Adobe Workfront puede ayudarle a monitorizar el trabajo que se realiza en la cronología del proyecto; filtros, vistas y agrupaciones; actualizaciones; informes... y más.
+En última instancia, su principal trabajo es guiar el proyecto hacia su finalización satisfactoria. Adobe Workfront puede ayudarle a supervisar el trabajo que se está realizando mediante la escala de tiempo del proyecto, filtros, vistas y agrupaciones; actualizaciones, informes, etc.
 
 <!---
 learn more urls
