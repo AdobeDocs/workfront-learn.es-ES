@@ -8,31 +8,26 @@ thumbnail: view-project-information.jpeg
 type: Tutorial
 role: User
 level: Beginner
+last-substantial-update: 2024-05-01T00:00:00Z
 recommendations: noDisplay,noCatalog
 jira: KT-10145
 exl-id: e89be0d0-4584-4985-8a6f-177ea6c5b951
-source-git-commit: c2ba2ddfbbc642398a0136ecbf7c3613208080c4
-workflow-type: ht
-source-wordcount: '201'
-ht-degree: 100%
+source-git-commit: 0d591bb306efde6a5cd1606d42b058309d8494b8
+workflow-type: tm+mt
+source-wordcount: '67'
+ht-degree: 64%
 
 ---
 
 # Ver información del proyecto
 
-Si está viendo la página principal de los [!UICONTROL Proyectos] o un proyecto individual, ajuste la lista para ver la información que necesita con [!UICONTROL Filtros], [!UICONTROL Vistas] y [!UICONTROL Agrupaciones].
+En este vídeo, aprenderá a utilizar filtros, vistas y agrupaciones para ver:
 
-Puede obtener una vista de alto nivel del progreso de todos sus proyectos en la página [!UICONTROL Proyectos].
+* Información de nivel de proyecto
+* Información de nivel de tarea
+* Información de nivel de problema
 
-![Página de proyecto con filtros mostrados](assets/planner-fund-project-page-fvg-copy.png)
-
-Utilice los [!UICONTROL Filtros] para reducir la lista según ciertos criterios. A continuación, seleccione una [!UICONTROL Vista] para mostrar las columnas de información que son relevantes para sus proyectos. Finalmente, seleccione una [!UICONTROL Agrupación] para organizar los proyectos de una manera que tenga sentido para usted.
-
-Cuando esté en la sección [!UICONTROL Tareas] de un proyecto, utilice [!UICONTROL Filtros], [!UICONTROL Vistas] y [!UICONTROL Agrupaciones] para supervisar el trabajo realizado. Como está mirando las tareas en lugar de los proyectos, tiene un conjunto de opciones totalmente diferente.
-
-![Se muestra una lista de tareas de proyecto con vistas](assets/planner-fund-task-list-fvg.png)
-
-Muchos clientes de [!DNL Workfront] crean vistas personalizadas que exponen información de formulario personalizada y otros campos relevantes para el trabajo realizado.
+>[!VIDEO](https://video.tv.adobe.com/v/3428815/?quality=12&learn=on)
 
 ## Tutoriales recomendados sobre este tema
 
