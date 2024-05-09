@@ -1,6 +1,6 @@
 ---
 title: Comprender las tareas principales y secundarias
-description: Descubra cómo se estructuran las tareas utilizando una relación principal secundaria en un proyecto de  [!DNL  Workfront] .
+description: Descubra cómo se estructuran las tareas mediante una relación principal-secundario en un proyecto de Workfront.
 activity: use
 feature: Work Management
 thumbnail: 335087.jpeg
@@ -8,13 +8,14 @@ type: Tutorial
 role: User
 level: Beginner
 team: Technical Marketing
+recommendations: noDisplay,noCatalog
 jira: KT-8774
 exl-id: 882e421d-8ed9-492f-8810-7bc2de8fc820
 doc-type: video
-source-git-commit: ec82cd0aafb89df7b3c46eb716faf3a25cd438a2
-workflow-type: ht
-source-wordcount: '133'
-ht-degree: 100%
+source-git-commit: a9d85c93225055f4e8fcda93fb366f83ba960f0e
+workflow-type: tm+mt
+source-wordcount: '51'
+ht-degree: 68%
 
 ---
 
@@ -26,18 +27,9 @@ Este vídeo contiene información sobre:
 
 >[!VIDEO](https://video.tv.adobe.com/v/335087/?quality=12&learn=on)
 
+## Tutoriales recomendados sobre este tema
 
-## Ir de una tarea a una subtarea y viceversa
-
-Los botones **Aplicar sangría** y **Anular sangría** se utilizan para ir de una tarea a una subtarea o de una subtarea a una no subtarea.
-
-![Imagen de los botones Aplicar sangría y Anular sangría.](assets/indent-and-outdent.png)
-
-Seleccione “[!UICONTROL Diseño de marca de agua]” y haga clic en el botón **Aplicar sangría**. “[!UICONTROL Diseño de marca de agua]” se convertirá en una subtarea en “[!UICONTROL Mockups conceptuales]”, que se convertirá en una tarea principal.
-
-![Imagen del uso del botón Aplicar sangría.](assets/indent.png)
-
-Seleccione “[!UICONTROL Diseño de marca de agua]” cuando sea una subtarea y haga clic en el botón **Anular sangría**. &quot;[!UICONTROL Diseño de marca de agua]&quot; se convertirá en una tarea normal en el mismo nivel que &quot;[!UICONTROL Mockups conceptuales]&quot;.
-
-![Imagen del uso del botón para anular la sangría.](assets/outdent.png)
+* [Creación de tareas](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/tasks/how-to-create-tasks)
+* [Trabajo con tareas](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/tasks/work-with-tasks)
+* [Asignación de tareas del plan del proyecto](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/tasks/assign-tasks-from-the-project-plan)
 
