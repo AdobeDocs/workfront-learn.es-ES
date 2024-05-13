@@ -9,11 +9,12 @@ type: Tutorial
 role: User
 level: Beginner
 jira: KT-10153
+recommendations: noDisplay,noCatalog
 exl-id: 71ed10b8-4801-4cd3-828c-334f6c3a86d8
-source-git-commit: ec82cd0aafb89df7b3c46eb716faf3a25cd438a2
-workflow-type: ht
-source-wordcount: '175'
-ht-degree: 100%
+source-git-commit: b41fbb673e46687e7f2b49ee77bc026d22774540
+workflow-type: tm+mt
+source-wordcount: '188'
+ht-degree: 98%
 
 ---
 
@@ -30,3 +31,8 @@ De esta manera, si planea el uso de cualquiera de las herramientas de administra
 ![Lista de tareas del proyecto con la columna [!UICONTROL Esfuerzo laboral] ](assets/planner-fund-work-effort.png)
 
 Para obtener más información sobre el [!UICONTROL esfuerzo laboral], consulte el artículo de [Información general sobre el esfuerzo laboral](https://experienceleague.adobe.com/docs/workfront/using/manage-work/tasks/task-information/work-effort.html?lang=es).
+
+## Tutoriales recomendados sobre este tema
+
+* [Información sobre las duraciones de las tareas](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/tasks/understand-task-durations)
+* [Comprender las horas planificadas](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/tasks/understand-planned-hours)

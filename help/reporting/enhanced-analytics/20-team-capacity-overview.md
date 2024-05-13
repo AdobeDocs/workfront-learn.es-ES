@@ -11,10 +11,10 @@ level: Beginner
 jira: KT-10047
 recommendations: noDisplay,noCatalog
 exl-id: 59f86c60-19a5-4be6-920c-8e2fc18e52a7
-source-git-commit: d29054f0551a9add8460e4c9fd265cee2dfb72ca
-workflow-type: ht
-source-wordcount: '390'
-ht-degree: 100%
+source-git-commit: b41fbb673e46687e7f2b49ee77bc026d22774540
+workflow-type: tm+mt
+source-wordcount: '385'
+ht-degree: 97%
 
 ---
 
@@ -42,7 +42,7 @@ En el gráfico, puede ver lo siguiente:
 
 1. Haga clic en la pestaña [!UICONTROL Personas] del panel izquierdo.
 1. Utilice la variable [!UICONTROL Filtro] para elegir uno o más equipos locales que examinar.
-1. Verá que el gráfico de capacidad del equipo aparece debajo del gráfico de [!UICONTROL Capacidad de los recursos].
+1. Verá aparecer el gráfico de capacidad del equipo.
 
 ## Cómo utilizar el gráfico
 

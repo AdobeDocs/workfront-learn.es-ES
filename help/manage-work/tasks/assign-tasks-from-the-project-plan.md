@@ -9,12 +9,13 @@ role: User
 level: Beginner
 team: Technical Marketing
 jira: KT-8779
+recommendations: noDisplay,noCatalog
 exl-id: 14b893d4-e3bb-4e5d-a06b-99b744ad6b61
 doc-type: video
-source-git-commit: ec82cd0aafb89df7b3c46eb716faf3a25cd438a2
-workflow-type: ht
-source-wordcount: '44'
-ht-degree: 100%
+source-git-commit: b41fbb673e46687e7f2b49ee77bc026d22774540
+workflow-type: tm+mt
+source-wordcount: '62'
+ht-degree: 95%
 
 ---
 
@@ -34,3 +35,10 @@ Personal time overview
 Make smart assignments
 Modify multiple user assignments in a task list
 --->
+
+## Tutoriales recomendados sobre este tema
+
+* [Información sobre las duraciones de las tareas](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/tasks/understand-task-durations)
+* [Aprenda a secuenciar tareas](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/tasks/learn-to-sequence-tasks)
+* [Comprender las horas planificadas](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/tasks/understand-planned-hours)
+

@@ -12,9 +12,9 @@ jira: KT-8722
 recommendations: noDisplay,noCatalog
 exl-id: 8e0f24d7-a099-4a08-af08-8d150104fdb9
 doc-type: video
-source-git-commit: d29054f0551a9add8460e4c9fd265cee2dfb72ca
-workflow-type: ht
-source-wordcount: '307'
+source-git-commit: b41fbb673e46687e7f2b49ee77bc026d22774540
+workflow-type: tm+mt
+source-wordcount: '295'
 ht-degree: 100%
 
 ---
@@ -37,7 +37,6 @@ Al hacer clic en ciertas partes de un gráfico, se muestran gráficos adicionale
 * **Actividad del proyecto**: haga clic en el nombre del proyecto para expandir el gráfico y ver la actividad del proyecto por usuario.
 * **Gráfico de árbol del proyecto**: haga clic en la casilla del proyecto para extraer la Evolución y las Tareas en los gráficos de grupo.
 * **Actividad por equipo**: haga clic en el nombre del equipo para expandir el gráfico y ver la actividad por usuario.
-* **Capacidad de los recursos**: haga clic en el nombre del equipo para ver el gráfico de capacidad del equipo.
 
 ## ¿Qué significa un tono más oscuro y uno más claro cuando se trata de la actividad del equipo?
 

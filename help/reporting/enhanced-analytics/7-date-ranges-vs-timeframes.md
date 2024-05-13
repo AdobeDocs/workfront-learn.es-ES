@@ -11,10 +11,10 @@ level: Beginner
 jira: KT-10043
 recommendations: noDisplay,noCatalog
 exl-id: 9ed421a0-5f44-4096-a7ad-c4be4d00808f
-source-git-commit: d29054f0551a9add8460e4c9fd265cee2dfb72ca
-workflow-type: ht
-source-wordcount: '318'
-ht-degree: 100%
+source-git-commit: b41fbb673e46687e7f2b49ee77bc026d22774540
+workflow-type: tm+mt
+source-wordcount: '315'
+ht-degree: 96%
 
 ---
 
@@ -42,4 +42,4 @@ Cuando actualiza la página, desplácese o cierre la sesión en Workfront, el pe
 
 >[!NOTE]
 >
->No puede utilizar esta opción de período de tiempo con los gráficos de árbol ni con la capacidad de recursos del proyecto.
+>No puede utilizar esta opción de periodo de tiempo con el gráfico de rectángulos del proyecto.
