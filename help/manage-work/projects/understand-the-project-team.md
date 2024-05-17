@@ -13,9 +13,9 @@ recommendations: noDisplay,noCatalog
 jira: KT-14781
 doc-type: video
 exl-id: a29003cb-9df0-4806-8395-80ff1fd4efd8
-source-git-commit: c9a137de3772a70b81294930823e3db92a96d893
-workflow-type: ht
-source-wordcount: '63'
+source-git-commit: b18ff5966da92c762e702c7de2b020f7a6c692b6
+workflow-type: tm+mt
+source-wordcount: '59'
 ht-degree: 100%
 
 ---
@@ -30,7 +30,7 @@ En este vídeo aprenderá:
 
 ## Tutoriales recomendados sobre este tema
 
-* [Introducción a la administración de un proyecto](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/projects/getting-started-manage-a-project.md)
-* [Encontrar proyectos](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/projects/find-projects.md)
-* [Compartir un proyecto](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/projects/share-a-project.md)
-* [Comprender la comunicación del proyecto](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/projects/understand-project-communication.md)
+* [Introducción a la administración de un proyecto](/help/manage-work/projects/getting-started-manage-a-project.md)
+* [Encontrar proyectos](/help/manage-work/projects/find-projects.md)
+* [Compartir un proyecto](/help/manage-work/projects/share-a-project.md)
+* [Comprender la comunicación del proyecto](/help/manage-work/projects/understand-project-communication.md)

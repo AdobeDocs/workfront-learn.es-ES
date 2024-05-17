@@ -12,9 +12,9 @@ recommendations: noDisplay,noCatalog
 jira: KT-8772
 exl-id: 6df467a3-6e26-4bd4-94ac-b77cd43b5aa3
 doc-type: video
-source-git-commit: c2ba2ddfbbc642398a0136ecbf7c3613208080c4
-workflow-type: ht
-source-wordcount: '109'
+source-git-commit: ab2b4848acc69b0c6f6cd89ec0c9bf4203c2d297
+workflow-type: tm+mt
+source-wordcount: '106'
 ht-degree: 100%
 
 ---
@@ -32,9 +32,10 @@ Este vídeo contiene información sobre:
 
 ## Tutoriales recomendados sobre este tema
 
-* [Creación de tareas](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/tasks/how-to-create-tasks.html?lang=es)
-* [Trabajo con tareas](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/tasks/work-with-tasks.html?lang=es)
-* [Asignación de tareas del plan del proyecto](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/tasks/assign-tasks-from-the-project-plan.html?lang=es)
-* [Información sobre las duraciones de las tareas](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/tasks/understand-task-durations.html?lang=es)
-* [Aprenda a secuenciar tareas](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/tasks/learn-to-sequence-tasks.html?lang=es)
-* [Comprender las horas planificadas](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/tasks/understand-planned-hours.html?lang=es)
+* [Crear tareas](/help/manage-work/tasks/how-to-create-tasks.md)
+* [Trabajo con tareas](/help/manage-work/tasks/work-with-tasks.md)
+* [Asignación de tareas del plan del proyecto](/help/manage-work/tasks/assign-tasks-from-the-project-plan.md)
+* [Información sobre las duraciones de las tareas](/help/manage-work/tasks/understand-task-durations.md)
+* [Aprenda a secuenciar tareas](/help/manage-work/tasks/learn-to-sequence-tasks.md)
+* [Comprender las horas planificadas](/help/manage-work/tasks/understand-planned-hours.md)
+* [Comprender el [!UICONTROL esfuerzo laboral]](/help/manage-work/tasks/understand-work-effort.md)

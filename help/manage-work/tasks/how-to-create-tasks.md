@@ -10,10 +10,10 @@ last-substantial-update: 2023-05-15T00:00:00Z
 recommendations: noDisplay,noCatalog
 jira: KT-10151
 exl-id: 68102c46-80be-4255-89b8-38022d421c6c
-source-git-commit: a9d85c93225055f4e8fcda93fb366f83ba960f0e
+source-git-commit: b18ff5966da92c762e702c7de2b020f7a6c692b6
 workflow-type: tm+mt
-source-wordcount: '61'
-ht-degree: 90%
+source-wordcount: '58'
+ht-degree: 100%
 
 ---
 
@@ -28,6 +28,6 @@ En este vídeo aprenderá:
 
 ## Tutoriales recomendados sobre este tema
 
-* [Comprender las tareas principales-secundarias](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/tasks/understand-parent-child-tasks)
-* [Trabajo con tareas](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/tasks/work-with-tasks)
-* [Asignación de tareas del plan del proyecto](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/tasks/assign-tasks-from-the-project-plan)
+* [Comprender las tareas principales y secundarias](/help/manage-work/tasks/understand-parent-child-tasks.md)
+* [Trabajo con tareas](/help/manage-work/tasks/work-with-tasks.md)
+* [Asignación de tareas del plan del proyecto](/help/manage-work/tasks/assign-tasks-from-the-project-plan.md)

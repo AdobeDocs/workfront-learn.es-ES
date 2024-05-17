@@ -11,9 +11,9 @@ level: Beginner
 recommendations: noDisplay,noCatalog
 jira: KT-10140
 exl-id: a62b9421-627a-4f23-ab66-da1f29114225
-source-git-commit: c2ba2ddfbbc642398a0136ecbf7c3613208080c4
-workflow-type: ht
-source-wordcount: '1252'
+source-git-commit: b18ff5966da92c762e702c7de2b020f7a6c692b6
+workflow-type: tm+mt
+source-wordcount: '1248'
 ht-degree: 100%
 
 ---
@@ -131,7 +131,7 @@ No se preocupe, no tiene que rellenar todos los campos y casillas de verificaci�
 
 ## Tutoriales recomendados sobre este tema
 
-* [Información sobre la creación básica del proyecto](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/projects/understand-basic-project-creation)
-* [Navegar por la página del proyecto](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/projects/navigate-the-project-page)
-* [Descubra cuatro formas para crear un proyecto](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/projects/understand-other-ways-to-create-projects)
-* [Introducción a la planificación de un proyecto](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/projects/getting-started-plan-a-project)
+* [Información sobre la creación básica del proyecto](/help/manage-work/projects/understand-basic-project-creation.md)
+* [Navegar por la página del proyecto](/help/manage-work/projects/navigate-the-project-page.md)
+* [Descubra cuatro formas para crear un proyecto](/help/manage-work/projects/understand-other-ways-to-create-projects.md)
+* [Introducción a la planificación de un proyecto](/help/manage-work/projects/getting-started-plan-a-project.md)
