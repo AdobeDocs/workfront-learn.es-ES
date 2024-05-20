@@ -1,6 +1,6 @@
 ---
 title: Trabajo con tareas
-description: Obtenga información sobre cómo editar tareas existentes, agregar y eliminar tareas, y cambiar el orden de las tareas en un proyecto en Workfront.
+description: Obtenga información sobre cómo editar tareas existentes, añadir y eliminar tareas, y cambiar el orden de las tareas de un proyecto en Workfront.
 activity: use
 feature: Work Management
 thumbnail: 335088.jpeg
@@ -15,7 +15,7 @@ doc-type: video
 source-git-commit: b18ff5966da92c762e702c7de2b020f7a6c692b6
 workflow-type: tm+mt
 source-wordcount: '69'
-ht-degree: 71%
+ht-degree: 100%
 
 ---
 
