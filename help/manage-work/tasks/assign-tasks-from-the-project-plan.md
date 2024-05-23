@@ -13,19 +13,19 @@ jira: KT-8779
 recommendations: noDisplay,noCatalog
 exl-id: 14b893d4-e3bb-4e5d-a06b-99b744ad6b61
 doc-type: video
-source-git-commit: 985bb7675d4b9a6753170a97b0860aca55a98632
+source-git-commit: 0f71dd0693a1b8c8cfe6318ce1b8fced2abf2767
 workflow-type: tm+mt
-source-wordcount: '98'
-ht-degree: 36%
+source-wordcount: '99'
+ht-degree: 35%
 
 ---
 
 # Asignación de tareas del plan del proyecto
 
-Este vídeo contiene información sobre:
+En este vídeo, aprenderá lo siguiente:
 
-* Asignación de una tarea mediante la edición en línea
-* Asignación de varias tareas a la misma persona
+* Obtenga información sobre cómo asignar una tarea mediante la edición en línea
+* Aprenda a asignar varias tareas a la misma persona
 * Comprender el valor de los roles al asignar tareas
 * Comprender el valor de las plantillas de proyecto al asignar tareas
 * Comprender el valor de asignar tareas a equipos
