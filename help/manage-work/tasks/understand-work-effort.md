@@ -9,10 +9,10 @@ type: Tutorial
 role: User
 level: Beginner
 jira: KT-10153
-last-substantial-update: 2023-05-28T00:00:00Z
+last-substantial-update: 2023-05-29T00:00:00Z
 recommendations: noDisplay,noCatalog
 exl-id: 71ed10b8-4801-4cd3-828c-334f6c3a86d8
-source-git-commit: 2bba8fb882cd0a15c76aa38ea54cce7146311414
+source-git-commit: 5f4979c280b0bd256e34f5b8de75d95a5460f195
 workflow-type: tm+mt
 source-wordcount: '84'
 ht-degree: 47%
@@ -21,7 +21,7 @@ ht-degree: 47%
 
 # Comprender el [!UICONTROL esfuerzo laboral]
 
-En este vídeo aprenderá:
+Este vídeo contiene información sobre:
 
 * Qué es el esfuerzo de trabajo y cómo puede ayudarle a administrar proyectos
 * Cómo utilizar el esfuerzo de trabajo
