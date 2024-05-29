@@ -1,6 +1,6 @@
 ---
 title: Comprender el [!UICONTROL esfuerzo laboral]
-description: Descubra cómo puede usar el [!UICONTROL esfuerzo laboral] para obtener una estimación rápida de las horas planificadas en la cronología del proyecto.
+description: Descubra cómo puede utilizar [!UICONTROL Esfuerzo de trabajo] para obtener una estimación aproximada de las horas planificadas en la cronología de su proyecto.
 activity: use
 team: Technical Marketing
 feature: Work Management
@@ -9,26 +9,25 @@ type: Tutorial
 role: User
 level: Beginner
 jira: KT-10153
+last-substantial-update: 2023-05-28T00:00:00Z
 recommendations: noDisplay,noCatalog
 exl-id: 71ed10b8-4801-4cd3-828c-334f6c3a86d8
-source-git-commit: b18ff5966da92c762e702c7de2b020f7a6c692b6
-workflow-type: ht
-source-wordcount: '186'
-ht-degree: 100%
+source-git-commit: 2bba8fb882cd0a15c76aa38ea54cce7146311414
+workflow-type: tm+mt
+source-wordcount: '84'
+ht-degree: 47%
 
 ---
 
 # Comprender el [!UICONTROL esfuerzo laboral]
 
-Workfront entiende que algunas organizaciones no utilizan horas planificadas al crear proyectos. Sin embargo, para obtener todos los beneficios de las herramientas de administración de recursos de Workfront y una mejor comprensión de la cantidad de trabajo que se asignan a los usuarios, las horas planificadas en los proyectos son una necesidad.
+En este vídeo aprenderá:
 
-Con ambos conceptos en mente, Workfront ha creado la opción de [!UICONTROL Esfuerzo laboral].
+* Qué es el esfuerzo de trabajo y cómo puede ayudarle a administrar proyectos
+* Cómo utilizar el esfuerzo de trabajo
+* Cómo crear una vista de tareas Esfuerzo de trabajo
 
-En lugar de especificar horas específicas para cada tarea del proyecto, puede usar la variable [!UICONTROL Esfuerzo laboral] para determinar si una tarea demanda un esfuerzo pequeño, moderado o grande. Workfront calcula automáticamente las horas planificadas con esas tareas en función de la configuración del proyecto.
-
-De esta manera, si planea el uso de cualquiera de las herramientas de administración de recursos de Workfront, los números que necesita ya están rellenados y los usuarios tienen que fijarse en la cantidad de trabajo que se les va a hacer.
-
-![Lista de tareas del proyecto con la columna [!UICONTROL Esfuerzo laboral] ](assets/planner-fund-work-effort.png)
+>[!VIDEO](https://video.tv.adobe.com/v/3429446/?quality=12&learn=on)
 
 Para obtener más información sobre el [!UICONTROL esfuerzo laboral], consulte el artículo de [Información general sobre el esfuerzo laboral](https://experienceleague.adobe.com/docs/workfront/using/manage-work/tasks/task-information/work-effort.html?lang=es).
 
@@ -36,4 +35,4 @@ Para obtener más información sobre el [!UICONTROL esfuerzo laboral], consulte 
 
 * [Información sobre las duraciones de las tareas](/help/manage-work/tasks/understand-task-durations.md)
 * [Comprender las horas planificadas](/help/manage-work/tasks/understand-planned-hours.md)
-
+* [Creación de una vista básica](/help/reporting/basic-reporting/create-a-basic-view.md)
