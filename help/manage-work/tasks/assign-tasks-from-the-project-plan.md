@@ -1,6 +1,6 @@
 ---
 title: Asignación de tareas del plan del proyecto
-description: Obtenga información sobre cómo asignar tareas en un proyecto de Adobe Workfront mediante la edición en línea, la edición masiva, los roles y los equipos.
+description: Obtenga información sobre cómo asignar tareas en un proyecto de Adobe Workfront mediante la edición en línea, la edición en lotes, los roles y los equipos.
 activity: use
 feature: Work Management
 thumbnail: 335092.jpeg
@@ -14,9 +14,9 @@ recommendations: noDisplay,noCatalog
 exl-id: 14b893d4-e3bb-4e5d-a06b-99b744ad6b61
 doc-type: video
 source-git-commit: 0f71dd0693a1b8c8cfe6318ce1b8fced2abf2767
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '99'
-ht-degree: 35%
+ht-degree: 100%
 
 ---
 
@@ -25,10 +25,10 @@ ht-degree: 35%
 En este vídeo, aprenderá lo siguiente:
 
 * Obtenga información sobre cómo asignar una tarea mediante la edición en línea
-* Aprenda a asignar varias tareas a la misma persona
-* Comprender el valor de los roles al asignar tareas
-* Comprender el valor de las plantillas de proyecto al asignar tareas
-* Comprender el valor de asignar tareas a equipos
+* Obtenga información sobre cómo asignar varias tareas a la misma persona
+* Comprenda el valor de las funciones del puesto al asignar tareas
+* Comprenda el valor de las plantillas de proyecto al asignar tareas
+* Comprenda el valor de asignar tareas a equipos
 
 >[!VIDEO](https://video.tv.adobe.com/v/335092/?quality=12&learn=on)
 
