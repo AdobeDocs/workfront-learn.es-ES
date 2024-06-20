@@ -11,14 +11,14 @@ last-substantial-update: 2023-08-29T00:00:00Z
 thumbnail: create-a-custom-calendar.png
 jira: KT-10024
 exl-id: d5c928f2-7989-401f-ad86-08fe971c9ff5
-source-git-commit: e5017c98275f3b3853d7a37ee9d1d77d8d7f9098
-workflow-type: ht
-source-wordcount: '89'
-ht-degree: 100%
+source-git-commit: 642a6107dd3afc8f010445aa5e71c8dfdb9636eb
+workflow-type: tm+mt
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
-# Crear un calendario personalizado informe
+# Creación de un informe de calendario personalizado
 
 Un informe de calendario es un informe dinámico que muestra el trabajo y los días libres en una vista de calendario. Se puede mostrar información de fecha en un informe de calendario para los objetos siguientes:
 

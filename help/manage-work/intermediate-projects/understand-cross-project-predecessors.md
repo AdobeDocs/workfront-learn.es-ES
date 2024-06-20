@@ -12,10 +12,10 @@ last-substantial-update: 2024-04-02T00:00:00Z
 jira: KT-13737
 doc-type: video
 exl-id: 1789418f-095b-4621-afe7-fd222d5908e8
-source-git-commit: c9a137de3772a70b81294930823e3db92a96d893
-workflow-type: ht
-source-wordcount: '212'
-ht-degree: 100%
+source-git-commit: 642a6107dd3afc8f010445aa5e71c8dfdb9636eb
+workflow-type: tm+mt
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -29,7 +29,7 @@ Las tareas predecesoras entre proyectos son una forma sencilla de establecer dep
 >* O ya se siente cómodo utilizando tareas predecesoras en sus proyectos
 
 
-En este vídeo aprenderá:
+Este vídeo contiene información sobre:
 
 * Qué es un predecesor en varios proyectos y cómo puede resultar útil
 * Cómo crear un predecesor en varios proyectos

@@ -12,8 +12,8 @@ last-substantial-update: 2024-02-13T00:00:00Z
 recommendations: noDisplay,noCatalog
 jira: KT-13743
 exl-id: f28cbb99-ef14-4ef2-96c8-d5e01d609ede
-source-git-commit: b18ff5966da92c762e702c7de2b020f7a6c692b6
-workflow-type: ht
+source-git-commit: 642a6107dd3afc8f010445aa5e71c8dfdb9636eb
+workflow-type: tm+mt
 source-wordcount: '62'
 ht-degree: 100%
 
@@ -21,7 +21,7 @@ ht-degree: 100%
 
 # Comprender la vista [!UICONTROL Tablero]
 
-En este vídeo aprenderá:
+Este vídeo contiene información sobre:
 
 * Dónde encontrar la vista [!UICONTROL Tablero]
 * Cómo utilizar la vista [!UICONTROL Tablero]

@@ -12,8 +12,8 @@ last-substantial-update: 2024-02-01T00:00:00Z
 jira: KT-14864
 doc-type: video
 exl-id: bef0ba6b-6c29-46ec-ae0d-c54f5609ff5f
-source-git-commit: 61b6971457198d2c39cc4dab67aebc6e8c6988f6
-workflow-type: ht
+source-git-commit: 642a6107dd3afc8f010445aa5e71c8dfdb9636eb
+workflow-type: tm+mt
 source-wordcount: '151'
 ht-degree: 100%
 
@@ -28,7 +28,7 @@ ht-degree: 100%
 >* O si se siente cómodo creando una cola de solicitudes que usa una regla de enrutamiento y un formulario personalizado.
 
 
-En este vídeo aprenderá:
+Este vídeo contiene información sobre:
 
 * Por qué debería crear una cola de solicitudes de comentarios del administrador del sistema
 * Crear una cola de solicitudes de comentarios de administrador del sistema

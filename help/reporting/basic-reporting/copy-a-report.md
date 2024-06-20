@@ -11,8 +11,9 @@ team: Technical Marketing
 last-substantial-update: 2024-02-07T00:00:00Z
 jira: KT-14692
 doc-type: video
-source-git-commit: b1b9159078ecc389338d6bc6bd31e38ea3149149
-workflow-type: ht
+exl-id: aad45ea3-b9dd-4568-a6fe-749640e12878
+source-git-commit: 642a6107dd3afc8f010445aa5e71c8dfdb9636eb
+workflow-type: tm+mt
 source-wordcount: '41'
 ht-degree: 100%
 
@@ -20,9 +21,8 @@ ht-degree: 100%
 
 # Copia de un informe
 
-En este vídeo aprenderá:
+Este vídeo contiene información sobre:
 
 * Cómo crear rápidamente un nuevo informe copiando y editando un informe similar
 
 >[!VIDEO](https://video.tv.adobe.com/v/3427230/?quality=12&learn=on)
-
