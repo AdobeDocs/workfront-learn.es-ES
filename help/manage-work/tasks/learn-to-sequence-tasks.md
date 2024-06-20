@@ -8,14 +8,15 @@ type: Tutorial
 role: User
 level: Beginner
 team: Technical Marketing
+last-substantial-update: 2024-06-15T00:00:00Z
 jira: KT-8778
 recommendations: noDisplay,noCatalog
 exl-id: 4044743f-71f8-4416-a365-575d90d5bd70
 doc-type: video
-source-git-commit: b18ff5966da92c762e702c7de2b020f7a6c692b6
-workflow-type: ht
-source-wordcount: '80'
-ht-degree: 100%
+source-git-commit: acc6563ca6592f968e2a0ca8b1c6ec2886b9d30e
+workflow-type: tm+mt
+source-wordcount: '90'
+ht-degree: 76%
 
 ---
 
@@ -23,10 +24,11 @@ ht-degree: 100%
 
 Este vídeo contiene información sobre:
 
-* Qué es un predecesor en [!DNL  Workfront]
-* Cómo secuencian tareas los predecesores en un proyecto
+* Qué es un predecesor en Workfront
 * Cómo usar duraciones y predecesores para crear una cronología
-* Cambio o introducción de predecesores
+* Cómo secuencian tareas los predecesores en un proyecto
+* Cómo afectará a la restricción de tareas la configuración de la fecha de inicio de una tarea
+* Cómo introducir predecesoras
 
 >[!VIDEO](https://video.tv.adobe.com/v/335091/?quality=12&learn=on)
 
