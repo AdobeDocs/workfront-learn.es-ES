@@ -16,7 +16,7 @@ doc-type: video
 source-git-commit: acc6563ca6592f968e2a0ca8b1c6ec2886b9d30e
 workflow-type: tm+mt
 source-wordcount: '90'
-ht-degree: 76%
+ht-degree: 100%
 
 ---
 
@@ -24,10 +24,10 @@ ht-degree: 76%
 
 Este vídeo contiene información sobre:
 
-* Qué es un predecesor en Workfront
+* ¿Qué es una predecesora en Workfront?
 * Cómo usar duraciones y predecesores para crear una cronología
 * Cómo secuencian tareas los predecesores en un proyecto
-* Cómo afectará a la restricción de tareas la configuración de la fecha de inicio de una tarea
+* Cómo afectará la configuración de la fecha de inicio de una tarea a la restricción de tarea
 * Cómo introducir predecesoras
 
 >[!VIDEO](https://video.tv.adobe.com/v/335091/?quality=12&learn=on)
