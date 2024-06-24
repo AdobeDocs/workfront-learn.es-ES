@@ -12,9 +12,9 @@ thumbnail: create-a-custom-calendar.png
 jira: KT-10024
 exl-id: d5c928f2-7989-401f-ad86-08fe971c9ff5
 source-git-commit: 642a6107dd3afc8f010445aa5e71c8dfdb9636eb
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+workflow-type: ht
+source-wordcount: '89'
+ht-degree: 100%
 
 ---
 
