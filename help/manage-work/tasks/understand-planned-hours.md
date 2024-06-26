@@ -14,9 +14,9 @@ recommendations: noDisplay,noCatalog
 exl-id: 76bde9ac-74de-41fc-ab75-5b987b42515c
 doc-type: video
 source-git-commit: acc6563ca6592f968e2a0ca8b1c6ec2886b9d30e
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '82'
-ht-degree: 78%
+ht-degree: 100%
 
 ---
 
@@ -26,7 +26,7 @@ Este vídeo contiene información sobre:
 
 * Qué son las horas planificadas en Workfront
 * Por qué las horas planificadas son importantes para su proyecto
-* Cómo calcular las horas planificadas
+* Calcular las horas planificadas
 * Adición de horas planificadas a tareas
 
 >[!VIDEO](https://video.tv.adobe.com/v/335090/?quality=12&learn=on)
@@ -37,5 +37,5 @@ Este vídeo contiene información sobre:
 * [Información sobre las duraciones de las tareas](/help/manage-work/tasks/understand-task-durations.md)
 * [Aprenda a secuenciar tareas](/help/manage-work/tasks/learn-to-sequence-tasks.md)
 * [Comprender el [!UICONTROL esfuerzo laboral]](/help/manage-work/tasks/understand-work-effort.md)
-* [Resumen de hojas de horas](https://experienceleague.adobe.com/en/docs/workfront/using/timesheets/details/timesheets-overview)
-* [Registrar tiempo](https://experienceleague.adobe.com/en/docs/workfront/using/timesheets/create-and-manage-timesheets-in-adobe-workfront/log-time)
+* [Información general de hojas de horas](https://experienceleague.adobe.com/es/docs/workfront/using/timesheets/details/timesheets-overview)
+* [Hora de registro](https://experienceleague.adobe.com/es/docs/workfront/using/timesheets/create-and-manage-timesheets-in-adobe-workfront/log-time)
