@@ -8,12 +8,13 @@ thumbnail: handle-unplanned-work.jpeg
 type: Tutorial
 role: User
 level: Beginner
-last-substantial-update: 2023-05-18T00:00:00Z
+last-substantial-update: 2024-06-26T00:00:00Z
+recommendations: noDisplay,noCatalog
 jira: KT-10070
 exl-id: 43caddaf-5fd8-4580-9a37-59b5ecc57c91
-source-git-commit: ec82cd0aafb89df7b3c46eb716faf3a25cd438a2
-workflow-type: ht
-source-wordcount: '36'
+source-git-commit: e4d6bad211c08d97bea5277d3a42c608db37aa1c
+workflow-type: tm+mt
+source-wordcount: '63'
 ht-degree: 100%
 
 ---
@@ -27,3 +28,10 @@ Este vídeo contiene información sobre:
 * Prácticas recomendadas para la administración de problemas
 
 >[!VIDEO](https://video.tv.adobe.com/v/3419488/?quality=12&learn=on)
+
+## Tutoriales recomendados sobre este tema
+
+* [Introducción a la administración de un proyecto](/help/manage-work/projects/getting-started-manage-a-project.md)
+* [Comprender la comunicación del proyecto](/help/manage-work/projects/understand-project-communication.md)
+* [Convertir un problema/solicitud en un proyecto](/help/manage-work/issues-requests/create-a-project-from-a-request.md)
+* [Convertir un problema/solicitud en una tarea](/help/manage-work/issues-requests/convert-issues-to-other-work-items.md)
