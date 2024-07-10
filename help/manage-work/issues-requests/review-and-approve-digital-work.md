@@ -9,11 +9,12 @@ role: User
 level: Beginner
 team: Technical Marketing
 jira: KT-8808
+recommendations: noDisplay,noCatalog
 exl-id: 20596d8f-5a00-4263-9e90-e615303d6c0b
 doc-type: video
-source-git-commit: ec82cd0aafb89df7b3c46eb716faf3a25cd438a2
-workflow-type: ht
-source-wordcount: '74'
+source-git-commit: 6677e36f4e1b1125ce313495c34991b78b8df577
+workflow-type: tm+mt
+source-wordcount: '95'
 ht-degree: 100%
 
 ---
@@ -34,6 +35,11 @@ Este vídeo contiene información sobre:
 >
 >Los documentos, pruebas y elementos de trabajo (proyectos, tareas y problemas) que requieren aprobaciones se encuentran en proyectos e informes personalizados, además de [!DNL Workfront Home].
 
+## Tutoriales recomendados sobre este tema
+
+* [Crear proceso de aprobación de un solo uso](/help/manage-work/approval-processes-and-milestone-paths/create-a-single-use-approval-process.md)
+* [Adjuntar y editar procesos de aprobación existentes](/help/manage-work/approval-processes-and-milestone-paths/attach-and-edit-existing-approval-processes.md)
+* [Delegar tareas, problemas y aprobaciones](/help/manage-work/approval-processes-and-milestone-paths/delegate-approvals.md)
 
 
 <!---

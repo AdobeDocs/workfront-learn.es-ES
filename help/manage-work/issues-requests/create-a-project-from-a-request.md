@@ -9,11 +9,12 @@ role: User
 level: Intermediate
 team: Technical Marketing
 jira: KT-9723
+recommendations: noDisplay,noCatalog
 exl-id: 5095d6bb-2721-47f1-be52-8e43d3edb2fd
 doc-type: video
-source-git-commit: 060ceb14d274e8b2ad080c1f58290a2c5769e007
-workflow-type: ht
-source-wordcount: '416'
+source-git-commit: 6677e36f4e1b1125ce313495c34991b78b8df577
+workflow-type: tm+mt
+source-wordcount: '431'
 ht-degree: 100%
 
 ---
@@ -58,3 +59,9 @@ Si incluye un formulario personalizado en una plantilla de proyecto, se asignar�
 Para aumentar la eficacia de su trabajo y facilitar la conversión de problemas en un entorno acelerado, puede convertir un problema en una tarea o un proyecto desde cualquier lista de problemas de un proyecto, informe o panel. Solo tiene que seleccionar un problema y luego hacer clic en el menú de tres puntos que aparece.
 
 ![Imagen de una pantalla de un proyecto que muestra las opciones de conversión de problemas](assets/convert-from-a-list.png)
+
+## Tutoriales recomendados sobre este tema
+
+* [Convertir un problema/solicitud en una tarea](/help/manage-work/issues-requests/convert-issues-to-other-work-items.md)
+* [Gestión de trabajo no planificado](/help/manage-work/issues-requests/handle-unplanned-work.md)
+
