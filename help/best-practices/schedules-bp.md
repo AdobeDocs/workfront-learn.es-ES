@@ -6,16 +6,16 @@ role: Admin, Leader, User
 level: Beginner
 jira: KT-10925
 exl-id: 508d6f90-f9f4-4f12-9bf1-5e89246f3e3a
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 214457a95a310920f5f7c623021b5d9d40ec61e8
 workflow-type: tm+mt
-source-wordcount: '536'
-ht-degree: 100%
+source-wordcount: '554'
+ht-degree: 67%
 
 ---
 
 # Práctica recomendada: programaciones
 
-## ¿Qué es una &quot;práctica recomendada&quot; de Adobe Workfront?
+## ¿Qué es una “práctica recomendada” de Adobe Workfront?
 
 Las prácticas recomendadas son directrices que representan un procedimiento eficaz y efectivo, se adoptan fácilmente en la compañía y se pueden replicar correctamente en toda la organización.
 
@@ -23,9 +23,9 @@ Al revisar estas recomendaciones, hay que tener en cuenta que algunas prácticas
 
 ## Navegación de esta página
 
-Al desplazarse por esta página, encontrará en primer lugar una lista de alto nivel de todas las prácticas recomendadas sobre el tema. Esto permite revisar las recomendaciones sin profundizar en los detalles de &quot;por qué&quot;.
+Al desplazarse por esta página, primero encontrará una lista de alto nivel de todas las prácticas recomendadas sobre el tema. Esto le permite revisar las recomendaciones sin profundizar en los detalles de “por qué”.
 
-El punto &quot;¿Por qué estas son prácticas recomendadas?&quot; se encuentra después de la lista de alto nivel, proporciona mayores detalles sobre algunas de las prácticas recomendadas y por qué se consideran un proceso, una herramienta, etc., cuya implementación se debe considerar al trabajar con Workfront.
+La pregunta “¿Por qué son estas prácticas recomendadas?” se encuentra después de la lista de alto nivel, proporciona mayores detalles sobre algunas de las prácticas recomendadas y por qué se consideran un proceso, una herramienta, etc., cuya implementación se debe considerar al trabajar con Workfront.
 
 </br>
 </br>
@@ -36,7 +36,10 @@ El punto &quot;¿Por qué estas son prácticas recomendadas?&quot; se encuentra 
 
 * El total de horas de trabajo de cada día laborable de la programación debe ser igual al número de horas de un día especificado en las preferencias globales del proyecto.
 
-* Agregue un recordatorio al calendario del administrador del sistema de Adobe Workfront para actualizar las programaciones cada año a una hora determinada.
+* Agregue un recordatorio al calendario del administrador del sistema de Adobe Workfront para actualizar los horarios a una hora determinada cada año.
+
+
+Para obtener instrucciones sobre cómo crear y administrar programas, consulte la [Creación y administración de programaciones](/help/administration-and-setup/configure-system-defaults/create-and-manage-schedules.md) tutorial.
 
 </br>
 </br>
@@ -49,9 +52,9 @@ Limite el número de programaciones que crea en Adobe Workfront.
 
 
 
-**A continuación se explica por qué**
+**He aquí por qué**
 
-No cree decenas de programaciones para grupos, equipos o personas diferentes. Una menor cantidad de programaciones implica un menor mantenimiento por parte de los administradores del sistema o del grupo.
+No cree docenas de programaciones para diferentes grupos, equipos o personas. Una menor cantidad de programaciones implica un menor mantenimiento por parte de los administradores del sistema o del grupo.
 
 
 
@@ -61,7 +64,7 @@ Es posible que se necesiten programas separados cuando:
 
 * Tiene trabajadores a tiempo parcial que trabajan menos de 40 horas por semana.
 
-* Los trabajadores no trabajan las ocho horas normales al día, de lunes a viernes, como los trabajadores de fin de semana, o los que trabajan cuatro días durante 10 horas al día.
+* Los trabajadores no trabajan las 8 horas diarias estándar, de lunes a viernes, como los trabajadores de fin de semana o los que trabajan 4 días de 10 horas.
 
 </br>
 </br>
@@ -72,11 +75,11 @@ El total de horas de trabajo de cada día laborable de la programación debe ser
 
 
 
-**A continuación se explica por qué**
+**He aquí por qué**
 
-Si el total de horas de trabajo no coincide, esto puede dar como resultado cálculos de fecha y hora aparentemente incorrectos en la cronología del proyecto y en los informes.
+Si las horas de trabajo totales no coinciden, el resultado puede ser un cálculo de fechas y horas aparentemente incorrecto en la escala de tiempo del proyecto y en los informes.
 
-Por ejemplo, si la preferencia del sistema es de ocho horas diarias y la programación asignada a un proyecto solo tiene siete horas laborables al día, verá que una tarea con una duración de un día tarda más de un día en completarse, porque está intentando ajustarse a las ocho horas.
+Por ejemplo, si la preferencia del sistema es de ocho horas en un día y la programación asignada a un proyecto tiene sólo siete horas laborables al día, observará que una tarea con una duración de un día tarda más de un día en completarse, porque está intentando ajustarse a las ocho horas.
 
 **Nota**: La configuración del proyecto global del sistema se realiza en Configuración > Preferencias del proyecto > Cálculos de cronología > Horas típicas por día laboral.
 
@@ -86,8 +89,8 @@ Por ejemplo, si la preferencia del sistema es de ocho horas diarias y la program
 
 **Práctica recomendada**
 
-Agregue un recordatorio al calendario del administrador del sistema de Adobe Workfront para actualizar las programaciones cada año a una hora determinada.
+Agregue un recordatorio al calendario del administrador del sistema de Adobe Workfront para actualizar los horarios a una hora determinada cada año.
 
-**A continuación se explica por qué**
+**He aquí por qué**
 
-Actualice las programaciones en la instancia de Workfront con días festivos nacionales, días festivos de la empresa y otros días en los que los usuarios no trabajan. Haga esto en un momento determinado cada año, ya sea al final del año o cuando Recursos Humanos publique las programaciones de vacaciones, de modo que las cronologías del proyecto, la planificación de recursos, etc., reflejen la disponibilidad precisa del usuario.
+Actualice los horarios de la instancia de Workfront con festivos nacionales, festivos de la empresa y otros días en los que los usuarios no podrán trabajar. Haga esto en un momento determinado cada año, ya sea al final del año o cuando Recursos Humanos publique las programaciones de vacaciones, de modo que las cronologías del proyecto, la planificación de recursos, etc., reflejen la disponibilidad precisa del usuario.
