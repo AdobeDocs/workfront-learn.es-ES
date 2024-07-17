@@ -7,7 +7,7 @@ level: Beginner
 jira: KT-10920
 exl-id: 394485ee-bb8f-4248-86a9-4c86174dd37f
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '1179'
 ht-degree: 100%
 

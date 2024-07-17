@@ -10,8 +10,8 @@ team: Technical Marketing
 thumbnail: gs-calc-fields-expressions.png
 exl-id: fbd17f01-9e97-4ead-9a56-7ce4f81255ec
 source-git-commit: 409147f9a62302d28e14b834981992a0421d4e4b
-workflow-type: ht
-source-wordcount: '500'
+workflow-type: tm+mt
+source-wordcount: '503'
 ht-degree: 100%
 
 ---

@@ -11,7 +11,7 @@ jira: KT-8984
 exl-id: 6a7350cf-c9e3-4af6-a1bf-0f159e8eaf09
 doc-type: video
 source-git-commit: 2cb3cc67f4f1fcd1345f178bf525d7b00f6271cf
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '494'
 ht-degree: 100%
 
@@ -59,7 +59,7 @@ Si desea excluir una palabra de los resultados de búsqueda, ponga un signo meno
 
 ### Operador de campo vacío
 
-Para encontrar recursos que no tengan información en un campo de metadatos específico, introduzca el campo que desee buscar con este formato: ?[xxxxx]. Por ejemplo, si desea encontrar recursos que no tienen asignadas palabras clave, introduzca ?[keyword] en el campo de búsqueda.
+Para encontrar recursos que no tengan información en un campo de metadatos específico, introduzca el campo que desee buscar con este formato: ?[xxxxx]. Por ejemplo, si desea encontrar recursos que no tienen asignadas palabras clave, introduzca ?[palabra clave] en el campo de búsqueda.
 
 ## Directrices de marca
 

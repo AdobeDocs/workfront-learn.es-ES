@@ -12,7 +12,7 @@ thumbnail: understand-additional-calendar-options.png
 jira: KT-10023
 exl-id: 329e8288-d2ec-4350-8374-59aa47241ef8
 source-git-commit: 642a6107dd3afc8f010445aa5e71c8dfdb9636eb
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '80'
 ht-degree: 100%
 

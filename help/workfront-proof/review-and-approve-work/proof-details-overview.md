@@ -11,7 +11,7 @@ thumbnail: understand-proof-details.png
 jira: KT-10110
 exl-id: 196f9318-eced-4825-b0fd-8592b6cb3403
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '1029'
 ht-degree: 100%
 

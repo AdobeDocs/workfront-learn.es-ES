@@ -9,7 +9,7 @@ thumbnail: create-kanban-team.png
 exl-id: 01573905-514d-4df6-b2b6-1c92585e56fc
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
-source-wordcount: '399'
+source-wordcount: '403'
 ht-degree: 100%
 
 ---

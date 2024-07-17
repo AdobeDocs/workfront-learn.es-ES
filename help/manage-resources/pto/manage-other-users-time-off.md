@@ -10,7 +10,7 @@ team: Technical Marketing
 jira: KT-10181
 exl-id: f2f0f897-939c-45d1-8a3d-037d92d86b79
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '199'
 ht-degree: 100%
 

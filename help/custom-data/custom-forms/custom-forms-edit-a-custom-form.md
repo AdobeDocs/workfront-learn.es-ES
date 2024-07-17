@@ -11,7 +11,7 @@ thumbnail: editcustomform.png
 jira: KT-10057
 exl-id: 7ce0c3c6-9a17-49fe-87a8-8ff1e628ea62
 source-git-commit: 409147f9a62302d28e14b834981992a0421d4e4b
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '149'
 ht-degree: 100%
 

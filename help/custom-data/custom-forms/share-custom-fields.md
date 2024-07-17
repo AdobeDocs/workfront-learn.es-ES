@@ -11,7 +11,7 @@ thumbnail: share-custom-field.png
 jira: KT-10090
 exl-id: 99aaea2c-28f4-46c6-b384-6e14cfbd7d93
 source-git-commit: 409147f9a62302d28e14b834981992a0421d4e4b
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '211'
 ht-degree: 100%
 

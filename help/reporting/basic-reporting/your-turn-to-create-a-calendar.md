@@ -11,13 +11,13 @@ thumbnail: your-turn-to-create-a-calendar.png
 jira: KT-10026
 exl-id: 74d57f1a-c6c5-49e0-9529-2e2deb2f273e
 source-git-commit: e5017c98275f3b3853d7a37ee9d1d77d8d7f9098
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '380'
 ht-degree: 100%
 
 ---
 
-# Su turno para crear un calendario informe
+# Su turno para crear un informe de calendario
 
 En esta actividad adquirirá experiencia práctica elaborando su propio calendario.
 

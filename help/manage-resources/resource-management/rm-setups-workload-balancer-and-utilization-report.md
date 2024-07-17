@@ -11,7 +11,7 @@ thumbnail: setups-utillization-report.png
 jira: KT-10179
 exl-id: 46b68876-658e-4a71-b1c6-44294253bf44
 source-git-commit: 2cb3cc67f4f1fcd1345f178bf525d7b00f6271cf
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '203'
 ht-degree: 100%
 

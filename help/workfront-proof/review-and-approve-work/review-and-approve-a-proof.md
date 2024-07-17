@@ -43,19 +43,19 @@ El correo electrónico [!UICONTROL Nueva prueba] también contiene información 
 * El número de versión le permite saber qué versión de la revisión va a ver.
 * Y, lo más importante, el plazo aparece en dos lugares del correo electrónico, justo encima de la sección de detalles de la prueba y en la barra gris de la fase del flujo de trabajo de la que forma parte.
 
-Una vez que esté listo para comenzar su revisión, todo lo que tiene que hacer es hacer clic en el botón azul [!UICONTROL Ir a la revisión] y el archivo se abre automáticamente en el [!DNL Workfront] visualizador de pruebas.
+Una vez que esté listo para iniciar la revisión, todo lo que tiene que hacer es hacer clic en el botón azul [!UICONTROL Ir a la revisión] y el archivo se abrirá automáticamente en el visor de revisión [!DNL Workfront].
 
 ### Abrir una prueba desde el [!UICONTROL Inicio]
 
-Si está trabajando en [!DNL Workfront] y se le ha pedido que apruebe una prueba, encontrará una asignación en la [!UICONTROL Lista de trabajos] de [!DNL Workfront] [!UICONTROL Inicio]. Es útil seleccionar solo lo siguiente [!UICONTROL Aprobaciones] desde el [!UICONTROL Filtrar], para que pueda centrarse en ese tipo de trabajo.
+Si está trabajando en [!DNL Workfront] y se le ha pedido que apruebe una revisión, encontrará una asignación en la [!UICONTROL Lista de trabajos] de [!DNL Workfront] [!UICONTROL Inicio]. Es útil seleccionar solo [!UICONTROL aprobaciones] del [!UICONTROL filtro], para que pueda centrarse en ese tipo de trabajo.
 
 ![Una imagen del [!DNL Workfront] [!UICONTROL inicio] con el filtro [!UICONTROL Aprobaciones] activado y una prueba seleccionada de la lista.](assets/open-proof-from-home.png)
 
-Es importante tener en cuenta que las pruebas se muestran en [!DNL Workfront] [!UICONTROL Inicio] solo si se le ha asignado aprobarla. Si solo se le ha pedido que revise la prueba, esta no aparecerá en [!DNL Workfront] [!UICONTROL Inicio] al seleccionar [!UICONTROL Aprobaciones]de la lista de filtros.
+Es importante tener en cuenta que las pruebas solo aparecen en [!DNL Workfront] [!UICONTROL Hogar] si se le ha asignado su aprobación. Si solo se le ha pedido que revise la revisión, no aparecerá en [!DNL Workfront] [!UICONTROL Inicio] al seleccionar [!UICONTROL Aprobaciones]de la lista de filtros.
 
 Seleccione la aprobación de prueba en la [!UICONTROL Lista de trabajo] y, a continuación, haga clic en el vínculo [!UICONTROL Ir a la Prueba] para abrirlo en el visualizador de pruebas.
 
-Según los flujos de trabajo de prueba y del proyecto de su organización, es posible que vea una asignación de tarea en [!DNL Workfront] [!UICONTROL Inicio] en lugar de una solicitud de aprobación de prueba. En este caso, abrirá la prueba desde el [!UICONTROL Documentos] de la tarea (consulte las instrucciones a continuación).
+Según la prueba de su organización y los flujos de trabajo del proyecto, es posible que vea una asignación de tarea en [!DNL Workfront] [!UICONTROL Inicio] en lugar de una solicitud de aprobación de prueba. En este caso, abrirá la prueba desde la sección [!UICONTROL Documentos] de la propia tarea (consulte las instrucciones a continuación).
 
 También puede encontrar pruebas para revisar el panel de [!DNL Workfront] que se creó específicamente para su equipo u organización para administrar los flujos de trabajo de prueba.
 
@@ -66,17 +66,17 @@ Si normalmente trabaja con proyectos, tareas o problemas en [!DNL Workfront], pu
 ![Una imagen de la sección [!UICONTROL Documentos] encontrada en una tarea de [!DNL  Workfront] con el vínculo [!UICONTROL Prueba abierta ]resaltado.](assets/open-proof-from-documents.png)
 
 1. Haga clic en el nombre del proyecto, la tarea o el problema.
-2. Clic [!UICONTROL Documentos] en el menú del panel izquierdo de la página del elemento.
+2. Haga clic en [!UICONTROL Documentos] en el menú del panel izquierdo de la página del elemento.
 3. Busque la prueba en la lista [!UICONTROL Documentos].
 4. Haga clic en el vínculo [!UICONTROL Abrir prueba] para abrir el visualizador de pruebas.
 
 ## Cómo aprobar una prueba
 
-Después de abrir una prueba, verá un **Tomar decisión** botón en la parte superior, junto a **Añadir comentario**. Si no es aprobador de esta prueba, no verá este botón.
+Después de abrir una revisión, verás un botón **Tomar decisión** en la parte superior, junto a **Agregar comentario**. Si no es aprobador de esta prueba, no verá este botón.
 
 ![Imagen del primer botón Tomar decisión.](assets/make-decision-1.png)
 
-Cuando esté listo para tomar una decisión, haga clic en **Tomar decisión** para ver las opciones de decisión. Seleccione la opción que desee y haga clic en la otra **Tomar decisión** botón de abajo.
+Cuando esté listo para tomar una decisión, haga clic en el botón **Tomar decisión** para ver las opciones de decisión. Seleccione su opción y haga clic en el otro botón **Tomar decisión** que aparece a continuación.
 
 ![Imagen del segundo botón Tomar decisión.](assets/make-decision-2.png)
 

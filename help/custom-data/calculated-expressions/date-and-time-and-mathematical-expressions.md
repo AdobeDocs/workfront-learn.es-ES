@@ -10,7 +10,7 @@ team: Technical Marketing
 thumbnail: date-time-expressions.png
 exl-id: 333ba6ae-5004-4693-989b-03dc49fcbff8
 source-git-commit: 409147f9a62302d28e14b834981992a0421d4e4b
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '181'
 ht-degree: 100%
 

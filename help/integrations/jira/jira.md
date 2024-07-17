@@ -11,7 +11,7 @@ jira: KT-10068
 exl-id: aad18a8c-f782-4122-89d5-0d9935ed4ff4
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
-source-wordcount: '365'
+source-wordcount: '356'
 ht-degree: 100%
 
 ---

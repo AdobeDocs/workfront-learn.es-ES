@@ -3,7 +3,7 @@ title: Tutoriales de Workfront
 description: La biblioteca de vídeos de formación y artículos está estructurada para ayudarle a comprender mejor las funciones y la configuración de Workfront.  Se incluye una colección de prácticas recomendadas, ejercicios organizados y otros recursos que ayudarán tanto a usted como a su organización a tener éxito con Workfront.
 exl-id: 07d2a063-357e-4ced-bf67-e80025c21b45
 source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '206'
 ht-degree: 100%
 

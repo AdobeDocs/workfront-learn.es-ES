@@ -11,8 +11,8 @@ team: Technical Marketing
 thumbnail: null
 exl-id: ad900f59-319b-49ee-bc23-e816edc2de24
 source-git-commit: ed631261fc3ad4eb72b59e1ca5b3a79951d8645b
-workflow-type: ht
-source-wordcount: '772'
+workflow-type: tm+mt
+source-wordcount: '748'
 ht-degree: 100%
 
 ---

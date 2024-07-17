@@ -11,7 +11,7 @@ thumbnail: setup-global-proof-settings.png
 jira: KT-10237
 exl-id: c10eb48d-2e05-4b82-8393-60c4b9196d40
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '113'
 ht-degree: 100%
 

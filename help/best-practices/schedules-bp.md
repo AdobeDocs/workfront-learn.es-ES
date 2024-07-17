@@ -39,7 +39,7 @@ La pregunta “¿Por qué son estas prácticas recomendadas?” se encuentra des
 * Agregue un recordatorio al calendario del administrador del sistema de Adobe Workfront para actualizar los horarios a una hora determinada cada año.
 
 
-Para obtener instrucciones sobre cómo crear y administrar programas, consulte la [Creación y administración de programaciones](/help/administration-and-setup/configure-system-defaults/create-and-manage-schedules.md) tutorial.
+Para obtener instrucciones sobre cómo crear y administrar programas, consulte el tutorial [Crear y administrar programas](/help/administration-and-setup/configure-system-defaults/create-and-manage-schedules.md).
 
 </br>
 </br>

@@ -27,7 +27,7 @@ Este vídeo contiene información sobre:
 * Buscar solicitudes enviadas
 * Realizar una actualización en el panel Resumen
 * Abrir la página de solicitud
-* Actualizar una solicitud en [!UICONTROL Actualizaciones] panel
+* Actualizar una solicitud en el panel [!UICONTROL Actualizaciones]
 
 >[!VIDEO](https://video.tv.adobe.com/v/336091/?quality=12&learn=on)
 

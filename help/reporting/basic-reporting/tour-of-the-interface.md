@@ -12,7 +12,7 @@ thumbnail: understand-the-calendar-interface.png
 jira: KT-10025
 exl-id: dfe8e5b1-8b49-4a67-a64e-a20267813752
 source-git-commit: 642a6107dd3afc8f010445aa5e71c8dfdb9636eb
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '81'
 ht-degree: 100%
 

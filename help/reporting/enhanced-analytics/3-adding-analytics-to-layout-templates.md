@@ -16,18 +16,18 @@ doc-type: video
 source-git-commit: ab24a55009efd8960cb6f8fe1f4da553c9f8dbce
 workflow-type: tm+mt
 source-wordcount: '156'
-ht-degree: 44%
+ht-degree: 100%
 
 ---
 
 
-# Cómo acceder a Enhanced Analytics
+# Cómo acceder a Análisis mejorado
 
-Al igual que la mayoría de las demás funciones de Workfront, puede acceder a [!UICONTROL Análisis mejorado] en el menú principal. Pero [!UICONTROL Analytics] no está en el menú principal de forma predeterminada.
+Como la mayoría de las funciones de Workfront, se accede a [!UICONTROL Análisis mejorado] desde el menú principal. Pero [!UICONTROL Análisis] no está en el menú principal de forma predeterminada.
 
 ![Una imagen del menú principal ](assets/analytics-on-main-menu.png)
 
-Si no lo ve allí, el administrador del sistema o del grupo deberá agregarlo por usted. Lo harán en una plantilla de diseño. El siguiente vídeo explica cómo hacerlo.
+Si no lo ve ahí, el administrador de su sistema o de grupos tendrá que añadirlo por usted. Lo harán en una plantilla de diseño. En el siguiente vídeo se explica cómo.
 
 
 ## Adición de Analytics a las plantillas de diseño

@@ -14,8 +14,8 @@ badgeIntegration: label="Integración" type="positive"
 feature-set: Workfront
 topic: Integrations
 source-git-commit: ce2aad1cd0ecb7d568ed9a01d97147cbd126ca05
-workflow-type: ht
-source-wordcount: '232'
+workflow-type: tm+mt
+source-wordcount: '208'
 ht-degree: 100%
 
 ---

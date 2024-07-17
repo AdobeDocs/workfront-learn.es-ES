@@ -12,7 +12,7 @@ thumbnail: KT11055.png
 recommendations: noDisplay,noCatalog
 exl-id: e4aa9a97-679a-4575-a2c6-b6ac304ce9c2
 source-git-commit: a4e61514567ac8c2b4ad5c9ecacb87bd83947731
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '904'
 ht-degree: 100%
 

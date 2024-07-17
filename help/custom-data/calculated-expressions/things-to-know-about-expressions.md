@@ -10,8 +10,8 @@ team: Technical Marketing
 thumbnail: to-know-expressions.png
 exl-id: 512a3071-f47f-4fd4-bf5f-9b18bef8ba59
 source-git-commit: 409147f9a62302d28e14b834981992a0421d4e4b
-workflow-type: ht
-source-wordcount: '959'
+workflow-type: tm+mt
+source-wordcount: '964'
 ht-degree: 100%
 
 ---

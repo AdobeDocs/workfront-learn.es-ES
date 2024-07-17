@@ -12,7 +12,7 @@ jira: KT-8856
 exl-id: fc29b4ce-2937-478e-abd5-0b559657ead0
 doc-type: video
 source-git-commit: 0ff5accae867f07cc31ac2be7b0c12981412346e
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '420'
 ht-degree: 100%
 
@@ -54,7 +54,7 @@ A continuación se incluyen las instrucciones paso a paso.
 ![Imagen de la pantalla para crear un nuevo filtro](assets/basic-filter-activity-updated-6-15-21.png)
 
 1. Vaya al área de [!UICONTROL Proyectos] del [!UICONTROL Menú principal]. Muestra una lista de proyectos.
-1. Haga clic en el menú **[!UICONTROL Filtro]** y seleccione [!UICONTROL Filtros heredados].
+1. Haga clic en el menú **[!UICONTROL Filtro]** y seleccione [!UICONTROL Filtros heredados].
 1. Seleccione **[!UICONTROL Nuevo filtro]**.
 1. Asigne un nombre al filtro “Proyectos que tengo que se cierran este mes”.
 1. Haga clic en **[!UICONTROL Agregar regla de filtro]**.

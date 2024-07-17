@@ -10,7 +10,7 @@ team: Technical Marketing
 jira: KT-8908
 hidefromtoc: true
 source-git-commit: 409147f9a62302d28e14b834981992a0421d4e4b
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '37'
 ht-degree: 100%
 

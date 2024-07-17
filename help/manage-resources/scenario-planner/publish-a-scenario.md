@@ -10,7 +10,7 @@ team: Technical Marketing
 thumbnail: publish-scenario.jpeg
 exl-id: 987fc7a0-9b5a-4321-b831-bb59dcffdadf
 source-git-commit: 89b5e66ad2b37c4e5d0bffcac7d5ad79facd8aa5
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '151'
 ht-degree: 100%
 

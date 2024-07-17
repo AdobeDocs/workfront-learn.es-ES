@@ -12,8 +12,8 @@ jira: KT-10163
 exl-id: 2a3e97f7-51b3-4e14-bb15-6d255cd18034
 source-git-commit: 466857e92481a28b8030fb1c33016d39d61faa64
 workflow-type: tm+mt
-source-wordcount: '445'
-ht-degree: 73%
+source-wordcount: '446'
+ht-degree: 77%
 
 ---
 
@@ -39,7 +39,7 @@ Para combinar pruebas:
 
 ![Una imagen de la ventana [!UICONTROL Prueba nueva] con la lista de archivos cargados y las secciones de [!UICONTROL Prueba única] resaltadas.](assets/combine-proofs.png)
 
-Una vez cargada la prueba, la verá como un archivo ZIP en la [!UICONTROL Documentos] pestaña.
+Una vez cargada la revisión, la verá como un archivo ZIP en la ficha [!UICONTROL Documentos].
 
 No se requiere nada más para ver el archivo combinado. Haga clic en [!UICONTROL Prueba abierta] como de costumbre y la prueba se abre en el visualizador de pruebas.
 
@@ -49,14 +49,14 @@ No se requiere nada más para ver el archivo combinado. Haga clic en [!UICONTROL
 
 Lamentablemente, la combinación de archivos no es posible cuando los archivos de medios enriquecidos como vídeos, animaciones y URL interactivas están en su lista.
 
-![Imagen de un mensaje de error que explica que no se pueden combinar archivos de vídeo.](assets/combine-proofs-error.png)
+![Imagen de un mensaje de error que explica que no puede combinar archivos de vídeo.](assets/combine-proofs-error.png)
 
 
 ## Su turno
 
 >[!IMPORTANT]
 >
->Recuerde a sus compañeros que les envía una prueba como parte de su formación de Workfront.
+>Recuerde a sus compañeros de trabajo que les envía una prueba como parte de su formación en Workfront.
 
 
 Buscar tres o cuatro archivos (PDF, archivo de texto, etc.) en el equipo.

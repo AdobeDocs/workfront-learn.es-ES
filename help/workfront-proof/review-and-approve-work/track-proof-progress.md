@@ -11,8 +11,8 @@ thumbnail: track-proof-progress.png
 jira: KT-10111
 exl-id: 343483fe-487a-4a23-914d-2807a00630f9
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: ht
-source-wordcount: '674'
+workflow-type: tm+mt
+source-wordcount: '675'
 ht-degree: 100%
 
 ---

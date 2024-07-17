@@ -11,8 +11,8 @@ thumbnail: upload-a-proof-video.png
 jira: KT-10176
 exl-id: 09fb15ea-caf6-4793-ac16-cf24b52cc3f2
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: ht
-source-wordcount: '282'
+workflow-type: tm+mt
+source-wordcount: '283'
 ht-degree: 100%
 
 ---
