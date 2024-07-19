@@ -11,9 +11,9 @@ last-substantial-update: 2024-02-28T00:00:00Z
 recommendations: noDisplay,noCatalog
 jira: KT-10069
 exl-id: 1fd4d862-e44b-4c50-9663-70e727f6e9b7
-source-git-commit: 6677e36f4e1b1125ce313495c34991b78b8df577
+source-git-commit: 51d394ab53e2f704ccbcd088d688123fbc46fc13
 workflow-type: tm+mt
-source-wordcount: '78'
+source-wordcount: '82'
 ht-degree: 100%
 
 ---
@@ -30,6 +30,7 @@ En este vídeo, aprenderá a convertir un problema o solicitud en una tarea.
 
 ## Tutoriales recomendados sobre este tema
 
+* [Búsqueda y administración de solicitudes](/help/manage-work/issues-requests/find-requests.md)
 * [Convertir un problema/solicitud en un proyecto](/help/manage-work/issues-requests/create-a-project-from-a-request.md)
 * [Gestión de trabajo no planificado](/help/manage-work/issues-requests/handle-unplanned-work.md)
 
