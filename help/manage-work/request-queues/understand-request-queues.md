@@ -1,6 +1,6 @@
 ---
 title: Explicación de las colas de solicitud
-description: Descubra cómo se estructuran las colas de solicitud en  [!DNL  Workfront]  y cómo enviar una solicitud.
+description: Obtenga información sobre qué es una cola de solicitudes, cómo enviar una solicitud a través de una cola de solicitudes y cómo se estructuran las colas de solicitudes.
 activity: use
 feature: Work Management,Get Started with Workfront
 type: Tutorial
@@ -8,13 +8,15 @@ role: Admin, User
 level: Intermediate
 team: Technical Marketing
 thumbnail: 335220.jpeg
+last-substantial-update: 2024-07-26T00:00:00Z
+recommendations: noDisplay,noCatalog
 jira: KT-8957
 exl-id: 8d6f8ddc-c08e-46f6-8b77-50af02c36b5c
 doc-type: video
-source-git-commit: cacc76a0dec27e7554eb0ac494d65a9255367226
+source-git-commit: 79365fbcd031ca3d65100574c8bef27929c8ffe6
 workflow-type: tm+mt
-source-wordcount: '262'
-ht-degree: 100%
+source-wordcount: '71'
+ht-degree: 63%
 
 ---
 
@@ -22,62 +24,16 @@ ht-degree: 100%
 
 Este vídeo contiene información sobre:
 
-* Envío de una solicitud a través de una cola de solicitudes de [!DNL  Workfront]
+* Qué es una cola de solicitudes
+* Envío de una solicitud a través de una cola de solicitudes
 * Cómo se estructuran las colas de solicitud
+
 
 >[!VIDEO](https://video.tv.adobe.com/v/335220/?quality=12&learn=on)
 
-## Solicitar que los borradores se guarden automáticamente
+## Tutoriales recomendados sobre este tema
 
-Cuando se empieza a rellenar un formulario de solicitud, [!DNL Workfront] guarda un borrador automáticamente después de rellenar el campo [!UICONTROL Asunto]. Esto significa que no perderá datos si necesita alejarse del área de [!UICONTROL Solicitudes] para hacer otra cosa o si necesita hacer una pausa en medio de la solicitud para recopilar más información.
+* [Crear una cola de solicitudes](/help/manage-work/request-queues/create-a-request-queue.md)
+* [Explicación de la configuración de una solicitud de flujo](/help/manage-work/request-queues/understand-settings-for-a-flow-request.md)
+* [Crear un flujo de solicitud](/help/manage-work/request-queues/create-a-request-flow.md)
 
-Verá una indicación de que el borrador se ha guardado en la parte superior de la ventana. [!DNL Workfront] guarda un borrador de la solicitud, incluso si los campos obligatorios aún no se han rellenado.
-
-![imagen de un borrador de solicitud](assets/queue-mgt-make-a-request-draft-1.png)
-
-Cuando esté listo para enviar la solicitud, localícela en la pestaña [!UICONTROL Borradores]. Haga clic en el nombre para abrirlo y terminar de rellenar el formulario. A continuación, haga clic en [!UICONTROL Enviar solicitud] cuando haya terminado.
-
-![imagen de recuperación de un borrador de solicitud](assets/queue-mgt-make-a-request-draft-2.png)
-
-## Su turno
-
-Tomemos un minuto para revisar la información que acaba de presentar.
-
-**Pregunta:** ¿Cómo se realiza una solicitud en Workfront? Enumere los pasos en orden.
-
-* Elija el tipo de solicitud que debe realizar
-* Haga clic en Enviar solicitud
-* Rellene la información del formulario
-* Haga clic en “Nueva solicitud”
-* Navegar al área de la solicitud
-
-
-**Respuesta:** Vaya al área de solicitud > Haga clic en Nueva solicitud > Elija el tipo de solicitud que debe realizar > Rellene la información del formulario > Haga clic en Enviar solicitud
-
-**Pregunta:** Una solicitud es realmente un...
-
-**Respuesta:** Problema
-
-<!---
-You can also access request drafts from the [!UICONTROL Select a Request Type] menu at the top of the window. Select an option from the [!UICONTROL Recent Drafts] section, or start a new request by picking a queue from the [!UICONTROL New Requests] section. Fill everything out like normal, then submit the request.
-
-<!---
-image
---->
-
-<!---
-Let's take a minute to review the information you were just presented.
-
-How do you make a request in Workfront? List the steps in order.
-Choose the request type you need to make
-Click Submit request
-Fill out the information on the form
-Click "New Request"
-Navigate to the request area
-
-Answer: Navigate to the request area>Click New Request>Choose the request type you need to make>Fill out the information on the form>Click Submit request
-
-A request is really an......
-
-Answer: Issue
---->
