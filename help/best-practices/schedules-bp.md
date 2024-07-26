@@ -7,9 +7,9 @@ level: Beginner
 jira: KT-10925
 exl-id: 508d6f90-f9f4-4f12-9bf1-5e89246f3e3a
 source-git-commit: 214457a95a310920f5f7c623021b5d9d40ec61e8
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '554'
-ht-degree: 67%
+ht-degree: 100%
 
 ---
 
@@ -36,10 +36,10 @@ La pregunta “¿Por qué son estas prácticas recomendadas?” se encuentra des
 
 * El total de horas de trabajo de cada día laborable de la programación debe ser igual al número de horas de un día especificado en las preferencias globales del proyecto.
 
-* Agregue un recordatorio al calendario del administrador del sistema de Adobe Workfront para actualizar los horarios a una hora determinada cada año.
+* Añada un recordatorio al calendario del administrador del sistema de Adobe Workfront para actualizar las programaciones cada año a una hora determinada.
 
 
-Para obtener instrucciones sobre cómo crear y administrar programas, consulte el tutorial [Crear y administrar programas](/help/administration-and-setup/configure-system-defaults/create-and-manage-schedules.md).
+Para obtener instrucciones sobre cómo crear y administrar programaciones, consulte el tutorial [Crear y administrar programaciones](/help/administration-and-setup/configure-system-defaults/create-and-manage-schedules.md).
 
 </br>
 </br>
@@ -54,7 +54,7 @@ Limite el número de programaciones que crea en Adobe Workfront.
 
 **He aquí por qué**
 
-No cree docenas de programaciones para diferentes grupos, equipos o personas. Una menor cantidad de programaciones implica un menor mantenimiento por parte de los administradores del sistema o del grupo.
+No cree decenas de programaciones para grupos, equipos o personas diferentes. Una menor cantidad de programaciones implica un menor mantenimiento por parte de los administradores del sistema o del grupo.
 
 
 
@@ -64,7 +64,7 @@ Es posible que se necesiten programas separados cuando:
 
 * Tiene trabajadores a tiempo parcial que trabajan menos de 40 horas por semana.
 
-* Los trabajadores no trabajan las 8 horas diarias estándar, de lunes a viernes, como los trabajadores de fin de semana o los que trabajan 4 días de 10 horas.
+* Los trabajadores no trabajan las ocho horas normales diarias, de lunes a viernes, como los trabajadores de fin de semana o los que trabajan cuatro días durante 10 horas al día.
 
 </br>
 </br>
@@ -77,9 +77,9 @@ El total de horas de trabajo de cada día laborable de la programación debe ser
 
 **He aquí por qué**
 
-Si las horas de trabajo totales no coinciden, el resultado puede ser un cálculo de fechas y horas aparentemente incorrecto en la escala de tiempo del proyecto y en los informes.
+Si el total de horas de trabajo no coincide, puede dar como resultado cálculos de fecha y hora aparentemente incorrectos en la cronología del proyecto y en los informes.
 
-Por ejemplo, si la preferencia del sistema es de ocho horas en un día y la programación asignada a un proyecto tiene sólo siete horas laborables al día, observará que una tarea con una duración de un día tarda más de un día en completarse, porque está intentando ajustarse a las ocho horas.
+Por ejemplo, si la preferencia del sistema es de ocho horas diarias y la programación asignada a un proyecto solo tiene siete horas laborables al día, verá que una tarea con una duración de un día tarda más de un día en completarse, porque está intentando encajar las ocho horas.
 
 **Nota**: La configuración del proyecto global del sistema se realiza en Configuración > Preferencias del proyecto > Cálculos de cronología > Horas típicas por día laboral.
 
@@ -89,8 +89,8 @@ Por ejemplo, si la preferencia del sistema es de ocho horas en un día y la prog
 
 **Práctica recomendada**
 
-Agregue un recordatorio al calendario del administrador del sistema de Adobe Workfront para actualizar los horarios a una hora determinada cada año.
+Añada un recordatorio al calendario del administrador del sistema de Adobe Workfront para actualizar las programaciones cada año a una hora determinada.
 
 **He aquí por qué**
 
-Actualice los horarios de la instancia de Workfront con festivos nacionales, festivos de la empresa y otros días en los que los usuarios no podrán trabajar. Haga esto en un momento determinado cada año, ya sea al final del año o cuando Recursos Humanos publique las programaciones de vacaciones, de modo que las cronologías del proyecto, la planificación de recursos, etc., reflejen la disponibilidad precisa del usuario.
+Actualice las programaciones en la instancia de Workfront con días festivos nacionales, días festivos de la compañía y otros días en los que los usuarios no trabajan. Haga esto en un momento determinado cada año, ya sea al final del año o cuando Recursos Humanos publique las programaciones de vacaciones, de modo que las cronologías del proyecto, la planificación de recursos, etc., reflejen la disponibilidad precisa del usuario.
