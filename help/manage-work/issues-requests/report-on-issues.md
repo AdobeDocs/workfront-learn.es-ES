@@ -13,18 +13,18 @@ recommendations: noDisplay,noCatalog
 jira: KT-10072
 exl-id: c7d76d7f-46be-40a7-99f8-5e83dc708d34
 source-git-commit: 36b7f0a72be280fd46603443491ab8d83e4e41c3
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '56'
-ht-degree: 41%
+ht-degree: 100%
 
 ---
 
 # Informe de problemas
 
-En este vídeo, aprenderá a crear lo siguiente:
+En este vídeo aprenderá a crear:
 
-* Informe de problema que muestra los objetos de resolución
-* Informe de proyecto que muestra la información de problema convertida
+* Un informe de problemas que muestre los objetos de resolución
+* Un informe de proyectos que muestre la información del problema convertido
 
 
 >[!VIDEO](https://video.tv.adobe.com/v/3432002/?quality=12&learn=on)
