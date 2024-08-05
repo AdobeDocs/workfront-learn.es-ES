@@ -8,30 +8,50 @@ thumbnail: complete-approvals.jpeg
 type: Tutorial
 role: User
 level: Beginner
-last-substantial-update: 2023-08-16T00:00:00Z
+last-substantial-update: 2024-08-05T00:00:00Z
 jira: KT-10134
 exl-id: fda55592-e4d3-4cb6-941f-09bf1bc76bf6
-source-git-commit: ec82cd0aafb89df7b3c46eb716faf3a25cd438a2
+source-git-commit: 23ffb95ff506c7b3abc2202a689026f0c2ea21b2
 workflow-type: tm+mt
-source-wordcount: '210'
-ht-degree: 100%
+source-wordcount: '283'
+ht-degree: 22%
 
 ---
 
 # Aprobaciones completas
 
-Las aprobaciones de tareas y problemas forman parte de muchos flujos de trabajo. Sin embargo, las aprobaciones no resueltas le impedirán establecer el estado del proyecto en Completado.
+Las aprobaciones de tareas y emisiones forman parte de muchos proyectos. Sin embargo, las aprobaciones no resueltas le impedirán establecer el estado del proyecto en Completado.
 
-En la sección [!UICONTROL Tarea] del proyecto, seleccione una [!UICONTROL Vista] que incluya la columna [!UICONTROL Estado]. Un rápido vistazo a esa columna mostrará si hay una aprobación incompleta en una tarea con “[!UICONTROL - aprobación pendiente]” después del nombre del estado.
+He aquí cómo encontrarlos y lidiar con ellos.
 
-![Proyecto que muestra una aprobación incompleta](assets/approval-pending.png)
+En la sección Tarea] del proyecto, seleccione un [!UICONTROL Ver] que incluya la [!UICONTROL columna Estado], como la [!UICONTROL vista Estado].[!UICONTROL  Un vistazo rápido a esa columna mostrará si hay una aprobación incompleta en una tarea con las palabras &quot;[!UICONTROL - Pendiente de aprobación]&quot; después del nombre del estado.
 
-Algunas opciones de lo que debe hacer son las siguientes:
+![Proyecto que muestra una aprobación incompleta](assets/pending-approval-1.png)
 
-* **Completar la aprobación:** esto puede significar recordar a otros la aprobación pendiente. Puede ver qué persona está asignada como aprobadora abriendo la tarea y haciendo clic en la pestaña Aprobaciones.
-* **Quitar la aprobación:** si no se necesita la aprobación, puede ser más fácil eliminarla. Su capacidad para hacerlo depende de sus permisos de [!DNL Workfront].
-* **Cambiar el estado —** Si no se necesita la aprobación, puede seleccionar un estado que no tenga una aprobación adjunta. Asegúrese de que el estado sea igual a Completar.
+Cuando encuentre un tarea que aún está esperando aprobación, tiene dos opciones de qué hacer:
 
-![Proyecto que muestra aprobadores de tareas](assets/task-approvers.png)
+
+## Todas las aplicaciones la aprobación
+
+Esto puede significar recordarle a la persona asignada la aprobación pendiente. Puede ver quién está asignado como aprobador abriendo el tarea y haciendo clic en el menú de tres puntos en el área de aprobaciones.
+
+![Tarea que muestra el área de aprobación](assets/pending-approval-2.png)
+
+Aparecerá un cuadro con el aprobador asignado.
+
+![Tarea que muestra aprobador asignada](assets/pending-approval-3.png)
+
+
+## Quitar la aprobación
+
+Si la aprobación no es necesaria, es posible que desee eliminarla. Para ello, primero recuerde la aprobación. Haga clic en el [!UICONTROL botón de retirada] en el área de aprobaciones. Esto cambiará el estado a su estado anterior y le permitirá eliminar el proceso de aprobación.
+
+![Tarea que muestra el botón de recuperación](assets/pending-approval-5.png)
+
+Ahora haga clic en el [!UICONTROL pestaña Aprobaciones] a la izquierda, luego en el [!UICONTROL botón Quitar] en la parte superior derecha.
+
+![Tarea que muestra el botón de aprobación de eliminación](assets/pending-approval-6.png)
+
+## Tratamiento de las aprobaciones de problemas
 
 Si su organización utiliza los problemas para rastrearlos, cambiar pedidos u otros eventos durante los proyectos, siga los mismos pasos en la sección [!UICONTROL Problemas] del proyecto.
