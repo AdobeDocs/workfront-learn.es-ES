@@ -1,6 +1,6 @@
 ---
 title: Crear una cola de solicitudes
-description: Obtenga información sobre cómo configurar una cola de solicitudes y establecer detalles de la cola en  [!DNL  Workfront]. Siga estos pasos para ayudar a su organización a administrar la entrada de trabajo.
+description: Obtenga información sobre cómo configurar una cola de solicitudes y establecer los detalles de la cola. Siga estos pasos para ayudar a su organización a administrar la entrada de trabajo.
 activity: deploy
 feature: Work Management
 type: Tutorial
@@ -8,13 +8,15 @@ role: Admin, User
 level: Intermediate
 team: Technical Marketing
 thumbnail: 335221.jpeg
+recommendations: noDisplay,noCatalog
 jira: KT-8958
+last-substantial-update: 2024-08-05T00:00:00Z
 exl-id: 7d581548-7060-426d-a89b-97bddd0fbc96
 doc-type: video
-source-git-commit: 09d46b1bb90b86af49bc300bba8822c93ee9e050
+source-git-commit: e43f7f6a9c95f02b69104ef62337efa6bbc10b14
 workflow-type: tm+mt
-source-wordcount: '131'
-ht-degree: 100%
+source-wordcount: '76'
+ht-degree: 84%
 
 ---
 
@@ -28,16 +30,9 @@ Este vídeo contiene información sobre:
 
 >[!VIDEO](https://video.tv.adobe.com/v/335221/?quality=12&learn=on)
 
-## Su turno
+## Tutoriales recomendados sobre este tema
 
-Tomemos un minuto para revisar la información que acaba de presentar.
-
-**Pregunta:** ¿Cuál de las siguientes debe estar en su lugar para que una Cola de solicitudes se active? (seleccione todas las que correspondan)
-
-1. Estado del proyecto = actual
-1. Se ha seleccionado “Problema” en el tipo de solicitud
-1. Se ha seleccionado “Publicar como Cola de solicitudes de ayuda”
-1. Estado del proyecto = Actual o Planificación
-
-**Respuesta:** 1) Estado del proyecto = actual y 3) “Publicar como Cola de solicitudes de ayuda” está seleccionado
+* [Explicación de las colas de solicitud](/help/manage-work/request-queues/understand-request-queues.md)
+* [Explicación de la configuración de una solicitud de flujo](/help/manage-work/request-queues/understand-settings-for-a-flow-request.md)
+* [Crear un flujo de solicitud](/help/manage-work/request-queues/create-a-request-flow.md)
 
