@@ -2,9 +2,9 @@
 title: Tutoriales de Workfront
 description: La biblioteca de vídeos de formación y artículos está estructurada para ayudarle a comprender mejor las funciones y la configuración de Workfront.  Se incluye una colección de prácticas recomendadas, ejercicios organizados y otros recursos que ayudarán tanto a usted como a su organización a tener éxito con Workfront.
 exl-id: 07d2a063-357e-4ced-bf67-e80025c21b45
-source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
+source-git-commit: ff232ada05f97dc570ddc60f329a68280256d6b7
 workflow-type: tm+mt
-source-wordcount: '206'
+source-wordcount: '136'
 ht-degree: 100%
 
 ---
@@ -22,17 +22,6 @@ See other user landing pages to get ideas.
 
 -->
 
-<div id="whats-new-section">
-
-## Novedades
-
-Explore las últimas actualizaciones realizadas en los tutoriales de cada versión de producto de Workfront. Estas son las actualizaciones realizadas con la última versión:
-
-* Los iconos favoritos y recientes estaban separados en la navegación superior de Workfront. Puede encontrar un breve resumen de cada uno de ellos en el tutorial <a href="/help/manage-work/projects/find-projects.md">Buscar proyectos</a>.
-
-* Configure un formulario personalizado para que funcione con varios tipos de objetos. Consulte cómo llevarlo a cabo en el tutorial para <a href="/help/custom-data/custom-forms/custom-forms-creating-and-sharing-a-custom-form.md">crear y compartir un formulario personalizado</a>.
-
-</div>
 
 <div id="recs-overview-body-1"></div>
 <div id="recs-overview-body-2"></div>
