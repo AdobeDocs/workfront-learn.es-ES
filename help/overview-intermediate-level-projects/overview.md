@@ -9,7 +9,10 @@ activity: deploy
 team: Technical Marketing
 last-substantial-update: 2024-08-20T00:00:00Z
 jira: KT-14120
-source-git-commit: 2f1894535fd7c9509cfd0926c3b2f1de0a367de3
+mini-toc-levels: 1
+recommendations: noDisplay,noCatalog
+index: y
+source-git-commit: ca218d2e86f45417b2165330f66057d50fd3d989
 workflow-type: tm+mt
 source-wordcount: '94'
 ht-degree: 18%
