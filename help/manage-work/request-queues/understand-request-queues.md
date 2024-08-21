@@ -14,9 +14,9 @@ jira: KT-8957
 exl-id: 8d6f8ddc-c08e-46f6-8b77-50af02c36b5c
 doc-type: video
 source-git-commit: b1d18759bf3dbe03888f02c7d9b13794064337c0
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '71'
-ht-degree: 91%
+ht-degree: 100%
 
 ---
 
@@ -34,6 +34,6 @@ Este vídeo contiene información sobre:
 ## Tutoriales recomendados sobre este tema
 
 * [Crear una cola de solicitudes](/help/manage-work/request-queues/create-a-request-queue.md)
-* [Explicación de la configuración de un flujo de solicitud](/help/manage-work/request-queues/understand-settings-for-a-flow-request.md)
+* [Explicación de la configuración de una solicitud de flujo](/help/manage-work/request-queues/understand-settings-for-a-flow-request.md)
 * [Crear un flujo de solicitud](/help/manage-work/request-queues/create-a-request-flow.md)
 

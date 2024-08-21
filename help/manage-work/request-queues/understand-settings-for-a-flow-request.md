@@ -1,5 +1,5 @@
 ---
-title: Explicación de la configuración de un flujo de solicitud
+title: Explicación de la configuración de una solicitud de flujo
 description: Obtenga información sobre los flujos de solicitud y cómo crear uno mediante reglas de enrutamiento, grupos de temas y temas de colas.
 activity: delpoy
 feature: Work Management
@@ -14,13 +14,13 @@ last-substantial-update: 2024-08-12T00:00:00Z
 exl-id: 7def260c-7542-4b9e-b2fb-afa5f79e164b
 doc-type: video
 source-git-commit: 0a0af5e441a09c20eb27e2cd31c7e2586403c984
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '75'
-ht-degree: 61%
+ht-degree: 100%
 
 ---
 
-# Explicación de la configuración de un flujo de solicitud
+# Explicación de la configuración de una solicitud de flujo
 
 Este vídeo contiene información sobre:
 

@@ -4,9 +4,9 @@ role: User
 level: Beginner
 feature-set: Workfront
 source-git-commit: b1d18759bf3dbe03888f02c7d9b13794064337c0
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '2407'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -146,7 +146,7 @@ ht-degree: 99%
    + Colas de solicitudes {#request-queues}
       + [Explicación de las colas de solicitud](manage-work/request-queues/understand-request-queues.md)
       + [Crear una cola de solicitudes](manage-work/request-queues/create-a-request-queue.md)
-      + [Explicación de la configuración de un flujo de solicitud](manage-work/request-queues/understand-settings-for-a-flow-request.md)
+      + [Explicación de la configuración de una solicitud de flujo](manage-work/request-queues/understand-settings-for-a-flow-request.md)
       + [Crear un flujo de solicitud](manage-work/request-queues/create-a-request-flow.md)
       + [Crear una cola de solicitudes de comentarios de administrador del sistema](manage-work/request-queues/create-a-system-admin-feedback-request-queue.md)
       + [Respuestas a preguntas comunes sobre las colas de solicitud](manage-work/request-queues/request-queue-faq.md)
