@@ -1,9 +1,6 @@
 ---
 user-guide-description: Tutoriales de Workfront
-role: User
-level: Beginner
-feature-set: Workfront
-source-git-commit: a391f16a819b382b0fa2e3a2be437797fb9c5523
+source-git-commit: 2fba61a64bbf18a485a4cda08102cdb9da9a5d1b
 workflow-type: tm+mt
 source-wordcount: '2407'
 ht-degree: 100%

@@ -11,7 +11,7 @@ git-repo: https://github.com/AdobeDocs/workfront-learn.es-ES
 index: true
 auto-video-transcripts: true
 source-git-commit: 2fba61a64bbf18a485a4cda08102cdb9da9a5d1b
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '53'
 ht-degree: 100%
 
