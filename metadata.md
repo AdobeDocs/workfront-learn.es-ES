@@ -2,12 +2,15 @@
 cloud: Experience Cloud
 solution: Workfront
 product: experience cloud
+role: User
+level: Beginner
+feature-set: Workfront
 type: Tutorial
 mini-toc-levels: 2
 git-repo: https://github.com/AdobeDocs/workfront-learn.es-ES
 index: true
 auto-video-transcripts: true
-source-git-commit: ae940d186b31e89f8ce47807c6a988ea9d495679
+source-git-commit: 2fba61a64bbf18a485a4cda08102cdb9da9a5d1b
 workflow-type: ht
 source-wordcount: '53'
 ht-degree: 100%
