@@ -12,7 +12,7 @@ jira: KT-14120
 mini-toc-levels: 1
 recommendations: noDisplay,noCatalog
 index: y
-source-git-commit: ea8872374e82030b8c0c5837685b6a1d1b392935
+source-git-commit: f9040b5e59bedfd18c9010acadfa755a3886d90f
 workflow-type: tm+mt
 source-wordcount: '119'
 ht-degree: 15%
@@ -38,6 +38,6 @@ Usuarios con licencias estándar que crearán o administrarán proyectos.
 
 ## Tutoriales
 
-* [Explicación y administración de los tipos de duración y las restricciones de tareas](/help/manage-work/intermediate-projects/understand-and-manage-duration-types-and-task-constraints.md)
-* [Comprender a los predecesores de varios proyectos](/help/manage-work/intermediate-projects/understand-cross-project-predecessors.md)
-* [Predecesoras avanzadas](/help/manage-work/intermediate-projects/advanced-predecessors.md)
+* [Explicación y administración de los tipos de duración y las restricciones de tareas](understand-and-manage-duration-types-and-task-constraints.md)
+* [Comprender a los predecesores de varios proyectos](understand-cross-project-predecessors.md)
+* [Predecesoras avanzadas](advanced-predecessors.md)
