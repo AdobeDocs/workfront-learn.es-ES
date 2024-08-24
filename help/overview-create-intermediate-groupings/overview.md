@@ -12,7 +12,7 @@ jira: KT-11401
 mini-toc-levels: 1
 recommendations: noDisplay,noCatalog
 index: y
-source-git-commit: ea8872374e82030b8c0c5837685b6a1d1b392935
+source-git-commit: d7347d41099e0faf6b47a6fe0e58091105e4e41d
 workflow-type: tm+mt
 source-wordcount: '140'
 ht-degree: 6%
@@ -38,5 +38,5 @@ El tutorial siguiente le ayudará a aprender qué es el modo de texto, qué es c
 
 ## Tutorial
 
-[Comprensión del modo de texto básico de las agrupaciones](/help/reporting/intermediate-reporting/basic-text-mode-for-groupings.md)
+[Comprensión del modo de texto básico de las agrupaciones](basic-text-mode-for-groupings.md)
 

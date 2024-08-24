@@ -12,7 +12,7 @@ jira: KT-13492
 mini-toc-levels: 1
 recommendations: noDisplay,noCatalog
 index: y
-source-git-commit: ea8872374e82030b8c0c5837685b6a1d1b392935
+source-git-commit: d7347d41099e0faf6b47a6fe0e58091105e4e41d
 workflow-type: tm+mt
 source-wordcount: '103'
 ht-degree: 13%
@@ -38,6 +38,6 @@ Usuarios que desean realizar un seguimiento de las finanzas en Workfront.
 
 ## Tutoriales
 
-* [Actualizar y revisar las finanzas](/help/manage-work/project-finances/update-and-review-finances.md)
-* [Buscar información financiera](/help/manage-work/project-finances/find-financial-information.md)
-* [Información sobre las múltiples tasas de facturación](/help/manage-work/project-finances/multiple-billing-rates.md)
+* [Actualizar y revisar las finanzas](update-and-review-finances.md)
+* [Buscar información financiera](find-financial-information.md)
+* [Información sobre las múltiples tasas de facturación](multiple-billing-rates.md)
