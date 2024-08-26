@@ -7,12 +7,12 @@ role: User
 level: Intermediate
 activity: deploy
 team: Technical Marketing
-last-substantial-update: 2024-08-23T00:00:00Z
+last-substantial-update: 2024-08-26T00:00:00Z
 jira: KT-11400
 mini-toc-levels: 1
 recommendations: noDisplay,noCatalog
 index: y
-source-git-commit: ea8872374e82030b8c0c5837685b6a1d1b392935
+source-git-commit: 2351b6ff9977fd8a81289ab2fad28e21322d347e
 workflow-type: tm+mt
 source-wordcount: '140'
 ht-degree: 6%
@@ -38,5 +38,5 @@ El tutorial siguiente le ayudará a aprender qué es el modo de texto, qué es c
 
 ## Tutorial
 
-[Comprender el modo de texto básico de las vistas](/help/reporting/intermediate-reporting/basic-text-mode-for-views.md)
+[Comprender el modo de texto básico de las vistas](basic-text-mode-for-views.md)
 

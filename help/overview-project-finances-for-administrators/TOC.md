@@ -1,14 +1,14 @@
 ---
 user-guide-title: Resumen de finanzas del proyecto para administradores
 user-guide-description: Aprenda a priorizar los proyectos actuales y propuestos en función de su coste, valor, riesgo y alineación con los objetivos de su organización.
-breadcrumb-title: Resumen para Portfolio
+breadcrumb-title: Resumen de finanzas del proyecto para administradores
 solution: Workfront
 sub-product: Work Management
 index: y
-source-git-commit: d7347d41099e0faf6b47a6fe0e58091105e4e41d
+source-git-commit: 2351b6ff9977fd8a81289ab2fad28e21322d347e
 workflow-type: tm+mt
-source-wordcount: '61'
-ht-degree: 32%
+source-wordcount: '64'
+ht-degree: 31%
 
 ---
 
