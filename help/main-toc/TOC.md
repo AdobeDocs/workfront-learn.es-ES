@@ -1,9 +1,9 @@
 ---
 user-guide-description: Tutoriales de Workfront
-source-git-commit: 2fba61a64bbf18a485a4cda08102cdb9da9a5d1b
+source-git-commit: dc444153581cf435917c6bc32e2272c60f3b3aea
 workflow-type: tm+mt
-source-wordcount: '2407'
-ht-degree: 100%
+source-wordcount: '2412'
+ht-degree: 99%
 
 ---
 
@@ -33,6 +33,7 @@ ht-degree: 100%
       + [Creación y administración de la gravedad de los problemas](/help/administration-and-setup/configure-system-defaults/create-and-manage-issue-severities.md)
       + [Personalizar tipos de problemas y terminología](/help/administration-and-setup/configure-system-defaults/customize-issue-types-and-terminology.md)
       + [Configurar las preferencias de problemas predeterminadas globales](/help/administration-and-setup/configure-system-defaults/configure-global-default-issue-preferences.md)
+      + [Crear y administrar reglas de negocio](/help/administration-and-setup/configure-system-defaults/create-and-manage-business-rules.md)
 
    + Plantillas de diseño {#layout-templates}
       + [¿Qué son las plantillas de diseño?](/help/administration-and-setup/layout-templates/what-are-layout-templates.md)
