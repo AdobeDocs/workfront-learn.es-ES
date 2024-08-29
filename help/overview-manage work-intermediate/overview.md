@@ -12,10 +12,10 @@ jira: KT-10671
 mini-toc-levels: 1
 recommendations: noDisplay,noCatalog
 index: y
-source-git-commit: 5362e8a60d39e61021bb9ab22e3d9afffd41f96a
+source-git-commit: 5947224c840e9bd2c80e5e027e0d5aabb91ff6fd
 workflow-type: tm+mt
-source-wordcount: '885'
-ht-degree: 1%
+source-wordcount: '796'
+ht-degree: 0%
 
 ---
 
@@ -73,6 +73,7 @@ Obtenga información sobre cómo crear rutas de hitos, aplicar los hitos a las t
 * [Aplicar hitos](apply-milestones.md): aprenda a aplicar una ruta de hitos a un proyecto y asocie tareas clave como pasos de hitos dentro del proyecto.
 * [Ver hitos](view-milestones.md): aprenda a ver hitos en un proyecto de Adobe Workfront y a usar la vista de hitos en el área del proyecto.
 
+
 ## Cómo trabajar con problemas
 
 Obtenga información sobre cómo gestionar el trabajo no planificado con problemas, convertir problemas en otros elementos de trabajo, administrar asignaciones de problemas e informar sobre problemas.
@@ -86,13 +87,6 @@ Obtenga información sobre cómo gestionar el trabajo no planificado con problem
 * [Convertir un problema o una solicitud en una tarea](convert-issues-to-other-work-items.md): aprenda a convertir un problema en una tarea.
 * [Informe sobre problemas](report-on-issues.md): aprenda a crear un informe de problemas que muestre los objetos de resolución y un informe de proyecto que muestre la información de problemas convertida.
 
-## Cronologías del proyecto
-
-Aprenda a programar proyectos y realizar un seguimiento de su progreso.
-
-* [Comprenda las escalas de tiempo de los proyectos](understand-project-timelines.md). Obtenga información sobre cómo programar proyectos desde una fecha de inicio o finalización. A continuación, aprenda cómo la duración, los predecesores y las restricciones de tareas afectan al plan de proyecto.
-* [Comprender los tipos de fecha y el estado del progreso](understand-task-dates-and-progress-status.md): aprenda a seleccionar una vista para comparar los diferentes tipos de fecha de Workfront y a utilizar el campo de estado de progreso.
-* [Seguir el progreso desde la escala de tiempo del proyecto](track-work-progress-from-the-project-timeline.md): aprenda a seguir el progreso del trabajo desde la escala de tiempo del proyecto usando las restricciones de porcentaje completado, estado, asignaciones y tareas.
 
 ## Profundizando
 

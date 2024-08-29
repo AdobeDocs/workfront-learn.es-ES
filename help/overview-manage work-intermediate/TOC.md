@@ -2,14 +2,14 @@
 user-guide-title: Administrar trabajo - intermedio
 user-guide-description: Una vez que haya aprendido los conceptos básicos de la creación, planificación y administración de proyectos, hay algunas cosas más que debe saber para aprovechar al máximo Workfront.
 feature: Work Management
-breadcrumb-title: Información general sobre la administración del trabajo como administrador de proyectos
+breadcrumb-title: Administrar trabajo - intermedio
 solution: Workfront
 sub-product: Work Management
 index: y
-source-git-commit: 5362e8a60d39e61021bb9ab22e3d9afffd41f96a
+source-git-commit: 5947224c840e9bd2c80e5e027e0d5aabb91ff6fd
 workflow-type: tm+mt
-source-wordcount: '204'
-ht-degree: 65%
+source-wordcount: '180'
+ht-degree: 64%
 
 ---
 
@@ -49,11 +49,6 @@ ht-degree: 65%
       + [Convertir un problema/solicitud en un proyecto](create-a-project-from-a-request.md)
       + [Convertir un problema/solicitud en una tarea](convert-issues-to-other-work-items.md)
       + [Informe de problemas](report-on-issues.md)
-
-   + Cronologías del proyecto {#project-timelines}
-      + [Explicación de las cronologías del proyecto](understand-project-timelines.md)
-      + [Comprender los tipos de fechas y el estado de progreso](understand-task-dates-and-progress-status.md)
-      + [Seguimiento del progreso desde la cronología del proyecto](track-work-progress-from-the-project-timeline.md)
 
    + Explorando más profundo {#digging-deeper}
       + [Explicación y administración de los tipos de duración y las restricciones de tareas](understand-and-manage-duration-types-and-task-constraints.md)
