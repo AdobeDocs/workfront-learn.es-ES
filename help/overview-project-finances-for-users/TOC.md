@@ -1,22 +1,22 @@
 ---
-user-guide-title: Resumen de finanzas del proyecto para usuarios
-user-guide-description: Aprenda a priorizar los proyectos actuales y propuestos en función de su coste, valor, riesgo y alineación con los objetivos de su organización.
-breadcrumb-title: Resumen de finanzas del proyecto para usuarios
+user-guide-title: Finanzas del proyecto para usuarios
+user-guide-description: Obtenga información sobre cómo realizar un seguimiento de la información financiera de los proyectos, establecer tipos de costes e ingresos y anular las tarifas de facturación. Este tutorial está diseñado para usuarios que realizarán un seguimiento de los datos financieros relacionados con un proyecto.
+breadcrumb-title: Finanzas del proyecto para usuarios
 solution: Workfront
 sub-product: Work Management
 index: y
-source-git-commit: 2351b6ff9977fd8a81289ab2fad28e21322d347e
+source-git-commit: 5c71f8a9114a1f00da0e889da04f35cce11c5bde
 workflow-type: tm+mt
-source-wordcount: '55'
-ht-degree: 27%
+source-wordcount: '65'
+ht-degree: 47%
 
 ---
 
 
 
-# Resumen de finanzas del proyecto para usuarios {#project-finances-for-users}
+# Finanzas del proyecto para usuarios {#project-finances-for-users}
 
-+ [Resumen de finanzas del proyecto para usuarios](overview.md)
++ [Finanzas del proyecto para usuarios](overview.md)
 + Finanzas del proyecto para usuarios {#project-finances-for-users}
    + [Actualizar y revisar las finanzas](update-and-review-finances.md)
    + [Buscar información financiera](find-financial-information.md)
