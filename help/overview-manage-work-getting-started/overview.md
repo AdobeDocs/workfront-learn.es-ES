@@ -12,7 +12,7 @@ jira: KT-10669
 mini-toc-levels: 1
 recommendations: noDisplay,noCatalog
 index: y
-source-git-commit: 5947224c840e9bd2c80e5e027e0d5aabb91ff6fd
+source-git-commit: 609df4be7b1115b7b624d9e8e758845cd2a51bdb
 workflow-type: tm+mt
 source-wordcount: '977'
 ht-degree: 4%
@@ -42,7 +42,6 @@ Descubra qué es un proyecto en Adobe Workfront, cómo ponerlo en marcha y las f
 * [Conozca cuatro formas de crear un proyecto](understand-other-ways-to-create-projects.md): aprenda a crear un proyecto a partir de una plantilla, a crear un proyecto desde cero, a copiar un proyecto existente o a importar un archivo de [!DNL Microsoft Project].
 * [Rellene los detalles del proyecto](fill-in-the-project-details.md). Conozca los campos de detalles del proyecto que Adobe Workfront recomienda rellenar al crear un proyecto.
 * [Navegue por la página del proyecto](navigate-the-project-page.md). Obtenga información sobre cómo ver los detalles de un proyecto, qué información se muestra en la lista de tareas, dónde cargar documentos y cómo ver el historial de actualizaciones.
-
 
 ## Planificar un proyecto
 
@@ -76,7 +75,6 @@ Aprenda a realizar un seguimiento del trabajo del proyecto y a comunicarse con l
 * [Seguir el progreso desde la escala de tiempo del proyecto](track-work-progress-from-the-project-timeline.md): aprenda a seguir el progreso del trabajo desde la escala de tiempo del proyecto usando las restricciones de porcentaje completado, estado, asignaciones y tareas.
 * [Comprenda la vista de [!UICONTROL Gantt]](understand-the-gantt-view.md): aprenda a usar el gráfico de [!UICONTROL Gantt] del proyecto y el gráfico de [!UICONTROL Gantt] de la tarea.
 * [Comprenda la vista del [!UICONTROL tablero]](understand-the-board-view.md). Obtenga información sobre dónde encontrar la vista del tablero y cómo utilizarla.
-
 
 ## Cierre de un proyecto
 

@@ -1,23 +1,24 @@
 ---
-user-guide-title: Administrar trabajo - intermedio
+user-guide-title: Información general sobre la administración del trabajo como administrador de proyectos
 user-guide-description: Una vez que haya aprendido los conceptos básicos de la creación, planificación y administración de proyectos, hay algunas cosas más que debe saber para aprovechar al máximo Workfront.
 feature: Work Management
-breadcrumb-title: Administrar trabajo - intermedio
+breadcrumb-title: Información general sobre la administración del trabajo como administrador de proyectos
 solution: Workfront
 sub-product: Work Management
 index: y
 source-git-commit: 609df4be7b1115b7b624d9e8e758845cd2a51bdb
 workflow-type: tm+mt
-source-wordcount: '180'
-ht-degree: 64%
+source-wordcount: '216'
+ht-degree: 55%
 
 ---
 
 
-# Administrar trabajo - intermedio {#manage-work-intermediate}
 
-+ [Administrar trabajo - intermedio](overview.md)
-+ Administrar trabajo - intermedio {#manage-work-intermediate}
+# Información general sobre la administración del trabajo como administrador de proyectos {#further-understanding-of-managing-work-as-a-project-manager}
+
++ [Información general sobre la administración del trabajo como administrador de proyectos](overview.md)
++ Más información sobre la administración de trabajo como jefe de proyecto {#further-understanding-of-managing-work-as-a-project-manager}
    + Plantillas de proyecto {#project-templates}
       + [Crear una plantilla de proyecto y obtener más información acerca de los Modelos](create-a-project-template.md)
       + [Creación de un proyecto directamente a partir de una plantilla](create-a-project-directly-from-a-template.md)
@@ -49,7 +50,9 @@ ht-degree: 64%
       + [Convertir un problema/solicitud en una tarea](convert-issues-to-other-work-items.md)
       + [Informe de problemas](report-on-issues.md)
 
-   + Explorando más profundo {#digging-deeper}
-      + [Explicación y administración de los tipos de duración y las restricciones de tareas](understand-and-manage-duration-types-and-task-constraints.md)
-      + [Comprender a los predecesores de varios proyectos](understand-cross-project-predecessors.md)
-      + [Predecesoras avanzadas](advanced-predecessors.md)
+   + Cronologías del proyecto {#project-timelines}
+      + [Explicación de las cronologías del proyecto](understand-project-timelines.md)
+      + [Comprender los tipos de fechas y el estado de progreso](understand-task-dates-and-progress-status.md)
+      + [Seguimiento del progreso desde la cronología del proyecto](track-work-progress-from-the-project-timeline.md)
+
+

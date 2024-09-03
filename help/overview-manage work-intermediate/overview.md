@@ -12,7 +12,7 @@ jira: KT-10671
 mini-toc-levels: 1
 recommendations: noDisplay,noCatalog
 index: y
-source-git-commit: 5947224c840e9bd2c80e5e027e0d5aabb91ff6fd
+source-git-commit: 609df4be7b1115b7b624d9e8e758845cd2a51bdb
 workflow-type: tm+mt
 source-wordcount: '796'
 ht-degree: 0%
@@ -52,7 +52,6 @@ Aprenda a crear y utilizar plantillas de proyecto.
 * [Desactivar una plantilla de proyecto](deactivate-a-project-template.md): aprenda a activar y desactivar una plantilla de proyecto.
 * [Editar el equipo del proyecto en una plantilla de proyecto](edit-the-project-team-in-a-project-template.md): aprenda a evitar incluir accidentalmente **no** miembros del equipo del proyecto en un equipo del proyecto de plantilla y a editar el equipo del proyecto de plantilla.
 
-
 ## Creación y uso de procesos de aprobación
 
 Obtenga información sobre cómo crear procesos de aprobación, adjuntarlos a flujos de trabajo, revisar el trabajo digital y delegar aprobaciones.
@@ -64,7 +63,6 @@ Obtenga información sobre cómo crear procesos de aprobación, adjuntarlos a fl
 * [Comprenda las actualizaciones y notificaciones](understand-updates-and-notifications.md) - Aprenda a realizar actualizaciones en las solicitudes de aprobación y a encontrar sus notificaciones.
 * [Delegar tareas, problemas y aprobaciones](delegate-approvals.md): aprenda a delegar aprobaciones para proyectos, tareas, problemas y partes de tiempo a otro usuario de Adobe Workfront.
 
-
 ## Creación y uso de hitos
 
 Obtenga información sobre cómo crear rutas de hitos, aplicar los hitos a las tareas y ver informes de hitos.
@@ -72,7 +70,6 @@ Obtenga información sobre cómo crear rutas de hitos, aplicar los hitos a las t
 * [Crear hitos](creating-milestones.md): aprenda qué son las rutas de hitos, cómo crear rutas de hitos y cómo agregar pasos de hitos a un proyecto.
 * [Aplicar hitos](apply-milestones.md): aprenda a aplicar una ruta de hitos a un proyecto y asocie tareas clave como pasos de hitos dentro del proyecto.
 * [Ver hitos](view-milestones.md): aprenda a ver hitos en un proyecto de Adobe Workfront y a usar la vista de hitos en el área del proyecto.
-
 
 ## Cómo trabajar con problemas
 
@@ -86,7 +83,6 @@ Obtenga información sobre cómo gestionar el trabajo no planificado con problem
 * [Convertir un problema o una solicitud en un proyecto](create-a-project-from-a-request.md). Obtenga información sobre cómo iniciar la conversión de una solicitud a un proyecto y seleccione la plantilla de proyecto adecuada.
 * [Convertir un problema o una solicitud en una tarea](convert-issues-to-other-work-items.md): aprenda a convertir un problema en una tarea.
 * [Informe sobre problemas](report-on-issues.md): aprenda a crear un informe de problemas que muestre los objetos de resolución y un informe de proyecto que muestre la información de problemas convertida.
-
 
 ## Profundizando
 
