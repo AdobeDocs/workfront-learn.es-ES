@@ -7,12 +7,11 @@ level: Intermediate
 jira: KT-10890
 thumbnail: what-is-scrum.jpeg
 hide: true
-hidefromtoc: true
 exl-id: 6c3a1ffd-4e1e-4133-a354-0b05ca777cf8
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: d0e6801060fea74336e89a2fa0cb505f5d7714ce
 workflow-type: tm+mt
 source-wordcount: '774'
-ht-degree: 100%
+ht-degree: 85%
 
 ---
 
@@ -22,7 +21,7 @@ La metodología Scrum engloba el modelo de flexibilidad, pero difiere de otras e
 
 ## Información general del equipo de Scrum
 
-Cuando decida si desea cambiar o no a Scrum, deberá observar la estructura de sus equipos para ver si pueden transferirse fácilmente a la nueva metodología. Un equipo de Scrum tiene tres tipos de miembros: un propietario de producto, un líder de equipo de Scrum y los integrantes del equipo.
+Cuando estés decidiendo si cambiarte o no a Scrum, tendrás que mirar la estructura de tus equipos para ver si pueden transferirse fácilmente a la nueva metodología. Un equipo de Scrum tiene tres tipos de miembros: un propietario de producto, un líder de equipo de Scrum y los integrantes del equipo.
 
 ![Integrantes del equipo de Scrum](assets/scrumteammembers-01.png)
 
@@ -43,7 +42,7 @@ Un equipo suele ser multifuncional y tiene miembros con diferentes funciones y h
 
 ## Trabajo como equipo de Scrum
 
-Una vez que haya reunido a estos actores clave, seguirán un nuevo estilo de flujo de trabajo para realizar su trabajo y entregar un producto al cliente. Una vez más, en comparación con la metodología tradicional o de cascada, ya no seguirán un proceso lineal de elaboración de un plan para un producto final y, a continuación, pasarán por los pasos o fases necesarios para entregarlo. En su lugar, los equipos de Scrum generan primero un registro de asuntos pendientes.
+Una vez que haya montado estos actores clave, seguirán un nuevo estilo de flujo de trabajo para realizar su trabajo y entregar un producto al cliente. Una vez más, en comparación con la metodología tradicional o de cascada, ya no seguirán un proceso lineal de elaboración de un plan para un producto final y, a continuación, pasarán por los pasos o fases necesarios para entregarlo. En su lugar, los equipos de Scrum generan primero un registro de asuntos pendientes.
 
 
 
@@ -66,13 +65,13 @@ Una vez que han creado sus historias principales, deben preparar el registro de 
 
 ### Planificación de iteraciones
 
-Una vez que el registro de asuntos pendientes se haya configurado y priorizado, es hora de planificar la iteración. (Muchas organizaciones utilizan las palabras “sprint” e “iteración” de forma intercambiable). El equipo decide qué historias completar basándose en las que se consideran listas para seguir. El equipo asigna las tareas y decide la duración de la iteración.
+Una vez preparado y priorizado el registro de pendientes, es hora de planificar la iteración. (Muchas organizaciones utilizan las palabras &quot;sprint&quot; e &quot;iteration&quot; indistintamente). El equipo decide qué historias completar basándose en las que se consideran listas para seguir. El equipo asigna las tareas y decide la duración de la iteración.
 
 
 
 ### Ejecución de la iteración
 
-Ahora, es el momento de ejecutar la iteración. Los integrantes del equipo comienzan a hacer su trabajo como lo haría un equipo tradicional, pero ahora incorporan una reunión breve diaria.
+Ahora es el momento de ejecutar la iteración. Los integrantes del equipo comienzan a hacer su trabajo como lo haría un equipo tradicional, pero ahora incorporan una reunión breve diaria.
 
 Literalmente, se levantarán y responderán tres preguntas:
 
@@ -87,7 +86,7 @@ Estas reuniones permiten que todo el mundo esté en sintonía y avance con rapid
 
 ## Uso de un gráfico de evolución y un guion gráfico para registrar el progreso
 
-Es importante que el equipo, a medida que responde a las tres preguntas principales en sus reuniones breves, monitorice y resgistre su progreso hacia la finalización de la iteración. Al hacerlo, puede determinar si se está moviendo lo suficientemente rápido a través de sus historias para ofrecer todas las funciones a tiempo al final de la iteración. Hay dos componentes para hacerlo en el proceso de Scrum.
+A medida que un equipo responde a las tres preguntas principales de sus estándares, es importante que supervise y rastree su progreso hacia la finalización de la iteración. Al hacerlo, puede determinar si se está moviendo lo suficientemente rápido a través de sus historias para ofrecer todas las funciones a tiempo al final de la iteración. Hay dos componentes para hacerlo en el proceso de Scrum.
 
 
 ### Guion gráfico 

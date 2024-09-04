@@ -7,12 +7,11 @@ level: Intermediate
 jira: KT-10889
 thumbnail: benefits-of-agile.png
 hide: true
-hidefromtoc: true
 exl-id: 8aa79988-6e3a-48a0-a30d-1a4bc3ce98be
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: d0e6801060fea74336e89a2fa0cb505f5d7714ce
 workflow-type: tm+mt
 source-wordcount: '280'
-ht-degree: 100%
+ht-degree: 89%
 
 ---
 
@@ -26,7 +25,7 @@ Como sugiere el nombre, la Metodología ágil permite a los equipos estar mejor 
 
 ## Transparencia en el trabajo de un equipo
 
-Los equipos ágiles utilizan reuniones diarias informales para asegurarse de que el equipo se concentre en la lista priorizada de características o productos que se van a desarrollar. Tienen la tranquilidad de saber en qué están trabajando los demás integrantes de su equipo. Llevan un control regular de lo que el equipo ha conseguido el día anterior, de los problemas u obstáculos que puedan tener que abordar y de lo que tienen previsto trabajar ese día.
+Los equipos de Agile utilizan reuniones diarias denominadas &quot;stand-ups&quot; para asegurarse de que el equipo se mantiene centrado en la lista priorizada de funciones o productos que se van a desarrollar. Tienen la tranquilidad de saber en qué están trabajando los demás integrantes de su equipo. Llevan un control regular de lo que el equipo ha conseguido el día anterior, de los problemas u obstáculos que puedan tener que abordar y de lo que tienen previsto trabajar ese día.
 
 
 
