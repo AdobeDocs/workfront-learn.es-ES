@@ -6,7 +6,7 @@ role: Admin, Leader, User
 level: Beginner
 jira: KT-10913
 exl-id: bfcea59d-7746-40aa-989d-6e2b7e312a2b
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 1275ca2f30453df06cfcf9944798a1c89111a6de
 workflow-type: tm+mt
 source-wordcount: '741'
 ht-degree: 100%
@@ -111,3 +111,4 @@ Cree el menor número posible de plantillas de diseño.
 **A continuación se explica por qué**
 
 Al crear plantillas de diseño, intente hacerlas de forma que satisfagan las necesidades de la mayoría de las personas de un equipo, de un grupo, con la misma función de trabajo, etc., como sea posible. Una menor cantidad de plantillas de diseño significa que los administradores de sistemas y grupos necesitan menos mantenimiento.
+
