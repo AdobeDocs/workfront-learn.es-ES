@@ -9,9 +9,9 @@ thumbnail: what-is-kanban.jpeg
 hide: true
 exl-id: 234c7491-d405-422c-aa60-cc5a27031fb5
 source-git-commit: d0e6801060fea74336e89a2fa0cb505f5d7714ce
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '453'
-ht-degree: 76%
+ht-degree: 100%
 
 ---
 
@@ -32,7 +32,7 @@ Los actores clave de un equipo Kanban son similares a los de un equipo de Scrum,
 
 Hay muchas maneras de dar formato a un tablero Kanban. Los equipos funcionan a partir de un tablero que puede tener cualquier número de columnas. Cada columna representa el estado del trabajo que se está realizando.
 
-En el tablero más simplista, la primera columna podría ser &quot;hacer&quot;, la segunda &quot;en curso&quot; y la tercera &quot;completa&quot;.
+En el tablero más simplista, la primera columna podría ser “pendiente”, la segunda “en curso” y la tercera “completado”.
 
 ![Pizarra y notas adhesivas](assets/agile4-01.png)
 
@@ -42,13 +42,13 @@ Muchas empresas tienen su propia terminología para los nombres de columna, o in
 
 ## Prioridad
 
-Los integrantes del equipo trabajan con un gestor de productos o un director de proyectos para asegurarse de que las columnas de registro de asuntos pendientes y otros estados estén priorizadas y de que el trabajo continúe avanzando hacia la finalización. El gestor de producto sigue siendo responsable de garantizar que se escucha la voz del cliente y que el producto se mueve en la dirección correcta.
+Los integrantes del equipo trabajan con un gestor de productos o un director de proyectos para asegurarse de que las columnas de registro de asuntos pendientes y otros estados estén priorizadas y de que el trabajo continúe avanzando hacia la finalización. El gestor de producto sigue siendo responsable de garantizar que se escuche la voz del cliente y que el producto se mueva en la dirección correcta.
 
 ![Pizarra Kanban](assets/agile4-03.png)
 
 ## Limitar el trabajo en proceso
 
-Un aspecto único de Kanban es que los equipos tienen un límite en su capacidad para la cantidad de artículos que pueden manejar en cualquier momento. Los equipos eligen una cierta cantidad de historias que están dispuestos a tener en sus columnas &quot;por hacer&quot; y &quot;en curso&quot;, y no exceden ese número para evitar el agotamiento. Una vez que una historia se mueve a &quot;completar&quot;, una historia del registro de pendientes ocupa su lugar en la columna &quot;por hacer&quot;.
+Un aspecto único de Kanban es que los equipos tienen un límite en su capacidad para la cantidad de artículos que pueden manejar en cualquier momento. Los equipos eligen una cierta cantidad de artículos que están dispuestos a tener en sus columnas “pendiente” y “en curso”, y no superan ese número para evitar el agotamiento. Una vez que un artículo se traslada a “completado”, un artículo del registro de asuntos pendientes ocupa su lugar en la columna “pendiente”.
 
 ## Mejora continua
 
