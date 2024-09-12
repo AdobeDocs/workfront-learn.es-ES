@@ -9,12 +9,13 @@ level: Intermediate
 activity: deploy
 team: Technical Marketing
 last-substantial-update: 2024-02-01T00:00:00Z
+recommendations: noDisplay,noCatalog
 jira: KT-14864
 doc-type: video
 exl-id: bef0ba6b-6c29-46ec-ae0d-c54f5609ff5f
-source-git-commit: 642a6107dd3afc8f010445aa5e71c8dfdb9636eb
+source-git-commit: bb8afb53feb6dadcb5c561df5dbcbdd113669165
 workflow-type: tm+mt
-source-wordcount: '151'
+source-wordcount: '163'
 ht-degree: 100%
 
 ---
@@ -39,3 +40,7 @@ Este vídeo contiene información sobre:
 Para obtener información sobre cómo crear el **Informe de comentarios del equipo de administración** que se ha usado en el vídeo, consulte el tutorial [Crear un informe de tareas](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-task-report.html?lang=es) y busque la actividad **Crear un informe de comentarios del equipo de administración** siguiendo el vídeo.
 
 Para obtener información sobre cómo crear un formulario personalizado, consulte el tutorial [Crear y compartir un formulario personalizado](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/custom-data/custom-forms/custom-forms-creating-and-sharing-a-custom-form.html?lang=es).
+
+## Tutoriales recomendados sobre este tema
+
+* [Respuestas a preguntas comunes sobre las colas de solicitud](/help/manage-work/request-queues/request-queue-faq.md)
