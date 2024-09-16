@@ -1,6 +1,6 @@
 ---
 title: Crear un flujo de solicitud
-description: Obtenga información sobre cómo configurar temas de colas, grupos de temas y reglas de enrutamiento para administrar la solicitud y la entrada de trabajo.
+description: Obtenga información sobre cómo configurar los temas de cola, grupos de temas y reglas de enrutamiento para administrar la admisión de solicitudes y trabajos.
 activity: deploy
 feature: Work Management
 type: Tutorial
@@ -14,9 +14,9 @@ recommendations: noDisplay,noCatalog
 exl-id: 194df349-541d-4940-a6a5-b5d47cb58cf4
 doc-type: video
 source-git-commit: ae55edf4d206e4eaa0874f2ba8504020cf8a85d2
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '71'
-ht-degree: 66%
+ht-degree: 100%
 
 ---
 
@@ -27,7 +27,7 @@ En este vídeo, aprenderá a configurar temas de cola, grupos de temas y reglas 
 >[!PREREQUISITES]
 >
 >* [Crear una cola de solicitudes](/help/manage-work/request-queues/create-a-request-queue.md)
->* [Comprenda la configuración de un flujo de solicitud](/help/manage-work/request-queues/understand-settings-for-a-flow-request.md)
+>* [Explicación de la configuración de un flujo de solicitud](/help/manage-work/request-queues/understand-settings-for-a-flow-request.md)
 
 >[!VIDEO](https://video.tv.adobe.com/v/335223/?quality=12&learn=on)
 
