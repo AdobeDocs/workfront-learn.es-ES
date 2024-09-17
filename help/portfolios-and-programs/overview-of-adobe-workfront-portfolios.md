@@ -11,7 +11,7 @@ last-substantial-update: 2024-04-02T00:00:00Z
 jira: KT-13837
 level: Beginner
 exl-id: daa4c8f8-9b15-4de1-8976-547a6362e952
-source-git-commit: ab24a55009efd8960cb6f8fe1f4da553c9f8dbce
+source-git-commit: e3c9ca1f5bf7a68e5874da07a2f1398b3ac2790c
 workflow-type: tm+mt
 source-wordcount: '585'
 ht-degree: 100%
@@ -85,3 +85,4 @@ Learn more graphic and links to documentation articles
 * Navigate within a portfolio 
 * Share a portfolio   
 -->
+
