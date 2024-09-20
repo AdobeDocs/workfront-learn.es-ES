@@ -12,7 +12,7 @@ exl-id: bfa3ae5f-9618-444c-9eb8-5d82db9a77c7
 source-git-commit: eefabcd7721663ba1ee704127b846b8fe95f7f3b
 workflow-type: tm+mt
 source-wordcount: '709'
-ht-degree: 48%
+ht-degree: 96%
 
 ---
 
@@ -22,13 +22,13 @@ ht-degree: 48%
 
 En la pestaña [!UICONTROL Detalles de cola] de la cola de solicitudes/proyecto, asegúrese de que el usuario se ajusta a los criterios del campo “¿Quién puede añadir solicitudes a esta cola?” .
 
-Vea este vídeo para obtener más información:
+Consulte este vídeo para obtener más información:
 
 >[!VIDEO](https://video.tv.adobe.com/v/3434156/?quality=12&learn=on)
 
 **Otorgue a los usuarios acceso a la cola, pero ahora también pueden ver el proyecto de cola de solicitudes. ¿Por qué?**
 
-En la sección &quot;¿Quién puede agregar solicitudes a esta cola?&quot; , si elige &quot;Personas con acceso de visualización en este proyecto&quot;, cualquier persona a la que conceda derechos de visualización para utilizar la cola de solicitudes también podrá ver la cola de solicitudes en una lista de proyectos. Para evitarlo, utilice las opciones &quot;Personas en la compañía de este proyecto&quot; o &quot;Personas en el grupo de este proyecto&quot;.
+En la lista “¿Quién puede añadir solicitudes a esta cola?” si elige “Personas con acceso de visualización en este proyecto”, cualquier persona a la que conceda derechos de visualización para utilizar la cola de solicitudes también podrá ver la cola de solicitudes en una lista de proyectos. Para evitarlo, utilice las opciones “Personas en la compañía de este proyecto” o “Personas en el grupo de este proyecto”.
 
 **¿Puedo convertir una solicitud en un proyecto?**
 
@@ -44,7 +44,7 @@ Estos tutoriales le mostrarán cómo:
 
 Puede usar el campo [!UICONTROL Buscar] en la barra de navegación o localícela en el área [!UICONTROL Proyectos].
 
-Si abre una solicitud desde la cola de solicitudes, puede hacer clic en el nombre del proyecto en el área de rutas de exploración.
+Si abre una solicitud desde la cola de solicitudes, puede hacer clic en el nombre del proyecto en el área de rutas.
 
 **¿Puedo transferir la información de un formulario personalizado de solicitud a un proyecto?**
 
@@ -60,7 +60,7 @@ Adjunte el formulario personalizado a la solicitud. Al convertir la solicitud en
 
 Puede acceder a los campos en los orígenes de campo **[!UICONTROL Problema convertido]** y **[!UICONTROL Generador de problema convertido]** para añadir esta información a los informes de proyecto y tarea.
 
-Vea este vídeo para obtener más información:
+Consulte este vídeo para obtener más información:
 
 >[!VIDEO](https://video.tv.adobe.com/v/3434176/?quality=12&learn=on)
 
@@ -71,15 +71,15 @@ Si el filtro del proyecto incluye **Cola>>Es pública>>Igual a>>Ninguna** el inf
 
 Si el filtro del proyecto incluye **Cola>>Es pública>>No es igual a>>Ninguna** el informe solo mostrará los proyectos que **SON** colas de solicitud.
 
-Vea este vídeo para obtener más información:
+Consulte este vídeo para obtener más información:
 
 >[!VIDEO](https://video.tv.adobe.com/v/3434329/?quality=12&learn=on)
 
 **¿Es buena idea crear un estado personalizado de la cola de solicitudes?**
 
-Algunos clientes crean un estado personalizado de Cola de solicitudes que equivale a Actual. Pueden ejecutar un informe que muestre todas las colas de solicitudes o excluir fácilmente las colas de solicitudes de un informe. Aunque esto tiene la ventaja de ser más fácil de usar que **Cola>>Es pública>>No es igual>>Ninguna**, tiene la desventaja de que las personas que crean colas de solicitudes pueden olvidarse de usarlo, ya que el estado Actual funciona igual de bien y es lo que verán en la mayoría del material de formación. Por este motivo, muchos clientes eligen no utilizar un estado personalizado de Cola de solicitudes.
+Algunos clientes crean un estado personalizado de la cola de solicitudes que equivale a Actual. Pueden ejecutar un informe que muestre todas las colas de solicitudes o excluirlas fácilmente de un informe. Aunque esto tiene la ventaja de ser más fácil de utilizar que **Cola>>Es pública>>No es igual>>Ninguna**, tiene la desventaja de que las personas que crean colas de solicitudes pueden olvidarse de usarla, ya que el estado Actual funciona igual de bien y es lo que verán en la mayoría del material de formación. Por este motivo, muchos clientes eligen no utilizar un estado personalizado de Cola de solicitudes.
 
-Sin embargo, si ya está usando el estado de la cola de solicitudes en su organización y solo desea una forma de asegurarse de que se está usando correctamente (o corregir casos en los que no lo esté), puede crear el informe **colas de solicitudes activas** descrito en el vídeo anterior y cambiar el filtro de **Proyecto>>Estado es igual a>>Igual>>Actual** a **Proyecto>>Estado>>Igual>>Actual**. Esto mostrará todas las colas de solicitudes activas que están utilizando el estado Actual en lugar del estado de la Cola de solicitudes que desea que utilicen. Seleccione todos los proyectos que aparecen y realice una edición masiva para cambiar los estados a Cola de solicitudes.
+Sin embargo, si ya está utilizando el estado de Cola de solicitudes en su organización y solo desea una forma de asegurarse de que se esté utilizando correctamente (o corregir casos en los que no se esté utilizando), puede crear el informe **Colas de solicitudes activas** que se describe en el vídeo anterior y cambiar el filtro de **Proyecto>>Estado equivale a>>Igual>>Actual** a **Proyecto>>Estado>>Igual>>Actual**. Esto mostrará todas las colas de solicitudes activas que están utilizando el estado Actual en lugar del estado Cola de solicitudes que desea que utilicen. Seleccione todos los proyectos que aparecen y realice una edición masiva para cambiar los estados a Cola de solicitudes.
 
 ## Tutoriales recomendados sobre este tema
 
