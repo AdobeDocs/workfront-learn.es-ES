@@ -6,10 +6,9 @@ role: Admin, Leader, User
 level: Intermediate
 jira: KT-10890
 thumbnail: what-is-scrum.jpeg
-hide: true
 exl-id: 6c3a1ffd-4e1e-4133-a354-0b05ca777cf8
-source-git-commit: d0e6801060fea74336e89a2fa0cb505f5d7714ce
-workflow-type: ht
+source-git-commit: 37a1c8c492af68ccdee9bd7688ff4d07b41c71e7
+workflow-type: tm+mt
 source-wordcount: '774'
 ht-degree: 100%
 

@@ -6,10 +6,9 @@ role: Admin, Leader, User
 level: Intermediate
 jira: KT-10889
 thumbnail: benefits-of-agile.png
-hide: true
 exl-id: 8aa79988-6e3a-48a0-a30d-1a4bc3ce98be
-source-git-commit: d0e6801060fea74336e89a2fa0cb505f5d7714ce
-workflow-type: ht
+source-git-commit: 37a1c8c492af68ccdee9bd7688ff4d07b41c71e7
+workflow-type: tm+mt
 source-wordcount: '280'
 ht-degree: 100%
 

@@ -6,10 +6,9 @@ role: Admin, Leader, User
 level: Intermediate
 jira: KT-10892
 thumbnail: transitioning-to-agile.jpeg
-hide: true
 exl-id: eaad6a3f-9d1a-4dbe-8187-09e25de605f1
-source-git-commit: d0e6801060fea74336e89a2fa0cb505f5d7714ce
-workflow-type: ht
+source-git-commit: 37a1c8c492af68ccdee9bd7688ff4d07b41c71e7
+workflow-type: tm+mt
 source-wordcount: '554'
 ht-degree: 100%
 

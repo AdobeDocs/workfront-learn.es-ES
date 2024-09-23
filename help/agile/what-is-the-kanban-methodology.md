@@ -6,10 +6,9 @@ role: Admin, Leader, User
 level: Intermediate
 jira: KT-10891
 thumbnail: what-is-kanban.jpeg
-hide: true
 exl-id: 234c7491-d405-422c-aa60-cc5a27031fb5
-source-git-commit: d0e6801060fea74336e89a2fa0cb505f5d7714ce
-workflow-type: ht
+source-git-commit: 37a1c8c492af68ccdee9bd7688ff4d07b41c71e7
+workflow-type: tm+mt
 source-wordcount: '453'
 ht-degree: 100%
 

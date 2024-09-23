@@ -7,11 +7,12 @@ role: Admin, Leader, User
 level: Intermediate, Experienced
 activity: use
 team: Technical Marketing
+last-substantial-update: 2024-09-23T00:00:00Z
 thumbnail: share-custom-field.png
 jira: KT-10090
 exl-id: 99aaea2c-28f4-46c6-b384-6e14cfbd7d93
-source-git-commit: 8deb28bbeeb814cfe03506c0b8d045a742950ab9
-workflow-type: ht
+source-git-commit: 37a1c8c492af68ccdee9bd7688ff4d07b41c71e7
+workflow-type: tm+mt
 source-wordcount: '46'
 ht-degree: 100%
 
