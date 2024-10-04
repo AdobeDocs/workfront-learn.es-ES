@@ -8,13 +8,14 @@ type: Tutorial
 role: User
 level: Intermediate
 team: Technical Marketing
+last-substantial-update: 2024-10-04T00:00:00Z
 jira: KT-9086
 exl-id: b3f16468-b720-468d-887a-b313fc32bd89
 doc-type: video
-source-git-commit: 61b6971457198d2c39cc4dab67aebc6e8c6988f6
+source-git-commit: 7c2fb562c6f65eeeed7908d0c6f2f071ac176c33
 workflow-type: tm+mt
-source-wordcount: '408'
-ht-degree: 100%
+source-wordcount: '426'
+ht-degree: 95%
 
 ---
 
@@ -46,6 +47,11 @@ Este vídeo contiene información sobre:
 ## Tarea: filtre las tareas en las que he marcado “Listo con mi parte”
 
 El siguiente modo de texto excluirá las tareas en las que el usuario ha marcado “Listo con mi parte”. Todo lo que tiene que hacer es crear un filtro de tareas, agregar cualquier regla de filtro que desee, luego cambiar al modo de texto y pegar el código siguiente después de cualquier modo de texto que vea en el filtro.
+
+
+>[!WARNING]
+>
+> Esto no está pensado para su uso en filtros de calendario.
 
 ```
 EXISTS:1:$$OBJCODE=ASSGN  
@@ -85,6 +91,10 @@ predecessorsMM:projectID_Mod=ne
 ## Tarea: Mostrar todas las tareas que asigné a otros
 
 Cree un informe de tarea con los filtros que desee, vaya a la pestaña Filtro y haga clic en Cambiar al modo Texto. Agregue este código a lo que ya esté allí:
+
+>[!WARNING]
+> 
+> Esto no está pensado para su uso en filtros de calendario.
 
 ```
 EXISTS:1:$$OBJCODE=ASSGN

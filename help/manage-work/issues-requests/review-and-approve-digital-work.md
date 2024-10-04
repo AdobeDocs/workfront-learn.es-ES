@@ -12,9 +12,9 @@ jira: KT-8808
 recommendations: noDisplay,noCatalog
 exl-id: 20596d8f-5a00-4263-9e90-e615303d6c0b
 doc-type: video
-source-git-commit: 6677e36f4e1b1125ce313495c34991b78b8df577
-workflow-type: ht
-source-wordcount: '95'
+source-git-commit: bd743add8bad572a638d4cd0999aeefe1fb3bfc8
+workflow-type: tm+mt
+source-wordcount: '89'
 ht-degree: 100%
 
 ---
@@ -38,7 +38,6 @@ Este vídeo contiene información sobre:
 ## Tutoriales recomendados sobre este tema
 
 * [Crear proceso de aprobación de un solo uso](/help/manage-work/approval-processes-and-milestone-paths/create-a-single-use-approval-process.md)
-* [Adjuntar y editar procesos de aprobación existentes](/help/manage-work/approval-processes-and-milestone-paths/attach-and-edit-existing-approval-processes.md)
 * [Delegar tareas, problemas y aprobaciones](/help/manage-work/approval-processes-and-milestone-paths/delegate-approvals.md)
 
 

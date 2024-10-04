@@ -13,16 +13,16 @@ last-substantial-update: 2024-09-24T00:00:00Z
 recommendations: noDisplay,noCatalog
 exl-id: 85d28b54-72a6-4dd1-bac8-8e7ffb3e2b76
 doc-type: video
-source-git-commit: b0114985964736fb7bb234c581cb56930714915c
+source-git-commit: bd743add8bad572a638d4cd0999aeefe1fb3bfc8
 workflow-type: tm+mt
-source-wordcount: '447'
-ht-degree: 42%
+source-wordcount: '441'
+ht-degree: 100%
 
 ---
 
 # Crear un proceso de aprobación global y de un solo uso
 
-Los procesos de aprobación de proyectos, tareas y problemas permiten al administrador de proyectos obtener la confirmación por parte de los expertos de que el trabajo se ha realizado justo antes de continuar. El administrador del proyecto puede crear un proceso de aprobación para cada situación (lo que se conoce como proceso de aprobación de un solo uso) o elegir de una lista de posibles muchos procesos de aprobación que se han creado anteriormente para satisfacer necesidades comunes (los llamados procesos de aprobación globales o existentes).
+Los procesos de aprobación de proyectos, tareas y problemas permiten al administrador de proyectos obtener la confirmación por parte de los expertos de que el trabajo se ha realizado justo antes de continuar. El administrador del proyecto puede crear un proceso de aprobación para cada situación (lo que se conoce como proceso de aprobación de un solo uso) o elegir de una lista de, posiblemente, muchos procesos de aprobación que se hayan creado previamente para satisfacer necesidades comunes (se conocen como procesos de aprobación globales).
 
 En cualquier caso, cuando el estado del objeto cambia a uno especificado en el proceso de aprobación, se notifica al aprobador de varias formas para que revise el trabajo y lo apruebe o rechace. Dado que todo el proyecto puede estar en pausa a la espera de una aprobación, los aprobadores deben saber de antemano que se les puede pedir una aprobación. Si un aprobador se encuentra fuera de la oficina por cualquier motivo, puede delegar sus aprobaciones a un sustituto cualificado. Consulte [Delegar tareas, problemas y aprobaciones](/help/manage-work/approval-processes-and-milestone-paths/delegate-approvals.md) para obtener más información.
 
@@ -40,13 +40,13 @@ En este vídeo, aprenderá a crear un proceso de aprobación global y un proceso
 
 ## Cómo aplicar aprobaciones automáticas de problemas en una cola de solicitudes
 
-Si desea configurar aprobaciones automáticas de problemas en una cola de solicitudes, estas solo se pueden realizar mediante un proceso de aprobación global de problemas y se aplican en un [!UICONTROL tema de cola].
+Si quiere configurar aprobaciones automáticas de problemas en una cola de solicitudes, estas solo pueden realizarse mediante un proceso de aprobación global de problemas y aplicarse en un [!UICONTROL tema de la cola].
 
-Al crear o editar un [!UICONTROL tema de cola], seleccione el proceso de aprobación global en el campo **[!UICONTROL Aprobación predeterminada]**.
+Al crear o editar un [!UICONTROL tema de la cola], seleccione el proceso de aprobación global en el campo **[!UICONTROL Aprobación predeterminada]**.
 
-![Imagen que muestra cómo seleccionar un proceso de aprobación predeterminado en un tema de cola](assets/automatic-issue-approval-1.png)
+![Imagen que muestra cómo seleccionar un proceso de aprobación predeterminado en un tema de la cola](assets/automatic-issue-approval-1.png)
 
-Es posible que necesite editar el proceso de aprobación del problema para asegurarse de que **[!UICONTROL Estado anterior]** no corresponde al problema establecido cuando se rechaza la aprobación. Esto se debe a que el estado anterior es **[!UICONTROL Nuevo]**, y este es también el estado que almacena en déclencheur el proceso de aprobación, por lo que es el estado en el que se establecerá cuando se apruebe. Para evitar confusiones cuando se rechaza la aprobación del problema, es mejor establecer un estado como **[!UICONTROL No se resuelve]** o un estado personalizado creado para este fin.
+Es posible que necesite editar el proceso de aprobación del problema para asegurarse de que el **[!UICONTROL Estado anterior]** no corresponde al del problema establecido cuando se rechaza la aprobación. Esto se debe a que el estado anterior es **[!UICONTROL Nuevo]** y este también es el estado que acciona el proceso de aprobación, por lo que es el estado que se establecerá cuando se apruebe. Para evitar confusiones cuando se rechaza la aprobación del problema, es mejor establecer un estado como **[!UICONTROL No se puede resolver]** o un estado personalizado creado para este fin.
 
 ![Imagen que muestra el cambio de estado que se usará cuando se rechace el problema](assets/automatic-issue-approval-2.png)
 
@@ -54,7 +54,6 @@ Es posible que necesite editar el proceso de aprobación del problema para asegu
 ## Tutoriales recomendados sobre este tema
 
 * [Delegar tareas, problemas y aprobaciones](/help/manage-work/approval-processes-and-milestone-paths/delegate-approvals.md)
-* [Adjuntar y editar procesos de aprobación existentes](/help/manage-work/approval-processes-and-milestone-paths/attach-and-edit-existing-approval-processes.md)
 * [Explicación de los procesos de aprobación específicos del grupo](/help/administration-and-setup/approval-processes-and-milestone-paths/group-specific-approval-processes.md)
 * [Crear un flujo de solicitud](/help/manage-work/request-queues/create-a-request-flow.md)
 
