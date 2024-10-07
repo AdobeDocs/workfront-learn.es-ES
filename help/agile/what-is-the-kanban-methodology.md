@@ -8,7 +8,7 @@ jira: KT-10891
 thumbnail: what-is-kanban.jpeg
 exl-id: 234c7491-d405-422c-aa60-cc5a27031fb5
 source-git-commit: 37a1c8c492af68ccdee9bd7688ff4d07b41c71e7
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '453'
 ht-degree: 100%
 
