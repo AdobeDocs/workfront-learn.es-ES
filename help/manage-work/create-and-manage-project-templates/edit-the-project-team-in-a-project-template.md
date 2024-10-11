@@ -8,13 +8,14 @@ type: Tutorial
 role: User
 level: Beginner
 last-substantial-update: 2024-01-09T00:00:00Z
+recommendations: noDisplay,noCatalog
 team: Technical Marketing
 jira: KT-14755
 doc-type: video
 exl-id: 9a92a0a5-5ea3-428d-a81a-2d217e6e3d59
-source-git-commit: 642a6107dd3afc8f010445aa5e71c8dfdb9636eb
+source-git-commit: 434069d95777eef7739917d8761c03a8e64b8433
 workflow-type: tm+mt
-source-wordcount: '63'
+source-wordcount: '84'
 ht-degree: 100%
 
 ---
@@ -27,3 +28,9 @@ Este vídeo contiene información sobre:
 * Editar el equipo del proyecto de plantilla.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3426803/?quality=12&learn=on)
+
+## Tutoriales recomendados sobre este tema
+
+* [Crear una plantilla de proyecto y obtener más información acerca de los Modelos](/help/manage-work/create-and-manage-project-templates/create-a-project-template.md)
+* [Compartir una plantilla de proyecto](/help/manage-work/create-and-manage-project-templates/share-a-project-template.md)
+* [Desactivar una plantilla de proyecto](/help/manage-work/create-and-manage-project-templates/deactivate-a-project-template.md)

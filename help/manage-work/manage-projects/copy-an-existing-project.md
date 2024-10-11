@@ -8,18 +8,19 @@ thumbnail: copy-an-existing-project.jpeg
 type: Tutorial
 role: User
 level: Intermediate
+recommendations: noDisplay,noCatalog
 jira: KT-10155
 exl-id: 90a87fef-70e9-42fc-ac55-415980ef32c7
-source-git-commit: 2351b6ff9977fd8a81289ab2fad28e21322d347e
-workflow-type: ht
-source-wordcount: '134'
-ht-degree: 100%
+source-git-commit: 434069d95777eef7739917d8761c03a8e64b8433
+workflow-type: tm+mt
+source-wordcount: '155'
+ht-degree: 89%
 
 ---
 
 # Copiar un proyecto existente
 
-A veces, en lugar de usar una plantilla para crear un proyecto, solo tiene que copiar un proyecto para otro uso único. Para ello, debe tener una licencia de Plan, con acceso a Editar y Crear para los proyectos.
+A veces, en lugar de usar una plantilla para crear un proyecto, solo tiene que copiar un proyecto para otro uso único. Para ello, debe tener una licencia Standard, con acceso de edición y creación a los proyectos.
 
 Vaya al proyecto que desea copiar y haga clic en el menú de tres puntos situado junto al nombre del proyecto. A continuación, seleccione Copiar.
 
@@ -30,3 +31,9 @@ La ventana Copiar proyecto permite cambiar el título y el estado, así como bor
 ![Opciones Copiar proyecto](assets/copy-existing-02.png)
 
 Si selecciona Borrar asignaciones o establece el estado en Planificado, evitará que el proyecto copiado envíe notificaciones de asignación de tareas justo después de copiarlo.
+
+## Tutoriales recomendados sobre este tema
+
+* [Creación de un proyecto directamente a partir de una plantilla](/help/manage-work/create-and-manage-project-templates/create-a-project-directly-from-a-template.md)
+* [Trabajo con tareas](/help/manage-work/tasks/work-with-tasks.md)
+* [Asignación de tareas del plan del proyecto](/help/manage-work/tasks/assign-tasks-from-the-project-plan.md)
