@@ -1,6 +1,6 @@
 ---
 title: Ver hitos
-description: Aprenda a ver los hitos de un proyecto y a usar la vista de hitos en el área [!UICONTROL Proyecto].
+description: Obtenga información sobre cómo ver hitos en un proyecto y también cómo usar la vista de hitos en el área [!UICONTROL Proyecto].
 activity: deploy
 feature: Work Management
 thumbnail: 335206.jpeg
@@ -14,9 +14,9 @@ jira: KT-8946
 exl-id: bad53b87-4033-4ce7-af04-a38cfa00de9e
 doc-type: video
 source-git-commit: 56f1f6d0a8d4014b5cc1c4bf8dbc286a27eff671
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '72'
-ht-degree: 63%
+ht-degree: 100%
 
 ---
 
@@ -25,7 +25,7 @@ ht-degree: 63%
 Este vídeo contiene información sobre:
 
 * Vista de hitos en un proyecto específico
-* Leer la vista de hito en una lista de proyectos
+* Leer la vista de hitos en una lista de proyectos
 
 >[!VIDEO](https://video.tv.adobe.com/v/335206/?quality=12&learn=on)
 
