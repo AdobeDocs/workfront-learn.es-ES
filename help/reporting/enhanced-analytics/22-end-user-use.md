@@ -1,6 +1,6 @@
 ---
 title: Comprender un caso de uso de usuario final
-description: Aprenda cómo los usuarios finales pueden utilizar los gráficos Plan de grupo, Evolución y Tareas en curso en [!UICONTROL Análisis mejorado].
+description: Aprenda cómo los usuarios finales pueden usar Plan de vuelo, Evolución y Tareas en los gráficos de vuelo en [!UICONTROL Análisis mejorado].
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335055.png
@@ -12,10 +12,10 @@ jira: KT-8712
 recommendations: noDisplay,noCatalog
 exl-id: 2b6e88e4-d71d-434b-ba74-da2e5e8ea157
 doc-type: video
-source-git-commit: d29054f0551a9add8460e4c9fd265cee2dfb72ca
+source-git-commit: 92dd1cf0db8c6ea785cba2f524133273240a6d10
 workflow-type: tm+mt
 source-wordcount: '48'
-ht-degree: 100%
+ht-degree: 64%
 
 ---
 

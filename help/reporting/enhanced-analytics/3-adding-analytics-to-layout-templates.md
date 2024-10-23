@@ -1,6 +1,6 @@
 ---
-title: Cómo acceder a [!UICONTROL Análisis mejorado]
-description: Descubra cómo los administradores de sistemas y grupos conceden acceso a [!UICONTROL Análisis mejorado] mediante una plantilla de diseño.
+title: Cómo acceder a [!UICONTROL análisis mejorado]
+description: Descubra cómo los administradores de sistemas y grupos otorgan acceso a [!UICONTROL análisis mejorado] mediante una plantilla de diseño.
 activity: use
 feature: Reports and Dashboards,Get Started with Workfront
 thumbnail: 335045.png
@@ -13,17 +13,17 @@ last-substantial-update: 2024-04-02T00:00:00Z
 recommendations: noDisplay,noCatalog
 exl-id: 4bdff3ba-772f-4526-ab6b-8428f695d9a2
 doc-type: video
-source-git-commit: ab24a55009efd8960cb6f8fe1f4da553c9f8dbce
+source-git-commit: 92dd1cf0db8c6ea785cba2f524133273240a6d10
 workflow-type: tm+mt
 source-wordcount: '156'
-ht-degree: 100%
+ht-degree: 75%
 
 ---
 
 
-# Cómo acceder a Análisis mejorado
+# Cómo acceder a los análisis mejorados
 
-Como la mayoría de las funciones de Workfront, se accede a [!UICONTROL Análisis mejorado] desde el menú principal. Pero [!UICONTROL Análisis] no está en el menú principal de forma predeterminada.
+Al igual que la mayoría de las demás características de Workfront, puedes acceder a [!UICONTROL Análisis mejorado] desde el menú principal. Pero [!UICONTROL Análisis] no está en el menú principal de forma predeterminada.
 
 ![Una imagen del menú principal ](assets/analytics-on-main-menu.png)
 

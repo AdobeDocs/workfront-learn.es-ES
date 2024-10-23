@@ -1,6 +1,6 @@
 ---
 title: Explicación de los filtros
-description: Obtenga información sobre cómo agregar un filtro basado en campos de proyecto comunes y cómo agregar un filtro mediante un formulario personalizado, todo en [!UICONTROL Análisis mejorado].
+description: Aprenda a agregar un filtro basado en campos de proyecto comunes y a agregar un filtro mediante un formulario personalizado, todo en [!UICONTROL Análisis mejorado].
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335043.png
@@ -12,10 +12,10 @@ jira: KT-8721
 recommendations: noDisplay,noCatalog
 exl-id: b63ab88a-c196-489f-92e8-ffe94be6aa2b
 doc-type: video
-source-git-commit: b41fbb673e46687e7f2b49ee77bc026d22774540
+source-git-commit: 92dd1cf0db8c6ea785cba2f524133273240a6d10
 workflow-type: tm+mt
 source-wordcount: '264'
-ht-degree: 100%
+ht-degree: 90%
 
 ---
 
