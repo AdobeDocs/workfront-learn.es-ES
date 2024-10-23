@@ -14,7 +14,7 @@ jira: KT-14749
 doc-type: video
 exl-id: ad9b9e1e-3d8c-4a0f-8f73-e204047485a6
 source-git-commit: 434069d95777eef7739917d8761c03a8e64b8433
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '125'
 ht-degree: 100%
 

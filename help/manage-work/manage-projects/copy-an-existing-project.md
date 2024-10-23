@@ -12,15 +12,15 @@ recommendations: noDisplay,noCatalog
 jira: KT-10155
 exl-id: 90a87fef-70e9-42fc-ac55-415980ef32c7
 source-git-commit: 434069d95777eef7739917d8761c03a8e64b8433
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '155'
-ht-degree: 89%
+ht-degree: 100%
 
 ---
 
 # Copiar un proyecto existente
 
-A veces, en lugar de usar una plantilla para crear un proyecto, solo tiene que copiar un proyecto para otro uso único. Para ello, debe tener una licencia Standard, con acceso de edición y creación a los proyectos.
+A veces, en lugar de usar una plantilla para crear un proyecto, solo tiene que copiar un proyecto para otro uso único. Para ello, debe tener una licencia estándar con acceso para Editar y Crear proyectos.
 
 Vaya al proyecto que desea copiar y haga clic en el menú de tres puntos situado junto al nombre del proyecto. A continuación, seleccione Copiar.
 
