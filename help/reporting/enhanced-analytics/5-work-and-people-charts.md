@@ -1,6 +1,6 @@
 ---
 title: Comprensión de los gráficos de trabajo y personas
-description: En [!UICONTROL análisis mejorado], los gráficos de trabajo muestran la actividad desde la perspectiva del proyecto y la tarea, mientras que los gráficos de personas muestran la actividad desde la perspectiva de un equipo de inicio.
+description: En [!UICONTROL Análisis mejorado], los gráficos de trabajo muestran la actividad desde la perspectiva del proyecto y la tarea, mientras que los gráficos de personas lo hacen desde la de un equipo local.
 activity: use
 team: Technical Marketing
 feature: Reports and Dashboards
@@ -12,9 +12,9 @@ jira: KT-10028
 recommendations: noDisplay,noCatalog
 exl-id: 630235a5-0e11-4d94-9210-49ea6e80b48d
 source-git-commit: 92dd1cf0db8c6ea785cba2f524133273240a6d10
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '188'
-ht-degree: 85%
+ht-degree: 100%
 
 ---
 

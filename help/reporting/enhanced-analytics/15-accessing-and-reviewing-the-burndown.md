@@ -1,6 +1,6 @@
 ---
 title: Comprender el acceso y la revisión del gráfico de evolución
-description: Aprenda a acceder al gráfico de evolución y comprenda la relación entre las horas restantes, las condiciones del proyecto y la velocidad del proyecto en [!UICONTROL análisis mejorado].
+description: Obtenga información sobre cómo acceder al gráfico de evolución y comprender la relación entre las horas restantes, la condición del proyecto y la velocidad del proyecto en [!UICONTROL Análisis mejorado.]
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335051.png
@@ -13,9 +13,9 @@ recommendations: noDisplay,noCatalog
 exl-id: d06c1b04-205d-478a-b44a-c43ebe55f649
 doc-type: video
 source-git-commit: 92dd1cf0db8c6ea785cba2f524133273240a6d10
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '293'
-ht-degree: 92%
+ht-degree: 100%
 
 ---
 

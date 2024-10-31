@@ -1,6 +1,6 @@
 ---
 title: 'Comprender las acciones: pase el ratón, haga clic y arrastre y haga clic en'
-description: Aprenda a obtener más información pasando el puntero sobre un gráfico, creando un periodo de tiempo en un gráfico y haciendo que aparezcan gráficos adicionales, todo en [!UICONTROL análisis mejorado].
+description: Descubra cómo obtener más información pasando el puntero por encima de un gráfico, creando un período de tiempo en un gráfico y haciendo que aparezcan gráficos adicionales, todo en [!UICONTROL Análisis mejorado].
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335044.png
@@ -13,9 +13,9 @@ recommendations: noDisplay,noCatalog
 exl-id: 8e0f24d7-a099-4a08-af08-8d150104fdb9
 doc-type: video
 source-git-commit: 92dd1cf0db8c6ea785cba2f524133273240a6d10
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '295'
-ht-degree: 91%
+ht-degree: 100%
 
 ---
 

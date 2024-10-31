@@ -1,6 +1,6 @@
 ---
-title: Un momento con el producto sobre [!UICONTROL análisis mejorado]
-description: Descubra cómo surgió el análisis y las emocionantes capacidades que hace posible con Joel Pettigrew, director de producto de [!UICONTROL análisis mejorado].
+title: Un momento con el producto sobre el [!UICONTROL Análisis mejorado]
+description: Descubra cómo surgió el análisis y las interesantes posibilidades que ofrece de la mano de Joel Pettioven, responsable del [!UICONTROL Análisis mejorado].
 activity: use
 feature: Reports and Dashboards
 type: Tutorial
@@ -12,14 +12,14 @@ jira: KT-8870
 recommendations: noDisplay,noCatalog
 exl-id: 037ec658-a7b7-44cd-a7af-b1923935f41c
 source-git-commit: 92dd1cf0db8c6ea785cba2f524133273240a6d10
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '59'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Un momento con el producto sobre [!UICONTROL análisis mejorado]
+# Un momento con el producto sobre el [!UICONTROL Análisis mejorado]
 
-Vea este vídeo con Joel Pettigrew de Workfront, gerente de producto de [!UICONTROL análisis mejorado], para conocer cómo surgió el análisis y las increíbles capacidades que hace posible.
+Vea este vídeo con Joel Pettioven de Workfront, responsable del [!UICONTROL Análisis mejorado], para conocer cómo surgió el análisis y las interesantes funcionalidades que ofrece.
 
 >[!VIDEO](https://video.tv.adobe.com/v/335042/?quality=12&learn=on)
