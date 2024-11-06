@@ -8,12 +8,12 @@ type: Tutorial
 role: User
 level: Beginner
 team: Technical Marketing
-last-substantial-update: 2024-03-25T00:00:00Z
+last-substantial-update: 2024-11-04T00:00:00Z
 recommendations: noDisplay,noCatalog
 jira: KT-8768
 exl-id: 1be0bec5-13b3-44b0-ba49-d25adf0378a5
 doc-type: video
-source-git-commit: b18ff5966da92c762e702c7de2b020f7a6c692b6
+source-git-commit: af71439e222061cf468b78dfe1807f0b4893c52a
 workflow-type: tm+mt
 source-wordcount: '91'
 ht-degree: 100%

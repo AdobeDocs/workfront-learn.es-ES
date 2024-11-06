@@ -6,16 +6,16 @@ role: Admin, Leader, User
 level: Beginner
 jira: KT-10920
 exl-id: 394485ee-bb8f-4248-86a9-4c86174dd37f
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: af71439e222061cf468b78dfe1807f0b4893c52a
 workflow-type: tm+mt
-source-wordcount: '1179'
-ht-degree: 100%
+source-wordcount: '1182'
+ht-degree: 91%
 
 ---
 
 # Práctica recomendada: revisión
 
-## ¿Qué es una &quot;práctica recomendada&quot; de Adobe Workfront?
+## ¿Qué es una “práctica recomendada” de Adobe Workfront?
 
 Las prácticas recomendadas son directrices que representan un procedimiento eficaz y efectivo, se adoptan fácilmente en la compañía y se pueden replicar correctamente en toda la organización.
 
@@ -23,9 +23,9 @@ Al revisar estas recomendaciones, hay que tener en cuenta que algunas prácticas
 
 ## Navegación de esta página
 
-Al desplazarse por esta página, encontrará en primer lugar una lista de alto nivel de todas las prácticas recomendadas sobre el tema. Esto permite revisar las recomendaciones sin profundizar en los detalles de &quot;por qué&quot;.
+Al desplazarse por esta página, primero encontrará una lista de alto nivel de todas las prácticas recomendadas sobre el tema. Esto le permite revisar las recomendaciones sin profundizar en los detalles de “por qué”.
 
-El punto &quot;¿Por qué estas son prácticas recomendadas?&quot; se encuentra después de la lista de alto nivel, proporciona mayores detalles sobre algunas de las prácticas recomendadas y por qué se consideran un proceso, una herramienta, etc., cuya implementación se debe considerar al trabajar con Workfront.
+La pregunta “¿Por qué son estas prácticas recomendadas?” se encuentra después de la lista de alto nivel, proporciona mayores detalles sobre algunas de las prácticas recomendadas y por qué se consideran un proceso, una herramienta, etc., cuya implementación se debe considerar al trabajar con Workfront.
 
 </br>
 </br>
@@ -34,7 +34,7 @@ El punto &quot;¿Por qué estas son prácticas recomendadas?&quot; se encuentra 
 
 * Tómese el tiempo para crear plantillas de flujos de trabajo de revisión.
 
-* Deshabilite la configuración “Enviar correos electrónicos desde Workfront cuando se haga un comentario en una prueba” en la configuración de Workfront.
+* Deshabilite la configuración &quot;Enviar correos electrónicos desde Workfront cuando se haga un comentario en una prueba&quot; en las configuraciones de Workfront.
 
 * Utilice únicamente Solo lectura o Revisor para los ajustes “Funciones para usuarios que no sean destinatarios que abran una prueba de documento” en Workfront.
 
@@ -63,7 +63,7 @@ El punto &quot;¿Por qué estas son prácticas recomendadas?&quot; se encuentra 
 
 Tómese el tiempo para crear plantillas de flujos de trabajo de revisión.
 
-**A continuación se explica por qué**
+**He aquí por qué**
 
 Las plantillas no solo aceleran y optimizan el proceso de creación y asignación de pruebas, sino que también proporcionan coherencia entre los flujos de trabajo de prueba para tipos de recursos similares. También se aseguran de que a cada destinatario de la prueba se le asigne la función de prueba adecuada y la alerta de correo electrónico, y de que se haya establecido una fecha límite.
 
@@ -72,11 +72,11 @@ Las plantillas no solo aceleran y optimizan el proceso de creación y asignació
 
 **Práctica recomendada**
 
-Deshabilite la configuración “Enviar correos electrónicos desde Workfront cuando se haga un comentario en una prueba” en la configuración de Workfront.
+Deshabilite la configuración &quot;Enviar correos electrónicos desde Workfront cuando se haga un comentario en una prueba&quot; en las configuraciones de Workfront.
 
 
 
-**A continuación se explica por qué**
+**He aquí por qué**
 
 Cuando esta configuración está habilitada (que es de forma predeterminada), los usuarios pueden recibir varias notificaciones por correo electrónico para cada comentario en una prueba, una desde la funcionalidad de revisión y otra desde el propio Workfront. Estas duplicidades provocan confusión e interrupciones en los avisos por correo electrónico, así como una bandeja de entrada llena, lo que puede hacer que los usuarios ignoren las notificaciones de prueba. Esto, a su vez, podría suponer el incumplimiento de los plazos.
 
@@ -93,7 +93,7 @@ Utilice únicamente Solo lectura o Revisor para los ajustes “Funciones para us
 
 
 
-**A continuación se explica por qué**
+**He aquí por qué**
 
 Las demás opciones para esta configuración requieren que se tome una decisión de la revisión, lo que puede entorpecer el flujo de trabajo. Por lo general, las personas que no están añadidas al flujo de trabajo solo tienen que ver la prueba o comentar, no aprobar, por lo que las opciones Solo lectura o Revisor son la mejor elección.
 
@@ -110,13 +110,9 @@ Ajuste la configuración del back-end de prueba para que los usuarios vean las f
 
 
 
-**A continuación se explica por qué**
+**He aquí por qué**
 
-Seleccione la opción F j, Y, gi:a en la configuración de prueba para los usuarios que deseen ver fechas y horas límite de prueba en formato a. m./p. m. Para las zonas que utilizan un reloj de 12 horas, esto ayuda a aclarar los plazos.
-
-
-
-**Nota**: Para encontrar esta configuración, vaya al menú principal de Workfront > Revisión > Configuración de la cuenta > Usuarios > y edite el campo Formato de fecha para cada uno.
+El valor predeterminado es un formato de reloj de 24 horas, que puede resultar confuso para aquellos que no estén familiarizados con él. Para cambiar el formato, vaya al Menú principal de Workfront > Revisión > Configuración de cuenta > Usuarios. Haga doble clic en un usuario para seleccionar uno y, a continuación, edite el campo Date format en la sección Personal settings. Debe seleccionar cada usuario de uno en uno para cambiarlos.
 
 </br>
 </br>
@@ -127,7 +123,7 @@ Establezca una fecha límite de la revisión predeterminada como parte de la con
 
 
 
-**A continuación se explica por qué**
+**He aquí por qué**
 
 Cuando se establece la fecha límite de la revisión predeterminada (la fecha de carga + x número de días laborables), si el creador de pruebas olvida añadir una fecha límite, Workfront aplica automáticamente esta fecha límite a cada prueba cargada.
 
@@ -145,7 +141,7 @@ Ocultar la opción de decisión de la revisión no relevante.
 
 
 
-**A continuación se explica por qué**
+**He aquí por qué**
 
 Esta opción de decisión suele causar confusión entre los aprobadores, ya que las organizaciones a menudo no definen cuándo se debe utilizar la opción No relevante. La opción No relevante generalmente indica que la prueba no es relevante para el destinatario de la prueba y que no necesita tomar una decisión de aprobado o rechazado. Al seleccionar No relevante, esto permite que continúe el flujo de trabajo de prueba.
 
@@ -163,7 +159,7 @@ No reordene las opciones de decisión de la revisión en la configuración de la
 
 
 
-**A continuación se explica por qué**
+**He aquí por qué**
 
 Cada configuración de la decisión de la revisión contiene un valor/peso específico que, si se reordena, puede generar confusión en las configuraciones de prueba. El orden de decisión y el valor/peso se utilizan como activadores de la fase de prueba y en la creación de informes.
 
@@ -180,7 +176,7 @@ Establezca los valores predeterminados de usuario para las funciones de prueba y
 
 
 
-**A continuación se explica por qué**
+**He aquí por qué**
 
 Estos ajustes se rellenan automáticamente al asignar un flujo de trabajo de prueba; aceleran el proceso y contribuyen a la coherencia de todos los flujos de trabajo de prueba.
 
@@ -197,7 +193,7 @@ Establezca la función de prueba del creador de pruebas en el Revisor.
 
 
 
-**A continuación se explica por qué**
+**He aquí por qué**
 
 La función de prueba del Revisor garantiza que el creador de la prueba pueda realizar comentarios y acceder a los comentarios dejados por otros. La mayoría de las veces, el creador de la prueba no está obligado a tomar una decisión sobre una prueba que ha cargado. Las funciones de revisión Aprobador, Revisor y Aprobador, Autor, o Moderador requieren que se tome una decisión. Si al creador de pruebas se le asigna una de estas funciones de prueba, pero nunca toma una decisión, esto puede afectar negativamente a los plazos de la revisión.
 
@@ -210,7 +206,7 @@ Evite utilizar la función de revisión del Aprobador.
 
 
 
-**A continuación se explica por qué**
+**He aquí por qué**
 
 La función de revisión del Aprobador no permite al usuario realizar comentarios sobre esta revisión. Esto podría llevar a que un usuario rechace la revisión, sin ninguna explicación porque no puede hacer comentarios. Utilice la función de revisión del Revisor y Aprobador en su lugar para que el usuario pueda proporcionar comentarios.
 
@@ -221,7 +217,7 @@ La función de revisión del Aprobador no permite al usuario realizar comentario
 
 Evite la opción de alerta de correo electrónico de revisión de todas las actividades.
 
-**A continuación se explica por qué**
+**He aquí por qué**
 
 Esta opción envía una notificación de correo electrónico de revisión cada vez que sucede algo con una revisión: se realiza un comentario, se publica una respuesta, se toma una decisión, etc. El destinatario ve esencialmente la actividad de revisión mientras sucede.
 
