@@ -12,7 +12,7 @@ last-substantial-update: 2024-11-05T00:00:00Z
 recommendations: noDisplay,noCatalog
 jira: KT-10147
 exl-id: 0f2a2c78-8844-47b1-b0db-542392d9ce97
-source-git-commit: d9ccf45b157a4c66184cca0afadba35ef4c8615e
+source-git-commit: 09b639144341ad335e3eea8b8171395f39d914ad
 workflow-type: tm+mt
 source-wordcount: '109'
 ht-degree: 100%
@@ -29,7 +29,7 @@ En este vídeo aprenderá a comunicarse con todas las partes interesadas del pro
 * Problemas
 * Informes
 
->[!VIDEO](https://video.tv.adobe.com/v/3419150/?quality=12&learn=on?enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3419150/?quality=12&learn=on&enablevpops)
 
 >[!TIP]
 >
