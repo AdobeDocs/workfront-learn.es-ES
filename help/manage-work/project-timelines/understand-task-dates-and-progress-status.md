@@ -1,6 +1,6 @@
 ---
 title: Comprender los tipos de fechas y el estado de progreso
-description: Obtenga información sobre cómo ver los distintos tipos de fechas en [!DNL  Workfront] y utilice el estado de progreso para realizar un seguimiento del progreso del trabajo.
+description: Obtenga información sobre las fechas planificadas, proyectadas y reales y cómo se utilizan para calcular el estado de progreso.
 activity: use
 feature: Work Management
 thumbnail: 335095.jpeg
@@ -9,31 +9,34 @@ role: User
 level: Beginner
 team: Technical Marketing
 jira: KT-8782
+last-substantial-update: 2024-11-08T00:00:00Z
+recommendations: noDisplay,noCatalog
 exl-id: 5504c294-80d4-4c37-8b41-9caf521cea27
 doc-type: video
-source-git-commit: ec82cd0aafb89df7b3c46eb716faf3a25cd438a2
+source-git-commit: 9bf98f05ec4c3d838ea0e85423c156cc411b0169
 workflow-type: tm+mt
-source-wordcount: '111'
-ht-degree: 100%
+source-wordcount: '121'
+ht-degree: 53%
 
 ---
 
 # Comprender los tipos de fechas y el estado de progreso
 
-Este vídeo contiene información sobre:
+En este vídeo, aprenderá sobre lo siguiente:
 
-* Seleccione una vista para comparar los diferentes tipos de fechas en [!DNL Workfront's]
-* Utilice el estado de progreso para realizar un seguimiento del progreso del trabajo
+* Fechas planificadas, proyectadas y reales, y
+* Cómo se utilizan para calcular el estado de progreso
 
 >[!VIDEO](https://video.tv.adobe.com/v/335095/?quality=12&learn=on)
 
 >[!NOTE]
 >
->Como se indica en el vídeo, es importante que las personas cambien el estado de **[!UICONTROL Nuevo]** a **[!UICONTROL En curso]** cuando inician una tarea, de modo que la [!UICONTROL Fecha de inicio real] sea correcta. Pero si se olvidan de hacerlo cuando inicien la tarea, podrán volver atrás y editar la [!UICONTROL Fecha de inicio real] en cualquier momento.
+>Es importante que las personas cambien el estado de **[!UICONTROL Nuevo]** a **[!UICONTROL En curso]** cuando inicien una tarea para que la [!UICONTROL Fecha real de inicio] sea correcta. Pero si se olvidan de hacerlo cuando inicien la tarea, podrán volver atrás y editar la [!UICONTROL Fecha de inicio real] en cualquier momento.
 
 
-<!---
-Task progress status overview
-Definitions for the project, task, and issue dates within Workfront
-Project timelines
---->
+## Tutoriales recomendados sobre este tema
+
+* [Explicación de las cronologías del proyecto](/help/manage-work/project-timelines/understand-project-timelines.md)
+* [Seguimiento del progreso desde la cronología del proyecto](/help/manage-work/project-timelines/track-work-progress-from-the-project-timeline.md)
+* [Explicación y administración de los tipos de duración y las restricciones de tareas](/help/manage-work/intermediate-projects/understand-and-manage-duration-types-and-task-constraints.md)
+
