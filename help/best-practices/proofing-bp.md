@@ -8,9 +8,9 @@ last-substantial-update: 2024-11-06T00:00:00Z
 jira: KT-10920
 exl-id: 394485ee-bb8f-4248-86a9-4c86174dd37f
 source-git-commit: d9ccf45b157a4c66184cca0afadba35ef4c8615e
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+workflow-type: ht
+source-wordcount: '1182'
+ht-degree: 100%
 
 ---
 
@@ -35,7 +35,7 @@ La pregunta “¿Por qué son estas prácticas recomendadas?” se encuentra des
 
 * Tómese el tiempo para crear plantillas de flujos de trabajo de revisión.
 
-* Deshabilite la configuración &quot;Enviar correos electrónicos desde Workfront cuando se haga un comentario en una prueba&quot; en las configuraciones de Workfront.
+* Deshabilite la configuración “Enviar correos electrónicos por medio de Workfront cuando un comentario se convierta en revisión” en los ajustes de Workfront.
 
 * Utilice únicamente Solo lectura o Revisor para los ajustes “Funciones para usuarios que no sean destinatarios que abran una prueba de documento” en Workfront.
 
@@ -73,7 +73,7 @@ Las plantillas no solo aceleran y optimizan el proceso de creación y asignació
 
 **Práctica recomendada**
 
-Deshabilite la configuración &quot;Enviar correos electrónicos desde Workfront cuando se haga un comentario en una prueba&quot; en las configuraciones de Workfront.
+Deshabilite la configuración “Enviar correos electrónicos por medio de Workfront cuando un comentario se convierta en revisión” en los ajustes de Workfront.
 
 
 
@@ -113,7 +113,7 @@ Ajuste la configuración del back-end de prueba para que los usuarios vean las f
 
 **He aquí por qué**
 
-El valor predeterminado es un formato de reloj de 24 horas, que puede resultar confuso para aquellos que no estén familiarizados con él. Para cambiar el formato, vaya al Menú principal de Workfront > Revisión > Configuración de cuenta > Usuarios. Haga doble clic en un usuario para seleccionar uno y, a continuación, edite el campo Date format en la sección Personal settings. Debe seleccionar cada usuario de uno en uno para cambiarlos.
+El valor predeterminado es un formato de reloj de 24 horas, que puede resultar confuso para aquellos que no estén familiarizados con él. Para cambiar el formato, vaya al menú principal de Workfront > Revisión > Configuración de la cuenta > Usuarios. Haga doble clic en un usuario para seleccionar uno y, a continuación, edite el campo Formato de fecha en la sección Configuración personal. Debe seleccionar cada usuario de uno en uno para cambiarlos.
 
 </br>
 </br>

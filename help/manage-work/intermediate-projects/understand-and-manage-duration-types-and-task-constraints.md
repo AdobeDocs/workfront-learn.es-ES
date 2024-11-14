@@ -13,9 +13,9 @@ jira: KT-13530
 doc-type: video
 exl-id: bd82f007-0d15-4031-94dd-2f41c158c3a2
 source-git-commit: af71439e222061cf468b78dfe1807f0b4893c52a
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '142'
-ht-degree: 80%
+ht-degree: 100%
 
 ---
 
@@ -34,7 +34,7 @@ En este vídeo, aprenderá las siguientes cosas sobre los tipos de duración y l
 >[!VIDEO](https://video.tv.adobe.com/v/3420986/?quality=12&learn=on)
 
 
-Para obtener información sobre cómo crear una vista de tipos de duración y restricciones de tarea, consulte la actividad **Tipos de duración y restricciones de tarea** en [Crear una vista básica](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-basic-view.html?lang=es).
+Para obtener información sobre cómo crear una vista Tipos de duración y restricciones de tareas, consulte la actividad **Vista Tipos de duración y restricciones de tareas** en [Crear una vista básica](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-basic-view.html?lang=es).
 
 Para obtener más información sobre los tipos de duración, consulte [Duración de la tarea y tipos de duración](https://experienceleague.adobe.com/docs/workfront/using/manage-work/tasks/task-duration-and-duration-types/task-duration-duration-type.html?lang=es).
 
