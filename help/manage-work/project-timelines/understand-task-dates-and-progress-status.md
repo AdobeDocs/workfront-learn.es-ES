@@ -1,6 +1,6 @@
 ---
 title: Comprender los tipos de fechas y el estado de progreso
-description: Obtenga información sobre las fechas planificadas, proyectadas y reales y cómo se utilizan para calcular el estado de progreso.
+description: Obtenga información sobre las fechas planificadas, proyectadas y reales, y cómo se utilizan para calcular el estado de progreso.
 activity: use
 feature: Work Management
 thumbnail: 335095.jpeg
@@ -14,9 +14,9 @@ recommendations: noDisplay,noCatalog
 exl-id: 5504c294-80d4-4c37-8b41-9caf521cea27
 doc-type: video
 source-git-commit: 816fd351752ee8334f13324711d363406e4d60d0
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '121'
-ht-degree: 53%
+ht-degree: 100%
 
 ---
 
@@ -31,7 +31,7 @@ En este vídeo, aprenderá sobre lo siguiente:
 
 >[!NOTE]
 >
->Es importante que las personas cambien el estado de **[!UICONTROL Nuevo]** a **[!UICONTROL En curso]** cuando inicien una tarea para que la [!UICONTROL Fecha real de inicio] sea correcta. Pero si se olvidan de hacerlo cuando inicien la tarea, podrán volver atrás y editar la [!UICONTROL Fecha de inicio real] en cualquier momento.
+>Es importante que las personas cambien el estado de **[!UICONTROL Nuevo]** a **[!UICONTROL En curso]** cuando inician una tarea, de modo que la [!UICONTROL Fecha de inicio real] sea correcta. Pero si se olvidan de hacerlo cuando inicien la tarea, podrán volver atrás y editar la [!UICONTROL Fecha de inicio real] en cualquier momento.
 
 
 ## Tutoriales recomendados sobre este tema
