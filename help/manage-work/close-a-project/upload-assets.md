@@ -1,6 +1,6 @@
 ---
 title: Cargar recursos
-description: Cargue documentos, pruebas y otros recursos al proyecto antes de cerrarlo para asegurarse de que todos los datos relevantes estén asociados.
+description: Cargue documentos y pruebas en el proyecto antes de cerrarlo para asegurarse de que todos los datos relevantes estén asociados con el proyecto.
 activity: use
 team: Technical Marketing
 feature: Work Management
@@ -8,31 +8,26 @@ thumbnail: upload-assets.jpeg
 type: Tutorial
 role: User
 level: Beginner
+recommendations: noDisplay,noCatalog
+last-substantial-update: 2024-11-22T00:00:00Z
 jira: KT-10138
 exl-id: d6004151-3b05-4433-ad1c-aff1187e61ac
-source-git-commit: ec82cd0aafb89df7b3c46eb716faf3a25cd438a2
+source-git-commit: 50ac05e44459c89d615bc6aaa0c109a2d21e0734
 workflow-type: tm+mt
-source-wordcount: '134'
-ht-degree: 100%
+source-wordcount: '58'
+ht-degree: 41%
 
 ---
 
 # Cargar recursos
 
-Antes de cerrar un proyecto de [!DNL Workfront], compruebe que todos los archivos relevantes se encuentran adjuntos en la sección [!UICONTROL Documentos]. Cargue estos archivos como documento o prueba, según las directrices de su organización.
+En este vídeo, aprenderá a comprobar las aprobaciones de documentos y pruebas.
 
-Es posible que deba cargar el documento o la prueba como una versión de un archivo existente.
+>[!VIDEO](https://video.tv.adobe.com/v/3440370/?quality=12&learn=on)
 
-Si su organización usa aprobaciones de pruebas, asegúrese de que todas ellas se completan con un rápido vistazo a los iconos de progreso.
+## Tutoriales recomendados sobre este tema
 
-![Página Documentos que muestra los iconos de progreso de la revisión](assets/planner-fund-proof-progress-icons.png)
-
-Y, si su organización emplea aprobaciones de documentos, seleccione cada elemento de la lista y consulte los detalles para ver si las aprobaciones han finalizado.
-
-![Resumen lateral en la página Documentos que muestra la aprobación del documento](assets/planner-fund-document-approval.png)
-
-<!---
-learn more urls
-Create proofs
-Add new documents to Workfront
---->
+* [Cambiar el estado del proyecto a completo](/help/manage-work/projects/change-the-project-status.md)
+* [Aprobaciones completas](/help/manage-work/close-a-project/complete-approvals.md)
+* [Registro de las lecciones aprendidas](/help/manage-work/close-a-project/lessons-learned-from-closing-a-project.md)
+* [Horas de registro y revisión](/help/manage-work/close-a-project/log-and-review-hours.md)
