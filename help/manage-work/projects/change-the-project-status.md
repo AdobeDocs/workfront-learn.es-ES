@@ -12,7 +12,8 @@ recommendations: noDisplay,noCatalog
 last-substantial-update: 2024-11-22T00:00:00Z
 jira: KT-10127
 exl-id: e32f89f0-9b02-42e8-85b4-57fe461b1c36
-source-git-commit: 4c0eee191bba54235f6213961c6f78c8eac9efb3
+doc-type: video
+source-git-commit: 0b067f9dddd57a7f29ba4241d2d9bf59a9748e3e
 workflow-type: tm+mt
 source-wordcount: '77'
 ht-degree: 100%
