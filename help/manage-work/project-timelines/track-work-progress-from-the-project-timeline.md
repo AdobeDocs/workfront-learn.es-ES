@@ -1,6 +1,6 @@
 ---
 title: Seguimiento del progreso desde la cronología del proyecto
-description: Aprenda a realizar un seguimiento del progreso del trabajo desde la cronología del proyecto utilizando el porcentaje completado y el estado de progreso.
+description: Obtenga información sobre cómo rastrear el progreso del trabajo desde la cronología del proyecto con el uso del porcentaje completado y del estado del progreso.
 activity: use
 team: Technical Marketing
 feature: Work Management
@@ -14,15 +14,15 @@ jira: KT-10150
 exl-id: c8793f49-24b8-48cc-af84-5239234ead0e
 doc-type: video
 source-git-commit: 7bfb6ee5c710159f57fd5e338cd11d6d79f803ff
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '69'
-ht-degree: 50%
+ht-degree: 100%
 
 ---
 
 # Seguimiento del progreso desde la cronología del proyecto
 
-Asegúrese de que las tareas progresan del modo adecuado para alcanzar los plazos del proyecto.
+Asegúrese de que las tareas avancen de la forma en que deberían para cumplir los plazos de los proyectos.
 
 En este vídeo, aprenderá sobre lo siguiente:
 
