@@ -14,9 +14,9 @@ jira: KT-10134
 exl-id: fda55592-e4d3-4cb6-941f-09bf1bc76bf6
 doc-type: video
 source-git-commit: 0b067f9dddd57a7f29ba4241d2d9bf59a9748e3e
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '65'
-ht-degree: 46%
+ht-degree: 100%
 
 ---
 
@@ -24,8 +24,8 @@ ht-degree: 46%
 
 Este vídeo contiene información sobre:
 
-* Cómo encontrar y tratar aprobaciones de tareas sin resolver
-* Cómo encontrar y tratar aprobaciones de problemas sin resolver
+* Cómo encontrar aprobaciones de tareas por resolver y ocuparse de ellas
+* Cómo encontrar aprobaciones de problemas por resolver y tratarlos
 
 >[!VIDEO](https://video.tv.adobe.com/v/3439422/?quality=12&learn=on)
 
