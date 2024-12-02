@@ -1,5 +1,5 @@
 ---
-title: “[!DNL Scenario Planner] Explicado”
+title: '[!DNL Scenario Planner] explicado'
 description: Descubra cómo  [!DNL Scenario Planner]  se ajusta a otras herramientas de planificación de recursos. A continuación, aprenda a configurar  [!DNL Scenario Planner].
 feature: Resource Management
 type: Tutorial
@@ -14,7 +14,7 @@ doc-type: video
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
 source-wordcount: '110'
-ht-degree: 100%
+ht-degree: 99%
 
 ---
 

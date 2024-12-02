@@ -1,6 +1,6 @@
 ---
 title: Revise el trabajo en  [!DNL My Updates]  o  [!DNL Home]
-description: '“[!DNL  Workfront] proporciona dos lugares para acceder al trabajo que se le ha asignado para revisión y aprobación:  [!DNL My Updates]  y  [!DNL Home] ”'
+description: '[!DNL  Workfront] proporciona dos lugares para tener acceso al trabajo que se le ha asignado para su revisión y aprobación:  [!DNL My Updates] y [!DNL Home] '
 feature: Work Management
 type: Tutorial
 role: User
@@ -13,7 +13,7 @@ exl-id: fed89b2d-5092-426d-8af4-4268d89bc29d
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
 source-wordcount: '191'
-ht-degree: 100%
+ht-degree: 92%
 
 ---
 
