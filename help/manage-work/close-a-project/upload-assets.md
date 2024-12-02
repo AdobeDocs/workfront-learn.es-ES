@@ -1,6 +1,6 @@
 ---
 title: Cargar recursos
-description: Cargue documentos y pruebas en el proyecto antes de cerrarlo para asegurarse de que todos los datos relevantes estén asociados con el proyecto.
+description: Cargue documentos, pruebas y otros recursos al proyecto antes de cerrarlo para asegurarse de que todos los datos relevantes estén asociados a él.
 activity: use
 team: Technical Marketing
 feature: Work Management
@@ -13,9 +13,9 @@ last-substantial-update: 2024-11-22T00:00:00Z
 jira: KT-10138
 exl-id: d6004151-3b05-4433-ad1c-aff1187e61ac
 source-git-commit: 50ac05e44459c89d615bc6aaa0c109a2d21e0734
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '58'
-ht-degree: 41%
+ht-degree: 100%
 
 ---
 
