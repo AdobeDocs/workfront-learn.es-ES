@@ -10,15 +10,15 @@ team: Technical Marketing
 last-substantial-update: 2024-08-23T00:00:00Z
 jira: KT-10669
 mini-toc-levels: 1
-recommendations: noDisplay,noCatalog
+recommendations: noDisplay,catalog
 index: y
-source-git-commit: 609df4be7b1115b7b624d9e8e758845cd2a51bdb
+exl-id: 6cb8465a-f59a-41b9-a043-0f76b71980a3
+source-git-commit: f033b210268e8979ee15abe812e6ad85673eeedb
 workflow-type: tm+mt
 source-wordcount: '977'
 ht-degree: 4%
 
 ---
-
 
 # Administrar trabajo: introducción {#overview}
 

@@ -10,11 +10,11 @@ level: Beginner
 team: Technical Marketing
 jira: KT-8726
 last-substantial-update: 2024-04-02T00:00:00Z
-recommendations: noDisplay,noCatalog
+recommendations: noDisplay,catalog
 exl-id: 4bdff3ba-772f-4526-ab6b-8428f695d9a2
 doc-type: video
-source-git-commit: 92dd1cf0db8c6ea785cba2f524133273240a6d10
-workflow-type: ht
+source-git-commit: f033b210268e8979ee15abe812e6ad85673eeedb
+workflow-type: tm+mt
 source-wordcount: '156'
 ht-degree: 100%
 

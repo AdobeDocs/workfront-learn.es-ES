@@ -9,12 +9,12 @@ role: User
 level: Intermediate
 team: Technical Marketing
 last-substantial-update: 2024-10-09T00:00:00Z
-recommendations: noDisplay,noCatalog
+recommendations: noDisplay,catalog
 jira: KT-8946
 exl-id: bad53b87-4033-4ce7-af04-a38cfa00de9e
 doc-type: video
-source-git-commit: 56f1f6d0a8d4014b5cc1c4bf8dbc286a27eff671
-workflow-type: ht
+source-git-commit: f033b210268e8979ee15abe812e6ad85673eeedb
+workflow-type: tm+mt
 source-wordcount: '72'
 ht-degree: 100%
 

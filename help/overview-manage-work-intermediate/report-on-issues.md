@@ -9,10 +9,11 @@ type: Tutorial
 role: User
 level: Beginner
 last-substantial-update: 2024-07-24T00:00:00Z
-recommendations: noDisplay,noCatalog
+recommendations: noDisplay,catalog
 jira: KT-10072
 hide: true
-source-git-commit: c675114a7f82521a59072f80a64d314be4cd335d
+exl-id: baee5681-8bf5-4f69-8f5f-e8b1a50724f6
+source-git-commit: f033b210268e8979ee15abe812e6ad85673eeedb
 workflow-type: tm+mt
 source-wordcount: '56'
 ht-degree: 100%
@@ -35,4 +36,3 @@ En este vídeo aprenderá a crear:
 * [Creación de una vista básica](/help/reporting/basic-reporting/create-a-basic-view.md)
 * [Creación de un informe simple](/help/reporting/basic-reporting/create-a-simple-report.md)
 * [Búsqueda y administración de solicitudes](/help/manage-work/issues-requests/find-requests.md)
-

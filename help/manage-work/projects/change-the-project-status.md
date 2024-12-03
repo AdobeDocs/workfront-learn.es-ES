@@ -8,13 +8,13 @@ thumbnail: change-the-project-status.jpeg
 type: Tutorial
 role: User
 level: Beginner
-recommendations: noDisplay,noCatalog
+recommendations: noDisplay,catalog
 last-substantial-update: 2024-11-22T00:00:00Z
 jira: KT-10127
 exl-id: e32f89f0-9b02-42e8-85b4-57fe461b1c36
 doc-type: video
-source-git-commit: 0b067f9dddd57a7f29ba4241d2d9bf59a9748e3e
-workflow-type: ht
+source-git-commit: f033b210268e8979ee15abe812e6ad85673eeedb
+workflow-type: tm+mt
 source-wordcount: '77'
 ht-degree: 100%
 

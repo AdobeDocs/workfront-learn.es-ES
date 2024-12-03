@@ -9,10 +9,11 @@ type: Tutorial
 role: User
 level: Beginner
 last-substantial-update: 2023-05-05T00:00:00Z
-recommendations: noDisplay,noCatalog
+recommendations: noDisplay,catalog
 jira: KT-10147
 hide: true
-source-git-commit: 5947224c840e9bd2c80e5e027e0d5aabb91ff6fd
+exl-id: 9875748d-21d4-4902-96b1-ab84d8c0f7d6
+source-git-commit: f033b210268e8979ee15abe812e6ad85673eeedb
 workflow-type: tm+mt
 source-wordcount: '109'
 ht-degree: 100%
@@ -43,4 +44,3 @@ En este vídeo aprenderá a comunicarse con todas las partes interesadas del pro
 * [Encontrar proyectos](/help/manage-work/projects/find-projects.md)
 * [Compartir un proyecto](/help/manage-work/projects/share-a-project.md)
 * [Información sobre el equipo del proyecto](/help/manage-work/projects/understand-the-project-team.md)
-

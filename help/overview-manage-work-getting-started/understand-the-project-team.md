@@ -9,11 +9,12 @@ level: Beginner
 activity: deploy
 team: Technical Marketing
 last-substantial-update: 2024-02-07T00:00:00Z
-recommendations: noDisplay,noCatalog
+recommendations: noDisplay,catalog
 jira: KT-14781
 doc-type: video
 hide: true
-source-git-commit: 5947224c840e9bd2c80e5e027e0d5aabb91ff6fd
+exl-id: bcaaccdf-ccf8-4bbf-8344-bd55a655c510
+source-git-commit: f033b210268e8979ee15abe812e6ad85673eeedb
 workflow-type: tm+mt
 source-wordcount: '59'
 ht-degree: 100%

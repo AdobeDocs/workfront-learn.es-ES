@@ -10,10 +10,11 @@ level: Beginner
 team: Technical Marketing
 jira: KT-8776
 last-substantial-update: 2024-06-03T00:00:00Z
-recommendations: noDisplay,noCatalog
+recommendations: noDisplay,catalog
 hide: true
 doc-type: video
-source-git-commit: 5947224c840e9bd2c80e5e027e0d5aabb91ff6fd
+exl-id: c099efa5-fee9-4214-b95f-e45a33aa5491
+source-git-commit: f033b210268e8979ee15abe812e6ad85673eeedb
 workflow-type: tm+mt
 source-wordcount: '79'
 ht-degree: 100%
@@ -36,4 +37,3 @@ Este vídeo contiene información sobre:
 * [Aprenda a secuenciar tareas](/help/manage-work/tasks/learn-to-sequence-tasks.md)
 * [Comprender las horas planificadas](/help/manage-work/tasks/understand-planned-hours.md)
 * [Comprender el [!UICONTROL esfuerzo laboral]](/help/manage-work/tasks/understand-work-effort.md)
-

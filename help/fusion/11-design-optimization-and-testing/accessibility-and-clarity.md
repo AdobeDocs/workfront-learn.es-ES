@@ -8,9 +8,9 @@ feature: Workfront Fusion
 role: User
 level: Beginner
 jira: KT-11037
-recommendations: noDisplay,noCatalog
+recommendations: noDisplay,catalog
 exl-id: ba2c5c64-ab4d-42d3-8a69-6b9df1373b29
-source-git-commit: a4e61514567ac8c2b4ad5c9ecacb87bd83947731
+source-git-commit: f033b210268e8979ee15abe812e6ad85673eeedb
 workflow-type: tm+mt
 source-wordcount: '697'
 ht-degree: 100%

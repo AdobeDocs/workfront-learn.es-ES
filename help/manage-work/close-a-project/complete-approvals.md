@@ -8,13 +8,13 @@ thumbnail: complete-approvals.jpeg
 type: Tutorial
 role: User
 level: Beginner
-recommendations: noDisplay,noCatalog
+recommendations: noDisplay,catalog
 last-substantial-update: 2024-11-22T00:00:00Z
 jira: KT-10134
 exl-id: fda55592-e4d3-4cb6-941f-09bf1bc76bf6
 doc-type: video
-source-git-commit: 0b067f9dddd57a7f29ba4241d2d9bf59a9748e3e
-workflow-type: ht
+source-git-commit: f033b210268e8979ee15abe812e6ad85673eeedb
+workflow-type: tm+mt
 source-wordcount: '65'
 ht-degree: 100%
 

@@ -8,12 +8,12 @@ type: Tutorial
 role: User
 level: Beginner
 team: Technical Marketing
-recommendations: noDisplay,noCatalog
+recommendations: noDisplay,catalog
 jira: KT-8951
 exl-id: 9179fbc8-1000-4215-b2c3-de617c7f1d80
 doc-type: video
-source-git-commit: 434069d95777eef7739917d8761c03a8e64b8433
-workflow-type: ht
+source-git-commit: f033b210268e8979ee15abe812e6ad85673eeedb
+workflow-type: tm+mt
 source-wordcount: '77'
 ht-degree: 100%
 

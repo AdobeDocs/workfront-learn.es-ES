@@ -10,9 +10,9 @@ level: Beginner
 last-substantial-update: 2023-06-08T00:00:00Z
 jira: KT-8999
 exl-id: 7ca27805-5ca8-4f62-b691-cbdd6a791060
-recommendations: noDisplay,noCatalog
+recommendations: noDisplay,catalog
 doc-type: video
-source-git-commit: a4e61514567ac8c2b4ad5c9ecacb87bd83947731
+source-git-commit: f033b210268e8979ee15abe812e6ad85673eeedb
 workflow-type: tm+mt
 source-wordcount: '268'
 ht-degree: 100%

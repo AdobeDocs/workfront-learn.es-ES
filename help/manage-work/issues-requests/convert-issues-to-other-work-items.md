@@ -8,11 +8,11 @@ type: Tutorial
 role: User
 level: Intermediate
 last-substantial-update: 2024-02-28T00:00:00Z
-recommendations: noDisplay,noCatalog
+recommendations: noDisplay,catalog
 jira: KT-10069
 exl-id: 1fd4d862-e44b-4c50-9663-70e727f6e9b7
-source-git-commit: 51d394ab53e2f704ccbcd088d688123fbc46fc13
-workflow-type: ht
+source-git-commit: f033b210268e8979ee15abe812e6ad85673eeedb
+workflow-type: tm+mt
 source-wordcount: '82'
 ht-degree: 100%
 

@@ -9,9 +9,9 @@ role: User
 level: Beginner
 jira: KT-9064
 exl-id: cb8d0880-73d2-4118-b800-a126f8509309
-recommendations: noDisplay,noCatalog
+recommendations: noDisplay,catalog
 doc-type: video
-source-git-commit: a4e61514567ac8c2b4ad5c9ecacb87bd83947731
+source-git-commit: f033b210268e8979ee15abe812e6ad85673eeedb
 workflow-type: tm+mt
 source-wordcount: '318'
 ht-degree: 100%
@@ -32,7 +32,7 @@ Este vídeo contiene información sobre:
 ### Reanudar
 
 * Se especifica una salida sustitutiva que se suministra al módulo que encuentra un error.
-* Se procesan los módulos siguientes.
+* Los módulos posteriores se procesan.
 * El estado de ejecución del escenario se marca como “éxito”.
 
 ![Una imagen de una directiva de reanudación](assets/troubleshooting-and-error-handling-2.png)
@@ -49,7 +49,7 @@ Este vídeo contiene información sobre:
 ### Ignorar
 
 * El error se ignora y los módulos posteriores no se procesan.
-* Si hay paquetes sin procesar, la ejecución del escenario continúa normalmente.
+* Si hay paquetes sin procesar, la ejecución del escenario continúa con normalidad.
 * El estado de ejecución del escenario se marca como “éxito”.
 
 ![Una imagen de una directiva Ignorar](assets/troubleshooting-and-error-handling-4.png)
@@ -72,7 +72,7 @@ Este vídeo contiene información sobre:
 ### Confirmar
 
 * El error se ignora y los módulos posteriores no se procesan.
-* Si hay paquetes sin procesar, la ejecución del escenario continúa normalmente.
+* Si hay paquetes sin procesar, la ejecución del escenario continúa con normalidad.
 * El estado de ejecución del escenario se marca como “éxito”.
 
 ![Imagen de una directiva de Compromiso](assets/troubleshooting-and-error-handling-6.png)

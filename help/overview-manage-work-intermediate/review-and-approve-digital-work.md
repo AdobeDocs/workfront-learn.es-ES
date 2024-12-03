@@ -9,11 +9,11 @@ role: User
 level: Beginner
 team: Technical Marketing
 jira: KT-8808
-recommendations: noDisplay,noCatalog
+recommendations: noDisplay,catalog
 hide: true
 doc-type: video
 exl-id: c6eedc74-c104-434d-8124-1329d4e39e25
-source-git-commit: bd743add8bad572a638d4cd0999aeefe1fb3bfc8
+source-git-commit: f033b210268e8979ee15abe812e6ad85673eeedb
 workflow-type: tm+mt
 source-wordcount: '89'
 ht-degree: 100%

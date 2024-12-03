@@ -9,9 +9,9 @@ role: User
 level: Beginner
 jira: KT-11040
 thumbnail: KT1101.png
-recommendations: noDisplay,noCatalog
+recommendations: noDisplay,catalog
 exl-id: d2cec1ea-7ff9-48ae-8bfb-0c767d346079
-source-git-commit: a4e61514567ac8c2b4ad5c9ecacb87bd83947731
+source-git-commit: f033b210268e8979ee15abe812e6ad85673eeedb
 workflow-type: tm+mt
 source-wordcount: '229'
 ht-degree: 100%

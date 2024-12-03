@@ -9,9 +9,9 @@ role: User
 level: Beginner
 team: Technical Marketing
 jira: KT-8724
-recommendations: noDisplay,noCatalog
+recommendations: noDisplay,catalog
 exl-id: 464bf4b9-4b41-421a-ad71-e60b7c9ccf64
-source-git-commit: d29054f0551a9add8460e4c9fd265cee2dfb72ca
+source-git-commit: f033b210268e8979ee15abe812e6ad85673eeedb
 workflow-type: tm+mt
 source-wordcount: '69'
 ht-degree: 100%

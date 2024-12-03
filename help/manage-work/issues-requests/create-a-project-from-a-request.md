@@ -9,11 +9,11 @@ role: User
 level: Intermediate
 team: Technical Marketing
 jira: KT-9723
-recommendations: noDisplay,noCatalog
+recommendations: noDisplay,catalog
 exl-id: 5095d6bb-2721-47f1-be52-8e43d3edb2fd
 doc-type: video
-source-git-commit: 51d394ab53e2f704ccbcd088d688123fbc46fc13
-workflow-type: ht
+source-git-commit: f033b210268e8979ee15abe812e6ad85673eeedb
+workflow-type: tm+mt
 source-wordcount: '79'
 ht-degree: 100%
 

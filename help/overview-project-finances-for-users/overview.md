@@ -10,15 +10,15 @@ team: Technical Marketing
 last-substantial-update: 2024-09-03T00:00:00Z
 jira: KT-13492
 mini-toc-levels: 1
-recommendations: noDisplay,noCatalog
+recommendations: noDisplay,catalog
 index: y
-source-git-commit: 5c71f8a9114a1f00da0e889da04f35cce11c5bde
+exl-id: 1f9d3155-9aa6-422f-a8ac-0f421199df65
+source-git-commit: f033b210268e8979ee15abe812e6ad85673eeedb
 workflow-type: tm+mt
 source-wordcount: '146'
 ht-degree: 2%
 
 ---
-
 
 # Resumen de finanzas del proyecto para usuarios
 

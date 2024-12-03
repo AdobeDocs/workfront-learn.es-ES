@@ -8,13 +8,13 @@ type: Tutorial
 role: User
 level: Beginner
 last-substantial-update: 2024-01-09T00:00:00Z
-recommendations: noDisplay,noCatalog
+recommendations: noDisplay,catalog
 team: Technical Marketing
 jira: KT-14749
 doc-type: video
 exl-id: ad9b9e1e-3d8c-4a0f-8f73-e204047485a6
-source-git-commit: 434069d95777eef7739917d8761c03a8e64b8433
-workflow-type: ht
+source-git-commit: f033b210268e8979ee15abe812e6ad85673eeedb
+workflow-type: tm+mt
 source-wordcount: '125'
 ht-degree: 100%
 

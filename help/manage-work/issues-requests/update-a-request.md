@@ -10,11 +10,11 @@ team: Technical Marketing
 last-substantial-update: 2024-07-10T00:00:00Z
 thumbnail: 336091.png
 jira: KT-8807
-recommendations: noDisplay,noCatalog
+recommendations: noDisplay,catalog
 exl-id: 2b5ef930-5ce9-43f7-b98b-19bb48907759
 doc-type: video
-source-git-commit: e2a8ab1d8139008c145f584c8c2181a082d1923b
-workflow-type: ht
+source-git-commit: f033b210268e8979ee15abe812e6ad85673eeedb
+workflow-type: tm+mt
 source-wordcount: '64'
 ht-degree: 100%
 

@@ -9,10 +9,11 @@ type: Tutorial
 role: User
 level: Beginner
 last-substantial-update: 2024-02-13T00:00:00Z
-recommendations: noDisplay,noCatalog
+recommendations: noDisplay,catalog
 jira: KT-13743
 hide: true
-source-git-commit: 5947224c840e9bd2c80e5e027e0d5aabb91ff6fd
+exl-id: 5e9d7008-63a7-48df-8eba-b18da763c63c
+source-git-commit: f033b210268e8979ee15abe812e6ad85673eeedb
 workflow-type: tm+mt
 source-wordcount: '62'
 ht-degree: 100%

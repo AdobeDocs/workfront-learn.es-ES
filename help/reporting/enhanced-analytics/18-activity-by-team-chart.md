@@ -9,10 +9,10 @@ type: Tutorial
 role: User
 level: Beginner
 jira: KT-10045
-recommendations: noDisplay,noCatalog
+recommendations: noDisplay,catalog
 exl-id: a9c5c4bc-0728-4199-b87e-e166c23dc25a
-source-git-commit: 92dd1cf0db8c6ea785cba2f524133273240a6d10
-workflow-type: ht
+source-git-commit: f033b210268e8979ee15abe812e6ad85673eeedb
+workflow-type: tm+mt
 source-wordcount: '314'
 ht-degree: 100%
 

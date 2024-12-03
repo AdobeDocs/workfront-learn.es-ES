@@ -11,10 +11,10 @@ thumbnail: 336092.png
 last-substantial-update: 2024-07-09T00:00:00Z
 jira: KT-8806
 exl-id: 07a4824e-809e-4649-b669-865519b95f1f
-recommendations: noDisplay,noCatalog
+recommendations: noDisplay,catalog
 doc-type: video
-source-git-commit: b0921ad20929c5c5b86bdcdd7d0646e291477efb
-workflow-type: ht
+source-git-commit: f033b210268e8979ee15abe812e6ad85673eeedb
+workflow-type: tm+mt
 source-wordcount: '129'
 ht-degree: 100%
 

@@ -10,10 +10,10 @@ role: User
 level: Beginner
 jira: KT-10046
 hidefromtoc: true
-recommendations: noDisplay,noCatalog
+recommendations: noDisplay,catalog
 exl-id: ec21049e-4f39-4bb4-91d2-c8873151811c
-source-git-commit: 92dd1cf0db8c6ea785cba2f524133273240a6d10
-workflow-type: ht
+source-git-commit: f033b210268e8979ee15abe812e6ad85673eeedb
+workflow-type: tm+mt
 source-wordcount: '32'
 ht-degree: 100%
 

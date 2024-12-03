@@ -11,12 +11,13 @@ thumbnail: 336092.png
 last-substantial-update: 2024-07-09T00:00:00Z
 jira: KT-8806
 hide: true
-recommendations: noDisplay,noCatalog
+recommendations: noDisplay,catalog
 doc-type: video
-source-git-commit: c675114a7f82521a59072f80a64d314be4cd335d
+exl-id: 651312d5-c5ec-4c0b-83aa-f6723da110fd
+source-git-commit: f033b210268e8979ee15abe812e6ad85673eeedb
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '129'
+ht-degree: 100%
 
 ---
 
