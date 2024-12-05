@@ -11,16 +11,16 @@ level: Beginner
 jira: KT-10028
 recommendations: noDisplay,catalog
 exl-id: 630235a5-0e11-4d94-9210-49ea6e80b48d
-source-git-commit: f033b210268e8979ee15abe812e6ad85673eeedb
+source-git-commit: 4874a0f021a7c308140b9fab10a1d7cfddb606fc
 workflow-type: tm+mt
-source-wordcount: '188'
-ht-degree: 100%
+source-wordcount: '180'
+ht-degree: 85%
 
 ---
 
 # Comprensión de los gráficos de trabajo y personas
 
-Los gráficos de trabajo muestran la actividad desde la perspectiva del proyecto y la tarea, mientras que los de personas lo hacen desde la de un equipo local.
+Los gráficos de trabajo muestran la actividad desde la perspectiva del proyecto y la tarea, mientras que el gráfico Personas muestra la actividad desde la perspectiva de un equipo de inicio.
 
 Seleccione el tipo de gráficos de Analytics que desea ver (Trabajo o Personas) en el menú del panel izquierdo.
 
@@ -40,11 +40,8 @@ Los gráficos de grupo Evolución y Tareas aparecen cuando se profundiza en los 
 * Haga clic en un proyecto en la vista Plan de grupo y debajo aparecerá un resumen.
 * Haga clic en un proyecto en la vista Diagrama de árbol y debajo aparecerán una lista de desglose y una vista Tareas en curso.
 
-## Gráficos de personas
+## Gráfico de personas
 
-![Una imagen de cómo encontrar la función [!UICONTROL Analytics] en [!DNL Workfront Classic]](assets/section-1-2.png)
+![Una imagen de cómo encontrar la función [!UICONTROL Analytics] en el [!DNL Workfront Classic]](assets/section-1-2.png)
 
-Los gráficos de personas constan de lo siguiente:
 
-1. Actividad por equipo
-1. Actividad del equipo
