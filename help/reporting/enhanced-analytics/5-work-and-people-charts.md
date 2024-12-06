@@ -11,10 +11,10 @@ level: Beginner
 jira: KT-10028
 recommendations: noDisplay,catalog
 exl-id: 630235a5-0e11-4d94-9210-49ea6e80b48d
-source-git-commit: 4874a0f021a7c308140b9fab10a1d7cfddb606fc
+source-git-commit: a15b9b2cdd16f661d855806d801ab1f90a0276b4
 workflow-type: tm+mt
-source-wordcount: '180'
-ht-degree: 85%
+source-wordcount: '291'
+ht-degree: 89%
 
 ---
 
@@ -40,8 +40,15 @@ Los gráficos de grupo Evolución y Tareas aparecen cuando se profundiza en los 
 * Haga clic en un proyecto en la vista Plan de grupo y debajo aparecerá un resumen.
 * Haga clic en un proyecto en la vista Diagrama de árbol y debajo aparecerán una lista de desglose y una vista Tareas en curso.
 
-## Gráfico de personas
+## Gráfico de personas - Actividad por equipo
 
-![Una imagen de cómo encontrar la función [!UICONTROL Analytics] en el [!DNL Workfront Classic]](assets/section-1-2.png)
+![Una imagen que muestra una actividad por gráfico de equipos con números en las áreas que se describen en las viñetas siguientes](assets/section-3-1.png)
 
+En el gráfico, puede ver lo siguiente:
+
+1. Los nombres de los equipos locales a la izquierda.
+1. Las fechas de la parte inferior proceden del intervalo de fechas seleccionado.
+1. Las casillas moradas muestran que los usuarios asignados al proyecto han iniciado la sesión ese día, el tono más oscuro indica que un mayor número de usuarios han iniciado sesión.
+1. Las casillas rosadas muestran que los usuarios han cambiado el estado de una tarea para el proyecto ese día, un tono más oscuro indica que ha cambiado un número mayor de estados de las tareas.
+1. Las casillas azules muestran que los usuarios han completado una tarea para el proyecto, un tono más oscuro indica un mayor número de tareas completadas.
 
