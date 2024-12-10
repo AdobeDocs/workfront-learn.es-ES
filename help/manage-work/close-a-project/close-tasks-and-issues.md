@@ -11,19 +11,13 @@ level: Beginner
 last-substantial-update: 2023-08-16T00:00:00Z
 jira: KT-10133
 exl-id: 20b8d1f7-01ba-4536-aa7b-3d318d9d86c0
-source-git-commit: ec82cd0aafb89df7b3c46eb716faf3a25cd438a2
+source-git-commit: 569708042b8a9e122e820a1e65d6ea536f15b0e1
 workflow-type: tm+mt
-source-wordcount: '150'
-ht-degree: 100%
+source-wordcount: '50'
+ht-degree: 50%
 
 ---
 
 # Cerrar tareas y problemas
 
-Uno de los primeros pasos para cerrar un proyecto de [!DNL Workfront] se asegura de que todas las tareas y problemas tengan un estado de completado o un estado equivalente.
-
-Si el campo [!UICONTROL Porcentaje completado] del encabezado del proyecto muestra 100 %, sabrá que todas sus tareas están marcadas como completadas al 100 %. Sin embargo, una tarea que esté [!UICONTROL Completada - Pendiente de aprobación] seguirá apareciendo como 100 %, así que no se olvide de comprobarla. Consulte [Aprobaciones completas](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/close-a-project/complete-approvals.html?lang=es) para conocer todos los consejos acerca de las aprobaciones.
-
-Si tiene algún problema que esté incompleto, incluso los que están pendientes de aprobación, aparecerá un número junto a la pestaña Problemas mostrando la cantidad. Si el número es cero, no tiene ningún problema incompleto.
-
-![El proyecto muestra el [!UICONTROL Porcentaje completado] y problemas pendientes](assets/close-tasks-and-issues.png)
+Se ha eliminado el tutorial &quot;Cerrar tareas y problemas&quot; , ya que el contenido ya se incluye entre &quot;Cambiar el estado del proyecto a completado&quot; y &quot;Completar aprobaciones&quot;.
