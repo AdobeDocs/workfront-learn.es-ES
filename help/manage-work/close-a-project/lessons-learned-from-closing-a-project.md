@@ -1,6 +1,6 @@
 ---
 title: Registro de las lecciones aprendidas
-description: Aprenda cómo puede incluir una tarea de “lecciones aprendidas” para identificar qué salió bien y qué se puede mejorar la próxima vez.
+description: Aprenda a aprovechar las "lecciones aprendidas" al cerrar un proyecto.
 activity: use
 team: Technical Marketing
 feature: Work Management
@@ -8,26 +8,32 @@ thumbnail: lessons-learned-from-closing-a-project.jpeg
 type: Tutorial
 role: User
 level: Beginner
+recommendations: noDisplay,catalog
+last-substantial-update: 2024-12-12T00:00:00Z
 jira: KT-10135
 exl-id: ea0bd4a9-1656-419d-9357-7d48d791c74b
-source-git-commit: ec82cd0aafb89df7b3c46eb716faf3a25cd438a2
+doc-type: video
+source-git-commit: 780e702885a64bb258d8c44c5541903697278e00
 workflow-type: tm+mt
-source-wordcount: '196'
-ht-degree: 100%
+source-wordcount: '69'
+ht-degree: 36%
 
 ---
 
 # Registro de las lecciones aprendidas
 
-Como parte del cierre de un proyecto, algunos clientes de Workfront incluyen una tarea de “lecciones aprendidas”. Esta tarea podría utilizarse de diferentes maneras.
+En este vídeo, verá las ventajas de:
 
-* Utilice una tarea de “lecciones aprendidas” para representar una reunión. Capture notas de reunión en las actualizaciones de tareas.
-* O bien adjunte un formulario personalizado a la tarea o proyecto para capturar la información sobre las “lecciones aprendidas” que necesite.
+* Creación de una tarea &quot;lecciones aprendidas&quot;
+* Adjuntar al proyecto un formulario personalizado con las lecciones aprendidas
+* Creación de informes personalizados con lecciones aprendidas
+* Creación de un proyecto de &quot;lecciones aprendidas&quot;
 
-Una ventaja del formulario personalizado: todos los campos se pueden incluir en los informes, por lo que puede crear informes de [!DNL Workfront] para revisar y administrar esta información, y así identificar las lecciones aprendidas en muchos tipos o conjuntos de proyectos.
+>[!VIDEO](https://video.tv.adobe.com/v/3441012/?quality=12&learn=on)
 
-Si su organización tiene un proceso posterior al proyecto más complejo (uno con suficientes pasos para calificarse como proyecto en sí), puede que sea mejor crear un proyecto independiente en [!DNL Workfront].
+## Tutoriales recomendados sobre este tema
 
-Con este método, puede cerrar el proyecto utilizado para la entrega real, lo que mantiene la precisión en los informes del proyecto completado. A continuación, utilice un proyecto posterior independiente para rastrear cualquier paso posterior.
-
-Hable con su equipo interno de [!DNL Workfront] para obtener más información sobre el proceso posterior al proyecto de su organización.
+* [Cambiar el estado del proyecto a completo](/help/manage-work/projects/change-the-project-status.md)
+* [Aprobaciones completas](/help/manage-work/close-a-project/complete-approvals.md)
+* [Cargar recursos](/help/manage-work/close-a-project/upload-assets.md)
+* [Horas de registro y revisión](/help/manage-work/close-a-project/log-and-review-hours.md)

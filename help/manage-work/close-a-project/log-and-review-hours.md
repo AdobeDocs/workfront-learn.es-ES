@@ -1,6 +1,6 @@
 ---
 title: Horas de registro y revisión
-description: Registre las horas pendientes y revise las horas registradas antes de cerrar un proyecto en  [!DNL  Workfront].
+description: Registre las horas pendientes y revise las registradas antes de cerrar un proyecto.
 activity: use
 team: Technical Marketing
 feature: Work Management
@@ -9,25 +9,29 @@ type: Tutorial
 role: User
 level: Beginner
 jira: KT-10136
+recommendations: noDisplay,catalog
+last-substantial-update: 2024-12-12T00:00:00Z
 exl-id: 3c783592-45a3-4f97-b963-e660659375f6
-source-git-commit: ec82cd0aafb89df7b3c46eb716faf3a25cd438a2
+doc-type: video
+source-git-commit: 780e702885a64bb258d8c44c5541903697278e00
 workflow-type: tm+mt
-source-wordcount: '97'
-ht-degree: 100%
+source-wordcount: '56'
+ht-degree: 60%
 
 ---
 
 # Horas de registro y revisión
 
-Si debe registrar las horas reales en las que se ha trabajado como parte del flujo de trabajo de su organización, puede revisar esas horas en la sección [!UICONTROL Horas] (selecciónela en el menú del panel izquierdo) en el proyecto. Esto muestra todas las horas registradas en tareas individuales y el propio proyecto. También puede registrar las horas desde esta página.
+Este vídeo contiene información sobre:
 
-![Página Horas que muestra entradas de hora](assets/planner-fund-log-and-review-hours.png)
+* Revisar horas registradas en un proyecto
+* Aprobar horas del proyecto si es necesario
 
->[!NOTE]
->
->Su organización puede pedirle que apruebe las horas con las plantillas de horas de [!DNL Workfront]. Consulte con su equipo interno de [!DNL Workfront] para ver qué proceso debe utilizar.
+>[!VIDEO](https://video.tv.adobe.com/v/3441069/?quality=12&learn=on)
 
-<!---
-learn more url
-Log time
---->
+## Tutoriales recomendados sobre este tema
+
+* [Cambiar el estado del proyecto a completo](/help/manage-work/projects/change-the-project-status.md)
+* [Aprobaciones completas](/help/manage-work/close-a-project/complete-approvals.md)
+* [Cargar recursos](/help/manage-work/close-a-project/upload-assets.md)
+* [Registro de las lecciones aprendidas](/help/manage-work/close-a-project/lessons-learned-from-closing-a-project.md)
