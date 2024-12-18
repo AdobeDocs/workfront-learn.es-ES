@@ -13,9 +13,9 @@ mini-toc-levels: 1
 recommendations: noDisplay,catalog
 index: y
 exl-id: 4903b21b-d673-402b-8fd8-3e6b50d44c4d
-source-git-commit: f033b210268e8979ee15abe812e6ad85673eeedb
+source-git-commit: 422b07bc6b1941316a9e441560929d9b2832232f
 workflow-type: tm+mt
-source-wordcount: '796'
+source-wordcount: '766'
 ht-degree: 0%
 
 ---
@@ -56,11 +56,9 @@ Aprenda a crear y utilizar plantillas de proyecto.
 
 Obtenga información sobre cómo crear procesos de aprobación, adjuntarlos a flujos de trabajo, revisar el trabajo digital y delegar aprobaciones.
 
-* [Crear un proceso de aprobación de un solo uso](create-a-single-use-approval-process.md) - Aprenda a crear un proceso de aprobación de un solo uso en un proyecto, tarea o problema.
+* [Crear un proceso de aprobación global y de un solo uso](create-a-single-use-approval-process.md): aprenda a crear un proceso de aprobación global y de un solo uso en un proyecto, tarea o problema.
 * [Comprender los procesos de aprobación específicos del grupo](group-specific-approval-processes.md) - Aprenda cómo los administradores de grupos pueden crear o editar procesos de aprobación para los grupos que administran.
-* [Adjuntar y editar procesos de aprobación existentes](attach-and-edit-existing-approval-processes.md): aprenda a usar y editar los procesos de aprobación existentes para proyectos, tareas o problemas.
 * [Revisar y aprobar trabajo digital](review-and-approve-digital-work.md): aprenda a buscar, revisar y realizar aprobaciones de proyectos, tareas, problemas, documentos y pruebas.
-* [Comprenda las actualizaciones y notificaciones](understand-updates-and-notifications.md) - Aprenda a realizar actualizaciones en las solicitudes de aprobación y a encontrar sus notificaciones.
 * [Delegar tareas, problemas y aprobaciones](delegate-approvals.md): aprenda a delegar aprobaciones para proyectos, tareas, problemas y partes de tiempo a otro usuario de Adobe Workfront.
 
 ## Creación y uso de hitos

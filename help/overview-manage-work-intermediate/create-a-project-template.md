@@ -10,11 +10,13 @@ level: Beginner
 team: Technical Marketing
 last-substantial-update: 2023-08-31T00:00:00Z
 jira: KT-8950
+recommendations: noDisplay,catalog
 hide: true
 doc-type: video
-source-git-commit: c675114a7f82521a59072f80a64d314be4cd335d
+exl-id: 8b373be7-df75-4929-9027-d95947c42f94
+source-git-commit: 422b07bc6b1941316a9e441560929d9b2832232f
 workflow-type: tm+mt
-source-wordcount: '345'
+source-wordcount: '377'
 ht-degree: 100%
 
 ---
@@ -53,3 +55,11 @@ Si el modelo estaba instalado, puede hacer clic en **[!UICONTROL Ver detalles]**
 ![Detalles acerca de la instalación de un modelo](assets/pt-blueprints-04.png)
 
 Si el modelo aún no se ha instalado, puede solicitarlo al administrador del sistema.
+
+## Tutoriales recomendados sobre este tema
+
+* [Creación de un proyecto directamente a partir de una plantilla](/help/manage-work/create-and-manage-project-templates/create-a-project-directly-from-a-template.md)
+* [Compartir una plantilla de proyecto](/help/manage-work/create-and-manage-project-templates/share-a-project-template.md)
+* [Copiar un proyecto existente](/help/manage-work/manage-projects/copy-an-existing-project.md)
+* [Desactivar una plantilla de proyecto](/help/manage-work/create-and-manage-project-templates/deactivate-a-project-template.md)
+* [Editar el equipo del proyecto en una plantilla de proyecto](/help/manage-work/create-and-manage-project-templates/edit-the-project-team-in-a-project-template.md)

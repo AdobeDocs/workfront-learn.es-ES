@@ -14,9 +14,9 @@ jira: KT-8781
 hide: true
 doc-type: video
 exl-id: 966de852-99cc-41a2-8c13-abfc4e9dab24
-source-git-commit: f033b210268e8979ee15abe812e6ad85673eeedb
+source-git-commit: 422b07bc6b1941316a9e441560929d9b2832232f
 workflow-type: tm+mt
-source-wordcount: '208'
+source-wordcount: '73'
 ht-degree: 100%
 
 ---
@@ -30,30 +30,6 @@ Este vídeo contiene información sobre:
 * Cómo comunicarse con las partes interesadas
 
 >[!VIDEO](https://video.tv.adobe.com/v/335094/?quality=12&learn=on)
-
-## Administración de un proyecto: revisión
-
-Con cada proyecto que administre, establecerá una rutina de cuándo revisar los proyectos y qué debe examinar cada vez. Administrar los proyectos consiste en estar al día con estos y dirigirlos al éxito.
-
-Cada administrador de proyectos gestiona de forma un poco diferente. Y cada equipo, departamento u organización puede tener diferentes requerimientos y necesidades.
-
-Sin embargo, independientemente de cómo administre un proyecto, debe tener en cuenta lo siguiente:
-
-* Asegúrese de que el trabajo se complete a tiempo.
-* Anticipe los problemas y riesgos.
-* Comuníquese con las partes interesadas.
-* Celebre los triunfos en el camino.
-
-En última instancia, su principal trabajo es guiar el proyecto hacia su finalización satisfactoria. Adobe Workfront puede ayudarle a supervisar el trabajo que se está realizando mediante la escala de tiempo del proyecto, filtros, vistas y agrupaciones; actualizaciones, informes, etc.
-
-<!---
-learn more urls
-3 universal principles of project management
-What is a project manager?
-Project management knowledge areas
-9 best practices for effective project management
-10 work management problems and how to solve them
---->
 
 ## Tutoriales recomendados sobre este tema
 

@@ -10,29 +10,32 @@ role: User
 level: Beginner
 jira: KT-10138
 hide: true
-source-git-commit: 5947224c840e9bd2c80e5e027e0d5aabb91ff6fd
+recommendations: noDisplay,catalog
+doc-type: video
+exl-id: 9dd8bd9a-c4b2-4fe3-85db-44b3d716bc5d
+source-git-commit: 422b07bc6b1941316a9e441560929d9b2832232f
 workflow-type: tm+mt
-source-wordcount: '134'
+source-wordcount: '77'
 ht-degree: 100%
 
 ---
 
 # Cargar recursos
 
-Antes de cerrar un proyecto de [!DNL Workfront], compruebe que todos los archivos relevantes se encuentran adjuntos en la sección [!UICONTROL Documentos]. Cargue estos archivos como documento o prueba, según las directrices de su organización.
+Este vídeo contiene información sobre:
 
-Es posible que deba cargar el documento o la prueba como una versión de un archivo existente.
+* Comprobación de aprobaciones de pruebas
+* Comprobación de aprobaciones de documentos
+* Cargar un documento
+* Búsqueda de formación sobre la carga de pruebas
 
-Si su organización usa aprobaciones de pruebas, asegúrese de que todas ellas se completan con un rápido vistazo a los iconos de progreso.
+>[!VIDEO](https://video.tv.adobe.com/v/3440370/?quality=12&learn=on&enablevpops)
 
-![Página Documentos que muestra los iconos de progreso de la revisión](assets/planner-fund-proof-progress-icons.png)
+## Tutoriales recomendados sobre este tema
 
-Y, si su organización emplea aprobaciones de documentos, seleccione cada elemento de la lista y consulte los detalles para ver si las aprobaciones han finalizado.
+* [Carga una prueba con un flujo de trabajo básico](/help/workfront-proof/upload-proofs/upload-a-proof-with-a-basic-workflow.md)
+* [Cambiar el estado del proyecto a completo](/help/manage-work/projects/change-the-project-status.md)
+* [Aprobaciones completas](/help/manage-work/close-a-project/complete-approvals.md)
+* [Registro de las lecciones aprendidas](/help/manage-work/close-a-project/lessons-learned-from-closing-a-project.md)
+* [Horas de registro y revisión](/help/manage-work/close-a-project/log-and-review-hours.md)
 
-![Resumen lateral en la página Documentos que muestra la aprobación del documento](assets/planner-fund-document-approval.png)
-
-<!---
-learn more urls
-Create proofs
-Add new documents to Workfront
---->

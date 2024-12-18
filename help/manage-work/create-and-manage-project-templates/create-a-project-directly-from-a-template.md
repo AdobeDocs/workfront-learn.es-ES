@@ -1,6 +1,6 @@
 ---
 title: Creación de un proyecto directamente a partir de una plantilla
-description: Información sobre cómo crear un proyecto empezando por una plantilla ya creada.
+description: Aprenda a crear un proyecto empezando con una plantilla ya creada.
 activity: use
 team: Technical Marketing
 feature: Work Management
@@ -11,10 +11,10 @@ level: Beginner
 recommendations: noDisplay,catalog
 jira: KT-10156
 exl-id: 1f44eb26-98bf-4723-b162-27a4f8cb8177
-source-git-commit: f033b210268e8979ee15abe812e6ad85673eeedb
+source-git-commit: 422b07bc6b1941316a9e441560929d9b2832232f
 workflow-type: tm+mt
 source-wordcount: '197'
-ht-degree: 100%
+ht-degree: 93%
 
 ---
 

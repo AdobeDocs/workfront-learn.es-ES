@@ -13,9 +13,9 @@ mini-toc-levels: 1
 recommendations: noDisplay,catalog
 index: y
 exl-id: 6cb8465a-f59a-41b9-a043-0f76b71980a3
-source-git-commit: f033b210268e8979ee15abe812e6ad85673eeedb
+source-git-commit: 422b07bc6b1941316a9e441560929d9b2832232f
 workflow-type: tm+mt
-source-wordcount: '977'
+source-wordcount: '943'
 ht-degree: 4%
 
 ---
@@ -81,10 +81,8 @@ Aprenda a realizar un seguimiento del trabajo del proyecto y a comunicarse con l
 Obtenga información sobre cómo cerrar tareas y problemas, completar aprobaciones, registrar lecciones aprendidas y cerrar el proyecto.
 
 * [Cambiar el estado del proyecto a completo](change-the-project-status.md) - Aprenda a cambiar el estado del proyecto a Completo, por qué cambiarlo y qué hacer si no puede cambiarlo a Completo.
-* [Cerrar tareas y problemas](close-tasks-and-issues.md) - Aprenda a asegurarse de que las tareas y los problemas se cierren antes de cerrar un proyecto.
 * [Aprobaciones completadas](complete-approvals.md) - Aprenda a identificar aprobaciones incompletas y a resolverlas para que pueda cerrar el proyecto.
 * [Cargar recursos](upload-assets.md): cargue documentos, pruebas y otros recursos al proyecto antes de cerrarlo para asegurarse de que todos los datos relevantes estén asociados con el proyecto.
 * [Registrar las lecciones aprendidas](lessons-learned-from-closing-a-project.md): aprenda a incluir una tarea de &quot;lecciones aprendidas&quot; para identificar qué ha salido bien y qué puede mejorar la próxima vez.
 * [Registrar y revisar horas](log-and-review-hours.md): registre las horas pendientes y revise las registradas antes de cerrar un proyecto.
 * [Actualizar y revisar finanzas](update-and-review-finances.md): si su organización utiliza Workfront para realizar un seguimiento de la información financiera relacionada con el proyecto, es posible que el proceso para cerrar un proyecto incluya la revisión de gastos y la creación de registros de facturación.
-* [Cerrar una actividad de proyecto](close-a-project-activity.md): practique lo que ha aprendido sobre cómo cerrar un proyecto.

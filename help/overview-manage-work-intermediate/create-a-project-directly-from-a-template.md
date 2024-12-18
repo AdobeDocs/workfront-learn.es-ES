@@ -1,6 +1,6 @@
 ---
 title: Creación de un proyecto directamente a partir de una plantilla
-description: Información sobre cómo crear un proyecto empezando por una plantilla ya creada.
+description: Aprenda a crear un proyecto empezando con una plantilla ya creada.
 activity: use
 team: Technical Marketing
 feature: Work Management
@@ -9,11 +9,13 @@ type: Tutorial
 role: User
 level: Beginner
 jira: KT-10156
+recommendations: noDisplay,catalog
 hide: true
-source-git-commit: c675114a7f82521a59072f80a64d314be4cd335d
+exl-id: 310d499f-d48e-42ff-92bf-a398594e44f7
+source-git-commit: 422b07bc6b1941316a9e441560929d9b2832232f
 workflow-type: tm+mt
-source-wordcount: '164'
-ht-degree: 100%
+source-wordcount: '197'
+ht-degree: 93%
 
 ---
 
@@ -37,3 +39,12 @@ La ventana de detalles permite realizar cambios en la configuración del nuevo p
 
 
 ![Nuevas plantillas en favoritos del proyecto](assets/direct-template-03.png)
+
+## Tutoriales recomendados sobre este tema
+
+* [Crear una plantilla de proyecto y obtener más información acerca de los Modelos](/help/manage-work/create-and-manage-project-templates/create-a-project-template.md)
+* [Compartir una plantilla de proyecto](/help/manage-work/create-and-manage-project-templates/share-a-project-template.md)
+* [Copiar un proyecto existente](/help/manage-work/manage-projects/copy-an-existing-project.md)
+* [Desactivar una plantilla de proyecto](/help/manage-work/create-and-manage-project-templates/deactivate-a-project-template.md)
+* [Editar el equipo del proyecto en una plantilla de proyecto](/help/manage-work/create-and-manage-project-templates/edit-the-project-team-in-a-project-template.md)
+

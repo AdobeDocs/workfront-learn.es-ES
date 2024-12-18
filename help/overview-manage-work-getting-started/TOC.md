@@ -6,10 +6,10 @@ breadcrumb-title: 'Administrar trabajo: introducción'
 solution: Workfront
 sub-product: Work Management
 index: y
-source-git-commit: 609df4be7b1115b7b624d9e8e758845cd2a51bdb
+source-git-commit: 422b07bc6b1941316a9e441560929d9b2832232f
 workflow-type: tm+mt
-source-wordcount: '204'
-ht-degree: 69%
+source-wordcount: '196'
+ht-degree: 68%
 
 ---
 
@@ -54,11 +54,9 @@ ht-degree: 69%
 
    + Cierre de un proyecto {#close-a-project}
       + [Cambiar el estado del proyecto a completo](change-the-project-status.md)
-      + [Cerrar tareas y problemas](close-tasks-and-issues.md)
       + [Aprobaciones completas](complete-approvals.md)
       + [Cargar recursos](upload-assets.md)
       + [Registro de las lecciones aprendidas](lessons-learned-from-closing-a-project.md)
       + [Horas de registro y revisión](log-and-review-hours.md)
       + [Actualizar y revisar las finanzas](update-and-review-finances.md)
-      + [Cierre de una actividad de proyecto](close-a-project-activity.md)
 

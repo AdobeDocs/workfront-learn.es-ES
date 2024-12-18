@@ -6,10 +6,10 @@ breadcrumb-title: Administrar trabajo - intermedio
 solution: Workfront
 sub-product: Work Management
 index: y
-source-git-commit: c675114a7f82521a59072f80a64d314be4cd335d
+source-git-commit: 422b07bc6b1941316a9e441560929d9b2832232f
 workflow-type: tm+mt
-source-wordcount: '180'
-ht-degree: 64%
+source-wordcount: '173'
+ht-degree: 63%
 
 ---
 
@@ -27,11 +27,9 @@ ht-degree: 64%
       + [Editar el equipo del proyecto en una plantilla de proyecto](edit-the-project-team-in-a-project-template.md)
 
    + Crear y usar procesos de aprobación {#how-to-create-and-use-approval-processes}
-      + [Crear proceso de aprobación de un solo uso](create-a-single-use-approval-process.md)
+      + [Crear un proceso de aprobación global y de un solo uso](create-a-single-use-approval-process.md)
       + [Explicación de los procesos de aprobación específicos del grupo](group-specific-approval-processes.md)
-      + [Adjuntar y editar procesos de aprobación existentes](attach-and-edit-existing-approval-processes.md)
       + [Revisar y aprobar el trabajo digital](review-and-approve-digital-work.md)
-      + [Comprender las actualizaciones y notificaciones](understand-updates-and-notifications.md)
       + [Delegar tareas, problemas y aprobaciones](delegate-approvals.md)
 
    + Crear y usar hitos {#how-to-create-and-use-milestones}
