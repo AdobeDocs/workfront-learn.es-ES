@@ -1,6 +1,7 @@
 ---
 title: Tutorial inicial en el diseño de escenarios
 description: Aprenda a crear carpetas y escenarios nuevos, usar el diseñador de escenarios y crear un escenario básico en  [!DNL Adobe Workfront Fusion].
+short-description: Aquí puede ver un vídeo de tutorial de ejercicios sobre la creación de escenarios.
 activity: use
 team: Technical Marketing
 type: Tutorial
@@ -11,10 +12,10 @@ jira: KT-9001
 exl-id: 78408bf8-e676-4e49-b023-5ea0a6999229
 recommendations: noDisplay,catalog
 doc-type: video
-source-git-commit: f033b210268e8979ee15abe812e6ad85673eeedb
+source-git-commit: 7345a54e1148bc5ab8472987e68738a48cecd826
 workflow-type: tm+mt
-source-wordcount: '97'
-ht-degree: 100%
+source-wordcount: '108'
+ht-degree: 89%
 
 ---
 

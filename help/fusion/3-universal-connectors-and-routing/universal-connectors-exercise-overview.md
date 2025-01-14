@@ -1,6 +1,7 @@
 ---
 title: Información general sobre el ejercicio de conectores universales
 description: Obtenga información sobre cómo aprovechar la potencia de los conectores universales, conectarse a una API externa y extraer información de una matriz, todo en  [!DNL Adobe Workfront Fusion].
+short-description: En este vídeo, aprenderá a aprovechar la potencia de los conectores universales, conectarse a una API externa y utilizar el editor de fórmulas para extraer información de una matriz.
 activity: use
 team: Technical Marketing
 type: Tutorial
@@ -11,10 +12,10 @@ jira: KT-9010
 exl-id: a44d93cb-6572-497e-b24c-5cacc9d79391
 recommendations: noDisplay,catalog
 doc-type: video
-source-git-commit: f033b210268e8979ee15abe812e6ad85673eeedb
+source-git-commit: 7345a54e1148bc5ab8472987e68738a48cecd826
 workflow-type: tm+mt
-source-wordcount: '61'
-ht-degree: 100%
+source-wordcount: '92'
+ht-degree: 66%
 
 ---
 

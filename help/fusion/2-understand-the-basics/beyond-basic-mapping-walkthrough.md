@@ -1,6 +1,7 @@
 ---
 title: Más allá del tutorial de asignación básico
 description: Cambie algunos campos de proyecto en el escenario que creó anteriormente utilizando las fórmulas del panel de asignación en  [!DNL Adobe Workfront Fusion].
+short-description: En este tutorial en vídeo, puede cambiar el nombre del proyecto, la fecha de inicio planificada y la prioridad desde el "Diseño del escenario inicial" que creó en el primer tutorial utilizando las fórmulas del panel de asignación.
 activity: use
 team: Technical Marketing
 type: Tutorial
@@ -11,10 +12,10 @@ jira: KT-9004
 exl-id: 3161f088-2d94-4a05-9151-d4ddc638afb0
 recommendations: noDisplay,catalog
 doc-type: video
-source-git-commit: f033b210268e8979ee15abe812e6ad85673eeedb
+source-git-commit: 7345a54e1148bc5ab8472987e68738a48cecd826
 workflow-type: tm+mt
-source-wordcount: '264'
-ht-degree: 100%
+source-wordcount: '295'
+ht-degree: 89%
 
 ---
 
