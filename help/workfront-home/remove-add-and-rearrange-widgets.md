@@ -10,7 +10,7 @@ last-substantial-update: 2023-09-25T00:00:00Z
 jira: KT-14017
 thumbnail: 3424529.jpeg
 exl-id: c4e26745-7fdb-4ca2-a968-b1f062afb514
-source-git-commit: cacc76a0dec27e7554eb0ac494d65a9255367226
+source-git-commit: de01a10ce6efaa298051eeb58469b16dcf39ba2c
 workflow-type: tm+mt
 source-wordcount: '58'
 ht-degree: 100%
@@ -21,7 +21,7 @@ ht-degree: 100%
 
 Obtenga información sobre cómo quitar, añadir y reorganizar widgets en la página de inicio.
 
->[!VIDEO](https://video.tv.adobe.com/v/3424529/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3424529/?quality=12&learn=on&enablevpops)
 
 
 >[!NOTE]
