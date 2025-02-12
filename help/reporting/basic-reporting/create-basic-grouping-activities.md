@@ -9,13 +9,14 @@ role: User
 level: Beginner
 team: Technical Marketing
 jira: KT-8853
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
+hidefromtoc: true
+exl-id: 36f196ac-ad14-4075-9835-30f777572fdf
+source-git-commit: 8a033140307527fbd7c4f9298353ba88cab66c86
 workflow-type: tm+mt
 source-wordcount: '185'
 ht-degree: 60%
 
 ---
-
 
 # Actividad: Crear una agrupación básica
 

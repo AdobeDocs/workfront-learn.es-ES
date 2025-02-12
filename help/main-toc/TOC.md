@@ -1,6 +1,6 @@
 ---
 user-guide-description: Tutoriales de Workfront
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
+source-git-commit: 8a033140307527fbd7c4f9298353ba88cab66c86
 workflow-type: tm+mt
 source-wordcount: '2405'
 ht-degree: 99%
@@ -647,7 +647,9 @@ ht-degree: 99%
 
 
 
-
+<!---
+The following tutorials are hidden from the TOC but need to be here so their links can be referenced.
+--->
 + [Administrar solicitudes](/help/manage-work/issues-requests/manage-incoming-requests.md)
 + [Comprender el gráfico de capacidad de recursos](/help/reporting/enhanced-analytics/19-resource-capacity-chart.md)
 + [Crear actividades de agrupación básicas](/help/reporting/basic-reporting/create-basic-grouping-activities.md)
