@@ -11,7 +11,7 @@ thumbnail: 335160.png
 jira: KT-8814
 exl-id: f9043748-116f-4d89-9330-bd74a762e684
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
 workflow-type: tm+mt
 source-wordcount: '363'
 ht-degree: 100%
@@ -32,7 +32,7 @@ Sin embargo, puede que algunos estén más avanzados de lo que creen en su camin
 
 ## Cuatro etapas de madurez de la Administración de recursos
 
->[!VIDEO](https://video.tv.adobe.com/v/335160/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/335160/?quality=12&learn=on&enablevpops)
 
 
 ## Hacia dónde ir

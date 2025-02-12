@@ -13,7 +13,7 @@ recommendations: noDisplay,catalog
 jira: KT-13743
 hide: true
 exl-id: 5e9d7008-63a7-48df-8eba-b18da763c63c
-source-git-commit: f033b210268e8979ee15abe812e6ad85673eeedb
+source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
 workflow-type: tm+mt
 source-wordcount: '62'
 ht-degree: 100%
@@ -28,7 +28,7 @@ Este vídeo contiene información sobre:
 * Cómo utilizar la vista [!UICONTROL Tablero]
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3422430/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3422430/?quality=12&learn=on&enablevpops)
 
 ## Tutoriales recomendados sobre este tema
 

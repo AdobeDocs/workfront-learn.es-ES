@@ -12,7 +12,7 @@ last-substantial-update: 2023-09-14T00:00:00Z
 jira: KT-13879
 doc-type: video
 exl-id: a9d9ffa6-9ff1-4a77-9288-7cd0009a7ad6
-source-git-commit: 642a6107dd3afc8f010445aa5e71c8dfdb9636eb
+source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
 workflow-type: tm+mt
 source-wordcount: '96'
 ht-degree: 100%
@@ -36,7 +36,7 @@ En este vídeo, aprenderá sobre lo siguiente:
 * Errores de bucle de dependencia
 * Métodos abreviados y prácticas recomendadas
 
->[!VIDEO](https://video.tv.adobe.com/v/3424287/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3424287/?quality=12&learn=on&enablevpops)
 
 Para obtener más información sobre el uso de predecesoras, consulte [Usar predecesoras de tareas](https://experienceleague.adobe.com/docs/workfront/using/manage-work/tasks/use-task-predecessors/use-task-predecessors.html?lang=es).
 

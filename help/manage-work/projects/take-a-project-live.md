@@ -12,7 +12,7 @@ recommendations: noDisplay,catalog
 jira: KT-8780
 exl-id: 100aed51-2ab4-4a75-af2b-1860c7463a3c
 doc-type: video
-source-git-commit: f033b210268e8979ee15abe812e6ad85673eeedb
+source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
 workflow-type: tm+mt
 source-wordcount: '52'
 ht-degree: 100%
@@ -25,7 +25,7 @@ Este vídeo contiene información sobre:
 
 * Lanzar su proyecto utilizando el estado del proyecto
 
->[!VIDEO](https://video.tv.adobe.com/v/335093/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/335093/?quality=12&learn=on&enablevpops)
 
 ## Tutoriales recomendados sobre este tema
 

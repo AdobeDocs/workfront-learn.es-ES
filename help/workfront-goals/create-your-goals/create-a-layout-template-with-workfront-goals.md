@@ -1,5 +1,5 @@
 ---
-title: Cree una plantilla de diseño para los usuarios de  [!DNL Workfront Goals]
+title: 'Cree una plantilla de diseño para los usuarios de  [!DNL Workfront Goals] '
 description: Obtenga información sobre cómo crear una plantilla de diseño con la terminología de  [!DNL Workfront Goals], assign the layout template to users, and change [!DNL Goals]  para adaptarse a su organización.
 activity: use
 feature: Workfront Goals
@@ -10,7 +10,7 @@ team: Technical Marketing
 jira: KT-8896
 exl-id: 6ece64db-3d96-4b14-bbd0-5e5b81e6cab5
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
 workflow-type: tm+mt
 source-wordcount: '84'
 ht-degree: 100%
@@ -29,7 +29,7 @@ Este vídeo contiene información sobre:
 * Cambiar la terminología de [!DNL Goals] para adaptarla a su organización
 * Añadir [!DNL Goals] al [!DNL Workfront] [!UICONTROL Menú principal]
 
->[!VIDEO](https://video.tv.adobe.com/v/335190/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/335190/?quality=12&learn=on&enablevpops)
 
 <!--
 Learn more graphic

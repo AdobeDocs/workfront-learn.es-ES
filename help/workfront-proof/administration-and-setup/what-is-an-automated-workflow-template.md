@@ -11,7 +11,7 @@ thumbnail: 335129.png
 jira: KT-8829
 exl-id: 4b64aff1-b917-471b-a1ba-40a9ebe883e9
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
 workflow-type: tm+mt
 source-wordcount: '62'
 ht-degree: 100%
@@ -26,7 +26,7 @@ Este vídeo contiene información sobre:
 * Cómo pueden beneficiarse los usuarios de prueba de las plantillas de flujo de trabajo
 * Cómo empezar a planificar qué plantillas puede crear
 
->[!VIDEO](https://video.tv.adobe.com/v/335129/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/335129/?quality=12&learn=on&enablevpops)
 
 <!---
 Learn More Icon

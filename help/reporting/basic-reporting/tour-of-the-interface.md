@@ -11,7 +11,7 @@ last-substantial-update: 2023-08-29T00:00:00Z
 thumbnail: understand-the-calendar-interface.png
 jira: KT-10025
 exl-id: dfe8e5b1-8b49-4a67-a64e-a20267813752
-source-git-commit: 642a6107dd3afc8f010445aa5e71c8dfdb9636eb
+source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
 workflow-type: tm+mt
 source-wordcount: '81'
 ht-degree: 100%
@@ -35,4 +35,4 @@ En este vídeo, aprenderá sobre lo siguiente:
 * Información de resumen
 * Y cómo crear un elemento de calendario ad-hoc
 
->[!VIDEO](https://video.tv.adobe.com/v/3423318/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3423318/?quality=12&learn=on&enablevpops)

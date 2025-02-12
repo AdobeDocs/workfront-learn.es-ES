@@ -12,8 +12,8 @@ last-substantial-update: 2024-09-23T00:00:00Z
 jira: KT-8910
 exl-id: 0d4ebd19-f4e8-4e3b-9580-e22e47442836
 doc-type: video
-source-git-commit: 37a1c8c492af68ccdee9bd7688ff4d07b41c71e7
-workflow-type: ht
+source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
+workflow-type: tm+mt
 source-wordcount: '47'
 ht-degree: 100%
 
@@ -23,4 +23,4 @@ ht-degree: 100%
 
 En este vídeo, aprenderá a adjuntar un formulario personalizado a los objetos de Workfront.
 
->[!VIDEO](https://video.tv.adobe.com/v/335173/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/335173/?quality=12&learn=on&enablevpops)

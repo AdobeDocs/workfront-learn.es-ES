@@ -11,7 +11,7 @@ thumbnail: 335321.jpeg
 jira: KT-9079
 exl-id: c3a42469-6b0e-4b46-9713-eb15ecdf3055
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
 workflow-type: tm+mt
 source-wordcount: '37'
 ht-degree: 100%
@@ -25,4 +25,4 @@ Este vídeo contiene información sobre:
 * Actualización de un plan en [!DNL Scenario Planner]
 * Copia de planes en [!DNL Scenario Planner]
 
->[!VIDEO](https://video.tv.adobe.com/v/335321/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/335321/?quality=12&learn=on&enablevpops)

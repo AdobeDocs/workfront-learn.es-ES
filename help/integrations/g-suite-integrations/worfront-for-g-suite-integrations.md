@@ -10,7 +10,7 @@ team: Technical Marketing
 jira: KT-8813
 exl-id: 5a752e3c-81c3-4db9-8419-0e5de3483421
 doc-type: video
-source-git-commit: aa552b484b467509c0c75fa581e16401a172b5c7
+source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
 workflow-type: tm+mt
 source-wordcount: '87'
 ht-degree: 100%
@@ -25,7 +25,7 @@ Este vídeo contiene información sobre:
 * Ver y actualizar el trabajo de Workfront desde [!DNL Gmail]
 * Aprobar el trabajo de Workfront desde [!DNL Gmail]
 
->[!VIDEO](https://video.tv.adobe.com/v/335114/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/335114/?quality=12&learn=on&enablevpops)
 
 ## Instalación de Adobe Workfront para G Suite
 

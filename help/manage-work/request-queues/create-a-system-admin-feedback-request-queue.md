@@ -13,7 +13,7 @@ recommendations: noDisplay,catalog
 jira: KT-14864
 doc-type: video
 exl-id: bef0ba6b-6c29-46ec-ae0d-c54f5609ff5f
-source-git-commit: f033b210268e8979ee15abe812e6ad85673eeedb
+source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
 workflow-type: tm+mt
 source-wordcount: '163'
 ht-degree: 100%
@@ -35,7 +35,7 @@ Este vídeo contiene información sobre:
 * Crear una cola de solicitudes de comentarios de administrador del sistema
 * Cómo un informe de comentarios del equipo de administración puede ayudarle a mejorar sus procesos
 
->[!VIDEO](https://video.tv.adobe.com/v/3427124/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3427124/?quality=12&learn=on&enablevpops)
 
 Para obtener información sobre cómo crear el **Informe de comentarios del equipo de administración** que se ha usado en el vídeo, consulte el tutorial [Crear un informe de tareas](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-task-report.html?lang=es) y busque la actividad **Crear un informe de comentarios del equipo de administración** siguiendo el vídeo.
 

@@ -12,7 +12,7 @@ jira: KT-8721
 recommendations: noDisplay,catalog
 exl-id: b63ab88a-c196-489f-92e8-ffe94be6aa2b
 doc-type: video
-source-git-commit: f033b210268e8979ee15abe812e6ad85673eeedb
+source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
 workflow-type: tm+mt
 source-wordcount: '264'
 ht-degree: 100%
@@ -27,7 +27,7 @@ Este vídeo contiene información sobre:
 * Adición de un filtro mediante un formulario personalizado
 * Sugerencias de filtrado
 
->[!VIDEO](https://video.tv.adobe.com/v/335043/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/335043/?quality=12&learn=on&enablevpops)
 
 >[!NOTE]
 >

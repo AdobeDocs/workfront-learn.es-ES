@@ -12,7 +12,7 @@ jira: KT-9001
 exl-id: 78408bf8-e676-4e49-b023-5ea0a6999229
 recommendations: noDisplay,catalog
 doc-type: video
-source-git-commit: 7345a54e1148bc5ab8472987e68738a48cecd826
+source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
 workflow-type: tm+mt
 source-wordcount: '108'
 ht-degree: 100%
@@ -33,7 +33,7 @@ Este vídeo contiene información sobre:
 * Usar el diseñador de escenarios
 * Crear un escenario básico
 
->[!VIDEO](https://video.tv.adobe.com/v/335261/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/335261/?quality=12&learn=on&enablevpops)
 
 
 ## ¿Desea obtener más información? Recomendamos lo siguiente:

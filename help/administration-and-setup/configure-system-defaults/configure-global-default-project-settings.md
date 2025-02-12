@@ -11,7 +11,7 @@ thumbnail: 335065.png
 jira: KT-8753
 exl-id: b961ba8c-9597-4ed4-a6d7-79689c8e290d
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
 workflow-type: tm+mt
 source-wordcount: '379'
 ht-degree: 100%
@@ -30,7 +30,7 @@ Este vídeo contiene información sobre:
 * Definición de las preferencias globales del proyecto
 * Creación y utilización de programaciones
 
->[!VIDEO](https://video.tv.adobe.com/v/335065/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/335065/?quality=12&learn=on&enablevpops)
 
 ## Configuración de proyectos, tareas y problemas globales y de grupo
 

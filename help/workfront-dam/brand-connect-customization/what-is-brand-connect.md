@@ -10,7 +10,7 @@ team: Technical Marketing
 jira: KT-8977
 exl-id: 5acd8581-1629-421c-867e-cefbeb214832
 doc-type: video
-source-git-commit: cacc76a0dec27e7554eb0ac494d65a9255367226
+source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
 workflow-type: tm+mt
 source-wordcount: '140'
 ht-degree: 100%
@@ -31,7 +31,7 @@ En este vídeo, aprenderá lo siguiente:
 
 * Obtenga una introducción a [!UICONTROL Brand Connect]
 
->[!VIDEO](https://video.tv.adobe.com/v/335240/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/335240/?quality=12&learn=on&enablevpops)
 
 <!-- Learn more graphic and link to article, below
 * Workfront DAM within Workfront

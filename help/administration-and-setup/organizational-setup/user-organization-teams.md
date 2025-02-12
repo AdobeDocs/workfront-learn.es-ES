@@ -11,7 +11,7 @@ thumbnail: 335071.png
 jira: KT-8762
 exl-id: 2a8e6306-36e2-4058-b9ab-e3fb37e6cfe3
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
 workflow-type: tm+mt
 source-wordcount: '292'
 ht-degree: 100%
@@ -26,7 +26,7 @@ Este vídeo contiene información sobre:
 * Cómo utilizar equipos interfuncionales
 * Cómo crear y asociar equipos
 
->[!VIDEO](https://video.tv.adobe.com/v/335071/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/335071/?quality=12&learn=on&enablevpops)
 
 ## Creación de equipos
 

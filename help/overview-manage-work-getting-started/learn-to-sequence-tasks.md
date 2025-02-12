@@ -14,7 +14,7 @@ recommendations: noDisplay,catalog
 hide: true
 doc-type: video
 exl-id: d9beede9-fe6d-4d2b-be1b-ee41d3130b43
-source-git-commit: f033b210268e8979ee15abe812e6ad85673eeedb
+source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
 workflow-type: tm+mt
 source-wordcount: '90'
 ht-degree: 100%
@@ -31,7 +31,7 @@ Este vídeo contiene información sobre:
 * Cómo afectará la configuración de la fecha de inicio de una tarea a la restricción de tarea
 * Cómo introducir predecesoras
 
->[!VIDEO](https://video.tv.adobe.com/v/335091/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/335091/?quality=12&learn=on&enablevpops)
 
 <!---
 Learn more urls

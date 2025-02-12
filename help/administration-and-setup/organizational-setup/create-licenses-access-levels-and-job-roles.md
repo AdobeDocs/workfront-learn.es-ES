@@ -12,7 +12,7 @@ jira: KT-8754
 exl-id: 49cb518a-f3ae-4fdd-b617-2c19006c7552
 last-substantial-update: 2023-08-31T00:00:00Z
 doc-type: video
-source-git-commit: c33b14b11cf612cc9ae06d0e4cc446d0bdb2d18e
+source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
 workflow-type: tm+mt
 source-wordcount: '56'
 ht-degree: 100%
@@ -26,4 +26,4 @@ Este vídeo contiene información sobre:
 * Cuáles son las licencias y los niveles de acceso
 * Cómo crear y administrar niveles de acceso
 
->[!VIDEO](https://video.tv.adobe.com/v/335066/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/335066/?quality=12&learn=on&enablevpops)

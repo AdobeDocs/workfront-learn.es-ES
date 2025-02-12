@@ -11,7 +11,7 @@ thumbnail: 335153.png
 jira: KT-8860
 exl-id: ea3b360b-1fbd-4d1a-b505-b75759d24e41
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
 workflow-type: tm+mt
 source-wordcount: '327'
 ht-degree: 100%
@@ -25,7 +25,7 @@ Este vídeo contiene información sobre:
 * Cómo los gráficos pueden mejorar la visualización de datos
 * Cómo utilizar las herramientas de gráficos de Workfront
 
->[!VIDEO](https://video.tv.adobe.com/v/335155/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/335155/?quality=12&learn=on&enablevpops)
 
 ## Actividad: Agregar un gráfico a un informe
 

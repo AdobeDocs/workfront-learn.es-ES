@@ -12,7 +12,7 @@ recommendations: noDisplay,catalog
 jira: KT-8772
 exl-id: 6df467a3-6e26-4bd4-94ac-b77cd43b5aa3
 doc-type: video
-source-git-commit: f033b210268e8979ee15abe812e6ad85673eeedb
+source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
 workflow-type: tm+mt
 source-wordcount: '106'
 ht-degree: 100%
@@ -28,7 +28,7 @@ Este vídeo contiene información sobre:
 * Cómo puede ayudarle una [!UICONTROL Vista] a ver la información que necesita
 * Cómo establecer la fecha de inicio o finalización
 
->[!VIDEO](https://video.tv.adobe.com/v/335086/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/335086/?quality=12&learn=on&enablevpops)
 
 ## Tutoriales recomendados sobre este tema
 

@@ -11,7 +11,7 @@ team: Technical Marketing
 jira: KT-11196
 exl-id: dec3d807-41b2-47a6-b4ff-476313b6fc07
 doc-type: video
-source-git-commit: 409147f9a62302d28e14b834981992a0421d4e4b
+source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
 workflow-type: tm+mt
 source-wordcount: '66'
 ht-degree: 100%
@@ -26,7 +26,7 @@ Este vídeo contiene información sobre:
 * Cómo utilizar el explorador de API y el modo de texto
 * Un estudio en profundidad de los filtros de modo de texto
 
->[!VIDEO](https://video.tv.adobe.com/v/3409632/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3409632/?quality=12&learn=on&enablevpops)
 
 ## Vínculos prácticos
 

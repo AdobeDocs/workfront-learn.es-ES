@@ -10,7 +10,7 @@ team: Technical Marketing
 jira: KT-8891
 exl-id: a1062cb3-94cb-4996-9352-dc15c6ae2a9a
 doc-type: video
-source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
+source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
 workflow-type: tm+mt
 source-wordcount: '586'
 ht-degree: 100%
@@ -25,7 +25,7 @@ En este vídeo, aprenderá sobre lo siguiente:
 * Metas de ejemplo
 * Ámbito de influencia
 
->[!VIDEO](https://video.tv.adobe.com/v/335185/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/335185/?quality=12&learn=on&enablevpops)
 
 ## Planificar una cadencia para revisiones y mantenimiento regulares
 

@@ -11,7 +11,7 @@ thumbnail: 336096.png
 jira: KT-8836
 exl-id: 57774ffc-a3e3-4802-9ea2-75ab47c7cc11
 doc-type: video
-source-git-commit: 2d916e60fe92fc68fc247586acb7b50819c5fd2e
+source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
 workflow-type: tm+mt
 source-wordcount: '164'
 ht-degree: 100%
@@ -25,7 +25,7 @@ Este vídeo contiene información sobre:
 * Cargue una nueva versión de una prueba
 * Aplicación de un flujo de trabajo de pruebas a la versión
 
->[!VIDEO](https://video.tv.adobe.com/v/336096/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/336096/?quality=12&learn=on&enablevpops)
 
 ## Cargar una versión desde el visualizador de pruebas
 

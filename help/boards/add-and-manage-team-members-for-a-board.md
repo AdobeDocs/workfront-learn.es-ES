@@ -10,7 +10,7 @@ role: User, Leader
 level: Beginner
 exl-id: 2ed7d5b5-e795-42cb-8a36-af6e8801a3b5
 doc-type: video
-source-git-commit: ea0bd2ad43efdaa6b84d8249f2848783fd531d93
+source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
 workflow-type: tm+mt
 source-wordcount: '52'
 ht-degree: 100%
@@ -21,4 +21,4 @@ ht-degree: 100%
 
 Información sobre cómo añadir y quitar personas y equipos a un panel para que puedan acceder a su información.
 
->[!VIDEO](https://video.tv.adobe.com/v/346808/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/346808/?quality=12&learn=on&enablevpops)

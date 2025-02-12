@@ -10,7 +10,7 @@ team: Technical Marketing
 jira: KT-8927
 exl-id: 441d5056-5e5f-4104-aa44-321fe0da9a12
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
 workflow-type: tm+mt
 source-wordcount: '77'
 ht-degree: 100%
@@ -25,4 +25,4 @@ Este vídeo contiene información sobre:
 
 * Vaya al flujo de actualización de [!UICONTROL Pulse]
 
->[!VIDEO](https://video.tv.adobe.com/v/335199/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/335199/?quality=12&learn=on&enablevpops)

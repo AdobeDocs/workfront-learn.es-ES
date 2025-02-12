@@ -10,7 +10,7 @@ team: Technical Marketing
 jira: KT-8997
 exl-id: 30f2684c-345a-4834-9e61-4e65f0c7a3e7
 doc-type: video
-source-git-commit: 2cb3cc67f4f1fcd1345f178bf525d7b00f6271cf
+source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
 workflow-type: tm+mt
 source-wordcount: '181'
 ht-degree: 100%
@@ -41,4 +41,4 @@ Este vídeo contiene información sobre:
 * Publicar recursos en [!UICONTROL Brand Connect]
 * Publicar carpetas en [!UICONTROL Brand Connect]
 
->[!VIDEO](https://video.tv.adobe.com/v/335257/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/335257/?quality=12&learn=on&enablevpops)

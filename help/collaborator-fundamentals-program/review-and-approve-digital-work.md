@@ -6,7 +6,7 @@ type: Tutorial
 team: Technical Marketing
 jira: KT-8808
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
 workflow-type: tm+mt
 source-wordcount: '51'
 ht-degree: 100%
@@ -22,7 +22,7 @@ Este vídeo contiene información sobre:
 * Realizar aprobaciones de documentos
 * Realizar aprobaciones para pruebas
 
->[!VIDEO](https://video.tv.adobe.com/v/335108/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/335108/?quality=12&learn=on&enablevpops)
 
 <!---
 learn more URLS

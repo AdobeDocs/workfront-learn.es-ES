@@ -1,6 +1,6 @@
 ---
-title: Creación de una agrupación básica
-description: Conozca qué es una agrupación, cómo crear una agrupación y cómo compartirla con otros usuarios en Workfront.
+title: Crear actividades de agrupación básicas
+description: Practique creando agrupaciones básicas con instrucciones paso a paso.
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335147.jpeg
@@ -9,26 +9,15 @@ role: User
 level: Beginner
 team: Technical Marketing
 jira: KT-8853
-exl-id: e564b836-29fc-43b8-adef-1465a2f765c9
-doc-type: video
 source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
 workflow-type: tm+mt
-source-wordcount: '228'
-ht-degree: 73%
+source-wordcount: '185'
+ht-degree: 60%
 
 ---
 
-# Creación de una agrupación básica
 
-Este vídeo contiene información sobre:
-
-* Qué es una agrupación en Workfront
-* Cómo crear una agrupación
-* Y cómo compartir una agrupación con otros usuarios de Workfront
-
->[!VIDEO](https://video.tv.adobe.com/v/335147/?quality=12&learn=on)
-
-## Actividad: Crear una agrupación básica
+# Actividad: Crear una agrupación básica
 
 Cree una agrupación de problemas que se utilizará en un informe para rastrear las solicitudes que llegan a través de una cola de solicitudes. Esta agrupación facilitará la visualización de tipos similares de problemas/solicitudes agrupados por su prioridad. Asigne un nombre a la agrupación &quot;Cola de solicitudes, Tema de cola, Prioridad&quot;.
 

@@ -14,7 +14,7 @@ recommendations: noDisplay,catalog
 hide: true
 doc-type: video
 exl-id: ed10cc29-d0dd-4b15-abd8-da1758399f8b
-source-git-commit: f033b210268e8979ee15abe812e6ad85673eeedb
+source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
 workflow-type: tm+mt
 source-wordcount: '99'
 ht-degree: 100%
@@ -31,7 +31,7 @@ En este vídeo, aprenderá lo siguiente:
 * Comprenda el valor de las plantillas de proyecto al asignar tareas
 * Comprenda el valor de asignar tareas a equipos
 
->[!VIDEO](https://video.tv.adobe.com/v/335092/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/335092/?quality=12&learn=on&enablevpops)
 
 <!---
 learn more urls:

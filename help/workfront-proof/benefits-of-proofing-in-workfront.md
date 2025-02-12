@@ -11,7 +11,7 @@ thumbnail: 336095.png
 jira: KT-8822
 exl-id: 9721f0b1-ee24-4db1-ac1b-f0c355ad0a9a
 doc-type: video
-source-git-commit: cacc76a0dec27e7554eb0ac494d65a9255367226
+source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
 workflow-type: tm+mt
 source-wordcount: '168'
 ht-degree: 100%
@@ -25,7 +25,7 @@ Este vídeo contiene información sobre:
 * ¿Qué es la revisión?
 * Ventajas de utilizar revisión digital en [!DNL Workfront]
 
->[!VIDEO](https://video.tv.adobe.com/v/336095/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/336095/?quality=12&learn=on&enablevpops)
 
 ## Terminología de revisión
 

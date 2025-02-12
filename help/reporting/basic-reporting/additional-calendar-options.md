@@ -11,7 +11,7 @@ team: Technical Marketing
 thumbnail: understand-additional-calendar-options.png
 jira: KT-10023
 exl-id: 329e8288-d2ec-4350-8374-59aa47241ef8
-source-git-commit: 642a6107dd3afc8f010445aa5e71c8dfdb9636eb
+source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
 workflow-type: tm+mt
 source-wordcount: '80'
 ht-degree: 100%
@@ -35,4 +35,4 @@ Este vídeo contiene información sobre:
 * Compartir un calendario
 * Eliminación de un calendario
 
->[!VIDEO](https://video.tv.adobe.com/v/3423530/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3423530/?quality=12&learn=on&enablevpops)

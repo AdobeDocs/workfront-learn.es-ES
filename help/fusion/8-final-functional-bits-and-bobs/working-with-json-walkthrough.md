@@ -11,7 +11,7 @@ jira: KT-9060
 exl-id: 0d718e87-2faa-47d7-97d9-314071b329cb
 recommendations: noDisplay,catalog
 doc-type: video
-source-git-commit: f033b210268e8979ee15abe812e6ad85673eeedb
+source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
 workflow-type: tm+mt
 source-wordcount: '96'
 ht-degree: 100%
@@ -32,7 +32,7 @@ Este vídeo contiene información sobre:
 
 * Cree y analice JSON en un escenario para satisfacer sus necesidades de diseño
 
->[!VIDEO](https://video.tv.adobe.com/v/335301/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/335301/?quality=12&learn=on&enablevpops)
 
 
 

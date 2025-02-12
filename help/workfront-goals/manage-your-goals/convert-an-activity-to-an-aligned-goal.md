@@ -10,7 +10,7 @@ team: Technical Marketing
 jira: KT-8898
 exl-id: 16343eab-1243-4f36-824f-a53da328de78
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
 workflow-type: tm+mt
 source-wordcount: '135'
 ht-degree: 100%
@@ -25,4 +25,4 @@ Este vídeo contiene información sobre:
 
 * Conversión de una actividad en una meta alineada
 
->[!VIDEO](https://video.tv.adobe.com/v/335192/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/335192/?quality=12&learn=on&enablevpops)

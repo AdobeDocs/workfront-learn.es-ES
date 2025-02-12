@@ -1,5 +1,5 @@
 ---
-title: Comprender cómo funciona  [!DNL Workfront Goals]
+title: 'Comprender cómo funciona  [!DNL Workfront Goals] '
 description: Aprenda a articular el “qué” y el “por qué” durante la fase de planificación, las metas de ejemplo y el ámbito de influencia.
 activity: use
 feature: Workfront Goals,Get Started with Workfront
@@ -10,7 +10,7 @@ team: Technical Marketing
 jira: KT-8889
 exl-id: fda92664-6774-4c3f-8bb8-ee95ded77a98
 doc-type: video
-source-git-commit: cacc76a0dec27e7554eb0ac494d65a9255367226
+source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
 workflow-type: tm+mt
 source-wordcount: '245'
 ht-degree: 100%
@@ -25,7 +25,7 @@ En este vídeo, aprenderá sobre lo siguiente:
 * Metas de ejemplo
 * Ámbito de influencia
 
->[!VIDEO](https://video.tv.adobe.com/v/335183/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/335183/?quality=12&learn=on&enablevpops)
 
 ## Designar personas responsables
 

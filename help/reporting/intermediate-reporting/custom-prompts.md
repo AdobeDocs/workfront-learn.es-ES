@@ -11,7 +11,7 @@ team: Technical Marketing
 jira: KT-9087
 exl-id: 1bb0832e-e888-4154-b78d-24c6d69f629f
 doc-type: video
-source-git-commit: 409147f9a62302d28e14b834981992a0421d4e4b
+source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
 workflow-type: tm+mt
 source-wordcount: '194'
 ht-degree: 100%
@@ -26,7 +26,7 @@ Este vídeo contiene información sobre:
 * Cómo crear una solicitud personalizada mediante el modo de texto
 * Algunos ejemplos que se pueden usar en los informes
 
->[!VIDEO](https://video.tv.adobe.com/v/336822/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/336822/?quality=12&learn=on&enablevpops)
 
 ## Actividad: Crear mensajes personalizados
 

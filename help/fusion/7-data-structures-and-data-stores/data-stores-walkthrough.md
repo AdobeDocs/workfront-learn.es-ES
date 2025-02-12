@@ -11,7 +11,7 @@ jira: KT-9055
 exl-id: e96fd109-2463-4702-b1bf-b42a6dcd7fc4
 recommendations: noDisplay,catalog
 doc-type: video
-source-git-commit: f033b210268e8979ee15abe812e6ad85673eeedb
+source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
 workflow-type: tm+mt
 source-wordcount: '393'
 ht-degree: 100%
@@ -30,7 +30,7 @@ Esto forma parte de una sincronización unidireccional de compañías en Workfro
 
 Workfront recomienda ver el vídeo tutorial del ejercicio antes de intentar recrear el ejercicio en su propio entorno.
 
->[!VIDEO](https://video.tv.adobe.com/v/335296/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/335296/?quality=12&learn=on&enablevpops)
 
 
 

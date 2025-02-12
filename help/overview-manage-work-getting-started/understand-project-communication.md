@@ -13,7 +13,7 @@ recommendations: noDisplay,catalog
 jira: KT-10147
 hide: true
 exl-id: 9875748d-21d4-4902-96b1-ab84d8c0f7d6
-source-git-commit: f033b210268e8979ee15abe812e6ad85673eeedb
+source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
 workflow-type: tm+mt
 source-wordcount: '109'
 ht-degree: 100%
@@ -30,7 +30,7 @@ En este vídeo aprenderá a comunicarse con todas las partes interesadas del pro
 * Problemas
 * Informes
 
->[!VIDEO](https://video.tv.adobe.com/v/3419150/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3419150/?quality=12&learn=on&enablevpops)
 
 >[!TIP]
 >

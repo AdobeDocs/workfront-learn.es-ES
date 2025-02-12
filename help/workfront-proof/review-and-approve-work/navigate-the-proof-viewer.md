@@ -11,7 +11,7 @@ thumbnail: 335140.png
 jira: KT-8840
 exl-id: 1534a43f-1c52-4078-b47b-11d96b7b5c98
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
 workflow-type: tm+mt
 source-wordcount: '73'
 ht-degree: 100%
@@ -27,7 +27,7 @@ Este vídeo contiene información sobre:
 * Filtre la columna de comentarios
 * Cierre la prueba
 
->[!VIDEO](https://video.tv.adobe.com/v/335140/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/335140/?quality=12&learn=on&enablevpops)
 
 <!-- 
 ## Learn more

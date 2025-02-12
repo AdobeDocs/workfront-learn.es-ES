@@ -10,7 +10,7 @@ team: Technical Marketing
 jira: KT-8974
 exl-id: 57818b8d-46c8-476f-8f29-d4f0f4bb10e0
 doc-type: video
-source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
+source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
 workflow-type: tm+mt
 source-wordcount: '68'
 ht-degree: 100%
@@ -26,4 +26,4 @@ Este vídeo contiene información sobre:
 * Comprender cuándo los usuarios de [!UICONTROL DAM de Workfront] pueden escribir sus propias palabras clave
 * Configuración de las facetas de búsqueda
 
->[!VIDEO](https://video.tv.adobe.com/v/335237/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/335237/?quality=12&learn=on&enablevpops)

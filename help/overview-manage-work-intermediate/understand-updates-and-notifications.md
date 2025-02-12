@@ -11,7 +11,8 @@ thumbnail: 335109.png
 jira: KT-8809
 hide: true
 doc-type: video
-source-git-commit: c675114a7f82521a59072f80a64d314be4cd335d
+exl-id: 8b1d17e9-30f2-40cc-accf-599e3cc8f5e9
+source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
 workflow-type: tm+mt
 source-wordcount: '40'
 ht-degree: 100%
@@ -25,7 +26,7 @@ Este vídeo contiene información sobre:
 * Actualice sus propias solicitudes de aprobación
 * Búsqueda de notificaciones de Workfront
 
->[!VIDEO](https://video.tv.adobe.com/v/335109/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/335109/?quality=12&learn=on&enablevpops)
 
 <!---
 learn more URLS

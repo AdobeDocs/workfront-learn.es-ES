@@ -1,6 +1,6 @@
 ---
 title: Creación de un filtro básico
-description: Obtenga información sobre qué es un filtro, cómo crear uno y cómo compartirlo con otros usuarios en Workfront. Aprenda también a utilizar la nueva experiencia de filtro.
+description: Obtenga información sobre qué es un filtro, cómo crear uno y cómo compartirlo con otros usuarios en Workfront.
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335151.jpeg
@@ -8,12 +8,12 @@ type: Tutorial
 role: User
 level: Beginner
 team: Technical Marketing
-jira: kt-8857, kt-13080
+jira: kt-8857
 exl-id: c64e5362-67ca-492f-95a3-05c660be5c03
 doc-type: video
-source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
+source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
 workflow-type: tm+mt
-source-wordcount: '100'
+source-wordcount: '92'
 ht-degree: 100%
 
 ---
@@ -28,7 +28,7 @@ Este vídeo contiene información sobre:
 * Cómo crear y modificar un filtro
 * Cómo compartir un filtro con otros usuarios de Workfront
 
->[!VIDEO](https://video.tv.adobe.com/v/335151/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/335151/?quality=12&learn=on&enablevpops)
 
 ## Comprender la nueva experiencia de filtro
 
@@ -38,4 +38,4 @@ Este vídeo contiene información sobre:
 * Crear y editar filtros
 * Apilar filtros
 
->[!VIDEO](https://video.tv.adobe.com/v/3419558/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3419558/?quality=12&learn=on&enablevpops)

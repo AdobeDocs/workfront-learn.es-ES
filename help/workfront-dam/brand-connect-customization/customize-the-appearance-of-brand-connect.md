@@ -10,7 +10,7 @@ team: Technical Marketing
 jira: KT-8980
 exl-id: cf286347-46f0-4a7a-9f06-921975f28765
 doc-type: video
-source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
+source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
 workflow-type: tm+mt
 source-wordcount: '373'
 ht-degree: 100%
@@ -24,7 +24,7 @@ Este vídeo contiene información sobre:
 * Personalizar la barra de navegación y el pie de página
 * Personalizar la página de inicio y la página de inicio de sesión
 
->[!VIDEO](https://video.tv.adobe.com/v/335242/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/335242/?quality=12&learn=on&enablevpops)
 
 ## Configuración adicional del [!UICONTROL aspecto]
 

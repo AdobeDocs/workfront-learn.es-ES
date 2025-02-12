@@ -9,7 +9,7 @@ last-substantial-update: 2023-04-19T00:00:00Z
 jira: KT-13069
 thumbnail: 3418382.jpeg
 exl-id: 82b41f3c-3b44-4e50-85fd-dbaf31dc1acb
-source-git-commit: c67e4c30947c383fd6ed4de7a861f09a654c5c20
+source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
 workflow-type: tm+mt
 source-wordcount: '58'
 ht-degree: 100%
@@ -20,4 +20,4 @@ ht-degree: 100%
 
 Aprenda qué es un pin y cómo fijar páginas importantes o pertinentes para un conjunto de usuarios mediante plantillas de diseño.
 
->[!VIDEO](https://video.tv.adobe.com/v/3418382/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3418382/?quality=12&learn=on&enablevpops)

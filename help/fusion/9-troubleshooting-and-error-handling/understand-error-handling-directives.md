@@ -11,7 +11,7 @@ jira: KT-9064
 exl-id: cb8d0880-73d2-4118-b800-a126f8509309
 recommendations: noDisplay,catalog
 doc-type: video
-source-git-commit: f033b210268e8979ee15abe812e6ad85673eeedb
+source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
 workflow-type: tm+mt
 source-wordcount: '318'
 ht-degree: 100%
@@ -25,7 +25,7 @@ Este vídeo contiene información sobre:
 * Las tres directivas del controlador de error que permiten que la ejecución continúe
 * Las dos directivas del controlador de error que detienen la ejecución
 
->[!VIDEO](https://video.tv.adobe.com/v/335305/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/335305/?quality=12&learn=on&enablevpops)
 
 ## Directivas: el escenario continúa
 

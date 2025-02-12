@@ -11,7 +11,7 @@ thumbnail: 335073.jpeg
 jira: KT-8760
 exl-id: 5fa4e251-fcf3-41a4-be50-f0302a481358
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
 workflow-type: tm+mt
 source-wordcount: '51'
 ht-degree: 100%
@@ -27,4 +27,4 @@ Este vídeo contiene información sobre:
 * Añadir elementos al [!UICONTROL Menú principal]
 
 
->[!VIDEO](https://video.tv.adobe.com/v/335073/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/335073/?quality=12&learn=on&enablevpops)

@@ -11,7 +11,7 @@ thumbnail: 335318.jpeg
 jira: KT-9076
 exl-id: 554c00cd-5958-4e5d-acec-22a96a7353b0
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
 workflow-type: tm+mt
 source-wordcount: '129'
 ht-degree: 100%
@@ -22,7 +22,7 @@ ht-degree: 100%
 
 En este vídeo, aprenderá a crear un plan en [!DNL Scenario Planner].
 
->[!VIDEO](https://video.tv.adobe.com/v/335318/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/335318/?quality=12&learn=on&enablevpops)
 
 ## Cálculo de la información de la función para un plan
 

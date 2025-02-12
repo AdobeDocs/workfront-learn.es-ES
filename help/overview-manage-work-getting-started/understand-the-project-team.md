@@ -14,7 +14,7 @@ jira: KT-14781
 doc-type: video
 hide: true
 exl-id: bcaaccdf-ccf8-4bbf-8344-bd55a655c510
-source-git-commit: f033b210268e8979ee15abe812e6ad85673eeedb
+source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
 workflow-type: tm+mt
 source-wordcount: '59'
 ht-degree: 100%
@@ -27,7 +27,7 @@ Este vídeo contiene información sobre:
 
 * Para qué se puede utilizar el equipo del proyecto y cómo mantenerlo
 
->[!VIDEO](https://video.tv.adobe.com/v/3427227/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3427227/?quality=12&learn=on&enablevpops)
 
 ## Tutoriales recomendados sobre este tema
 

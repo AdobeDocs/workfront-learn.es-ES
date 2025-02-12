@@ -1,8 +1,8 @@
 ---
 user-guide-description: Tutoriales de Workfront
-source-git-commit: 569708042b8a9e122e820a1e65d6ea536f15b0e1
+source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
 workflow-type: tm+mt
-source-wordcount: '2396'
+source-wordcount: '2405'
 ht-degree: 99%
 
 ---
@@ -200,6 +200,7 @@ ht-degree: 99%
       + [Creación de una vista básica](/help/reporting/basic-reporting/create-a-basic-view.md)
       + [Añadir un formato condicional básico a una vista](/help/reporting/basic-reporting/add-basic-conditional-formatting-to-a-view.md)
       + [Creación de un filtro básico](/help/reporting/basic-reporting/create-a-basic-filter.md)
+      + [Comprender la nueva experiencia de filtro](/help/reporting/basic-reporting/understand-the-new-filter-experience.md)
       + [Creación de actividades de filtro básicas](/help/reporting/basic-reporting/create-a-basic-filter-activity.md)
       + [Creación de un informe simple](/help/reporting/basic-reporting/create-a-simple-report.md)
       + [Creación de un informe de tareas](/help/reporting/basic-reporting/create-a-task-report.md)
@@ -649,5 +650,5 @@ ht-degree: 99%
 
 + [Administrar solicitudes](/help/manage-work/issues-requests/manage-incoming-requests.md)
 + [Comprender el gráfico de capacidad de recursos](/help/reporting/enhanced-analytics/19-resource-capacity-chart.md)
-
++ [Crear actividades de agrupación básicas](/help/reporting/basic-reporting/create-basic-grouping-activities.md)
 

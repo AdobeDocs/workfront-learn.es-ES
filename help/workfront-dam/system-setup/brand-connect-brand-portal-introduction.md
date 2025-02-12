@@ -10,7 +10,7 @@ team: Technical Marketing
 jira: KT-8966
 exl-id: e882bcce-0e17-4040-9cbd-a3506f6ee099
 doc-type: video
-source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
+source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
 workflow-type: tm+mt
 source-wordcount: '229'
 ht-degree: 100%
@@ -26,7 +26,7 @@ Este vídeo contiene información sobre:
 * Establecer fechas de caducidad en recursos individuales
 * Editar configuración de recursos
 
->[!VIDEO](https://video.tv.adobe.com/v/335229/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/335229/?quality=12&learn=on&enablevpops)
 
 ## Carpetas de recursos
 

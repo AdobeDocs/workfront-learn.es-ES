@@ -11,7 +11,7 @@ thumbnail: 340342.png
 jira: KT-9721
 exl-id: 76e9dc5d-05e7-40e9-af05-af880018170c
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
 workflow-type: tm+mt
 source-wordcount: '66'
 ht-degree: 100%
@@ -27,4 +27,4 @@ Este vídeo contiene información sobre:
 * Utilice la sección Menciones para ver las actualizaciones que ha incluido en
 * Responder a las actualizaciones
 
->[!VIDEO](https://video.tv.adobe.com/v/340342/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/340342/?quality=12&learn=on&enablevpops)

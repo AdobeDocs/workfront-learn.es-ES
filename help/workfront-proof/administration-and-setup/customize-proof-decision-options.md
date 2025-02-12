@@ -11,7 +11,7 @@ thumbnail: 335127.png
 jira: KT-8827
 exl-id: 947a67cd-e9bd-472a-af40-33ec93cd65a9
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
 workflow-type: tm+mt
 source-wordcount: '134'
 ht-degree: 100%
@@ -26,7 +26,7 @@ Este vídeo contiene información sobre:
 * Cómo cambiar el nombre de las opciones de decisión de la revisión
 * Cómo ocultar opciones de decisión de la revisión innecesarias
 
->[!VIDEO](https://video.tv.adobe.com/v/335127/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/335127/?quality=12&learn=on&enablevpops)
 
 ## Su turno
 

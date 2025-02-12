@@ -11,7 +11,7 @@ thumbnail: 335126.png
 jira: KT-8826
 exl-id: d055825a-712c-426c-8803-37bb6105ce9f
 doc-type: video
-source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
+source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
 workflow-type: tm+mt
 source-wordcount: '111'
 ht-degree: 100%
@@ -29,7 +29,7 @@ Este vídeo contiene información sobre:
 * Ajuste la configuración del usuario de prueba en [!DNL  Workfront]
 * Ajuste la configuración del usuario de prueba en las configuraciones del back-end de revisión
 
->[!VIDEO](https://video.tv.adobe.com/v/335126/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/335126/?quality=12&learn=on&enablevpops)
 
 <!--
 Lean More URLs

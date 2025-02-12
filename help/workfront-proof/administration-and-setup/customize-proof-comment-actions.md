@@ -11,7 +11,7 @@ thumbnail: 335128.png
 jira: KT-8828
 exl-id: e71fcad9-bb8a-4adf-8469-51ce190d6c54
 doc-type: video
-source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
+source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
 workflow-type: tm+mt
 source-wordcount: '93'
 ht-degree: 100%
@@ -26,7 +26,7 @@ Este vídeo contiene información sobre:
 * Cómo se utilizan las acciones en los comentarios
 * Cómo se pueden personalizar las etiquetas de acción
 
->[!VIDEO](https://video.tv.adobe.com/v/335128/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/335128/?quality=12&learn=on&enablevpops)
 
 ## Su turno
 

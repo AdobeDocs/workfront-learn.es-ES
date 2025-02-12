@@ -11,7 +11,7 @@ thumbnail: 335175.png
 jira: KT-8912
 exl-id: f194fbc8-99b3-4fed-9fc5-a2f5fa4593d2
 doc-type: video
-source-git-commit: 409147f9a62302d28e14b834981992a0421d4e4b
+source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
 workflow-type: tm+mt
 source-wordcount: '281'
 ht-degree: 100%
@@ -25,7 +25,7 @@ Este vídeo contiene información sobre:
 * Qué se calcula con las expresiones ADDDAYS/ADDWEEKDAY/ADDMONTHS/ADDYEAR
 * Cómo crear una expresión de datos ADDWEEKDAYS en un campo calculado
 
->[!VIDEO](https://video.tv.adobe.com/v/335175/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/335175/?quality=12&learn=on&enablevpops)
 
 ## Ejemplos adicionales
 

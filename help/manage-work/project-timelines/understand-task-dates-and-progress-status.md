@@ -13,7 +13,7 @@ last-substantial-update: 2024-11-11T00:00:00Z
 recommendations: noDisplay,catalog
 exl-id: 5504c294-80d4-4c37-8b41-9caf521cea27
 doc-type: video
-source-git-commit: f033b210268e8979ee15abe812e6ad85673eeedb
+source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
 workflow-type: tm+mt
 source-wordcount: '121'
 ht-degree: 100%
@@ -27,7 +27,7 @@ En este vídeo, aprenderá sobre lo siguiente:
 * Fechas planificadas, proyectadas y reales, y
 * Cómo se utilizan para calcular el estado de progreso
 
->[!VIDEO](https://video.tv.adobe.com/v/335095/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/335095/?quality=12&learn=on&enablevpops)
 
 >[!NOTE]
 >

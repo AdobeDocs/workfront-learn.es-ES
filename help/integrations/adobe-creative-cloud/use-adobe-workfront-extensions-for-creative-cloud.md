@@ -13,7 +13,7 @@ exl-id: 1a9b767c-3efd-4ecd-9a99-178586cc6774
 badgeIntegration: label="Integración" type="positive"
 feature-set: Workfront
 topic: Integrations
-source-git-commit: ce2aad1cd0ecb7d568ed9a01d97147cbd126ca05
+source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
 workflow-type: tm+mt
 source-wordcount: '208'
 ht-degree: 100%
@@ -52,4 +52,4 @@ En este vídeo, aprenderá a hacer lo siguiente desde la aplicación de Creative
 * Hora de registro
 * Marque el trabajo completado
 
->[!VIDEO](https://video.tv.adobe.com/v/3415452/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3415452/?quality=12&learn=on&enablevpops)

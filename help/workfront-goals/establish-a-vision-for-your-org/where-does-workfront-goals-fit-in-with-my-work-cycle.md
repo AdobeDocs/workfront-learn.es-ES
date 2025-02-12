@@ -10,7 +10,7 @@ team: Technical Marketing
 jira: KT-8890
 exl-id: 2e1823d6-a7f2-485e-952d-e3d230473808
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
 workflow-type: tm+mt
 source-wordcount: '135'
 ht-degree: 100%
@@ -24,7 +24,7 @@ En este vídeo, aprenderá sobre lo siguiente:
 * Los seis pasos en un ciclo de vida laboral típico
 * Componentes básicos de la “fase de estrategia” en el ciclo de vida laboral
 
->[!VIDEO](https://video.tv.adobe.com/v/335184/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/335184/?quality=12&learn=on&enablevpops)
 
 <!--
 Your turn graphic

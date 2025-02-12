@@ -13,7 +13,7 @@ jira: KT-8775
 hide: true
 doc-type: video
 exl-id: 81b6fc1f-2988-4eac-8dc5-be52358724ba
-source-git-commit: f033b210268e8979ee15abe812e6ad85673eeedb
+source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
 workflow-type: tm+mt
 source-wordcount: '69'
 ht-degree: 100%
@@ -28,7 +28,7 @@ Este vídeo contiene información sobre:
 * Formas de agregar y eliminar tareas
 * Cambiar el orden de las tareas
 
->[!VIDEO](https://video.tv.adobe.com/v/335088/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/335088/?quality=12&learn=on&enablevpops)
 
 ## Tutoriales recomendados sobre este tema
 

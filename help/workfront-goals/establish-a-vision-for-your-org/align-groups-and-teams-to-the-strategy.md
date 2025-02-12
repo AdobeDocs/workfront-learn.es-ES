@@ -10,7 +10,7 @@ team: Technical Marketing
 jira: KT-8894
 exl-id: 2f3ef8e3-f667-4efa-9cf0-44f8835d1671
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
 workflow-type: tm+mt
 source-wordcount: '95'
 ht-degree: 100%
@@ -24,7 +24,7 @@ Este vídeo contiene información sobre:
 * Revisar y activar las metas propuestas
 * Establecer una cascada y alinear las metas trimestrales
 
->[!VIDEO](https://video.tv.adobe.com/v/335188/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/335188/?quality=12&learn=on&enablevpops)
 
 <!--
 Pro-tips graphic

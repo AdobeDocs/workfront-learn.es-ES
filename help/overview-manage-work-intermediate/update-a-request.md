@@ -14,7 +14,7 @@ recommendations: noDisplay,catalog
 hide: true
 doc-type: video
 exl-id: 9bdd107f-0d4e-4ff3-9731-7c8bb5383c41
-source-git-commit: f033b210268e8979ee15abe812e6ad85673eeedb
+source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
 workflow-type: tm+mt
 source-wordcount: '64'
 ht-degree: 100%
@@ -30,7 +30,7 @@ Este vídeo contiene información sobre:
 * Abrir la página de solicitud
 * Actualizar una solicitud en el panel [!UICONTROL Actualizaciones]
 
->[!VIDEO](https://video.tv.adobe.com/v/336091/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/336091/?quality=12&learn=on&enablevpops)
 
 ## Tutoriales recomendados sobre este tema
 

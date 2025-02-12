@@ -13,7 +13,7 @@ recommendations: noDisplay,catalog
 jira: KT-10072
 hide: true
 exl-id: baee5681-8bf5-4f69-8f5f-e8b1a50724f6
-source-git-commit: f033b210268e8979ee15abe812e6ad85673eeedb
+source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
 workflow-type: tm+mt
 source-wordcount: '56'
 ht-degree: 100%
@@ -28,7 +28,7 @@ En este vídeo aprenderá a crear:
 * Un informe de proyectos que muestre la información del problema convertido
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3432002/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3432002/?quality=12&learn=on&enablevpops)
 
 
 ## Tutoriales recomendados sobre este tema

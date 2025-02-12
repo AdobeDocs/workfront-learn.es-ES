@@ -11,7 +11,7 @@ jira: KT-9053
 exl-id: f4dca85c-524c-434e-866e-69b75d476471
 recommendations: noDisplay,catalog
 doc-type: video
-source-git-commit: f033b210268e8979ee15abe812e6ad85673eeedb
+source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
 workflow-type: tm+mt
 source-wordcount: '115'
 ht-degree: 100%
@@ -28,7 +28,7 @@ Abra un archivo CSV que contenga una lista de entradas de tiempo. Estas entradas
 
 Workfront recomienda ver el vídeo tutorial del ejercicio antes de intentar recrear el ejercicio en su propio entorno.
 
->[!VIDEO](https://video.tv.adobe.com/v/335294/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/335294/?quality=12&learn=on&enablevpops)
 
 
 

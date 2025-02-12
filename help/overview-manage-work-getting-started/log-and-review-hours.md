@@ -13,7 +13,7 @@ recommendations: noDisplay,catalog
 doc-type: video
 hide: true
 exl-id: 5104c034-82cf-4993-9016-53802d562d14
-source-git-commit: 422b07bc6b1941316a9e441560929d9b2832232f
+source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
 workflow-type: tm+mt
 source-wordcount: '57'
 ht-degree: 80%
@@ -27,7 +27,7 @@ Este vídeo contiene información sobre:
 * Revisar horas registradas en un proyecto
 * Aprobar horas del proyecto si es necesario
 
->[!VIDEO](https://video.tv.adobe.com/v/3441069/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3441069/?quality=12&learn=on&enablevpops)
 
 ## Tutoriales recomendados sobre este tema
 

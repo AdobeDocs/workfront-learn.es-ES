@@ -11,7 +11,7 @@ thumbnail: 335070.png
 jira: KT-8758
 exl-id: b7f8ccb5-457f-4d89-bb57-5d9d6e169191
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
 workflow-type: tm+mt
 source-wordcount: '269'
 ht-degree: 100%
@@ -27,7 +27,7 @@ Este vídeo contiene información sobre:
 * Asociar un grupo
 * Crear y asociar subgrupos
 
->[!VIDEO](https://video.tv.adobe.com/v/335070/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/335070/?quality=12&learn=on&enablevpops)
 
 ## Administradores de grupos
 

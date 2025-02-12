@@ -10,7 +10,7 @@ team: Technical Marketing
 jira: KT-8970
 exl-id: 0d1d6fb5-907b-4732-ba11-b398eca72284
 doc-type: video
-source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
+source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
 workflow-type: tm+mt
 source-wordcount: '125'
 ht-degree: 100%
@@ -29,4 +29,4 @@ En este vídeo, aprenderá lo siguiente:
 
 * Obtenga una introducción al curso [!UICONTROL DAM de Workfront]
 
->[!VIDEO](https://video.tv.adobe.com/v/335233/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/335233/?quality=12&learn=on&enablevpops)

@@ -13,7 +13,7 @@ recommendations: noDisplay,catalog
 jira: KT-8946
 exl-id: bad53b87-4033-4ce7-af04-a38cfa00de9e
 doc-type: video
-source-git-commit: f033b210268e8979ee15abe812e6ad85673eeedb
+source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
 workflow-type: tm+mt
 source-wordcount: '72'
 ht-degree: 100%
@@ -27,7 +27,7 @@ Este vídeo contiene información sobre:
 * Vista de hitos en un proyecto específico
 * Leer la vista de hitos en una lista de proyectos
 
->[!VIDEO](https://video.tv.adobe.com/v/335206/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/335206/?quality=12&learn=on&enablevpops)
 
 >[!TIP]
 >

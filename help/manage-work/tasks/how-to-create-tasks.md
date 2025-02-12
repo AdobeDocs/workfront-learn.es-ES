@@ -10,7 +10,7 @@ last-substantial-update: 2023-05-15T00:00:00Z
 recommendations: noDisplay,catalog
 jira: KT-10151
 exl-id: 68102c46-80be-4255-89b8-38022d421c6c
-source-git-commit: f033b210268e8979ee15abe812e6ad85673eeedb
+source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
 workflow-type: tm+mt
 source-wordcount: '58'
 ht-degree: 100%
@@ -24,7 +24,7 @@ Este vídeo contiene información sobre:
 * El largo camino para crear una tarea en un proyecto de Workfront
 * Algunos métodos abreviados útiles para crear tareas
 
->[!VIDEO](https://video.tv.adobe.com/v/3419372/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3419372/?quality=12&learn=on&enablevpops)
 
 ## Tutoriales recomendados sobre este tema
 

@@ -13,7 +13,7 @@ recommendations: noDisplay,catalog
 last-substantial-update: 2024-08-12T00:00:00Z
 exl-id: 7def260c-7542-4b9e-b2fb-afa5f79e164b
 doc-type: video
-source-git-commit: f033b210268e8979ee15abe812e6ad85673eeedb
+source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
 workflow-type: tm+mt
 source-wordcount: '75'
 ht-degree: 100%
@@ -27,7 +27,7 @@ Este vídeo contiene información sobre:
 * Proceso de flujo de solicitudes específico para la administración de colas
 * Cómo crear y utilizar reglas de enrutamiento, grupos de temas y temas de cola
 
->[!VIDEO](https://video.tv.adobe.com/v/335222/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/335222/?quality=12&learn=on&enablevpops)
 
 ## Tutoriales recomendados sobre este tema
 

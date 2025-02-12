@@ -11,7 +11,7 @@ thumbnail: 335099.png
 jira: KT-8798
 exl-id: fd941683-5866-453a-8e15-70b35f183730
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
 workflow-type: tm+mt
 source-wordcount: '130'
 ht-degree: 100%
@@ -31,7 +31,7 @@ Este vídeo contiene información sobre:
 * Identificar el trabajo que está listo para empezar
 * Aceptar asignaciones de trabajo
 
->[!VIDEO](https://video.tv.adobe.com/v/335099/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/335099/?quality=12&learn=on&enablevpops)
 
 >[!NOTE]
 >

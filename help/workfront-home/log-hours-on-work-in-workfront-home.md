@@ -11,7 +11,7 @@ thumbnail: 335103.png
 jira: KT-8802
 exl-id: 3bd3b403-bfa3-4120-8afe-7566fc8f184f
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
 workflow-type: tm+mt
 source-wordcount: '140'
 ht-degree: 100%
@@ -25,7 +25,7 @@ Este vídeo contiene información sobre:
 * El valor de registrar el tiempo
 * Cómo registrar el tiempo en las asignaciones de trabajo
 
->[!VIDEO](https://video.tv.adobe.com/v/335103/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/335103/?quality=12&learn=on&enablevpops)
 
 ## Sugerencias para registrar las horas en el trabajo en [!DNL Home]
 

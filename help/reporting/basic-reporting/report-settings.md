@@ -11,7 +11,7 @@ thumbnail: 335159.png
 jira: KT-8871
 exl-id: ed4b3395-9582-4b3f-b87b-8121315b7c9c
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
 workflow-type: tm+mt
 source-wordcount: '41'
 ht-degree: 100%
@@ -25,4 +25,4 @@ Este vídeo contiene información sobre:
 * Cómo acceder a la configuración de informes
 * Para qué se usan algunas configuraciones comunes de informes
 
->[!VIDEO](https://video.tv.adobe.com/v/335159/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/335159/?quality=12&learn=on&enablevpops)

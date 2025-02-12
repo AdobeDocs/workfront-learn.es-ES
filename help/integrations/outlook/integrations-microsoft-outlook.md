@@ -10,7 +10,7 @@ team: Technical Marketing
 jira: KT-8814
 exl-id: bd55c464-aae3-40a4-bc1b-e0dbdc5bb238
 doc-type: video
-source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
+source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
 workflow-type: tm+mt
 source-wordcount: '135'
 ht-degree: 100%
@@ -23,7 +23,7 @@ Este vídeo contiene información sobre:
 
 * Instalación del complemento de Microsoft Outlook
 
->[!VIDEO](https://video.tv.adobe.com/v/335115/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/335115/?quality=12&learn=on&enablevpops)
 
 >[!IMPORTANT]
 >

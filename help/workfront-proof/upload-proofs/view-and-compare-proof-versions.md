@@ -11,7 +11,7 @@ thumbnail: 335142.png
 jira: KT-8845
 doc-type: video
 exl-id: 8ade7208-4a39-4471-845f-5290fe27b66b
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
 workflow-type: tm+mt
 source-wordcount: '62'
 ht-degree: 100%
@@ -27,7 +27,7 @@ Este vídeo contiene información sobre:
 * Realizar comentarios y marcas en una versión
 * Comparar la versión actual con una versión anterior del archivo
 
->[!VIDEO](https://video.tv.adobe.com/v/335142/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/335142/?quality=12&learn=on&enablevpops)
 
 <!--
 ## Learn more

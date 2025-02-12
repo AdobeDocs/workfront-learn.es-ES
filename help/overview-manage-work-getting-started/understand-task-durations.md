@@ -14,7 +14,7 @@ recommendations: noDisplay,catalog
 hide: true
 doc-type: video
 exl-id: c099efa5-fee9-4214-b95f-e45a33aa5491
-source-git-commit: f033b210268e8979ee15abe812e6ad85673eeedb
+source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
 workflow-type: tm+mt
 source-wordcount: '79'
 ht-degree: 100%
@@ -30,7 +30,7 @@ Este vídeo contiene información sobre:
 * Cómo afectan las duraciones a las cronologías del proyecto
 * Recomendaciones sobre prácticas recomendadas para el uso de las duraciones de las tareas
 
->[!VIDEO](https://video.tv.adobe.com/v/335089/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/335089/?quality=12&learn=on&enablevpops)
 
 ## Tutoriales recomendados sobre este tema
 

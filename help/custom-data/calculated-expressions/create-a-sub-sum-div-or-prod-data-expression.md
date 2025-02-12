@@ -11,7 +11,7 @@ thumbnail: 335177.png
 jira: KT-8914
 exl-id: e767b73b-1591-4d96-bb59-2f2521e3efa3
 doc-type: video
-source-git-commit: 409147f9a62302d28e14b834981992a0421d4e4b
+source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
 workflow-type: tm+mt
 source-wordcount: '386'
 ht-degree: 100%
@@ -25,7 +25,7 @@ Este vídeo contiene información sobre:
 * Qué hacen las expresiones SUB, SUM, DIV y PROD
 * Creación de una expresión de datos SUB en un campo calculado
 
->[!VIDEO](https://video.tv.adobe.com/v/335177/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/335177/?quality=12&learn=on&enablevpops)
 
 ## Información adicional: expresión ROUND
 

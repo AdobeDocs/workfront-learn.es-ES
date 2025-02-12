@@ -12,7 +12,8 @@ last-substantial-update: 2023-06-27T00:00:00Z
 jira: KT-13530
 doc-type: video
 hide: true
-source-git-commit: c675114a7f82521a59072f80a64d314be4cd335d
+exl-id: 00556e76-6646-412e-9aac-68eda7c75e02
+source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
 workflow-type: tm+mt
 source-wordcount: '142'
 ht-degree: 100%
@@ -31,7 +32,7 @@ En este vídeo, aprenderá las siguientes cosas sobre los tipos de duración y l
 * Prácticas recomendadas para su uso
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3420986/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3420986/?quality=12&learn=on&enablevpops)
 
 
 Para obtener información sobre cómo crear una vista de Tipos de duración y delimitaciones de tareas, vea la actividad de vista Tipos de duración y delimitaciones de tareas en [Crear una vista básica](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-basic-view.html?lang=es).

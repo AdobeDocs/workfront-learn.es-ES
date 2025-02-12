@@ -12,7 +12,7 @@ level: Beginner
 jira: KT-10150
 hide: true
 exl-id: 3ac91981-ad48-4bb1-8817-1b9a91e476a4
-source-git-commit: 422b07bc6b1941316a9e441560929d9b2832232f
+source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
 workflow-type: tm+mt
 source-wordcount: '70'
 ht-degree: 100%
@@ -28,7 +28,7 @@ En este vídeo, aprenderá sobre lo siguiente:
 * Porcentaje completado
 * Estado de progreso
 
->[!VIDEO](https://video.tv.adobe.com/v/3438208/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3438208/?quality=12&learn=on&enablevpops)
 
 
 ## Tutoriales recomendados sobre este tema
