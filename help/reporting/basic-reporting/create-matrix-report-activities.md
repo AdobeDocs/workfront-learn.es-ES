@@ -1,6 +1,6 @@
 ---
-title: Creación de un informe de matriz
-description: Descubra cuándo puede ser útil un informe de matriz y cómo crear uno en Workfront.
+title: Crear actividades de informe de matriz
+description: Practique la creación de informes de matriz, con instrucciones paso a paso.
 activity: use
 feature: Reports and Dashboards
 type: Tutorial
@@ -9,23 +9,17 @@ level: Beginner
 team: Technical Marketing
 thumbnail: 335156.png
 jira: KT-8861
-exl-id: e893d94a-e808-4bc1-bc6e-f46a5582b55d
-doc-type: video
+hidefromtoc: true
 source-git-commit: 915b28bbbf138fa84dce6d1915387fbe22c63362
 workflow-type: tm+mt
-source-wordcount: '255'
-ht-degree: 79%
+source-wordcount: '236'
+ht-degree: 66%
 
 ---
 
-# Creación de un informe de matriz
+# Crear actividades de informe de matriz
 
-Este vídeo contiene información sobre:
-
-* Cuando un informe de matriz puede resultar útil
-* Y cómo crear un informe de matriz
-
->[!VIDEO](https://video.tv.adobe.com/v/335156/?quality=12&learn=on)
+Practique la creación de informes de matriz, con instrucciones paso a paso.
 
 ## Actividad 1: Crear un informe de matriz
 

@@ -1,6 +1,6 @@
 ---
-title: Creación de informes con gráficos
-description: Descubra cómo los gráficos pueden mejorar la visualización de los datos y cómo utilizar las herramientas de gráficos en Workfront.
+title: Creación de informes con actividades de gráficos
+description: Practique la creación de informes con gráficos, con instrucciones paso a paso.
 activity: use
 feature: Reports and Dashboards
 type: Tutorial
@@ -9,23 +9,17 @@ level: Beginner
 team: Technical Marketing
 thumbnail: 335153.png
 jira: KT-8860
-exl-id: ea3b360b-1fbd-4d1a-b505-b75759d24e41
-doc-type: video
+hidefromtoc: true
 source-git-commit: 915b28bbbf138fa84dce6d1915387fbe22c63362
 workflow-type: tm+mt
-source-wordcount: '329'
-ht-degree: 91%
+source-wordcount: '314'
+ht-degree: 81%
 
 ---
 
-# Creación de informes con gráficos
+# Creación de informes con actividades de gráficos
 
-Este vídeo contiene información sobre:
-
-* Cómo los gráficos pueden mejorar la visualización de datos
-* Cómo utilizar las herramientas de gráficos de Workfront
-
->[!VIDEO](https://video.tv.adobe.com/v/335155/?quality=12&learn=on)
+Practique la creación de informes con gráficos, con instrucciones paso a paso.
 
 ## Actividad 1: Agregar un gráfico a un informe
 

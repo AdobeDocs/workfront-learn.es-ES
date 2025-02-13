@@ -11,14 +11,18 @@ team: Technical Marketing
 jira: KT-8853
 hidefromtoc: true
 exl-id: 36f196ac-ad14-4075-9835-30f777572fdf
-source-git-commit: 8a033140307527fbd7c4f9298353ba88cab66c86
+source-git-commit: 915b28bbbf138fa84dce6d1915387fbe22c63362
 workflow-type: tm+mt
-source-wordcount: '185'
-ht-degree: 60%
+source-wordcount: '201'
+ht-degree: 52%
 
 ---
 
-# Actividad: Crear una agrupación básica
+# Crear actividades de agrupación básicas
+
+Practique creando agrupaciones básicas con instrucciones paso a paso.
+
+## Actividad 1: crear una agrupación de colas de solicitudes
 
 Cree una agrupación de problemas que se utilizará en un informe para rastrear las solicitudes que llegan a través de una cola de solicitudes. Esta agrupación facilitará la visualización de tipos similares de problemas/solicitudes agrupados por su prioridad. Asigne un nombre a la agrupación &quot;Cola de solicitudes, Tema de cola, Prioridad&quot;.
 
@@ -28,7 +32,7 @@ Agrupe el informe de problemas en función de lo siguiente:
 1. El tema de la cola
 1. Prioridad de la solicitud
 
-## Respuesta
+## Respuesta 1
 
 ![Una imagen de la pantalla para crear una nueva agrupación](assets/grouping-exercise.png)
 

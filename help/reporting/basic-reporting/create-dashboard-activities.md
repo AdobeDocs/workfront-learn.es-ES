@@ -1,6 +1,6 @@
 ---
-title: Creación de paneles
-description: Aprenda a combinar diversos informes de lista, gráficos, calendarios y páginas web externas en un tablero de Workfront.
+title: Crear actividades de tablero
+description: Practique la creación de paneles, con instrucciones paso a paso.
 activity: use
 feature: Reports and Dashboards
 type: Tutorial
@@ -9,26 +9,17 @@ level: Beginner
 team: Technical Marketing
 thumbnail: 335157.png
 jira: KT-8862
-exl-id: 7adc2aeb-6618-4894-acc3-298e35175854
-doc-type: video
+hidefromtoc: true
 source-git-commit: 915b28bbbf138fa84dce6d1915387fbe22c63362
 workflow-type: tm+mt
-source-wordcount: '464'
-ht-degree: 58%
+source-wordcount: '425'
+ht-degree: 49%
 
 ---
 
-# Creación de paneles
+# Crear actividades de tablero
 
-Este vídeo contiene información sobre:
-
-* Qué es un panel en Workfront
-* Cómo crear un panel
-* Búsqueda y uso de paneles
-* Cómo compartir un panel con otros usuarios de Workfront
-* Cómo imprimir un panel
-
->[!VIDEO](https://video.tv.adobe.com/v/335157/?quality=12&learn=on)
+Practique la creación de paneles, con instrucciones paso a paso.
 
 ## Actividad 1: Crear un tablero
 

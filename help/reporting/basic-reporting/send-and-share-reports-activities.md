@@ -1,6 +1,6 @@
 ---
-title: Enviar y compartir informes
-description: Obtenga información sobre cómo enviar informes a usuarios, equipos o cualquier dirección de correo electrónico y cómo compartirlos con cualquier persona de Workfront.
+title: Envío y uso compartido de actividades de informes
+description: Practique enviando y compartiendo informes, con instrucciones paso a paso.
 activity: use
 feature: Reports and Dashboards
 type: Tutorial
@@ -9,24 +9,17 @@ level: Beginner
 team: Technical Marketing
 thumbnail: 335158.png
 jira: KT-8863
-exl-id: 3d0554fb-4fe0-43d5-b725-2bcd44134bb5
-doc-type: video
+hidefromtoc: true
 source-git-commit: 915b28bbbf138fa84dce6d1915387fbe22c63362
 workflow-type: tm+mt
-source-wordcount: '211'
-ht-degree: 96%
+source-wordcount: '179'
+ht-degree: 79%
 
 ---
 
-# Enviar y compartir informes
+# Envío y uso compartido de actividades de informes
 
-Este vídeo contiene información sobre:
-
-* Envío de informes a usuarios, equipos o cualquier dirección de correo electrónico
-* Cómo compartir informes con cualquier persona
-* Qué pueden ver y hacer los destinatarios con un informe de Workfront
-
->[!VIDEO](https://video.tv.adobe.com/v/335158/?quality=12&learn=on)
+Practique enviando y compartiendo informes, con instrucciones paso a paso.
 
 ## Actividad 1: Envío de un informe
 

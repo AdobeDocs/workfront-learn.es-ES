@@ -1,6 +1,6 @@
 ---
-title: Creación de una vista básica
-description: Aprenda qué es una vista, cómo crear una y cómo compartirla con otros usuarios en Workfront.
+title: Crear actividades de vista básicas
+description: Practique creando vistas básicas con instrucciones paso a paso.
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335148.jpeg
@@ -10,24 +10,17 @@ level: Beginner
 team: Technical Marketing
 last-substantial-update: 2023-06-20T00:00:00Z
 jira: KT-8854
-exl-id: ba3c0e10-dcf1-4a7b-bf11-ccfed9040e6d
-doc-type: video
+hidefromtoc: true
 source-git-commit: 915b28bbbf138fa84dce6d1915387fbe22c63362
 workflow-type: tm+mt
-source-wordcount: '822'
-ht-degree: 99%
+source-wordcount: '795'
+ht-degree: 96%
 
 ---
 
-# Creación de una vista básica
+# Crear actividades de vista básicas
 
-Este vídeo contiene información sobre:
-
-* Qué es una vista en Workfront
-* Creación y modificación de una vista
-* Cómo compartir una vista con otros usuarios de Workfront
-
->[!VIDEO](https://video.tv.adobe.com/v/335148/?quality=12&learn=on)
+Practique creando vistas básicas con instrucciones paso a paso.
 
 ## Actividad 1: crear una vista de estado de tareas
 
@@ -43,7 +36,7 @@ Cree una vista de tarea denominada “Vista de estado de tarea” con las siguie
 * [!UICONTROL Estado de progreso]
 * [!UICONTROL Iconos de estado]
 
-## Respuesta 1
+## Respuesta de actividad 1
 
 ![Una imagen de la pantalla para crear una vista de estado de tareas](assets/view-exercise.png)
 
@@ -76,7 +69,7 @@ Cree una vista de tarea denominada “Vista de hito” con las columnas siguient
 * [!UICONTROL Porcentaje completado]
 
 
-## Respuesta 2
+## Respuesta de actividad 2
 
 ![Una imagen de la pantalla para crear una vista hito](assets/view-milestone-exercise-1.png)
 
@@ -108,7 +101,7 @@ Cree una vista de tareas denominada &quot;Vista de tipos de duración y restricc
 
 Cambie el [!UICONTROL Formato de campo] en las columnas [!UICONTROL Comenzar el] y [!UICONTROL Vence el] para mostrar tanto la fecha como la hora.
 
-## Respuesta 3
+## Respuesta de actividad 3
 
 ![Imagen de la pantalla que muestra la vista de tipos de duración y restricciones de tarea](assets/view-activity-3.png)
 
@@ -146,7 +139,7 @@ Cree una vista de plantilla de proyecto denominada “Estándar+estado activo”
 * [!UICONTROL Está activo]
 
 
-## Respuesta 4
+## Respuesta de actividad 4
 
 ![Una imagen de la pantalla que muestra una vista del estado activo de la plantilla de un proyecto](assets/view-activity-4.png)
 

@@ -1,6 +1,6 @@
 ---
-title: Añadir un formato condicional básico a una vista
-description: Aprenda a utilizar reglas de columna para cambiar el color del texto, el formato y los colores de fondo en un informe o una vista, según los criterios que haya establecido.
+title: Añadir formato condicional básico a las actividades de una vista
+description: Practique agregando formato condicional básico a las vistas, con instrucciones paso a paso.
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335149.jpeg
@@ -9,25 +9,17 @@ role: User
 level: Beginner
 team: Technical Marketing
 jira: KT-8855
-exl-id: bf9a4cf4-b073-4f7e-8516-e7843f4dc20f
-doc-type: video
+hidefromtoc: true
 source-git-commit: 915b28bbbf138fa84dce6d1915387fbe22c63362
 workflow-type: tm+mt
-source-wordcount: '454'
-ht-degree: 97%
+source-wordcount: '411'
+ht-degree: 87%
 
 ---
 
-# Añadir un formato condicional básico a una vista
+# Añadir formato condicional básico a las actividades de una vista
 
-El formato condicional se realiza creando reglas de columna. Las reglas de columna permiten dar un formato específico a la columna basándose en el criterio que usted elija.
-
-Este vídeo contiene información sobre:
-
-* ¿Qué formato condicional hay en una vista?
-* Cómo crear y modificar el formato condicional
-
->[!VIDEO](https://video.tv.adobe.com/v/335149/?quality=12&learn=on)
+Practique agregando formato condicional básico a las vistas, con instrucciones paso a paso.
 
 ## Resumen
 

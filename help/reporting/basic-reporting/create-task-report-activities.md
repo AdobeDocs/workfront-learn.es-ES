@@ -1,6 +1,6 @@
 ---
-title: Creación de un informe de tareas
-description: 'Aprenda a crear un informe de tareas con un filtro complejo y a encontrar los informes que crea en Workfront. Actividad: crear un informe de notas con instrucciones.'
+title: Crear actividades de informe de tareas
+description: Practicar la creación de informes de tareas, con instrucciones paso a paso.
 activity: use
 feature: Reports and Dashboards
 type: Tutorial
@@ -9,25 +9,17 @@ level: Beginner
 team: Technical Marketing
 thumbnail: 335154.png
 jira: KT-8859
-exl-id: 90bad2e8-9cd2-4ae7-973b-eeab9d615bef
-doc-type: video
+hidefromtoc: true
 source-git-commit: 915b28bbbf138fa84dce6d1915387fbe22c63362
 workflow-type: tm+mt
-source-wordcount: '920'
-ht-degree: 99%
+source-wordcount: '889'
+ht-degree: 96%
 
 ---
 
-# Creación de un informe de tareas
+# Crear actividades de informe de tareas
 
-Este vídeo contiene información sobre:
-
-* Cómo crear un informe de tareas con un filtro complejo
-* Cómo encontrar los informes que crea
-
->[!VIDEO](https://video.tv.adobe.com/v/335154/?quality=12&learn=on)
-
-
+Practicar la creación de informes de tareas, con instrucciones paso a paso.
 
 >[!TIP]
 >

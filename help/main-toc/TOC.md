@@ -1,9 +1,9 @@
 ---
 user-guide-description: Tutoriales de Workfront
-source-git-commit: 8a033140307527fbd7c4f9298353ba88cab66c86
+source-git-commit: 915b28bbbf138fa84dce6d1915387fbe22c63362
 workflow-type: tm+mt
-source-wordcount: '2405'
-ht-degree: 99%
+source-wordcount: '2435'
+ht-degree: 97%
 
 ---
 
@@ -648,9 +648,16 @@ ht-degree: 99%
 
 
 <!---
-The following tutorials are hidden from the TOC but need to be here so their links can be referenced.
+The following tutorials are hidden from the TOC but need to be here so their links can be referenced by vPops in playlists.
 --->
-+ [Administrar solicitudes](/help/manage-work/issues-requests/manage-incoming-requests.md)
-+ [Comprender el gráfico de capacidad de recursos](/help/reporting/enhanced-analytics/19-resource-capacity-chart.md)
+
 + [Crear actividades de agrupación básicas](/help/reporting/basic-reporting/create-basic-grouping-activities.md)
++ [Crear actividades de vista básicas](/help/reporting/basic-reporting/create-basic-view-activities.md)
++ [Añadir formato condicional básico a las actividades de una vista](/help/reporting/basic-reporting/add-basic-conditional-formatting-to-a-view-activities.md)
++ [Crear actividades de informe simples](/help/reporting/basic-reporting/create-simple-report-activities.md)
++ [Crear actividades de informe de tareas](/help/reporting/basic-reporting/create-task-report-activities.md)
++ [Creación de informes con actividades de gráficos](/help/reporting/basic-reporting/create-reports-with-charts-activities.md)
++ [Crear actividades de informe de matriz](/help/reporting/basic-reporting/create-matrix-report-activities.md)
++ [Crear actividades de tablero](/help/reporting/basic-reporting/create-dashboard-activities.md)
++ [Envío y uso compartido de actividades de informes](/help/reporting/basic-reporting/send-and-share-reports-activities.md)
 
