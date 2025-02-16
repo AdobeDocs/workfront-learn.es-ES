@@ -11,10 +11,10 @@ thumbnail: 335156.png
 jira: KT-8861
 exl-id: e893d94a-e808-4bc1-bc6e-f46a5582b55d
 doc-type: video
-source-git-commit: 915b28bbbf138fa84dce6d1915387fbe22c63362
+source-git-commit: 6afb57b983b094f9bc0c082a160453ecb394ca8e
 workflow-type: tm+mt
-source-wordcount: '255'
-ht-degree: 79%
+source-wordcount: '268'
+ht-degree: 75%
 
 ---
 
@@ -27,13 +27,17 @@ Este vídeo contiene información sobre:
 
 >[!VIDEO](https://video.tv.adobe.com/v/335156/?quality=12&learn=on)
 
-## Actividad 1: Crear un informe de matriz
+## Crear actividades de informe de matriz
+
+[Haga clic aquí](/help/assets/create-matrix-report-activities.pdf) para descargar un PDF de esta página.
+
+### Actividad 1: Crear un informe de matriz
 
 Cree un informe de matriz que muestre cuántas solicitudes hay en cada estado, ordenadas por la cola de solicitudes. Esto le proporciona una instantánea rápida de la cantidad de trabajo que ingresa y de lo bien que lo está llevando.
 
 Quiere que las colas de solicitudes aparezcan en las agrupaciones de filas. El estado aparece como las agrupaciones de columnas. Asigne un nombre al informe &quot;Solicitudes por estado y colas de solicitudes&quot;.
 
-## Respuesta 1
+### Respuesta 1
 
 1. Seleccione **[!UICONTROL Informes]** desde el **[!UICONTROL Menú principal]**.
 1. Haga clic en la opción **[!UICONTROL Nuevo informe]** y seleccione **[!UICONTROL Problema]**.

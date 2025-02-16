@@ -11,10 +11,10 @@ team: Technical Marketing
 jira: KT-8853
 exl-id: e564b836-29fc-43b8-adef-1465a2f765c9
 doc-type: video
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
+source-git-commit: 6afb57b983b094f9bc0c082a160453ecb394ca8e
 workflow-type: tm+mt
-source-wordcount: '228'
-ht-degree: 73%
+source-wordcount: '243'
+ht-degree: 66%
 
 ---
 
@@ -28,7 +28,11 @@ Este vídeo contiene información sobre:
 
 >[!VIDEO](https://video.tv.adobe.com/v/335147/?quality=12&learn=on)
 
-## Actividad: Crear una agrupación básica
+## Crear actividades de agrupación básicas
+
+[Haga clic aquí](/help/assets/create-basic-grouping-activities.pdf) para descargar un PDF de esta página.
+
+### Actividad 1: Crear una agrupación básica
 
 Cree una agrupación de problemas que se utilizará en un informe para rastrear las solicitudes que llegan a través de una cola de solicitudes. Esta agrupación facilitará la visualización de tipos similares de problemas/solicitudes agrupados por su prioridad. Asigne un nombre a la agrupación &quot;Cola de solicitudes, Tema de cola, Prioridad&quot;.
 
@@ -38,7 +42,7 @@ Agrupe el informe de problemas en función de lo siguiente:
 1. El tema de la cola
 1. Prioridad de la solicitud
 
-## Respuesta
+### Respuesta 1
 
 ![Una imagen de la pantalla para crear una nueva agrupación](assets/grouping-exercise.png)
 

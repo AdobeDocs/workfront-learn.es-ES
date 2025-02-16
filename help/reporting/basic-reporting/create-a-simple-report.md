@@ -11,10 +11,10 @@ jira: KT-8858
 thumbnail: 335153.png
 exl-id: 23a4f7ea-ab64-4e32-9bf5-dd7fc37eab53
 doc-type: video
-source-git-commit: 915b28bbbf138fa84dce6d1915387fbe22c63362
+source-git-commit: 6afb57b983b094f9bc0c082a160453ecb394ca8e
 workflow-type: tm+mt
-source-wordcount: '242'
-ht-degree: 79%
+source-wordcount: '255'
+ht-degree: 75%
 
 ---
 
@@ -26,7 +26,11 @@ Este vídeo contiene información sobre:
 
 >[!VIDEO](https://video.tv.adobe.com/v/335153/?quality=12&learn=on)
 
-## Actividad 1: Crear un informe de tareas simple
+## Crear actividades de informe simples
+
+[Haga clic aquí](/help/assets/create-simple-report-activities.pdf) para descargar un PDF de esta página.
+
+### Actividad 1: Crear un informe de tareas simple
 
 Desea rastrear todas las tareas activas en un solo informe. Cree un informe de tareas llamado &quot;Mis tareas actuales&quot; mediante lo siguiente:
 
@@ -35,7 +39,7 @@ Desea rastrear todas las tareas activas en un solo informe. Cree un informe de t
 * Filtro = Mis tareas actuales
 * Descripción = Tareas incompletas en proyectos actuales donde soy el propietario de la tarea, agrupadas por proyecto.
 
-## Respuesta 1
+### Respuesta 1
 
 1. Vaya al **[!UICONTROL Menú principal]** y seleccione **[!UICONTROL Informes]**.
 1. Haga clic en el menú desplegable **[!UICONTROL Nuevo informe]** y seleccione **[!UICONTROL Informe de tareas]**.

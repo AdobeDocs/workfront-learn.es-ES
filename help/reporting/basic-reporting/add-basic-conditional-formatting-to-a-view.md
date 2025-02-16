@@ -11,10 +11,10 @@ team: Technical Marketing
 jira: KT-8855
 exl-id: bf9a4cf4-b073-4f7e-8516-e7843f4dc20f
 doc-type: video
-source-git-commit: 915b28bbbf138fa84dce6d1915387fbe22c63362
+source-git-commit: 6afb57b983b094f9bc0c082a160453ecb394ca8e
 workflow-type: tm+mt
-source-wordcount: '454'
-ht-degree: 97%
+source-wordcount: '471'
+ht-degree: 94%
 
 ---
 
@@ -29,7 +29,11 @@ Este vídeo contiene información sobre:
 
 >[!VIDEO](https://video.tv.adobe.com/v/335149/?quality=12&learn=on)
 
-## Resumen
+## Añadir formato condicional básico a las actividades de una vista
+
+[Haga clic aquí](/help/assets/add-basic-conditional-formatting-to-a-view-activities.pdf) para descargar un PDF de esta página.
+
+### Resumen
 
 Para crear un formato condicional:
 
@@ -42,7 +46,7 @@ Para crear un formato condicional:
    * texto de reemplazo
    * mostrar un icono
 
-## Actividad 1: Agregar formato condicional a una vista
+### Actividad 1: Agregar formato condicional a una vista
 
 Cree una vista de tarea denominada “Estándar + Progreso” utilizando la vista Estándar existente y añadiendo este formato condicional en la columna [!UICONTROL Nombre].
 
@@ -51,7 +55,7 @@ Cree una vista de tarea denominada “Estándar + Progreso” utilizando la vist
 
 Esto le ayudará a identificar las tareas con problemas sin incluir la columna para el estado de progreso como parte de la vista.
 
-## Respuesta 1
+### Respuesta 1
 
 ![Imagen de la pantalla para crear una nueva regla de columna](assets/conditional-formatting-exercise.png)
 

@@ -12,10 +12,10 @@ last-substantial-update: 2023-06-20T00:00:00Z
 jira: KT-8854
 exl-id: ba3c0e10-dcf1-4a7b-bf11-ccfed9040e6d
 doc-type: video
-source-git-commit: 915b28bbbf138fa84dce6d1915387fbe22c63362
+source-git-commit: 6afb57b983b094f9bc0c082a160453ecb394ca8e
 workflow-type: tm+mt
-source-wordcount: '822'
-ht-degree: 99%
+source-wordcount: '835'
+ht-degree: 97%
 
 ---
 
@@ -29,7 +29,11 @@ Este vídeo contiene información sobre:
 
 >[!VIDEO](https://video.tv.adobe.com/v/335148/?quality=12&learn=on)
 
-## Actividad 1: crear una vista de estado de tareas
+## Crear actividades de vista básicas
+
+[Haga clic aquí](/help/assets/create-basic-view-activities.pdf) para descargar un PDF de esta página.
+
+### Actividad 1: crear una vista de estado de tareas
 
 Como administrador del proyecto, jefe de equipo o administrador de recursos, debe seguir el progreso del trabajo de las tareas. Con esta vista, se obtienen varios indicadores de estado de una tarea en una fila de la lista o del informe.
 
@@ -43,7 +47,7 @@ Cree una vista de tarea denominada “Vista de estado de tarea” con las siguie
 * [!UICONTROL Estado de progreso]
 * [!UICONTROL Iconos de estado]
 
-## Respuesta 1
+### Respuesta 1
 
 ![Una imagen de la pantalla para crear una vista de estado de tareas](assets/view-exercise.png)
 
@@ -60,7 +64,7 @@ Cree una vista de tarea denominada “Vista de estado de tarea” con las siguie
 
 Pase el ratón sobre cada uno de los iconos de la columna [!UICONTROL Iconos de estado] para ver lo que representan. Si aparecen en gris, significa que la tarea no tiene notas, documentos, procesos de aprobación, etc. Si un icono aparece en color, hay al menos uno de los elementos asociados a la tarea. Puede hacer clic en los iconos de nota o documento para ir a ese elemento.
 
-## Actividad 2: Crear una vista hito
+### Actividad 2: Crear una vista hito
 
 Si utiliza hitos, esta vista es la forma más sencilla de ver los hitos por nombre y agregarlos o editarlos mediante el uso de la edición en línea.
 
@@ -76,7 +80,7 @@ Cree una vista de tarea denominada “Vista de hito” con las columnas siguient
 * [!UICONTROL Porcentaje completado]
 
 
-## Respuesta 2
+### Respuesta 2
 
 ![Una imagen de la pantalla para crear una vista hito](assets/view-milestone-exercise-1.png)
 
@@ -88,7 +92,7 @@ Cree una vista de tarea denominada “Vista de hito” con las columnas siguient
 
 ![Imagen de una lista de tareas haciendo uso de una vista de hito](assets/view-milestone-exercise-2.png)
 
-## Actividad 3: crear una vista de tipos de duración y restricciones de tarea
+### Actividad 3: crear una vista de tipos de duración y restricciones de tarea
 
 Esta vista le permitirá examinar y editar todos los tipos de duración y las restricciones de tareas del proyecto.
 
@@ -108,7 +112,7 @@ Cree una vista de tareas denominada &quot;Vista de tipos de duración y restricc
 
 Cambie el [!UICONTROL Formato de campo] en las columnas [!UICONTROL Comenzar el] y [!UICONTROL Vence el] para mostrar tanto la fecha como la hora.
 
-## Respuesta 3
+### Respuesta 3
 
 ![Imagen de la pantalla que muestra la vista de tipos de duración y restricciones de tarea](assets/view-activity-3.png)
 
@@ -130,7 +134,7 @@ Cambie el [!UICONTROL Formato de campo] en las columnas [!UICONTROL Comenzar el]
 1. En el menú desplegable [!UICONTROL Formato de campo] seleccione [!UICONTROL &quot;10/17/60 3:00 AM&quot;].
 1. Haga clic en **[!UICONTROL Guardar]**.
 
-## Actividad 4: Crear una vista del estado activo de las plantillas de proyecto
+### Actividad 4: Crear una vista del estado activo de las plantillas de proyecto
 
 Cualquiera que administre plantillas de proyecto apreciará ver el estado activo (verdadero o falso) de cada plantilla en la lista. Todavía mejor, el campo se puede editar en línea.
 
@@ -146,7 +150,7 @@ Cree una vista de plantilla de proyecto denominada “Estándar+estado activo”
 * [!UICONTROL Está activo]
 
 
-## Respuesta 4
+### Respuesta 4
 
 ![Una imagen de la pantalla que muestra una vista del estado activo de la plantilla de un proyecto](assets/view-activity-4.png)
 

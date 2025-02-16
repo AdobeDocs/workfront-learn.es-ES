@@ -11,10 +11,10 @@ thumbnail: 335153.png
 jira: KT-8860
 exl-id: ea3b360b-1fbd-4d1a-b505-b75759d24e41
 doc-type: video
-source-git-commit: 915b28bbbf138fa84dce6d1915387fbe22c63362
+source-git-commit: 6afb57b983b094f9bc0c082a160453ecb394ca8e
 workflow-type: tm+mt
-source-wordcount: '329'
-ht-degree: 91%
+source-wordcount: '343'
+ht-degree: 88%
 
 ---
 
@@ -27,11 +27,15 @@ Este vídeo contiene información sobre:
 
 >[!VIDEO](https://video.tv.adobe.com/v/335155/?quality=12&learn=on)
 
-## Actividad 1: Agregar un gráfico a un informe
+## Creación de informes con actividades de gráficos
+
+[Haga clic aquí](/help/assets/create-reports-with-charts-activities.pdf) para descargar un PDF de esta página.
+
+### Actividad 1: Agregar un gráfico a un informe
 
 Se acerca el final del trimestre y usted quiere ver cómo se han ajustado a sus presupuestos los proyectos finalizados recientemente. Cree un informe que muestre el coste planificado frente al coste real de los proyectos. Solo desea ver los proyectos completados en el último trimestre. Agregue un gráfico de columnas combinado con colores personalizados.
 
-## Respuesta 1
+### Respuesta 1
 
 1. Seleccione **[!UICONTROL Informes]** desde el **[!UICONTROL Menú principal]**.
 1. Haga clic en el menú **[!UICONTROL Nuevo informe]** y seleccione **[!UICONTROL Proyecto]**.

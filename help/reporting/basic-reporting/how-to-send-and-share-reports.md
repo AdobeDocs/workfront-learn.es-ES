@@ -11,10 +11,10 @@ thumbnail: 335158.png
 jira: KT-8863
 exl-id: 3d0554fb-4fe0-43d5-b725-2bcd44134bb5
 doc-type: video
-source-git-commit: 915b28bbbf138fa84dce6d1915387fbe22c63362
+source-git-commit: 6afb57b983b094f9bc0c082a160453ecb394ca8e
 workflow-type: tm+mt
-source-wordcount: '211'
-ht-degree: 96%
+source-wordcount: '225'
+ht-degree: 90%
 
 ---
 
@@ -28,11 +28,15 @@ Este vídeo contiene información sobre:
 
 >[!VIDEO](https://video.tv.adobe.com/v/335158/?quality=12&learn=on)
 
-## Actividad 1: Envío de un informe
+## Envío y uso compartido de actividades de informes
+
+[Haga clic aquí](/help/assets/send-and-share-reports-activities.pdf) para descargar un PDF de esta página.
+
+### Actividad 1: Envío de un informe
 
 Envíese un informe todos los lunes a las 5 a. m. como hoja de cálculo de Excel. Esta es una buena forma de recopilar automáticamente informes semanales que más adelante podrá utilizar para ver las tendencias.
 
-## Respuesta 1
+### Respuesta 1
 
 ![Una imagen de la pantalla para configurar envíos de informes repetitivos](assets/send-a-report.png)
 
