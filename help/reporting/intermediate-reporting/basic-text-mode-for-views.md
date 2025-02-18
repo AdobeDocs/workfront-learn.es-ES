@@ -11,10 +11,10 @@ team: Technical Marketing
 jira: KT-11367
 exl-id: 156e5510-4a51-449f-9c8c-e16fdd8ea23d
 doc-type: video
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
+source-git-commit: 88c2161e897f23587ccc1d0e867b6f8961927a0f
 workflow-type: tm+mt
-source-wordcount: '649'
-ht-degree: 100%
+source-wordcount: '665'
+ht-degree: 97%
 
 ---
 
@@ -40,7 +40,11 @@ Este vídeo contiene información sobre:
 * Qué son las palabras agrupadas en mayúsculas y minúsculas
 * Algunos modos básicos de texto “plug and play” que puede usar en sus vistas
 
->[!VIDEO](https://video.tv.adobe.com/v/3410571/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3410571/?quality=12&learn=on)
+
+## Comprender el modo de texto básico de las actividades de vistas
+
+[Haga clic aquí](/help/assets/understand-basic-text-mode-for-views-activities.pdf) para descargar un PDF de esta página.
 
 ## Tarea: Vista de los cuatro elementos principales
 

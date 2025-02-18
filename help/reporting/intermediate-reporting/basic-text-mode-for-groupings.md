@@ -11,10 +11,10 @@ team: Technical Marketing
 jira: KT-11369
 exl-id: 5f45c64f-a22b-4983-91fd-9a1939f99fb1
 doc-type: video
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
+source-git-commit: 88c2161e897f23587ccc1d0e867b6f8961927a0f
 workflow-type: tm+mt
-source-wordcount: '285'
-ht-degree: 100%
+source-wordcount: '301'
+ht-degree: 94%
 
 ---
 
@@ -39,7 +39,11 @@ Este vídeo contiene información sobre:
 * Qué son las palabras agrupadas en mayúsculas y minúsculas
 * Algunos modos de texto “plug and play” básicos que puede usar en sus agrupaciones
 
->[!VIDEO](https://video.tv.adobe.com/v/3410641/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3410641/?quality=12&learn=on)
+
+## Comprender el modo de texto básico de las actividades de agrupación
+
+[Haga clic aquí](/help/assets/understand-basic-text-mode-for-groupings-activities.pdf) para descargar un PDF de esta página.
 
 ## Tarea: Agrupación de cuatro elementos principales
 

@@ -12,10 +12,10 @@ last-substantial-update: 2023-06-01T00:00:00Z
 jira: KT-9083
 exl-id: 8180029a-a350-45cb-9948-eb5b44276b86
 doc-type: video
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
+source-git-commit: 88c2161e897f23587ccc1d0e867b6f8961927a0f
 workflow-type: tm+mt
-source-wordcount: '153'
-ht-degree: 100%
+source-wordcount: '167'
+ht-degree: 91%
 
 ---
 
@@ -26,14 +26,17 @@ Este vídeo contiene información sobre:
 * Revise los filtros de proyecto integrados para ver cómo se crean
 * Cree su propio filtro de proyecto con lo que ha aprendido
 
->[!VIDEO](https://video.tv.adobe.com/v/336817/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/336817/?quality=12&learn=on)
 
+## Comprender las actividades de filtros de proyecto integrados
 
-## Actividad: Crear un filtro de proyecto
+[Haga clic aquí](/help/assets/understand-built-in-project-filters-activities.pdf) para descargar un PDF de esta página.
+
+### Actividad: Crear un filtro de proyecto
 
 Desea ver todos los proyectos activos que posee, donde “activo” significa que el estado del proyecto equivale a Planificado o Actual. En el área Proyectos, cree un filtro de proyecto denominado “Proyectos activos que tengo”.
 
-## Respuesta
+### Respuesta
 
 El filtro debería tener este aspecto:
 

@@ -11,10 +11,10 @@ team: Technical Marketing
 jira: KT-9082
 exl-id: 0f7db4eb-a062-4eb3-99ca-c40d8e266943
 doc-type: video
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
+source-git-commit: 88c2161e897f23587ccc1d0e867b6f8961927a0f
 workflow-type: tm+mt
-source-wordcount: '232'
-ht-degree: 100%
+source-wordcount: '247'
+ht-degree: 67%
 
 ---
 
@@ -23,14 +23,19 @@ ht-degree: 100%
 Este vídeo contiene información sobre:
 
 * Saber cuándo usar los caracteres comodín basados en datos
-* Comprender la diferencia entre los dos caracteres comodín basados en datos de Workfront
+* Comprender la diferencia entre los dos comodines basados en fechas de Workfront
 * Añadir un carácter comodín basado en datos a un filtro
 * Crear una fecha personalizada utilizando caracteres comodín, atributos, operadores y modificadores
 * Crear un intervalo de fechas personalizado con caracteres comodín
 
->[!VIDEO](https://video.tv.adobe.com/v/336812/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/336812/?quality=12&learn=on)
 
-## Preguntas sobre actividades
+
+## Creación de filtros con actividades de comodines basados en fecha
+
+[Haga clic aquí](/help/assets/create-filters-with-date-based-wildcards-activities.pdf) para descargar un PDF de esta página.
+
+### Preguntas sobre actividades
 
 1. ¿Cómo crearía la regla de filtro si quisiera los problemas cuya fecha de vencimiento fuera ayer u hoy?
 1. ¿Cómo crearía la regla de filtro para encontrar proyectos que vencieron la semana pasada?
@@ -38,8 +43,8 @@ Este vídeo contiene información sobre:
 
 ![Una imagen de la pantalla para crear un filtro de tareas con un carácter comodín basado en datos](assets/date-wildcard-answer-1.png)
 
-## Respuestas
+### Respuestas
 
 1. Filtre la fecha planificada de finalización del problema entre [!UICONTROL $$TODAY-1d] y [!UICONTROL $$TODAY].
 1. Filtre la fecha planificada de finalización para el proyecto entre [!UICONTROL $$TODAYb-1w] y [!UICONTROL $$TODAYe-1w].
-1. Este informe encuentra tareas asignadas que aún no han finalizado (es decir, que tienen un porcentaje completado inferior a 100) y que ya deberían haberse realizado o que vencen hoy. La regla de filtro para la fecha planificada de finalización de las tareas indica que se deben observar las tareas que tienen una fecha de vencimiento igual o anterior a la fecha actual.
+1. Este informe encuentra las tareas que se le han asignado y que aún no han finalizado (es decir, tienen un porcentaje completado inferior a 100) y que han vencido o que vencen en el día de hoy. La regla de filtro para la fecha planificada de finalización de las tareas indica que se deben ver las tareas que tienen una fecha de vencimiento igual o anterior a la fecha actual.
