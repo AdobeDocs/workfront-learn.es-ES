@@ -11,10 +11,10 @@ level: Beginner
 jira: KT-11035
 recommendations: noDisplay,catalog
 exl-id: 998abb57-baff-4ebb-bd90-c67a553ee8d7
-source-git-commit: 7345a54e1148bc5ab8472987e68738a48cecd826
+source-git-commit: b57236354534f5f2cede5aec308a3210ed1aa2e1
 workflow-type: tm+mt
-source-wordcount: '426'
-ht-degree: 100%
+source-wordcount: '420'
+ht-degree: 85%
 
 ---
 
@@ -36,7 +36,7 @@ En algunos tutoriales, creará un nuevo escenario desde cero. En otros, empezar�
 
 Para completar los ejercicios en las rutas de aprendizaje de Workfront Fusion, necesitará una unidad de prueba de Workfront. Si ya tiene una unidad de prueba, le recomendamos una nueva para esta formación.
 
-Solicite un entorno de práctica rellenando [este formulario](https://forms.office.com/r/f1J8HRGrNY). Si no puede acceder al formulario, envíe un correo electrónico con su nombre y el de su compañía a wfttstdr@adobe.com.
+Solicite una unidad de prueba rellenando [este formulario](https://forms.office.com/r/f1J8HRGrNY). Si no puede acceder al formulario, envíe un correo electrónico con su nombre y el de su compañía a wfttstdr@adobe.com.
 
 ### Acceso a Workfront Fusion para practicar
 
@@ -44,13 +44,13 @@ Workfront no ofrece unidades de prueba de Workfront Fusion. Para practicar mient
 
 ### Instrucciones paso a paso sobre cómo completar los ejercicios del tutorial
 
-Hay instrucciones paso a paso para completar los ejercicios del tutorial. Puede acceder a ellas desde la barra de navegación izquierda en Fusion > Ejercicios o utilizar el vínculo proporcionado en la parte inferior de un tutorial.
+Existen instrucciones paso a paso para completar la mayoría de los ejercicios de introducción. Puede encontrarlos en la barra de navegación izquierda que sigue inmediatamente al tutorial de tutorial.
 
-### Ejercicios prácticos opcionales
+### Ejercicios de práctica opcionales
 
-Tras algunos de los ejercicios de introducción se ofrecen prácticas y se plantean retos.
+A continuación de algunos de los ejercicios de introducción, se proporcionan ejercicios prácticos y desafíos.
 
-Existen varias formas de resolver los ejercicios prácticos. La intención es desafiarle a lograr una meta de escenario sin tener que seguir los pasos o la “respuesta correcta”, porque esto es lo que tendrá que hacer al crear un escenario en su compañía.
+Hay varias formas diferentes de resolver los ejercicios de práctica. La intención es desafiarle a lograr una meta de escenario sin tener que seguir los pasos o la “respuesta correcta”, porque esto es lo que tendrá que hacer al crear un escenario en su compañía.
 
 El ejercicio práctico está relacionado con la actividad del tutorial.
 
@@ -59,5 +59,7 @@ Los desafíos son para aquellos que quieren probar algo que involucre otros conc
 ### Cómo obtener ayuda
 
 Las instrucciones paso a paso le ayudarán a superar los ejercicios del tutorial.
+
+[Documentación de Workfront Fusion](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/workfront-fusion-2.html?lang=es)
 
 También está la [comunidad de Workfront Fusion 2.0](https://experienceleaguecommunities.adobe.com/t5/workfront-fusion-2-0/ct-p/workfront-fusion-2) para publicar preguntas.
