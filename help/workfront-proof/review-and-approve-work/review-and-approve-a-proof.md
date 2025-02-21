@@ -11,10 +11,10 @@ thumbnail: review-approve-digital-work.png
 jira: KT-8841
 exl-id: fd6e008c-a162-49fa-9f7e-ab7333165dad
 doc-type: video
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
+source-git-commit: 697957807d4ca95bb4e5ab79f24f5e31252585c3
 workflow-type: tm+mt
-source-wordcount: '768'
-ht-degree: 46%
+source-wordcount: '727'
+ht-degree: 44%
 
 ---
 
@@ -47,13 +47,13 @@ Una vez que esté listo para iniciar la revisión, todo lo que tiene que hacer e
 
 ### Abrir una prueba desde el [!UICONTROL Inicio]
 
-Si está trabajando en [!DNL Workfront] y se le ha pedido que apruebe una revisión, encontrará una asignación en la [!UICONTROL Lista de trabajos] de [!DNL Workfront] [!UICONTROL Inicio]. Es útil seleccionar solo [!UICONTROL aprobaciones] del [!UICONTROL filtro], para que pueda centrarse en ese tipo de trabajo.
+Si está trabajando en [!DNL Workfront] y se le ha pedido que apruebe una revisión, encontrará una asignación en el widget [!UICONTROL Mis aprobaciones] de [!DNL Workfront] [!UICONTROL Inicio].
 
-![Una imagen del [!DNL Workfront] [!UICONTROL inicio] con el filtro [!UICONTROL Aprobaciones] activado y una prueba seleccionada de la lista.](assets/open-proof-from-home.png)
+![Imagen del widget [!UICONTROL Mis aprobaciones] en [!DNL Workfront] [!UICONTROL Página principal].](assets/open-proof-from-home.png)
 
-Es importante tener en cuenta que las pruebas solo aparecen en [!DNL Workfront] [!UICONTROL Hogar] si se le ha asignado su aprobación. Si solo se le ha pedido que revise la revisión, no aparecerá en [!DNL Workfront] [!UICONTROL Inicio] al seleccionar [!UICONTROL Aprobaciones]de la lista de filtros.
+Es importante tener en cuenta que las pruebas solo aparecen en [!DNL Workfront] [!UICONTROL Hogar] si se le ha asignado su aprobación. Si solo se le ha pedido que revise la revisión, no aparecerá en [!DNL Workfront] [!UICONTROL Inicio].
 
-Seleccione la aprobación de prueba en la [!UICONTROL Lista de trabajo] y, a continuación, haga clic en el vínculo [!UICONTROL Ir a la Prueba] para abrirlo en el visualizador de pruebas.
+Haga clic en el vínculo [!UICONTROL Ir a la revisión] para abrirlo en el visor de revisión.
 
 Según la prueba de su organización y los flujos de trabajo del proyecto, es posible que vea una asignación de tarea en [!DNL Workfront] [!UICONTROL Inicio] en lugar de una solicitud de aprobación de prueba. En este caso, abrirá la prueba desde la sección [!UICONTROL Documentos] de la propia tarea (consulte las instrucciones a continuación).
 
