@@ -12,10 +12,10 @@ last-substantial-update: 2024-10-04T00:00:00Z
 jira: KT-9086
 exl-id: b3f16468-b720-468d-887a-b313fc32bd89
 doc-type: video
-source-git-commit: 88c2161e897f23587ccc1d0e867b6f8961927a0f
+source-git-commit: 2c9e57b8f85c74061bd3e52ef4eaea60bc4ec5bb
 workflow-type: tm+mt
-source-wordcount: '442'
-ht-degree: 96%
+source-wordcount: '433'
+ht-degree: 98%
 
 ---
 
@@ -43,11 +43,10 @@ Este vídeo contiene información sobre:
 
 >[!VIDEO](https://video.tv.adobe.com/v/336820/?quality=12&learn=on)
 
-## Comprender el modo de texto básico de las actividades de filtros
+## Actividades de &quot;Comprender el modo de texto básico de los filtros&quot;
 
-[Haga clic aquí](/help/assets/understand-basic-text-mode-for-filters-activities.pdf) para descargar un PDF de esta página.
 
-## Tarea: filtre las tareas en las que he marcado “Listo con mi parte”
+### Tarea: filtre las tareas en las que he marcado “Listo con mi parte”
 
 El siguiente modo de texto excluirá las tareas en las que el usuario ha marcado “Listo con mi parte”. Todo lo que tiene que hacer es crear un filtro de tareas, agregar cualquier regla de filtro que desee, luego cambiar al modo de texto y pegar el código siguiente después de cualquier modo de texto que vea en el filtro.
 
@@ -64,7 +63,7 @@ EXISTS:1:status_Mod=notin
 EXISTS:1:assignedToID=$$USER.ID 
 ```
 
-## Tarea: Mostrar todas las tareas que esperan mi aprobación
+### Tarea: Mostrar todas las tareas que esperan mi aprobación
 
 ```
 approvalProcessID_Mod=notblank
@@ -73,7 +72,7 @@ currentUserApproversMM:ID_Mod=in
 currentUserApproversMM_Join=allowingnull
 ```
 
-## Tarea: Mostrar todas las tareas que he aprobado
+### Tarea: Mostrar todas las tareas que he aprobado
 
 Cree un informe de tarea con los filtros que desee, vaya a la pestaña Filtro y haga clic en Cambiar al modo Texto. Agregue este código a lo que ya esté allí:
 
@@ -83,7 +82,7 @@ approverStatuses:approvedByID=$$USER.ID
 approverStatuses:approvedByID_Mod=in
 ```
 
-## Tarea: Muéstreme todas las tareas que tengan al menos un predecesor entre proyectos
+### Tarea: Muéstreme todas las tareas que tengan al menos un predecesor entre proyectos
 
 ```
 predecessorsMM:ID_Mod=notblank
@@ -91,7 +90,7 @@ predecessorsMM:projectID=FIELD:projectID
 predecessorsMM:projectID_Mod=ne
 ```
 
-## Tarea: Mostrar todas las tareas que asigné a otros
+### Tarea: Mostrar todas las tareas que asigné a otros
 
 Cree un informe de tarea con los filtros que desee, vaya a la pestaña Filtro y haga clic en Cambiar al modo Texto. Agregue este código a lo que ya esté allí:
 
@@ -107,7 +106,7 @@ EXISTS:1:assignedByID=$$USER.ID
 
 Esto le mostrará todas las tareas en las que el usuario que ha iniciado sesión asignó al menos a uno de los usuarios asignados actualmente. Si varias personas asignaron a los usuarios, solo el nombre de la primera persona que asignó a alguien aparecerá como “Solicitado por” en la página de aterrizaje de la tarea.
 
-## Tarea: mostrar todas las tareas completadas, pendiente de aprobación
+### Tarea: mostrar todas las tareas completadas, pendiente de aprobación
 
 ```
 status=CPL:A
@@ -115,7 +114,7 @@ status_Mod=in
 ```
 
 
-## Problema: Mostrar todos los problemas completados y pendientes de aprobación
+### Problema: Mostrar todos los problemas completados y pendientes de aprobación
 
 ```
 status=CPL:A
@@ -123,7 +122,7 @@ status_Mod=in
 ```
 
 
-## Proyecto: Mostrar todos los proyectos completados y pendientes de aprobación
+### Proyecto: Mostrar todos los proyectos completados y pendientes de aprobación
 
 ```
 status=CPL:A
@@ -131,7 +130,7 @@ status_Mod=in
 ```
 
 
-## Nota: Mostrar todos los comentarios en los que estoy etiquetado
+### Nota: Mostrar todos los comentarios en los que estoy etiquetado
 
 ```
 tags:userID=$$USER.ID
@@ -139,7 +138,7 @@ tags:userID_Mod=in
 ```
 
 
-## Informe de parámetros/campo personalizado: muestra los campos personalizados que no están adjuntos a un formulario personalizado (muy útil en los trabajos de limpieza)
+### Informe de parámetros/campo personalizado: muestra los campos personalizados que no están adjuntos a un formulario personalizado (muy útil en los trabajos de limpieza)
 
 ```
 EXISTS:A:$$EXISTSMOD=NOTEXISTS

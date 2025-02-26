@@ -12,10 +12,10 @@ last-substantial-update: 2023-06-20T00:00:00Z
 jira: KT-8854
 exl-id: ba3c0e10-dcf1-4a7b-bf11-ccfed9040e6d
 doc-type: video
-source-git-commit: 6afb57b983b094f9bc0c082a160453ecb394ca8e
+source-git-commit: 2c9e57b8f85c74061bd3e52ef4eaea60bc4ec5bb
 workflow-type: tm+mt
-source-wordcount: '835'
-ht-degree: 97%
+source-wordcount: '827'
+ht-degree: 98%
 
 ---
 
@@ -29,9 +29,8 @@ Este vídeo contiene información sobre:
 
 >[!VIDEO](https://video.tv.adobe.com/v/335148/?quality=12&learn=on)
 
-## Crear actividades de vista básicas
+## Actividades &quot;Crear una vista básica&quot;
 
-[Haga clic aquí](/help/assets/create-basic-view-activities.pdf) para descargar un PDF de esta página.
 
 ### Actividad 1: crear una vista de estado de tareas
 

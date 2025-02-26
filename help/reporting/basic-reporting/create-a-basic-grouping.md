@@ -11,10 +11,10 @@ team: Technical Marketing
 jira: KT-8853
 exl-id: e564b836-29fc-43b8-adef-1465a2f765c9
 doc-type: video
-source-git-commit: 6afb57b983b094f9bc0c082a160453ecb394ca8e
+source-git-commit: 2c9e57b8f85c74061bd3e52ef4eaea60bc4ec5bb
 workflow-type: tm+mt
-source-wordcount: '243'
-ht-degree: 66%
+source-wordcount: '235'
+ht-degree: 68%
 
 ---
 
@@ -28,9 +28,8 @@ Este vídeo contiene información sobre:
 
 >[!VIDEO](https://video.tv.adobe.com/v/335147/?quality=12&learn=on)
 
-## Crear actividades de agrupación básicas
+## Actividades &quot;Crear una agrupación básica&quot;
 
-[Haga clic aquí](/help/assets/create-basic-grouping-activities.pdf) para descargar un PDF de esta página.
 
 ### Actividad 1: Crear una agrupación básica
 

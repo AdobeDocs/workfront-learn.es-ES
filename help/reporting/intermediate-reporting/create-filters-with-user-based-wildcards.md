@@ -11,10 +11,10 @@ team: Technical Marketing
 jira: KT-9081
 exl-id: 46c83acd-6e43-42aa-875f-ae24b09a7fee
 doc-type: video
-source-git-commit: 88c2161e897f23587ccc1d0e867b6f8961927a0f
+source-git-commit: 2c9e57b8f85c74061bd3e52ef4eaea60bc4ec5bb
 workflow-type: tm+mt
-source-wordcount: '357'
-ht-degree: 45%
+source-wordcount: '348'
+ht-degree: 47%
 
 ---
 
@@ -40,9 +40,7 @@ Este vídeo contiene información sobre:
 >Siempre debe utilizar el calificador de filtro Igual al utilizar caracteres comodín basados en el usuario.
 
 
-## Creación de filtros con actividades de comodines basados en usuarios
-
-[Haga clic aquí](/help/assets/create-filters-with-user-based-wildcards-activities.pdf) para descargar un PDF de esta página.
+## Actividades &quot;Crear filtros con comodines basados en usuarios&quot;
 
 ### Actividad 1
 

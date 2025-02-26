@@ -11,10 +11,10 @@ team: Technical Marketing
 jira: KT-9087
 exl-id: 1bb0832e-e888-4154-b78d-24c6d69f629f
 doc-type: video
-source-git-commit: 88c2161e897f23587ccc1d0e867b6f8961927a0f
+source-git-commit: 2c9e57b8f85c74061bd3e52ef4eaea60bc4ec5bb
 workflow-type: tm+mt
-source-wordcount: '207'
-ht-degree: 93%
+source-wordcount: '198'
+ht-degree: 97%
 
 ---
 
@@ -28,11 +28,10 @@ Este vídeo contiene información sobre:
 
 >[!VIDEO](https://video.tv.adobe.com/v/336822/?quality=12&learn=on)
 
-## Crear actividades de mensajes personalizados
+## Actividades &quot;Crear indicadores personalizados&quot;
 
-[Haga clic aquí](/help/assets/create-custom-prompts-activities.pdf) para descargar un PDF de esta página.
 
-## Actividad: Crear mensajes personalizados
+### Actividad: Crear mensajes personalizados
 
 1. Cree un mensaje personalizado que muestre los siguientes estados de proyecto en el menú desplegable de solicitudes:
    * Planificación
@@ -41,7 +40,7 @@ Este vídeo contiene información sobre:
    * Inactivo
 1. Modifique la solicitud para mostrar los proyectos actuales que vencen este mes.
 
-## Respuestas
+### Respuestas
 
 1. Las indicaciones personalizadas deben tener un aspecto similar al siguiente y el siguiente modo de texto:
 

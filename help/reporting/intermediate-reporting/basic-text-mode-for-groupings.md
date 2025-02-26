@@ -11,10 +11,10 @@ team: Technical Marketing
 jira: KT-11369
 exl-id: 5f45c64f-a22b-4983-91fd-9a1939f99fb1
 doc-type: video
-source-git-commit: 88c2161e897f23587ccc1d0e867b6f8961927a0f
+source-git-commit: 2c9e57b8f85c74061bd3e52ef4eaea60bc4ec5bb
 workflow-type: tm+mt
-source-wordcount: '301'
-ht-degree: 94%
+source-wordcount: '292'
+ht-degree: 97%
 
 ---
 
@@ -41,11 +41,9 @@ Este vídeo contiene información sobre:
 
 >[!VIDEO](https://video.tv.adobe.com/v/3410641/?quality=12&learn=on)
 
-## Comprender el modo de texto básico de las actividades de agrupación
+## Actividades &quot;Comprender el modo de texto básico para agrupaciones&quot;
 
-[Haga clic aquí](/help/assets/understand-basic-text-mode-for-groupings-activities.pdf) para descargar un PDF de esta página.
-
-## Tarea: Agrupación de cuatro elementos principales
+### Tarea: Agrupación de cuatro elementos principales
 
 El siguiente modo de texto agrupa tareas basadas en hasta cuatro niveles de elementos principales y deja en blanco los que no existen.
 
@@ -62,7 +60,7 @@ group.0.valueformat=string
 ![Una imagen de pantalla que muestra las tareas del proyecto agrupadas por cuatro elementos principales](assets/4-parents-grouping.png)
 
 
-## Tarea: agrupación de porcentaje completado
+### Tarea: agrupación de porcentaje completado
 
 El siguiente modo de texto agrupa las tareas en función de su porcentaje completado. Cuando se agrupen, las tareas se clasificarán en una de las siguientes categorías:
 
@@ -83,7 +81,7 @@ textmode=true
 
 ![Una imagen de pantalla que muestra las tareas del proyecto agrupadas por porcentaje completado](assets/percent-complete-grouping.png)
 
-## Tarea: statusEquatesWith, a continuación, por estado
+### Tarea: statusEquatesWith, a continuación, por estado
 
 El siguiente modo de texto agrupa las tareas por statusEquatesWith y, a continuación, por estado.
 
@@ -108,7 +106,7 @@ textmode=true
 ![Una imagen de pantalla que muestra las tareas del proyecto agrupadas por statusEquatesWith](assets/status-equates-with.png)
 
 
-## Aprobación de prueba: agrupar por nombre de proyecto
+### Aprobación de prueba: agrupar por nombre de proyecto
 
 ```
 group.0.valueformat=HTML
@@ -119,7 +117,7 @@ group.0.displayname=Project Name
 ![Una imagen de pantalla que muestra las aprobaciones de prueba agrupadas por nombre de proyecto](assets/proof-approvals-grouped-by-project-name.png)
 
 
-## Aprobación de prueba: agrupar por nombre de documento
+### Aprobación de prueba: agrupar por nombre de documento
 
 ```
 group.0.displayname=Document Name

@@ -11,10 +11,10 @@ thumbnail: 335153.png
 jira: KT-8860
 exl-id: ea3b360b-1fbd-4d1a-b505-b75759d24e41
 doc-type: video
-source-git-commit: 6afb57b983b094f9bc0c082a160453ecb394ca8e
+source-git-commit: 2c9e57b8f85c74061bd3e52ef4eaea60bc4ec5bb
 workflow-type: tm+mt
-source-wordcount: '343'
-ht-degree: 88%
+source-wordcount: '334'
+ht-degree: 90%
 
 ---
 
@@ -27,9 +27,7 @@ Este vídeo contiene información sobre:
 
 >[!VIDEO](https://video.tv.adobe.com/v/335155/?quality=12&learn=on)
 
-## Creación de informes con actividades de gráficos
-
-[Haga clic aquí](/help/assets/create-reports-with-charts-activities.pdf) para descargar un PDF de esta página.
+## Actividades &quot;Crear informes con gráficos&quot;
 
 ### Actividad 1: Agregar un gráfico a un informe
 

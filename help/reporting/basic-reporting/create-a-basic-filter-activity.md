@@ -11,16 +11,15 @@ team: Technical Marketing
 jira: KT-8856
 exl-id: fc29b4ce-2937-478e-abd5-0b559657ead0
 doc-type: video
-source-git-commit: 6afb57b983b094f9bc0c082a160453ecb394ca8e
+source-git-commit: 2c9e57b8f85c74061bd3e52ef4eaea60bc4ec5bb
 workflow-type: tm+mt
-source-wordcount: '429'
-ht-degree: 97%
+source-wordcount: '420'
+ht-degree: 100%
 
 ---
 
 # Creación de actividades de filtro básicas
 
-[Haga clic aquí](/help/assets/create-basic-filter-activities.pdf) para descargar un PDF de esta página.
 
 ## Actividad 1: todos los proyectos del portafolio de marketing
 

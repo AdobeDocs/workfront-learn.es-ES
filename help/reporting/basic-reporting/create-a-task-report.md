@@ -11,10 +11,10 @@ thumbnail: 335154.png
 jira: KT-8859
 exl-id: 90bad2e8-9cd2-4ae7-973b-eeab9d615bef
 doc-type: video
-source-git-commit: 6afb57b983b094f9bc0c082a160453ecb394ca8e
+source-git-commit: 2c9e57b8f85c74061bd3e52ef4eaea60bc4ec5bb
 workflow-type: tm+mt
-source-wordcount: '933'
-ht-degree: 98%
+source-wordcount: '925'
+ht-degree: 99%
 
 ---
 
@@ -27,9 +27,6 @@ Este vídeo contiene información sobre:
 
 >[!VIDEO](https://video.tv.adobe.com/v/335154/?quality=12&learn=on)
 
-## Crear actividades de informe de tareas
-
-[Haga clic aquí](/help/assets/create-task-report-activities.pdf) para descargar un PDF de esta página.
 
 >[!TIP]
 >
@@ -37,9 +34,10 @@ Este vídeo contiene información sobre:
 >Hemos recopilado los informes favoritos de los clientes y los hemos reunido en un libro de cocina fácil de digerir para que se lo lleve y lo pruebe en su propia cocina de Workfront.
 >Estos 10 informes proceden de clientes que son como usted. Repartidos por sectores, departamentos, equipos, cargos y todos en empresas diferentes, estamos muy agradecidos a los increíbles clientes que compartieron uno de sus informes favoritos. Algunos informes son simples (pero increíblemente útiles) y otros son más complejos para llevar los informes al siguiente nivel.
 
+## Actividades &quot;Crear un informe de tareas&quot;
 
 
-## Actividad 1: Creación de un informe de notas con instrucciones
+### Actividad 1: Creación de un informe de notas con instrucciones
 
 Cree un informe de Notas que pueda usar para buscar notas del usuario (es decir, comentarios o actualizaciones) o notas del sistema basadas en el contenido, el autor, la fecha de entrada, el nombre del proyecto o el tipo de auditoría. Asigne al informe el nombre “Búsqueda de notas”.
 
@@ -68,7 +66,7 @@ Incluya instrucciones para lo siguiente:
 * Nombre del proyecto
 * Tipo de auditoría
 
-## Respuesta 1
+### Respuesta 1
 
 1. Seleccione **[!UICONTROL Informes]** desde el **[!UICONTROL Menú principal]**.
 1. Haga clic en el menú **[!UICONTROL Nuevo informe]** y seleccione **[!UICONTROL Nota]**.
@@ -111,7 +109,7 @@ Incluya instrucciones para lo siguiente:
 1. Marque la casilla de verificación **[!UICONTROL Mostrar instrucciones en tableros]**.
 1. Guarde y cierre el informe.
 
-## Actividad 2: Crear un informe de comentarios del equipo de administración
+### Actividad 2: Crear un informe de comentarios del equipo de administración
 
 Es un informe de problemas que muestra todos los problemas de una cola de solicitudes de comentarios creada para los administradores del sistema. Puede ver cómo crear esta cola de solicitudes en el tutorial [Creación de una cola de solicitudes de comentarios de administrador del sistema](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/request-queues/create-a-system-admin-feedback-request-queue.html?lang=es).
 
@@ -162,7 +160,7 @@ Filtre por el ID del proyecto de la cola de solicitudes donde residen los proble
 
 
 
-## Respuesta 2
+### Respuesta 2
 
 1. Seleccione **[!UICONTROL Informes]** desde el **[!UICONTROL Menú principal]**.
 1. Haga clic en el menú **[!UICONTROL Nuevo informe]** y seleccione **[!UICONTROL Problema]**.

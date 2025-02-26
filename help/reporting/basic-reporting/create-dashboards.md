@@ -1,6 +1,6 @@
 ---
 title: Creación de paneles
-description: Aprenda a combinar diversos informes de lista, gráficos, calendarios y páginas web externas en un tablero de Workfront.
+description: El objetivo del vídeo es ayudar a los usuarios a crear, personalizar y administrar de forma eficaz los paneles de Workfront para monitorizar y compartir datos relacionados con el proyecto.
 activity: use
 feature: Reports and Dashboards
 type: Tutorial
@@ -11,30 +11,34 @@ thumbnail: 335157.png
 jira: KT-8862
 exl-id: 7adc2aeb-6618-4894-acc3-298e35175854
 doc-type: video
-source-git-commit: 6afb57b983b094f9bc0c082a160453ecb394ca8e
+source-git-commit: 2c9e57b8f85c74061bd3e52ef4eaea60bc4ec5bb
 workflow-type: tm+mt
-source-wordcount: '476'
-ht-degree: 57%
+source-wordcount: '627'
+ht-degree: 34%
 
 ---
 
 # Creación de paneles
 
-Este vídeo contiene información sobre:
+El vídeo trata los siguientes puntos clave:
 
-* Qué es un panel en Workfront
-* Cómo crear un panel
-* Búsqueda y uso de paneles
-* Cómo compartir un panel con otros usuarios de Workfront
-* Cómo imprimir un panel
+* **Introducción a los paneles:** Explica qué es un panel en Workfront y su propósito como una colección de informes relacionados. palo de golf
+* **Creación de un panel:** Guías sobre cómo crear un nuevo panel navegando al área de paneles, seleccionando &quot;Nuevo panel&quot;, poniéndole nombre y eligiendo un diseño. palo de golf
+* **Agregar informes:** muestra cómo agregar varios informes al tablero, como informes de proyectos, informes de tareas e informes de problemas, y cómo organizarlos dentro del diseño elegido. palo de golf
+* **Personalización de vistas:** Muestra cómo personalizar qué columnas se muestran en la vista de panel editando el informe y seleccionando columnas específicas para mostrar. palo de golf
+* **Agregar elementos adicionales:** Explica cómo agregar un calendario personalizado y una página externa (por ejemplo, un documento en línea) al panel. palo de golf
+* **Guardar y fijar:** instrucciones para guardar el tablero y anclarlo para facilitar el acceso. palo de golf
+* **Visualización y edición:** Proporciona sugerencias para ver y editar el tablero, incluido el ajuste de la visibilidad de la columna para una mejor visualización. palo de golf
+* **Búsqueda y uso compartido de paneles:** Describe cómo buscar paneles a través del menú principal, agregarlos a favoritos y compartirlos con otros usuarios. palo de golf
+* **Impresión de paneles:** Explica el proceso de impresión de un panel. palo de golf
+
 
 >[!VIDEO](https://video.tv.adobe.com/v/335157/?quality=12&learn=on)
 
-## Crear actividades de tablero
 
-[Haga clic aquí](/help/assets/create-dashboard-activities.pdf) para descargar un PDF de esta página.
+## Actividades &quot;Crear tablero&quot;
 
-## Actividad 1: Crear un tablero
+### Actividad 1: Crear un tablero
 
 Crear un [!UICONTROL tablero] con un solo informe:&quot;Buscar notas en este proyecto&quot;. Esto es útil para encontrar rápidamente cualquier actualización realizada en un proyecto, incluso si hay miles de actualizaciones para buscar. Esto buscará en los subprocesos de actualización para extraer rápidamente cualquier actualización que cumpla los criterios especificados en los mensajes.
 
@@ -45,7 +49,7 @@ Cree este informe haciendo una copia del informe &quot;Notas de búsqueda&quot; 
 * Vaya a cualquier página de aterrizaje del proyecto y cree una sección personalizada para un [!UICONTROL panel].
 * Tenga en cuenta que cuando busque notas en la sección personalizada, solo mostrará las notas contenidas en el proyecto en el que se encuentra actualmente.
 
-## Respuesta 1
+### Respuesta 1
 
 1. Ejecute el informe que ha creado en la actividad Crear un informe de notas.
 1. Haga clic en **[!UICONTROL Acciones de informe]** y seleccione **[!UICONTROL Copiar]**. [!DNL Workfront] crea un nuevo informe denominado &quot;Búsqueda de notas (copia)&quot;.

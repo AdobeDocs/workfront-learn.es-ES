@@ -11,10 +11,10 @@ team: Technical Marketing
 jira: KT-8855
 exl-id: bf9a4cf4-b073-4f7e-8516-e7843f4dc20f
 doc-type: video
-source-git-commit: 6afb57b983b094f9bc0c082a160453ecb394ca8e
+source-git-commit: 2c9e57b8f85c74061bd3e52ef4eaea60bc4ec5bb
 workflow-type: tm+mt
-source-wordcount: '471'
-ht-degree: 94%
+source-wordcount: '464'
+ht-degree: 95%
 
 ---
 
@@ -29,11 +29,8 @@ Este vídeo contiene información sobre:
 
 >[!VIDEO](https://video.tv.adobe.com/v/335149/?quality=12&learn=on)
 
-## Añadir formato condicional básico a las actividades de una vista
 
-[Haga clic aquí](/help/assets/add-basic-conditional-formatting-to-a-view-activities.pdf) para descargar un PDF de esta página.
-
-### Resumen
+## Resumen de formato condicional
 
 Para crear un formato condicional:
 
@@ -45,6 +42,8 @@ Para crear un formato condicional:
    * Color de texto
    * texto de reemplazo
    * mostrar un icono
+
+## Actividades &quot;Añadir formato condicional básico a una vista&quot;
 
 ### Actividad 1: Agregar formato condicional a una vista
 
