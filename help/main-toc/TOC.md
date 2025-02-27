@@ -1,9 +1,9 @@
 ---
 user-guide-description: Tutoriales de Workfront
-source-git-commit: 6afb57b983b094f9bc0c082a160453ecb394ca8e
+source-git-commit: c2680030e24dd48264be96695d468cd5e751c42b
 workflow-type: tm+mt
-source-wordcount: '2394'
-ht-degree: 99%
+source-wordcount: '2415'
+ht-degree: 98%
 
 ---
 
@@ -330,6 +330,11 @@ ht-degree: 99%
       + [Cálculo del progreso de la meta](/help/workfront-goals/monitor-your-goals/calculate-goal-progress.md)
       + [Comunicar el estado de la meta](/help/workfront-goals/monitor-your-goals/communicate-goal-status.md)
 
++ Planificación de Workfront {#workfront-planning}
+   + [Añadir Planning a la instancia](/help/workfront-planning/add-planning-to-your-instance.md)
+   + [Crear un espacio de trabajo](/help/workfront-planning/create-a-workspace.md)
+   + [Creación y administración de un tipo de registro](/help/workfront-planning/create-and-manage-a-record-type.md)
+   + [Creación y administración de vistas de tabla](/help/workfront-planning/create-and-manage-table-views.md)
 
 + Integraciones {#integrations}
    + Adobe Creative Cloud {#adobe-creative-cloud}
