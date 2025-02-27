@@ -1,6 +1,6 @@
 ---
 title: Crear una plantilla de proyecto y obtener más información acerca de los [!UICONTROL Modelos]
-description: Aprenda a crear una plantilla de proyecto desde cero a partir de un proyecto existente, y comprenda cómo los [!UICONTROL Modelos] le permiten acceder a un mundo de plantillas de proyecto útiles creadas por expertos en Workfront.
+description: El vídeo sobre la creación de plantillas en Workfront muestra cómo crear nuevas plantillas de proyecto, utilizarlas para nuevos proyectos, guardar proyectos existentes como plantillas, utilizar modelos creados previamente y asignar tareas a roles para una administración de recursos eficaz.
 activity: use
 feature: Work Management
 thumbnail: 335210.jpeg
@@ -13,25 +13,34 @@ recommendations: noDisplay,catalog
 jira: KT-8950
 exl-id: 1f706148-c001-42a8-a675-48e91d445f0b
 doc-type: video
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
+source-git-commit: 29500fabca483078e33d39bffee2f48d6fabb91e
 workflow-type: tm+mt
-source-wordcount: '377'
-ht-degree: 100%
+source-wordcount: '640'
+ht-degree: 50%
 
 ---
 
 # Crear una plantilla de proyecto y obtener más información acerca de los [!UICONTROL Modelos]
 
+
 Aprenda a crear una plantilla de proyecto desde cero y a partir de un proyecto existente, y comprenda cómo los [!UICONTROL Modelos] le permiten acceder a un mundo de plantillas de proyecto útiles creadas por expertos en Workfront.
 
 ## Crear una plantilla de proyecto
 
-Este vídeo contiene información sobre:
+* El vídeo proporciona una guía paso a paso para crear y utilizar plantillas para la producción de vídeo de marketing. Comienza explicando cómo crear una nueva plantilla desde cero, cómo ponerle nombre y cómo guardarla. palo de golf El proceso consta de tres pasos principales: crear tareas, configurar la cronología utilizando duraciones y predecesoras y realizar asignaciones a roles en lugar de a usuarios individuales. palo de golf El vídeo enfatiza la organización de tareas utilizando relaciones padre-hijo para una mejor síntesis y eficiencia. palo de golf
+* Una vez creada la plantilla, se puede utilizar para producir nuevos proyectos. El vídeo muestra cómo crear un nuevo proyecto a partir de la plantilla, realizar los ajustes necesarios y agregar tareas o modificar duraciones según sea necesario. palo de golf También muestra cómo asignar funciones de trabajo a tareas mediante las funciones de planificación y programación de recursos. palo de golf
+* En el vídeo se explica cómo guardar un proyecto existente como una plantilla nueva, lo que permite realizar actualizaciones y mejoras en el flujo de trabajo. palo de golf Destaca la importancia de administrar las plantillas para evitar confusiones y garantizar una ejecución del proyecto más ágil. palo de golf
 
-* Crear una plantilla desde cero
-* Crear una plantilla a partir de un proyecto existente
+>[!VIDEO](https://video.tv.adobe.com/v/335210/?quality=12&learn=on)
 
->[!VIDEO](https://video.tv.adobe.com/v/335210/?quality=12&learn=on&enablevpops)
+## Puntos clave
+
+**Creación de una plantilla:** Aprenda a crear una nueva plantilla desde cero asignándole un nombre, configurando tareas, escalas de tiempo y asignando roles. palo de golf
+**Organización de tareas:** Use relaciones de tareas principales y secundarias para organizar las tareas de manera eficiente, proporcionando un resumen y una estructura claros para el proyecto. palo de golf
+**Configuración de escala de tiempo:** Configure las escalas de tiempo de las tareas usando duraciones y predecesoras para estimar el lapso de tiempo y la secuencia de tareas con precisión. palo de golf
+**Asignaciones basadas en roles:** asigne tareas a roles de trabajo en lugar de a usuarios individuales para utilizar las funcionalidades de planificación y programación de recursos de forma eficaz. palo de golf
+**Administración de plantillas:** Guarde los proyectos existentes como nuevas plantillas para incorporar mejoras y administrar las plantillas para evitar confusiones y garantizar una ejecución eficiente del proyecto. palo de golf
+
 
 ## Plantillas creadas con [!UICONTROL Modelos]
 
