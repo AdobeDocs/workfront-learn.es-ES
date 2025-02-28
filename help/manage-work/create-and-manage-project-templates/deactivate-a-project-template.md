@@ -13,10 +13,10 @@ team: Technical Marketing
 jira: KT-14749
 doc-type: video
 exl-id: ad9b9e1e-3d8c-4a0f-8f73-e204047485a6
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
+source-git-commit: 2fbd533ba3acca135e0bba76b2df1bd9a54f2ae7
 workflow-type: tm+mt
 source-wordcount: '125'
-ht-degree: 100%
+ht-degree: 99%
 
 ---
 
@@ -31,7 +31,7 @@ Este vídeo contiene información sobre:
 
 ## Obtenga información sobre cómo crear una vista personalizada para ver y editar el estado activo de las plantillas de proyecto
 
-Para crear una vista de plantillas de proyecto con una columna de estado activo, consulte la actividad **Vista del estado activo de las plantillas de proyecto** en [Crear una vista básica](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-basic-view.html?lang=es).
+Para crear una vista de plantillas de proyecto con una columna de estado activo, consulte la actividad **Vista del estado activo de las plantillas de proyecto** en [Crear una vista básica](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-basic-view#activity-4-create-a-project-template-active-status-view).
 
 ## Tutoriales recomendados sobre este tema
 
