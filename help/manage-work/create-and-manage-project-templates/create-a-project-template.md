@@ -1,6 +1,6 @@
 ---
-title: Crear una plantilla de proyecto y obtener más información acerca de los [!UICONTROL Modelos]
-description: El vídeo sobre la creación de plantillas en Workfront muestra cómo crear nuevas plantillas de proyecto, utilizarlas para nuevos proyectos, guardar proyectos existentes como plantillas, utilizar modelos creados previamente y asignar tareas a roles para una administración de recursos eficaz.
+title: Crear una plantilla de proyecto y obtener información sobre [!UICONTROL modelos]
+description: Aprenda a crear una plantilla de proyecto desde cero a partir de un proyecto existente, y comprenda cómo los [!UICONTROL Modelos] le permiten acceder a un mundo de plantillas de proyecto útiles creadas por expertos en Workfront.
 activity: use
 feature: Work Management
 thumbnail: 335210.jpeg
@@ -13,10 +13,10 @@ recommendations: noDisplay,catalog
 jira: KT-8950
 exl-id: 1f706148-c001-42a8-a675-48e91d445f0b
 doc-type: video
-source-git-commit: 29500fabca483078e33d39bffee2f48d6fabb91e
+source-git-commit: 9e8dfebabd121c4c252298d3e28170f4b7931e19
 workflow-type: tm+mt
-source-wordcount: '640'
-ht-degree: 50%
+source-wordcount: '635'
+ht-degree: 54%
 
 ---
 
