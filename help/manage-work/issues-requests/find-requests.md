@@ -1,6 +1,6 @@
 ---
-title: Búsqueda y administración de solicitudes
-description: El vídeo sobre la administración de solicitudes en la página principal de Workfront muestra cómo utilizar filtros, administrar asignaciones de equipo, crear informes y paneles personalizados, y aclarar el significado de "mi" en diferentes contextos para una administración eficaz de solicitudes.
+title: Buscar y administrar solicitudes
+description: Aprenda a utilizar filtros, administrar asignaciones de equipo, crear informes y paneles personalizados, y aclarar el significado de _my_ en diferentes contextos para una administración eficaz de las solicitudes.
 activity: use
 team: Technical Marketing
 feature: Work Management,Get Started with Workfront
@@ -13,10 +13,10 @@ recommendations: noDisplay,catalog
 doc-type: video
 jira: KT-10143
 exl-id: 45956a0d-d63f-4539-ac65-f2c64a60b4bf
-source-git-commit: 2c9e57b8f85c74061bd3e52ef4eaea60bc4ec5bb
+source-git-commit: b5daeb5775dff69b7f6fe92813ad3ec603b9f8ee
 workflow-type: tm+mt
-source-wordcount: '350'
-ht-degree: 10%
+source-wordcount: '342'
+ht-degree: 9%
 
 ---
 
