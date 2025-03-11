@@ -1,5 +1,5 @@
 ---
-title: Explicación de las cronologías del proyecto
+title: Comprender las escalas de tiempo del proyecto
 description: Aprenda a asignar tareas, utilizar gráficos Gantt y las funciones de ruta crítica, supervisar proyectos mediante vistas, programar tareas de forma eficaz y aplicar restricciones para una planificación óptima de los proyectos.
 activity: use
 feature: Work Management
@@ -13,18 +13,20 @@ recommendations: noDisplay,catalog
 jira: KT-8953
 exl-id: ba993197-9f84-4fc0-86cc-cf849c889f56
 doc-type: video
-source-git-commit: b50279a97388bda48a8e134432415d084b6aec42
+source-git-commit: b31a0e6255d7e298ac95b14c308ca3fa5fb8e1d3
 workflow-type: tm+mt
-source-wordcount: '713'
-ht-degree: 7%
+source-wordcount: '701'
+ht-degree: 6%
 
 ---
 
 # Explicación de las cronologías del proyecto
 
-* El vídeo proporciona información general sobre la planificación y administración de proyectos mediante Workfront. Explica cómo las tareas principales agrupan varias subtareas, que se asignan a roles de trabajo y, posteriormente, a usuarios con las habilidades necesarias. palo de golf Las tareas predecesoras indican relaciones secuenciales entre tareas, mientras que las tareas sin predecesoras se pueden realizar en paralelo. palo de golf El gráfico Gantt ofrece una cronología visual y la función Ruta crítica resalta las tareas que podrían retrasar el proyecto si se retrasan. palo de golf
-* El vídeo también analiza diferentes vistas de Workfront, como la vista estándar para la planificación y la vista de estado para la monitorización del progreso, que incluye indicadores de progreso, comentarios, documentos, problemas, aprobaciones, rutas críticas e hitos. Se puede realizar un seguimiento de la actividad reciente para ver actualizaciones y notas. palo de golf
-* La programación se puede realizar desde una fecha de inicio o de finalización, y Workfront calcula las fechas correspondientes en función de las duraciones de las tareas y sus predecesoras. palo de golf El vídeo recomienda programar desde una fecha de inicio las fechas de finalización esenciales para permitir cierto margen de demora. palo de golf También se tratan las delimitaciones de tareas, como &quot;lo antes posible&quot; y &quot;lo más tarde posible&quot;, lo que muestra cómo afectan a la programación de tareas. palo de golf Se pueden crear vistas personalizadas para mostrar las delimitaciones de las tareas. palo de golf
+Lo que aprenderá:
+
+* Obtenga información general sobre la planificación y administración de proyectos con Workfront. Aprenda cómo las tareas principales agrupan varias subtareas, que se asignan a roles de trabajo y, posteriormente, a usuarios con las habilidades necesarias. Las tareas predecesoras indican relaciones secuenciales entre tareas, mientras que las tareas sin predecesoras se pueden realizar en paralelo. El gráfico Gantt ofrece una cronología visual y la función Ruta crítica resalta las tareas que podrían retrasar el proyecto si se retrasan.
+* Diferentes vistas en Workfront, como la vista estándar para la planificación y la vista de estado para la monitorización del progreso, que incluye indicadores de progreso, comentarios, documentos, problemas, aprobaciones, rutas críticas e hitos. Se puede realizar un seguimiento de la actividad reciente para ver actualizaciones y notas.
+* La programación se puede realizar desde una fecha de inicio o de finalización, y Workfront calcula las fechas correspondientes en función de las duraciones de las tareas y sus predecesoras. El vídeo recomienda programar desde una fecha de inicio las fechas de finalización esenciales para permitir cierto margen de demora. También se tratan las delimitaciones de tareas, como &quot;lo antes posible&quot; y &quot;lo más tarde posible&quot;, lo que muestra cómo afectan a la programación de tareas. Se pueden crear vistas personalizadas para mostrar las delimitaciones de las tareas.
 
 >[!VIDEO](https://video.tv.adobe.com/v/335213/?quality=12&learn=on&enablevpops)
 
