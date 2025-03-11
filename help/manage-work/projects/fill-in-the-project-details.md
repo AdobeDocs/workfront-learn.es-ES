@@ -1,6 +1,6 @@
 ---
 title: Rellene los detalles del proyecto
-description: Obtenga información sobre las configuraciones de proyecto más comunes necesarias al crear un proyecto.
+description: Optimice la eficacia de la administración de proyectos utilizando nombres descriptivos, estableciendo los estados adecuados, eligiendo el modo de programación adecuado, aprovechando las plantillas y los formularios personalizados y administrando los recursos con los conjuntos de recursos y las programaciones.
 activity: use
 team: Technical Marketing
 feature: Work Management
@@ -12,10 +12,10 @@ last-substantial-update: 2024-06-21T00:00:00Z
 recommendations: noDisplay,catalog
 jira: KT-10140
 exl-id: a62b9421-627a-4f23-ab66-da1f29114225
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
+source-git-commit: e2875475de268e69ca59e7cc7253987bdd195b1d
 workflow-type: tm+mt
-source-wordcount: '69'
-ht-degree: 100%
+source-wordcount: '210'
+ht-degree: 27%
 
 ---
 
@@ -23,7 +23,16 @@ ht-degree: 100%
 
 En este vídeo, aprenderá las configuraciones de proyecto más comunes necesarias al crear un proyecto.
 
+
 >[!VIDEO](https://video.tv.adobe.com/v/3430410/?quality=12&learn=on&enablevpops)
+
+## Puntos clave
+
+* **Usar nombres de proyecto descriptivos:** Evite confusiones al nombrar proyectos de forma descriptiva en lugar de usar títulos genéricos. palo de golf La organización de proyectos en portafolios y programas mejora la creación de informes y la coherencia. palo de golf
+* **Establecer estado de proyecto apropiado:** Comience con el estado &quot;Planificación&quot; al crear un proyecto y, a continuación, cambie a &quot;Actual&quot; cuando el proyecto se ponga en marcha. palo de golf Los estados no &quot;Actuales&quot; pausan las notificaciones, lo que permite la replanificación sin interrupciones. palo de golf
+* **Aprovechar plantillas y Forms personalizado:** Use plantillas de proyecto para formularios personalizados y de coherencia para almacenar datos de proyecto únicos. palo de golf Estas herramientas simplifican la configuración y garantizan la captura de información esencial.
+* **Utilizar conjuntos y programas de recursos:** Asigne conjuntos de recursos a proyectos para administrar los recursos de forma eficaz y aplique el horario correcto para reflejar los días laborables, las horas y los días festivos. palo de golf Esto garantiza la ejecución sin problemas del proyecto y la asignación de recursos.
+
 
 
 ## Tutoriales y artículos recomendados sobre este tema
