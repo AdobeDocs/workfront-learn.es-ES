@@ -1,6 +1,6 @@
 ---
 title: Introducción a la planificación de un proyecto
-description: Conozca los cinco componentes principales de un proyecto, lo que significa el estado, cómo una [!UICONTROL Vista] puede ayudarle a ver la información relevante y a configurar la fecha de inicio o de vencimiento.
+description: Optimice la planificación de proyectos centrándose en los campos clave, estableciendo el estado en "Planificación", utilizando las vistas adecuadas, seleccionando fechas de inicio realistas y aprovechando los modos de programación para obtener plazos precisos.
 activity: use
 feature: Work Management,Get Started with Workfront
 thumbnail: 335086.jpeg
@@ -12,23 +12,30 @@ recommendations: noDisplay,catalog
 jira: KT-8772
 exl-id: 6df467a3-6e26-4bd4-94ac-b77cd43b5aa3
 doc-type: video
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
+source-git-commit: 89691410598cf9a8246db71b6108a4442901722d
 workflow-type: tm+mt
-source-wordcount: '106'
-ht-degree: 100%
+source-wordcount: '320'
+ht-degree: 12%
 
 ---
 
 # Introducción a la planificación de un proyecto
 
-Este vídeo contiene información sobre:
-
-* Los cinco componentes principales de un proyecto
-* Lo que significa el estado de Planificación
-* Cómo puede ayudarle una [!UICONTROL Vista] a ver la información que necesita
-* Cómo establecer la fecha de inicio o finalización
+* El vídeo proporciona instrucciones sobre cómo planificar eficazmente un proyecto en Workfront. palo de golf Hace hincapié en la importancia de sentar una base sólida para garantizar que el proyecto finalice a tiempo y tenga éxito. palo de golf Los pasos clave incluyen comprender cinco campos esenciales: Tareas, Asignaciones, Duraciones, Horas planificadas y Predecesoras. palo de golf Estos campos permiten realizar ajustes rápidos y precisos en el plan del proyecto. palo de golf
+* Antes de realizar cambios, asegúrese de que el estado del proyecto se establece en &quot;Planificación&quot; para evitar notificaciones innecesarias al equipo. palo de golf Utilice la vista estándar o las vistas personalizadas para centrarse en información esencial. palo de golf Establezca con precisión la fecha de inicio del proyecto, asegurándose de que sea realista y se ajuste a la disponibilidad del equipo.
+* El vídeo destaca la importancia de contar con plazos realistas, disponibilidad del equipo y una planificación precisa para crear una base sólida para el éxito del proyecto. palo de golf
 
 >[!VIDEO](https://video.tv.adobe.com/v/335086/?quality=12&learn=on&enablevpops)
+
+## Puntos clave
+
+* **Céntrese en cinco campos clave:** Comprenda las tareas, las asignaciones, las duraciones, las horas planificadas y las tareas predecesoras para realizar cambios eficientes y precisos en el plan del proyecto. palo de golf
+* **Establecer el estado del proyecto en &quot;Planificación&quot;:** Asegúrese de que el estado del proyecto se establece en &quot;Planificación&quot; para evitar notificaciones innecesarias al ajustar el plan. palo de golf
+* **Usar vistas adecuadas:** Utilizar la vista estándar o las vistas personalizadas para centrarse en los detalles esenciales del proyecto, como tareas, duraciones y asignaciones. palo de golf
+* **Elija una fecha de inicio realista:** Establezca una fecha de inicio práctica que se ajuste a la disponibilidad del equipo y evite escenarios poco realistas, como vacaciones o fines de semana. palo de golf
+* **Aprovechar los modos de programación:** Utilice el modo &quot;Fecha de inicio&quot; para calcular la fecha de finalización o el modo &quot;Fecha de finalización&quot; para calcular la fecha de inicio, asegurándose de que la cronología se ajuste a los requisitos del proyecto. palo de golf
+
+
 
 ## Tutoriales recomendados sobre este tema
 

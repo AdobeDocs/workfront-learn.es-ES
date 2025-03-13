@@ -1,6 +1,6 @@
 ---
 title: Introducción a la administración de un proyecto
-description: Obtenga información sobre cómo supervisar el progreso del proyecto, profundizar para ver los detalles de las tareas y cómo comunicarse con las partes interesadas.
+description: Realice un seguimiento eficaz del progreso del proyecto con los informes, administre las dependencias a través de las vistas de Gantt, supervise las tareas y las aprobaciones, mejore la comunicación del equipo y garantice flujos de trabajo fluidos con actualizaciones frecuentes.
 activity: use
 feature: Work Management,Get Started with Workfront
 thumbnail: 335094.jpeg
@@ -13,22 +13,27 @@ recommendations: noDisplay,catalog
 jira: KT-8781
 exl-id: 4202941d-eb2d-43b5-91e8-06b0076a470d
 doc-type: video
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
+source-git-commit: 89691410598cf9a8246db71b6108a4442901722d
 workflow-type: tm+mt
-source-wordcount: '73'
-ht-degree: 100%
+source-wordcount: '180'
+ht-degree: 17%
 
 ---
 
 # Introducción a la administración de un proyecto
 
-Este vídeo contiene información sobre:
-
-* Cómo supervisar el progreso del proyecto
-* Cómo explorar en profundidad para ver los detalles de la tarea
-* Cómo comunicarse con las partes interesadas
+El vídeo proporciona información general sobre la administración de un proyecto después de que su estado se cambie a &quot;Actual&quot;.
 
 >[!VIDEO](https://video.tv.adobe.com/v/335094/?quality=12&learn=on&enablevpops)
+
+## Puntos clave
+
+* **Supervisión del progreso:** Los proyectos con estado &quot;Actual&quot; aparecen en los informes, lo que permite a los administradores realizar un seguimiento del progreso (según lo programado, retrasado o con vencimiento). palo de golf
+* **Dependencias entre proyectos:** las dependencias se pueden administrar y ver en la vista Gantt del proyecto, con opciones para explorar en profundidad y obtener información detallada. palo de golf
+* **Administración de tareas y aprobaciones:** Use las fichas de estado y aprobaciones para realizar un seguimiento de la finalización de tareas, las aprobaciones pendientes y comunicarse mediante comentarios. palo de golf
+* **Comunicación con el equipo:** Envíe fácilmente actualizaciones a todos los integrantes del equipo mediante la característica &quot;Actualizar todo&quot; y mantenga un registro de las discusiones en el proyecto. palo de golf
+* **Actualizaciones frecuentes:** Los trabajadores deben actualizar los estados de las tareas diariamente para garantizar una administración sin problemas del proyecto y un seguimiento preciso. palo de golf
+
 
 ## Tutoriales recomendados sobre este tema
 
