@@ -13,7 +13,7 @@ recommendations: noDisplay,catalog
 jira: KT-15115
 exl-id: 2d894587-60ad-4d1e-961f-886a8accfb17
 doc-type: video
-source-git-commit: 89691410598cf9a8246db71b6108a4442901722d
+source-git-commit: 0365d4500823639edc167ab296efcb8b0b2291ad
 workflow-type: tm+mt
 source-wordcount: '173'
 ht-degree: 21%
@@ -28,11 +28,11 @@ En este vídeo, aprenderá algunas formas rápidas y sencillas de encontrar proy
 
 ## Puntos clave
 
-**Filtros y opciones de búsqueda:** Use filtros y herramientas de búsqueda, incluida la Búsqueda avanzada, para localizar rápidamente proyectos específicos basados en nombres, descripciones o campos de datos personalizados. palo de golf
-**Lista de recientes:** Los proyectos vistos recientemente aparecen automáticamente en la lista Recientes, que puede mostrar hasta 20 proyectos para acceso rápido. palo de golf
-**Favoritos:** Marque los proyectos como favoritos al hacer clic en el icono de estrella. palo de golf Los favoritos siguen siendo accesibles hasta que se eliminan manualmente, lo que los hace ideales para los proyectos a los que se accede con frecuencia. palo de golf
-**Anclar proyectos:** Anclar proyectos para que sean fácilmente accesibles. palo de golf Los proyectos anclados permanecen visibles hasta que se desanclan.
-**Informes y paneles personalizados:** Cree informes y paneles personalizados para organizar y acceder a todos los proyectos relevantes de forma eficaz. palo de golf
+* **Filtros y opciones de búsqueda:** Use filtros y herramientas de búsqueda, incluida la Búsqueda avanzada, para localizar rápidamente proyectos específicos basados en nombres, descripciones o campos de datos personalizados. palo de golf
+* **Lista de recientes:** Los proyectos vistos recientemente aparecen automáticamente en la lista Recientes, que puede mostrar hasta 20 proyectos para acceso rápido. palo de golf
+* **Favoritos:** Marque los proyectos como favoritos al hacer clic en el icono de estrella. palo de golf Los favoritos siguen siendo accesibles hasta que se eliminan manualmente, lo que los hace ideales para los proyectos a los que se accede con frecuencia. palo de golf
+* **Anclar proyectos:** Anclar proyectos para que sean fácilmente accesibles. palo de golf Los proyectos anclados permanecen visibles hasta que se desanclan.
+* **Informes y paneles personalizados:** Cree informes y paneles personalizados para organizar y acceder a todos los proyectos relevantes de forma eficaz. palo de golf
 
 
 ## Tutoriales recomendados sobre este tema

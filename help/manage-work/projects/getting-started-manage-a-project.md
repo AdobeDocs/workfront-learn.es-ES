@@ -13,9 +13,9 @@ recommendations: noDisplay,catalog
 jira: KT-8781
 exl-id: 4202941d-eb2d-43b5-91e8-06b0076a470d
 doc-type: video
-source-git-commit: 89691410598cf9a8246db71b6108a4442901722d
+source-git-commit: 0365d4500823639edc167ab296efcb8b0b2291ad
 workflow-type: tm+mt
-source-wordcount: '180'
+source-wordcount: '176'
 ht-degree: 17%
 
 ---
@@ -28,10 +28,10 @@ El vídeo proporciona información general sobre la administración de un proyec
 
 ## Puntos clave
 
-* **Supervisión del progreso:** Los proyectos con estado &quot;Actual&quot; aparecen en los informes, lo que permite a los administradores realizar un seguimiento del progreso (según lo programado, retrasado o con vencimiento). palo de golf
-* **Dependencias entre proyectos:** las dependencias se pueden administrar y ver en la vista Gantt del proyecto, con opciones para explorar en profundidad y obtener información detallada. palo de golf
-* **Administración de tareas y aprobaciones:** Use las fichas de estado y aprobaciones para realizar un seguimiento de la finalización de tareas, las aprobaciones pendientes y comunicarse mediante comentarios. palo de golf
-* **Comunicación con el equipo:** Envíe fácilmente actualizaciones a todos los integrantes del equipo mediante la característica &quot;Actualizar todo&quot; y mantenga un registro de las discusiones en el proyecto. palo de golf
+* **Supervisión del progreso:** Los proyectos con estado &quot;Actual&quot; aparecen en los informes, lo que permite a los administradores realizar un seguimiento del progreso (según lo programado, retrasado o con vencimiento).
+* **Dependencias entre proyectos:** las dependencias se pueden administrar y ver en la vista Gantt del proyecto, con opciones para explorar en profundidad y obtener información detallada.
+* **Administración de tareas y aprobaciones:** Use las fichas de estado y aprobaciones para realizar un seguimiento de la finalización de tareas, las aprobaciones pendientes y comunicarse mediante comentarios.
+* **Comunicación con el equipo:** Envíe fácilmente actualizaciones a todos los integrantes del equipo mediante la característica &quot;Actualizar todo&quot; y mantenga un registro de las discusiones en el proyecto.
 * **Actualizaciones frecuentes:** Los trabajadores deben actualizar los estados de las tareas diariamente para garantizar una administración sin problemas del proyecto y un seguimiento preciso. palo de golf
 
 
