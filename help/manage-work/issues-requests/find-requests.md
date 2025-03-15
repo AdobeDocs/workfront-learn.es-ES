@@ -1,6 +1,6 @@
 ---
 title: Buscar y administrar solicitudes
-description: Aprenda a utilizar filtros, administrar asignaciones de equipo, crear informes y paneles personalizados, y aclarar el significado de _my_ en diferentes contextos para una administración eficaz de las solicitudes.
+description: Aprenda a utilizar filtros, administrar asignaciones de equipo, crear informes y paneles personalizados, y aclarar el significado de "mi" en diferentes contextos para una administración eficaz de las solicitudes.
 activity: use
 team: Technical Marketing
 feature: Work Management,Get Started with Workfront
@@ -13,7 +13,7 @@ recommendations: noDisplay,catalog
 doc-type: video
 jira: KT-10143
 exl-id: 45956a0d-d63f-4539-ac65-f2c64a60b4bf
-source-git-commit: b5daeb5775dff69b7f6fe92813ad3ec603b9f8ee
+source-git-commit: 06d6b06e2dfcd54a172d220fdb3996a7949348d1
 workflow-type: tm+mt
 source-wordcount: '342'
 ht-degree: 9%

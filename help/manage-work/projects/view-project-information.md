@@ -1,6 +1,6 @@
 ---
 title: Ver información del proyecto
-description: Descubra cómo los filtros, las vistas y las agrupaciones pueden hacer que la información del proyecto sea fácilmente visible para ayudarle a administrar los proyectos.
+description: Optimice los flujos de trabajo de los proyectos con filtros personalizables, vistas detalladas, agrupaciones eficientes, herramientas de administración de tareas y funciones de seguimiento de problemas para una organización y una claridad mejoradas.
 activity: use
 team: Technical Marketing
 feature: Work Management,Get Started with Workfront
@@ -12,22 +12,39 @@ last-substantial-update: 2024-05-01T00:00:00Z
 recommendations: noDisplay,catalog
 jira: KT-10145
 exl-id: e89be0d0-4584-4985-8a6f-177ea6c5b951
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
+source-git-commit: 06d6b06e2dfcd54a172d220fdb3996a7949348d1
 workflow-type: tm+mt
-source-wordcount: '64'
-ht-degree: 100%
+source-wordcount: '417'
+ht-degree: 5%
 
 ---
 
 # Ver información del proyecto
 
-En este vídeo, aprenderá a utilizar filtros, vistas y agrupaciones para ver:
+Este vídeo proporciona información general sobre los filtros, las vistas y las agrupaciones en Workfront para ayudar a los usuarios a administrar y analizar proyectos, tareas y problemas de forma eficaz. palo de golf Los puntos clave incluyen:
 
-* Información a nivel de proyecto
-* Información a nivel de tarea
-* Información a nivel de problema
+* **Filtros de proyecto:** Los filtros se pueden personalizar para reducir las listas de proyectos. palo de golf Algunos ejemplos son &quot;Proyectos de mi propiedad&quot;, &quot;Proyectos en los que participo&quot;, &quot;Actual&quot; y &quot;Retrasado de lo programado&quot;. Los filtros como &quot;En riesgo&quot; y &quot;Retrasado de programación&quot; se explican en detalle, mostrando cómo se basan en diferentes campos.
+* **Vistas del proyecto:** Las vistas muestran varios detalles del proyecto, como las fechas planificadas, proyectadas y reales de inicio y finalización. palo de golf Algunos ejemplos son &quot;Vista estándar&quot;, &quot;Vista de todas las fechas&quot; y &quot;Vista de historia real&quot;, que proporciona actualizaciones de condición y resúmenes. palo de golf
+* **Agrupaciones de proyectos:** Los proyectos se pueden agrupar por campos como estado de progreso o fecha de finalización mensual, lo que permite una mejor organización y análisis. palo de golf
+* **Filtros de tareas:** Los filtros ayudan a identificar tareas sin asignar o tareas relevantes para roles específicos. palo de golf Al borrar los filtros, se muestra la estructura de tareas principal, y la ordenación se puede ajustar por número de tarea. palo de golf
+* **Vistas de tareas:** Las vistas como &quot;Vista de estado&quot; muestran los estados de las tareas y los indicadores de progreso, comentarios, documentos, problemas, aprobaciones, rutas críticas e hitos.
+* **Agrupaciones de tareas:** De forma similar a las agrupaciones de proyectos, las tareas se pueden agrupar por campos como el estado de progreso. palo de golf
+* **Problemas:** Los filtros, vistas y agrupaciones de problemas son similares a los de los proyectos y tareas. palo de golf Las vistas populares incluyen &quot;Información de entrada&quot; y agrupaciones como &quot;Contacto principal&quot; ayudan a organizar los problemas. palo de golf
+
+El vídeo destaca la personalización y proporciona vínculos a tutoriales para un aprendizaje posterior. palo de golf
 
 >[!VIDEO](https://video.tv.adobe.com/v/3428815/?quality=12&learn=on&enablevpops)
+
+## Puntos clave
+
+* **Filtros personalizables:** Los filtros como &quot;Proyectos de mi propiedad&quot; y &quot;Retrasados de la programación&quot; ayudan a reducir las listas de proyectos, y los usuarios pueden personalizar o apilar filtros para obtener resultados más específicos. palo de golf
+* **Vistas detalladas:** Las vistas como &quot;Vista de todas las fechas&quot; y &quot;Vista de historia real&quot; proporcionan información sobre las fechas planificadas, proyectadas y reales, así como resúmenes de proyectos y actualizaciones de condiciones. palo de golf
+* **Agrupaciones eficientes:** Los proyectos y las tareas se pueden agrupar por campos como el estado de progreso o la fecha de finalización, lo que permite una mejor organización y análisis. palo de golf
+* **Administración de tareas:** Los filtros y vistas de tareas, como &quot;Vista de estado&quot;, ayudan a identificar tareas sin asignar, rastrear el progreso y acceder a detalles relevantes como comentarios, documentos e hitos. palo de golf
+* **Seguimiento de problemas:** Los filtros, las vistas y las agrupaciones de problemas, como &quot;Información de entrada&quot; y &quot;Contacto principal&quot;, agilizan la administración de problemas y aclaran los plazos y contactos de envío. palo de golf
+
+
+
 
 ## Tutoriales recomendados sobre este tema
 

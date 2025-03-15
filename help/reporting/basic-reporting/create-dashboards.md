@@ -11,10 +11,10 @@ thumbnail: 335157.png
 jira: KT-8862
 exl-id: 7adc2aeb-6618-4894-acc3-298e35175854
 doc-type: video
-source-git-commit: 2c9e57b8f85c74061bd3e52ef4eaea60bc4ec5bb
+source-git-commit: 06d6b06e2dfcd54a172d220fdb3996a7949348d1
 workflow-type: tm+mt
-source-wordcount: '627'
-ht-degree: 34%
+source-wordcount: '645'
+ht-degree: 33%
 
 ---
 
@@ -51,7 +51,7 @@ Cree este informe haciendo una copia del informe &quot;Notas de búsqueda&quot; 
 
 ### Respuesta 1
 
-1. Ejecute el informe que ha creado en la actividad Crear un informe de notas.
+1. Ejecute el informe que ha creado en la actividad Crear un informe de notas. ¿Aún no lo ha creado? Haga clic aquí para ver la actividad en el tutorial [Crear un informe de tareas](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-task-report#activity-1-create-a-note-report-with-prompts).
 1. Haga clic en **[!UICONTROL Acciones de informe]** y seleccione **[!UICONTROL Copiar]**. [!DNL Workfront] crea un nuevo informe denominado &quot;Búsqueda de notas (copia)&quot;.
 1. Vaya a **[!UICONTROL Acciones de informe]** y seleccione **[!UICONTROL Editar]**. Haga clic en **[!UICONTROL Configuración de informes]** y cambie el nombre a &quot;Buscar notas en este proyecto&quot;.
 1. Haga clic en [!UICONTROL Mensajes del informe] y elimine el mensaje [!UICONTROL Proyecto] > [!UICONTROL Nombre] de la lista.

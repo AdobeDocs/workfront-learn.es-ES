@@ -1,6 +1,6 @@
 ---
 title: Seguimiento del progreso general del proyecto
-description: Conozca cinco formas rápidas de rastrear el progreso general del proyecto.
+description: Rastree el progreso del proyecto en Workfront con cálculos de porcentaje completado, fechas planificadas frente a proyectadas, estado de la condición, administración de problemas pendientes y actualizaciones semanales para un seguimiento del proyecto claro y oportuno.
 activity: use
 team: Technical Marketing
 feature: Work Management,Get Started with Workfront
@@ -12,24 +12,29 @@ last-substantial-update: 2024-04-25T00:00:00Z
 recommendations: noDisplay,catalog
 jira: KT-10149
 exl-id: 03ebbbaf-0f8a-43ff-b682-9766aca25741
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
+source-git-commit: 06d6b06e2dfcd54a172d220fdb3996a7949348d1
 workflow-type: tm+mt
-source-wordcount: '67'
-ht-degree: 100%
+source-wordcount: '247'
+ht-degree: 12%
 
 ---
 
 # Seguimiento del progreso general del proyecto
 
-En este vídeo aprenderá a comunicarse con todas las partes interesadas del proyecto mediante lo siguiente:
+En el vídeo se explica cómo realizar un seguimiento del progreso general del proyecto mediante varios indicadores en Workfront, como Porcentaje completado, Fechas proyectadas, Condición y estado de progreso, Problemas pendientes y la columna Actualización de condición.
 
-* Porcentaje completado
-* Fechas proyectadas
-* Condición y estado de progreso
-* Problemas pendientes
-* Columna Actualización de la condición
+El vídeo destaca la importancia de las actualizaciones regulares por parte de los miembros del equipo y de la administración proactiva de problemas para garantizar un seguimiento preciso y la finalización oportuna del proyecto. palo de golf
 
 >[!VIDEO](https://video.tv.adobe.com/v/3428748/?quality=12&learn=on&enablevpops)
+
+## Puntos clave
+
+* **Cálculo de porcentaje completado:** El progreso general del proyecto se calcula en función de los valores de porcentaje completado de tareas individuales, ponderados por su duración o las horas planificadas. palo de golf
+* **Fechas planificadas vs. proyectadas:** Workfront calcula las fechas de inicio/finalización planificadas y proyectadas en función de las duraciones de las tareas y sus predecesoras. palo de golf Las discrepancias entre estas fechas indican posibles retrasos. palo de golf
+* **Estado de condición del proyecto:** El campo de condición (por ejemplo, En destino, En riesgo, En problemas) refleja el estado del proyecto y se puede establecer de forma manual o automática mediante el modo de estado de progreso. palo de golf
+* **Administración de problemas pendientes:** Los problemas abiertos indican posibles riesgos. palo de golf Para mantener los plazos de los proyectos es esencial revisarlos y convertirlos rápidamente en tareas. palo de golf
+* **Columna de actualización de condición:** Las actualizaciones semanales del jefe de proyecto en la columna de actualización de condición proporcionan un resumen claro del progreso y ayudan a realizar un seguimiento de los últimos desarrollos. palo de golf
+
 
 ## Tutoriales recomendados sobre este tema
 
