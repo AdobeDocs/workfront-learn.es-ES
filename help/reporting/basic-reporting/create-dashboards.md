@@ -1,6 +1,6 @@
 ---
 title: Creación de paneles
-description: El objetivo del vídeo es ayudar a los usuarios a crear, personalizar y administrar de forma eficaz los paneles de Workfront para monitorizar y compartir datos relacionados con el proyecto.
+description: Organice y muestre los datos del proyecto con los paneles de Workfront, que se pueden personalizar, acceder fácilmente, compartir e imprimir para una administración y colaboración de proyectos sin problemas.
 activity: use
 feature: Reports and Dashboards
 type: Tutorial
@@ -11,29 +11,27 @@ thumbnail: 335157.png
 jira: KT-8862
 exl-id: 7adc2aeb-6618-4894-acc3-298e35175854
 doc-type: video
-source-git-commit: 06d6b06e2dfcd54a172d220fdb3996a7949348d1
+source-git-commit: 1f6f333f919aacd8ed94ba1aae434d8a80c91314
 workflow-type: tm+mt
-source-wordcount: '645'
+source-wordcount: '635'
 ht-degree: 33%
 
 ---
 
 # Creación de paneles
 
-El vídeo trata los siguientes puntos clave:
-
-* **Introducción a los paneles:** Explica qué es un panel en Workfront y su propósito como una colección de informes relacionados. palo de golf
-* **Creación de un panel:** Guías sobre cómo crear un nuevo panel navegando al área de paneles, seleccionando &quot;Nuevo panel&quot;, poniéndole nombre y eligiendo un diseño. palo de golf
-* **Agregar informes:** muestra cómo agregar varios informes al tablero, como informes de proyectos, informes de tareas e informes de problemas, y cómo organizarlos dentro del diseño elegido. palo de golf
-* **Personalización de vistas:** Muestra cómo personalizar qué columnas se muestran en la vista de panel editando el informe y seleccionando columnas específicas para mostrar. palo de golf
-* **Agregar elementos adicionales:** Explica cómo agregar un calendario personalizado y una página externa (por ejemplo, un documento en línea) al panel. palo de golf
-* **Guardar y fijar:** instrucciones para guardar el tablero y anclarlo para facilitar el acceso. palo de golf
-* **Visualización y edición:** Proporciona sugerencias para ver y editar el tablero, incluido el ajuste de la visibilidad de la columna para una mejor visualización. palo de golf
-* **Búsqueda y uso compartido de paneles:** Describe cómo buscar paneles a través del menú principal, agregarlos a favoritos y compartirlos con otros usuarios. palo de golf
-* **Impresión de paneles:** Explica el proceso de impresión de un panel. palo de golf
-
+El vídeo proporciona una guía completa para comprender y utilizar los paneles en Workfront.
+palo de golfEn él se explica que un tablero es una colección de informes que permite a los usuarios organizar y mostrar los datos relacionados en un solo lugar.
 
 >[!VIDEO](https://video.tv.adobe.com/v/335157/?quality=12&learn=on)
+
+## Puntos clave
+
+**Paneles en Workfront:** Un panel es una colección de informes que permite a los usuarios organizar y mostrar datos relacionados, como proyectos, tareas y problemas, en una vista centralizada. palo de golf
+**Creación de paneles:** Los paneles se pueden personalizar seleccionando un diseño, agregando informes, calendarios personalizados o páginas externas y organizándolos para que tengan una visualización óptima. palo de golf Los usuarios también pueden personalizar qué columnas aparecen en informes en paralelo dentro del panel. palo de golf
+**Acceso a los paneles:** Los paneles se encuentran en &quot;Mis paneles&quot;, &quot;Paneles compartidos&quot; o &quot;Todos los paneles&quot; en el área de Paneles. palo de golf Los paneles que se utilizan con más frecuencia se pueden anclar o agregar a Favoritos para acceder rápidamente a ellos. palo de golf
+**Compartir tableros:** Los tableros se pueden compartir con otros usuarios de Workfront, incluidos todos los informes incluidos en el tablero, a través del menú &quot;Acciones de tablero&quot;. palo de golf
+**Impresión de paneles:** Los paneles se pueden imprimir directamente desde el menú &quot;Acciones de panel&quot;, lo que facilita el uso compartido de copias físicas de los datos. palo de golf
 
 
 ## Actividades &quot;Crear tablero&quot;

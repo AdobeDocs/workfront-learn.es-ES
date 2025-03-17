@@ -13,18 +13,16 @@ recommendations: noDisplay,catalog
 jira: KT-14781
 doc-type: video
 exl-id: a29003cb-9df0-4806-8395-80ff1fd4efd8
-source-git-commit: 06d6b06e2dfcd54a172d220fdb3996a7949348d1
+source-git-commit: 1f6f333f919aacd8ed94ba1aae434d8a80c91314
 workflow-type: tm+mt
 source-wordcount: '220'
-ht-degree: 20%
+ht-degree: 11%
 
 ---
 
 # Información sobre el equipo del proyecto
 
-Este vídeo contiene información sobre:
-
-* Para qué se puede utilizar el equipo del proyecto y cómo mantenerlo
+En este vídeo, aprenderá para qué se puede utilizar el equipo del proyecto y cómo mantenerlo.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3427227/?quality=12&learn=on&enablevpops)
 

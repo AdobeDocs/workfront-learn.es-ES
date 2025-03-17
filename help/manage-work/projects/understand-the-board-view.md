@@ -12,7 +12,7 @@ last-substantial-update: 2024-02-13T00:00:00Z
 recommendations: noDisplay,catalog
 jira: KT-13743
 exl-id: f28cbb99-ef14-4ef2-96c8-d5e01d609ede
-source-git-commit: 06d6b06e2dfcd54a172d220fdb3996a7949348d1
+source-git-commit: 1f6f333f919aacd8ed94ba1aae434d8a80c91314
 workflow-type: tm+mt
 source-wordcount: '298'
 ht-degree: 10%
@@ -27,11 +27,11 @@ En el vídeo se explica la función de vista de tablero de Workfront, que propor
 
 ## Puntos clave
 
-**Información general sobre la vista de tablero:** La vista de tablero de Workfront ofrece una interfaz de estilo Kanban para ver y administrar tareas de proyecto, lo que proporciona una alternativa a la vista tradicional de la lista de tareas. palo de golf
-**Administración de tareas:** Las tareas se pueden ordenar, agrupar y mover dentro o entre columnas, con actualizaciones de estado aplicadas automáticamente cuando se mueven tareas. palo de golf
-**Creación de tareas:** Las nuevas tarjetas se pueden crear directamente en la vista del tablero, lo que genera nuevas tareas en el proyecto. palo de golf Estas tareas se pueden editar y asignar inmediatamente. palo de golf
-**Personalización:** Las columnas y tarjetas de la vista del tablero se pueden configurar para adaptarse a las necesidades del proyecto, lo que mejora la flexibilidad en la organización de tareas. palo de golf
-**Integración con la lista de tareas:** Los cambios realizados en la vista del tablero, como las actualizaciones de estado de las tareas o la creación de nuevas tareas, se reflejan en la vista de lista de tareas, lo que garantiza una integración perfecta entre las vistas. palo de golf
+* **Información general sobre la vista de tablero:** La vista de tablero de Workfront ofrece una interfaz de estilo Kanban para ver y administrar tareas de proyecto, lo que proporciona una alternativa a la vista tradicional de la lista de tareas. palo de golf
+* **Administración de tareas:** Las tareas se pueden ordenar, agrupar y mover dentro o entre columnas, con actualizaciones de estado aplicadas automáticamente cuando se mueven tareas. palo de golf
+* **Creación de tareas:** Las nuevas tarjetas se pueden crear directamente en la vista del tablero, lo que genera nuevas tareas en el proyecto. palo de golf Estas tareas se pueden editar y asignar inmediatamente. palo de golf
+* **Personalización:** Las columnas y tarjetas de la vista del tablero se pueden configurar para adaptarse a las necesidades del proyecto, lo que mejora la flexibilidad en la organización de tareas. palo de golf
+* **Integración con la lista de tareas:** Los cambios realizados en la vista del tablero, como las actualizaciones de estado de las tareas o la creación de nuevas tareas, se reflejan en la vista de lista de tareas, lo que garantiza una integración perfecta entre las vistas. palo de golf
 
 
 ## Tutoriales recomendados sobre este tema

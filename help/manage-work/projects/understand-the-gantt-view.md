@@ -12,7 +12,7 @@ last-substantial-update: 2023-05-11T00:00:00Z
 recommendations: noDisplay,catalog
 jira: KT-10144
 exl-id: 9f9cf889-8be5-43e2-88ab-52b1c35603ec
-source-git-commit: 06d6b06e2dfcd54a172d220fdb3996a7949348d1
+source-git-commit: 1f6f333f919aacd8ed94ba1aae434d8a80c91314
 workflow-type: tm+mt
 source-wordcount: '363'
 ht-degree: 12%
@@ -46,11 +46,11 @@ Puede obtener más información con el artículo en línea [Introducción al gr�
 
 ## Puntos clave
 
-**Vista general:** los gráficos Gantt proporcionan una descripción general completa de las tareas, proyectos y portafolios, lo que facilita la comprensión de las relaciones y el uso compartido de recursos entre los proyectos. palo de golf
-**Seguimiento del progreso:** Los indicadores de estado de progreso (verde, amarillo, rojo y azul claro) ayudan a supervisar las escalas de tiempo de los proyectos y las tareas, destacando los estados a tiempo, en riesgo, retrasados o atrasados. palo de golf
-**Administración de hitos:** Las líneas y los diamantes de hitos marcan visualmente las fechas de finalización clave, lo que ayuda a rastrear el progreso de los hitos dentro de los proyectos. palo de golf
-**Información sobre la tarea predecesora:** Las tareas predecesoras específicas de tareas y proyectos cruzados se pueden comprobar fácilmente, lo que garantiza que las dependencias sean claras y manejables. palo de golf
-**Opciones de personalización:** Los usuarios pueden mostrar fechas reales, fechas proyectadas, líneas de base, asignaciones y mucho más, adaptando la vista del gráfico Gantt a sus necesidades específicas.
+* **Vista general:** los gráficos Gantt proporcionan una descripción general completa de las tareas, proyectos y portafolios, lo que facilita la comprensión de las relaciones y el uso compartido de recursos entre los proyectos. palo de golf
+* **Seguimiento del progreso:** Los indicadores de estado de progreso (verde, amarillo, rojo y azul claro) ayudan a supervisar las escalas de tiempo de los proyectos y las tareas, destacando los estados a tiempo, en riesgo, retrasados o atrasados. palo de golf
+* **Administración de hitos:** Las líneas y los diamantes de hitos marcan visualmente las fechas de finalización clave, lo que ayuda a rastrear el progreso de los hitos dentro de los proyectos. palo de golf
+* **Información sobre la tarea predecesora:** Las tareas predecesoras específicas de tareas y proyectos cruzados se pueden comprobar fácilmente, lo que garantiza que las dependencias sean claras y manejables. palo de golf
+* **Opciones de personalización:** Los usuarios pueden mostrar fechas reales, fechas proyectadas, líneas de base, asignaciones y mucho más, adaptando la vista del gráfico Gantt a sus necesidades específicas.
 
 
 ## Tutoriales recomendados sobre este tema

@@ -13,7 +13,7 @@ last-substantial-update: 2024-05-03T00:00:00Z
 jira: KT-8796
 exl-id: c80659f2-2818-47a7-9173-e3d9e236db75
 doc-type: video
-source-git-commit: 06d6b06e2dfcd54a172d220fdb3996a7949348d1
+source-git-commit: 1f6f333f919aacd8ed94ba1aae434d8a80c91314
 workflow-type: tm+mt
 source-wordcount: '338'
 ht-degree: 11%
@@ -29,11 +29,11 @@ En el vídeo se explica cómo realizar un seguimiento del progreso del proyecto 
 
 ## Puntos clave
 
-**Acceder a las métricas del proyecto:** Vaya a la pestaña Métricas en el panel izquierdo del proyecto para rastrear el progreso. palo de golf Es posible que tenga que desplazarse hacia abajo y hacer clic en &quot;Mostrar más&quot; para localizarlo. palo de golf
-**Indicadores clave de rendimiento (KPI):** El área de KPI muestra tareas completadas, incompletas y vencidas. palo de golf Al hacer clic en los indicadores, puede ver tareas específicas. palo de golf
-**Gráficos de tareas y problemas:** los gráficos agrupan tareas o problemas por estado o prioridad, mostrando la proporción de completados a incompletos. palo de golf Al pasar el ratón por encima de las columnas, se muestran cantidades. palo de golf
-**Métricas por usuario asignado:** ver tareas por usuario asignado según su estado (completo, incompleto, próximo o vencido). palo de golf Las preferencias se guardan para visitas futuras. palo de golf
-**Exportación de métricas:** Exporte la página de métricas como un archivo PNG al hacer clic en el botón Exportar en la esquina superior derecha de la pantalla. palo de golf
+* **Acceder a las métricas del proyecto:** Vaya a la pestaña Métricas en el panel izquierdo del proyecto para rastrear el progreso. palo de golf Es posible que tenga que desplazarse hacia abajo y hacer clic en &quot;Mostrar más&quot; para localizarlo. palo de golf
+* **Indicadores clave de rendimiento (KPI):** El área de KPI muestra tareas completadas, incompletas y vencidas. palo de golf Al hacer clic en los indicadores, puede ver tareas específicas. palo de golf
+* **Gráficos de tareas y problemas:** los gráficos agrupan tareas o problemas por estado o prioridad, mostrando la proporción de completados a incompletos. palo de golf Al pasar el ratón por encima de las columnas, se muestran cantidades. palo de golf
+* **Métricas por usuario asignado:** ver tareas por usuario asignado según su estado (completo, incompleto, próximo o vencido). palo de golf Las preferencias se guardan para visitas futuras. palo de golf
+* **Exportación de métricas:** Exporte la página de métricas como un archivo PNG al hacer clic en el botón Exportar en la esquina superior derecha de la pantalla. palo de golf
 
 
 

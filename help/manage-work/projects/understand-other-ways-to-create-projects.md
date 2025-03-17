@@ -13,7 +13,7 @@ recommendations: noDisplay,catalog
 last-substantial-update: 2024-03-05T00:00:00Z
 exl-id: 98eaadc5-1b1d-4641-83a5-818e7dd60769
 doc-type: video
-source-git-commit: e2875475de268e69ca59e7cc7253987bdd195b1d
+source-git-commit: 1f6f333f919aacd8ed94ba1aae434d8a80c91314
 workflow-type: tm+mt
 source-wordcount: '472'
 ht-degree: 6%
@@ -59,21 +59,16 @@ El vídeo destaca la flexibilidad de Workfront para crear proyectos a través de
 
 ## Puntos clave
 
-
-**Las plantillas simplifican la creación de proyectos:**
-Se recomienda encarecidamente utilizar una plantilla, ya que puede predefinir detalles clave como tareas, formularios y opciones de uso compartido, lo que ahorra tiempo y esfuerzo. palo de golf
-
-**Plantillas favoritas para acceso rápido:**
-Las plantillas favoritas permiten a los usuarios evitar el proceso de selección y crear directamente un proyecto, lo que optimiza el flujo de trabajo. palo de golf
-
-**Crear proyectos desde cero ofrece flexibilidad:**
-Aunque es más manual, la creación de un proyecto desde cero permite la personalización de todos los detalles, ideal para proyectos simples o privados. palo de golf
-
-**Copiar proyectos ahorra tiempo:**
-Al copiar un proyecto existente, se replican su estructura y configuración, con opciones para modificar o excluir elementos específicos. palo de golf
-
-**Importando archivos de MS Project para la transición:**
-Workfront admite la importación de archivos de MS Project (guardados como XML), lo que permite a los usuarios realizar la transición a proyectos en curso, aunque algunos datos (por ejemplo, comentarios, hitos) no se transferirán. palo de golf
+* **Las plantillas simplifican la creación de proyectos:**
+* Se recomienda encarecidamente utilizar una plantilla, ya que puede predefinir detalles clave como tareas, formularios y opciones de uso compartido, lo que ahorra tiempo y esfuerzo. palo de golf
+* **Plantillas favoritas para acceso rápido:**
+* Las plantillas favoritas permiten a los usuarios evitar el proceso de selección y crear directamente un proyecto, lo que optimiza el flujo de trabajo. palo de golf
+* **Crear proyectos desde cero ofrece flexibilidad:**
+* Aunque es más manual, la creación de un proyecto desde cero permite la personalización de todos los detalles, ideal para proyectos simples o privados. palo de golf
+* **Copiar proyectos ahorra tiempo:**
+* Al copiar un proyecto existente, se replican su estructura y configuración, con opciones para modificar o excluir elementos específicos. palo de golf
+* **Importando archivos de MS Project para la transición:**
+* Workfront admite la importación de archivos de MS Project (guardados como XML), lo que permite a los usuarios realizar la transición a proyectos en curso, aunque algunos datos (por ejemplo, comentarios, hitos) no se transferirán. palo de golf
 
 
 
