@@ -1,6 +1,6 @@
 ---
 title: Administración de asignaciones de problemas
-description: Obtenga información sobre cómo asignar un problema a un usuario individual, a varios o a un equipo para que se resuelva.
+description: Administre los problemas de forma eficaz en Workfront mediante la edición en línea y el equilibrador de carga de trabajo para asignaciones, el seguimiento y la actualización del progreso, el cambio de estados de problemas y la adherencia a flujos de trabajo específicos del equipo para la ejecución perfecta del proyecto.
 activity: use
 team: Technical Marketing
 feature: Work Management
@@ -12,10 +12,10 @@ last-substantial-update: 2023-05-26T00:00:00Z
 recommendations: noDisplay,catalog
 jira: KT-10071
 exl-id: 1d82e588-a986-4d83-b3b5-3325a5926a61
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
+source-git-commit: e848d231176ca58a645a4da000137e68ac492c57
 workflow-type: tm+mt
-source-wordcount: '95'
-ht-degree: 100%
+source-wordcount: '289'
+ht-degree: 25%
 
 ---
 
@@ -31,6 +31,15 @@ Este vídeo contiene información sobre:
 * Actualización del estado del problema
 
 >[!VIDEO](https://video.tv.adobe.com/v/3419931/?quality=12&learn=on&enablevpops)
+
+## Puntos clave
+
+* **Asignar problemas:** Use la edición en línea en el campo de asignaciones para asignar problemas a usuarios o equipos, y asegúrese de hacer clic en &quot;guardar&quot; después de realizar las asignaciones. palo de golf Los jefes de equipo pueden utilizar el equilibrador de carga de trabajo para asignar tareas arrastrándolas y soltándolas en los calendarios de los integrantes del equipo. palo de golf
+* **Buscando problemas asignados:** los problemas asignados a usted aparecen en la Lista de trabajoss en Inicio, que se puede filtrar. palo de golf Los problemas asignados por el equipo se pueden ver en la sección de solicitud de equipo, donde los integrantes del equipo pueden aceptar o reasignar tareas. palo de golf Estos problemas también aparecen en el distribuidor de cargas de trabajo para mejorar la visibilidad. palo de golf
+* **Actualización del progreso:** Las actualizaciones de publicación y el registro de horas en los problemas para dar visibilidad al progreso del trabajo. palo de golf Utilice la función &quot;Nombre&quot; para dirigir los comentarios a usuarios o equipos específicos. palo de golf Las notificaciones se envían para comentarios, pero no para las horas registradas o los cambios de estado. palo de golf
+* **Cambiando el estado del problema:** Actualice el estado del problema para reflejar el progreso, como &quot;trabajando en él&quot; o &quot;completado&quot;. Los problemas sin resolver impiden que las tareas y los proyectos asociados se marquen como completos. palo de golf
+* **Flujos de trabajo específicos del equipo:** Siga los flujos de trabajo específicos de su organización y las configuraciones del sistema para administrar los problemas de forma eficaz. palo de golf
+
 
 ## Tutoriales recomendados sobre este tema
 

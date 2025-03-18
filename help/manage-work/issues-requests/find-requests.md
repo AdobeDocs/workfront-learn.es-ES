@@ -13,10 +13,10 @@ recommendations: noDisplay,catalog
 doc-type: video
 jira: KT-10143
 exl-id: 45956a0d-d63f-4539-ac65-f2c64a60b4bf
-source-git-commit: 06d6b06e2dfcd54a172d220fdb3996a7949348d1
+source-git-commit: e848d231176ca58a645a4da000137e68ac492c57
 workflow-type: tm+mt
-source-wordcount: '342'
-ht-degree: 9%
+source-wordcount: '227'
+ht-degree: 14%
 
 ---
 
@@ -24,10 +24,10 @@ ht-degree: 9%
 
 En este vídeo se explica cómo buscar y administrar solicitudes en Workfront. palo de golf Abarca cuatro áreas principales:
 
-* **Página de inicio de Workfront:** Usuarios como Mary Smith, una artista de producción, pueden ver solicitudes asignadas a ellos. palo de golf Joan Harris, que a menudo hace solicitudes, puede encontrar solicitudes completadas a la espera de su aprobación. palo de golf
-* **Área de solicitud:** Los usuarios pueden filtrar solicitudes para ver las que han creado.&#x200B; El término &quot;mi&quot; en el área de solicitud hace referencia a los problemas creados por mí, el usuario que ha iniciado sesión. palo de golf
-* **Página de equipos:** Los usuarios pueden ver las solicitudes de equipos sin asignar y asignarse a sí mismos o a otros. palo de golf También puede utilizar el equilibrador de carga de trabajo para administrar las asignaciones de equipo en función de las cargas de trabajo actuales. palo de golf
-* **Informes y paneles personalizados:** Los usuarios pueden crear informes personalizados para realizar el seguimiento de las solicitudes, con control sobre los nombres, filtros, vistas y agrupaciones. palo de golf Esto permite un seguimiento claro de las solicitudes por prioridad, creador, contacto principal, usuario asignado y estado. palo de golf
+* Página de inicio de Workfront
+* Área de solicitud
+* Página de equipos&#x200B;
+* Informes y paneles personalizados
 
 
 >[!VIDEO](https://video.tv.adobe.com/v/3422686/?quality=12&learn=on&enablevpops)
