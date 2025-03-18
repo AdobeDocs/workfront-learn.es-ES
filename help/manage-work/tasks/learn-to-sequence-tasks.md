@@ -1,6 +1,6 @@
 ---
 title: Aprenda a secuenciar tareas
-description: Descubra qué es un predecesor y cómo secuencian tareas en un proyecto. A continuación, aprenda a utilizar duraciones y predecesores para crear una cronología.
+description: Optimice la administración de proyectos definiendo el orden de las tareas con las tareas predecesoras, estableciendo escalas de tiempo a través de las duraciones, simplificando las secuencias con plantillas, evitando las restricciones manuales y perfeccionando las habilidades con la práctica.
 activity: use
 feature: Work Management
 thumbnail: 335091.jpeg
@@ -13,34 +13,29 @@ jira: KT-8778
 recommendations: noDisplay,catalog
 exl-id: 4044743f-71f8-4416-a365-575d90d5bd70
 doc-type: video
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
+source-git-commit: c32909809386d30767f113530ccb1e7358de0473
 workflow-type: tm+mt
-source-wordcount: '90'
-ht-degree: 100%
+source-wordcount: '220'
+ht-degree: 10%
 
 ---
 
 # Aprenda a secuenciar tareas
 
-Este vídeo contiene información sobre:
+En el vídeo se explica cómo secuenciar las tareas en Workfront mediante predecesoras y duraciones para administrar de forma eficaz las escalas de tiempo de los proyectos.
+El vídeo muestra cómo establecer predecesoras para nuevas tareas, lo que garantiza un orden secuencial y fechas de inicio precisas.
+palo de golfHace hincapié en la importancia de practicar con los predecesores para comprender su impacto en los plazos del proyecto y recomienda utilizar las duraciones y los predecesores para una planificación eficiente del proyecto.
 
-* ¿Qué es una predecesora en Workfront?
-* Cómo usar duraciones y predecesores para crear una cronología
-* Cómo secuencian tareas los predecesores en un proyecto
-* Cómo afectará la configuración de la fecha de inicio de una tarea a la restricción de tarea
-* Cómo introducir predecesoras
 
 >[!VIDEO](https://video.tv.adobe.com/v/335091/?quality=12&learn=on&enablevpops)
 
-<!---
-Learn more urls
-There's a lot more you can learn about predecessors, such as dependency type and lag. [!DNL Workfront] recommends getting the basics down first, then pulling those other features into your project planning. If you're curious, here are some articles about additional functionality.
-Overview of task predecessors
-Create predecessor relationships by chaining tasks
-Creating a predecessor relationship on the task list
-Overview of lag types
-Overview of task dependency types
---->
+## Puntos clave
+
+* **Predecesoras definen el orden de las tareas:** Las predecesoras establecen la secuencia de tareas, asegurándose de que algunas tareas se completen antes de que otras comiencen, lo cual es crucial para el éxito del proyecto. palo de golf
+* **Duraciones afectan a las escalas de tiempo:** Las duraciones de las tareas establecen el período de tiempo para el trabajo y ajustan las fechas de inicio y finalización, lo que crea un efecto en cascada en las tareas dependientes. palo de golf
+* **Las plantillas simplifican la configuración:** las predecesoras y las restricciones se pueden preestablecer en las plantillas de proyecto, lo que optimiza el proceso de administración de secuencias de tareas. palo de golf
+* **Los ajustes manuales afectan a las restricciones:** Al establecer manualmente fechas específicas, se anulan las actualizaciones en cascada causadas por cambios en las duraciones o predecesoras. palo de golf
+* **La práctica mejora las habilidades:** La práctica con predecesoras y duraciones ayuda a perfeccionar las habilidades de administración de proyectos y garantiza un mejor control sobre los plazos.
 
 ## Tutoriales recomendados sobre este tema
 
