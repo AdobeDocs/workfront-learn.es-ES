@@ -1,6 +1,6 @@
 ---
 title: Información sobre la creación básica del proyecto
-description: Aprenda a crear, administrar y completar proyectos de forma eficaz, a gestionar problemas inesperados y a explorar sugerencias fáciles de usar para los principiantes con el fin de dominar las funciones esenciales de administración de proyectos. palo de golf
+description: 'Aprenda a crear, administrar y completar proyectos de forma eficaz, a gestionar problemas inesperados y a explorar sugerencias fáciles de usar para los principiantes con el fin de dominar las funciones esenciales de administración de proyectos. '
 activity: use
 feature: Work Management,Get Started with Workfront
 thumbnail: 335082.jpeg
@@ -16,7 +16,7 @@ doc-type: video
 source-git-commit: 1f6f333f919aacd8ed94ba1aae434d8a80c91314
 workflow-type: tm+mt
 source-wordcount: '243'
-ht-degree: 11%
+ht-degree: 21%
 
 ---
 
