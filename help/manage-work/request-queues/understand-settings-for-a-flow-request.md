@@ -1,6 +1,6 @@
 ---
 title: Explicación de la configuración de una solicitud de flujo
-description: Obtenga información sobre los flujos de solicitud y cómo crear uno mediante reglas de enrutamiento, grupos de temas y temas de colas.
+description: Optimice la administración de solicitudes de Workfront definiendo temas de colas, utilizando grupos de temas, configurando reglas de enrutamiento, planificando con anticipación y asegurándose de que los envíos no se pasen por alto para mejorar la eficacia.
 activity: delpoy
 feature: Work Management
 type: Tutorial
@@ -13,21 +13,32 @@ recommendations: noDisplay,catalog
 last-substantial-update: 2024-08-12T00:00:00Z
 exl-id: 7def260c-7542-4b9e-b2fb-afa5f79e164b
 doc-type: video
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
+source-git-commit: 3fc3a58c829769ca06ffb93971ac75516dfbd5f2
 workflow-type: tm+mt
-source-wordcount: '75'
-ht-degree: 100%
+source-wordcount: '287'
+ht-degree: 11%
 
 ---
 
 # Explicación de la configuración de una solicitud de flujo
 
-Este vídeo contiene información sobre:
+En el vídeo se explica el proceso de flujo de solicitudes en Workfront, centrándose en la administración de colas, las reglas de enrutamiento, los grupos de temas y los temas de colas. palo de golf Hace hincapié en la importancia de organizar la cola de solicitudes respondiendo a tres preguntas clave:
 
-* Proceso de flujo de solicitudes específico para la administración de colas
-* Cómo crear y utilizar reglas de enrutamiento, grupos de temas y temas de cola
+1. **¿Qué temas necesito?**: estos son temas de cola que categorizan las solicitudes enviadas, facilitando su administración y personalización. palo de golf
+1. **¿Puedo organizar más los temas?** - Los grupos de temas ayudan a agrupar los temas de colas relacionados para una mejor organización (por ejemplo, folletos, tarjetas de presentación y carteleras en &quot;Imprimir&quot;).
+1. **¿A quién se debe asignar la solicitud?**: las reglas de enrutamiento dirigen automáticamente los envíos a equipos, funciones o usuarios específicos, lo que garantiza que las solicitudes no pasen desapercibidas. palo de golf
+
+Al abordar estas preguntas, los usuarios pueden planificar y configurar de forma eficaz su cola de solicitudes en Workfront. palo de golf
 
 >[!VIDEO](https://video.tv.adobe.com/v/335222/?quality=12&learn=on&enablevpops)
+
+## Puntos clave
+
+* **Temas de cola:** Defina y organice diferentes tipos de solicitudes en temas de cola para optimizar la categorización y la personalización. palo de golf
+* **Grupos de temas:** Use grupos de temas para organizar aún más los temas de la cola, lo que facilita la localización de solicitudes relacionadas (por ejemplo, la agrupación de categorías &quot;Imprimir&quot; y &quot;Digital&quot;). palo de golf
+* **Reglas de enrutamiento:** configure reglas de enrutamiento para asignar automáticamente solicitudes a equipos, roles o usuarios específicos, lo que evita que se pasen por alto los envíos. palo de golf
+* **La planeación es esencial:** Organice las necesidades de la cola de solicitudes antes de crearla para garantizar una administración eficiente. palo de golf
+* **Evitar solicitudes desapercibidas:** Sin reglas de enrutamiento, los envíos pueden permanecer en la ficha Problemas y pasar desapercibidos a menos que se comprueben manualmente con regularidad. palo de golf
 
 ## Tutoriales recomendados sobre este tema
 

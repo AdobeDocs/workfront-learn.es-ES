@@ -1,6 +1,6 @@
 ---
 title: Información sobre el [!UICONTROL Caso empresarial]
-description: Descubra cómo utilizar el [!UICONTROL Caso empresarial] en Workfront para evaluar los proyectos solicitados y compararlos con otros proyectos de su portafolio.
+description: Cree casos empresariales completos en Workfront para priorizar los proyectos mediante la inclusión de información detallada del proyecto, gastos, análisis de mano de obra y riesgos, cuadros de resultados y formularios personalizados para una administración de cartera informada.
 activity: use
 team: Technical Marketing
 feature: Strategic Planning
@@ -12,21 +12,30 @@ jira: KT-13836
 role: User
 level: Intermediate
 exl-id: febb7378-81d4-4348-ac57-e9c4756966c0
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
+source-git-commit: 3fc3a58c829769ca06ffb93971ac75516dfbd5f2
 workflow-type: tm+mt
-source-wordcount: '66'
-ht-degree: 78%
+source-wordcount: '243'
+ht-degree: 9%
 
 ---
 
 # Información sobre el [!UICONTROL Caso empresarial]
 
-Este vídeo contiene información sobre:
-
-* Por qué rellenar un caso comercial
-* Cómo rellenar un caso empresarial
+El vídeo explica la importancia de un caso empresarial en la administración de proyectos. Hace hincapié en que completar el caso empresarial ayuda a los administradores a analizar y priorizar los proyectos que compiten por los mismos recursos. palo de golf Una vez finalizado, al enviar el caso empresarial, el estado del proyecto cambia a Solicitado y se calcula su puntuación general para la comparación en la herramienta de optimización de Portfolio. palo de golf Aunque ninguno de los campos es obligatorio, una información más detallada mejora la toma de decisiones. palo de golf
 
 >[!VIDEO](https://video.tv.adobe.com/v/3442843/?quality=12&learn=on&enablevpops)
+
+## Puntos clave
+
+El vídeo describe las secciones clave del caso empresarial, como las siguientes:
+
+* **Información del proyecto:** Información general como el patrocinador del proyecto y el beneficio planificado, que calcula la ganancia financiera potencial al completar el proyecto. palo de golf
+* **Gastos:** costos no laborales, como viajes o alquiler de cabina, que afectan el costo presupuestado y el valor neto. palo de golf
+* **Presupuestación de recursos:** Estimaciones de mano de obra extraídas del Planificador de recursos, que requieren que se configuren conjuntos de recursos en Workfront. palo de golf
+* **Riesgos:** Identificación de riesgos, estimación de su costo y probabilidad, y cálculo de su impacto en el valor neto. palo de golf
+* **Cuadros de resultados:** herramientas para evaluar la alineación de un proyecto con los objetivos del portafolio, utilizando preguntas predefinidas y valores establecidos por los administradores del sistema. palo de golf
+* **Forms personalizado:** formularios opcionales personalizados para el caso empresarial. palo de golf
+
 
 ## Tutoriales recomendados sobre este tema
 
