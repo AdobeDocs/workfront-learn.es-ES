@@ -13,7 +13,7 @@ recommendations: noDisplay,catalog
 jira: KT-10156
 exl-id: 1f44eb26-98bf-4723-b162-27a4f8cb8177
 doc-type: video
-source-git-commit: e135a10a3598af4208b196d8f72e608d6d3171a8
+source-git-commit: a8581b20a7456c6c8316cf178a37efda1d3e9e7e
 workflow-type: tm+mt
 source-wordcount: '228'
 ht-degree: 20%
@@ -28,11 +28,11 @@ En este vídeo se explica cómo crear un proyecto a partir de una plantilla. pal
 
 ## Puntos clave
 
-**Acceso a plantillas:** Necesita derechos para abrir una plantilla y crear un proyecto a partir de ella. palo de golf
-**Opción de acceso directo:** El uso de una plantilla puede ser un acceso directo útil en comparación con iniciar un proyecto desde cero. palo de golf
-**Menú de tres puntos:** Abra la plantilla y seleccione &quot;Crear proyecto&quot; en el menú de tres puntos. palo de golf
-**Editar detalles del proyecto:** Después de seleccionar &quot;Crear proyecto&quot;, puede editar los detalles del proyecto antes de finalizar. palo de golf
-**Finalizar creación:** Haga clic en &quot;Crear proyecto&quot; cuando esté listo para completar el proceso. palo de golf
+* **Acceso a plantillas:** Necesita derechos para abrir una plantilla y crear un proyecto a partir de ella. palo de golf
+* **Opción de acceso directo:** El uso de una plantilla puede ser un acceso directo útil en comparación con iniciar un proyecto desde cero. palo de golf
+* **Menú de tres puntos:** Abra la plantilla y seleccione &quot;Crear proyecto&quot; en el menú de tres puntos. palo de golf
+* **Editar detalles del proyecto:** Después de seleccionar &quot;Crear proyecto&quot;, puede editar los detalles del proyecto antes de finalizar. palo de golf
+* **Finalizar creación:** Haga clic en &quot;Crear proyecto&quot; cuando esté listo para completar el proceso. palo de golf
 
 
 ## Tutoriales recomendados sobre este tema

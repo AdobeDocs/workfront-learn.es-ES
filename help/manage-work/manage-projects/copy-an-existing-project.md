@@ -1,6 +1,6 @@
 ---
 title: Copiar un proyecto existente
-description: Aprenda a crear una copia de un proyecto existente.
+description: Duplique fácilmente proyectos utilizando la opción "Copiar" en el menú de tres puntos, cambiando el nombre y configurando el estado en "Planificación", copiando datos y formularios personalizados, y transfiriendo problemas por separado a través de la pestaña Problemas para configuraciones de proyectos a medida.
 activity: use
 team: Technical Marketing
 feature: Work Management
@@ -8,29 +8,35 @@ thumbnail: copy-an-existing-project.jpeg
 type: Tutorial
 role: User
 level: Intermediate
+last-substantial-update: 2025-03-28T00:00:00Z
 recommendations: noDisplay,catalog
 jira: KT-10155
 exl-id: 90a87fef-70e9-42fc-ac55-415980ef32c7
-source-git-commit: f033b210268e8979ee15abe812e6ad85673eeedb
+doc-type: video
+source-git-commit: a8581b20a7456c6c8316cf178a37efda1d3e9e7e
 workflow-type: tm+mt
-source-wordcount: '155'
-ht-degree: 100%
+source-wordcount: '318'
+ht-degree: 9%
 
 ---
 
 # Copiar un proyecto existente
 
-A veces, en lugar de usar una plantilla para crear un proyecto, solo tiene que copiar un proyecto para otro uso único. Para ello, debe tener una licencia estándar con acceso para Editar y Crear proyectos.
+En el vídeo se explica cómo copiar un proyecto en lugar de utilizar una plantilla. palo de golf Para copiar un proyecto, abra el proyecto deseado, haga clic en el menú de tres puntos junto al nombre del proyecto y seleccione &quot;Copiar&quot;. En la ventana Copiar proyecto, puede cambiar el nombre del proyecto y su estado, normalmente a &quot;Planificación&quot; para evitar enviar notificaciones a los usuarios asignados. palo de golf Puede elegir si desea copiar asignaciones, progreso, datos personalizados, etc.
+Para finalizar, haga clic en &quot;Copiar proyecto&quot;.
+Los problemas no se pueden copiar directamente durante este proceso, ya que no se consideran trabajo planificado. palo de golf Para copiar problemas, vaya a la pestaña Problemas, seleccione los problemas que desee y utilice la opción &quot;Copiar en&quot; para transferirlos al nuevo proyecto. palo de golf
 
-Vaya al proyecto que desea copiar y haga clic en el menú de tres puntos situado junto al nombre del proyecto. A continuación, seleccione Copiar.
 
-![Opción de menú Copiar proyecto](assets/copy-existing-01.png)
+>[!VIDEO](https://video.tv.adobe.com/v/3456037/?quality=12&learn=on&enablevpops)
 
-La ventana Copiar proyecto permite cambiar el título y el estado, así como borrar una variedad de datos asociados con el proyecto: opciones como asignaciones, documentos y datos personalizados.
+## Puntos clave
 
-![Opciones Copiar proyecto](assets/copy-existing-02.png)
+* **Copiando un proyecto:** Abra el proyecto, haga clic en el menú de tres puntos situado junto al nombre del proyecto y seleccione &quot;Copiar&quot; para duplicarlo. palo de golf
+* **Ajuste de la configuración del proyecto:** Cambie el nombre del proyecto y su estado a &quot;Planificación&quot; para evitar enviar notificaciones a los usuarios asignados.
+* **Copia selectiva:** Puede elegir si desea copiar asignaciones, progreso o datos personalizados. palo de golf Al anular la selección de estas opciones, se permite la personalización en el nuevo proyecto.
+* **Administrar datos personalizados:** Si no se seleccionan los datos personalizados, los formularios se copiarán sin sus datos. palo de golf Deje la casilla marcada para copiar ambos formularios y sus datos. palo de golf
+* **Copiar problemas por separado:** los problemas no se copian durante el proceso de duplicación del proyecto. palo de golf Para copiarlos, vaya a la pestaña Problemas, seleccione los problemas que desee y utilice la opción &quot;Copiar en&quot; para transferirlos al nuevo proyecto. palo de golf
 
-Si selecciona Borrar asignaciones o establece el estado en Planificado, evitará que el proyecto copiado envíe notificaciones de asignación de tareas justo después de copiarlo.
 
 ## Tutoriales recomendados sobre este tema
 
