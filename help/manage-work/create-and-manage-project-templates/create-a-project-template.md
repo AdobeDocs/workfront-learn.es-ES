@@ -13,7 +13,7 @@ recommendations: noDisplay,catalog
 jira: KT-8950
 exl-id: 1f706148-c001-42a8-a675-48e91d445f0b
 doc-type: video
-source-git-commit: 9e8dfebabd121c4c252298d3e28170f4b7931e19
+source-git-commit: e135a10a3598af4208b196d8f72e608d6d3171a8
 workflow-type: tm+mt
 source-wordcount: '635'
 ht-degree: 54%
@@ -35,11 +35,11 @@ Aprenda a crear una plantilla de proyecto desde cero y a partir de un proyecto e
 
 ## Puntos clave
 
-**Creación de una plantilla:** Aprenda a crear una nueva plantilla desde cero asignándole un nombre, configurando tareas, escalas de tiempo y asignando roles. palo de golf
-**Organización de tareas:** Use relaciones de tareas principales y secundarias para organizar las tareas de manera eficiente, proporcionando un resumen y una estructura claros para el proyecto. palo de golf
-**Configuración de escala de tiempo:** Configure las escalas de tiempo de las tareas usando duraciones y predecesoras para estimar el lapso de tiempo y la secuencia de tareas con precisión. palo de golf
-**Asignaciones basadas en roles:** asigne tareas a roles de trabajo en lugar de a usuarios individuales para utilizar las funcionalidades de planificación y programación de recursos de forma eficaz. palo de golf
-**Administración de plantillas:** Guarde los proyectos existentes como nuevas plantillas para incorporar mejoras y administrar las plantillas para evitar confusiones y garantizar una ejecución eficiente del proyecto. palo de golf
+* **Creación de una plantilla:** Aprenda a crear una nueva plantilla desde cero asignándole un nombre, configurando tareas, escalas de tiempo y asignando roles. palo de golf
+* **Organización de tareas:** Use relaciones de tareas principales y secundarias para organizar las tareas de manera eficiente, proporcionando un resumen y una estructura claros para el proyecto. palo de golf
+* **Configuración de escala de tiempo:** Configure las escalas de tiempo de las tareas usando duraciones y predecesoras para estimar el lapso de tiempo y la secuencia de tareas con precisión. palo de golf
+* **Asignaciones basadas en roles:** asigne tareas a roles de trabajo en lugar de a usuarios individuales para utilizar las funcionalidades de planificación y programación de recursos de forma eficaz. palo de golf
+* **Administración de plantillas:** Guarde los proyectos existentes como nuevas plantillas para incorporar mejoras y administrar las plantillas para evitar confusiones y garantizar una ejecución eficiente del proyecto. palo de golf
 
 
 ## Plantillas creadas con [!UICONTROL Modelos]

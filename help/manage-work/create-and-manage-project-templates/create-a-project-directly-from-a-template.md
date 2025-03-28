@@ -1,6 +1,6 @@
 ---
 title: Creación de un proyecto directamente a partir de una plantilla
-description: Aprenda a crear un proyecto empezando con una plantilla ya creada.
+description: Cree proyectos directamente a partir de las plantillas asegurando los derechos de acceso, utilizando el menú de tres puntos para seleccionar "Crear proyecto", editando los detalles del proyecto según sea necesario y finalizando el proceso para una alternativa de configuración eficaz.
 activity: use
 team: Technical Marketing
 feature: Work Management
@@ -8,36 +8,32 @@ thumbnail: create-a-project-directly-from-a-template.jpeg
 type: Tutorial
 role: User
 level: Beginner
+last-substantial-update: 2025-03-28T00:00:00Z
 recommendations: noDisplay,catalog
 jira: KT-10156
 exl-id: 1f44eb26-98bf-4723-b162-27a4f8cb8177
-source-git-commit: 422b07bc6b1941316a9e441560929d9b2832232f
+doc-type: video
+source-git-commit: e135a10a3598af4208b196d8f72e608d6d3171a8
 workflow-type: tm+mt
-source-wordcount: '197'
-ht-degree: 93%
+source-wordcount: '228'
+ht-degree: 20%
 
 ---
 
 # Creación de un proyecto directamente a partir de una plantilla
 
-Si está trabajando en una plantilla y necesita crear un proyecto utilizándola, haga clic en el menú de 3 puntos situado junto al nombre de la plantilla. A continuación, seleccione Crear proyecto.
+En este vídeo se explica cómo crear un proyecto a partir de una plantilla. palo de golf Si tiene derechos para abrir una plantilla, puede utilizarla como método abreviado para crear un proyecto. palo de golf Para ello, abra la plantilla, acceda al menú de tres puntos y seleccione &quot;Crear proyecto&quot;. Esto le lleva a una pantalla en la que puede editar los detalles del proyecto. palo de golf Una vez listo, haga clic en &quot;Crear proyecto&quot; para finalizar. palo de golf
 
-![Opción Crear proyecto en el menú](assets/direct-template-01.png)
+>[!VIDEO](https://video.tv.adobe.com/v/3456013/?quality=12&learn=on&enablevpops)
 
-La ventana de detalles permite realizar cambios en la configuración del nuevo proyecto.
+## Puntos clave
 
-![Página de creación del proyecto](assets/direct-template-02.png)
+**Acceso a plantillas:** Necesita derechos para abrir una plantilla y crear un proyecto a partir de ella. palo de golf
+**Opción de acceso directo:** El uso de una plantilla puede ser un acceso directo útil en comparación con iniciar un proyecto desde cero. palo de golf
+**Menú de tres puntos:** Abra la plantilla y seleccione &quot;Crear proyecto&quot; en el menú de tres puntos. palo de golf
+**Editar detalles del proyecto:** Después de seleccionar &quot;Crear proyecto&quot;, puede editar los detalles del proyecto antes de finalizar. palo de golf
+**Finalizar creación:** Haga clic en &quot;Crear proyecto&quot; cuando esté listo para completar el proceso. palo de golf
 
->[!NOTE]
->
->Para crear un proyecto con este método, debe acceder al área Plantillas de Workfront. Si no puede acceder a las plantillas, puede seguir utilizando una plantilla para crear un proyecto desde el área Proyectos o al convertir un problema o una tarea.
-
->[!TIP]
->
->Si hay una plantilla que use con frecuencia, guárdela como favorita. Verá la plantilla en el menú Nuevo proyecto, y además aparecerá en el menú Favoritos de la barra de navegación.
-
-
-![Nuevas plantillas en favoritos del proyecto](assets/direct-template-03.png)
 
 ## Tutoriales recomendados sobre este tema
 
