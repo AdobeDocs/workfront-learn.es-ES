@@ -1,6 +1,6 @@
 ---
 title: Creación de paneles
-description: Organice y muestre los datos del proyecto con los paneles de Workfront, que se pueden personalizar, acceder fácilmente, compartir e imprimir para una administración y colaboración de proyectos sin problemas.
+description: Organice y muestre los datos del proyecto con los paneles de Workfront. Puede acceder a ellos fácilmente, personalizarlos, y compartir e imprimir para una administración y colaboración de proyectos sin problemas.
 activity: use
 feature: Reports and Dashboards
 type: Tutorial
@@ -14,7 +14,7 @@ doc-type: video
 source-git-commit: c32909809386d30767f113530ccb1e7358de0473
 workflow-type: tm+mt
 source-wordcount: '635'
-ht-degree: 33%
+ht-degree: 37%
 
 ---
 
