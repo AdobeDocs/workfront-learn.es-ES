@@ -10,10 +10,10 @@ level: Beginner
 thumbnail: combine-multiple-files-single-proof.png
 jira: KT-10163
 exl-id: 2a3e97f7-51b3-4e14-bb15-6d255cd18034
-source-git-commit: 466857e92481a28b8030fb1c33016d39d61faa64
+source-git-commit: 2102a538a93169650df317176aa922eaa4e436bf
 workflow-type: tm+mt
-source-wordcount: '446'
-ht-degree: 77%
+source-wordcount: '453'
+ht-degree: 71%
 
 ---
 
@@ -30,12 +30,13 @@ Solución: haga que una persona cargue todos los PDF y los combine en una sola p
 Para combinar pruebas:
 
 1. Abra la sección [!UICONTROL Documentos] del proyecto, la tarea o el problema al que se debe adjuntar la prueba.
-2. Arrastre y suelte los archivos en el área de carga o navegue hasta ellos. [!DNL Workfront] admite la combinación de hasta 50 archivos.
-3. Alterne la opción para [!UICONTROL Combinar todos los archivos compatibles en una sola prueba].
-4. Introduzca un nombre para la prueba combinada. Este campo es obligatorio.
-5. Si lo desea, puede cambiar el orden en el que se combinarán los archivos con un arrastrar y soltar en la lista de carga.
-6. Agregue destinatarios de prueba, establezca una fecha límite, etc.
-7. Haga clic en [!UICONTROL Crear prueba] para completar la carga.
+1. Haga clic en **Agregar nuevo > Prueba**.
+1. Arrastre y suelte los archivos en el área de carga o navegue hasta ellos. [!DNL Workfront] admite la combinación de hasta 50 archivos.
+1. En **Prueba única**, active la opción Combinar todos los archivos compatibles en una sola prueba.
+1. Introduzca un nombre para la prueba combinada. Este campo es obligatorio.
+1. Si lo desea, puede cambiar el orden en el que se combinarán los archivos con un arrastrar y soltar en la lista de carga.
+1. Agregue destinatarios de prueba, establezca una fecha límite, etc.
+1. Haga clic en [!UICONTROL Crear prueba] para completar la carga.
 
 ![Una imagen de la ventana [!UICONTROL Prueba nueva] con la lista de archivos cargados y las secciones de [!UICONTROL Prueba única] resaltadas.](assets/combine-proofs.png)
 
@@ -59,7 +60,7 @@ Lamentablemente, la combinación de archivos no es posible cuando los archivos d
 >Recuerde a sus compañeros de trabajo que les envía una prueba como parte de su formación en Workfront.
 
 
-Buscar tres o cuatro archivos (PDF, archivo de texto, etc.) en el equipo.
+Encuentre tres o cuatro archivos (PDF, archivo de texto, etc.) en el equipo.
 
 1. Abra un proyecto, una tarea o un problema que esté utilizando para realizar prácticas en Workfront.
 1. Cargue los archivos, combinándolos en una sola prueba.
