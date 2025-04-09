@@ -13,10 +13,10 @@ team: Technical Marketing
 jira: KT-14749
 doc-type: video
 exl-id: ad9b9e1e-3d8c-4a0f-8f73-e204047485a6
-source-git-commit: 2fbd533ba3acca135e0bba76b2df1bd9a54f2ae7
+source-git-commit: cbff1cdf0944c666fb983406f416f1ad741bf22f
 workflow-type: tm+mt
-source-wordcount: '125'
-ht-degree: 99%
+source-wordcount: '164'
+ht-degree: 75%
 
 ---
 
@@ -28,6 +28,12 @@ Este vídeo contiene información sobre:
 * Cómo activar y desactivar una plantilla de proyecto.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3426779/?quality=12&learn=on&enablevpops)
+
+>[!NOTE]
+>
+>Si decide eliminar una plantilla, ningún proyecto que haya creado con ella se verá afectado. Las plantillas eliminadas se moverán a la papelera de reciclaje durante 30 días y solamente el administrador del sistema las puede recuperar.
+
+
 
 ## Obtenga información sobre cómo crear una vista personalizada para ver y editar el estado activo de las plantillas de proyecto
 
