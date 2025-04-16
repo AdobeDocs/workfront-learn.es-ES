@@ -1,9 +1,9 @@
 ---
 user-guide-description: Tutoriales de Workfront
-source-git-commit: 0399915a57cba155c809ea20c0998f13045e29e9
+source-git-commit: f78f24cb75ac561e4635b4d0f2a30935e1a94af4
 workflow-type: tm+mt
-source-wordcount: '2432'
-ht-degree: 97%
+source-wordcount: '2430'
+ht-degree: 95%
 
 ---
 
@@ -102,7 +102,7 @@ ht-degree: 97%
       + [Crear una expresión de texto IF](/help/custom-data/calculated-expressions/create-an-if-text-expression.md)
       + [Aspectos importantes sobre las expresiones de campos calculados](/help/custom-data/calculated-expressions/things-to-know-about-expressions.md)
 
-+ Administrar trabajo {#manage-work}
++ Administración del trabajo {#manage-work}
    + Proyectos {#projects}
       + [Información sobre la creación básica del proyecto](/help/manage-work/projects/understand-basic-project-creation.md)
       + [Navegar por la página del proyecto](/help/manage-work/projects/navigate-the-project-page.md)
@@ -183,8 +183,8 @@ ht-degree: 97%
       + [Horas de registro y revisión](/help/manage-work/close-a-project/log-and-review-hours.md)
 
    + Finanzas del proyecto para usuarios {#project-finances-users}
-      + [Actualizar y revisar las finanzas](/help/manage-work/project-finances/update-and-review-finances.md)
       + [Buscar información financiera](/help/manage-work/project-finances/find-financial-information.md)
+      + [Actualizar finanzas](/help/manage-work/project-finances/update-and-review-finances.md)
       + [Información sobre las múltiples tasas de facturación](/help/manage-work/project-finances/multiple-billing-rates.md)
 
    + Proyectos intermedios {#intermediate-projects}
@@ -193,8 +193,8 @@ ht-degree: 97%
       + [Predecesoras avanzadas](/help/manage-work/intermediate-projects/advanced-predecessors.md)
 
 
-+ Creación de informes {#reporting}
-   + Creación de informes básica {#basic-reporting}
++ Informes {#reporting}
+   + Informes básicos {#basic-reporting}
       + [Comprensión de los elementos de creación de informes](/help/reporting/basic-reporting/reporting-elements.md)
       + [Información sobre los componentes del sistema de informes](/help/reporting/basic-reporting/reporting-components.md)
       + [Creación de una agrupación básica](/help/reporting/basic-reporting/create-a-basic-grouping.md)
@@ -212,7 +212,7 @@ ht-degree: 97%
       + [Enviar y compartir informes](/help/reporting/basic-reporting/how-to-send-and-share-reports.md)
       + [Comprender la configuración de los informes](/help/reporting/basic-reporting/report-settings.md)
 
-   + Creación de informes intermedios {#intermediate-reporting}
+   + Informes intermedios {#intermediate-reporting}
       + [Crear filtros con caracteres comodín basados en el usuario](/help/reporting/intermediate-reporting/create-filters-with-user-based-wildcards.md)
       + [Crear filtros con caracteres comodín basados en datos](/help/reporting/intermediate-reporting/create-filters-with-date-based-wildcards.md)
       + [Crear instrucciones OR en filtros](/help/reporting/intermediate-reporting/or-statements-in-filters.md)
@@ -224,7 +224,7 @@ ht-degree: 97%
       + [Comprensión del modo de texto básico de las agrupaciones](/help/reporting/intermediate-reporting/basic-text-mode-for-groupings.md)
       + [Crear mensajes personalizados](/help/reporting/intermediate-reporting/custom-prompts.md)
 
-   + Creación de informes avanzada {#advanced-reporting}
+   + Informes avanzados {#advanced-reporting}
       + [Bienvenido a la creación de informes avanzada](/help/reporting/advanced-reporting/welcome-to-advanced-reporting.md)
       + [Parte 1 de la creación de informes avanzada](/help/reporting/advanced-reporting/advanced-reporting-part-1.md)
       + [Parte 2 de la creación de informes avanzada](/help/reporting/advanced-reporting/advanced-reporting-part-2.md)
@@ -259,7 +259,7 @@ ht-degree: 97%
       + [Comprender un caso de uso de usuario final](/help/reporting/enhanced-analytics/22-end-user-use.md)
       + [Comprender la guía de consultoría](/help/reporting/enhanced-analytics/23-consulting-guidance.md)
 
-+ Administrar recursos {#manage-resources}
++ Administran los recursos {#manage-resources}
    + Administración de recursos {#resource-management}
       + [Vencimiento de la administración de recursos](/help/manage-resources/resource-management/resource-management-maturity.md)
       + [Configuración de administración de recursos para proyectos](/help/manage-resources/resource-management/settings-for-projects.md)
@@ -299,7 +299,7 @@ ht-degree: 97%
       + [Publicar un escenario](/help/manage-resources/scenario-planner/publish-a-scenario.md)
 
 + Workfront Goals {#workfront-goals}
-   + Establecer una visión para su organización {#establish-a-vision-and-strategy}
+   + Establezca una visión para su organización {#establish-a-vision-and-strategy}
       + [Comprender cómo funciona Workfront Goals](/help/workfront-goals/establish-a-vision-for-your-org/understand-how-workfront-goals-works.md)
       + [Comprenda cómo Workfront Goals se integra en su ciclo de trabajo](/help/workfront-goals/establish-a-vision-for-your-org/where-does-workfront-goals-fit-in-with-my-work-cycle.md)
       + [Establezca una visión y estrategia para su organización](/help/workfront-goals/establish-a-vision-for-your-org/establish-a-vision-and-strategy.md)
@@ -307,31 +307,31 @@ ht-degree: 97%
       + [Colaborar en torno a las metas empresariales y organizativas](/help/workfront-goals/establish-a-vision-for-your-org/collaborate-around-enterprise-and-organizational-goals.md)
       + [Alineación de grupos y equipos con la estrategia](/help/workfront-goals/establish-a-vision-for-your-org/align-groups-and-teams-to-the-strategy.md)
 
-   + Crear sus metas {#create-goals}
+   + Cree sus metas {#create-goals}
       + [Información general de [!UICONTROL Workfront Goals]](/help/workfront-goals/create-your-goals/understand-how-to-use-workfront-goals.md)
       + [Configuración de [!UICONTROL Workfront Goals] para su organización](/help/workfront-goals/create-your-goals/set-up-workfront-goals-for-your-company.md)
       + [Otorgar acceso a las metas a usuarios seleccionados](/help/workfront-goals/create-your-goals/grant-goals-access-to-selected-users.md)
       + [Cree una plantilla de diseño para los usuarios de [!UICONTROL Workfront Goals]](/help/workfront-goals/create-your-goals/create-a-layout-template-with-workfront-goals.md)
       + [Crear metas](/help/workfront-goals/create-your-goals/create-goals-in-workfront.md)
 
-   + Activar sus metas {#activate-goals}
+   + Active sus metas {#activate-goals}
       + [Activar metas](/help/workfront-goals/activate-your-goals/activate-goals-in-workfront.md)
       + [Activar alineando una meta con otra](/help/workfront-goals/activate-your-goals/activate-by-aligning-a-goal-to-another-goal.md)
       + [Agregar un resultado a una meta](/help/workfront-goals/activate-your-goals/add-a-result-to-a-goal.md)
       + [Agregar una actividad y un proyecto a una meta](/help/workfront-goals/activate-your-goals/add-an-activity-to-a-goal.md)
 
-   + Administrar sus metas {#manage-goals}
+   + Administre sus metas {#manage-goals}
       + [Alinear sus metas](/help/workfront-goals/manage-your-goals/align-your-goals.md)
       + [Eliminar alineación de metas](/help/workfront-goals/manage-your-goals/remove-goal-alignment.md)
       + [Actualización del progreso en resultados y actividades](/help/workfront-goals/manage-your-goals/make-a-quantitative-update.md)
       + [Cierre de la meta una vez completada](/help/workfront-goals/manage-your-goals/close-a-goal-once-complete.md)
 
-   + Supervisar sus metas {#monitor-goals}
+   + Supervise sus metas {#monitor-goals}
       + [Explicación de la sección de gráficos](/help/workfront-goals/monitor-your-goals/understand-the-graphs-section.md)
       + [Cálculo del progreso de la meta](/help/workfront-goals/monitor-your-goals/calculate-goal-progress.md)
       + [Comunicar el estado de la meta](/help/workfront-goals/monitor-your-goals/communicate-goal-status.md)
 
-+ Planificación de Workfront {#workfront-planning}
++ Workfront Planning {#workfront-planning}
    + [Añadir Planning a la instancia](/help/workfront-planning/add-planning-to-your-instance.md)
    + [Crear un espacio de trabajo](/help/workfront-planning/create-a-workspace.md)
    + [Creación y administración de un tipo de registro](/help/workfront-planning/create-and-manage-a-record-type.md)
@@ -554,7 +554,7 @@ ht-degree: 97%
       + [Personalizar la apariencia de [!UICONTROL Brand Connect]](/help/workfront-dam/brand-connect-customization/customize-the-appearance-of-brand-connect.md)
       + [Personalizar el aspecto de [!UICONTROL Brand Connect]](/help/workfront-dam/brand-connect-customization/customize-the-look-of-brand-connect.md)
 
-   + Usuario de DAM de Workfront: colaborador {#workfront-dam-contributor}
+   + Usuario de DAM de Workfront: Colaborador {#workfront-dam-contributor}
       + [Comprender [!UICONTROL DAM de Workfront] como colaborador](/help/workfront-dam/workfront-dam-user-contributor/contributor-getting-started.md)
       + [Comprender la administración de recursos como colaborador](/help/workfront-dam/workfront-dam-user-contributor/contributor-asset-management.md)
       + [Comprender la búsqueda de recursos como colaborador](/help/workfront-dam/workfront-dam-user-contributor/contributor-find-assets.md)
@@ -573,7 +573,7 @@ ht-degree: 97%
       + [Comprender los lightboxes como un usuario](/help/workfront-dam/brand-connect-user/brand-connect-lightboxes.md)
       + [Trabajar con recursos como usuario](/help/workfront-dam/brand-connect-user/brand-connect-working-with-assets.md)
 
-+ Página de inicio {#home}
++ Inicio {#home}
    + [Quitar, añadir y reorganizar widgets en Inicio](/help/workfront-home/remove-add-and-rearrange-widgets.md)
    + [Encontrar su trabajo](/help/workfront-home/find-your-work-in-workfront-home.md)
    + [Organizar la lista de tareas pendientes](/help/workfront-home/organize-your-to-do-list-in-workfront-home.md)
@@ -589,7 +589,7 @@ ht-degree: 97%
 
 + Agile {#agile}
 
-   + Introducción a Agile work management {#intro-to-agile}
+   + Introducción a administración de trabajo de Agile {#intro-to-agile}
       + [Ventajas del uso de Agile](/help/agile/benefits-of-using-agile.md)
       + [¿Cuál es la metodología Scrum y cómo funciona?](/help/agile/what-is-the-scrum-methodology.md)
       + [¿Cuál es la metodología Kanban y cómo funciona?](/help/agile/what-is-the-kanban-methodology.md)
@@ -606,7 +606,7 @@ ht-degree: 97%
       + [Crear un equipo Kanban](/help/agile/create-a-kanban-team.md)
       + [Administrar el trabajo como un equipo Kanban](/help/agile/manage-work-kanban-team.md)
 
-   + Tableros {#boards}
+   + Tableros  {#boards}
       + [Búsqueda y creación de un tablero básico](/help/boards/find-and-create-a-basic-board.md)
       + [Administrar columnas de tablero](/help/boards/manage-board-columns.md)
       + [Agregar tarjetas a un tablero](/help/boards/add-cards-to-a-board.md)
