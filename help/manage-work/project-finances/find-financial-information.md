@@ -37,7 +37,7 @@ El vídeo explica cómo acceder y administrar la información financiera de proy
 
 ## Tutoriales recomendados sobre este tema
 
-&lt;!—* [Buscar información financiera](/help/manage-work/project-finances/find-financial-information.md)—>
+<!--* [Buscar información financiera](/help/manage-work/project-finances/find-financial-information.md)-->
 * [Actualizar finanzas](/help/manage-work/project-finances/update-and-review-finances.md)
 * [Información sobre las múltiples tasas de facturación](/help/manage-work/project-finances/multiple-billing-rates.md)
 
