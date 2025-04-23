@@ -10,14 +10,14 @@ team: Technical Marketing
 thumbnail: view-utilization.png
 jira: KT-10187
 exl-id: b54b9ae2-e0b0-4118-9302-9a6e2b613e36
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 065e0f03540cc8fd69d066dbb9c687d9feaff5bf
 workflow-type: tm+mt
 source-wordcount: '177'
 ht-degree: 100%
 
 ---
 
-# Ver los filtros y cómo utilizar el Planificador de recursos
+# Ver la utilización y filtrar el Planificador de recursos
 
 Con el Planificador de recursos, obtiene una visión clara de los proyectos en los que está interesado y una mirada en tiempo real de cómo su fuerza laboral se apila para ejecutarlos.
 
