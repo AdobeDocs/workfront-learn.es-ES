@@ -9,7 +9,7 @@ role: Admin
 level: Intermediate, Experienced
 jira: KT-10021
 exl-id: d1e5c2d6-b001-4e9e-b72d-c792c70d09e8
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 4568e4e47b719e2dee35357d42674613112a9c43
 workflow-type: tm+mt
 source-wordcount: '321'
 ht-degree: 100%
@@ -48,10 +48,10 @@ Pestaña ![[!UICONTROL Problemas] de la página [!UICONTROL Estados] en [!UICONT
 >
 >No se pueden crear más tipos de problemas ni eliminar un tipo de problema.
 
-<!---
+<!--
 learn more URLs
 Customize default issue types
---->
+-->
 
 ## Cambiar el término “problema” en Workfront
 
@@ -60,13 +60,13 @@ Los administradores de Workfront pueden utilizar la funcionalidad de plantilla d
 
 Ventana de ![[!UICONTROL Terminología] con [!UICONTROL Problema] resaltado](assets/admin-fund-issue-custom-terminology.png)
 
-<!---
+<!--
 paragraph below needs a hyperlink
---->
+-->
 
 Descubra cómo los administradores de sistemas y grupos pueden crear plantillas de diseño en la ruta de aprendizaje, Aspectos básicos del administrador en la nueva experiencia de [!DNL Workfront]: parte 3, Experiencia de control e interfaz.
 
-<!---
+<!--
 learn more URLs
 Create and manage layout templates
---->
+-->

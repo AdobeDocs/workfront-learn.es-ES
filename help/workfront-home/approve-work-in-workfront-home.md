@@ -10,7 +10,7 @@ team: Technical Marketing
 jira: KT-8804
 exl-id: b5ec0919-01b1-4bc8-86bd-91ee73d925a6
 doc-type: video
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
+source-git-commit: 4568e4e47b719e2dee35357d42674613112a9c43
 workflow-type: tm+mt
 source-wordcount: '57'
 ht-degree: 100%
@@ -27,6 +27,6 @@ Este vídeo contiene información sobre:
 
 >[!VIDEO](https://video.tv.adobe.com/v/335105/?quality=12&learn=on&enablevpops)
 
-<!---
+<!--
 learn more URLs
---->
+-->

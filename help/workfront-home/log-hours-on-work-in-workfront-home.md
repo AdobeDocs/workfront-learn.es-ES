@@ -11,7 +11,7 @@ thumbnail: 335103.png
 jira: KT-8802
 exl-id: 3bd3b403-bfa3-4120-8afe-7566fc8f184f
 doc-type: video
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
+source-git-commit: 4568e4e47b719e2dee35357d42674613112a9c43
 workflow-type: tm+mt
 source-wordcount: '140'
 ht-degree: 100%
@@ -34,6 +34,6 @@ Algunas opciones relacionadas con el registro del tiempo dependen de cómo el ad
 * Puede que no pueda registrar el tiempo en días futuros.
 * Es posible que tenga que seleccionar un tipo de hora en el menú desplegable para que sea más específico sobre cómo ha dedicado su tiempo. Este tipo de hora también puede indicar si su tiempo era facturable o no facturable. Asegúrese de seleccionar el tipo de hora antes de hacer clic en el botón [!UICONTROL Registrar tiempo].
 
-<!---
+<!--
 learn more URLs
---->
+-->

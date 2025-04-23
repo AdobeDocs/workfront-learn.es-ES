@@ -1,6 +1,6 @@
 ---
 title: Configurar los valores predeterminados de ingresos y costes de las tareas
-description: Aprenda cómo se utilizan el tipo de ingresos y el tipo de coste para calcular la información financiera real y planificada de una tarea.
+description: Descubra dónde se utilizan el tipo de ingresos y los tipos de costes y cómo configurar los valores predeterminados del sistema.
 activity: use
 team: Technical Marketing
 feature: Work Management
@@ -10,43 +10,35 @@ role: User
 level: Intermediate
 jira: KT-10066
 exl-id: d82d889d-3f50-41d3-951c-995b49727d9c
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+last-substantial-update: 2025-04-23T00:00:00Z
+recommendations: noDisplay,catalog
+doc-type: video
+source-git-commit: 4568e4e47b719e2dee35357d42674613112a9c43
 workflow-type: tm+mt
-source-wordcount: '202'
-ht-degree: 100%
+source-wordcount: '204'
+ht-degree: 15%
 
 ---
 
+
 # Configurar los valores predeterminados de ingresos y costes de las tareas
 
-El tipo de ingresos y el tipo de coste se utilizan para calcular la información financiera planeada y real de una tarea. La información predeterminada para cada una de ellas se puede establecer en todo el sistema, por lo que se aplica a cada nueva tarea creada. La información se puede cambiar en proyectos individuales o configurarse en plantillas de proyecto.
+Descubra dónde se utilizan el tipo de ingresos y los tipos de costes y cómo configurar los valores predeterminados del sistema.
 
-**Hay cinco tipos de ingresos predeterminados disponibles:**
+>[!VIDEO](https://video.tv.adobe.com/v/3457685/?quality=12&learn=on&enablevpops)
 
-* No facturable
-* Usuario por hora
-* Rol por hora
-* Fijo por hora
-* Ingresos fijos
+## Puntos clave
 
-**Y cuatro tipos de costes predeterminados:**
+* **Visualización de datos de costos e ingresos:** Se puede acceder a los detalles de costos e ingresos de las tareas si se abre la tarea, se seleccionan los detalles de la tarea y se desplaza a la sección finanzas. palo de golf
+* **Valores predeterminados para las tareas:** Los administradores del sistema pueden establecer tipos de ingresos y costos predeterminados para los jefes de proyecto si navegan hasta &quot;Configuración > Preferencias del proyecto > Tareas y problemas&quot;.
+* **Valor predeterminado de tipo de ingresos comunes:** &quot;Rol por hora&quot; es un valor predeterminado típico del tipo de ingresos, lo que permite registrar el tiempo registrado como potencialmente facturable si el usuario tiene un rol con una tasa de ingresos. palo de golf
+* **Impacto de la configuración de ingresos:** Si el tipo de ingresos se establece en &quot;No facturable&quot;, no se registrarán ingresos para la tarea. palo de golf
+* **Valor predeterminado de tipo de costo común:** &quot;Usuario por hora&quot; se usa a menudo como tipo de costo predeterminado y extrae los datos de costo directamente del perfil del usuario para realizar un seguimiento eficaz. palo de golf
 
-* Sin coste
-* Fijo por hora
-* Usuario por hora
-* Rol por hora
 
->[!NOTE]
->
->Cuando los tipos de ingresos o costes se establecen en No facturable o Sin coste, no se generan los ingresos ni las estimaciones de costes para la tarea. Por lo tanto, el trabajo en la tarea no contribuye a los ingresos o costes a nivel de proyecto.
+## Tutoriales recomendados sobre este tema
 
-## Configurar ingresos y costes predeterminados
-
-Seleccione **[!UICONTROL Configuración]** en el menú principal.
-
-1. Haga clic en **[!UICONTROL Preferencias de proyecto]** en el menú del panel izquierdo.
-1. A continuación, haga clic en **[!UICONTROL Tareas y problemas]**.
-1. En la sección [!UICONTROL Nueva tarea predeterminada], seleccione [!UICONTROL Tipo de ingresos] y [!UICONTROL Tipo de coste].
-1. Haga clic en Guardar cuando termine.
-
-![Una imagen de configuración de ingresos y valores predeterminados de coste](assets/setting-up-finances-3.png)
+* [Comprender las métricas de rendimiento](/help/manage-work/project-finances/understand-performance-metrics.md)
+* [Configuración de tipos de cambio](/help/manage-work/project-finances/set-up-exchange-rates.md)
+* [Configurar tipos de gastos](/help/manage-work/project-finances/set-up-expense-types.md)
+* [Comprender el acceso financiero](/help/manage-work/project-finances/understand-financial-access.md)

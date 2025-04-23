@@ -10,16 +10,16 @@ level: Intermediate
 thumbnail: setupautoreminds.png
 jira: KT-10092
 exl-id: 69d5b383-af3a-4414-92fe-32c8cf869d25
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 4568e4e47b719e2dee35357d42674613112a9c43
 workflow-type: tm+mt
 source-wordcount: '197'
 ht-degree: 100%
 
 ---
 
-<!---
+<!--
 this has the same content as the system administrator notification setup and mangement section of the email and inapp notificiations learning path
---->
+-->
 
 # Configurar recordatorios automáticos
 

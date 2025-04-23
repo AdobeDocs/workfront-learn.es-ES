@@ -9,7 +9,7 @@ role: Admin
 level: Intermediate, Experienced
 jira: KT-10020
 exl-id: a5a9280b-0d48-413d-92de-f6a949e6b210
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 4568e4e47b719e2dee35357d42674613112a9c43
 workflow-type: tm+mt
 source-wordcount: '368'
 ht-degree: 100%
@@ -69,8 +69,8 @@ La columna ![[!UICONTROL Ocultar] aparece resaltada en la página de [!UICONTROL
 
 ![Eliminar ventana de gravedad](assets/admin-fund-severity-delete.png)
 
-<!---
+<!--
 learn more URLs
 Create and customize issue severities
 Update issue severity
---->
+-->

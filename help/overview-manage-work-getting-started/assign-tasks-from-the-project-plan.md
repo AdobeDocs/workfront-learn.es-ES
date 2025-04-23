@@ -14,7 +14,7 @@ recommendations: noDisplay,catalog
 hide: true
 doc-type: video
 exl-id: ed10cc29-d0dd-4b15-abd8-da1758399f8b
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
+source-git-commit: 4568e4e47b719e2dee35357d42674613112a9c43
 workflow-type: tm+mt
 source-wordcount: '99'
 ht-degree: 100%
@@ -33,14 +33,14 @@ En este vídeo, aprenderá lo siguiente:
 
 >[!VIDEO](https://video.tv.adobe.com/v/335092/?quality=12&learn=on&enablevpops)
 
-<!---
+<!--
 learn more urls:
 Notifications: Information about work assigned to me
 Assign tasks
 Personal time overview
 Make smart assignments
 Modify multiple user assignments in a task list
---->
+-->
 
 ## Tutoriales recomendados sobre este tema
 

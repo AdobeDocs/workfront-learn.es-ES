@@ -11,7 +11,7 @@ team: Technical Marketing
 jira: KT-8782
 hide: true
 doc-type: video
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
+source-git-commit: 4568e4e47b719e2dee35357d42674613112a9c43
 workflow-type: tm+mt
 source-wordcount: '111'
 ht-degree: 100%
@@ -32,8 +32,8 @@ Este vídeo contiene información sobre:
 >Como se indica en el vídeo, es importante que las personas cambien el estado de **[!UICONTROL Nuevo]** a **[!UICONTROL En curso]** cuando inician una tarea, de modo que la [!UICONTROL Fecha de inicio real] sea correcta. Pero si se olvidan de hacerlo cuando inicien la tarea, podrán volver atrás y editar la [!UICONTROL Fecha de inicio real] en cualquier momento.
 
 
-<!---
+<!--
 Task progress status overview
 Definitions for the project, task, and issue dates within Workfront
 Project timelines
---->
+-->

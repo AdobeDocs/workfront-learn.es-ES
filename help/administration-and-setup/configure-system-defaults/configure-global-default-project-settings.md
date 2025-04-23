@@ -11,7 +11,7 @@ thumbnail: 335065.png
 jira: KT-8753
 exl-id: b961ba8c-9597-4ed4-a6d7-79689c8e290d
 doc-type: video
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
+source-git-commit: 4568e4e47b719e2dee35357d42674613112a9c43
 workflow-type: tm+mt
 source-wordcount: '379'
 ht-degree: 100%
@@ -20,9 +20,9 @@ ht-degree: 100%
 
 # Configuración de los ajustes predeterminados globales del proyecto
 
-<!---
+<!--
 21.4 updates have been made
---->
+-->
 
 Este vídeo contiene información sobre:
 
@@ -79,7 +79,7 @@ Sección ![[!UICONTROL Estado del proyecto] en la página [!UICONTROL Grupo]](as
 
 Si su organización no utiliza administradores de grupos, el administrador del sistema puede gestionar la configuración de preferencias de los distintos grupos.
 
-<!---
+<!--
 learn more URLs and guides
 Create or edit a group status 
 Group administrators 
@@ -87,4 +87,4 @@ Configure system-wide project preferences
 Configure project preferences for a group 
 Configure task and issue preferences for a group 
 Create and modify a group’s schedule 
---->
+-->

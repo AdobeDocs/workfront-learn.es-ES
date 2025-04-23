@@ -10,7 +10,7 @@ level: Beginner
 thumbnail: 10034.jpeg
 jira: KT-10034
 exl-id: 3579de79-973b-4db9-a299-9fa1836d0467
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 4568e4e47b719e2dee35357d42674613112a9c43
 workflow-type: tm+mt
 source-wordcount: '220'
 ht-degree: 100%
@@ -41,9 +41,9 @@ Los usuarios importados aparecen en la lista de [!UICONTROL Usuarios]. Edite la 
 
 [!DNL Workfront] proporciona una plantilla inicial para importar datos en el sistema. También se puede utilizar para importar usuarios. Antes de usar el inicio inicial, [!DNL Workfront] recomienda trabajar con su consultor de [!DNL Workfront], ya que hay consideraciones que debe tener en cuenta.
 
-<!---
+<!--
 paragraph below needs URL to article
---->
+-->
 
 Consulte Importar datos en Workfront a través de Kick-Starts para obtener información detallada.
 

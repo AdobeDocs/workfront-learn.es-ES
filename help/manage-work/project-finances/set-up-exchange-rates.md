@@ -1,6 +1,6 @@
 ---
 title: Configuración de tipos de cambio
-description: Aprenda a utilizar los tipos de cambio en proyectos e informes para reflejar la información financiera en las distintas divisas globales.
+description: Personalice la configuración de moneda con una administración flexible del tipo de cambio, personalización global y de nivel de proyecto, y opciones de entrada manuales para un seguimiento financiero preciso.
 activity: use
 team: Technical Marketing
 feature: Work Management
@@ -10,37 +10,34 @@ role: User
 level: Intermediate
 jira: KT-10049
 exl-id: f0d5bbe3-54e6-41be-8497-e54ad7cd7707
-source-git-commit: 16e31674c519ae5b11f7fd665289e697f5f816ed
+last-substantial-update: 2025-04-23T00:00:00Z
+recommendations: noDisplay,catalog
+doc-type: video
+source-git-commit: 4568e4e47b719e2dee35357d42674613112a9c43
 workflow-type: tm+mt
-source-wordcount: '219'
-ht-degree: 100%
+source-wordcount: '277'
+ht-degree: 10%
 
 ---
 
 # Configuración de tipos de cambio
 
-[!DNL Workfront] admite diferentes divisas para organizaciones de clientes que representan a empresas multinacionales. Los tipos de cambio pueden utilizarse en proyectos e informes para reflejar información financiera en distintas divisas de todo el mundo.
+El vídeo proporciona una guía sobre la administración de monedas en el sistema de seguimiento financiero de Workfront. palo de golf Explica que la moneda predeterminada es el dólar estadounidense, pero se pueden configurar monedas adicionales a nivel global o para proyectos individuales y funciones del puesto.
+El video enfatiza que el sistema no proporciona tasas de cambio actuales, por lo que los usuarios deben obtenerlas externamente. palo de golf Una vez configuradas, las tasas de cambio se convierten en las predeterminadas para los proyectos o roles de trabajo, pero no se actualizan automáticamente; los usuarios con los permisos adecuados deben actualizarlas manualmente. palo de golf Después de configurar las monedas, los usuarios pueden crear nuevos proyectos y seleccionar entre las opciones de moneda disponibles, con la capacidad de personalizar las tasas de cambio para proyectos individuales. palo de golf
 
-Los administradores del sistema gestionan los tipos de cambio. Se pueden configurar divisas adicionales según sea necesario para su organización.
+>[!VIDEO](https://video.tv.adobe.com/v/3457693/?quality=12&learn=on&enablevpops)
 
-La divisa base predeterminada de Workfront es el dólar estadounidense. Esta es la moneda en la que se calculará la información financiera de forma predeterminada. Este valor predeterminado se puede cambiar de manera global y en proyectos individuales.
+## Puntos clave
 
-## Configuración de divisas y tipos de cambio
+* **Moneda predeterminada:** La moneda predeterminada del sistema es el dólar estadounidense, pero esto se puede cambiar a nivel global o para proyectos individuales y roles. palo de golf
+* **Agregar monedas:** Se pueden configurar monedas adicionales junto con sus tasas de cambio en el área de configuración. palo de golf
+* **Actualizaciones manuales de tasas de cambio:** El sistema no proporciona tasas de cambio actuales; los usuarios deben obtenerlas de forma externa e introducirlas manualmente. palo de golf
+* **Personalización específica del proyecto:** Las tasas de cambio establecidas en el área de configuración se usan como valores predeterminados, pero los usuarios pueden personalizar las tasas de cambio para proyectos individuales. palo de golf
+* **Actualizaciones y permisos:** Los cambios en el área de configuración no actualizan automáticamente los proyectos existentes. La actualización de las tasas de cambio para proyectos o funciones de trabajo requiere los permisos de usuario adecuados.
 
-![Una imagen de la selección de tipos de cambio](assets/setting-up-finances-4.png)
+## Tutoriales recomendados sobre este tema
 
-**Seleccione [!UICONTROL Configuración] en el menú principal.**
-
-1. Expanda **[!UICONTROL Preferencias del proyecto]** en el panel de menú de la izquierda.
-1. Haga clic en **[!UICONTROL Tipos de cambio]**.
-1. Haga clic en el botón **[!UICONTROL Agregar divisa]**.
-1. Seleccione la moneda del país en la lista desplegable.
-1. Introduzca el tipo de cambio deseado para la divisa.
-1. Si una divisa que no sea el dólar de los EE. UU. debe establecerse como la moneda base del sistema de [!DNL Workfront] (predeterminada), haga clic en el botón situado junto al nombre de la divisa.
-1. Haga clic en **[!UICONTROL Guardar]** cuando se hayan agregado todas las divisas.
-
-![Una imagen de la adición de una divisa a la lista de tipos de cambio](assets/setting-up-finances-5.png)
-
->[!NOTE]
->
->Workfront no actualiza ni sigue los valores de mercado actuales de los tipos de cambio. Las actualizaciones, si es necesario, deben realizarse manualmente.
+* [Comprender las métricas de rendimiento](/help/manage-work/project-finances/understand-performance-metrics.md)
+* [Configurar los valores predeterminados de ingresos y costes de las tareas](/help/manage-work/project-finances/set-up-task-revenue-and-cost-defaults.md)
+* [Configurar tipos de gastos](/help/manage-work/project-finances/set-up-expense-types.md)
+* [Comprender el acceso financiero](/help/manage-work/project-finances/understand-financial-access.md)

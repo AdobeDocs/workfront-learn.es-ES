@@ -9,7 +9,7 @@ role: Admin, Leader, User
 level: Beginner
 jira: KT-10098
 exl-id: afc02878-e72e-4707-9a9b-94f1dc4694aa
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 4568e4e47b719e2dee35357d42674613112a9c43
 workflow-type: tm+mt
 source-wordcount: '419'
 ht-degree: 100%
@@ -60,6 +60,6 @@ Para cancelar la suscripción de un usuario, haga clic de nuevo en la ventana pa
 
 Opción de menú ![[!UICONTROL Cancelar suscripción] de un proyecto](assets/admin-fund-user-notifications-14.png)
 
-<!---
+<!--
 learn more URL: Subscribe to items in Workfront
---->
+-->

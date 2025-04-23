@@ -9,7 +9,7 @@ role: Admin
 level: Intermediate, Experienced
 jira: KT-10019
 exl-id: 1689080d-1d3c-4fad-a353-64fb3b0d5851
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 4568e4e47b719e2dee35357d42674613112a9c43
 workflow-type: tm+mt
 source-wordcount: '284'
 ht-degree: 100%
@@ -47,14 +47,14 @@ Los administradores de grupos pueden hacer clic en la sección [!UICONTROL Grupo
 
 Sección ![[!UICONTROL Estados] de la página [!UICONTROL Grupo] ](assets/admin-fund-group-issue-statuses.png)
 
-<!---
+<!--
 For detailed information on how managing statuses can be done by group administrators, see these articles:
 Create and customize group statuses
 Group administrators
---->
+-->
 
-<!---
+<!--
 learn more URLs
 Issue statuses
 Create and customize system-wide statuses
---->
+-->

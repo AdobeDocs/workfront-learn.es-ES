@@ -1,6 +1,6 @@
 ---
 title: Comprender las métricas de rendimiento
-description: 'Aprenda a utilizar las métricas de rendimiento: el [!UICONTROL Método de índice de rendimiento] ([!UICONTROL PIM]) y la [!UICONTROL Estimación al finalizar] ([!UICONTROL EAC]).'
+description: Descubra métricas de rendimiento financiero adaptables con métodos de cálculo flexibles, valores predeterminados globales y anulaciones a nivel de proyecto, lo que permite a los administradores y jefes de proyecto adaptar eficazmente las métricas financieras a las necesidades del proyecto.
 activity: use
 team: Technical Marketing
 feature: Work Management
@@ -10,56 +10,47 @@ role: User
 level: Intermediate
 jira: KT-10065
 exl-id: 190c66f5-b412-48bd-8695-3bd7da088ccb
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+last-substantial-update: 2025-04-23T00:00:00Z
+recommendations: noDisplay,catalog
+doc-type: video
+source-git-commit: 4568e4e47b719e2dee35357d42674613112a9c43
 workflow-type: tm+mt
-source-wordcount: '423'
-ht-degree: 100%
+source-wordcount: '421'
+ht-degree: 6%
 
 ---
 
 # Comprender las métricas de rendimiento
 
-Entre las dos métricas de rendimiento que utilizan los administradores del proyecto se incluye el [!UICONTROL Método de índice de rendimiento] ([!UICONTROL PIM]) y la [!UICONTROL Estimación al finalizar] ([!UICONTROL EAC]). Los valores predeterminados de todo el sistema se pueden configurar en [!DNL Workfront] y se aplican a proyectos de nueva creación. El [!UICONTROL PIM] se puede modificar en proyectos individuales.
+El vídeo analiza las métricas y la configuración de rendimiento financiero para la administración de proyectos. palo de golf Los puntos clave incluyen:
 
-**[!UICONTROL GIP]**
+**Información general de métricas de rendimiento:** Las métricas como índice de rendimiento de costos, índice de rendimiento de programación, índice de rendimiento de programación de costos y finalización estimada están disponibles en la ficha Detalles del proyecto y en la sección de finanzas. palo de golf Se puede acceder a la documentación de los cálculos a través de los vínculos de la burbuja de información.
 
-La configuración del [!UICONTROL PIM] controla cómo [!DNL Workfront] calcula otras métricas de rendimiento del proyecto, como el [!UICONTROL Índice de rendimiento de costes] ([!UICONTROL CPI]), el [!UICONTROL Índice de rendimiento de la programación de costes] ([!UICONTROL CSI]), el [!UICONTROL Índice de rendimiento de la programación] ([!UICONTROL SPI]) y la [!UICONTROL Estimación al finalizar] ([!UICONTROL EAC]).
+**Método de índice de rendimiento (PIM):** El jefe de proyecto puede seleccionar el método para calcular el índice de rendimiento de costo (CPI) y estimar al finalizar (EAC), ya sea basado en horas (finalización en horas) o en costos (finalización en dinero). palo de golf Los administradores del sistema pueden establecer el método predeterminado de forma global, pero los jefes de proyecto pueden ajustarlo para proyectos individuales. palo de golf
 
-Las opciones para el [!UICONTROL PIM] están basadas en horas y en costes.
+**Cálculo de estimación al finalizar (EAC):** Los administradores del sistema pueden establecer el método de cálculo predeterminado de forma global, con dos opciones:
+* **Resumen de tareas/subtareas:** Agrega valores de estimación al finalizar de tareas secundarias, pero excluye las horas agregadas directamente a tareas principales o al nivel de proyecto. palo de golf
+* **Calculado a nivel de proyecto:** Incluye los valores de estimación al finalizar a partir de las tareas secundarias y las horas agregadas directamente a las tareas principales o al nivel de proyecto. Esta es la opción predeterminada recomendada. palo de golf
 
-* **Basado en horas:** Workfront utiliza las horas planificadas para calcular el CPI y el EAC del proyecto. El EAC del proyecto se muestra como un número, en horas.
-* **Basado en los costes:** Workfront utiliza el coste planificado de mano de obra para calcular el CPI y el EAC del proyecto. El EAC aparece como un valor de moneda. Al utilizar esta opción, asegúrese de que los destinatarios de las tareas (usuarios y funciones) estén asociados con las tasas de coste.
+El vídeo destaca la flexibilidad y el control disponibles tanto para los administradores de sistemas como para los jefes de proyecto a la hora de administrar las métricas y los cálculos de rendimiento. palo de golf
 
-**[!UICONTROL EAC]**
+>[!VIDEO](https://video.tv.adobe.com/v/3457682/?quality=12&learn=on&enablevpops)
 
-El [!UICONTROL EAC] representa el coste total proyectado de la tarea o proyecto cuando se completa. Las opciones se calculan en el nivel de proyecto y se resumen desde tareas/subtareas.
+## Puntos clave
 
-* **Calcular en el nivel de proyecto:** el [!UICONTROL EAC] para la tarea principal y el proyecto se determinan utilizando las horas/costes laborales reales en las fórmulas del [!UICONTROL EAC]. El cálculo incluye las horas/costes reales y los gastos añadidos directamente a la tarea o proyecto principal.
-* R **esumen de tareas/subtareas:** el [!UICONTROL EAC] para la tarea principal y el proyecto se determinan añadiendo el [!UICONTROL EAC] para cada tarea secundaria. Este cálculo excluye las horas/costes reales añadidos directamente a una tarea principal o proyecto.
 
-Los cálculos [!UICONTROL EAC] se enumeran en [Calcular estimación al finalizar (EAC)](https://experienceleague.adobe.com/docs/workfront/using/manage-work/projects/project-finances/calculate-eac.html?lang=es).
+* **Acceso a métricas de rendimiento:** Las métricas clave como el índice de rendimiento de costos (CPI), el índice de rendimiento de programación (SPI) y la estimación al finalizar (EAC) se pueden encontrar en la ficha Detalles del proyecto en la sección Finanzas, con documentación disponible a través de vínculos de burbuja de información. palo de golf
+* **Método del índice de rendimiento:** Los jefes de proyecto pueden elegir entre métodos basados en horas o en costos para calcular métricas, mientras que los administradores de sistema pueden establecer un valor predeterminado global.
+* **Opciones de cálculo de estimación al finalizar:** Hay dos métodos disponibles:
+   * Resumen de tareas/subtareas (excluye las horas agregadas directamente a tareas principales o a nivel de proyecto). palo de golf
+   * Se calcula en el nivel de proyecto (incluye las horas agregadas directamente a las tareas principales o al nivel de proyecto). Se recomienda esta última opción. palo de golf
+* **Configuración global frente a nivel de proyecto:** Los administradores del sistema pueden establecer valores predeterminados globales para el método de índice de rendimiento y estimar los cálculos al finalizar, pero los jefes de proyecto pueden anular la configuración del método de índice de rendimiento para proyectos individuales. palo de golf
+* **Flexibilidad en la administración de métricas:** El sistema proporciona herramientas para que los administradores y los jefes de proyecto personalicen y administren las métricas de rendimiento de forma eficaz, lo que garantiza la adaptabilidad a las necesidades específicas del proyecto.
 
-**Métricas de rendimiento: Configuración**
+## Tutoriales recomendados sobre este tema
 
-Para configurar los valores predeterminados del sistema [!UICONTROL PIM] y [!UICONTROL EAC], haga lo siguiente:
-
-1. Seleccione **[!UICONTROL Configuración]** del menú principal.
-1. Haga clic en **[!UICONTROL Preferencias de proyecto]** en el menú del panel izquierdo, y luego en **[!UICONTROL Proyectos]**
-1. En la sección [!UICONTROL Estado del proyecto], busque [!UICONTROL Método de índice de rendimiento]. Seleccione Basado en horas o en costes.
-1. Para [!UICONTROL Estimación al finalizar], seleccione Calcular en el nivel de proyecto o Resumen de tareas/subtareas.
-1. Haga clic en **[!UICONTROL Guardar]** en la parte inferior de la ventana.
-
-![Una imagen de la pantalla [!UICONTROL Preferencias del proyecto] ](assets/setting-up-finances-1.png)
-
-**Establezca [!UICONTROL PIM] en proyectos individuales**
-
-1. Vaya a la página de aterrizaje de un proyecto.
-1. Haga clic en **[!UICONTROL Detalles del proyecto]** en el panel izquierdo.
-1. Abra la sección **[!UICONTROL Finanzas]** para obtener más información.
-1. Haga doble clic en el texto siguiente **[!UICONTROL Método de índice de rendimiento]** para editarlo.
-1. Seleccione Basado en horas o en costes.
-1. Haga clic en **[!UICONTROL Guardar]** Cambios para finalizar.
-
-![Una imagen de la pantalla [!UICONTROL Detalles del proyecto] ](assets/setting-up-finances-2.png)
-
-El [!UICONTROL PIM] se puede configurar en una plantilla de proyecto, en la sección [!UICONTROL Finanzas] de los detalles de la plantilla.
+<!--* * [Understand performance metrics](/help/manage-work/project-finances/understand-performance-metrics.md)-->
+* [Configurar los valores predeterminados de ingresos y costes de las tareas](/help/manage-work/project-finances/set-up-task-revenue-and-cost-defaults.md)
+* [Configuración de tipos de cambio](/help/manage-work/project-finances/set-up-exchange-rates.md)
+* [Configurar tipos de gastos](/help/manage-work/project-finances/set-up-expense-types.md)
+* [Comprender el acceso financiero](/help/manage-work/project-finances/understand-financial-access.md)
