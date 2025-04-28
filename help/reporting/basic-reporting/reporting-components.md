@@ -1,6 +1,6 @@
 ---
 title: Información sobre los componentes del sistema de informes
-description: Información sobre los componentes clave detrás de los informes y cómo se utilizan en un elemento de informes en Workfront.
+description: Los componentes de informes de Workfront refinan la visualización de datos con filtros basados en objetos, vistas dinámicas, agrupaciones estructuradas y la funcionalidad de comodín para obtener perspectivas adaptadas.
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335146.jpeg
@@ -11,21 +11,32 @@ team: Technical Marketing
 jira: KT-8850
 exl-id: e9f9ba24-540f-49e1-ac52-740df489317b
 doc-type: video
-source-git-commit: 2c9e57b8f85c74061bd3e52ef4eaea60bc4ec5bb
+source-git-commit: 83382bc990fb6e3e39a8f858d3710cce14179a95
 workflow-type: tm+mt
-source-wordcount: '281'
-ht-degree: 95%
+source-wordcount: '533'
+ht-degree: 42%
 
 ---
 
 # Información sobre los componentes del sistema de informes
 
-Este vídeo contiene información sobre:
+En el vídeo se explica el concepto de los componentes de creación de informes en Workfront, que son esenciales para crear filtros, vistas y agrupaciones. Los componentes clave incluyen:
 
-* Los componentes clave de los informes de Workfront
-* El uso de estos componentes en un elemento de informes
+* **Tipo de objeto:** Especifica el objeto de Workfront que se está tratando, como un proyecto, una tarea o una entrada de hora. palo de golf Los filtros, las vistas y las agrupaciones son específicos del tipo de objeto. palo de golf
+* **Source de campo y Nombre de campo:** El origen de campo es el elemento de Workfront donde se adjunta información y el nombre de campo es la información específica (por ejemplo, &quot;descripción&quot; de un proyecto). palo de golf
+* **Campo de valor:** Representa el contenido de un campo, como &quot;bajo&quot;, &quot;normal&quot;, &quot;alto&quot; o &quot;urgente&quot; para el campo de prioridad. palo de golf
+* **Calificador de filtro:** Define qué valores incluir o excluir en un informe, como mostrar tareas con una prioridad &quot;alta&quot;.
+
 
 >[!VIDEO](https://video.tv.adobe.com/v/335146/?quality=12&learn=on)
+
+## Puntos clave
+
+* **Componentes de informes:** Los componentes de informes de Workfront incluyen el tipo de objeto, el origen del campo, el nombre del campo, los calificadores de filtro y el campo de valor, que son esenciales para crear filtros, vistas y agrupaciones. palo de golf
+* **Especificidad del tipo de objeto:** Los filtros, las vistas y las agrupaciones están vinculados a tipos de objetos específicos, como proyectos, tareas o entradas de horas, lo que garantiza que los informes se adapten a los datos relevantes. palo de golf
+* **Reglas de filtro:** Los filtros utilizan el origen del campo, el nombre del campo, los calificadores y los valores para definir los criterios. palo de golf Por ejemplo, el filtro &quot;Mis proyectos&quot; muestra solo los proyectos actuales en los que el usuario que ha iniciado sesión forma parte del equipo del proyecto. palo de golf
+* **Vistas y agrupaciones:** Las vistas muestran combinaciones de origen de campo y nombre de campo en columnas (por ejemplo, &quot;nombre de propietario&quot;), mientras que las agrupaciones organizan los datos según criterios específicos (por ejemplo, &quot;nombre de empresa&quot;).
+* **Uso de caracteres comodín:** Los caracteres comodín de los filtros permiten la coincidencia dinámica, como la identificación de usuarios que iniciaron sesión en un equipo de proyecto y la mejora de la personalización en los informes. palo de golf
 
 ## Referencia rápida de los componentes de informes
 
