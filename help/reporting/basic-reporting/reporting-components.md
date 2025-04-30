@@ -9,9 +9,10 @@ role: User
 level: Beginner
 team: Technical Marketing
 jira: KT-8850
+last-substantial-update: 2025-04-28T00:00:00Z
 exl-id: e9f9ba24-540f-49e1-ac52-740df489317b
 doc-type: video
-source-git-commit: 83382bc990fb6e3e39a8f858d3710cce14179a95
+source-git-commit: af53d11fcf3e81c8ea0176f4db9dcec77e9195ed
 workflow-type: tm+mt
 source-wordcount: '533'
 ht-degree: 42%
