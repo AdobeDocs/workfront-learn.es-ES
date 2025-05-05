@@ -1,6 +1,6 @@
 ---
 title: Combinación de varios archivos en una sola prueba
-description: Aprenda a optimizar el proceso de revisión combinando varios archivos en una sola revisión en  [!DNL  Workfront].
+description: Aprenda a optimizar el proceso de revisión combinando varios archivos en una sola revisión en  [!DNL &#x200B; Workfront].
 activity: use
 team: Technical Marketing
 feature: Workfront Proof

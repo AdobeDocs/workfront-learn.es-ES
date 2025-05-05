@@ -145,7 +145,7 @@ Cree una vista de plantilla de proyecto denominada “Estándar+estado activo”
 * [!UICONTROL Horas planificadas]
 * [!UICONTROL Coste planificado]
 * [!UICONTROL Indicadores]
-* [!UICONTROL Nombre del grupo ]
+* [!UICONTROL Nombre del grupo &#x200B;]
 * [!UICONTROL Está activo]
 
 

@@ -32,7 +32,7 @@ Una vez que sepa lo que se espera, puede empezar a revisar una prueba.
 
 Cuando un recurso esté listo para su revisión y aprobación, recibirá una notificación por correo electrónico.
 
-![Una imagen de un nuevo correo electrónico de prueba que solicita la revisión y aprobación de dos pruebas en [!DNL  Workfront].](assets/new-proof-emails.png)
+![Una imagen de un nuevo correo electrónico de prueba que solicita la revisión y aprobación de dos pruebas en [!DNL &#x200B; Workfront].](assets/new-proof-emails.png)
 
 Es importante tener en cuenta que este vínculo de prueba es único para usted. Si comparte el vínculo con alguien, cualquier comentario o marcado que se haga se etiquetará con su nombre.
 
@@ -63,7 +63,7 @@ También puede encontrar pruebas para revisar el panel de [!DNL Workfront] que s
 
 Si normalmente trabaja con proyectos, tareas o problemas en [!DNL Workfront], puede que prefiera abrir la prueba directamente desde la sección de [!DNL Documents] de ese elemento.
 
-![Una imagen de la sección [!UICONTROL Documentos] encontrada en una tarea de [!DNL  Workfront] con el vínculo [!UICONTROL Prueba abierta ]resaltado.](assets/open-proof-from-documents.png)
+![Una imagen de la sección [!UICONTROL Documentos] encontrada en una tarea de [!DNL &#x200B; Workfront] con el vínculo [!UICONTROL Prueba abierta &#x200B;]resaltado.](assets/open-proof-from-documents.png)
 
 1. Haga clic en el nombre del proyecto, la tarea o el problema.
 2. Haga clic en [!UICONTROL Documentos] en el menú del panel izquierdo de la página del elemento.

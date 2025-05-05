@@ -1,6 +1,6 @@
 ---
 title: Cerrar tareas y problemas
-description: Obtenga información sobre cómo asegurarse de que las tareas y los problemas se cierren antes de cerrar un proyecto en [!DNL  Workfront].
+description: Obtenga información sobre cómo asegurarse de que las tareas y los problemas se cierren antes de cerrar un proyecto en [!DNL &#x200B; Workfront].
 activity: use
 team: Technical Marketing
 feature: Work Management

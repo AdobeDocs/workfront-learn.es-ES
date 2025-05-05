@@ -1,6 +1,6 @@
 ---
 title: Explicación de los detalles de la prueba
-description: Profundizar en los detalles detrás de una prueba en [!DNL  Workfront] a través del panel de resumen y la página [!UICONTROL Detalles del documento].
+description: Profundizar en los detalles detrás de una prueba en [!DNL &#x200B; Workfront] a través del panel de resumen y la página [!UICONTROL Detalles del documento].
 activity: use
 team: Technical Marketing
 feature: Workfront Proof
@@ -47,7 +47,7 @@ Para obtener más información sobre la revisión, haga clic en [!UICONTROL Deta
 
 Esto lo lleva a la página [!UICONTROL Detalles del documento] y a una variedad de opciones adicionales en el panel izquierdo.
 
-![Una imagen de la página de la prueba en [!DNL  Workfront].](assets/document-details.png)
+![Una imagen de la página de la prueba en [!DNL &#x200B; Workfront].](assets/document-details.png)
 
 Es importante tener en cuenta que la capacidad de ver información relacionada con el proceso de revisión depende de los permisos de revisión en [!DNL Workfront].
 
