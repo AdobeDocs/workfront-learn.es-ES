@@ -30,7 +30,7 @@ En este vídeo aprenderá a comunicarse con todas las partes interesadas del pro
 * Problemas
 * Informes
 
->[!VIDEO](https://video.tv.adobe.com/v/3419150/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3436149/?quality=12&learn=on&enablevpops&captions=spa)
 
 >[!TIP]
 >

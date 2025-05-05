@@ -22,7 +22,7 @@ ht-degree: 10%
 El vídeo proporciona un tutorial sobre la creación de tareas en un proyecto de Workfront, que cubre el método largo y los métodos abreviados prácticos. Hace hincapié en la flexibilidad en la creación de tareas y proporciona sugerencias para una administración eficiente de las tareas.
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3419372/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3423162/?quality=12&learn=on&enablevpops&captions=spa)
 
 ## Puntos clave
 

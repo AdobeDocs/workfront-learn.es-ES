@@ -25,7 +25,7 @@ Este vídeo contiene información sobre:
 * Aprobación o rechazo de trabajos
 * Revisión de una prueba
 
->[!VIDEO](https://video.tv.adobe.com/v/335105/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3447910/?quality=12&learn=on&enablevpops&captions=spa)
 
 <!--
 learn more URLs

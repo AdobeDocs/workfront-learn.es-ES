@@ -27,7 +27,7 @@ Este vídeo contiene información sobre:
 * Adición de un filtro mediante un formulario personalizado
 * Sugerencias de filtrado
 
->[!VIDEO](https://video.tv.adobe.com/v/335043/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3439640/?quality=12&learn=on&enablevpops&captions=spa)
 
 >[!NOTE]
 >

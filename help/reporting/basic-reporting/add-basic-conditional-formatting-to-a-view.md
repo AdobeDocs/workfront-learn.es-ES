@@ -27,7 +27,7 @@ Este vídeo contiene información sobre:
 * ¿Qué formato condicional hay en una vista?
 * Cómo crear y modificar el formato condicional
 
->[!VIDEO](https://video.tv.adobe.com/v/335149/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3445444/?quality=12&learn=on&captions=spa)
 
 
 ## Resumen de formato condicional

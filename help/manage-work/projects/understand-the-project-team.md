@@ -24,7 +24,7 @@ ht-degree: 11%
 
 En este vídeo, aprenderá para qué se puede utilizar el equipo del proyecto y cómo mantenerlo.
 
->[!VIDEO](https://video.tv.adobe.com/v/3427227/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3444592/?quality=12&learn=on&enablevpops&captions=spa)
 
 ## Puntos clave
 

@@ -25,7 +25,7 @@ Este vídeo contiene información sobre:
 * Actualice sus propias solicitudes de aprobación
 * Búsqueda de notificaciones de Workfront
 
->[!VIDEO](https://video.tv.adobe.com/v/335109/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3440142/?quality=12&learn=on&enablevpops&captions=spa)
 
 <!--
 learn more URLS

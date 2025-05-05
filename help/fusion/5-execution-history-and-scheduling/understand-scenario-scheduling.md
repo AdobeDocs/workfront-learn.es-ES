@@ -25,4 +25,4 @@ Este vídeo contiene información sobre:
 
 * Qué programaciones, ciclos y ejecuciones de escenarios hay en Workfront Fusion
 
->[!VIDEO](https://video.tv.adobe.com/v/335284/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3417320/?quality=12&learn=on&enablevpops&captions=spa)

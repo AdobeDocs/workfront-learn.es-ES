@@ -27,7 +27,7 @@ Este vídeo contiene información sobre:
 * Cómo encontrar aprobaciones de tareas por resolver y ocuparse de ellas
 * Cómo encontrar aprobaciones de problemas por resolver y tratarlos
 
->[!VIDEO](https://video.tv.adobe.com/v/3439422/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3439427/?quality=12&learn=on&enablevpops&captions=spa)
 
 ## Tutoriales recomendados sobre este tema
 

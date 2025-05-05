@@ -25,4 +25,4 @@ Este vídeo contiene información sobre:
 * Cómo acceder a la configuración de informes
 * Para qué se usan algunas configuraciones comunes de informes
 
->[!VIDEO](https://video.tv.adobe.com/v/335159/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3445866/?quality=12&learn=on&enablevpops&captions=spa)

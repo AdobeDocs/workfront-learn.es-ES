@@ -28,4 +28,4 @@ En este tutorial de vídeo, aprenderá acerca de la configuración para lo sigui
 * Días libres personales
 * Roles
 
->[!VIDEO](https://video.tv.adobe.com/v/335161/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3420166/?quality=12&learn=on&enablevpops&captions=spa)

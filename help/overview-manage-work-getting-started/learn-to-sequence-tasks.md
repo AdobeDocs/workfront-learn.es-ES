@@ -31,7 +31,7 @@ Este vídeo contiene información sobre:
 * Cómo afectará la configuración de la fecha de inicio de una tarea a la restricción de tarea
 * Cómo introducir predecesoras
 
->[!VIDEO](https://video.tv.adobe.com/v/335091/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3447323/?quality=12&learn=on&enablevpops&captions=spa)
 
 <!--
 Learn more urls

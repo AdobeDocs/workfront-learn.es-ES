@@ -27,7 +27,7 @@ Para finalizar, haga clic en &quot;Copiar proyecto&quot;.
 Los problemas no se pueden copiar directamente durante este proceso, ya que no se consideran trabajo planificado. palo de golf Para copiar problemas, vaya a la pestaña Problemas, seleccione los problemas que desee y utilice la opción &quot;Copiar en&quot; para transferirlos al nuevo proyecto. palo de golf
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3456037/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3456041/?quality=12&learn=on&enablevpops&captions=spa)
 
 ## Puntos clave
 

@@ -33,7 +33,7 @@ Este vídeo proporciona información general sobre cómo navegar y administrar l
 * **Sección de documentos:** Permite cargar y administrar archivos y pruebas relacionados con el proyecto. palo de golf Los documentos adjuntos a las tareas se acumulan en el nivel de proyecto para facilitar el acceso. palo de golf
 
 
->[!VIDEO](https://video.tv.adobe.com/v/335085/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3449729/?quality=12&learn=on&enablevpops&captions=spa)
 
 ## Puntos clave
 

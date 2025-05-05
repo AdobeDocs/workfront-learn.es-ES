@@ -22,7 +22,7 @@ Este vídeo contiene información sobre:
 * Vista de solicitudes enviadas
 * Búsqueda de un borrador de una solicitud
 
->[!VIDEO](https://video.tv.adobe.com/v/336092/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3413113/?quality=12&learn=on&enablevpops&captions=spa)
 
 ## Acceso rápido y fácil a las rutas de cola de solicitudes
 

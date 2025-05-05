@@ -24,7 +24,7 @@ Este vídeo contiene información sobre:
 
 * Creación de un informe sencillo mediante un filtro, una vista y una agrupación existentes
 
->[!VIDEO](https://video.tv.adobe.com/v/335153/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3413119/?quality=12&learn=on&captions=spa)
 
 ## Actividades de &quot;Creación de un informe simple&quot;
 

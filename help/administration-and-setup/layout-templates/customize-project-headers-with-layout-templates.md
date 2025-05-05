@@ -22,4 +22,4 @@ ht-degree: 100%
 
 Aprenda a añadir y eliminar campos de encabezados de proyecto mediante plantillas de diseño.
 
->[!VIDEO](https://video.tv.adobe.com/v/3409081)
+>[!VIDEO](https://video.tv.adobe.com/v/3422849?captions=spa)

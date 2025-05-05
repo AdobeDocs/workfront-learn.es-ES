@@ -26,7 +26,7 @@ Este vídeo contiene información sobre:
 * Cómo acceder al gráfico de evolución
 * Comprender la relación entre las horas restantes, la condición del proyecto y la velocidad de un proyecto
 
->[!VIDEO](https://video.tv.adobe.com/v/335051/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3438887/?quality=12&learn=on&enablevpops&captions=spa)
 
 ## Seguimiento de la velocidad del proyecto
 

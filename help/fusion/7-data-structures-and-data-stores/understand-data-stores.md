@@ -26,4 +26,4 @@ Este vídeo contiene información sobre:
 * Cómo las estructuras de datos apoyan un almacén de datos
 * Cómo sincronizar los sistemas utilizando un almacén de datos
 
->[!VIDEO](https://video.tv.adobe.com/v/335295/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3417962/?quality=12&learn=on&enablevpops&captions=spa)

@@ -26,4 +26,4 @@ Este vídeo contiene información sobre:
 * Cómo pasan los paquetes de datos por las rutas de los enrutadores
 * Cómo añadir y utilizar enrutadores
 
->[!VIDEO](https://video.tv.adobe.com/v/335271/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3416564/?quality=12&learn=on&enablevpops&captions=spa)

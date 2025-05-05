@@ -27,7 +27,7 @@ En este vídeo, aprenderá sobre lo siguiente:
 * Fechas planificadas, proyectadas y reales, y
 * Cómo se utilizan para calcular el estado de progreso
 
->[!VIDEO](https://video.tv.adobe.com/v/335095/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3436610/?quality=12&learn=on&enablevpops&captions=spa)
 
 >[!NOTE]
 >

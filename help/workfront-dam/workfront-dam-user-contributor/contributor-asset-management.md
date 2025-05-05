@@ -30,7 +30,7 @@ Este vídeo contiene información sobre:
 * Aplicación de una plantilla de metadatos a una carpeta
 * Establecer permisos de carpeta
 
->[!VIDEO](https://video.tv.adobe.com/v/335256/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3414418/?quality=12&learn=on&enablevpops&captions=spa)
 
 ## Funcionamiento de las versiones de los recursos
 

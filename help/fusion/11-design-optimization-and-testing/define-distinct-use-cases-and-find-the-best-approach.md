@@ -31,7 +31,7 @@ Este vídeo contiene información sobre:
 * Determine el diseño adecuado para un alto rendimiento
 * Cuestione las suposiciones y ofrezca a las partes interesadas el mejor asesoramiento
 
->[!VIDEO](https://video.tv.adobe.com/v/335311/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3418196/?quality=12&learn=on&enablevpops&captions=spa)
 
 ## ¿Desea obtener más información? Recomendamos lo siguiente:
 

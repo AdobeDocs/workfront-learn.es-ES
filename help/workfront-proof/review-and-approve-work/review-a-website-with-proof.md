@@ -26,7 +26,7 @@ Este vídeo contiene información sobre:
 * Realizar comentarios en una prueba de sitio web estática
 * Realizar comentarios en una prueba de sitio web interactiva
 
->[!VIDEO](https://video.tv.adobe.com/v/335143/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3445965/?quality=12&learn=on&enablevpops&captions=spa)
 
 <!--
 ## Learn more

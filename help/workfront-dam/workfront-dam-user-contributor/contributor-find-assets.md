@@ -28,7 +28,7 @@ Este vídeo contiene información sobre:
 * Ver detalles de la carpeta
 * Ver y actualizar metadatos y palabras clave de recursos
 
->[!VIDEO](https://video.tv.adobe.com/v/335253/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3453923/?quality=12&learn=on&enablevpops&captions=spa)
 
 ## Criterios de búsqueda básicos
 

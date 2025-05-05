@@ -24,4 +24,4 @@ Este vídeo contiene información sobre:
 
 * ¿Qué equilibrios de ejecuciones, ciclos y paquetes existen en Workfront Fusion?
 
->[!VIDEO](https://video.tv.adobe.com/v/335285/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3417424/?quality=12&learn=on&enablevpops&captions=spa)

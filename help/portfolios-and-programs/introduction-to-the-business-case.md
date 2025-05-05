@@ -23,7 +23,7 @@ ht-degree: 9%
 
 El vídeo explica la importancia de un caso empresarial en la administración de proyectos. Hace hincapié en que completar el caso empresarial ayuda a los administradores a analizar y priorizar los proyectos que compiten por los mismos recursos. palo de golf Una vez finalizado, al enviar el caso empresarial, el estado del proyecto cambia a Solicitado y se calcula su puntuación general para la comparación en la herramienta de optimización de Portfolio. palo de golf Aunque ninguno de los campos es obligatorio, una información más detallada mejora la toma de decisiones. palo de golf
 
->[!VIDEO](https://video.tv.adobe.com/v/3442843/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3442847/?quality=12&learn=on&enablevpops&captions=spa)
 
 ## Puntos clave
 

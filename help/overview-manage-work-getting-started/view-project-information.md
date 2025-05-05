@@ -28,7 +28,7 @@ En este vídeo, aprenderá a utilizar filtros, vistas y agrupaciones para ver:
 * Información a nivel de tarea
 * Información a nivel de problema
 
->[!VIDEO](https://video.tv.adobe.com/v/3428815/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3453069/?quality=12&learn=on&enablevpops&captions=spa)
 
 ## Tutoriales recomendados sobre este tema
 

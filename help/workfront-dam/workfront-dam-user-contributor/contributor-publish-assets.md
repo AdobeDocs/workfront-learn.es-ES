@@ -41,4 +41,4 @@ Este vídeo contiene información sobre:
 * Publicar recursos en [!UICONTROL Brand Connect]
 * Publicar carpetas en [!UICONTROL Brand Connect]
 
->[!VIDEO](https://video.tv.adobe.com/v/335257/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3414412/?quality=12&learn=on&enablevpops&captions=spa)

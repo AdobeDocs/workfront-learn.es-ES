@@ -26,7 +26,7 @@ Este vídeo contiene información sobre:
 * Añadir usuarios a un flujo de trabajo existente
 * Cambiar un flujo de trabajo existente a un flujo de trabajo automatizado
 
->[!VIDEO](https://video.tv.adobe.com/v/335138/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3445455/?quality=12&learn=on&enablevpops&captions=spa)
 
 ## Su turno
 

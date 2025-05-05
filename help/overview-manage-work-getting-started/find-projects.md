@@ -25,7 +25,7 @@ ht-degree: 100%
 
 En este vídeo, aprenderá algunas formas rápidas y sencillas de encontrar proyectos.
 
->[!VIDEO](https://video.tv.adobe.com/v/3427788/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3439551/?quality=12&learn=on&enablevpops&captions=spa)
 
 ## Tutoriales recomendados sobre este tema
 

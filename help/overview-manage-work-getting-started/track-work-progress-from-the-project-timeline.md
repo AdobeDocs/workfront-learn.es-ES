@@ -28,7 +28,7 @@ En este vídeo, aprenderá sobre lo siguiente:
 * Porcentaje completado
 * Estado de progreso
 
->[!VIDEO](https://video.tv.adobe.com/v/3438208/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3438211/?quality=12&learn=on&enablevpops&captions=spa)
 
 
 ## Tutoriales recomendados sobre este tema

@@ -28,7 +28,7 @@ Este vídeo contiene información sobre:
 * Cómo utilizar el esfuerzo laboral
 * Cómo crear una vista de tareas del esfuerzo laboral
 
->[!VIDEO](https://video.tv.adobe.com/v/3429446/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3447402/?quality=12&learn=on&enablevpops&captions=spa)
 
 Para obtener más información sobre el [!UICONTROL esfuerzo laboral], consulte el artículo de [Información general sobre el esfuerzo laboral](https://experienceleague.adobe.com/docs/workfront/using/manage-work/tasks/task-information/work-effort.html?lang=es).
 

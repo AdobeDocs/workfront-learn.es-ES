@@ -24,4 +24,4 @@ Este vídeo contiene información sobre:
 * Qué son las directrices de marca
 * Cómo crear una página de directrices de marca en [!UICONTROL Brand Connect]
 
->[!VIDEO](https://video.tv.adobe.com/v/335244/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3419030/?quality=12&learn=on&enablevpops&captions=spa)

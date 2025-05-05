@@ -23,4 +23,4 @@ Este vídeo contiene información sobre:
 
 * Cierre una meta para indicar cuándo se ha alcanzado o cuándo ya no está trabajando en esta ni piensa hacerlo en el futuro inmediato
 
->[!VIDEO](https://video.tv.adobe.com/v/335198/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3415944/?quality=12&learn=on&enablevpops&captions=spa)

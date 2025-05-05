@@ -24,4 +24,4 @@ Este vídeo contiene información sobre:
 * Uso compartido de lightbox con usuarios de Brand Connect o partes interesadas externas
 * Descargar uno o varios recursos
 
->[!VIDEO](https://video.tv.adobe.com/v/335249/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3414454/?quality=12&learn=on&enablevpops&captions=spa)

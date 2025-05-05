@@ -26,4 +26,4 @@ Este vídeo contiene información sobre:
 * Asignación de plantillas de diseño a usuarios, grupos o equipos
 * Controlar quién puede administrar el acceso a la plantilla de diseño
 
->[!VIDEO](https://video.tv.adobe.com/v/335080/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3432325/?quality=12&learn=on&enablevpops&captions=spa)

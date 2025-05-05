@@ -27,4 +27,4 @@ Este vídeo contiene información sobre:
 * Crear reglas sobre descargas
 * Ver informes y registros de auditoría
 
->[!VIDEO](https://video.tv.adobe.com/v/335231/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3414460/?quality=12&learn=on&enablevpops&captions=spa)

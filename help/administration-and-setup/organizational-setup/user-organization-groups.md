@@ -27,7 +27,7 @@ Este vídeo contiene información sobre:
 * Asociar un grupo
 * Crear y asociar subgrupos
 
->[!VIDEO](https://video.tv.adobe.com/v/335070/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3432868/?quality=12&learn=on&enablevpops&captions=spa)
 
 ## Administradores de grupos
 

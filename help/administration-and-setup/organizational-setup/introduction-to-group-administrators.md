@@ -22,6 +22,6 @@ ht-degree: 100%
 
 Descubra cómo los administradores de sistemas pueden aprovechar los administradores de grupos para mantener la configuración de forma eficaz y dotar a los grupos de un mayor control sobre sus procesos de trabajo.
 
->[!VIDEO](https://video.tv.adobe.com/v/3439323/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3439326/?quality=12&learn=on&enablevpops&captions=spa)
 
 

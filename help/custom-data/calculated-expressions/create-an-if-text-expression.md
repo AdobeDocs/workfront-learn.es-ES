@@ -25,4 +25,4 @@ Este vídeo contiene información sobre:
 * Qué hace la expresión IF
 * Uso de una expresión de texto IF en un campo calculado
 
->[!VIDEO](https://video.tv.adobe.com/v/335180/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3417102/?quality=12&learn=on&enablevpops&captions=spa)

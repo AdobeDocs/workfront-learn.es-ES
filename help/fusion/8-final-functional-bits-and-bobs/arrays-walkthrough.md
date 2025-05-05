@@ -28,7 +28,7 @@ Revise ejercicios de introducción anteriores en los que se utilizaron matrices 
 
 Workfront recomienda ver el vídeo tutorial del ejercicio antes de intentar recrear el ejercicio en su propio entorno.
 
->[!VIDEO](https://video.tv.adobe.com/v/335299/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3417986/?quality=12&learn=on&enablevpops&captions=spa)
 
 
 ## ¿Desea obtener más información? Recomendamos lo siguiente:

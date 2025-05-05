@@ -21,4 +21,4 @@ ht-degree: 25%
 
 Descubra cómo crear espacios de trabajo en Adobe Workfront Planning.
 
->[!VIDEO](https://video.tv.adobe.com/v/3447966/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3448264/?learn=on&enablevpops&captions=spa)

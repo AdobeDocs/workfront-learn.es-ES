@@ -32,7 +32,7 @@ Este vídeo contiene información sobre:
 
 * Añadir un filtro entre los dos módulos en los módulos
 
->[!VIDEO](https://video.tv.adobe.com/v/335266/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3416483/?quality=12&learn=on&enablevpops&captions=spa)
 
 
 ## Su turno

@@ -28,7 +28,7 @@ Este vídeo contiene información sobre:
 * Por qué cambiar el estado del proyecto a [!UICONTROL Completado]
 * Qué hacer si no puede cambiar el estado del proyecto a [!UICONTROL Completado]
 
->[!VIDEO](https://video.tv.adobe.com/v/3419336/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3439361/?quality=12&learn=on&enablevpops&captions=spa)
 
 ## Tutoriales recomendados sobre este tema
 

@@ -26,4 +26,4 @@ Este vídeo contiene información sobre:
 * Diferencia entre matrices simples y complejas
 * Cómo trabajar con matrices simples y complejas
 
->[!VIDEO](https://video.tv.adobe.com/v/335298/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3417980/?quality=12&learn=on&enablevpops&captions=spa)

@@ -28,7 +28,7 @@ Este vídeo contiene información sobre:
 * Cómo registrar un problema
 * Prácticas recomendadas para la administración de problemas
 
->[!VIDEO](https://video.tv.adobe.com/v/3419488/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3446569/?quality=12&learn=on&enablevpops&captions=spa)
 
 ## Tutoriales recomendados sobre este tema
 

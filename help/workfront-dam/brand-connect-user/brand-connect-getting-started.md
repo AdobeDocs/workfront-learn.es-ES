@@ -25,7 +25,7 @@ Este vídeo contiene información sobre:
 * Cómo navegar por Brand Connect
 * Búsqueda de recursos
 
->[!VIDEO](https://video.tv.adobe.com/v/335246/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3419028/?quality=12&learn=on&enablevpops&captions=spa)
 
 ## Criterios de búsqueda básicos
 

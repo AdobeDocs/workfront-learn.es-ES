@@ -25,4 +25,4 @@ Este vídeo contiene información sobre:
 
 * Cómo los usuarios finales pueden utilizar el Plan en curso, el gráfico de evolución y el gráfico de grupo Tareas
 
->[!VIDEO](https://video.tv.adobe.com/v/335055/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3437692/?quality=12&learn=on&enablevpops&captions=spa)

@@ -25,7 +25,7 @@ Este vídeo contiene información sobre:
 * El valor de registrar el tiempo
 * Cómo registrar el tiempo en las asignaciones de trabajo
 
->[!VIDEO](https://video.tv.adobe.com/v/335103/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3438601/?quality=12&learn=on&enablevpops&captions=spa)
 
 ## Sugerencias para registrar las horas en el trabajo en [!DNL Home]
 

@@ -29,4 +29,4 @@ En este vídeo, verá lo siguiente:
 * Información general sobre los gráficos de trabajo
 * Información general sobre los gráficos de personas
 
->[!VIDEO](https://video.tv.adobe.com/v/335057/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3436390/?quality=12&learn=on&enablevpops&captions=spa)

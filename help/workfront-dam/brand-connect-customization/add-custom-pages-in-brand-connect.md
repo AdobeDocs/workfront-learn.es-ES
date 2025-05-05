@@ -25,4 +25,4 @@ Este vídeo contiene información sobre:
 * Crear páginas personalizadas de Brand Connect
 * Personalizar opciones en la barra de navegación
 
->[!VIDEO](https://video.tv.adobe.com/v/335243/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3419031/?quality=12&learn=on&enablevpops&captions=spa)

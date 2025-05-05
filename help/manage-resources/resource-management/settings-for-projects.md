@@ -24,4 +24,4 @@ En este tutorial de vídeo, aprenderá lo siguiente:
 
 * A optimizar las herramientas de administración de recursos: duraciones y fechas planificadas, horas planificadas y asignaciones de funciones
 
->[!VIDEO](https://video.tv.adobe.com/v/335162/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3420172/?quality=12&learn=on&enablevpops&captions=spa)

@@ -32,7 +32,7 @@ Sin embargo, puede que algunos estén más avanzados de lo que creen en su camin
 
 ## Cuatro etapas de madurez de la Administración de recursos
 
->[!VIDEO](https://video.tv.adobe.com/v/335160/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3420160/?quality=12&learn=on&enablevpops&captions=spa)
 
 
 ## Hacia dónde ir

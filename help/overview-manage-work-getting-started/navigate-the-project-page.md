@@ -30,7 +30,7 @@ En este vídeo, aprenderá lo siguiente:
 * Dónde cargar documentos
 * Cómo ver el historial de actualizaciones
 
->[!VIDEO](https://video.tv.adobe.com/v/335085/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3449729/?quality=12&learn=on&enablevpops&captions=spa)
 
 ## Partes clave de la página del proyecto
 

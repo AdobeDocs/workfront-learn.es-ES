@@ -23,4 +23,4 @@ Este vídeo contiene información sobre:
 
 * Acceso a la lista de tareas pendientes en [!DNL Workfront]
 
->[!VIDEO](https://video.tv.adobe.com/v/335118/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3437923/?quality=12&learn=on&enablevpops&captions=spa)

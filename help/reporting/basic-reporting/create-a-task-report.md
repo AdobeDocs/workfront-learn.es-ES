@@ -25,7 +25,7 @@ Este vídeo contiene información sobre:
 * Cómo crear un informe de tareas con un filtro complejo
 * Cómo encontrar los informes que crea
 
->[!VIDEO](https://video.tv.adobe.com/v/335154/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3448345/?quality=12&learn=on&captions=spa)
 
 ## Actividades &quot;Crear un informe de tareas&quot;
 

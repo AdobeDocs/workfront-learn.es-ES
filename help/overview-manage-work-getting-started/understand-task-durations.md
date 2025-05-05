@@ -30,7 +30,7 @@ Este vídeo contiene información sobre:
 * Cómo afectan las duraciones a las cronologías del proyecto
 * Recomendaciones sobre prácticas recomendadas para el uso de las duraciones de las tareas
 
->[!VIDEO](https://video.tv.adobe.com/v/335089/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3449346/?quality=12&learn=on&enablevpops&captions=spa)
 
 ## Tutoriales recomendados sobre este tema
 

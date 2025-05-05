@@ -20,4 +20,4 @@ ht-degree: 100%
 
 En este vídeo, aprenderá cómo los procesos de aprobación pueden simplificar y automatizar el proceso de revisión del trabajo.
 
->[!VIDEO](https://video.tv.adobe.com/v/335224/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3436400/?quality=12&learn=on&enablevpops&captions=spa)

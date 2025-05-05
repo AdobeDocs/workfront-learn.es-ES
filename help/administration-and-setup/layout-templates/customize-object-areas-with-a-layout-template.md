@@ -26,4 +26,4 @@ Este vídeo contiene información sobre:
 * Añadir elementos al menú del panel izquierdo
 * Reorganizar elementos en el menú del panel
 
->[!VIDEO](https://video.tv.adobe.com/v/335075/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3432894/?quality=12&learn=on&enablevpops&captions=spa)

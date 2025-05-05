@@ -21,4 +21,4 @@ ht-degree: 100%
 
 Información sobre cómo reorganizar, copiar, archivar, eliminar y desconectar tarjetas en un tablero.
 
->[!VIDEO](https://video.tv.adobe.com/v/346810/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3422925/?quality=12&learn=on&enablevpops&captions=spa)

@@ -30,7 +30,7 @@ Este vídeo contiene información sobre:
 * Abrir la página de solicitud
 * Actualizar una solicitud en el panel [!UICONTROL Actualizaciones]
 
->[!VIDEO](https://video.tv.adobe.com/v/336091/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3422297/?quality=12&learn=on&enablevpops&captions=spa)
 
 ## Tutoriales recomendados sobre este tema
 

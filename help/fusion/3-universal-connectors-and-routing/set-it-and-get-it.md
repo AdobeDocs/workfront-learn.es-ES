@@ -25,4 +25,4 @@ Este vídeo contiene información sobre:
 * Compartir datos entre diferentes rutas
 * Uso de las variables Set/Get
 
->[!VIDEO](https://video.tv.adobe.com/v/335275/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3417266/?quality=12&learn=on&enablevpops&captions=spa)

@@ -30,7 +30,7 @@ Este vídeo contiene información sobre:
 * Actualización del progreso en los problemas
 * Actualización del estado del problema
 
->[!VIDEO](https://video.tv.adobe.com/v/3419931/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3446958/?quality=12&learn=on&enablevpops&captions=spa)
 
 ## Puntos clave
 

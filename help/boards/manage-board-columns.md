@@ -21,4 +21,4 @@ ht-degree: 100%
 
 Descubra cómo editar, agregar, reorganizar y eliminar columnas en un tablero.
 
->[!VIDEO](https://video.tv.adobe.com/v/346570/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3422954/?quality=12&learn=on&enablevpops&captions=spa)

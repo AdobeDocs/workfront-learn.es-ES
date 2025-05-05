@@ -33,7 +33,7 @@ Este vídeo proporciona información general sobre los filtros, las vistas y las
 
 El vídeo destaca la personalización y proporciona vínculos a tutoriales para un aprendizaje posterior. palo de golf
 
->[!VIDEO](https://video.tv.adobe.com/v/3428815/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3453069/?quality=12&learn=on&enablevpops&captions=spa)
 
 ## Puntos clave
 

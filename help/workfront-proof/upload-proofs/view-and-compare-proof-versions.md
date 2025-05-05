@@ -27,7 +27,7 @@ Este vídeo contiene información sobre:
 * Realizar comentarios y marcas en una versión
 * Comparar la versión actual con una versión anterior del archivo
 
->[!VIDEO](https://video.tv.adobe.com/v/335142/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3446899/?quality=12&learn=on&enablevpops&captions=spa)
 
 <!--
 ## Learn more

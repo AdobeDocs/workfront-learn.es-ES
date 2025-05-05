@@ -28,7 +28,7 @@ Este vídeo contiene información sobre:
 * Seleccione la plantilla de proyecto adecuada
 * Complete la conversión de solicitud a proyecto
 
->[!VIDEO](https://video.tv.adobe.com/v/340343/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3446625/?quality=12&learn=on&enablevpops&captions=spa)
 
 
 ## Tutoriales recomendados sobre este tema

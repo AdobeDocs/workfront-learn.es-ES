@@ -33,7 +33,7 @@ Este vídeo contiene información sobre:
 * Usar el diseñador de escenarios
 * Crear un escenario básico
 
->[!VIDEO](https://video.tv.adobe.com/v/335261/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3415972/?quality=12&learn=on&enablevpops&captions=spa)
 
 
 ## ¿Desea obtener más información? Recomendamos lo siguiente:

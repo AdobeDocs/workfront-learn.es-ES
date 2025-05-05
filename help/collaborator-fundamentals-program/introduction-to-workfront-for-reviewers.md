@@ -17,4 +17,4 @@ ht-degree: 100%
 
 En este vídeo, aprenderá cómo puede utilizar [!DNL  Workfront] con una licencia de revisión.
 
->[!VIDEO](https://video.tv.adobe.com/v/335106/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3438689/?quality=12&learn=on&enablevpops&captions=spa)

@@ -26,4 +26,4 @@ Este vídeo contiene información sobre:
 * Cómo explorar en profundidad un proyecto en el gráfico Plan de grupo para que el gráfico de evolución y el gráfico de grupo Tareas aparezcan
 * Cómo crear un filtro de período de tiempo para aumentar dentro de un intervalo de fecha
 
->[!VIDEO](https://video.tv.adobe.com/v/335048/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3437268/?quality=12&learn=on&enablevpops&captions=spa)

@@ -79,7 +79,7 @@ Este vídeo contiene información sobre:
 * Realizar una solicitud
 * Ver las solicitudes enviadas
 
->[!VIDEO](https://video.tv.adobe.com/v/336092/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3413113/?quality=12&learn=on&enablevpops&captions=spa)
 
 ## Elementos que esperan su aprobación
 

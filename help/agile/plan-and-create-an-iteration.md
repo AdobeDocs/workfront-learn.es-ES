@@ -19,4 +19,4 @@ ht-degree: 100%
 
 En este vídeo, aprenderá a crear una nueva iteración y a marcar/desmarcar historias para una iteración.
 
->[!VIDEO](https://video.tv.adobe.com/v/346284/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3412190/?quality=12&learn=on&enablevpops&captions=spa)

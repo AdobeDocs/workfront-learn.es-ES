@@ -26,7 +26,7 @@ Este vídeo contiene información sobre:
 * Cómo se utilizan las acciones en los comentarios
 * Cómo se pueden personalizar las etiquetas de acción
 
->[!VIDEO](https://video.tv.adobe.com/v/335128/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3432934/?quality=12&learn=on&enablevpops&captions=spa)
 
 ## Su turno
 

@@ -26,7 +26,7 @@ Este vídeo contiene información sobre:
 * Cómo acceder a las Tareas en el gráfico de grupo
 * Cómo ver rápidamente qué tareas no se han completado en un proyecto
 
->[!VIDEO](https://video.tv.adobe.com/v/335052/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3437003/?quality=12&learn=on&enablevpops&captions=spa)
 
 ## Datos de nivel de tarea
 

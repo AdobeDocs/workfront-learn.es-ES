@@ -31,7 +31,7 @@ Este vídeo contiene información sobre:
 * Delegar aprobaciones de proyectos, tareas y problemas
 * Identificar aprobaciones delegadas
 
->[!VIDEO](https://video.tv.adobe.com/v/336094/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3446379/?quality=12&learn=on&enablevpops&captions=spa)
 
 ## Tutoriales recomendados sobre este tema
 

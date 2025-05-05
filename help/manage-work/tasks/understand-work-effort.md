@@ -24,7 +24,7 @@ ht-degree: 12%
 En el vídeo se explica cómo utilizar la función Esfuerzo de trabajo de Workfront para estimar las horas planificadas para tareas en las que es difícil determinar estimaciones precisas.
 Muestra cómo crear una vista Esfuerzo de trabajo personalizada para optimizar la administración de tareas al agregar columnas relevantes como Esfuerzo de trabajo, Horas planificadas y Tipo de duración
 
->[!VIDEO](https://video.tv.adobe.com/v/3429446/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3447402/?quality=12&learn=on&enablevpops&captions=spa)
 
 ## Puntos clave
 

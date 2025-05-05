@@ -25,4 +25,4 @@ Este vídeo contiene información sobre:
 * Comprender el uso y las capacidades de la estructura de datos
 * Crear y utilizar una estructura de datos en un escenario
 
->[!VIDEO](https://video.tv.adobe.com/v/335293/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3417950/?quality=12&learn=on&enablevpops&captions=spa)

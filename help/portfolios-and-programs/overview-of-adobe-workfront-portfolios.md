@@ -24,7 +24,7 @@ ht-degree: 7%
 El vídeo explica la administración de portafolios, centrándose en cómo los administradores pueden optimizar la selección de proyectos para alinearse con los objetivos de la compañía. palo de golf Presenta el concepto de portafolios como colecciones de proyectos que compiten por recursos compartidos, presupuestos y programaciones. palo de golf Los administradores pueden utilizar herramientas como Portfolio Optimizer para comparar proyectos en función de criterios como mano de obra, gastos, riesgo, ROI y alineación con objetivos de portafolio. palo de golf La preparación de proyectos para la comparación implica la creación de un caso empresarial para cada uno. palo de golf
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3442807/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3442831/?quality=12&learn=on&enablevpops&captions=spa)
 
 ## Puntos clave
 

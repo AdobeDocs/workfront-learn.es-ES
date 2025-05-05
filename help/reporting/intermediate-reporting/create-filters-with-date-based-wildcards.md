@@ -28,7 +28,7 @@ Este vídeo contiene información sobre:
 * Crear una fecha personalizada utilizando caracteres comodín, atributos, operadores y modificadores
 * Crear un intervalo de fechas personalizado con caracteres comodín
 
->[!VIDEO](https://video.tv.adobe.com/v/336812/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3412659/?quality=12&learn=on&captions=spa)
 
 
 ## Actividades &quot;Crear filtros con comodines basados en fecha&quot;

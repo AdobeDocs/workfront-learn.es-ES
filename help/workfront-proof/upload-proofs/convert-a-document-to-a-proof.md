@@ -26,7 +26,7 @@ Este vídeo contiene información sobre:
 * Añadir un flujo de trabajo al generar la prueba
 * Añadir o editar un flujo de trabajo después de crear la prueba
 
->[!VIDEO](https://video.tv.adobe.com/v/335134/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3443466/?quality=12&learn=on&enablevpops&captions=spa)
 
 
 ## ¿Quién puede cargar documentos?

@@ -25,4 +25,4 @@ Este vídeo contiene información sobre:
 * Uso de la iteración y la agregación
 * Los distintos tipos de iteradores
 
->[!VIDEO](https://video.tv.adobe.com/v/335277/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3417278/?quality=12&learn=on&enablevpops&captions=spa)

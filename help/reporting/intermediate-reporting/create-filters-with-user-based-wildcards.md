@@ -25,7 +25,7 @@ Este vídeo contiene información sobre:
 * Comprender por qué es necesario utilizar caracteres comodín
 * Genere un filtro con caracteres comodín basado en el usuario
 
->[!VIDEO](https://video.tv.adobe.com/v/336810/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3412653/?quality=12&learn=on&captions=spa)
 
 >[!TIP]
 >

@@ -26,7 +26,7 @@ Este vídeo contiene información sobre:
 * Cómo utilizar equipos interfuncionales
 * Cómo crear y asociar equipos
 
->[!VIDEO](https://video.tv.adobe.com/v/335071/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3432886/?quality=12&learn=on&enablevpops&captions=spa)
 
 ## Creación de equipos
 

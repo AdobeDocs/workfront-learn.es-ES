@@ -22,7 +22,7 @@ Este vídeo contiene información sobre:
 * Realizar aprobaciones de documentos
 * Realizar aprobaciones para pruebas
 
->[!VIDEO](https://video.tv.adobe.com/v/335108/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3444949/?quality=12&learn=on&enablevpops&captions=spa)
 
 <!--
 learn more URLS

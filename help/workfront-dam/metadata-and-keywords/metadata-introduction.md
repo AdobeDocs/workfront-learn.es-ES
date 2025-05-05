@@ -29,4 +29,4 @@ En este vídeo, aprenderá lo siguiente:
 
 * Obtenga una introducción al curso [!UICONTROL DAM de Workfront]
 
->[!VIDEO](https://video.tv.adobe.com/v/335233/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3419534/?quality=12&learn=on&enablevpops&captions=spa)

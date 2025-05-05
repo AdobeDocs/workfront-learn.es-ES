@@ -25,4 +25,4 @@ Este vídeo contiene información sobre:
 
 * Vaya al flujo de actualización de [!UICONTROL Pulse]
 
->[!VIDEO](https://video.tv.adobe.com/v/335199/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3415934/?quality=12&learn=on&enablevpops&captions=spa)

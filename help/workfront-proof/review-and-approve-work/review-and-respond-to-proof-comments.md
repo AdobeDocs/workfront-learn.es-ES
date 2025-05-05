@@ -26,4 +26,4 @@ Este vídeo contiene información sobre:
 * Visualización de los comentarios de prueba en la sección [!UICONTROL Actualizaciones]
 * Respuesta a un comentario de prueba desde la sección [!UICONTROL Actualizaciones] 
 
->[!VIDEO](https://video.tv.adobe.com/v/335139/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3438656/?quality=12&learn=on&enablevpops&captions=spa)

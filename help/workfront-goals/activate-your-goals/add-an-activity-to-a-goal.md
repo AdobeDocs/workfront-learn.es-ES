@@ -23,4 +23,4 @@ Este vídeo contiene información sobre:
 
 * Agregar una actividad y un proyecto a una meta
 
->[!VIDEO](https://video.tv.adobe.com/v/335193/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3420190/?quality=12&learn=on&enablevpops&captions=spa)

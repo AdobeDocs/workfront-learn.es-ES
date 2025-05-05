@@ -29,7 +29,7 @@ Este vídeo contiene información sobre:
 * Agregar un hito a una tarea
 * Prácticas recomendadas para aplicar hitos
 
->[!VIDEO](https://video.tv.adobe.com/v/335205/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3430281/?quality=12&learn=on&enablevpops&captions=spa)
 
 >[!TIP]
 >

@@ -27,7 +27,7 @@ Este vídeo contiene información sobre:
 * Revisar horas registradas en un proyecto
 * Aprobar horas del proyecto si es necesario
 
->[!VIDEO](https://video.tv.adobe.com/v/3441069/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3441072/?quality=12&learn=on&enablevpops&captions=spa)
 
 ## Tutoriales recomendados sobre este tema
 

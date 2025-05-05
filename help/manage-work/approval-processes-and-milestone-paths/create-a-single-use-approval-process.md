@@ -26,7 +26,7 @@ En el vídeo se explica cómo crear y administrar procesos de aprobación para p
 El vídeo muestra la creación de procesos de aprobación, la configuración de aprobadores, la configuración de estados y el uso de fases para aprobaciones de varios niveles.
 palo de golfDestaca la flexibilidad de los procesos globales y de un solo uso para administrar las aprobaciones de tareas de forma eficaz.
 
->[!VIDEO](https://video.tv.adobe.com/v/335225/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3434690/?quality=12&learn=on&enablevpops&captions=spa)
 
 ## Puntos clave
 

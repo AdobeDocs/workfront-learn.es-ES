@@ -28,7 +28,7 @@ Para cambios de datos sencillos, utilice la función de conmutación para transf
 
 Workfront recomienda ver el vídeo tutorial del ejercicio antes de intentar recrear el ejercicio en su propio entorno.
 
->[!VIDEO](https://video.tv.adobe.com/v/335289/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3417448/?quality=12&learn=on&enablevpops&captions=spa)
 
 
 

@@ -28,7 +28,7 @@ Obtenga información sobre cómo utilizar el módulo de cambio cuando necesite r
 
 Workfront recomienda ver el vídeo tutorial del ejercicio antes de intentar recrear el ejercicio en su propio entorno.
 
->[!VIDEO](https://video.tv.adobe.com/v/335290/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3417932/?quality=12&learn=on&enablevpops&captions=spa)
 
 
 

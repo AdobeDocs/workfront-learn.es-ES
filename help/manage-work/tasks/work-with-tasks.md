@@ -23,7 +23,7 @@ ht-degree: 11%
 
 Este vídeo proporciona una guía detallada sobre la administración de tareas en Workfront. Hace hincapié en la administración eficaz de tareas, lo que incluye editar, eliminar, agregar, duplicar y reorganizar tareas dentro de un plan de proyecto.
 
->[!VIDEO](https://video.tv.adobe.com/v/335088/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3448559/?quality=12&learn=on&enablevpops&captions=spa)
 
 ## Puntos clave
 

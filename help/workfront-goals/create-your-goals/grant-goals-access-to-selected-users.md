@@ -23,7 +23,7 @@ Este vídeo contiene información sobre:
 
 * Otorgar acceso a las metas a usuarios seleccionados
 
->[!VIDEO](https://video.tv.adobe.com/v/335189/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3416477/?quality=12&learn=on&enablevpops&captions=spa)
 
 Los administradores del sistema pueden realizar un seguimiento de cuántas licencias de [!DNL Workfront Goals] se han utilizado a través del área **[!UICONTROL Configuración]** de Workfront.
 

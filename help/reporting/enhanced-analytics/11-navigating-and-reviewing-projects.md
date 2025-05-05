@@ -25,7 +25,7 @@ Este vídeo contiene información sobre:
 
 * Cómo leer el gráfico del plan de grupo
 
->[!VIDEO](https://video.tv.adobe.com/v/335047/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3439012/?quality=12&learn=on&enablevpops&captions=spa)
 
 ## Gráfico del plan de grupo
 

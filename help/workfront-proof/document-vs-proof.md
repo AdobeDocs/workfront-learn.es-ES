@@ -24,4 +24,4 @@ Este vídeo contiene información sobre:
 
 * La diferencia entre un documento y una prueba en [!DNL Workfront]
 
->[!VIDEO](https://video.tv.adobe.com/v/335123/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3439862/?quality=12&learn=on&enablevpops&captions=spa)

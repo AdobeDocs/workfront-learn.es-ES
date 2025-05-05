@@ -21,7 +21,7 @@ ht-degree: 100%
 
 Obtenga información sobre cómo quitar, añadir y reorganizar widgets en la página de inicio.
 
->[!VIDEO](https://video.tv.adobe.com/v/3424529/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3448976/?quality=12&learn=on&enablevpops&captions=spa)
 
 
 >[!NOTE]

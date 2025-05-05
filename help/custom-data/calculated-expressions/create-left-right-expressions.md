@@ -25,4 +25,4 @@ Este vídeo contiene información sobre:
 * Qué hacen las expresiones IZQUIERDA/DERECHA
 * Cómo usar una expresión de texto IZQUIERDA/DERECHA en un campo calculado
 
->[!VIDEO](https://video.tv.adobe.com/v/335179/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3417120/?quality=12&learn=on&enablevpops&captions=spa)

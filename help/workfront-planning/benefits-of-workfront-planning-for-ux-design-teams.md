@@ -21,4 +21,4 @@ ht-degree: 0%
 
 Descubra cómo Workfront Planning aumenta la eficacia del equipo de experiencia de usuario al centralizar el seguimiento de proyectos y alinear el trabajo de diseño con los objetivos empresariales.
 
->[!VIDEO](https://video.tv.adobe.com/v/3452180/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3452183/?learn=on&enablevpops&captions=spa)

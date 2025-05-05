@@ -23,7 +23,7 @@ ht-degree: 10%
 
 En el vídeo se explica la función de vista de tablero de Workfront, que proporciona una forma alternativa de ver y administrar tareas de proyecto. palo de golf En la vista del tablero, las tareas se muestran como tarjetas en un tablero de estilo Kanban, lo que permite a los usuarios ordenar, agrupar y mover tareas dentro de las columnas o entre ellas. palo de golf Al mover una tarea, se actualiza su estado automáticamente, lo que se refleja en la vista de lista de tareas. palo de golf Los usuarios pueden crear nuevas tarjetas, que generan nuevas tareas en el proyecto, y editarlas o asignarlas directamente en la vista del tablero. palo de golf Se pueden configurar columnas y tarjetas, y las tareas se pueden secuenciar utilizando predecesoras en la vista de lista de tareas.
 
->[!VIDEO](https://video.tv.adobe.com/v/3422430/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3423283/?quality=12&learn=on&enablevpops&captions=spa)
 
 ## Puntos clave
 

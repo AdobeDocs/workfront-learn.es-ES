@@ -26,7 +26,7 @@ En este vídeo, aprenderá lo siguiente:
 * Obtenga información sobre algunos elementos útiles de informes de tareas
 * Aprenda a crear su propio filtro de tareas
 
->[!VIDEO](https://video.tv.adobe.com/v/336818/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3412671/?quality=12&learn=on&captions=spa)
 
 ## Actividades de &quot;Comprensión de los filtros de tareas integrados&quot;
 

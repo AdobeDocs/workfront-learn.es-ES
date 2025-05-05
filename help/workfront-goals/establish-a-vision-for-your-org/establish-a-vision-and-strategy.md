@@ -25,7 +25,7 @@ En este vídeo, aprenderá sobre lo siguiente:
 * Metas de ejemplo
 * Ámbito de influencia
 
->[!VIDEO](https://video.tv.adobe.com/v/335185/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3415996/?quality=12&learn=on&enablevpops&captions=spa)
 
 ## Planificar una cadencia para revisiones y mantenimiento regulares
 

@@ -22,7 +22,7 @@ ht-degree: 22%
 
 En este vídeo se muestra cómo convertir un problema o una solicitud en una tarea.
 
->[!VIDEO](https://video.tv.adobe.com/v/3427605/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3445433/?quality=12&learn=on&enablevpops&captions=spa)
 
 ## Puntos clave
 

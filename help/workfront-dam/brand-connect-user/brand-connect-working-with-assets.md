@@ -24,4 +24,4 @@ Este vídeo contiene información sobre:
 * Ver recursos en Brand Connect
 * Ver datos acerca de un recurso, incluidos metadatos y palabras clave
 
->[!VIDEO](https://video.tv.adobe.com/v/335247/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3419027/?quality=12&learn=on&enablevpops&captions=spa)

@@ -26,4 +26,4 @@ En este vídeo, aprenderá lo siguiente:
 * Descubra cómo se muestra la información de recursos en esta vista
 
 
->[!VIDEO](https://video.tv.adobe.com/v/335168/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3443809/?quality=12&learn=on&enablevpops&captions=spa)

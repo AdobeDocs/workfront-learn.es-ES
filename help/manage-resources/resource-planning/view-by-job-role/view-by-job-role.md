@@ -26,7 +26,7 @@ En este vídeo, aprenderá lo siguiente:
 * Descubra cómo se muestra la información de recursos en esta vista
 
 
->[!VIDEO](https://video.tv.adobe.com/v/335169/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3416528/?quality=12&learn=on&enablevpops&captions=spa)
 
 En la opción Ver por función, el valor predeterminado es mostrar la columna Presupuestado, que extrae el número estimado de recursos necesarios para un proyecto de un caso empresarial, si se ha rellenado. Esto también significa que la columna Neto está, de forma predeterminada, utilizando los números de la columna Presupuestado para indicarle cuántos recursos quedan.
 

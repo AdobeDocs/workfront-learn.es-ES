@@ -26,4 +26,4 @@ Este vídeo contiene información sobre:
 * Reasignar trabajo de un usuario a otro
 
 
->[!VIDEO](https://video.tv.adobe.com/v/335165/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3413843/?quality=12&learn=on&enablevpops&captions=spa)

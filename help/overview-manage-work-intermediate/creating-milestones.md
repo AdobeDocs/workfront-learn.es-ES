@@ -26,7 +26,7 @@ Este vídeo contiene información sobre:
 * Cómo se crean las rutas de hitos
 * Adición de pasos de hitos a una ruta de hitos
 
->[!VIDEO](https://video.tv.adobe.com/v/335204/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3415912/?quality=12&learn=on&enablevpops&captions=spa)
 
 >[!NOTE]
 >

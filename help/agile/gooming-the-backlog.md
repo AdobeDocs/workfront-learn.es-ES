@@ -19,4 +19,4 @@ ht-degree: 100%
 
 Aprenda a desglosar los artículos, a volver a priorizar los historias en el registro de asuntos pendientes y a marcar que los artículos están listos para convertirse en una iteración.
 
->[!VIDEO](https://video.tv.adobe.com/v/346283/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3412184/?quality=12&learn=on&enablevpops&captions=spa)

@@ -26,4 +26,4 @@ Este vídeo contiene información sobre:
 * Crear y editar filtros
 * Apilar filtros
 
->[!VIDEO](https://video.tv.adobe.com/v/3419558/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3422821/?quality=12&learn=on&enablevpops&captions=spa)

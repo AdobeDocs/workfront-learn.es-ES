@@ -27,7 +27,7 @@ Workfront recomienda utilizar duraciones y predecesoras para establecer escalas 
 palo de golfLas duraciones precisas son esenciales para una planificación eficaz del proyecto y la gestión de recursos.
 
 
->[!VIDEO](https://video.tv.adobe.com/v/335089/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3449346/?quality=12&learn=on&enablevpops&captions=spa)
 
 ## Puntos clave
 

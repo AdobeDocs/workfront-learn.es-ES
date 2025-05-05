@@ -28,7 +28,7 @@ Lo que aprenderá:
 * Diferentes vistas en Workfront, como la vista estándar para la planificación y la vista de estado para la monitorización del progreso, que incluye indicadores de progreso, comentarios, documentos, problemas, aprobaciones, rutas críticas e hitos. Se puede realizar un seguimiento de la actividad reciente para ver actualizaciones y notas.
 * La programación se puede realizar desde una fecha de inicio o de finalización, y Workfront calcula las fechas correspondientes en función de las duraciones de las tareas y sus predecesoras. El vídeo recomienda programar desde una fecha de inicio las fechas de finalización esenciales para permitir cierto margen de demora. También se tratan las delimitaciones de tareas, como &quot;lo antes posible&quot; y &quot;lo más tarde posible&quot;, lo que muestra cómo afectan a la programación de tareas. Se pueden crear vistas personalizadas para mostrar las delimitaciones de las tareas.
 
->[!VIDEO](https://video.tv.adobe.com/v/335213/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3435838/?quality=12&learn=on&enablevpops&captions=spa)
 
 >[!IMPORTANT]
 >

@@ -34,7 +34,7 @@ Este vídeo contiene información sobre:
 * Búsqueda de un borrador de una solicitud
 * Ver las tres últimas rutas de solicitud
 
->[!VIDEO](https://video.tv.adobe.com/v/336092/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3413113/?quality=12&learn=on&enablevpops&captions=spa)
 
 ## Tutoriales recomendados sobre este tema
 

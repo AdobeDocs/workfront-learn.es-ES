@@ -23,4 +23,4 @@ Este vídeo contiene información sobre:
 
 * Asignar tareas en [!DNL Workfront]
 
->[!VIDEO](https://video.tv.adobe.com/v/335117/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3441520/?quality=12&learn=on&enablevpops&captions=spa)

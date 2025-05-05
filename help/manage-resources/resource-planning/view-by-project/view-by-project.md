@@ -25,7 +25,7 @@ En este vídeo, aprenderá lo siguiente:
 * Consulte la vista [!UICONTROL Ver por proyecto ]
 * Descubra cómo se muestra la información de recursos en esta vista
 
->[!VIDEO](https://video.tv.adobe.com/v/335170/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3420154/?quality=12&learn=on&enablevpops&captions=spa)
 
 Para la opción Ver por proyecto, el valor predeterminado es mostrar la columna Presupuestado, que extrae el número estimado de recursos necesarios para un proyecto de un caso empresarial, si se ha rellenado. Esto también significa que la columna Neto está, de forma predeterminada, utilizando los números de la columna Presupuestado para indicarle cuántos recursos quedan.
 

@@ -25,7 +25,7 @@ Este vídeo contiene información sobre:
 * Añadir comentarios con marca de tiempo a un vídeo
 * Ajustar la configuración del visualizador
 
->[!VIDEO](https://video.tv.adobe.com/v/335144/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3444225/?quality=12&learn=on&enablevpops&captions=spa)
 
 <!--
 ## Learn more

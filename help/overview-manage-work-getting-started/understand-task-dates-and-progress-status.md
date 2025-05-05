@@ -26,7 +26,7 @@ Este vídeo contiene información sobre:
 * Seleccione una vista para comparar los diferentes tipos de fechas en [!DNL Workfront's]
 * Utilice el estado de progreso para realizar un seguimiento del progreso del trabajo
 
->[!VIDEO](https://video.tv.adobe.com/v/335095/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3436610/?quality=12&learn=on&enablevpops&captions=spa)
 
 >[!NOTE]
 >

@@ -29,7 +29,7 @@ En el vídeo se explica el concepto de los componentes de creación de informes 
 * **Calificador de filtro:** Define qué valores incluir o excluir en un informe, como mostrar tareas con una prioridad &quot;alta&quot;.
 
 
->[!VIDEO](https://video.tv.adobe.com/v/335146/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3447024/?quality=12&learn=on&captions=spa)
 
 ## Puntos clave
 
