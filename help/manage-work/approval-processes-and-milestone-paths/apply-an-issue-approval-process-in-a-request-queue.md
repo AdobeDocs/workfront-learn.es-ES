@@ -23,8 +23,8 @@ ht-degree: 5%
 
 >[!PREREQUISITES]
 >
->* [Crear un flujo de solicitud](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/request-queues/create-a-request-flow)
->* [Crear un proceso de aprobación global y de un solo uso](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/approval-processes-and-milestone-paths/create-a-single-use-approval-process)
+>* [Crear un flujo de solicitud](https://experienceleague.adobe.com/es/docs/workfront-learn/tutorials-workfront/manage-work/request-queues/create-a-request-flow)
+>* [Crear un proceso de aprobación global y de un solo uso](https://experienceleague.adobe.com/es/docs/workfront-learn/tutorials-workfront/manage-work/approval-processes-and-milestone-paths/create-a-single-use-approval-process)
 
 
 En el vídeo se explica el proceso de aplicación de un proceso de aprobación predeterminado al crear una cola de solicitudes. palo de golf Cuando se crea una solicitud, comienza con el estado &quot;Nuevo - Aprobación pendiente&quot; y se envía una notificación de aprobación al aprobador designado. palo de golf Si se aprueba, el estado cambia a &quot;Nuevo&quot;, lo que permite que las personas asignadas comiencen a trabajar. palo de golf Si se rechaza, el estado puede volver incorrectamente a &quot;Nuevo&quot; debido a un error común en la configuración del proceso de aprobación. palo de golf
@@ -46,4 +46,4 @@ El vídeo resalta que el proceso de aprobación se activa cuando el estado se es
 * [Delegar tareas, problemas y aprobaciones](/help/manage-work/approval-processes-and-milestone-paths/delegate-approvals.md)
 * [Explicación de los procesos de aprobación específicos del grupo](/help/administration-and-setup/approval-processes-and-milestone-paths/group-specific-approval-processes.md)
 * [Crear un flujo de solicitud](/help/manage-work/request-queues/create-a-request-flow.md)
-* [Crear un proceso de aprobación global y de un solo uso](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/approval-processes-and-milestone-paths/create-a-single-use-approval-process)
+* [Crear un proceso de aprobación global y de un solo uso](https://experienceleague.adobe.com/es/docs/workfront-learn/tutorials-workfront/manage-work/approval-processes-and-milestone-paths/create-a-single-use-approval-process)

@@ -36,9 +36,9 @@ El vídeo destaca cómo Workfront simplifica la comunicación, la administració
 
 >[!TIP]
 >
->Para crear el informe Búsqueda de notas que se muestra en el vídeo, consulte la actividad en el tutorial [Creación de un informe de tareas](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-task-report#activity-1-create-a-note-report-with-prompts).
+>Para crear el informe Búsqueda de notas que se muestra en el vídeo, consulte la actividad en el tutorial [Creación de un informe de tareas](https://experienceleague.adobe.com/es/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-task-report#activity-1-create-a-note-report-with-prompts).
 >
->Para agregar el informe Búsqueda de notas al panel del proyecto, consulte la actividad en el tutorial [Creación de paneles](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-dashboards.html#activity-1-create-a-dashboard).
+>Para agregar el informe Búsqueda de notas al panel del proyecto, consulte la actividad en el tutorial [Creación de paneles](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-dashboards.html?lang=es#activity-1-create-a-dashboard).
 
 ## Puntos clave
 

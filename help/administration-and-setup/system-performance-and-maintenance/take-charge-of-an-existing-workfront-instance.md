@@ -98,7 +98,7 @@ Al pasar por cada fase y con la ayuda de la lista de comprobación de instancias
 </br>
 
 A continuación encontrará información adicional.
-* [Seminario web: sugerencias para hacerse cargo de una instancia heredada](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/webinar-system-admin-essentials-tips-for-taking-over-an-existing/td-p/571873)
+* [Seminario web: sugerencias para hacerse cargo de una instancia heredada](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/webinar-system-admin-essentials-tips-for-taking-over-an-existing/td-p/571873?profile.language=es)
 * [Definición de objetivos para la implementación de Workfront](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/get-started-administration/define-wf-goals-objectives.html?lang=es)
-* [Publicación de blog: patrocinio ejecutivo y valor para el liderazgo](https://experienceleaguecommunities.adobe.com/t5/workfront-blogs/customer-success-tips-executive-sponsorship-and-value-to/ba-p/518353)
-* [Publicación de blog: introducción a los KPI de Adobe Workfront](https://experienceleaguecommunities.adobe.com/t5/workfront-blogs/kpi-dashboards-in-the-new-workfront-experience-introduction-to/ba-p/549001)
+* [Publicación de blog: patrocinio ejecutivo y valor para el liderazgo](https://experienceleaguecommunities.adobe.com/t5/workfront-blogs/customer-success-tips-executive-sponsorship-and-value-to/ba-p/518353?profile.language=es)
+* [Publicación de blog: introducción a los KPI de Adobe Workfront](https://experienceleaguecommunities.adobe.com/t5/workfront-blogs/kpi-dashboards-in-the-new-workfront-experience-introduction-to/ba-p/549001?profile.language=es)
