@@ -36,5 +36,5 @@ Este vídeo contiene información sobre:
 
 >[!IMPORTANT]
 >
->Si no encuentra el complemento de Workfront como se describe en el vídeo, es posible que el departamento de TI tenga que configurar el producto primero. Encontrará instrucciones detalladas en la [configuración de Adobe Workfront para Outlook](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-outlook/set-up-workfront-for-outlook.html).
+>Si no encuentra el complemento de Workfront como se describe en el vídeo, es posible que el departamento de TI tenga que configurar el producto primero. Encontrará instrucciones detalladas en la [configuración de Adobe Workfront para Outlook](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-outlook/set-up-workfront-for-outlook.html?lang=es).
 
