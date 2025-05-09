@@ -8,23 +8,35 @@ role: User
 level: Beginner
 team: Technical Marketing
 jira: KT-8858
+last-substantial-update: 2025-05-09T00:00:00Z
 thumbnail: 335153.png
 exl-id: 23a4f7ea-ab64-4e32-9bf5-dd7fc37eab53
 doc-type: video
-source-git-commit: 2c9e57b8f85c74061bd3e52ef4eaea60bc4ec5bb
+source-git-commit: 96128e92d7a84dadb8b2c8547a6e612ddb0776d3
 workflow-type: tm+mt
-source-wordcount: '247'
-ht-degree: 78%
+source-wordcount: '467'
+ht-degree: 37%
 
 ---
 
 # Creación de un informe simple
 
-Este vídeo contiene información sobre:
+En este vídeo se explica cómo crear y personalizar informes de proyectos para analizar datos de forma eficaz. palo de golf Comienza destacando la importancia de los informes en el seguimiento del progreso del proyecto, la finalización de las tareas, el cumplimiento del presupuesto y la identificación de problemas. En el vídeo se muestra cómo empezar con un informe de lista de proyectos, ajustar filtros, vistas y agrupaciones y crear un informe personalizado para mayor comodidad. escanciado
 
-* Creación de un informe sencillo mediante un filtro, una vista y una agrupación existentes
+El vídeo destaca que los informes personalizados conservan su configuración predeterminada, pero que se pueden realizar cambios temporales al verlos. palo de golf Los informes se almacenan en la sección &quot;Mis informes&quot;, mientras que los informes compartidos aparecen en &quot;Compartido conmigo&quot;. Los informes utilizados con frecuencia se pueden anclar o marcar como favoritos para facilitar el acceso. palo de golf
 
->[!VIDEO](https://video.tv.adobe.com/v/3413119/?quality=12&learn=on&captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/335153/?quality=12&learn=on)
+
+## Puntos clave
+
+
+* **Propósito de los informes:** Los informes ayudan a seguir el progreso del proyecto, la finalización de tareas, el cumplimiento del presupuesto y a identificar problemas, lo que los hace esenciales para una administración eficaz del proyecto.
+* **Creación personalizada de informes:** Los informes personalizados le permiten guardar filtros, vistas y agrupaciones específicos para facilitar el acceso, lo que elimina la necesidad de ajustar la configuración repetidamente. palo de golf
+* **Pasos para generar un informe:** Seleccione el tipo de objeto apropiado, asigne un nombre al informe, aplique filtros, vistas y agrupaciones, personalice columnas y guarde el informe. palo de golf
+* **Configuración temporal frente a&#x200B; predeterminada:** Aunque los visualizadores pueden cambiar temporalmente filtros, vistas y agrupaciones, el informe siempre volverá a su configuración predeterminada al volver a abrirlo. palo de golf
+* **Organización de informes:** Los informes personalizados se almacenan en &quot;Mis informes&quot;, los informes compartidos en &quot;Compartidos conmigo&quot; y los informes usados con frecuencia se pueden anclar o marcar como favoritos para acceder rápidamente a ellos. palo de golf
+
+
 
 ## Actividades de &quot;Creación de un informe simple&quot;
 
