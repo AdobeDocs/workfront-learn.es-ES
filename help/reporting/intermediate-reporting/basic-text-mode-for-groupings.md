@@ -39,7 +39,7 @@ Este vídeo contiene información sobre:
 * Qué son las palabras agrupadas en mayúsculas y minúsculas
 * Algunos modos de texto “plug and play” básicos que puede usar en sus agrupaciones
 
->[!VIDEO](https://video.tv.adobe.com/v/3410641/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3422902/?quality=12&learn=on&captions=spa)
 
 ## Actividades &quot;Comprender el modo de texto básico para agrupaciones&quot;
 

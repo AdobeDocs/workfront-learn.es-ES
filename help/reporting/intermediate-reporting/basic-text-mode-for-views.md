@@ -40,7 +40,7 @@ Este vídeo contiene información sobre:
 * Qué son las palabras agrupadas en mayúsculas y minúsculas
 * Algunos modos básicos de texto “plug and play” que puede usar en sus vistas
 
->[!VIDEO](https://video.tv.adobe.com/v/3410571/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3422893/?quality=12&learn=on&captions=spa)
 
 ## Actividades de &quot;Comprender el modo de texto básico para vistas&quot;
 
