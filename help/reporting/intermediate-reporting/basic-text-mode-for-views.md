@@ -2,7 +2,7 @@
 title: Comprender el modo de texto básico de las vistas
 description: Aprenda qué es el modo de texto, qué son las palabras en mayúsculas y minúsculas y el modo de texto básico “plug and play” que puede usar en sus vistas de Workfront.
 activity: use
-feature: Text Mode Reporting
+feature: Reports and Dashboards
 thumbnail: 336820.png
 type: Tutorial
 role: User
@@ -11,7 +11,7 @@ team: Technical Marketing
 jira: KT-11367
 exl-id: 156e5510-4a51-449f-9c8c-e16fdd8ea23d
 doc-type: video
-source-git-commit: 2c9e57b8f85c74061bd3e52ef4eaea60bc4ec5bb
+source-git-commit: f03518b568cc24ad39b32f6dbfd763400529cf0f
 workflow-type: tm+mt
 source-wordcount: '656'
 ht-degree: 98%
@@ -40,7 +40,7 @@ Este vídeo contiene información sobre:
 * Qué son las palabras agrupadas en mayúsculas y minúsculas
 * Algunos modos básicos de texto “plug and play” que puede usar en sus vistas
 
->[!VIDEO](https://video.tv.adobe.com/v/3422893/?quality=12&learn=on&captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/3410571/?quality=12&learn=on)
 
 ## Actividades de &quot;Comprender el modo de texto básico para vistas&quot;
 
