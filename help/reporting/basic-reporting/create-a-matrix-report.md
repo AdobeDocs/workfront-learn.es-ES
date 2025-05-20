@@ -9,12 +9,13 @@ level: Beginner
 team: Technical Marketing
 thumbnail: 335156.png
 jira: KT-8861
+last-substantial-update: 2025-05-20T00:00:00Z
 exl-id: e893d94a-e808-4bc1-bc6e-f46a5582b55d
 doc-type: video
-source-git-commit: 2c9e57b8f85c74061bd3e52ef4eaea60bc4ec5bb
+source-git-commit: 39345609d988f5e625ec6bb78ed3be9f4dcdedc9
 workflow-type: tm+mt
-source-wordcount: '260'
-ht-degree: 78%
+source-wordcount: '418'
+ht-degree: 48%
 
 ---
 
@@ -25,7 +26,15 @@ Este vídeo contiene información sobre:
 * Cuando un informe de matriz puede resultar útil
 * Y cómo crear un informe de matriz
 
->[!VIDEO](https://video.tv.adobe.com/v/3448186/?quality=12&learn=on&captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/335156/?quality=12&learn=on)
+
+## Puntos clave
+
+* **Estructura de informe de matriz:** Los informes de matriz organizan los datos en filas y columnas, con totales automáticos de filas y columnas. palo de golf Son ideales para rastrear métricas como horas trabajadas, costos e ingresos. palo de golf
+* **Configuración de filtros:** Use filtros para centrarse en datos específicos, como las horas trabajadas durante el último trimestre por usuarios de un equipo particular. palo de golf La &quot;fuente del campo de propietario&quot; ayuda a identificar a los miembros relevantes del equipo. palo de golf
+* **Opciones de agrupación:** En nuestro ejemplo, las filas se agrupan por &quot;nombre de propietario&quot; (persona que trabajó las horas), mientras que las columnas se agrupan por &quot;fecha de entrada de hora&quot; (por mes y semana). palo de golf
+* **Datos resumidos:** Las columnas como horas, costos reales e ingresos se resumen de manera predeterminada, lo que garantiza que los totales se muestren en la matriz. Si lo desea, estos valores predeterminados se pueden desactivar. palo de golf
+* **Integración de gráficos:** Los informes de matriz se pueden complementar con gráficos para una visualización de datos alternativa, utilizando la misma información de agrupación. Puede establecer la pestaña Matriz o la pestaña Gráfico como la vista predeterminada. palo de golf
 
 ## Actividades &quot;Crear un informe de matriz&quot;
 
