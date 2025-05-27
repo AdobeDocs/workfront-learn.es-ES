@@ -1,8 +1,8 @@
 ---
 user-guide-description: Tutoriales de Workfront
-source-git-commit: 9bf4398b7edae104063f1d6265e9c56efb41ea8e
+source-git-commit: b453097c89c2ba1a2bad5b71c195846425e5214a
 workflow-type: tm+mt
-source-wordcount: '2384'
+source-wordcount: '2274'
 ht-degree: 94%
 
 ---
@@ -236,28 +236,6 @@ ht-degree: 94%
       + [Explicación de las opciones de informe de calendario adicionales](/help/reporting/basic-reporting/additional-calendar-options.md)
       + [Su turno para crear un informe de calendario](/help/reporting/basic-reporting/your-turn-to-create-a-calendar.md)
 
-   + Análisis mejorado {#enhanced-analytics}
-      + [Un momento con el producto sobre [!UICONTROL análisis mejorado]](/help/reporting/enhanced-analytics/1-intro-to-workfront-analytics.md)
-      + [Introducción al [!UICONTROL Análisis mejorado]](/help/reporting/enhanced-analytics/2-getting-started-with-enhanced-analytics.md)
-      + [Cómo acceder al [!UICONTROL Análisis mejorado]](/help/reporting/enhanced-analytics/3-adding-analytics-to-layout-templates.md)
-      + [Comprender la navegación básica](/help/reporting/enhanced-analytics/4-basic-navigation.md)
-      + [Comprender los gráficos de trabajo y personas](/help/reporting/enhanced-analytics/5-work-and-people-charts.md)
-      + [Explicación de los filtros](/help/reporting/enhanced-analytics/6-filters-overview.md)
-      + [Explicación de los intervalos de fechas y los marcos de tiempo](/help/reporting/enhanced-analytics/7-date-ranges-vs-timeframes.md)
-      + [Comprender las horas planificadas y las vistas de duración](/help/reporting/enhanced-analytics/8-planned-hours-and-duration-views.md)
-      + [Comprender las acciones: hacer clic y arrastrar y hacer clic en](/help/reporting/enhanced-analytics/9-actions-hover-click-and-drag-and-click-in.md)
-      + [Comprender los indicadores clave de rendimiento (KPI)](/help/reporting/enhanced-analytics/10-kpis-overview.md)
-      + [Explicación de la navegación y revisión de proyectos](/help/reporting/enhanced-analytics/11-navigating-and-reviewing-projects.md)
-      + [Profundizar en el uso de marcos de tiempo y gráficos adicionales](/help/reporting/enhanced-analytics/12-digging-deeper-using-timeframes-and-additional-charts.md)
-      + [Explicación de la navegación y revisión de la actividad del proyecto](/help/reporting/enhanced-analytics/13-navigating-and-reviewing-project-activity.md)
-      + [Profundizar en la navegación](/help/reporting/enhanced-analytics/14-navigation-and-digging-deeper.md)
-      + [Comprender el acceso y la revisión del desglose](/help/reporting/enhanced-analytics/15-accessing-and-reviewing-the-burndown.md)
-      + [Revise las tareas grupales](/help/reporting/enhanced-analytics/16-navigating-to-and-reviewing-the-tasks-in-flight.md)
-      + [Realice acciones haciendo actualizaciones](/help/reporting/enhanced-analytics/17-taking-action-by-making-updates.md)
-      + [Comprender la actividad por gráfico de equipos](/help/reporting/enhanced-analytics/18-activity-by-team-chart.md)
-      + [Comprender un caso de uso de comparaciones de KPI](/help/reporting/enhanced-analytics/21-kpi-comparisons.md)
-      + [Comprender un caso de uso de usuario final](/help/reporting/enhanced-analytics/22-end-user-use.md)
-      + [Comprender la guía de consultoría](/help/reporting/enhanced-analytics/23-consulting-guidance.md)
 
 + Administran los recursos {#manage-resources}
    + Administración de recursos {#resource-management}
