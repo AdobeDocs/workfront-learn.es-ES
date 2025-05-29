@@ -9,12 +9,13 @@ level: Beginner
 team: Technical Marketing
 thumbnail: 335158.png
 jira: KT-8863
+last-substantial-update: 2025-05-29T00:00:00Z
 exl-id: 3d0554fb-4fe0-43d5-b725-2bcd44134bb5
 doc-type: video
-source-git-commit: 2c9e57b8f85c74061bd3e52ef4eaea60bc4ec5bb
+source-git-commit: f4cdb04795c8dc95339d2eb61594335759df6fbc
 workflow-type: tm+mt
-source-wordcount: '216'
-ht-degree: 94%
+source-wordcount: '354'
+ht-degree: 57%
 
 ---
 
@@ -26,7 +27,16 @@ Este vídeo contiene información sobre:
 * Cómo compartir informes con cualquier persona
 * Qué pueden ver y hacer los destinatarios con un informe de Workfront
 
->[!VIDEO](https://video.tv.adobe.com/v/3447815/?quality=12&learn=on&captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/335158/?quality=12&learn=on)
+
+## Puntos clave
+
+* **Envío de informes a usuarios externos:** Puede enviar informes a usuarios que no sean de Workfront introduciendo sus direcciones de correo electrónico, lo que facilita el uso compartido de datos fuera de su organización. palo de golf
+* **Visibilidad del control de derechos de acceso:** La vista del destinatario del informe depende de los derechos de acceso que establezca, lo que garantiza la seguridad de los datos y la visibilidad adecuada. palo de golf
+* **Entrega repetida para instantáneas:** Las entregas programadas proporcionan instantáneas inmovilizadas de datos en momentos específicos, útiles para rastrear tendencias y mantener un historial de datos de proyecto. palo de golf
+* **Compartir informes con equipos:** los informes se pueden compartir con personas, equipos o roles de trabajo, lo que otorga derechos de visualización o administración. palo de golf Los informes compartidos aparecen en la sección &quot;Compartidos conmigo&quot; de los usuarios. palo de golf
+* **Uso compartido público y en todo el sistema:** los informes se pueden compartir mediante vínculos públicos para usuarios externos o hacerse visibles en todo el sistema para todos los usuarios de Workfront, lo que ofrece flexibilidad para compartir datos.
+
 
 ## Actividades de &quot;Envío y uso compartido de informes&quot;
 
