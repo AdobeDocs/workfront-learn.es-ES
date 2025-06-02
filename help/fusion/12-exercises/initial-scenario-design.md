@@ -9,12 +9,13 @@ role: User
 level: Beginner
 jira: KT-11038
 thumbnail: KT11038.png
+last-substantial-update: 2025-06-02T00:00:00Z
 recommendations: noDisplay,catalog
 exl-id: 8ecf4979-f291-4788-bdaa-ab5485fb0849
-source-git-commit: f033b210268e8979ee15abe812e6ad85673eeedb
+source-git-commit: 64b23532fba54ac1fbfba807e4b6f0490bfca631
 workflow-type: tm+mt
-source-wordcount: '983'
-ht-degree: 100%
+source-wordcount: '985'
+ht-degree: 97%
 
 ---
 
@@ -42,7 +43,7 @@ Cree un nuevo proyecto en Workfront para cada fila del archivo CSV de la lista d
    ![Imagen 2 de diseño del escenario inicial](../12-exercises/assets/initial-scenario-design-2.png)
 
 1. En la página siguiente, busque Workfront y seleccione esa aplicación. A continuación, haga clic en Continuar.
-1. En la parte superior izquierda de la pantalla del diseñador de escenarios, cambie el nombre del escenario a “Diseño de escenario inicial”
+1. En la parte superior izquierda de la pantalla del diseñador de escenarios, cambie el nombre del escenario a &quot;Diseño inicial de escenarios&quot;.
 1. Haga clic en el módulo del activador vacío en el centro de la pantalla, seleccione la aplicación Workfront y, a continuación, seleccione el módulo Descargar documento.
 
    **Autentique la conexión del módulo a su cuenta de Workfront.**
@@ -55,7 +56,7 @@ Cree un nuevo proyecto en Workfront para cada fila del archivo CSV de la lista d
 
    ![Imagen 4 de diseño del escenario inicial](../12-exercises/assets/initial-scenario-design-4.png)
 
-1. Introduzca la dirección URL de su **instancia de Workfront** y haga clic en Siguiente.
+1. Escriba la dirección URL de **su cuenta de Workfront test drive** y haga clic en Siguiente.
 
    ![Imagen 5 de diseño del escenario inicial](../12-exercises/assets/initial-scenario-design-5.png)
 
