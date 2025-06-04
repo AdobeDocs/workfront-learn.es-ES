@@ -1,6 +1,6 @@
 ---
 title: Seguimiento del progreso de la prueba
-description: Aprenda a utilizar los indicadores de [!UICONTROL SOCD], el progreso de la revisión e informes para realizar el seguimiento del progreso de una revisión en [!DNL  Workfront].
+description: Aprenda a utilizar los indicadores de [!UICONTROL SOCD], el progreso de la revisión e informes para realizar el seguimiento del progreso de una revisión en [!DNL &#x200B; Workfront].
 activity: use
 team: Technical Marketing
 feature: Workfront Proof
@@ -27,7 +27,7 @@ Para ver el progreso de la revisión en [!DNL Workfront], debe tener una licenci
 
 Obtenga una vista de alto nivel de cómo progresa la revisión a través del proceso de revisión y aprobación mediante los iconos de [!UICONTROL SOCD] en la lista de [!UICONTROL Documentos]. Estos iconos indican acciones específicas realizadas en la revisión.
 
-![Una imagen de la lista [!UICONTROL Documentos] en un proyecto de [!DNL  Workfront] con los iconos de [!UICONTROL SOCD] resaltados.](assets/manage-proofs-socd.png)
+![Una imagen de la lista [!UICONTROL Documentos] en un proyecto de [!DNL &#x200B; Workfront] con los iconos de [!UICONTROL SOCD] resaltados.](assets/manage-proofs-socd.png)
 
 Los iconos indican el trabajo realizado en una revisión desde el momento en que se envía la revisión a los destinatarios hasta el momento en que toman una decisión sobre la revisión.
 
@@ -59,7 +59,7 @@ Si desea saber cómo lo está haciendo cada destinatario de revisión individual
 
 El estado de prueba se basa en el estado de los destinatarios de prueba de la fase. El estado general de la revisión es visible en la página [!UICONTROL Documentos], a la derecha de los indicadores de [!UICONTROL SOCD], para que pueda saber fácilmente si tiene una decisión sobre la revisión.
 
-![Una imagen de la lista [!UICONTROL Documentos] en un proyecto de [!DNL  Workfront] con el estado de revisión general resaltado.](assets/manage-proofs-overall-status.png)
+![Una imagen de la lista [!UICONTROL Documentos] en un proyecto de [!DNL &#x200B; Workfront] con el estado de revisión general resaltado.](assets/manage-proofs-overall-status.png)
 
 Este estado de revisión indica el estado general de la revisión. Por ejemplo, si dos destinatarios aprueban la revisión, sus estados individuales muestran [!UICONTROL Aprobado]. Sin embargo, el tercer destinatario aún no ha tomado una decisión, por lo que el estado de esa persona es [!UICONTROL Pendiente]. Por lo tanto, el estado general se muestra como [!UICONTROL Pendiente].
 
@@ -79,11 +79,11 @@ También puede aprovechar las funcionalidades de creación de informes de [!DNL 
 
 Un informe de aprobación de revisión le ayuda a realizar un seguimiento de las aprobaciones pendientes para asegurarse de que se cumplen los plazos.
 
-![Una imagen de un informe de aprobación de revisión en [!DNL  Workfront].](assets/proof-approval-report.png)
+![Una imagen de un informe de aprobación de revisión en [!DNL &#x200B; Workfront].](assets/proof-approval-report.png)
 
 Un informe de versión del documento permite administrar y rastrear las versiones de revisión.
 
-![Imagen de un informe de versión de documento en [!DNL  Workfront].](assets/document-version-report.png)
+![Imagen de un informe de versión de documento en [!DNL &#x200B; Workfront].](assets/document-version-report.png)
 
 Recomendamos trabajar con su consultor de [!DNL Workfront] para crear informes que cumplan los requisitos de su organización. Algunos de los informes deben estar familiarizados con el sistema de informes de modo de texto de [!DNL Workfront's].
 
