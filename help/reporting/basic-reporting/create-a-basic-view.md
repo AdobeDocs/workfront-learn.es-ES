@@ -8,26 +8,31 @@ type: Tutorial
 role: User
 level: Beginner
 team: Technical Marketing
-last-substantial-update: 2023-06-20T00:00:00Z
+last-substantial-update: 2025-06-06T00:00:00Z
 jira: KT-8854
 exl-id: ba3c0e10-dcf1-4a7b-bf11-ccfed9040e6d
 doc-type: video
-source-git-commit: 2c9e57b8f85c74061bd3e52ef4eaea60bc4ec5bb
+source-git-commit: 0e896afd50e0f220a7068dcba1055a02198c99d3
 workflow-type: tm+mt
-source-wordcount: '827'
-ht-degree: 98%
+source-wordcount: '974'
+ht-degree: 75%
 
 ---
 
 # Creación de una vista básica
 
-Este vídeo contiene información sobre:
+En el vídeo se explica cómo crear y personalizar vistas en Workfront para mostrar información específica sobre los elementos de una lista, como proyectos, tareas, problemas y documentos. palo de golf Las vistas permiten a los usuarios ver detalles como nombre, descripción, estado y otros campos relevantes para los elementos. palo de golf
 
-* Qué es una vista en Workfront
-* Creación y modificación de una vista
-* Cómo compartir una vista con otros usuarios de Workfront
+El vídeo destaca la flexibilidad de las vistas en Workfront y proporciona instrucciones paso a paso para crearlas, personalizarlas y administrarlas.
 
->[!VIDEO](https://video.tv.adobe.com/v/3450241/?quality=12&learn=on&captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/335148/?quality=12&learn=on)
+
+## Puntos clave
+
+* **Personalización de vistas**: los usuarios pueden editar las vistas existentes o crear otras nuevas agregando, quitando o reorganizando columnas para mostrar información específica, como el estado del proyecto o el presupuesto.
+* **Edición en línea**: algunos campos de una vista de lista se pueden actualizar directamente sin abrir elementos individuales, por lo que los cambios se realizan con mayor rapidez. palo de golf
+* **Creación de vistas desde cero**: los usuarios pueden diseñar vistas para satisfacer necesidades específicas, como el seguimiento del estado del proyecto, agregando columnas relevantes como el presupuesto, el costo real y el estado de progreso. palo de golf
+* **Compartir y administrar vistas**: las vistas personalizadas se pueden compartir con los integrantes del equipo para colaborar o se pueden quitar cuando ya no sean necesarias.
 
 ## Actividades &quot;Crear una vista básica&quot;
 
@@ -61,11 +66,11 @@ Cree una vista de tarea denominada “Vista de estado de tarea” con las siguie
 1. En el campo [!UICONTROL Mostrar en esta columna], escriba “estado” y, a continuación, seleccione “Iconos de estado” en la fuente del campo Tarea.
 1. Haga clic en **[!UICONTROL Guardar]**.
 
-Pase el ratón sobre cada uno de los iconos de la columna [!UICONTROL Iconos de estado] para ver lo que representan. Si aparecen en gris, significa que la tarea no tiene notas, documentos, procesos de aprobación, etc. Si un icono aparece en color, hay al menos uno de los elementos asociados a la tarea. Puede hacer clic en los iconos de nota o documento para ir a ese elemento.
+Pase el puntero por encima de cada uno de los iconos de la columna [!UICONTROL Iconos de estado] para ver lo que representan. Si aparecen en gris, significa que la tarea no tiene notas, documentos, procesos de aprobación, etc. Si un icono aparece en color, hay al menos uno de los elementos asociados a la tarea. Puede hacer clic en los iconos de nota o documento para ir a ese elemento.
 
 ### Actividad 2: Crear una vista hito
 
-Si utiliza hitos, esta vista es la forma más sencilla de ver los hitos por nombre y agregarlos o editarlos mediante el uso de la edición en línea.
+Si utiliza hitos, esta vista es la forma más sencilla de ver los hitos por nombre en la lista de tareas y agregarlos o quitarlos de una tarea mediante la edición en línea.
 
 Cree una vista de tarea denominada “Vista de hito” con las columnas siguientes:
 
@@ -86,7 +91,7 @@ Cree una vista de tarea denominada “Vista de hito” con las columnas siguient
 1. En una lista de tareas de proyecto, vaya al menú desplegable **[!UICONTROL Vista]** y seleccione **[!UICONTROL Nueva vista]**.
 1. Asigne un nombre a la vista &quot;Vista de hito&quot;.
 1. Haga clic en la columna [!UICONTROL Predecesoras] para seleccionarla.
-1. En el campo de [!UICONTROL Mostrar en esta columna], haga clic en el icono X del campo de la [!UICONTROL Tarea >> Predecesoras], a continuación escriba &quot;[!UICONTROL nombre de hito]&quot; y haga clic en &quot;[!UICONTROL Nombre]&quot; en la lista.
+1. En el campo [!UICONTROL Mostrar en esta columna], haga clic en el icono &quot;menos&quot; en el campo [!UICONTROL Tarea >> Predecesoras], luego escriba &quot;[!UICONTROL nombre de hito]&quot; y haga clic en &quot;[!UICONTROL Nombre]&quot; en la lista.
 1. Haga clic en **[!UICONTROL Guardar]**.
 
 ![Imagen de una lista de tareas haciendo uso de una vista de hito](assets/view-milestone-exercise-2.png)
@@ -145,7 +150,7 @@ Cree una vista de plantilla de proyecto denominada “Estándar+estado activo”
 * [!UICONTROL Horas planificadas]
 * [!UICONTROL Coste planificado]
 * [!UICONTROL Indicadores]
-* [!UICONTROL Nombre del grupo &#x200B;]
+* [!UICONTROL Nombre del grupo ]
 * [!UICONTROL Está activo]
 
 
