@@ -1,6 +1,6 @@
 ---
 title: Creación de un informe de tareas
-description: 'Aprenda a crear un informe de tareas con un filtro complejo y a encontrar los informes que crea en Workfront. Actividad: crear un informe de notas con instrucciones.'
+description: Obtenga información sobre cómo crear un informe de tareas con un filtro complejo y encontrar los informes que crea en Workfront.
 activity: use
 feature: Reports and Dashboards
 type: Tutorial
@@ -8,32 +8,41 @@ role: User
 level: Beginner
 team: Technical Marketing
 thumbnail: 335154.png
+last-substantial-update: 2025-06-11T00:00:00Z
 jira: KT-8859
 exl-id: 90bad2e8-9cd2-4ae7-973b-eeab9d615bef
 doc-type: video
-source-git-commit: 29500fabca483078e33d39bffee2f48d6fabb91e
+source-git-commit: e10995fb5e3c452df3177a4a29e187e862a1b4a5
 workflow-type: tm+mt
-source-wordcount: '925'
-ht-degree: 99%
+source-wordcount: '1116'
+ht-degree: 76%
 
 ---
 
 # Creación de un informe de tareas
 
-Este vídeo contiene información sobre:
+El vídeo proporciona una guía paso a paso sobre la creación de un informe personalizado para realizar un seguimiento de las tareas atrasadas asignadas al usuario que ha iniciado sesión. Comienza explicando la necesidad de informes personalizados cuando los filtros, las vistas o los informes integrados existentes no cumplen con requisitos específicos. palo de golf El informe se denomina &quot;Tareas atrasadas asignadas a mí&quot; y se agrega una descripción para mayor claridad. palo de golf
 
-* Cómo crear un informe de tareas con un filtro complejo
-* Cómo encontrar los informes que crea
+El informe resultante ayuda a los usuarios a centrarse en tareas tardías, proporciona perspectivas sobre las dependencias y simplifica la navegación a los proyectos host. palo de golf
 
->[!VIDEO](https://video.tv.adobe.com/v/3448345/?quality=12&learn=on&captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/335154/?quality=12&learn=on)
+
+## Puntos clave
+
+* **Creación de informes personalizados:** Cuando los filtros existentes y los informes integrados no satisfacen sus necesidades, puede crear un informe personalizado desde cero para centrarse en datos específicos, como las tareas tardías asignadas a usted. palo de golf
+* **Configuración del filtro:** Use filtros para definir los criterios del informe, incluidas las tareas tardías, las tareas incompletas, los proyectos actuales y las tareas asignadas al usuario que ha iniciado sesión. palo de golf
+* **Columnas para contexto:** Agregue columnas como &quot;Puede comenzar&quot; para identificar problemas de dependencia y &quot;Nombre de proyecto&quot; con hipervínculos para facilitar la navegación a proyectos relacionados. palo de golf
+* **Orden de prioridad:** Ordene las tareas por la columna &quot;Vencimiento el&quot; en orden ascendente para priorizar las tareas más vencidas en la parte superior del informe. palo de golf
+* **Accesibilidad:** Guarde el informe, ancle o márquelo como favorito para acceder rápidamente, lo que garantiza un seguimiento y una administración eficientes de las tareas tardías.
+
 
 ## Actividades &quot;Crear un informe de tareas&quot;
 
 >[!TIP]
 >
 >Saque sus espátulas y los recipientes para mezclar y prepárese para probar las “recetas” en nuestro manual [Adobe Workfront Customer Reporting Cookbook](/help/assets/workfront-customer-reporting-cookbook.pdf). En el interior encontrará instrucciones paso a paso para 10 informes, listos para que pueda trabajar en su entorno hoy mismo.
->Hemos recopilado los informes favoritos de los clientes y los hemos reunido en un libro de cocina fácil de digerir para que se lo lleve y lo pruebe en su propia cocina de Workfront.
->Estos 10 informes proceden de clientes que son como usted. Repartidos por sectores, departamentos, equipos, cargos y todos en empresas diferentes, estamos muy agradecidos a los increíbles clientes que compartieron uno de sus informes favoritos. Algunos informes son simples (pero increíblemente útiles) y otros son más complejos para llevar los informes al siguiente nivel.
+>>Hemos recopilado los informes favoritos de los clientes y los hemos reunido en un libro de cocina fácil de digerir para que se lo lleve y lo pruebe en su propia cocina de Workfront.
+>>Estos 10 informes proceden de clientes que son como usted. Repartidos por sectores, departamentos, equipos, cargos y todos en empresas diferentes, estamos muy agradecidos a los increíbles clientes que compartieron uno de sus informes favoritos. Algunos informes son simples (pero increíblemente útiles) y otros son más complejos para llevar los informes al siguiente nivel.
 
 
 ### Actividad 1: Creación de un informe de notas con instrucciones
@@ -114,11 +123,11 @@ Es un informe de problemas que muestra todos los problemas de una cola de solici
 
 Este informe también utiliza un formulario personalizado. Para aprender a crear un formulario personalizado, consulte el tutorial [Crear y compartir un formulario personalizado](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/custom-data/custom-forms/custom-forms-creating-and-sharing-a-custom-form.html?lang=es).
 
-Este formulario personalizado debe crearse de la siguiente manera:
+Este formulario personalizado debe utilizar los tipos de objeto Proyecto y Problema y debe crearse de la siguiente manera:
 
 Nombre: Comentarios del proceso de administración
 
-1. Tipo de proceso (campo desplegable)
+1. Tipo de proceso (campo desplegable de selección única)
    * niveles de acceso
    * proceso de aprobación (solo global)
    * notificaciones por correo electrónico
@@ -128,7 +137,7 @@ Nombre: Comentarios del proceso de administración
    * notificaciones de recordatorio
    * cola de solicitudes
 1. Nombre del proceso (campo de texto de una sola línea)
-1. Grado del proceso (campo desplegable)
+1. Grado de proceso (campo desplegable de selección única)
    * 1 - totalmente inútil
    * 2 - no es muy útil
    * 3 - bueno, pero podría ser mejor
