@@ -35,4 +35,4 @@ En este vídeo, aprenderá sobre lo siguiente:
 * Información de resumen
 * Y cómo crear un elemento de calendario ad-hoc
 
->[!VIDEO](https://video.tv.adobe.com/v/3423318/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3438761/?quality=12&learn=on&enablevpops&captions=spa)
