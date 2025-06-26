@@ -8,13 +8,14 @@ type: Tutorial
 role: User
 level: Intermediate
 team: Technical Marketing
+last-substantial-update: 2025-06-26T00:00:00Z
 jira: KT-9081
 exl-id: 46c83acd-6e43-42aa-875f-ae24b09a7fee
 doc-type: video
-source-git-commit: 2c9e57b8f85c74061bd3e52ef4eaea60bc4ec5bb
+source-git-commit: 4f82fb7be6bed149036f0218038f927ef57e67f4
 workflow-type: tm+mt
-source-wordcount: '348'
-ht-degree: 47%
+source-wordcount: '354'
+ht-degree: 46%
 
 ---
 
@@ -25,11 +26,11 @@ Este vídeo contiene información sobre:
 * Comprender por qué es necesario utilizar caracteres comodín
 * Genere un filtro con caracteres comodín basado en el usuario
 
->[!VIDEO](https://video.tv.adobe.com/v/3412653/?quality=12&learn=on&captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/336810/?quality=12&learn=on)
 
 >[!TIP]
 >
->Utilice el nombre y la fuente del campo de asignación Usuarios >> ID al crear filtros que miren la información de asignación de tareas o problemas.  Esta opción tiene en cuenta todos los   usuarios asignados a la tarea o al problema, no solo el &quot;propietario&quot; o el usuario asignado principal.
+>Utilice el nombre y la fuente del campo de asignación Usuarios >> ID al crear filtros que miren la información de asignación de tareas o problemas.  Esta opción busca todos los usuarios asignados a la tarea o al problema, no solo el &quot;propietario&quot; o el usuario asignado principal.
 
 >[!TIP]
 >
@@ -44,7 +45,7 @@ Este vídeo contiene información sobre:
 
 ### Actividad 1
 
-Esta semana tiene un poco de tiempo extra, así que quiere ver si hay alguien en su equipo que pueda necesitar ayuda con sus tareas. Cree un filtro de tareas para buscar las tareas que vencen esta semana y que no se han completado.
+Esta semana tiene un poco de tiempo extra, así que quiere ver si hay alguien en su equipo que pueda necesitar ayuda con sus tareas. Cree un filtro de tareas para buscar las tareas asignadas a su equipo de inicio que vencen esta semana y que aún no se han completado.
 
 ### Respuesta 1
 
