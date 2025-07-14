@@ -1,6 +1,6 @@
 ---
-title: Su turno para crear un informe de calendario
-description: Aprenda a crear un calendario de clientes que muestre las tareas y los problemas incompletos.
+title: 'Actividad: crear un informe de calendario'
+description: Instrucciones paso a paso sobre cómo crear un calendario de clientes que muestre las tareas y problemas incompletos.
 activity: use
 team: Technical Marketing
 feature: Reports and Dashboards
@@ -11,18 +11,14 @@ last-substantial-update: 2025-06-23T00:00:00Z
 thumbnail: your-turn-to-create-a-calendar.png
 jira: KT-10026
 exl-id: 74d57f1a-c6c5-49e0-9529-2e2deb2f273e
-source-git-commit: d041d5a8633acd576ffca3e2c7bbdba12be169bd
+source-git-commit: c5f90e3f36744bbcd6cd7ad8044390f4e222008f
 workflow-type: tm+mt
-source-wordcount: '379'
-ht-degree: 89%
+source-wordcount: '362'
+ht-degree: 81%
 
 ---
 
-# Su turno para crear un informe de calendario
-
-En esta actividad adquirirá experiencia práctica elaborando su propio calendario.
-
-## Actividad: elaborar un calendario
+# Actividad: crear un informe de calendario
 
 Confeccione un calendario de clientes llamado “Mi trabajo incompleto”.
 

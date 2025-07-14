@@ -1,8 +1,8 @@
 ---
 user-guide-description: Tutoriales de Workfront
-source-git-commit: 64c683bc598a811c398561b7e1895edd316c5af3
+source-git-commit: c5f90e3f36744bbcd6cd7ad8044390f4e222008f
 workflow-type: tm+mt
-source-wordcount: '2277'
+source-wordcount: '2275'
 ht-degree: 94%
 
 ---
@@ -234,7 +234,7 @@ ht-degree: 94%
       + [Explicación de la interfaz del informe de calendario](/help/reporting/basic-reporting/tour-of-the-interface.md)
       + [Creación de un informe de calendario personalizado](/help/reporting/basic-reporting/creating-custom-calendars.md)
       + [Explicación de las opciones de informe de calendario adicionales](/help/reporting/basic-reporting/additional-calendar-options.md)
-      + [Su turno para crear un informe de calendario](/help/reporting/basic-reporting/your-turn-to-create-a-calendar.md)
+      + [Actividad: crear un informe de calendario](/help/reporting/basic-reporting/your-turn-to-create-a-calendar.md)
 
 
 + Administran los recursos {#manage-resources}
