@@ -7,14 +7,15 @@ thumbnail: 336818.png
 type: Tutorial
 role: User
 level: Intermediate
+last-substantial-update: 2025-07-22T00:00:00Z
 team: Technical Marketing
 jira: KT-9084
 exl-id: 0516696c-a588-4776-92d3-a334a29619a9
 doc-type: video
-source-git-commit: 2c9e57b8f85c74061bd3e52ef4eaea60bc4ec5bb
+source-git-commit: a3174fcd208a2483bc3728932ae4d31b2e155e6b
 workflow-type: tm+mt
 source-wordcount: '199'
-ht-degree: 66%
+ht-degree: 62%
 
 ---
 
@@ -26,7 +27,7 @@ En este vídeo, aprenderá lo siguiente:
 * Obtenga información sobre algunos elementos útiles de informes de tareas
 * Aprenda a crear su propio filtro de tareas
 
->[!VIDEO](https://video.tv.adobe.com/v/3412671/?quality=12&learn=on&captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/336818/?quality=12&learn=on)
 
 ## Actividades de &quot;Comprensión de los filtros de tareas integrados&quot;
 
@@ -45,6 +46,6 @@ Configure la vista de columna para incluir los campos que le interesan o que des
 
 Puede que desee agrupar la lista en función del nombre del equipo asignado a cada tarea.
 
-Este es el aspecto que debería tener el informe:
+Este es el aspecto que podría tener el informe:
 
 ![Imagen de un informe de tareas](assets/opening-built-in-task-filters-2.png)
