@@ -41,7 +41,7 @@ Este vídeo contiene información sobre:
 * Qué son las palabras agrupadas en mayúsculas y minúsculas
 * Algunos modos de texto &quot;plug and play&quot; básicos que se pueden usar en los filtros de informe
 
->[!VIDEO](https://video.tv.adobe.com/v/336820/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3412683/?quality=12&learn=on&captions=spa)
 
 ## Actividades de &quot;Comprender el modo de texto básico de los filtros&quot;
 
