@@ -8,11 +8,11 @@ type: Tutorial
 role: User
 level: Intermediate
 team: Technical Marketing
-last-substantial-update: 2024-10-04T00:00:00Z
+last-substantial-update: 2025-07-30T00:00:00Z
 jira: KT-9086
 exl-id: b3f16468-b720-468d-887a-b313fc32bd89
 doc-type: video
-source-git-commit: f03518b568cc24ad39b32f6dbfd763400529cf0f
+source-git-commit: 721f246178c0a1dc396b9fe8db53a90e26246775
 workflow-type: tm+mt
 source-wordcount: '433'
 ht-degree: 98%
@@ -41,7 +41,7 @@ Este vídeo contiene información sobre:
 * Qué son las palabras agrupadas en mayúsculas y minúsculas
 * Algunos modos de texto &quot;plug and play&quot; básicos que se pueden usar en los filtros de informe
 
->[!VIDEO](https://video.tv.adobe.com/v/3412683/?quality=12&learn=on&captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/336820/?quality=12&learn=on)
 
 ## Actividades de &quot;Comprender el modo de texto básico de los filtros&quot;
 
@@ -104,7 +104,7 @@ EXISTS:1:taskID=FIELD:ID
 EXISTS:1:assignedByID=$$USER.ID
 ```
 
-Esto le mostrará todas las tareas en las que el usuario que ha iniciado sesión asignó al menos a uno de los usuarios asignados actualmente. Si varias personas asignaron a los usuarios, solo el nombre de la primera persona que asignó a alguien aparecerá como “Solicitado por” en la página de aterrizaje de la tarea.
+Esto le mostrará todas las tareas en las que el usuario que ha iniciado sesión asignó al menos a uno de los usuarios asignados actualmente. Si varias personas asignaron a los usuarios, solo el nombre de la primera persona que asignó a alguien aparecerá como “Solicitado por” en la página de destino de la tarea.
 
 ### Tarea: mostrar todas las tareas completadas, pendiente de aprobación
 
