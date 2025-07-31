@@ -46,5 +46,5 @@ Los clientes de Workfront suelen utilizar estos dos conjuntos de expresiones mat
 
 >[!NOTE]
 >
->Para obtener una lista completa de expresiones y más información sobre cada una, vaya a la página de documentación [Expresiones de datos calculadas](https://experienceleague.adobe.com/en/docs/workfront/using/reporting/reports/calculated-custom-data/calculated-data-expressions).
+>Para obtener una lista completa de expresiones y más información sobre cada una, vaya a la página de documentación [Expresiones de datos calculadas](https://experienceleague.adobe.com/es/docs/workfront/using/reporting/reports/calculated-custom-data/calculated-data-expressions).
 
