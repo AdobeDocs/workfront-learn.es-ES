@@ -41,7 +41,7 @@ En este vídeo, aprenderá sobre lo siguiente:
 * Mayúsculas y minúsculas
 * Algunos _bloques de código en modo texto_ que puede usar en los filtros de informe
 
->[!VIDEO](https://video.tv.adobe.com/v/336820/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3412683/?quality=12&learn=on&captions=spa)
 
 ## Actividades de &quot;Comprender el modo de texto básico de los filtros&quot;
 
