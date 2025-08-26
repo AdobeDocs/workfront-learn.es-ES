@@ -19,7 +19,7 @@ ht-degree: 9%
 
 El vídeo proporciona un tutorial sobre cómo, por qué y con qué frecuencia actualizar el estado de la tarea.
 
->[!VIDEO](https://video.tv.adobe.com/v/3471167/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3471170/?quality=12&learn=on&enablevpops&captions=spa)
 
 ## Puntos clave
 
