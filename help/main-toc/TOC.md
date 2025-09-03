@@ -1,8 +1,8 @@
 ---
 user-guide-description: Tutoriales de Workfront
-source-git-commit: db1cc100b1d5d55446353dac3547ab01486f3d53
+source-git-commit: 008028af1fe9dd98c12a7a7413ed21cb65e324b2
 workflow-type: tm+mt
-source-wordcount: '2288'
+source-wordcount: '2292'
 ht-degree: 94%
 
 ---
@@ -137,6 +137,7 @@ ht-degree: 94%
       + [Realizar una solicitud](/help/manage-work/issues-requests/make-a-request.md)
       + [Búsqueda y administración de solicitudes](/help/manage-work/issues-requests/find-requests.md)
       + [Administración de asignaciones de problemas](/help/manage-work/issues-requests/manage-issue-assignments.md)
+      + [Actualización del estado del problema](/help/manage-work/tasks/update-the-issue-status.md)
       + [Actualizar solicitud](/help/manage-work/issues-requests/update-a-request.md)
       + [Convertir un problema/solicitud en un proyecto](/help/manage-work/issues-requests/create-a-project-from-a-request.md)
       + [Convertir un problema/solicitud en una tarea](/help/manage-work/issues-requests/convert-issues-to-other-work-items.md)
@@ -209,7 +210,7 @@ ht-degree: 94%
       + [Copia de un informe](/help/reporting/basic-reporting/copy-a-report.md)
       + [Creación de informes con gráficos](/help/reporting/basic-reporting/create-reports-with-charts.md)
       + [Creación de un informe de matriz](/help/reporting/basic-reporting/create-a-matrix-report.md)
-      + [Creación de paneles](/help/reporting/basic-reporting/create-dashboards.md)
+      + [Creación de paneles de control](/help/reporting/basic-reporting/create-dashboards.md)
       + [Enviar y compartir informes](/help/reporting/basic-reporting/how-to-send-and-share-reports.md)
       + [Comprender la configuración de los informes](/help/reporting/basic-reporting/report-settings.md)
 
@@ -595,7 +596,7 @@ ht-degree: 94%
    + [Comunicación](/help/best-practices/communication-bp.md)
    + [Formularios personalizados](/help/best-practices/custom-forms-bp.md)
    + [Informes personalizados](/help/best-practices/custom-reports-bp.md)
-   + [Paneles](/help/best-practices/dashboards-bp.md)
+   + [Paneles de control](/help/best-practices/dashboards-bp.md)
    + [Documentos](/help/best-practices/documents-bp.md)
    + [Filtros, vistas y agrupaciones](/help/best-practices/filters-views-groupings-bp.md)
    + [Roles](/help/best-practices/job-roles-bp.md)
