@@ -19,7 +19,7 @@ ht-degree: 17%
 
 En este vídeo aprenderá sobre los estados de problemas y las prácticas recomendadas para utilizarlos.
 
->[!VIDEO](https://video.tv.adobe.com/v/3472962/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3472968/?quality=12&learn=on&enablevpops&captions=spa)
 
 ## Puntos clave
 
