@@ -1,8 +1,8 @@
 ---
 user-guide-description: Tutoriales de Workfront
-source-git-commit: 008028af1fe9dd98c12a7a7413ed21cb65e324b2
+source-git-commit: cbfd815936733ff07d3d084952588f5e8923f3d7
 workflow-type: tm+mt
-source-wordcount: '2292'
+source-wordcount: '2298'
 ht-degree: 94%
 
 ---
@@ -238,6 +238,9 @@ ht-degree: 94%
       + [Creación de un informe de calendario personalizado](/help/reporting/basic-reporting/creating-custom-calendars.md)
       + [Explicación de las opciones de informe de calendario adicionales](/help/reporting/basic-reporting/additional-calendar-options.md)
       + [Actividad: crear un informe de calendario](/help/reporting/basic-reporting/your-turn-to-create-a-calendar.md)
+
+   + Paneles de control de lienzo {#canvas-dashboards}
+      + [Introducción a los paneles de lienzo](/help/reporting/canvas-dashboards/introduction-to-canvas-dashboards.md)
 
 
 + Administran los recursos {#manage-resources}
