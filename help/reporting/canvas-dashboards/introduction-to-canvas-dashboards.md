@@ -9,10 +9,11 @@ role: User
 level: Beginner
 jira: KT-18768
 last-substantial-update: 2025-09-09T00:00:00Z
+recommendations: noDisplay,catalog
 doc-type: video
-source-git-commit: cbfd815936733ff07d3d084952588f5e8923f3d7
+source-git-commit: 5e6a2d66335017a27eb67d40d99479786a41efe2
 workflow-type: tm+mt
-source-wordcount: '75'
+source-wordcount: '85'
 ht-degree: 0%
 
 ---
@@ -22,3 +23,5 @@ ht-degree: 0%
 La función Paneles de lienzo es otra forma de crear paneles en Workfront. Actualmente está en General Beta, lo que significa que todos los clientes de Workfront pueden utilizar la función si están inscritos en la versión beta. Un administrador del sistema debe realizar la inscripción. Este vídeo les mostrará cómo.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3474020/?quality=12&learn=on&enablevpops)
+
+Para obtener más información, consulte el artículo [Información general sobre paneles de lienzo](https://experienceleague.adobe.com/en/docs/workfront/using/reporting/canvas-dashboards/canvas-dashboards-overview).
