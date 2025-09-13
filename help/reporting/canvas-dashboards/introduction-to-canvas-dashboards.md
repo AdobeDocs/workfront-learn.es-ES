@@ -24,7 +24,7 @@ La función Paneles de lienzo es otra forma de crear paneles en Workfront. Actua
 
 >[!VIDEO](https://video.tv.adobe.com/v/3474020/?quality=12&learn=on&enablevpops)
 
-Para obtener más información, consulte el artículo [Información general sobre paneles de lienzo](https://experienceleague.adobe.com/en/docs/workfront/using/reporting/canvas-dashboards/canvas-dashboards-overview).
+Para obtener más información, consulte el artículo [Información general sobre paneles de lienzo](https://experienceleague.adobe.com/es/docs/workfront/using/reporting/canvas-dashboards/canvas-dashboards-overview).
 
 ## Tutoriales recomendados sobre este tema
 
