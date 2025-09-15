@@ -11,10 +11,10 @@ jira: KT-9040
 exl-id: c79250d0-7341-4a25-83dc-de99ce5c6dc4
 recommendations: noDisplay,catalog
 doc-type: video
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
+source-git-commit: dfcca5f02a6d9f7ee44a1e894106ae48259eea91
 workflow-type: tm+mt
-source-wordcount: '245'
-ht-degree: 100%
+source-wordcount: '238'
+ht-degree: 90%
 
 ---
 
@@ -28,7 +28,7 @@ Llame a un servicio web para que le devuelva los detalles acerca de varios país
 
 Workfront recomienda ver el vídeo tutorial del ejercicio antes de intentar recrear el ejercicio en su propio entorno.
 
->[!VIDEO](https://video.tv.adobe.com/v/3417302/?quality=12&learn=on&enablevpops&captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/335281/?quality=12&learn=on&enablevpops)
 
 ## Ejercitar direcciones URL
 
@@ -53,10 +53,10 @@ Verá una sombra alrededor de cualquier segmento de su escenario desde un **iter
 
 Este ejercicio práctico se basa en lo aprendido en el tutorial, pero no se proporciona la solución.
 
-Cree un nuevo escenario para sumar todas las horas registradas en tareas en proyectos del portafolios de marketing. A continuación, envíe un correo electrónico que indique “Su equipo del proyecto {nombre del proyecto} ha registrado {horas sumadas} del total de {horas planificadas} horas planificadas, lo que le sitúa en el {porcentaje} del plan”.
+Cree un nuevo escenario para sumar todas las horas registradas en tareas en proyectos del portafolios de marketing. A continuación, envíe un mensaje de correo electrónico que indique &quot;Su equipo del proyecto {Project Name} ha registrado {summed hours} del total de {planned hours} horas planificadas, lo que le sitúa en {percentage} del plan&quot;.
 
 **Desafío:** vea si puede hacer lo mismo, pero solo para las horas registradas este año.
 
 ## ¿Desea obtener más información? Recomendamos lo siguiente:
 
-[Documentación de Workfront Fusion](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/workfront-fusion-2.html?lang=es)
+[Documentación de Workfront Fusion](https://experienceleague.adobe.com/en/docs/workfront-fusion/using/get-started-with-fusion/understand-workfront-fusion/workfront-fusion-overview)
