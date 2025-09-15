@@ -32,7 +32,7 @@ Este vídeo contiene información sobre:
 * Enviar menos llamadas de API
 * Usar menos módulos
 
->[!VIDEO](https://video.tv.adobe.com/v/335313/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3418203/?quality=12&learn=on&enablevpops&captions=spa)
 
 ## ¿Desea obtener más información? Recomendamos lo siguiente:
 

@@ -28,7 +28,7 @@ Utilice un enrutador para pasar paquetes Pokemon frente a superhéroes por la ru
 
 Workfront recomienda ver el vídeo tutorial del ejercicio antes de intentar recrear el ejercicio en su propio entorno.
 
->[!VIDEO](https://video.tv.adobe.com/v/335272/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3416570/?quality=12&learn=on&enablevpops&captions=spa)
 
 ## Ejercitar direcciones URL
 

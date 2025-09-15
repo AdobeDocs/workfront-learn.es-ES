@@ -32,7 +32,7 @@ Este vídeo contiene información sobre:
 
 * Cree y analice JSON en un escenario para satisfacer sus necesidades de diseño
 
->[!VIDEO](https://video.tv.adobe.com/v/335301/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3418111/?quality=12&learn=on&enablevpops&captions=spa)
 
 
 

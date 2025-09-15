@@ -28,7 +28,7 @@ Utilice el módulo de la variable Set para enviar un número a través de varias
 
 Workfront recomienda ver el vídeo tutorial del ejercicio antes de intentar recrear el ejercicio en su propio entorno.
 
->[!VIDEO](https://video.tv.adobe.com/v/335274/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3417260/?quality=12&learn=on&enablevpops&captions=spa)
 
 
 ## ¿Desea obtener más información? Recomendamos lo siguiente:

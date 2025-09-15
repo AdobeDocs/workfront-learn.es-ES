@@ -30,7 +30,7 @@ En este vídeo, aprenderá sobre lo siguiente:
 * Protecciones de archivos
 * Protecciones de webhook
 
->[!VIDEO](https://video.tv.adobe.com/v/335314/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3419025/?quality=12&learn=on&enablevpops&captions=spa)
 
 ## ¿Desea obtener más información? Recomendamos lo siguiente:
 
