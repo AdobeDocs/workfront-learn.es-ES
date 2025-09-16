@@ -1,8 +1,8 @@
 ---
 user-guide-description: Tutoriales de Workfront
-source-git-commit: 062a7f3576c4d5af02b04340e9763a82a9b8c721
+source-git-commit: d57243ce49378e45188e27ac3fd7c69e2e224d1a
 workflow-type: tm+mt
-source-wordcount: '2314'
+source-wordcount: '2322'
 ht-degree: 93%
 
 ---
@@ -243,6 +243,7 @@ ht-degree: 93%
       + [Introducción a los paneles de lienzo](/help/reporting/canvas-dashboards/introduction-to-canvas-dashboards.md)
       + [Crear un informe KPI en un panel de lienzo](/help/reporting/canvas-dashboards/create-a-kpi-report-on-a-canvas-dashboard.md)
       + [Creación de un informe de tabla en un panel de lienzo](/help/reporting/canvas-dashboards/create-a-table-report-on-a-canvas-dashboard.md)
+      + [Añadir formato condicional a un informe de panel de lienzo](/help/reporting/canvas-dashboards/add-conditional-formatting-to-a-canvas-dashboard-report.md)
 
 
 + Administran los recursos {#manage-resources}
