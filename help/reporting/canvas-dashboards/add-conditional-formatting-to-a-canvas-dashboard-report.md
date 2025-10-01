@@ -11,10 +11,11 @@ jira: KT-18771
 last-substantial-update: 2025-09-16T00:00:00Z
 recommendations: noDisplay,catalog
 doc-type: video
-source-git-commit: d57243ce49378e45188e27ac3fd7c69e2e224d1a
+exl-id: 2987677b-64a3-49f4-b6a1-31008c47723f
+source-git-commit: 452488fec0f96bdf59bd7b8e8baa18c1698279db
 workflow-type: tm+mt
-source-wordcount: '119'
-ht-degree: 4%
+source-wordcount: '128'
+ht-degree: 3%
 
 ---
 
@@ -31,15 +32,15 @@ Las primeras cosas que debe hacer para poder crear un **informe** de panel de li
 
 [Introducción a los paneles de lienzo](/help/reporting/canvas-dashboards/introduction-to-canvas-dashboards.md) le muestra paso a paso cómo hacer ambas acciones.
 
->[!VIDEO](https://video.tv.adobe.com/v/3474978/?quality=12&learn=on&enablevpops&captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/3474973/?quality=12&learn=on&enablevpops)
 
 **Para obtener más información, consulte los siguientes artículos de ayuda:**
-[Información general sobre paneles de lienzo](https://experienceleague.adobe.com/es/docs/workfront/using/reporting/canvas-dashboards/canvas-dashboards-overview)
-[Crear un informe de tabla en un panel de lienzo](https://experienceleague.adobe.com/es/docs/workfront/using/reporting/canvas-dashboards/add-reports/build-table-report)
+[Información general sobre paneles de lienzo](https://experienceleague.adobe.com/en/docs/workfront/using/reporting/canvas-dashboards/canvas-dashboards-overview)
+[Crear un informe de tabla en un panel de lienzo](https://experienceleague.adobe.com/en/docs/workfront/using/reporting/canvas-dashboards/add-reports/build-table-report)
 
 ## Tutoriales recomendados sobre este tema
 
 * [Introducción a los paneles de lienzo](/help/reporting/canvas-dashboards/introduction-to-canvas-dashboards.md)
 * [Crear un informe KPI en un panel de lienzo](/help/reporting/canvas-dashboards/create-a-kpi-report-on-a-canvas-dashboard.md)
 * [Creación de un informe de tabla en un panel de lienzo](/help/reporting/canvas-dashboards/create-a-table-report-on-a-canvas-dashboard.md)
-
+* [Uso de un filtro OR en un informe de panel de lienzo](/help/reporting/canvas-dashboards/use-an-or-filter-in-a-canvas-dashboard-report.md)
