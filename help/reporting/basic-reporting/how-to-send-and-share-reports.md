@@ -27,7 +27,7 @@ Este vídeo contiene información sobre:
 * Cómo compartir informes con cualquier persona
 * Qué pueden ver y hacer los destinatarios con un informe de Workfront
 
->[!VIDEO](https://video.tv.adobe.com/v/335158/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3447815/?quality=12&learn=on&captions=spa)
 
 ## Puntos clave
 
