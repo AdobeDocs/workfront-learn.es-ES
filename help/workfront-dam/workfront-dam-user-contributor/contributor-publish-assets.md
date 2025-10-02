@@ -10,7 +10,7 @@ team: Technical Marketing
 jira: KT-8997
 exl-id: 30f2684c-345a-4834-9e61-4e65f0c7a3e7
 doc-type: video
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '181'
 ht-degree: 100%
@@ -21,7 +21,7 @@ ht-degree: 100%
 
 ## Preparación para publicar recursos
 
-Publicación de un recurso o carpeta en [!UICONTROL Brand Connect] ofrece a una audiencia más amplia la capacidad de acceder a los recursos aprobados. Es posible que muchas personas de su organización no tengan acceso a [!UICONTROL DAM de Workfront], pero sí acceso a [!UICONTROL Brand Connect].
+Publicación de un recurso o carpeta en [!UICONTROL Brand Connect] ofrece a un público más amplio la capacidad de acceder a los recursos aprobados. Es posible que muchas personas de su organización no tengan acceso a [!UICONTROL DAM de Workfront], pero sí acceso a [!UICONTROL Brand Connect].
 
 Los recursos no se deben publicar hasta que sean definitivos. Por ejemplo, no quiere publicar un borrador aproximado de un folleto en [!UICONTROL Brand Connect]; de lo contrario, podría distribuirse antes de que finalice.
 
@@ -41,4 +41,4 @@ Este vídeo contiene información sobre:
 * Publicar recursos en [!UICONTROL Brand Connect]
 * Publicar carpetas en [!UICONTROL Brand Connect]
 
->[!VIDEO](https://video.tv.adobe.com/v/3414412/?quality=12&learn=on&enablevpops&captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/335257/?quality=12&learn=on&enablevpops=1)

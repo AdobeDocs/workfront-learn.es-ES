@@ -10,7 +10,7 @@ team: Technical Marketing
 jira: KT-8896
 exl-id: 6ece64db-3d96-4b14-bbd0-5e5b81e6cab5
 doc-type: video
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '84'
 ht-degree: 100%
@@ -29,7 +29,7 @@ Este vídeo contiene información sobre:
 * Cambiar la terminología de [!DNL Goals] para adaptarla a su organización
 * Añadir [!DNL Goals] al [!DNL Workfront] [!UICONTROL Menú principal]
 
->[!VIDEO](https://video.tv.adobe.com/v/3416489/?quality=12&learn=on&enablevpops&captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/335190/?quality=12&learn=on&enablevpops=1)
 
 <!--
 Learn more graphic

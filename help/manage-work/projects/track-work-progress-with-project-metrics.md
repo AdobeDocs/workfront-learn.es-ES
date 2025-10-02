@@ -13,7 +13,7 @@ last-substantial-update: 2024-05-03T00:00:00Z
 jira: KT-8796
 exl-id: c80659f2-2818-47a7-9173-e3d9e236db75
 doc-type: video
-source-git-commit: 1f6f333f919aacd8ed94ba1aae434d8a80c91314
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '338'
 ht-degree: 11%
@@ -25,7 +25,7 @@ ht-degree: 11%
 En el vídeo se explica cómo realizar un seguimiento del progreso del proyecto mediante Métricas del proyecto. palo de golf Muestra cómo acceder a la pestaña Métricas en el panel izquierdo de un proyecto, lo que puede requerir desplazarse y hacer clic en Mostrar más. El área KPI de la parte superior muestra indicadores de rendimiento clave, como tareas completadas, incompletas y vencidas. palo de golf Los usuarios pueden hacer clic en los indicadores para ver tareas específicas y utilizar gráficos para agrupar tareas o problemas por estado o prioridad. palo de golf Al pasar el ratón por encima de las columnas, se muestran cantidades y el gráfico muestra la proporción de tareas o problemas completos a incompletos. palo de golf Las métricas también pueden mostrar tareas por usuario asignado en función de su estado (completo, incompleto, próximo o vencido). palo de golf Las preferencias para ver métricas se guardan para visitas futuras. palo de golf Por último, el vídeo muestra cómo exportar la página de métricas como archivo PNG con el botón Exportar. palo de golf
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3439173/?quality=12&learn=on&enablevpops&captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/336667/?quality=12&learn=on&enablevpops=1)
 
 ## Puntos clave
 

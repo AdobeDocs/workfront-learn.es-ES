@@ -12,7 +12,7 @@ last-substantial-update: 2024-08-08T00:00:00Z
 jira: KT-8831
 exl-id: 03841b1f-741d-4427-ae84-ddb9f890fc95
 doc-type: video
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '572'
 ht-degree: 100%
@@ -44,7 +44,7 @@ Cada etapa de un flujo de trabajo automatizado tiene su propia sección, que per
 
 Este vídeo muestra algunos de los cambios que puede realizar en el área [!UICONTROL Flujo de trabajo]. Consulte la lista con viñetas bajo este vídeo para revisar esta configuración.
 
->[!VIDEO](https://video.tv.adobe.com/v/3432620/?quality=12&learn=on&enablevpops&captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/335131/?quality=12&learn=on&enablevpops=1)
 
 Como revisión, estos son los cambios de plantilla de prueba que puede realizar en la sección [!UICONTROL Flujo de trabajo]:
 

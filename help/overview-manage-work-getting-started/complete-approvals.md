@@ -14,7 +14,7 @@ jira: KT-10134
 hide: true
 exl-id: 5bf6a8cb-7c4d-4b2e-a5e4-cc3bf7c6ca82
 doc-type: video
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '66'
 ht-degree: 100%
@@ -28,7 +28,7 @@ Este vídeo contiene información sobre:
 * Cómo encontrar aprobaciones de tareas por resolver y ocuparse de ellas
 * Cómo encontrar aprobaciones de problemas por resolver y tratarlos
 
->[!VIDEO](https://video.tv.adobe.com/v/3439427/?quality=12&learn=on&enablevpops&captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/3439422/?quality=12&learn=on&enablevpops=1)
 
 ## Tutoriales recomendados sobre este tema
 

@@ -10,7 +10,7 @@ role: User, Leader
 level: Beginner
 exl-id: e6070383-abda-466a-b490-ed9699a4befe
 doc-type: video
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '38'
 ht-degree: 100%
@@ -21,4 +21,4 @@ ht-degree: 100%
 
 Aprenda a agregar y editar la configuración de columnas en un tablero.
 
->[!VIDEO](https://video.tv.adobe.com/v/3422935/?quality=12&learn=on&enablevpops&captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/347332/?quality=12&learn=on&enablevpops=1)

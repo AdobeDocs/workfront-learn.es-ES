@@ -12,7 +12,7 @@ jira: KT-13836
 role: User
 level: Intermediate
 exl-id: febb7378-81d4-4348-ac57-e9c4756966c0
-source-git-commit: 3fc3a58c829769ca06ffb93971ac75516dfbd5f2
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '243'
 ht-degree: 9%
@@ -23,7 +23,7 @@ ht-degree: 9%
 
 El vídeo explica la importancia de un caso empresarial en la administración de proyectos. Hace hincapié en que completar el caso empresarial ayuda a los administradores a analizar y priorizar los proyectos que compiten por los mismos recursos. palo de golf Una vez finalizado, al enviar el caso empresarial, el estado del proyecto cambia a Solicitado y se calcula su puntuación general para la comparación en la herramienta de optimización de Portfolio. palo de golf Aunque ninguno de los campos es obligatorio, una información más detallada mejora la toma de decisiones. palo de golf
 
->[!VIDEO](https://video.tv.adobe.com/v/3442847/?quality=12&learn=on&enablevpops&captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/3442843/?quality=12&learn=on&enablevpops=1)
 
 ## Puntos clave
 

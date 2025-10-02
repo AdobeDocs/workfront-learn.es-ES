@@ -12,7 +12,7 @@ recommendations: noDisplay,catalog
 jira: KT-8774
 exl-id: 882e421d-8ed9-492f-8810-7bc2de8fc820
 doc-type: video
-source-git-commit: c32909809386d30767f113530ccb1e7358de0473
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '253'
 ht-degree: 8%
@@ -24,7 +24,7 @@ ht-degree: 8%
 En este vídeo se explica la estructura de tareas de Workfront. Las tareas son componentes esenciales de un proyecto y representan los elementos de trabajo necesarios para su finalización&#x200B; El vídeo enfatiza la importancia de organizar las tareas con precisión como un paso clave en la planificación y administración de proyectos. Muestra cómo empezar a trabajar con tareas y explica las relaciones entre las tareas principales y secundarias.
 palo de golfLas tareas principales actúan como organizadores, agrupan el proyecto en fases, etapas o hitos, y no se asignan a individuos. Las tareas secundarias, o subtareas, representan el trabajo procesable asignado a los integrantes del equipo.
 
->[!VIDEO](https://video.tv.adobe.com/v/335087/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/335087/?quality=12&learn=on&enablevpops=1)
 
 ## Puntos clave
 

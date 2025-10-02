@@ -13,7 +13,7 @@ recommendations: noDisplay,catalog
 jira: KT-8771
 exl-id: 2c70b05e-6320-41e6-9c28-782edd7d4a8c
 doc-type: video
-source-git-commit: e2875475de268e69ca59e7cc7253987bdd195b1d
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '803'
 ht-degree: 54%
@@ -22,7 +22,7 @@ ht-degree: 54%
 
 # Navegar por la página del proyecto
 
-Este vídeo proporciona información general sobre cómo navegar y administrar la página del proyecto en Workfront. palo de golf Las funciones principales incluyen:
+Este vídeo proporciona información general sobre cómo navegar y administrar la página del proyecto en Workfront. palo de golf Las características principales incluyen:
 
 * **Encabezado del proyecto:** Muestra información esencial, como el porcentaje completado, el jefe de proyecto, la fecha planificada de finalización, la condición del proyecto y el estado. palo de golf El estado ayuda a rastrear las notificaciones de fase y déclencheur del proyecto. palo de golf
 * **Navegación por ruta de exploración:** Muestra la ubicación del proyecto dentro del programa y el portafolio de la organización, con vínculos en los que se puede hacer clic para facilitar la navegación. palo de golf
@@ -33,7 +33,7 @@ Este vídeo proporciona información general sobre cómo navegar y administrar l
 * **Sección de documentos:** Permite cargar y administrar archivos y pruebas relacionados con el proyecto. palo de golf Los documentos adjuntos a las tareas se acumulan en el nivel de proyecto para facilitar el acceso. palo de golf
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3449729/?quality=12&learn=on&enablevpops&captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/335085/?quality=12&learn=on&enablevpops=1)
 
 ## Puntos clave
 
@@ -53,7 +53,7 @@ La página del proyecto está repleta de funciones que le ayudarán a administra
 ![Captura de pantalla de la página del proyecto](assets/project-page-graphic-for-planner-v2.png)
 
 1. **Ruta de exploración:** navegue por la jerarquía de programas y portafolios detrás del proyecto.
-2. **Tipo de objeto:** mostrar el tipo de objeto en la página de aterrizaje le ayuda a identificar lo que está viendo en [!DNL Workfront]. El término “proyecto” puede personalizarlo su administrador del sistema [!DNL Workfront].
+2. **Tipo de objeto:** mostrar el tipo de objeto en la página de destino le ayuda a identificar lo que está viendo en [!DNL Workfront]. El término “proyecto” puede personalizarlo su administrador del sistema [!DNL Workfront].
 3. **Nombre del proyecto:** nombre del proyecto que está viendo. Haga clic en el nombre para editarlo.
 4. **Encabezado del proyecto:** información estándar disponible en todas las páginas del proyecto.
 5. **[!UICONTROL Porcentaje completado]:** esto se actualiza automáticamente en función de las tareas completadas en el proyecto.

@@ -11,7 +11,7 @@ last-substantial-update: 2024-02-28T00:00:00Z
 recommendations: noDisplay,catalog
 jira: KT-10069
 exl-id: 1fd4d862-e44b-4c50-9663-70e727f6e9b7
-source-git-commit: e848d231176ca58a645a4da000137e68ac492c57
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '245'
 ht-degree: 22%
@@ -22,7 +22,7 @@ ht-degree: 22%
 
 En este vídeo se muestra cómo convertir un problema o una solicitud en una tarea.
 
->[!VIDEO](https://video.tv.adobe.com/v/3445433/?quality=12&learn=on&enablevpops&captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/3427605/?quality=12&learn=on&enablevpops=1)
 
 ## Puntos clave
 

@@ -11,10 +11,10 @@ thumbnail: 335175.png
 jira: KT-8912
 exl-id: f194fbc8-99b3-4fed-9fc5-a2f5fa4593d2
 doc-type: video
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
-source-wordcount: '281'
-ht-degree: 100%
+source-wordcount: '275'
+ht-degree: 97%
 
 ---
 
@@ -25,7 +25,7 @@ Este vídeo contiene información sobre:
 * Qué se calcula con las expresiones ADDDAYS/ADDWEEKDAY/ADDMONTHS/ADDYEAR
 * Cómo crear una expresión de datos ADDWEEKDAYS en un campo calculado
 
->[!VIDEO](https://video.tv.adobe.com/v/3416188/?quality=12&learn=on&enablevpops&captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/335175/?quality=12&learn=on&enablevpops=1)
 
 ## Ejemplos adicionales
 
@@ -35,7 +35,7 @@ A continuación se muestran algunas expresiones adicionales ADDDAYS/ADDWEEKDAY/A
 
 El cliente desea saber cuándo se debe completar la tarea en función de la fecha de inicio real y la duración planificada. La fecha de finalización prevista no funcionará en este caso porque puede moverse si la tarea está atrasada y la fecha planificada de finalización no ayuda si hay retrasos en tareas anteriores.
 
-La expresión creada era ADDDAYS({actualStartDate}, {durationMinutes}/480)
+La expresión creada fue ADDDAYS({actualStartDate},{durationMinutes}/480)
 
 El tiempo en el campo Duración se almacena en minutos. Por lo tanto, en esta expresión, el campo Duración no puede mantenerse por sí solo si se desea reflejar la hora en días. Para que esto ocurra, la duración debe dividirse en 480 minutos (480 minutos = 8 horas = 1 día)
 
@@ -50,4 +50,4 @@ El cliente está capturando la fecha en la que se presenta una factura a través
 
 Una vez presentada, la factura debe completarse y cumplimentarse en un plazo de 30 días. Para producir automáticamente esa fecha de finalización y de archivo, se utiliza un campo calculado ADDDAYS junto con el campo personalizado “Fecha de envío de la factura”. La expresión tiene el aspecto siguiente:
 
-ADDDAYS({DE:Fecha de envío de factura},30)
+ADDDAYS({DE:Invoice Submission Date},30)

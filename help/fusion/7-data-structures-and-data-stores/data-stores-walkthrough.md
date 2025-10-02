@@ -11,7 +11,7 @@ jira: KT-9055
 exl-id: e96fd109-2463-4702-b1bf-b42a6dcd7fc4
 recommendations: noDisplay,catalog
 doc-type: video
-source-git-commit: dfcca5f02a6d9f7ee44a1e894106ae48259eea91
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '393'
 ht-degree: 99%
@@ -30,7 +30,7 @@ Esto forma parte de una sincronización unidireccional de compañías en Workfro
 
 Workfront recomienda ver el vídeo tutorial del ejercicio antes de intentar recrear el ejercicio en su propio entorno.
 
->[!VIDEO](https://video.tv.adobe.com/v/3417968/?quality=12&learn=on&enablevpops&captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/335296/?quality=12&learn=on&enablevpops=1)
 
 
 
@@ -46,4 +46,4 @@ Los almacenes de datos no están diseñados para utilizarse como almacén de dat
 
 ## ¿Desea obtener más información? Recomendamos lo siguiente:
 
-[Documentación de Workfront Fusion](https://experienceleague.adobe.com/es/docs/workfront-fusion/using/get-started-with-fusion/understand-workfront-fusion/workfront-fusion-overview)
+[Documentación de Workfront Fusion](https://experienceleague.adobe.com/en/docs/workfront-fusion/using/get-started-with-fusion/understand-workfront-fusion/workfront-fusion-overview)

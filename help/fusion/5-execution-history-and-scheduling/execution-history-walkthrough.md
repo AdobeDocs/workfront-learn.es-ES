@@ -11,7 +11,7 @@ jira: KT-9042
 exl-id: 370ea489-3b91-4b5b-b5e5-7948bbee1148
 recommendations: noDisplay,catalog
 doc-type: video
-source-git-commit: dfcca5f02a6d9f7ee44a1e894106ae48259eea91
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '262'
 ht-degree: 99%
@@ -28,7 +28,7 @@ Revise el historial de ejecución para el escenario “Uso del filtro poderoso�
 
 Workfront recomienda ver el vídeo tutorial del ejercicio antes de intentar recrear el ejercicio en su propio entorno.
 
->[!VIDEO](https://video.tv.adobe.com/v/3417314/?quality=12&learn=on&enablevpops&captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/335283/?quality=12&learn=on&enablevpops=1)
 
 
 ## Búsqueda de texto completo en la pestaña del historial
@@ -60,4 +60,4 @@ Al hacer clic en una ejecución, Workfront Fusion carga la ejecución y el módu
 
 ## ¿Desea obtener más información? Recomendamos lo siguiente:
 
-[Documentación de Workfront Fusion](https://experienceleague.adobe.com/es/docs/workfront-fusion/using/get-started-with-fusion/understand-workfront-fusion/workfront-fusion-overview)
+[Documentación de Workfront Fusion](https://experienceleague.adobe.com/en/docs/workfront-fusion/using/get-started-with-fusion/understand-workfront-fusion/workfront-fusion-overview)

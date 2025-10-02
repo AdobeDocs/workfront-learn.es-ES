@@ -10,7 +10,7 @@ role: Admin
 level: Intermediate
 exl-id: 1a742041-9a65-41cc-a03e-ba17b5b40135
 doc-type: video
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '69'
 ht-degree: 100%
@@ -25,7 +25,7 @@ Este vídeo contiene información sobre:
 * Cómo se crean las rutas de hitos
 * Adición de pasos de hitos a una ruta de hitos
 
->[!VIDEO](https://video.tv.adobe.com/v/3415912/?quality=12&learn=on&enablevpops&captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/335204/?quality=12&learn=on&enablevpops=1)
 
 >[!NOTE]
 >

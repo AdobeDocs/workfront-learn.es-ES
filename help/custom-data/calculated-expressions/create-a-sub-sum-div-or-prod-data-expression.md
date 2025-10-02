@@ -11,10 +11,10 @@ thumbnail: 335177.png
 jira: KT-8914
 exl-id: e767b73b-1591-4d96-bb59-2f2521e3efa3
 doc-type: video
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
-source-wordcount: '386'
-ht-degree: 100%
+source-wordcount: '378'
+ht-degree: 89%
 
 ---
 
@@ -25,7 +25,7 @@ Este vídeo contiene información sobre:
 * Qué hacen las expresiones SUB, SUM, DIV y PROD
 * Creación de una expresión de datos SUB en un campo calculado
 
->[!VIDEO](https://video.tv.adobe.com/v/3413999/?quality=12&learn=on&enablevpops&captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/335177/?quality=12&learn=on&enablevpops=1)
 
 ## Información adicional: expresión ROUND
 
@@ -57,8 +57,8 @@ La expresión ROUND incluye el nombre de la expresión (ROUND) y, normalmente, d
 
 Una expresión está estructurada de esta manera: ROUND(punto de datos, #)
 
-En la expresión que calcula la diferencia entre las horas planificadas y las reales, utilice esta expresión: DIV(SUB({workRequired},{actualWorkRequired}),60) como primer punto de datos. A continuación, asegúrese de que el número que proviene de esa expresión no supere las dos posiciones a la derecha del decimal.
+En la expresión que calcula la diferencia entre las horas planificadas y las reales, utilice esta expresión —DIV(SUB({workRequired},{actualWorkRequired}),60)— como primer punto de datos. A continuación, asegúrese de que el número que proviene de esa expresión no supere las dos posiciones a la derecha del decimal.
 
 ![Equilibrador de carga de trabajo con informe de utilización](assets/round03.png)
 
-La expresión podría escribirse de esta manera: ROUND(DIV(SUB({workRequired},{actualWorkRequired}),60),2).
+La expresión podría escribirse así: ROUND(DIV(SUB({workRequired},{actualWorkRequired}),60),2).

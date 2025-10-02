@@ -1,6 +1,6 @@
 ---
 title: Configurar los valores predeterminados de ingresos y costes de las tareas
-description: Descubra dónde se utilizan el tipo de ingresos y los tipos de costes y cómo configurar los valores predeterminados del sistema.
+description: Descubra dónde se utilizan el tipo de ingresos y los tipos de costes, y cómo configurar los valores predeterminados del sistema.
 activity: use
 team: Technical Marketing
 feature: Work Management
@@ -13,19 +13,19 @@ exl-id: d82d889d-3f50-41d3-951c-995b49727d9c
 last-substantial-update: 2025-04-23T00:00:00Z
 recommendations: noDisplay,catalog
 doc-type: video
-source-git-commit: 4568e4e47b719e2dee35357d42674613112a9c43
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '204'
-ht-degree: 15%
+ht-degree: 32%
 
 ---
 
 
 # Configurar los valores predeterminados de ingresos y costes de las tareas
 
-Descubra dónde se utilizan el tipo de ingresos y los tipos de costes y cómo configurar los valores predeterminados del sistema.
+Descubra dónde se utilizan el tipo de ingresos y los tipos de costes, y cómo configurar los valores predeterminados del sistema.
 
->[!VIDEO](https://video.tv.adobe.com/v/3457685/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3457685/?quality=12&learn=on&enablevpops=1)
 
 ## Puntos clave
 

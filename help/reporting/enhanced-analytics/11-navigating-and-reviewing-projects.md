@@ -12,7 +12,7 @@ jira: KT-8729
 recommendations: noDisplay,catalog
 exl-id: 1409a1af-3bdb-40f7-af01-f9de2357b602
 doc-type: video
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '459'
 ht-degree: 100%
@@ -25,7 +25,7 @@ Este vídeo contiene información sobre:
 
 * Cómo leer el gráfico del plan de grupo
 
->[!VIDEO](https://video.tv.adobe.com/v/3439012/?quality=12&learn=on&enablevpops&captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/335047/?quality=12&learn=on&enablevpops=1)
 
 ## Gráfico del plan de grupo
 

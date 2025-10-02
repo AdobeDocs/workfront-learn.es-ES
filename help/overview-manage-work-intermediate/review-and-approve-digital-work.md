@@ -13,7 +13,7 @@ recommendations: noDisplay,catalog
 hide: true
 doc-type: video
 exl-id: c6eedc74-c104-434d-8124-1329d4e39e25
-source-git-commit: 4568e4e47b719e2dee35357d42674613112a9c43
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '89'
 ht-degree: 100%
@@ -29,7 +29,7 @@ Este vídeo contiene información sobre:
 * Realizar aprobaciones de documentos
 * Realizar aprobaciones para pruebas
 
->[!VIDEO](https://video.tv.adobe.com/v/3444949/?quality=12&learn=on&enablevpops&captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/335108/?quality=12&learn=on&enablevpops=1)
 
 
 >[!NOTE]

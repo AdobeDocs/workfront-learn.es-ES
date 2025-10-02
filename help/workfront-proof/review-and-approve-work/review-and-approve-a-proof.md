@@ -11,7 +11,7 @@ thumbnail: review-approve-digital-work.png
 jira: KT-8841
 exl-id: fd6e008c-a162-49fa-9f7e-ab7333165dad
 doc-type: video
-source-git-commit: 697957807d4ca95bb4e5ab79f24f5e31252585c3
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '727'
 ht-degree: 44%
@@ -32,7 +32,7 @@ Una vez que sepa lo que se espera, puede empezar a revisar una prueba.
 
 Cuando un recurso esté listo para su revisión y aprobación, recibirá una notificación por correo electrónico.
 
-![Una imagen de un nuevo correo electrónico de prueba que solicita la revisión y aprobación de dos pruebas en [!DNL &#x200B; Workfront].](assets/new-proof-emails.png)
+![Una imagen de un nuevo correo electrónico de prueba que solicita la revisión y aprobación de dos pruebas en [!DNL  Workfront].](assets/new-proof-emails.png)
 
 Es importante tener en cuenta que este vínculo de prueba es único para usted. Si comparte el vínculo con alguien, cualquier comentario o marcado que se haga se etiquetará con su nombre.
 
@@ -57,13 +57,13 @@ Haga clic en el vínculo [!UICONTROL Ir a la revisión] para abrirlo en el visor
 
 Según la prueba de su organización y los flujos de trabajo del proyecto, es posible que vea una asignación de tarea en [!DNL Workfront] [!UICONTROL Inicio] en lugar de una solicitud de aprobación de prueba. En este caso, abrirá la prueba desde la sección [!UICONTROL Documentos] de la propia tarea (consulte las instrucciones a continuación).
 
-También puede encontrar pruebas para revisar el panel de [!DNL Workfront] que se creó específicamente para su equipo u organización para administrar los flujos de trabajo de prueba.
+También puede encontrar pruebas para revisar el panel de control de [!DNL Workfront] que se creó específicamente para su equipo u organización para administrar los flujos de trabajo de prueba.
 
 ### Abrir una prueba de un proyecto, tarea o problema
 
 Si normalmente trabaja con proyectos, tareas o problemas en [!DNL Workfront], puede que prefiera abrir la prueba directamente desde la sección de [!DNL Documents] de ese elemento.
 
-![Una imagen de la sección [!UICONTROL Documentos] encontrada en una tarea de [!DNL &#x200B; Workfront] con el vínculo [!UICONTROL Prueba abierta &#x200B;]resaltado.](assets/open-proof-from-documents.png)
+![Una imagen de la sección [!UICONTROL Documentos] encontrada en una tarea de [!DNL  Workfront] con el vínculo [!UICONTROL Prueba abierta ]resaltado.](assets/open-proof-from-documents.png)
 
 1. Haga clic en el nombre del proyecto, la tarea o el problema.
 2. Haga clic en [!UICONTROL Documentos] en el menú del panel izquierdo de la página del elemento.
@@ -90,7 +90,7 @@ Este vídeo contiene información sobre:
 * Responder a un comentario de una prueba
 * Aprobar o rechazar una prueba
 
->[!VIDEO](https://video.tv.adobe.com/v/335141/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/335141/?quality=12&learn=on&enablevpops=1)
 
 <!--
 #### Learn more

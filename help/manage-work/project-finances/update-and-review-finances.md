@@ -1,6 +1,6 @@
 ---
 title: Actualizar finanzas
-description: Optimice el seguimiento y la facturación de costes definiendo tarifas, asignando tipos de costes e ingresos a tareas, administrando gastos y creando registros de facturación. Workfront no efectúa la facturación real.
+description: Optimice el seguimiento y la facturación de costes definiendo tarifas, asignando tipos de costes e ingresos a las tareas, administrando los gastos y creando registros de facturación. Workfront no efectúa la facturación real.
 activity: use
 team: Technical Marketing
 feature: Work Management
@@ -13,10 +13,10 @@ exl-id: fd977963-c8fe-4200-b46e-3de46373f400
 last-substantial-update: 2025-04-16T00:00:00Z
 recommendations: noDisplay,catalog
 doc-type: video
-source-git-commit: 4568e4e47b719e2dee35357d42674613112a9c43
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '359'
-ht-degree: 2%
+ht-degree: 11%
 
 ---
 
@@ -47,7 +47,7 @@ Workfront realiza un seguimiento de los elementos facturables, pero no gestiona 
 
 Este vídeo destaca la importancia de una configuración y un seguimiento adecuados para optimizar los procesos de facturación del cliente. palo de golf
 
->[!VIDEO](https://video.tv.adobe.com/v/3457648/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3457648/?quality=12&learn=on&enablevpops=1)
 
 ## Puntos clave
 

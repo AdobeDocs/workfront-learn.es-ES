@@ -8,7 +8,7 @@ jira: KT-10872
 thumbnail: 346282.jpeg
 exl-id: 50773b9b-8f64-4aed-bd44-3a43026bd085
 doc-type: video
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '234'
 ht-degree: 100%
@@ -30,7 +30,7 @@ Este vídeo contiene información sobre:
 
 En este vídeo, aprenderá a crear un proyecto de registro de asuntos pendientes con un equipo ágil y a crear un nuevo artículo.
 
->[!VIDEO](https://video.tv.adobe.com/v/3412169/?quality=12&learn=on&enablevpops&captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/346282/?quality=12&learn=on&enablevpops=1)
 
 El equipo ágil preparará el registro de asuntos pendientes. Básicamente, significa que pasarán tres cosas.
 

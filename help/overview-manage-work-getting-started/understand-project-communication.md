@@ -13,7 +13,7 @@ recommendations: noDisplay,catalog
 jira: KT-10147
 hide: true
 exl-id: 9875748d-21d4-4902-96b1-ab84d8c0f7d6
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '109'
 ht-degree: 100%
@@ -30,13 +30,13 @@ En este vídeo aprenderá a comunicarse con todas las partes interesadas del pro
 * Problemas
 * Informes
 
->[!VIDEO](https://video.tv.adobe.com/v/3436149/?quality=12&learn=on&enablevpops&captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/3419150/?quality=12&learn=on&enablevpops=1)
 
 >[!TIP]
 >
 >Para crear el informe Búsqueda de notas que se muestra en el vídeo, consulte la actividad en el tutorial [Creación de un informe de tareas](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-task-report.html?lang=es).
 >
->Para agregar el informe Búsqueda de notas al panel del proyecto, consulte la actividad en el tutorial [Creación de paneles](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-dashboards.html?lang=es).
+>Para agregar el informe Búsqueda de notas al panel de control del proyecto, consulte la actividad en el tutorial [Creación de paneles de control](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-dashboards.html?lang=es).
 
 ## Tutoriales recomendados sobre este tema
 

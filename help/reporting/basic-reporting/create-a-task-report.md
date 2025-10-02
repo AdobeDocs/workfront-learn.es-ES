@@ -12,7 +12,7 @@ last-substantial-update: 2025-06-11T00:00:00Z
 jira: KT-8859
 exl-id: 90bad2e8-9cd2-4ae7-973b-eeab9d615bef
 doc-type: video
-source-git-commit: e10995fb5e3c452df3177a4a29e187e862a1b4a5
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '1116'
 ht-degree: 77%
@@ -25,7 +25,7 @@ El vídeo proporciona una guía paso a paso sobre la creación de un informe per
 
 El informe resultante ayuda a los usuarios a centrarse en tareas tardías, proporciona perspectivas sobre las dependencias y simplifica la navegación a los proyectos host. palo de golf
 
->[!VIDEO](https://video.tv.adobe.com/v/3448345/?quality=12&learn=on&captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/335154/?quality=12&amp;learn=on&amp;enablevpops=0
 
 ## Puntos clave
 
@@ -41,8 +41,8 @@ El informe resultante ayuda a los usuarios a centrarse en tareas tardías, propo
 >[!TIP]
 >
 >Saque sus espátulas y los recipientes para mezclar y prepárese para probar las “recetas” en nuestro manual [Adobe Workfront Customer Reporting Cookbook](/help/assets/workfront-customer-reporting-cookbook.pdf). En el interior encontrará instrucciones paso a paso para 10 informes, listos para que pueda trabajar en su entorno hoy mismo.
->&#x200B;>Hemos recopilado los informes favoritos de los clientes y los hemos reunido en un libro de cocina fácil de digerir para que se lo lleve y lo pruebe en su propia cocina de Workfront.
->&#x200B;>Estos 10 informes proceden de clientes que son como usted. Repartidos por sectores, departamentos, equipos, cargos y todos en empresas diferentes, estamos muy agradecidos a los increíbles clientes que compartieron uno de sus informes favoritos. Algunos informes son simples (pero increíblemente útiles) y otros son más complejos para llevar los informes al siguiente nivel.
+>>Hemos recopilado los informes favoritos de los clientes y los hemos reunido en un libro de cocina fácil de digerir para que se lo lleve y lo pruebe en su propia cocina de Workfront.
+>>Estos 10 informes proceden de clientes que son como usted. Repartidos por sectores, departamentos, equipos, cargos y todos en empresas diferentes, estamos muy agradecidos a los increíbles clientes que compartieron uno de sus informes favoritos. Algunos informes son simples (pero increíblemente útiles) y otros son más complejos para llevar los informes al siguiente nivel.
 
 
 ### Actividad 1: Creación de un informe de notas con instrucciones
@@ -178,7 +178,7 @@ Filtre por el ID del proyecto de la cola de solicitudes donde residen los proble
 
    * [!UICONTROL Problema] > [!UICONTROL Nombre]
    * [!UICONTROL Contacto principal] > [!UICONTROL Nombre]
-      * Nota: Aparece con “Owner:Name” como etiqueta de columna. Puede cambiarlo por “Notificado por” haciendo clic en Opciones avanzadas y escribiendo “Notificado por” en el campo **Etiqueta de columna personalizada**.
+      * Nota: esto aparece con &quot;Propietario:Name&quot; como etiqueta de columna. Puede cambiarlo por “Notificado por” haciendo clic en Opciones avanzadas y escribiendo “Notificado por” en el campo **Etiqueta de columna personalizada**.
    * [!UICONTROL Problema] > [!UICONTROL Tipo de proceso]
    * [!UICONTROL Problema] > [!UICONTROL Nombre del proceso]
    * [!UICONTROL Problema] > [!UICONTROL Grado del proceso]

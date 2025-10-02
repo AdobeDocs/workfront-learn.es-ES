@@ -13,7 +13,7 @@ exl-id: a8576504-d3f5-4ea0-8ace-bff0c00f8461
 last-substantial-update: 2025-04-23T00:00:00Z
 recommendations: noDisplay,catalog
 doc-type: video
-source-git-commit: 4568e4e47b719e2dee35357d42674613112a9c43
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '168'
 ht-degree: 27%
@@ -25,7 +25,7 @@ ht-degree: 27%
 En el vídeo se explica cómo administrar los tipos de gastos en Workfront, centrándose en crearlos, utilizarlos y eliminarlos.
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3457702/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3457702/?quality=12&learn=on&enablevpops=1)
 
 ## Puntos clave
 

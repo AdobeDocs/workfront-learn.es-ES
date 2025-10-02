@@ -1,6 +1,6 @@
 ---
 title: Comprender las escalas de tiempo del proyecto
-description: Aprenda a asignar tareas, utilizar gráficos Gantt y las funciones de ruta crítica, supervisar proyectos mediante vistas, programar tareas de forma eficaz y aplicar restricciones para una planificación óptima de los proyectos.
+description: Aprenda a asignar tareas, utilizar diagramas de Gantt y las funciones de ruta crítica, supervisar proyectos mediante vistas, programar tareas de forma eficaz y aplicar restricciones para una planificación del proyecto óptima.
 activity: use
 feature: Work Management
 thumbnail: 335213.jpeg
@@ -13,10 +13,10 @@ recommendations: noDisplay,catalog
 jira: KT-8953
 exl-id: ba993197-9f84-4fc0-86cc-cf849c889f56
 doc-type: video
-source-git-commit: b31a0e6255d7e298ac95b14c308ca3fa5fb8e1d3
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '701'
-ht-degree: 6%
+ht-degree: 10%
 
 ---
 
@@ -28,7 +28,7 @@ Lo que aprenderá:
 * Diferentes vistas en Workfront, como la vista estándar para la planificación y la vista de estado para la monitorización del progreso, que incluye indicadores de progreso, comentarios, documentos, problemas, aprobaciones, rutas críticas e hitos. Se puede realizar un seguimiento de la actividad reciente para ver actualizaciones y notas.
 * La programación se puede realizar desde una fecha de inicio o de finalización, y Workfront calcula las fechas correspondientes en función de las duraciones de las tareas y sus predecesoras. El vídeo recomienda programar desde una fecha de inicio las fechas de finalización esenciales para permitir cierto margen de demora. También se tratan las delimitaciones de tareas, como &quot;lo antes posible&quot; y &quot;lo más tarde posible&quot;, lo que muestra cómo afectan a la programación de tareas. Se pueden crear vistas personalizadas para mostrar las delimitaciones de las tareas.
 
->[!VIDEO](https://video.tv.adobe.com/v/3435838/?quality=12&learn=on&enablevpops&captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/335213/?quality=12&learn=on&enablevpops=1)
 
 >[!IMPORTANT]
 >

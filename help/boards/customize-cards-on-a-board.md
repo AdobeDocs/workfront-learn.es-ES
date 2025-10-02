@@ -9,7 +9,7 @@ last-substantial-update: 2023-08-08T00:00:00Z
 jira: KT-13776
 thumbnail: 3422520.jpeg
 exl-id: ff3ec41f-2a8d-4e09-aa8e-5c57d69cff36
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '52'
 ht-degree: 100%
@@ -20,4 +20,4 @@ ht-degree: 100%
 
 Descubra cómo se personaliza la información que se muestra en una tarjeta de un tablero, para la vista completa o condensada.
 
->[!VIDEO](https://video.tv.adobe.com/v/3446534/?quality=12&learn=on&enablevpops&captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/3422520/?quality=12&learn=on&enablevpops=1)

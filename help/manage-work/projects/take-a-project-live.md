@@ -12,7 +12,7 @@ recommendations: noDisplay,catalog
 jira: KT-8780
 exl-id: 100aed51-2ab4-4a75-af2b-1860c7463a3c
 doc-type: video
-source-git-commit: 89691410598cf9a8246db71b6108a4442901722d
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '239'
 ht-degree: 9%
@@ -23,7 +23,7 @@ ht-degree: 9%
 
 En el vídeo se explican los pasos finales para poner en marcha un proyecto cambiando su estado a &quot;actual&quot;. Antes de hacerlo, hace hincapié en revisar los elementos clave del proyecto, incluidos los nombres de las tareas, las duraciones, las horas planificadas, las predecesoras, las fechas de inicio y finalización y las asignaciones para garantizar que todo sea preciso y esté configurado correctamente. palo de golf Una vez que el proyecto esté activo, el administrador de proyectos recibirá notificaciones basadas en la configuración global y personal, y el proyecto aparecerá en los informes y filtros de los proyectos activos. palo de golf Esto marca el inicio oficial del trabajo. palo de golf
 
->[!VIDEO](https://video.tv.adobe.com/v/3438986/?quality=12&learn=on&enablevpops&captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/335093/?quality=12&learn=on&enablevpops=1)
 
 ## Puntos clave
 

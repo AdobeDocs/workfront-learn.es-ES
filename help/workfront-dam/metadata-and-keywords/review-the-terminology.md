@@ -10,7 +10,7 @@ team: Technical Marketing
 jira: KT-8971
 exl-id: 566415e9-f9a5-4038-aae7-6e08ae67d4b3
 doc-type: video
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '70'
 ht-degree: 100%
@@ -27,4 +27,4 @@ Este vídeo contiene información sobre:
 * Cómo puede ser beneficiosa la taxonomía de palabras clave
 * Búsqueda de recursos utilizando metadatos y palabras clave
 
->[!VIDEO](https://video.tv.adobe.com/v/3419523/?quality=12&learn=on&enablevpops&captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/335234/?quality=12&learn=on&enablevpops=1)

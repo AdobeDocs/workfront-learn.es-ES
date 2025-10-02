@@ -14,7 +14,7 @@ last-substantial-update: 2024-03-05T00:00:00Z
 hide: true
 doc-type: video
 exl-id: 7a446016-d856-4a93-8c42-bbd5cb670828
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '80'
 ht-degree: 100%
@@ -30,7 +30,7 @@ Este vídeo contiene información sobre:
 * Copiar un proyecto existente
 * Importar un archivo de [!DNL Microsoft Project]
 
->[!VIDEO](https://video.tv.adobe.com/v/3432173/?quality=12&learn=on&enablevpops&captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/335084/?quality=12&learn=on&enablevpops=1)
 
 ## Tutoriales recomendados sobre este tema
 

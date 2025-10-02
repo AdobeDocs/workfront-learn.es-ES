@@ -12,7 +12,7 @@ jira: KT-8830
 last-substantial-update: 2024-01-24T00:00:00Z
 exl-id: eac89e40-d3ea-4376-82a2-16bec550d131
 doc-type: video
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '432'
 ht-degree: 100%
@@ -28,7 +28,7 @@ Este vídeo contiene información sobre:
 * Establecer un plazo para el proceso de revisión y aprobación
 * Comparta la plantilla de flujo de trabajo automatizado con otros usuarios
 
->[!VIDEO](https://video.tv.adobe.com/v/3454254/?quality=12&learn=on&enablevpops&captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/335130/?quality=12&learn=on&enablevpops=1)
 
 ## Opciones de activación de fase adicionales
 

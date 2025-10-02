@@ -1,6 +1,6 @@
 ---
 title: Comprender la nueva experiencia de filtro
-description: Aprenda a habilitar y deshabilitar la nueva experiencia de filtro, crear y editar filtros y apilar filtros.
+description: Aprenda a habilitar y deshabilitar la nueva experiencia de filtro, crear y editar filtros y apilarlos.
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335151.jpeg
@@ -11,10 +11,10 @@ team: Technical Marketing
 jira: kt-13080
 doc-type: video
 exl-id: a2c1c2eb-a872-4718-a5ec-7a4532d1510f
-source-git-commit: e0ae6eaacc03980ad53c0471681211f76dfaff26
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '47'
-ht-degree: 65%
+ht-degree: 100%
 
 ---
 
@@ -26,4 +26,4 @@ Este vídeo contiene información sobre:
 * Crear y editar filtros
 * Apilar filtros
 
->[!VIDEO](https://video.tv.adobe.com/v/3422821/?quality=12&learn=on&enablevpops&captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/3419558/?quality=12&learn=on&enablevpops=1)

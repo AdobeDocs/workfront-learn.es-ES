@@ -13,7 +13,7 @@ team: Technical Marketing
 jira: KT-14749
 doc-type: video
 exl-id: ad9b9e1e-3d8c-4a0f-8f73-e204047485a6
-source-git-commit: cbff1cdf0944c666fb983406f416f1ad741bf22f
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '164'
 ht-degree: 75%
@@ -27,7 +27,7 @@ Este vídeo contiene información sobre:
 * Cómo compartir una plantilla de proyecto que otorga derechos para activarla y desactivarla.
 * Cómo activar y desactivar una plantilla de proyecto.
 
->[!VIDEO](https://video.tv.adobe.com/v/3444993/?quality=12&learn=on&enablevpops&captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/3426779/?quality=12&learn=on&enablevpops=1)
 
 >[!NOTE]
 >
@@ -37,7 +37,7 @@ Este vídeo contiene información sobre:
 
 ## Obtenga información sobre cómo crear una vista personalizada para ver y editar el estado activo de las plantillas de proyecto
 
-Para crear una vista de plantillas de proyecto con una columna de estado activo, consulte la actividad **Vista del estado activo de las plantillas de proyecto** en [Crear una vista básica](https://experienceleague.adobe.com/es/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-basic-view#activity-4-create-a-project-template-active-status-view).
+Para crear una vista de plantillas de proyecto con una columna de estado activo, consulte la actividad **Vista del estado activo de las plantillas de proyecto** en [Crear una vista básica](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-basic-view#activity-4-create-a-project-template-active-status-view).
 
 ## Tutoriales recomendados sobre este tema
 

@@ -10,7 +10,7 @@ team: Technical Marketing
 jira: KT-8814
 exl-id: bd55c464-aae3-40a4-bc1b-e0dbdc5bb238
 doc-type: video
-source-git-commit: c9eb5f9077f1e9ba90d5ebccc9d3b19575667717
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '151'
 ht-degree: 70%
@@ -32,9 +32,9 @@ Este vídeo contiene información sobre:
 
 * Instalación del complemento de Microsoft Outlook
 
->[!VIDEO](https://video.tv.adobe.com/v/3421306/?quality=12&learn=on&enablevpops&captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/335115/?quality=12&learn=on&enablevpops=1)
 
 >[!IMPORTANT]
 >
->Si no encuentra el complemento de Workfront como se describe en el vídeo, es posible que el departamento de TI tenga que configurar el producto primero. Encontrará instrucciones detalladas en la [configuración de Adobe Workfront para Outlook](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-outlook/set-up-workfront-for-outlook.html?lang=es).
+>Si no encuentra el complemento de Workfront como se describe en el vídeo, es posible que el departamento de TI tenga que configurar el producto primero. Encontrará instrucciones detalladas en la [configuración de Adobe Workfront para Outlook](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-outlook/set-up-workfront-for-outlook.html).
 

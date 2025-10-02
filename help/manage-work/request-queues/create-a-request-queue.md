@@ -13,7 +13,7 @@ jira: KT-8958
 last-substantial-update: 2024-08-05T00:00:00Z
 exl-id: 7d581548-7060-426d-a89b-97bddd0fbc96
 doc-type: video
-source-git-commit: 3fc3a58c829769ca06ffb93971ac75516dfbd5f2
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '244'
 ht-degree: 10%
@@ -24,7 +24,7 @@ ht-degree: 10%
 
 El vídeo proporciona una guía paso a paso sobre cómo crear una cola de solicitudes en Workfront. palo de golf El vídeo concluye mostrando cómo enviar una solicitud utilizando la cola recién creada, mostrando el proceso de introducir detalles y verificar el envío en la pestaña &quot;solicitudes enviadas&quot;. palo de golf
 
->[!VIDEO](https://video.tv.adobe.com/v/335221/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/335221/?quality=12&learn=on&enablevpops=1)
 
 ## Puntos clave
 

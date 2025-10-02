@@ -10,7 +10,7 @@ team: Technical Marketing
 jira: KT-8928
 exl-id: 47029e66-a533-4165-a458-54665d82bfd9
 doc-type: video
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '297'
 ht-degree: 100%
@@ -23,7 +23,7 @@ Este vídeo contiene información sobre:
 
 * Vea sus metas individuales en el flujo de actualización [!UICONTROL Pulso]
 
->[!VIDEO](https://video.tv.adobe.com/v/3415925/?quality=12&learn=on&enablevpops&captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/335200/?quality=12&learn=on&enablevpops=1)
 
 ## Filtrado de información en el flujo Pulso
 
@@ -34,7 +34,7 @@ Puede notar que a veces se obtiene demasiada información en el flujo [!UICONTRO
 1. Seleccione una opción para filtrar. El filtro Todo se aplica de forma predeterminada y muestra todas las metas del sistema. Puede realizar una de las siguientes acciones:
 
    * Seleccione cualquiera de los filtros predefinidos (enumerados en la sección [!UICONTROL Guardado] del panel de filtros) para mostrar las metas de los propietarios (p. ej., [!UICONTROL Todo], [!UICONTROL Personales], [!UICONTROL Mis equipos], [!UICONTROL Mis grupos] y [!UICONTROL Compañía]).
-   * Pase el ratón sobre el nombre de un filtro y, a continuación, haga clic en el icono **Editar** junto al nombre para personalizarlo y añadir nombres específicos de usuarios, equipos, grupos o el nombre de su organización.
+   * Pase el puntero por encima del nombre de un filtro y, a continuación, haga clic en el icono **Editar** junto al nombre para personalizarlo y añadir nombres específicos de usuarios, equipos, grupos o el nombre de su organización.
    * Haga clic en [!UICONTROL **Nuevo filtro**] para crear un nuevo filtro, seleccione en la lista de opciones para personalizar y filtrar por [!UICONTROL Período], [!UICONTROL Estado], [!UICONTROL Progreso] o [!UICONTROL Propietario].
 
    ![Una imagen del panel [!UICONTROL Filtros] en [!DNL Workfront Goals]](assets/18-workfront-goals-pulse-stream.png)

@@ -11,7 +11,7 @@ team: Technical Marketing
 jira: KT-8849
 exl-id: 50e2fab3-f548-4c21-9f11-1ebc449822e1
 doc-type: video
-source-git-commit: 7a6bf5fe51622de59749b821009e5d645d04719f
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '241'
 ht-degree: 2%
@@ -24,7 +24,7 @@ En el vídeo se explica cómo utilizar los elementos de creación de informes de
 
 El vídeo también muestra cómo personalizar elementos de creación de informes y compartirlos con otros. palo de golf Estas herramientas permiten a los usuarios adaptar los informes de listas a sus necesidades para mejorar la visibilidad y la administración.
 
->[!VIDEO](https://video.tv.adobe.com/v/3447791/?quality=12&learn=on&enablevpops&captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/335145/?quality=12&learn=on&enablevpops=1)
 
 ## Puntos clave
 

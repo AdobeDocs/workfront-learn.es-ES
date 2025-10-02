@@ -10,7 +10,7 @@ team: Technical Marketing
 jira: KT-8967
 exl-id: 4ebf675c-b72d-447e-b131-a89acb449e15
 doc-type: video
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '414'
 ht-degree: 95%
@@ -28,7 +28,7 @@ Este vídeo contiene información sobre:
 * Crear y editar grupos
 * Agregar y editar usuarios
 
->[!VIDEO](https://video.tv.adobe.com/v/3414466/?quality=12&learn=on&enablevpops&captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/335230/?quality=12&learn=on&enablevpops=1)
 
 ## Revisión de grupos y usuarios
 

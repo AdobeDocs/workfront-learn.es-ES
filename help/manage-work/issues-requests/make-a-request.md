@@ -13,7 +13,7 @@ jira: KT-8806
 exl-id: 07a4824e-809e-4649-b669-865519b95f1f
 recommendations: noDisplay,catalog
 doc-type: video
-source-git-commit: e848d231176ca58a645a4da000137e68ac492c57
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '254'
 ht-degree: 13%
@@ -24,7 +24,7 @@ ht-degree: 13%
 
 El vídeo proporciona una guía detallada sobre cómo realizar y administrar solicitudes en Workfront. Explica el proceso de creación de una solicitud, empezando por seleccionar &quot;Solicitudes&quot; en el menú principal y haciendo clic en el botón &quot;Nueva solicitud&quot;. palo de golf Los usuarios pueden elegir un tipo de solicitud de colas personalizadas y adaptadas a los flujos de trabajo de su organización.
 
->[!VIDEO](https://video.tv.adobe.com/v/3413113/?quality=12&learn=on&enablevpops&captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/336092/?quality=12&learn=on&enablevpops=1)
 
 ## Puntos clave
 

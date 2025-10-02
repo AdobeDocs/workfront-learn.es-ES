@@ -12,7 +12,7 @@ jira: KT-8722
 recommendations: noDisplay,catalog
 exl-id: 8e0f24d7-a099-4a08-af08-8d150104fdb9
 doc-type: video
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '295'
 ht-degree: 100%
@@ -23,11 +23,11 @@ ht-degree: 100%
 
 Este vídeo contiene información sobre:
 
-* Cómo obtener más información pasando el puntero sobre un gráfico
+* Cómo obtener más información pasando el puntero por encima de un gráfico
 * Creación de un período de tiempo en un gráfico
 * Cómo hacer que aparezcan gráficos adicionales
 
->[!VIDEO](https://video.tv.adobe.com/v/3438568/?quality=12&learn=on&enablevpops&captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/335044/?quality=12&learn=on&enablevpops=1)
 
 ## Haga clic en un gráfico para obtener más información
 

@@ -13,7 +13,7 @@ recommendations: noDisplay,catalog
 jira: KT-8957
 exl-id: 8d6f8ddc-c08e-46f6-8b77-50af02c36b5c
 doc-type: video
-source-git-commit: 3fc3a58c829769ca06ffb93971ac75516dfbd5f2
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '221'
 ht-degree: 11%
@@ -24,7 +24,7 @@ ht-degree: 11%
 
 En este vídeo se explica el concepto de colas de solicitudes en Workfront, su propósito y cómo enviar y administrar solicitudes. palo de golf Las colas de solicitudes sirven como ubicación centralizada para enviar varios tipos de solicitudes. palo de golf
 
->[!VIDEO](https://video.tv.adobe.com/v/3447013/?quality=12&learn=on&enablevpops&captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/335220/?quality=12&learn=on&enablevpops=1)
 
 ## Puntos clave
 

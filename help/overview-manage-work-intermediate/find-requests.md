@@ -1,6 +1,6 @@
 ---
 title: Búsqueda y administración de solicitudes
-description: Descubra cómo puede usar los paneles, [!UICONTROL Inicio], el área [!UICONTROL Solicitudes] y la página [!UICONTROL Equipos] para encontrar las solicitudes entrantes realizadas a través de una cola de solicitudes.
+description: Descubra cómo puede usar los paneles de control, [!UICONTROL Inicio], el área [!UICONTROL Solicitudes] y la página [!UICONTROL Equipos] para encontrar las solicitudes entrantes realizadas a través de una cola de solicitudes.
 activity: use
 team: Technical Marketing
 feature: Work Management,Get Started with Workfront
@@ -14,7 +14,7 @@ doc-type: video
 jira: KT-10143
 hide: true
 exl-id: 7655ce23-ee3a-4c66-b8fd-98c2c7a8517b
-source-git-commit: 422b07bc6b1941316a9e441560929d9b2832232f
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '103'
 ht-degree: 100%
@@ -33,7 +33,7 @@ Aprenderá a encontrar estas solicitudes en los siguientes lugares:
 * En un tablero personalizado
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3441657/?quality=12&learn=on&enablevpops&captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/3422686/?quality=12&learn=on&enablevpops=1)
 
 
 ## Tutoriales recomendados sobre este tema

@@ -12,7 +12,7 @@ jira: KT-8733
 doc-type: video
 recommendations: noDisplay,catalog
 exl-id: e29ea4c8-1d57-4dfa-b36c-e19c3c77f1cf
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '224'
 ht-degree: 100%
@@ -25,7 +25,7 @@ Este vídeo contiene información sobre:
 
 * Cómo ver rápidamente cuánto tiempo dedican los trabajadores a cada proyecto
 
->[!VIDEO](https://video.tv.adobe.com/v/3437802/?quality=12&learn=on&enablevpops&captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/335050/?quality=12&learn=on&enablevpops=1)
 
 ## Revisar el tiempo invertido en proyectos
 

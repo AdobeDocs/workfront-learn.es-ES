@@ -12,10 +12,10 @@ last-substantial-update: 2025-09-11T00:00:00Z
 recommendations: noDisplay,catalog
 doc-type: video
 exl-id: e25e4a1a-474d-42c5-950c-0214339ac5a2
-source-git-commit: 452488fec0f96bdf59bd7b8e8baa18c1698279db
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '128'
-ht-degree: 3%
+ht-degree: 18%
 
 ---
 
@@ -32,11 +32,11 @@ Las primeras cosas que debe hacer para poder crear un **informe** de panel de li
 
 [Introducción a los paneles de lienzo](/help/reporting/canvas-dashboards/introduction-to-canvas-dashboards.md) le muestra paso a paso cómo hacer ambas acciones.
 
->[!VIDEO](https://video.tv.adobe.com/v/3474845/?quality=12&learn=on&enablevpops&captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/3474841/?quality=12&learn=on&enablevpops=1)
 
 **Para obtener más información, consulte los siguientes artículos de ayuda:**
-[Información general sobre paneles de lienzo](https://experienceleague.adobe.com/es/docs/workfront/using/reporting/canvas-dashboards/canvas-dashboards-overview)
-[Crear un informe KPI en un panel de lienzo](https://experienceleague.adobe.com/es/docs/workfront/using/reporting/canvas-dashboards/add-reports/build-kpi-report)
+[Información general sobre paneles de lienzo](https://experienceleague.adobe.com/en/docs/workfront/using/reporting/canvas-dashboards/canvas-dashboards-overview)
+[Crear un informe KPI en un panel de lienzo](https://experienceleague.adobe.com/en/docs/workfront/using/reporting/canvas-dashboards/add-reports/build-kpi-report)
 
 ## Tutoriales recomendados sobre este tema
 

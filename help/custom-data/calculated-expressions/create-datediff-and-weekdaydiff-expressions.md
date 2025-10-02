@@ -11,7 +11,7 @@ thumbnail: 335176.png
 jira: KT-8913
 exl-id: 7ef77612-d490-4dc5-82e1-5c36acad761e
 doc-type: video
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '64'
 ht-degree: 100%
@@ -25,6 +25,6 @@ Este vídeo contiene información sobre:
 * Qué calculan las expresiones DATEDIFF y WEEKDAYDIFF
 * Creación de una expresión de datos WEEKDAYDIFF en un campo calculado
 
->[!VIDEO](https://video.tv.adobe.com/v/3417114/?quality=12&learn=on&enablevpops&captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/335176/?quality=12&learn=on&enablevpops=1)
 
 **Nota**: La expresión de datos WEEKDAYDIFF no tiene en cuenta los festivos especificados por su organización.

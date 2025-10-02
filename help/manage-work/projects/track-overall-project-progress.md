@@ -12,7 +12,7 @@ last-substantial-update: 2024-04-25T00:00:00Z
 recommendations: noDisplay,catalog
 jira: KT-10149
 exl-id: 03ebbbaf-0f8a-43ff-b682-9766aca25741
-source-git-commit: 06d6b06e2dfcd54a172d220fdb3996a7949348d1
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '247'
 ht-degree: 12%
@@ -25,7 +25,7 @@ En el vídeo se explica cómo realizar un seguimiento del progreso general del p
 
 El vídeo destaca la importancia de las actualizaciones regulares por parte de los miembros del equipo y de la administración proactiva de problemas para garantizar un seguimiento preciso y la finalización oportuna del proyecto. palo de golf
 
->[!VIDEO](https://video.tv.adobe.com/v/3447413/?quality=12&learn=on&enablevpops&captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/3428748/?quality=12&learn=on&enablevpops=1)
 
 ## Puntos clave
 

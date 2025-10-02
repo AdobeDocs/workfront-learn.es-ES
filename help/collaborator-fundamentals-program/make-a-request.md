@@ -6,7 +6,7 @@ type: Tutorial
 team: Technical Marketing
 jira: KT-8806
 doc-type: video
-source-git-commit: 4568e4e47b719e2dee35357d42674613112a9c43
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '222'
 ht-degree: 100%
@@ -22,7 +22,7 @@ Este vídeo contiene información sobre:
 * Vista de solicitudes enviadas
 * Búsqueda de un borrador de una solicitud
 
->[!VIDEO](https://video.tv.adobe.com/v/3413113/?quality=12&learn=on&enablevpops&captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/336092/?quality=12&learn=on&enablevpops=1)
 
 ## Acceso rápido y fácil a las rutas de cola de solicitudes
 

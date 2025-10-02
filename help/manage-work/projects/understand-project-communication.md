@@ -12,7 +12,7 @@ last-substantial-update: 2024-11-11T00:00:00Z
 recommendations: noDisplay,catalog
 jira: KT-10147
 exl-id: 0f2a2c78-8844-47b1-b0db-542392d9ce97
-source-git-commit: 06d6b06e2dfcd54a172d220fdb3996a7949348d1
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '398'
 ht-degree: 15%
@@ -32,13 +32,13 @@ El video enfatiza la importancia de una comunicación efectiva para el éxito de
 
 El vídeo destaca cómo Workfront simplifica la comunicación, la administración de tareas y la creación de informes, lo que garantiza que toda la información relacionada con el proyecto sea accesible y organizada. palo de golf
 
->[!VIDEO](https://video.tv.adobe.com/v/3436149/?quality=12&learn=on&enablevpops&captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/3419150/?quality=12&learn=on&enablevpops=1)
 
 >[!TIP]
 >
->Para crear el informe Búsqueda de notas que se muestra en el vídeo, consulte la actividad en el tutorial [Creación de un informe de tareas](https://experienceleague.adobe.com/es/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-task-report#activity-1-create-a-note-report-with-prompts).
+>Para crear el informe Búsqueda de notas que se muestra en el vídeo, consulte la actividad en el tutorial [Creación de un informe de tareas](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-task-report#activity-1-create-a-note-report-with-prompts).
 >
->Para agregar el informe Búsqueda de notas al panel del proyecto, consulte la actividad en el tutorial [Creación de paneles](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-dashboards.html?lang=es#activity-1-create-a-dashboard).
+>Para agregar el informe Búsqueda de notas al panel de control del proyecto, consulte la actividad en el tutorial [Creación de paneles de control](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-dashboards.html#activity-1-create-a-dashboard).
 
 ## Puntos clave
 

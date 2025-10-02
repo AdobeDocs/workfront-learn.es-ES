@@ -13,9 +13,9 @@ recommendations: noDisplay,catalog
 jira: KT-14864
 doc-type: video
 exl-id: bef0ba6b-6c29-46ec-ae0d-c54f5609ff5f
-source-git-commit: bf2c07a33a168a99544e148c06bd656d50f1ca92
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
-source-wordcount: '356'
+source-wordcount: '357'
 ht-degree: 20%
 
 ---
@@ -34,7 +34,7 @@ El vídeo destaca la importancia de la participación de los usuarios y la trans
 palo de golfPara obtener más información, se proporcionan vínculos a tutoriales para crear informes y formularios personalizados.
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3427124/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3427124/?quality=12&amp;learn=on&amp;enablevpops=0
 
 ## Puntos clave
 
@@ -45,7 +45,7 @@ palo de golfPara obtener más información, se proporcionan vínculos a tutorial
 * **Pruebas y accesibilidad:** La cola se prueba con solicitudes de ejemplo, lo que garantiza la funcionalidad. Se publica como una cola de solicitudes de ayuda, accesible para todos los usuarios, con una duración de finalización predeterminada de 10 días.
 
 
-Para obtener información sobre cómo crear el **informe de comentarios del equipo de administración** que se usa en el vídeo, consulte la actividad **Crear un informe de comentarios del equipo de administración** en el tutorial [Crear un informe de tareas](https://experienceleague.adobe.com/es/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-task-report#activity-2-create-an-admin-team-feedback-report).
+Para obtener información sobre cómo crear el **informe de comentarios del equipo de administración** que se usa en el vídeo, consulte la actividad **Crear un informe de comentarios del equipo de administración** en el tutorial [Crear un informe de tareas](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-task-report#activity-2-create-an-admin-team-feedback-report).
 
 Para aprender a crear un formulario personalizado, consulte el tutorial [Crear y compartir un formulario personalizado](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/custom-data/custom-forms/custom-forms-creating-and-sharing-a-custom-form.html?lang=es).
 

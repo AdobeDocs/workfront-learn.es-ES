@@ -10,7 +10,7 @@ last-substantial-update: 2023-05-15T00:00:00Z
 recommendations: noDisplay,catalog
 jira: KT-10151
 exl-id: 68102c46-80be-4255-89b8-38022d421c6c
-source-git-commit: c32909809386d30767f113530ccb1e7358de0473
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '195'
 ht-degree: 10%
@@ -22,7 +22,7 @@ ht-degree: 10%
 El vídeo proporciona un tutorial sobre la creación de tareas en un proyecto de Workfront, que cubre el método largo y los métodos abreviados prácticos. Hace hincapié en la flexibilidad en la creación de tareas y proporciona sugerencias para una administración eficiente de las tareas.
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3423162/?quality=12&learn=on&enablevpops&captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/3419372/?quality=12&learn=on&enablevpops=1)
 
 ## Puntos clave
 

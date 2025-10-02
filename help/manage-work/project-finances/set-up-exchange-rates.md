@@ -1,6 +1,6 @@
 ---
 title: Configuración de tipos de cambio
-description: Personalice la configuración de moneda con una administración flexible del tipo de cambio, personalización global y de nivel de proyecto, y opciones de entrada manuales para un seguimiento financiero preciso.
+description: Personalice la configuración de moneda con una administración flexible de la tasa de cambio, personalización global y a nivel del proyecto, y opciones de entrada manuales para un seguimiento financiero preciso.
 activity: use
 team: Technical Marketing
 feature: Work Management
@@ -13,10 +13,10 @@ exl-id: f0d5bbe3-54e6-41be-8497-e54ad7cd7707
 last-substantial-update: 2025-04-23T00:00:00Z
 recommendations: noDisplay,catalog
 doc-type: video
-source-git-commit: 4568e4e47b719e2dee35357d42674613112a9c43
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '277'
-ht-degree: 10%
+ht-degree: 17%
 
 ---
 
@@ -25,7 +25,7 @@ ht-degree: 10%
 El vídeo proporciona una guía sobre la administración de monedas en el sistema de seguimiento financiero de Workfront. palo de golf Explica que la moneda predeterminada es el dólar estadounidense, pero se pueden configurar monedas adicionales a nivel global o para proyectos individuales y funciones del puesto.
 El video enfatiza que el sistema no proporciona tasas de cambio actuales, por lo que los usuarios deben obtenerlas externamente. palo de golf Una vez configuradas, las tasas de cambio se convierten en las predeterminadas para los proyectos o roles de trabajo, pero no se actualizan automáticamente; los usuarios con los permisos adecuados deben actualizarlas manualmente. palo de golf Después de configurar las monedas, los usuarios pueden crear nuevos proyectos y seleccionar entre las opciones de moneda disponibles, con la capacidad de personalizar las tasas de cambio para proyectos individuales. palo de golf
 
->[!VIDEO](https://video.tv.adobe.com/v/3457693/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3457693/?quality=12&learn=on&enablevpops=1)
 
 ## Puntos clave
 

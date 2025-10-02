@@ -12,7 +12,7 @@ last-substantial-update: 2024-06-21T00:00:00Z
 recommendations: noDisplay,catalog
 jira: KT-10140
 exl-id: a62b9421-627a-4f23-ab66-da1f29114225
-source-git-commit: e2875475de268e69ca59e7cc7253987bdd195b1d
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '210'
 ht-degree: 27%
@@ -24,7 +24,7 @@ ht-degree: 27%
 En este vídeo, aprenderá las configuraciones de proyecto más comunes necesarias al crear un proyecto.
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3430410/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3430410/?quality=12&learn=on&enablevpops=1)
 
 ## Puntos clave
 

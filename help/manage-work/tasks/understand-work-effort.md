@@ -12,7 +12,7 @@ jira: KT-10153
 last-substantial-update: 2024-05-29T00:00:00Z
 recommendations: noDisplay,catalog
 exl-id: 71ed10b8-4801-4cd3-828c-334f6c3a86d8
-source-git-commit: c32909809386d30767f113530ccb1e7358de0473
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '283'
 ht-degree: 12%
@@ -24,7 +24,7 @@ ht-degree: 12%
 En el vídeo se explica cómo utilizar la función Esfuerzo de trabajo de Workfront para estimar las horas planificadas para tareas en las que es difícil determinar estimaciones precisas.
 Muestra cómo crear una vista Esfuerzo de trabajo personalizada para optimizar la administración de tareas al agregar columnas relevantes como Esfuerzo de trabajo, Horas planificadas y Tipo de duración
 
->[!VIDEO](https://video.tv.adobe.com/v/3447402/?quality=12&learn=on&enablevpops&captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/3429446/?quality=12&learn=on&enablevpops=1)
 
 ## Puntos clave
 

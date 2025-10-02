@@ -11,7 +11,7 @@ thumbnail: 335320.jpeg
 jira: KT-9078
 exl-id: da426ef6-5033-4974-a897-e82563a776f6
 doc-type: video
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '58'
 ht-degree: 100%
@@ -26,4 +26,4 @@ Este vídeo contiene información sobre:
 * Ajustar la información del presupuesto
 * Ajustar la información de costes
 
->[!VIDEO](https://video.tv.adobe.com/v/335320/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/335320/?quality=12&learn=on&enablevpops=1)

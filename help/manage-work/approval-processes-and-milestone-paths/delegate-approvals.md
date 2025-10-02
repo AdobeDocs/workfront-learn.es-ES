@@ -13,7 +13,7 @@ recommendations: noDisplay,catalog
 jira: KT-8810
 exl-id: e89f0fdb-45ef-46b3-9845-3eebf774c25c
 doc-type: video
-source-git-commit: bf2c07a33a168a99544e148c06bd656d50f1ca92
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '430'
 ht-degree: 7%
@@ -27,7 +27,7 @@ Para las aprobaciones, los usuarios pueden delegarlas a través del widget &quot
 Las aprobaciones delegadas se marcan en el sistema, mostrando quién las delegó y a quién. palo de golf Las actualizaciones relacionadas con las aprobaciones aparecen en la pestaña Update y la actividad del sistema se puede ver en la pestaña System Activity. palo de golf
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3446379/?quality=12&learn=on&enablevpops&captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/336094/?quality=12&learn=on&enablevpops=1)
 
 ## Puntos clave
 

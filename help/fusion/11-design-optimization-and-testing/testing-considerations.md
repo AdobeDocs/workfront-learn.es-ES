@@ -11,7 +11,7 @@ jira: KT-9073
 exl-id: 627c767d-de31-4bc6-bac7-c8143c0dbbaf
 recommendations: noDisplay,catalog
 doc-type: video
-source-git-commit: dfcca5f02a6d9f7ee44a1e894106ae48259eea91
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '316'
 ht-degree: 99%
@@ -32,7 +32,7 @@ Este vídeo contiene información sobre:
 * Crear documentación detallada que se pueda compartir
 * Probar la profundidad, la amplitud, la complejidad y la carga
 
->[!VIDEO](https://video.tv.adobe.com/v/3419026/?quality=12&learn=on&enablevpops&captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/335315/?quality=12&learn=on&enablevpops=1)
 
 ## Lista de comprobación de consideraciones de la prueba
 
@@ -48,4 +48,4 @@ Priorice las pruebas a lo largo de todo el ciclo de vida de su implementación d
 
 ## ¿Desea obtener más información? Recomendamos lo siguiente:
 
-[Documentación de Workfront Fusion](https://experienceleague.adobe.com/es/docs/workfront-fusion/using/get-started-with-fusion/understand-workfront-fusion/workfront-fusion-overview)
+[Documentación de Workfront Fusion](https://experienceleague.adobe.com/en/docs/workfront-fusion/using/get-started-with-fusion/understand-workfront-fusion/workfront-fusion-overview)

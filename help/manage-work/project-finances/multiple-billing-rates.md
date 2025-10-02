@@ -13,10 +13,10 @@ exl-id: bda562b9-f8da-49c9-bea7-0440fdc4c24c
 last-substantial-update: 2025-04-16T00:00:00Z
 recommendations: noDisplay,catalog
 doc-type: video
-source-git-commit: 4568e4e47b719e2dee35357d42674613112a9c43
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '169'
-ht-degree: 9%
+ht-degree: 10%
 
 ---
 
@@ -26,7 +26,7 @@ ht-degree: 9%
 En este vídeo se explica cómo administrar y personalizar las tarifas de facturación para los roles de trabajo dentro de un proyecto. palo de golfHace hincapié en la flexibilidad a la hora de establecer varias tarifas de facturación para el mismo rol y garantizar ajustes precisos basados en el tiempo. palo de golf
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3457652/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3457652/?quality=12&learn=on&enablevpops=1)
 
 ## Puntos clave
 

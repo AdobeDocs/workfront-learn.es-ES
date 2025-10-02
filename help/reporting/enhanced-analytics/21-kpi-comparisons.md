@@ -12,7 +12,7 @@ jira: KT-8739
 recommendations: noDisplay,catalog
 exl-id: 28b85cb9-cb9e-4f0a-ad09-9a0d73d05ed0
 doc-type: video
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '76'
 ht-degree: 100%
@@ -27,4 +27,4 @@ Este vídeo contiene información sobre:
 * Cambio del intervalo de fechas
 * Comparación de KPI con dos filtros diferentes, uno al lado del otro
 
->[!VIDEO](https://video.tv.adobe.com/v/3440250/?quality=12&learn=on&enablevpops&captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/335054/?quality=12&learn=on&enablevpops=1)

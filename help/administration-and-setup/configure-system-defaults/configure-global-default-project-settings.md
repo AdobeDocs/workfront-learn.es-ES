@@ -11,7 +11,7 @@ thumbnail: 335065.png
 jira: KT-8753
 exl-id: b961ba8c-9597-4ed4-a6d7-79689c8e290d
 doc-type: video
-source-git-commit: 4568e4e47b719e2dee35357d42674613112a9c43
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '379'
 ht-degree: 100%
@@ -30,7 +30,7 @@ Este vídeo contiene información sobre:
 * Definición de las preferencias globales del proyecto
 * Creación y utilización de programaciones
 
->[!VIDEO](https://video.tv.adobe.com/v/3423353/?quality=12&learn=on&enablevpops&captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/335065/?quality=12&learn=on&enablevpops=1)
 
 ## Configuración de proyectos, tareas y problemas globales y de grupo
 
@@ -44,7 +44,7 @@ Verá algo similar cuando abra la configuración de [!UICONTROL Tareas y problem
 
 Sin embargo, es posible que no todos los grupos de [!DNL Workfront] necesiten las mismas preferencias de proyecto, tarea y problema. Por ejemplo, el grupo de marketing quiere que el nuevo estado del proyecto sea Planificando, mientras que el grupo del administrador del proyecto prefiere el estado Solicitud.
 
-[!DNL Workfront] permite a los administradores del grupo ajustar determinadas preferencias de proyecto, tarea y problema de sus grupos. Las preferencias que se pueden ajustar están determinadas por la variable del administrador del sistema de [!DNL Workfront] mediante las conmutaciones de bloqueo/desbloqueo.
+[!DNL Workfront] permite a los administradores del grupo ajustar determinadas preferencias de proyecto, tarea y problema de sus grupos. Las preferencias que se pueden ajustar están determinadas por la variable del administrador del sistema de [!DNL Workfront] mediante los conmutadores de bloqueo/desbloqueo.
 
 Para empezar, vaya al área [!UICONTROL Configuración]:
 

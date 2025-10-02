@@ -11,7 +11,7 @@ thumbnail: 335075.png
 jira: KT-8763
 exl-id: 5f4845ec-3107-4519-aac6-d5ec868202fa
 doc-type: video
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '65'
 ht-degree: 100%
@@ -26,4 +26,4 @@ Este vídeo contiene información sobre:
 * Añadir elementos al menú del panel izquierdo
 * Reorganizar elementos en el menú del panel
 
->[!VIDEO](https://video.tv.adobe.com/v/3432894/?quality=12&learn=on&enablevpops&captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/335075/?quality=12&learn=on&enablevpops=1)

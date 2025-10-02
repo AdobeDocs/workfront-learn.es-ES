@@ -12,7 +12,7 @@ jira: KT-8999
 exl-id: 7ca27805-5ca8-4f62-b691-cbdd6a791060
 recommendations: noDisplay,catalog
 doc-type: video
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '268'
 ht-degree: 100%
@@ -47,7 +47,7 @@ Si es el administrador del sistema de Fusion, puede consultar los siguientes tut
 En este vídeo, verá lo siguiente:
 
 * La potencia y flexibilidad de Fusion
-* Las funcionalidades principales y de diseño de Fusion
+* Las funcionalidades principales y de diseñador de Fusion
 * Un ejemplo de escenario de Fusion
 
->[!VIDEO](https://video.tv.adobe.com/v/3416552/?quality=12&learn=on&enablevpops&captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/335259/?quality=12&learn=on&enablevpops=1)

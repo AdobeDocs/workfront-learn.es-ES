@@ -13,7 +13,7 @@ recommendations: noDisplay,catalog
 jira: KT-10071
 hide: true
 exl-id: b4999851-e066-4afb-92f4-0abd8a3b84e7
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '95'
 ht-degree: 100%
@@ -31,7 +31,7 @@ Este vídeo contiene información sobre:
 * Actualización del progreso en los problemas
 * Actualización del estado del problema
 
->[!VIDEO](https://video.tv.adobe.com/v/3446958/?quality=12&learn=on&enablevpops&captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/3419931/?quality=12&learn=on&enablevpops=1)
 
 ## Tutoriales recomendados sobre este tema
 

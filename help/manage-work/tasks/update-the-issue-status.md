@@ -8,7 +8,8 @@ level: Beginner
 last-substantial-update: 2025-09-03T00:00:00Z
 recommendations: noDisplay,catalog
 jira: KT-18800
-source-git-commit: 008028af1fe9dd98c12a7a7413ed21cb65e324b2
+exl-id: 61602f6f-900e-402b-b1fb-88da53fc81b9
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '194'
 ht-degree: 17%
@@ -19,7 +20,7 @@ ht-degree: 17%
 
 En este vídeo aprenderá sobre los estados de problemas y las prácticas recomendadas para utilizarlos.
 
->[!VIDEO](https://video.tv.adobe.com/v/3472968/?quality=12&learn=on&enablevpops&captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/3472962/?quality=12&learn=on&enablevpops=1)
 
 ## Puntos clave
 

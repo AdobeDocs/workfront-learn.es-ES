@@ -12,7 +12,7 @@ hide: true
 jira: KT-13892
 exl-id: f669d044-9498-4a07-90b3-1917504f7bf4
 doc-type: video
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '510'
 ht-degree: 100%
@@ -25,42 +25,42 @@ Descubra cómo Workfront puede ayudarle a administrar el trabajo en su organizac
 
 Como ejecutivo, Adobe Workfront puede ayudarle en lo siguiente:
 
-* Mantenerle informado acerca del progreso del trabajo que le preocupa a través de **informes y paneles**
+* Mantenerle informado acerca del progreso del trabajo que le preocupa a través de **informes y paneles de control**
 * Ofrecerle una forma sencilla de **comunicarse con las partes interesadas del proyecto mediante actualizaciones**
 * Brindarle una forma sencilla de **efectuar una solicitud de trabajo**
 * Proporcionarle una forma fácil de ver **elementos que esperan su aprobación**
 
-## Informes y paneles
+## Informes y paneles de control
 
 ### Informes
 
-Los informes de Workfront son la clave para tomar mejores decisiones de manera más rápida. Puede verlos en cualquier parte a la que vaya: en el área de proyectos, en el área de personas o en la página de aterrizaje de la tarea.
+Los informes de Workfront son la clave para tomar mejores decisiones de manera más rápida. Puede verlos en cualquier parte a la que vaya: en el área de proyectos, en el área de personas o en la página de destino de la tarea.
 
-Los líderes y ejecutivos pueden navegar hasta el área del informe para ver informes personalizados con información específica. Para aumentar la visibilidad de los informes más importantes, Workfront utiliza paneles.
+Los líderes y ejecutivos pueden navegar hasta el área del informe para ver informes personalizados con información específica. Para aumentar la visibilidad de los informes más importantes, Workfront utiliza paneles de control.
 
-### Paneles
+### Paneles de control
 
-Al utilizar un panel, los líderes pueden ver y explorar rápidamente cualquier parte del trabajo en el que está trabajando su organización. El panel es simplemente una colección de informes que proporcionan información que los líderes pueden necesitar ver de forma regular. Los paneles son totalmente personalizables, de modo que cualquier usuario que utilice Workfront pueda ver el trabajo que le importe.
+Al utilizar un panel de control, los líderes pueden ver y explorar rápidamente cualquier parte del trabajo en el que está trabajando su organización. El panel de control es simplemente una colección de informes que proporcionan información que los líderes pueden necesitar ver de forma regular. Los paneles de control son totalmente personalizables, de modo que cualquier usuario que utilice Workfront pueda ver el trabajo que le importe.
 
-Haga clic en Paneles en el icono de menú Principal en la esquina superior derecha para acceder al área Paneles.
+Haga clic en Paneles de control en el icono de menú Principal en la esquina superior derecha para acceder al área Paneles de control.
 
-![Imagen de la opción Paneles en el menú principal](assets/workfront-4-executives-1.png)
+![Imagen de la opción Paneles de control en el menú principal](assets/workfront-4-executives-1.png)
 
-Los líderes pueden acceder a los distintos paneles disponibles desde el panel de navegación izquierdo.
+Los líderes pueden acceder a los distintos paneles de control disponibles desde el panel de navegación izquierdo.
 
-![Una imagen de la página Paneles](assets/workfront-4-executives-2.png)
+![Una imagen de la página Paneles de control](assets/workfront-4-executives-2.png)
 
-* **Todos los Paneles**: muestra los paneles que usted y otros usuarios han creado y a los que tienen permisos para ver al menos.
-* **Mis paneles**: muestra los paneles que ha creado.
-* **Paneles compartidos**: muestra los paneles que otros usuarios han creado y compartido con usted.
+* **Todos los Paneles de control**: muestra los paneles de control que usted y otros usuarios han creado y a los que tienen permisos para ver al menos.
+* **Mis paneles de control**: muestra los paneles de control que ha creado.
+* **Paneles de control compartidos**: muestra los paneles de control que otros usuarios han creado y compartido con usted.
 
-Con un panel, los líderes son capaces de revisar cosas como los “Costes, ingresos y presupuestos”, para los proyectos importantes y problemas abiertos con los que sus equipos están lidiando. También pueden ver proyectos que están en riesgo, así como una lista de elementos que necesitan aprobación ejecutiva.
+Con un panel de control, los líderes son capaces de revisar cosas como los “Costes, ingresos y presupuestos”, para los proyectos importantes y problemas abiertos con los que sus equipos están lidiando. También pueden ver proyectos que están en riesgo, así como una lista de elementos que necesitan aprobación ejecutiva.
 
 Los informes de Workfront pueden mejorar la rendición de cuentas de sus empleados. La clave para aprovechar los informes es establecer un flujo de trabajo claro para la forma en que su organización los utiliza. Asegúrese de que todos tengan una idea clara de qué informes se utilizan para medir el éxito.
 
-![Ejemplo de informes en un panel de Workfront ](assets/workfront-4-executives-3.png)
+![Ejemplo de informes en un panel de control de Workfront ](assets/workfront-4-executives-3.png)
 
-Ejemplo de informes en un panel de Workfront
+Ejemplo de informes en un panel de control de Workfront
 
 ## Comunicación con las partes interesadas del proyecto mediante actualizaciones
 
@@ -79,7 +79,7 @@ Este vídeo contiene información sobre:
 * Realizar una solicitud
 * Ver las solicitudes enviadas
 
->[!VIDEO](https://video.tv.adobe.com/v/3413113/?quality=12&learn=on&enablevpops&captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/336092/?quality=12&learn=on&enablevpops=1)
 
 ## Elementos que esperan su aprobación
 

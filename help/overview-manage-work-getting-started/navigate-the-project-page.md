@@ -14,7 +14,7 @@ jira: KT-8771
 hide: true
 doc-type: video
 exl-id: be4a5529-08ce-4cce-abb7-b4352629e6bd
-source-git-commit: 422b07bc6b1941316a9e441560929d9b2832232f
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '495'
 ht-degree: 100%
@@ -30,7 +30,7 @@ En este vídeo, aprenderá lo siguiente:
 * Dónde cargar documentos
 * Cómo ver el historial de actualizaciones
 
->[!VIDEO](https://video.tv.adobe.com/v/3449729/?quality=12&learn=on&enablevpops&captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/335085/?quality=12&learn=on&enablevpops=1)
 
 ## Partes clave de la página del proyecto
 
@@ -39,7 +39,7 @@ La página del proyecto está repleta de funciones que le ayudarán a administra
 ![Captura de pantalla de la página del proyecto](assets/project-page-graphic-for-planner-v2.png)
 
 1. **Ruta de exploración:** navegue por la jerarquía de programas y portafolios detrás del proyecto.
-2. **Tipo de objeto:** mostrar el tipo de objeto en la página de aterrizaje le ayuda a identificar lo que está viendo en [!DNL Workfront]. El término “proyecto” puede personalizarlo su administrador del sistema [!DNL Workfront].
+2. **Tipo de objeto:** mostrar el tipo de objeto en la página de destino le ayuda a identificar lo que está viendo en [!DNL Workfront]. El término “proyecto” puede personalizarlo su administrador del sistema [!DNL Workfront].
 3. **Nombre del proyecto:** nombre del proyecto que está viendo. Haga clic en el nombre para editarlo.
 4. **Encabezado del proyecto:** información estándar disponible en todas las páginas del proyecto.
 5. **[!UICONTROL Porcentaje completado]:** esto se actualiza automáticamente en función de las tareas completadas en el proyecto.

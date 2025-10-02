@@ -12,10 +12,10 @@ last-substantial-update: 2025-06-06T00:00:00Z
 jira: KT-8854
 exl-id: ba3c0e10-dcf1-4a7b-bf11-ccfed9040e6d
 doc-type: video
-source-git-commit: 0e896afd50e0f220a7068dcba1055a02198c99d3
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
-source-wordcount: '974'
-ht-degree: 75%
+source-wordcount: '977'
+ht-degree: 73%
 
 ---
 
@@ -25,7 +25,7 @@ En el vídeo se explica cómo crear y personalizar vistas en Workfront para most
 
 El vídeo destaca la flexibilidad de las vistas en Workfront y proporciona instrucciones paso a paso para crearlas, personalizarlas y administrarlas.
 
->[!VIDEO](https://video.tv.adobe.com/v/3450241/?quality=12&learn=on&captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/335148/?quality=12&amp;learn=on&amp;enablevpops=0
 
 ## Puntos clave
 
@@ -133,9 +133,9 @@ Cambie el [!UICONTROL Formato de campo] en las columnas [!UICONTROL Comenzar el]
 1. Haga clic en **[!UICONTROL Añadir columna]** de nuevo.
 1. En el campo [!UICONTROL Mostrar en esta columna], escriba [!UICONTROL “restricción”] y, a continuación, seleccione [!UICONTROL “fecha de restricción”] en la fuente del campo Tarea.
 1. Seleccione la columna de [!UICONTROL Comenzar el] y luego haga clic en [!UICONTROL Opciones avanzadas].
-1. En el menú desplegable [!UICONTROL Formato de campo] seleccione [!UICONTROL &quot;10/17/60 3:00 AM&quot;].
+1. En la lista desplegable [!UICONTROL Formato de campo], seleccione [!UICONTROL &quot;10/17/60 3:00 AM&quot;].
 1. Seleccione la columna de [!UICONTROL Vence el] y seguidamente haga clic en [!UICONTROL Opciones avanzadas].
-1. En el menú desplegable [!UICONTROL Formato de campo] seleccione [!UICONTROL &quot;10/17/60 3:00 AM&quot;].
+1. En la lista desplegable [!UICONTROL Formato de campo], seleccione [!UICONTROL &quot;10/17/60 3:00 AM&quot;].
 1. Haga clic en **[!UICONTROL Guardar]**.
 
 ### Actividad 4: Crear una vista del estado activo de las plantillas de proyecto
@@ -150,7 +150,7 @@ Cree una vista de plantilla de proyecto denominada “Estándar+estado activo”
 * [!UICONTROL Horas planificadas]
 * [!UICONTROL Coste planificado]
 * [!UICONTROL Indicadores]
-* [!UICONTROL Nombre del grupo &#x200B;]
+* [!UICONTROL Nombre del grupo ]
 * [!UICONTROL Está activo]
 
 
@@ -162,4 +162,4 @@ Cree una vista de plantilla de proyecto denominada “Estándar+estado activo”
 1. Asigne un nombre a la vista “Estándar + estado activo”.
 1. Haga clic en **[!UICONTROL Añadir columna]**.
 1. En el campo [!UICONTROL Mostrar en esta columna], escriba “está” y, a continuación, seleccione “Está activo” en la fuente del campo [!UICONTROL Plantilla].
-1. Pulse **[!UICONTROL Guardar vista]**.
+1. Haga clic en **[!UICONTROL Guardar vista]**.

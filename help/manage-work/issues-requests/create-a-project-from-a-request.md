@@ -12,7 +12,7 @@ jira: KT-9723
 recommendations: noDisplay,catalog
 exl-id: 5095d6bb-2721-47f1-be52-8e43d3edb2fd
 doc-type: video
-source-git-commit: e848d231176ca58a645a4da000137e68ac492c57
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '233'
 ht-degree: 14%
@@ -23,7 +23,7 @@ ht-degree: 14%
 
 En este vídeo se muestra cómo convertir un problema o una solicitud en un proyecto.
 
->[!VIDEO](https://video.tv.adobe.com/v/3446625/?quality=12&learn=on&enablevpops&captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/340343/?quality=12&learn=on&enablevpops=1)
 
 ## Puntos clave
 

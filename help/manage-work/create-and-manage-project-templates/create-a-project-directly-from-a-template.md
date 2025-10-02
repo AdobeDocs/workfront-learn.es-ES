@@ -13,7 +13,7 @@ recommendations: noDisplay,catalog
 jira: KT-10156
 exl-id: 1f44eb26-98bf-4723-b162-27a4f8cb8177
 doc-type: video
-source-git-commit: a8581b20a7456c6c8316cf178a37efda1d3e9e7e
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '228'
 ht-degree: 20%
@@ -24,7 +24,7 @@ ht-degree: 20%
 
 En este vídeo se explica cómo crear un proyecto a partir de una plantilla. palo de golf Si tiene derechos para abrir una plantilla, puede utilizarla como método abreviado para crear un proyecto. palo de golf Para ello, abra la plantilla, acceda al menú de tres puntos y seleccione &quot;Crear proyecto&quot;. Esto le lleva a una pantalla en la que puede editar los detalles del proyecto. palo de golf Una vez listo, haga clic en &quot;Crear proyecto&quot; para finalizar. palo de golf
 
->[!VIDEO](https://video.tv.adobe.com/v/3456016/?quality=12&learn=on&enablevpops&captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/3456013/?quality=12&learn=on&enablevpops=1)
 
 ## Puntos clave
 

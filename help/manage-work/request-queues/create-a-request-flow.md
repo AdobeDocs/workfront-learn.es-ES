@@ -13,9 +13,9 @@ last-substantial-update: 2024-09-11T00:00:00Z
 recommendations: noDisplay,catalog
 exl-id: 194df349-541d-4940-a6a5-b5d47cb58cf4
 doc-type: video
-source-git-commit: bf2c07a33a168a99544e148c06bd656d50f1ca92
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
-source-wordcount: '402'
+source-wordcount: '403'
 ht-degree: 9%
 
 ---
@@ -31,7 +31,7 @@ Este vídeo proporciona una guía paso a paso para crear un flujo de solicitud m
 A continuación, en el vídeo se muestra cómo crear temas de colas, que están vinculados a reglas de enrutamiento, grupos de temas, formularios personalizados, procesos de aprobación y duraciones predeterminadas.
 Por último, el vídeo muestra cómo probar la configuración enviando una solicitud para asegurarse de que se enruta correctamente. palo de golf Si surge algún problema, se pueden realizar ajustes en la cola. palo de golf El vídeo destaca la importancia de verificar la estructura y la funcionalidad del flujo de solicitud para garantizar un enrutamiento y una organización adecuados.
 
->[!VIDEO](https://video.tv.adobe.com/v/3433825/?quality=12&learn=on&captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/335223/?quality=12&amp;learn=on&amp;enablevpops=0
 
 ## Puntos clave
 
