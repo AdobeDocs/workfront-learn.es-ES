@@ -37,7 +37,7 @@ Este vídeo contiene información sobre:
 
 ## Obtenga información sobre cómo crear una vista personalizada para ver y editar el estado activo de las plantillas de proyecto
 
-Para crear una vista de plantillas de proyecto con una columna de estado activo, consulte la actividad **Vista del estado activo de las plantillas de proyecto** en [Crear una vista básica](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-basic-view#activity-4-create-a-project-template-active-status-view).
+Para crear una vista de plantillas de proyecto con una columna de estado activo, consulte la actividad **Vista del estado activo de las plantillas de proyecto** en [Crear una vista básica](https://experienceleague.adobe.com/es/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-basic-view#activity-4-create-a-project-template-active-status-view).
 
 ## Tutoriales recomendados sobre este tema
 
