@@ -25,7 +25,7 @@ El vídeo proporciona una guía paso a paso sobre la creación de un informe per
 
 El informe resultante ayuda a los usuarios a centrarse en tareas tardías, proporciona perspectivas sobre las dependencias y simplifica la navegación a los proyectos host. palo de golf
 
->[!VIDEO](https://video.tv.adobe.com/v/335154/?quality=12&amp;learn=on&amp;enablevpops=0
+>[!VIDEO] (https://video.tv.adobe.com/v/335154/?quality=12&learn=on&enablevpops=0
 
 ## Puntos clave
 
@@ -41,8 +41,8 @@ El informe resultante ayuda a los usuarios a centrarse en tareas tardías, propo
 >[!TIP]
 >
 >Saque sus espátulas y los recipientes para mezclar y prepárese para probar las “recetas” en nuestro manual [Adobe Workfront Customer Reporting Cookbook](/help/assets/workfront-customer-reporting-cookbook.pdf). En el interior encontrará instrucciones paso a paso para 10 informes, listos para que pueda trabajar en su entorno hoy mismo.
->>Hemos recopilado los informes favoritos de los clientes y los hemos reunido en un libro de cocina fácil de digerir para que se lo lleve y lo pruebe en su propia cocina de Workfront.
->>Estos 10 informes proceden de clientes que son como usted. Repartidos por sectores, departamentos, equipos, cargos y todos en empresas diferentes, estamos muy agradecidos a los increíbles clientes que compartieron uno de sus informes favoritos. Algunos informes son simples (pero increíblemente útiles) y otros son más complejos para llevar los informes al siguiente nivel.
+>&#x200B;>Hemos recopilado los informes favoritos de los clientes y los hemos reunido en un libro de cocina fácil de digerir para que se lo lleve y lo pruebe en su propia cocina de Workfront.
+>&#x200B;>Estos 10 informes proceden de clientes que son como usted. Repartidos por sectores, departamentos, equipos, cargos y todos en empresas diferentes, estamos muy agradecidos a los increíbles clientes que compartieron uno de sus informes favoritos. Algunos informes son simples (pero increíblemente útiles) y otros son más complejos para llevar los informes al siguiente nivel.
 
 
 ### Actividad 1: Creación de un informe de notas con instrucciones

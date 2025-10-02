@@ -27,7 +27,7 @@ Este vídeo contiene información sobre:
 * Cómo crear una solicitud personalizada mediante el modo de texto
 * Algunos ejemplos que se pueden usar en los informes
 
->[!VIDEO](https://video.tv.adobe.com/v/336822/?quality=12&amp;learn=on&amp;enablevpops=0
+>[!VIDEO] (https://video.tv.adobe.com/v/336822/?quality=12&learn=on&enablevpops=0
 
 ## Actividades &quot;Crear indicadores personalizados&quot;
 

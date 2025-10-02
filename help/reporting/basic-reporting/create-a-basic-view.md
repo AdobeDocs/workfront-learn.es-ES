@@ -25,7 +25,7 @@ En el vídeo se explica cómo crear y personalizar vistas en Workfront para most
 
 El vídeo destaca la flexibilidad de las vistas en Workfront y proporciona instrucciones paso a paso para crearlas, personalizarlas y administrarlas.
 
->[!VIDEO](https://video.tv.adobe.com/v/335148/?quality=12&amp;learn=on&amp;enablevpops=0
+>[!VIDEO] (https://video.tv.adobe.com/v/335148/?quality=12&learn=on&enablevpops=0
 
 ## Puntos clave
 
@@ -150,7 +150,7 @@ Cree una vista de plantilla de proyecto denominada “Estándar+estado activo”
 * [!UICONTROL Horas planificadas]
 * [!UICONTROL Coste planificado]
 * [!UICONTROL Indicadores]
-* [!UICONTROL Nombre del grupo ]
+* [!UICONTROL Nombre del grupo &#x200B;]
 * [!UICONTROL Está activo]
 
 

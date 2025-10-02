@@ -34,7 +34,7 @@ El vídeo destaca la importancia de la participación de los usuarios y la trans
 palo de golfPara obtener más información, se proporcionan vínculos a tutoriales para crear informes y formularios personalizados.
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3427124/?quality=12&amp;learn=on&amp;enablevpops=0
+>[!VIDEO] (https://video.tv.adobe.com/v/3427124/?quality=12&learn=on&enablevpops=0
 
 ## Puntos clave
 

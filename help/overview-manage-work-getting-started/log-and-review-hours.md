@@ -1,6 +1,6 @@
 ---
 title: Horas de registro y revisión
-description: Registre las horas pendientes y revise las horas registradas antes de cerrar un proyecto en  [!DNL  Workfront].
+description: Registre las horas pendientes y revise las horas registradas antes de cerrar un proyecto en  [!DNL &#x200B; Workfront].
 activity: use
 team: Technical Marketing
 feature: Work Management

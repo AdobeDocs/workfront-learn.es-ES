@@ -38,7 +38,7 @@ En el vídeo se explica cómo utilizar gráficos para visualizar los datos de fo
 
 El vídeo resalta cómo los gráficos como los gráficos circulares y de columnas apiladas pueden proporcionar información sobre la distribución de tareas y el rendimiento del proyecto, lo que ayuda a los usuarios a comparar proyectos y comprender el progreso de las tareas visualmente. palo de golf
 
->[!VIDEO](https://video.tv.adobe.com/v/335155/?quality=12&amp;learn=on&amp;enablevpops=0
+>[!VIDEO] (https://video.tv.adobe.com/v/335155/?quality=12&learn=on&enablevpops=0
 
 ## Puntos clave
 
@@ -73,7 +73,7 @@ Se acerca el final del trimestre y usted quiere ver cómo se han ajustado a sus 
 1. En la pestaña **[!UICONTROL Filtros]** agregue estas dos reglas de filtro:
 
    * [!UICONTROL Proyecto] > [!UICONTROL Estado equivale a] > [!UICONTROL Completar]
-   * [!UICONTROL Proyecto] >[!UICONTROL  Fecha de finalización real] > [!UICONTROL Último trimestre]
+   * [!UICONTROL Proyecto] >[!UICONTROL &#x200B; Fecha de finalización real] > [!UICONTROL Último trimestre]
 
    ![Imagen de la pantalla para agregar filtros a un informe](assets/chart-report-filters.png)
 
