@@ -65,7 +65,7 @@ Esto le ayudará a identificar las tareas con problemas sin incluir la columna p
 1. Haga clic en **[!UICONTROL Opciones avanzadas]** en la esquina superior derecha de la ventana del Creador de informes.
 1. Haga clic en **[!UICONTROL Añadir una regla para esta columna]**.
 1. Inicie la regla de columna cambiando [!UICONTROL Tarea] > [!UICONTROL Nombre] en la parte superior de la ventana para [!UICONTROL Tarea] > [!UICONTROL Estado de progreso]. Haga clic en el icono **[!UICONTROL X]** junto a [!UICONTROL Tarea] > [!UICONTROL Nombre] para eliminarlo del campo.
-1. Escriba “progreso” en el campo y, a continuación, seleccione[!UICONTROL  Estado de progreso] en el origen del campo [!UICONTROL Tarea].
+1. Escriba “progreso” en el campo y, a continuación, seleccione[!UICONTROL &#x200B; Estado de progreso] en el origen del campo [!UICONTROL Tarea].
 1. Seleccione **[!UICONTROL Tarde]** en el campo a la derecha del calificador [!UICONTROL Igual].
 1. Elija un fondo de rojo en la fila [!UICONTROL Color del texto].
 1. Haga clic en **[!UICONTROL Agregar regla]** para guardar la regla de columna.
