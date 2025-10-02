@@ -13,9 +13,9 @@ recommendations: noDisplay,catalog
 jira: KT-8950
 exl-id: 1f706148-c001-42a8-a675-48e91d445f0b
 doc-type: video
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 1fafcafb173ceb4115612e1c33ca36564c7a6c3d
 workflow-type: tm+mt
-source-wordcount: '636'
+source-wordcount: '635'
 ht-degree: 54%
 
 ---
@@ -31,7 +31,7 @@ Aprenda a crear una plantilla de proyecto desde cero y a partir de un proyecto e
 * Una vez creada la plantilla, se puede utilizar para producir nuevos proyectos. El vídeo muestra cómo crear un nuevo proyecto a partir de la plantilla, realizar los ajustes necesarios y agregar tareas o modificar duraciones según sea necesario. palo de golf También muestra cómo asignar funciones de trabajo a tareas mediante las funciones de planificación y programación de recursos. palo de golf
 * En el vídeo se explica cómo guardar un proyecto existente como una plantilla nueva, lo que permite realizar actualizaciones y mejoras en el flujo de trabajo. palo de golf Destaca la importancia de administrar las plantillas para evitar confusiones y garantizar una ejecución del proyecto más ágil. palo de golf
 
->[!VIDEO] (https://video.tv.adobe.com/v/3415443/?quality=12&learn=on&enablevpops=0&captions=spa
+>[!VIDEO](https://video.tv.adobe.com/v/335210/?quality=12&learn=on)
 
 ## Puntos clave
 

@@ -12,10 +12,10 @@ last-substantial-update: 2025-06-27T00:00:00Z
 jira: KT-9082
 exl-id: 0f7db4eb-a062-4eb3-99ca-c40d8e266943
 doc-type: video
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 1fafcafb173ceb4115612e1c33ca36564c7a6c3d
 workflow-type: tm+mt
-source-wordcount: '239'
-ht-degree: 69%
+source-wordcount: '238'
+ht-degree: 70%
 
 ---
 
@@ -29,7 +29,7 @@ Este vídeo contiene información sobre:
 * Crear una fecha personalizada utilizando caracteres comodín, atributos, operadores y modificadores
 * Crear un intervalo de fechas personalizado con caracteres comodín
 
->[!VIDEO] (https://video.tv.adobe.com/v/3412659/?quality=12&learn=on&enablevpops=0&captions=spa
+>[!VIDEO](https://video.tv.adobe.com/v/336812/?quality=12&learn=on)
 
 
 ## Actividades &quot;Crear filtros con comodines basados en fecha&quot;

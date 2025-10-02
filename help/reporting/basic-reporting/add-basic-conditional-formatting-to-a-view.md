@@ -11,9 +11,9 @@ team: Technical Marketing
 jira: KT-8855
 exl-id: bf9a4cf4-b073-4f7e-8516-e7843f4dc20f
 doc-type: video
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 1fafcafb173ceb4115612e1c33ca36564c7a6c3d
 workflow-type: tm+mt
-source-wordcount: '465'
+source-wordcount: '464'
 ht-degree: 95%
 
 ---
@@ -27,7 +27,7 @@ Este vídeo contiene información sobre:
 * ¿Qué formato condicional hay en una vista?
 * Cómo crear y modificar el formato condicional
 
->[!VIDEO] (https://video.tv.adobe.com/v/3445444/?quality=12&learn=on&enablevpops=0&captions=spa
+>[!VIDEO](https://video.tv.adobe.com/v/335149/?quality=12&learn=on)
 
 
 ## Resumen de formato condicional
@@ -65,7 +65,7 @@ Esto le ayudará a identificar las tareas con problemas sin incluir la columna p
 1. Haga clic en **[!UICONTROL Opciones avanzadas]** en la esquina superior derecha de la ventana del Creador de informes.
 1. Haga clic en **[!UICONTROL Añadir una regla para esta columna]**.
 1. Inicie la regla de columna cambiando [!UICONTROL Tarea] > [!UICONTROL Nombre] en la parte superior de la ventana para [!UICONTROL Tarea] > [!UICONTROL Estado de progreso]. Haga clic en el icono **[!UICONTROL X]** junto a [!UICONTROL Tarea] > [!UICONTROL Nombre] para eliminarlo del campo.
-1. Escriba “progreso” en el campo y, a continuación, seleccione[!UICONTROL &#x200B; Estado de progreso] en el origen del campo [!UICONTROL Tarea].
+1. Escriba “progreso” en el campo y, a continuación, seleccione[!UICONTROL  Estado de progreso] en el origen del campo [!UICONTROL Tarea].
 1. Seleccione **[!UICONTROL Tarde]** en el campo a la derecha del calificador [!UICONTROL Igual].
 1. Elija un fondo de rojo en la fila [!UICONTROL Color del texto].
 1. Haga clic en **[!UICONTROL Agregar regla]** para guardar la regla de columna.

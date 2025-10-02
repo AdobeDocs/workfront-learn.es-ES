@@ -12,9 +12,9 @@ last-substantial-update: 2025-07-25T00:00:00Z
 jira: KT-9085
 exl-id: c1bdea98-e70a-4e93-935c-b8f7754afa21
 doc-type: video
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 1fafcafb173ceb4115612e1c33ca36564c7a6c3d
 workflow-type: tm+mt
-source-wordcount: '274'
+source-wordcount: '273'
 ht-degree: 56%
 
 ---
@@ -27,7 +27,7 @@ En este vídeo, aprenderá lo siguiente:
 * Obtenga información sobre algunos elementos útiles de creación de informes de problemas
 * Información sobre cómo crear su propio filtro de problemas
 
->[!VIDEO] (https://video.tv.adobe.com/v/3412677/?quality=12&learn=on&enablevpops=0&captions=spa
+>[!VIDEO](https://video.tv.adobe.com/v/336819/?quality=12&learn=on)
 
 
 ## Actividades de &quot;Comprensión de los filtros de problemas integrados&quot;

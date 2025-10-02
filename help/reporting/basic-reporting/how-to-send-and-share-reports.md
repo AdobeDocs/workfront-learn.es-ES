@@ -12,9 +12,9 @@ jira: KT-8863
 last-substantial-update: 2025-05-29T00:00:00Z
 exl-id: 3d0554fb-4fe0-43d5-b725-2bcd44134bb5
 doc-type: video
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 1fafcafb173ceb4115612e1c33ca36564c7a6c3d
 workflow-type: tm+mt
-source-wordcount: '355'
+source-wordcount: '354'
 ht-degree: 57%
 
 ---
@@ -27,7 +27,7 @@ Este vídeo contiene información sobre:
 * Cómo compartir informes con cualquier persona
 * Qué pueden ver y hacer los destinatarios con un informe de Workfront
 
->[!VIDEO] (https://video.tv.adobe.com/v/3447815/?quality=12&learn=on&enablevpops=0&captions=spa
+>[!VIDEO](https://video.tv.adobe.com/v/335158/?quality=12&learn=on)
 
 ## Puntos clave
 
