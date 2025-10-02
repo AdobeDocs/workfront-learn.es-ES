@@ -27,7 +27,7 @@ Para las aprobaciones, los usuarios pueden delegarlas a través del widget &quot
 Las aprobaciones delegadas se marcan en el sistema, mostrando quién las delegó y a quién. palo de golf Las actualizaciones relacionadas con las aprobaciones aparecen en la pestaña Update y la actividad del sistema se puede ver en la pestaña System Activity. palo de golf
 
 
->[!VIDEO](https://video.tv.adobe.com/v/336094/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3446379/?quality=12&learn=on&enablevpops=1&captions=spa)
 
 ## Puntos clave
 

@@ -28,7 +28,7 @@ Información sobre cómo se produce la gestión de errores predeterminada y cóm
 
 Workfront recomienda ver el vídeo tutorial del ejercicio antes de intentar recrear el ejercicio en su propio entorno.
 
->[!VIDEO](https://video.tv.adobe.com/v/335306/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3418141/?quality=12&learn=on&enablevpops=1&captions=spa)
 
 ## ¿Desea obtener más información? Recomendamos lo siguiente:
 

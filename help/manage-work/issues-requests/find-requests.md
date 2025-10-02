@@ -30,7 +30,7 @@ En este vídeo se explica cómo buscar y administrar solicitudes en Workfront. p
 * Informes y paneles personalizados
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3422686/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3441657/?quality=12&learn=on&enablevpops=1&captions=spa)
 
 ## Puntos clave
 

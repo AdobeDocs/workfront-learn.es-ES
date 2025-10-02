@@ -31,7 +31,7 @@ Este vídeo contiene información sobre:
 * Compartir un proyecto colocándolo en un portafolio
 * Prácticas recomendadas para compartir un proyecto
 
->[!VIDEO](https://video.tv.adobe.com/v/3418904/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3423153/?quality=12&learn=on&enablevpops=1&captions=spa)
 
 ## Tutoriales recomendados sobre este tema
 

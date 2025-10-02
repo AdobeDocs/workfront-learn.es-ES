@@ -25,7 +25,7 @@ En el vídeo se explica cómo crear y personalizar vistas en Workfront para most
 
 El vídeo destaca la flexibilidad de las vistas en Workfront y proporciona instrucciones paso a paso para crearlas, personalizarlas y administrarlas.
 
->[!VIDEO] (https://video.tv.adobe.com/v/335148/?quality=12&learn=on&enablevpops=0
+>[!VIDEO] (https://video.tv.adobe.com/v/3450241/?quality=12&learn=on&enablevpops=0&captions=spa
 
 ## Puntos clave
 

@@ -25,4 +25,4 @@ Este vídeo contiene información sobre:
 * Busque plantillas de diseño en el área de [!UICONTROL Configuración]
 * Comience a crear plantillas de diseño en Workfront.
 
->[!VIDEO](https://video.tv.adobe.com/v/335072/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3413107/?quality=12&learn=on&enablevpops=1&captions=spa)

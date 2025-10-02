@@ -22,4 +22,4 @@ ht-degree: 100%
 
 Vea este vídeo con Joel Pettioven de Workfront, responsable del [!UICONTROL Análisis mejorado], para conocer cómo surgió el análisis y las interesantes funcionalidades que ofrece.
 
->[!VIDEO](https://video.tv.adobe.com/v/335042/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3422285/?quality=12&learn=on&enablevpops=1&captions=spa)

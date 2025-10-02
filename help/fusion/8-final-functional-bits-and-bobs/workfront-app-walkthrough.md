@@ -24,7 +24,7 @@ En este vídeo, aprenderá sobre lo siguiente:
 
 * Una variedad de módulos útiles de activador, acción y búsqueda en la aplicación Workfront
 
->[!VIDEO](https://video.tv.adobe.com/v/335297/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3417974/?quality=12&learn=on&enablevpops=1&captions=spa)
 
 
 ## ¿Desea obtener más información? Recomendamos lo siguiente:

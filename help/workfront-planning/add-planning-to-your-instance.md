@@ -21,4 +21,4 @@ ht-degree: 80%
 
 Descubra cuáles son los requisitos necesarios para agregar la herramienta Workfront Planning y hacerla visible para los usuarios de su instancia.
 
->[!VIDEO](https://video.tv.adobe.com/v/3447930/?learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3447969/?learn=on&enablevpops=1&captions=spa)

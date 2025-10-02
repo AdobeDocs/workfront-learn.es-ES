@@ -26,7 +26,7 @@ Este vídeo contiene información sobre:
 * Cómo pueden beneficiarse los usuarios de prueba de las plantillas de flujo de trabajo
 * Cómo empezar a planificar qué plantillas puede crear
 
->[!VIDEO](https://video.tv.adobe.com/v/335129/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3441300/?quality=12&learn=on&enablevpops=1&captions=spa)
 
 <!--
 Learn More Icon

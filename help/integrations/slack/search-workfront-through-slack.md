@@ -23,4 +23,4 @@ Este vídeo contiene información sobre:
 
 * Búsqueda de [!DNL Workfront] a través de [!DNL Slack]
 
->[!VIDEO](https://video.tv.adobe.com/v/335121/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3437510/?quality=12&learn=on&enablevpops=1&captions=spa)

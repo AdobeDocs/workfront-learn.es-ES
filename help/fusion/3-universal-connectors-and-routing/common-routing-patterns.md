@@ -24,4 +24,4 @@ Este vídeo contiene información sobre:
 
 * La diferencia entre rutas de enrutador mutuamente exclusivas y no exclusivas.
 
->[!VIDEO](https://video.tv.adobe.com/v/335273/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3417254/?quality=12&learn=on&enablevpops=1&captions=spa)

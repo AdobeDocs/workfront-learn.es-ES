@@ -28,7 +28,7 @@ Este vídeo contiene información sobre:
 * Cómo evitar la inclusión involuntaria de integrantes que **no** sean del equipo del proyecto en un equipo del proyecto de plantilla.
 * Editar el equipo del proyecto de plantilla.
 
->[!VIDEO](https://video.tv.adobe.com/v/3426803/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3441553/?quality=12&learn=on&enablevpops=1&captions=spa)
 
 ## Tutoriales recomendados sobre este tema
 

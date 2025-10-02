@@ -21,4 +21,4 @@ ht-degree: 100%
 
 Aprenda a agregar tarjetas a un tablero, ya sea nuevo o de un elemento de trabajo previo.
 
->[!VIDEO](https://video.tv.adobe.com/v/346617/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3423055/?quality=12&learn=on&enablevpops=1&captions=spa)

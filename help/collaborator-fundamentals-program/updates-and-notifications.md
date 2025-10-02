@@ -20,7 +20,7 @@ Este vídeo contiene información sobre:
 * Actualice sus propias solicitudes de aprobación
 * Encuentre las notificaciones
 
->[!VIDEO](https://video.tv.adobe.com/v/335109/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3440142/?quality=12&learn=on&enablevpops=1&captions=spa)
 
 <!--
 learn more URLS

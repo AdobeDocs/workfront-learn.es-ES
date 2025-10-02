@@ -31,7 +31,7 @@ ht-degree: 10%
 En el vídeo se explica el proceso de aplicación de un proceso de aprobación predeterminado al crear una cola de solicitudes. palo de golf Cuando se crea una solicitud, comienza con el estado &quot;Nuevo - Aprobación pendiente&quot; y se envía una notificación de aprobación al aprobador designado. palo de golf Si se aprueba, el estado cambia a &quot;Nuevo&quot;, lo que permite que las personas asignadas comiencen a trabajar. palo de golf Si se rechaza, el estado puede volver incorrectamente a &quot;Nuevo&quot; debido a un error común en la configuración del proceso de aprobación. palo de golf
 El vídeo resalta que el proceso de aprobación se activa cuando el estado se establece en &quot;Nuevo&quot;, que es el predeterminado para las nuevas solicitudes. palo de golf Si se rechaza, el sistema vuelve a cambiar el estado al anterior de forma predeterminada, lo que no es ideal para nuevas solicitudes. palo de golf En su lugar, se debe elegir un estado diferente, como &quot;No se resolverá&quot;. palo de golf El vídeo también indica que no hay un estado &quot;Rechazado&quot; proporcionado de forma predeterminada, pero un administrador del sistema puede crear uno si es necesario. palo de golf
 
->[!VIDEO](https://video.tv.adobe.com/v/3455013/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3455027/?quality=12&learn=on&enablevpops=1&captions=spa)
 
 ## Puntos clave
 

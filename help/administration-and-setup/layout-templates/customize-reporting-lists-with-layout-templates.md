@@ -26,7 +26,7 @@ Este vídeo contiene información sobre:
 * Quitar filtros, vistas y agrupaciones
 * Añadir filtros, vistas y agrupaciones
 
->[!VIDEO](https://video.tv.adobe.com/v/335079/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3432915/?quality=12&learn=on&enablevpops=1&captions=spa)
 
 ## Establecer valores predeterminados de lista
 

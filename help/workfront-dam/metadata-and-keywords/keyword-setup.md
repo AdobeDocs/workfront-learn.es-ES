@@ -25,7 +25,7 @@ En este vídeo, aprenderá lo siguiente:
 * Configurar una lista de palabras clave
 * Crear e importar una lista de palabras clave
 
->[!VIDEO](https://video.tv.adobe.com/v/335236/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3419507/?quality=12&learn=on&enablevpops=1&captions=spa)
 
 ## Prácticas recomendadas de palabras clave
 

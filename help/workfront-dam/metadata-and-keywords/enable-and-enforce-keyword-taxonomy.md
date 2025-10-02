@@ -26,4 +26,4 @@ Este vídeo contiene información sobre:
 * Comprender cuándo los usuarios de [!UICONTROL DAM de Workfront] pueden escribir sus propias palabras clave
 * Configuración de las facetas de búsqueda
 
->[!VIDEO](https://video.tv.adobe.com/v/335237/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3419499/?quality=12&learn=on&enablevpops=1&captions=spa)

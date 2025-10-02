@@ -28,7 +28,7 @@ Llame a un servicio web para que le devuelva los detalles acerca de varios país
 
 Workfront recomienda ver el vídeo tutorial del ejercicio antes de intentar recrear el ejercicio en su propio entorno.
 
->[!VIDEO](https://video.tv.adobe.com/v/335281/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3417302/?quality=12&learn=on&enablevpops=1&captions=spa)
 
 ## Ejercitar direcciones URL
 

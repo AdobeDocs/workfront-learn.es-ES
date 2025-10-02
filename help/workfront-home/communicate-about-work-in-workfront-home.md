@@ -26,7 +26,7 @@ Este vídeo contiene información sobre:
 * Etiquete a los usuarios en las actualizaciones de [!DNL Workfront]
 * Responder a actualizaciones existentes
 
->[!VIDEO](https://video.tv.adobe.com/v/335102/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3445280/?quality=12&learn=on&enablevpops=1&captions=spa)
 
 ## Sugerencias para actualizar los trabajos en el [!UICONTROL inicio]
 

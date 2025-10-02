@@ -31,7 +31,7 @@ Este vídeo contiene información sobre:
 * Identificar el trabajo que está listo para empezar
 * Aceptar asignaciones de trabajo
 
->[!VIDEO](https://video.tv.adobe.com/v/335099/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3445081/?quality=12&learn=on&enablevpops=1&captions=spa)
 
 >[!NOTE]
 >

@@ -32,7 +32,7 @@ Este vídeo contiene información sobre:
 
 * Instalación del complemento de Microsoft Outlook
 
->[!VIDEO](https://video.tv.adobe.com/v/335115/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3421306/?quality=12&learn=on&enablevpops=1&captions=spa)
 
 >[!IMPORTANT]
 >

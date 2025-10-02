@@ -28,7 +28,7 @@ Este vídeo contiene información sobre:
 * Crear y editar grupos
 * Agregar y editar usuarios
 
->[!VIDEO](https://video.tv.adobe.com/v/335230/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3414466/?quality=12&learn=on&enablevpops=1&captions=spa)
 
 ## Revisión de grupos y usuarios
 

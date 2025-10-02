@@ -55,7 +55,7 @@ El vídeo proporciona una guía completa sobre la creación de proyectos en Work
 
 El vídeo destaca la flexibilidad de Workfront para crear proyectos a través de plantillas, arañar, copiar o importar, para satisfacer diferentes necesidades del usuario. palo de golf
 
->[!VIDEO](https://video.tv.adobe.com/v/335084/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3432173/?quality=12&learn=on&enablevpops=1&captions=spa)
 
 ## Puntos clave
 

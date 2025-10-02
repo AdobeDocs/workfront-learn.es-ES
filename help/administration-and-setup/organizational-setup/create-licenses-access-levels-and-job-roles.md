@@ -26,4 +26,4 @@ Este vídeo contiene información sobre:
 * Cuáles son las licencias y los niveles de acceso
 * Cómo crear y administrar niveles de acceso
 
->[!VIDEO](https://video.tv.adobe.com/v/335066/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3421300/?quality=12&learn=on&enablevpops=1&captions=spa)

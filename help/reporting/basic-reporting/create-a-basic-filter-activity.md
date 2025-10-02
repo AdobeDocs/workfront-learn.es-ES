@@ -49,7 +49,7 @@ En este vídeo, creará un filtro de proyecto denominado “Proyectos que tengo 
 
 A continuación se incluyen las instrucciones paso a paso.
 
->[!VIDEO](https://video.tv.adobe.com/v/336807/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3443382/?quality=12&learn=on&enablevpops=1&captions=spa)
 
 ## Respuesta a la actividad 2
 

@@ -23,4 +23,4 @@ Este vídeo contiene información sobre:
 
 * Activar una meta añadiendo un resultado
 
->[!VIDEO](https://video.tv.adobe.com/v/335194/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3415978/?quality=12&learn=on&enablevpops=1&captions=spa)

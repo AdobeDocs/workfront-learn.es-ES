@@ -31,7 +31,7 @@ En el vídeo se explica cómo revisar y aprobar el trabajo digital mediante el w
 
 El vídeo destaca la flexibilidad para revisar y aprobar el trabajo, con opciones para agregar comentarios y especificar cambios según sea necesario. palo de golf
 
->[!VIDEO](https://video.tv.adobe.com/v/335108/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3444949/?quality=12&learn=on&enablevpops=1&captions=spa)
 
 ## Puntos clave
 

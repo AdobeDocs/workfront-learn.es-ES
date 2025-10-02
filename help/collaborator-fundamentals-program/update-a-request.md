@@ -20,7 +20,7 @@ Este vídeo contiene información sobre:
 * Buscar solicitudes enviadas
 * Actualizar solicitud
 
->[!VIDEO](https://video.tv.adobe.com/v/336091/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3422297/?quality=12&learn=on&enablevpops=1&captions=spa)
 
 <!--
 Guide

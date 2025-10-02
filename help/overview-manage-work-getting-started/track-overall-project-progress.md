@@ -30,7 +30,7 @@ En este vídeo aprenderá a comunicarse con todas las partes interesadas del pro
 * Problemas pendientes
 * Columna Actualización de la condición
 
->[!VIDEO](https://video.tv.adobe.com/v/3428748/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3447413/?quality=12&learn=on&enablevpops=1&captions=spa)
 
 ## Tutoriales recomendados sobre este tema
 

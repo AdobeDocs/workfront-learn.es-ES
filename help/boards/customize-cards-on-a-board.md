@@ -20,4 +20,4 @@ ht-degree: 100%
 
 Descubra cómo se personaliza la información que se muestra en una tarjeta de un tablero, para la vista completa o condensada.
 
->[!VIDEO](https://video.tv.adobe.com/v/3422520/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3446534/?quality=12&learn=on&enablevpops=1&captions=spa)

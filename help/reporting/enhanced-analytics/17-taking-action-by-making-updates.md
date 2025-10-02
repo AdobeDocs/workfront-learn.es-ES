@@ -25,4 +25,4 @@ Este vídeo contiene información sobre:
 
 * Cómo realizar actualizaciones desde el gráfico de grupo Tareas
 
->[!VIDEO](https://video.tv.adobe.com/v/335053/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3436862/?quality=12&learn=on&enablevpops=1&captions=spa)

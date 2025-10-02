@@ -20,4 +20,4 @@ ht-degree: 100%
 
 En este vídeo, aprenderá qué elementos (como tipos de fechas y restricciones de tareas) se utilizan al crear y administrar las cronologías de proyectos en [!DNL  Workfront].
 
->[!VIDEO](https://video.tv.adobe.com/v/335212/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3436743/?quality=12&learn=on&enablevpops=1&captions=spa)

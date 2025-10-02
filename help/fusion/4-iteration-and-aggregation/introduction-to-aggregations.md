@@ -26,4 +26,4 @@ Este vídeo contiene información sobre:
 * Cómo utilizar los agregadores
 * Diferentes tipos de agregadores
 
->[!VIDEO](https://video.tv.adobe.com/v/335279/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3417284/?quality=12&learn=on&enablevpops=1&captions=spa)

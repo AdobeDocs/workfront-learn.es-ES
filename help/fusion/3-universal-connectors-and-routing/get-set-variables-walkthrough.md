@@ -28,7 +28,7 @@ Busque datos acerca de un proyecto en Workfront y envíe un correo electrónico 
 
 Workfront recomienda ver el vídeo tutorial del ejercicio antes de intentar recrear el ejercicio en su propio entorno.
 
->[!VIDEO](https://video.tv.adobe.com/v/335276/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3417272/?quality=12&learn=on&enablevpops=1&captions=spa)
 
 
 ## Su turno

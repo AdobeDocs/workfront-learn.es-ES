@@ -28,7 +28,7 @@ Revise el historial de ejecución para el escenario “Uso del filtro poderoso�
 
 Workfront recomienda ver el vídeo tutorial del ejercicio antes de intentar recrear el ejercicio en su propio entorno.
 
->[!VIDEO](https://video.tv.adobe.com/v/335283/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3417314/?quality=12&learn=on&enablevpops=1&captions=spa)
 
 
 ## Búsqueda de texto completo en la pestaña del historial

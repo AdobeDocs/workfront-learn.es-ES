@@ -40,7 +40,7 @@ En el vídeo se explica cómo utilizar el Diagrama de Gantt del proyecto y el Di
 
 El vídeo enfatiza la flexibilidad de los gráficos Gantt, lo que permite a los usuarios personalizar las vistas y mostrar varios elementos simultáneamente para una mejor administración del proyecto.
 
->[!VIDEO](https://video.tv.adobe.com/v/3419304/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3448009/?quality=12&learn=on&enablevpops=1&captions=spa)
 
 Puede obtener más información con el artículo en línea [Introducción al gráfico Gantt](https://experienceleague.adobe.com/docs/workfront/using/manage-work/the-gantt-chart/gantt-chart-overview/get-started-with-gantt.html?lang=es).
 

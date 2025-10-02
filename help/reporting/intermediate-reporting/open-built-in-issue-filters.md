@@ -27,7 +27,7 @@ En este vídeo, aprenderá lo siguiente:
 * Obtenga información sobre algunos elementos útiles de creación de informes de problemas
 * Información sobre cómo crear su propio filtro de problemas
 
->[!VIDEO] (https://video.tv.adobe.com/v/336819/?quality=12&learn=on&enablevpops=0
+>[!VIDEO] (https://video.tv.adobe.com/v/3412677/?quality=12&learn=on&enablevpops=0&captions=spa
 
 
 ## Actividades de &quot;Comprensión de los filtros de problemas integrados&quot;

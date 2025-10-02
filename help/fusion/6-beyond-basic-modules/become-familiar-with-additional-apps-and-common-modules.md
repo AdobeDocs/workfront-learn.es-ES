@@ -45,4 +45,4 @@ Este vídeo contiene información sobre:
 * Qué son los activadores, las acciones y las búsquedas y en qué se diferencian
 * Tipos de módulos encontrados en diferentes conectores de aplicaciones y cómo funcionan
 
->[!VIDEO](https://video.tv.adobe.com/v/335287/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3417436/?quality=12&learn=on&enablevpops=1&captions=spa)

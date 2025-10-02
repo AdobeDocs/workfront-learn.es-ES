@@ -23,4 +23,4 @@ Este vídeo contiene información sobre:
 
 * Realización de aprobaciones mediante [!DNL Slack]
 
->[!VIDEO](https://video.tv.adobe.com/v/335119/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3436358/?quality=12&learn=on&enablevpops=1&captions=spa)

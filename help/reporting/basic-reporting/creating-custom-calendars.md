@@ -34,5 +34,5 @@ Este vídeo contiene información sobre:
 * Agregar elementos de trabajo a la agrupación de calendario
 * Crear un calendario de días libres
 
->[!VIDEO](https://video.tv.adobe.com/v/3423482/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3452396/?quality=12&learn=on&enablevpops=1&captions=spa)
 

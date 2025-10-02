@@ -25,7 +25,7 @@ En el vídeo se explica cómo realizar un seguimiento del progreso general del p
 
 El vídeo destaca la importancia de las actualizaciones regulares por parte de los miembros del equipo y de la administración proactiva de problemas para garantizar un seguimiento preciso y la finalización oportuna del proyecto. palo de golf
 
->[!VIDEO](https://video.tv.adobe.com/v/3428748/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3447413/?quality=12&learn=on&enablevpops=1&captions=spa)
 
 ## Puntos clave
 

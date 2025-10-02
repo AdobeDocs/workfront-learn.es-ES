@@ -24,7 +24,7 @@ ht-degree: 13%
 
 El vídeo proporciona una guía detallada sobre cómo realizar y administrar solicitudes en Workfront. Explica el proceso de creación de una solicitud, empezando por seleccionar &quot;Solicitudes&quot; en el menú principal y haciendo clic en el botón &quot;Nueva solicitud&quot;. palo de golf Los usuarios pueden elegir un tipo de solicitud de colas personalizadas y adaptadas a los flujos de trabajo de su organización.
 
->[!VIDEO](https://video.tv.adobe.com/v/336092/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3413113/?quality=12&learn=on&enablevpops=1&captions=spa)
 
 ## Puntos clave
 

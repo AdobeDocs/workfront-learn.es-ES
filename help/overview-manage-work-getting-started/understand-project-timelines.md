@@ -27,7 +27,7 @@ En este vídeo, aprenderá sobre lo siguiente:
 * Programación de proyectos desde la fecha de inicio o finalización
 * Las restricciones de tareas
 
->[!VIDEO](https://video.tv.adobe.com/v/335213/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3435838/?quality=12&learn=on&enablevpops=1&captions=spa)
 
 >[!IMPORTANT]
 >

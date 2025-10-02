@@ -25,4 +25,4 @@ Este vídeo contiene información sobre:
 * Qué son las funciones y los módulos de cambio y cómo difieren
 * Cuándo utilizar una función de cambio frente a un módulo de cambio
 
->[!VIDEO](https://video.tv.adobe.com/v/335288/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3417442/?quality=12&learn=on&enablevpops=1&captions=spa)

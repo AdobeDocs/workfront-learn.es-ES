@@ -52,4 +52,4 @@ Este vídeo contiene información sobre:
 * Alineación de las metas utilizando un enfoque ascendente o descendente
 * Vaya a la sección [!UICONTROL Alineación de metas]
 
->[!VIDEO](https://video.tv.adobe.com/v/335195/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3415966/?quality=12&learn=on&enablevpops=1&captions=spa)

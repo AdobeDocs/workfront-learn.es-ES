@@ -25,4 +25,4 @@ Para capacitar realmente a las personas, los directivos deben planificar y progr
 Sin embargo, esa tarea puede ser un poco más fácil con el planificador de recursos de Workfront para los recursos.
 
 
->[!VIDEO](https://video.tv.adobe.com/v/335167/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3437257/?quality=12&learn=on&enablevpops=1&captions=spa)

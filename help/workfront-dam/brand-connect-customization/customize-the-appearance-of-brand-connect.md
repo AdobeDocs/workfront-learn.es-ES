@@ -24,7 +24,7 @@ Este vídeo contiene información sobre:
 * Personalizar la barra de navegación y el pie de página
 * Personalizar la página de inicio y la página de inicio de sesión
 
->[!VIDEO](https://video.tv.adobe.com/v/335242/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3419032/?quality=12&learn=on&enablevpops=1&captions=spa)
 
 ## Configuración adicional del [!UICONTROL aspecto]
 

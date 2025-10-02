@@ -20,4 +20,4 @@ ht-degree: 100%
 
 En este vídeo, aprenda cómo las colas de solicitud de [!DNL  Workfront] pueden centralizar la administración de la demanda.
 
->[!VIDEO](https://video.tv.adobe.com/v/335219/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3437593/?quality=12&learn=on&enablevpops=1&captions=spa)

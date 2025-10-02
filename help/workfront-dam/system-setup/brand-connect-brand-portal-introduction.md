@@ -26,7 +26,7 @@ Este vídeo contiene información sobre:
 * Establecer fechas de caducidad en recursos individuales
 * Editar configuración de recursos
 
->[!VIDEO](https://video.tv.adobe.com/v/335229/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3419542/?quality=12&learn=on&enablevpops=1&captions=spa)
 
 ## Carpetas de recursos
 

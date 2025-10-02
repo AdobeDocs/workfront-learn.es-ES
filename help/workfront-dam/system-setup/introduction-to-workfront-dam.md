@@ -35,4 +35,4 @@ En este vídeo, aprenderá lo siguiente:
 * Búsqueda y vista de recursos
 * Explore cómo afecta la estructura de carpetas a la organización y al acceso de los recursos
 
->[!VIDEO](https://video.tv.adobe.com/v/335228/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3420101/?quality=12&learn=on&enablevpops=1&captions=spa)

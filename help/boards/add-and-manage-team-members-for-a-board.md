@@ -21,4 +21,4 @@ ht-degree: 100%
 
 Información sobre cómo añadir y quitar personas y equipos a un panel para que puedan acceder a su información.
 
->[!VIDEO](https://video.tv.adobe.com/v/346808/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3423046/?quality=12&learn=on&enablevpops=1&captions=spa)

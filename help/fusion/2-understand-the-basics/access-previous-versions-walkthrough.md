@@ -28,7 +28,7 @@ En este vídeo, aprenderá lo siguiente:
 
 Workfront recomienda ver el vídeo tutorial del ejercicio antes de intentar recrear el ejercicio en su propio entorno.
 
->[!VIDEO](https://video.tv.adobe.com/v/335268/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3416534/?quality=12&learn=on&enablevpops=1&captions=spa)
 
 >[!NOTE]
 >

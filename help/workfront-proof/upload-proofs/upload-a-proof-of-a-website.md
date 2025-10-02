@@ -25,7 +25,7 @@ Este vídeo contiene información sobre:
 * Cargar un sitio web como prueba estática
 * Cargar un sitio web como prueba interactiva
 
->[!VIDEO](https://video.tv.adobe.com/v/335135/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3445070/?quality=12&learn=on&enablevpops=1&captions=spa)
 
 
 ## Consideraciones sobre el contenido interactivo

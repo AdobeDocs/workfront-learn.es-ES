@@ -25,4 +25,4 @@ Este vídeo contiene información sobre:
 * Configuración de una plantilla de metadatos
 * Aplicación de una plantilla a una carpeta
 
->[!VIDEO](https://video.tv.adobe.com/v/335238/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3419479/?quality=12&learn=on&enablevpops=1&captions=spa)

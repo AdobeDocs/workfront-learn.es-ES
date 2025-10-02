@@ -26,5 +26,5 @@ Este vídeo contiene información sobre:
 * Añadir campos únicos en una gran variedad de formatos
 * Compartir formularios con otros usuarios
 
->[!VIDEO](https://video.tv.adobe.com/v/335172/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3420148/?quality=12&learn=on&enablevpops=1&captions=spa)
 

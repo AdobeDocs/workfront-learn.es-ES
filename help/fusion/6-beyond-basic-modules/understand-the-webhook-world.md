@@ -26,4 +26,4 @@ Este vídeo contiene información sobre:
 * La diferencia entre los webhooks adaptables y los pasivos
 * Cómo crear colas para datos entrantes con webhooks
 
->[!VIDEO](https://video.tv.adobe.com/v/335291/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3417938/?quality=12&learn=on&enablevpops=1&captions=spa)

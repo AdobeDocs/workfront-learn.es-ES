@@ -30,7 +30,7 @@ Este vídeo contiene información sobre:
 * Definición de las preferencias globales del proyecto
 * Creación y utilización de programaciones
 
->[!VIDEO](https://video.tv.adobe.com/v/335065/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3423353/?quality=12&learn=on&enablevpops=1&captions=spa)
 
 ## Configuración de proyectos, tareas y problemas globales y de grupo
 

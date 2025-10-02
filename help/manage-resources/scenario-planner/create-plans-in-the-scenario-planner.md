@@ -22,7 +22,7 @@ ht-degree: 100%
 
 En este vídeo, aprenderá a crear un plan en [!DNL Scenario Planner].
 
->[!VIDEO](https://video.tv.adobe.com/v/335318/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3412629/?quality=12&learn=on&enablevpops=1&captions=spa)
 
 ## Cálculo de la información de la función para un plan
 

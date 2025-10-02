@@ -27,7 +27,7 @@ Este vídeo contiene información sobre:
 * Colaboración con un lightbox
 * Compartición del contenido de un lightbox
 
->[!VIDEO](https://video.tv.adobe.com/v/335254/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3420178/?quality=12&learn=on&enablevpops=1&captions=spa)
 
 ## Carpetas frente a Lightboxes
 

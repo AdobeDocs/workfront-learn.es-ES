@@ -29,7 +29,7 @@ Este vídeo contiene información sobre:
 * Ajuste la configuración del usuario de prueba en [!DNL  Workfront]
 * Ajuste la configuración del usuario de prueba en las configuraciones del back-end de revisión
 
->[!VIDEO](https://video.tv.adobe.com/v/335126/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3432930/?quality=12&learn=on&enablevpops=1&captions=spa)
 
 <!--
 Lean More URLs

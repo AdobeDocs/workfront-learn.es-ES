@@ -29,7 +29,7 @@ Este vídeo contiene información sobre:
 * Cómo explorar en profundidad para ver los detalles de la tarea
 * Cómo comunicarse con las partes interesadas
 
->[!VIDEO](https://video.tv.adobe.com/v/335094/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3445170/?quality=12&learn=on&enablevpops=1&captions=spa)
 
 ## Tutoriales recomendados sobre este tema
 

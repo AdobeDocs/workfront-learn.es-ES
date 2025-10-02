@@ -27,4 +27,4 @@ Este vídeo contiene información sobre:
 * Conexión a una API externa
 * Uso del editor de fórmulas para extraer información de una matriz
 
->[!VIDEO](https://video.tv.adobe.com/v/335269/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3416540/?quality=12&learn=on&enablevpops=1&captions=spa)

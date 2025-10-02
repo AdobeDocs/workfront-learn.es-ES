@@ -21,4 +21,4 @@ ht-degree: 100%
 
 Descubra qué es una etiqueta y por qué resulta útil, así como cómo crear, eliminar, agregar y quitar etiquetas.
 
->[!VIDEO](https://video.tv.adobe.com/v/346807/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3423037/?quality=12&learn=on&enablevpops=1&captions=spa)

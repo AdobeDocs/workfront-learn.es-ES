@@ -52,4 +52,4 @@ En este vídeo, aprenderá a hacer lo siguiente desde la aplicación de Creative
 * Hora de registro
 * Marque el trabajo completado
 
->[!VIDEO](https://video.tv.adobe.com/v/3415452/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3420643/?quality=12&learn=on&enablevpops=1&captions=spa)

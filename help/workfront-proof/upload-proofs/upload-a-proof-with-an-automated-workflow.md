@@ -26,7 +26,7 @@ Este vídeo contiene información sobre:
 * Cómo aplicar un flujo de trabajo mediante una plantilla de prueba
 * Cómo configurar un flujo de trabajo automatizado desde cero
 
->[!VIDEO](https://video.tv.adobe.com/v/335133/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3453011/?quality=12&learn=on&enablevpops=1&captions=spa)
 
 
 

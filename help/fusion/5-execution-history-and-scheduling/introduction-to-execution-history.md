@@ -24,4 +24,4 @@ En este vídeo, aprenderá lo siguiente:
 
 * El historial de ejecución le ayuda a admitir y solucionar problemas de Workfront Fusion
 
->[!VIDEO](https://video.tv.adobe.com/v/335282/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3417308/?quality=12&learn=on&enablevpops=1&captions=spa)

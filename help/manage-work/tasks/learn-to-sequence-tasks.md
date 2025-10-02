@@ -27,7 +27,7 @@ El vídeo muestra cómo establecer predecesoras para nuevas tareas, lo que garan
 palo de golfHace hincapié en la importancia de practicar con los predecesores para comprender su impacto en los plazos del proyecto y recomienda utilizar las duraciones y los predecesores para una planificación eficiente del proyecto.
 
 
->[!VIDEO](https://video.tv.adobe.com/v/335091/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3447323/?quality=12&learn=on&enablevpops=1&captions=spa)
 
 ## Puntos clave
 

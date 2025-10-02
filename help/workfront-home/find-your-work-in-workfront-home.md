@@ -31,4 +31,4 @@ Este vídeo contiene información sobre:
 * Encontrar asignaciones de trabajo entrantes y existentes
 * Revisar información de asignación
 
->[!VIDEO](https://video.tv.adobe.com/v/335098/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3432301/?quality=12&learn=on&enablevpops=1&captions=spa)

@@ -26,7 +26,7 @@ Aprenderá lo siguiente:
 * Compartir una plantilla con otros usuarios
 * Compartir proyectos creados mediante una plantilla
 
->[!VIDEO](https://video.tv.adobe.com/v/335211/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3415437/?quality=12&learn=on&enablevpops=1&captions=spa)
 
 ## Tutoriales recomendados sobre este tema
 

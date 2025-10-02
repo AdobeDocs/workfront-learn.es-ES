@@ -23,5 +23,5 @@ ht-degree: 100%
 
 En este vídeo, aprenderá a determinar quién puede ver o editar un campo personalizado.
 
->[!VIDEO](https://video.tv.adobe.com/v/3432949/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3446545/?quality=12&learn=on&enablevpops=1&captions=spa)
 

@@ -27,4 +27,4 @@ Este vídeo contiene información sobre:
 * Adición de archivos relacionados a un recurso
 * Descarga de recursos
 
->[!VIDEO](https://video.tv.adobe.com/v/335255/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3454817/?quality=12&learn=on&enablevpops=1&captions=spa)

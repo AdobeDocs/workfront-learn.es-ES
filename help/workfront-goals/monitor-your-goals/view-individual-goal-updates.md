@@ -23,7 +23,7 @@ Este vídeo contiene información sobre:
 
 * Vea sus metas individuales en el flujo de actualización [!UICONTROL Pulso]
 
->[!VIDEO](https://video.tv.adobe.com/v/335200/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3415925/?quality=12&learn=on&enablevpops=1&captions=spa)
 
 ## Filtrado de información en el flujo Pulso
 

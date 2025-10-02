@@ -32,7 +32,7 @@ En este vídeo aprenderá:
 * Cómo crear equipos
 * Cómo invitar a usuarios a una organización y a un equipo
 
->[!VIDEO](https://video.tv.adobe.com/v/335310/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3418190/?quality=12&learn=on&enablevpops=1&captions=spa)
 
 >[!NOTE]
 >

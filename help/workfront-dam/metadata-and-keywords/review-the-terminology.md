@@ -27,4 +27,4 @@ Este vídeo contiene información sobre:
 * Cómo puede ser beneficiosa la taxonomía de palabras clave
 * Búsqueda de recursos utilizando metadatos y palabras clave
 
->[!VIDEO](https://video.tv.adobe.com/v/335234/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3419523/?quality=12&learn=on&enablevpops=1&captions=spa)

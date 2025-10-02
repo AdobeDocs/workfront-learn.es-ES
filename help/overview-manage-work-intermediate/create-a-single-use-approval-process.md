@@ -27,7 +27,7 @@ En cualquier caso, cuando el estado del objeto cambia a uno especificado en el p
 
 En este vídeo, aprenderá a crear un proceso de aprobación global y un proceso de aprobación de un solo uso en un proyecto, tarea o problema.
 
->[!VIDEO](https://video.tv.adobe.com/v/335225/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3434690/?quality=12&learn=on&enablevpops=1&captions=spa)
 
 >[!TIP]
 >

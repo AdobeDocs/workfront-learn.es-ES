@@ -28,4 +28,4 @@ Este vídeo contiene información sobre:
 * Leer e interpretar el gráfico de estado de la meta
 * Leer e interpretar el gráfico del progreso de la meta
 
->[!VIDEO](https://video.tv.adobe.com/v/335201/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3415918/?quality=12&learn=on&enablevpops=1&captions=spa)

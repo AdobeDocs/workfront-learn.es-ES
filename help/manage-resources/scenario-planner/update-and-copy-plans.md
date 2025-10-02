@@ -25,4 +25,4 @@ Este vídeo contiene información sobre:
 * Actualización de un plan en [!DNL Scenario Planner]
 * Copia de planes en [!DNL Scenario Planner]
 
->[!VIDEO](https://video.tv.adobe.com/v/335321/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3412647/?quality=12&learn=on&enablevpops=1&captions=spa)

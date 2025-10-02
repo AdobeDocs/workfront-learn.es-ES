@@ -25,4 +25,4 @@ Este vídeo contiene información sobre:
 * Marcar un trabajo como una asignación de prioridad
 * Filtre la [!UICONTROL Lista de trabajo] para ver solo el trabajo con prioridad
 
->[!VIDEO](https://video.tv.adobe.com/v/335100/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3438535/?quality=12&learn=on&enablevpops=1&captions=spa)

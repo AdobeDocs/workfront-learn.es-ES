@@ -21,4 +21,4 @@ ht-degree: 12%
 
 Aprenda a conectar tipos de registros en Workfront Planning para optimizar los flujos de trabajo, aumentar la claridad y mejorar la responsabilidad y la eficacia del equipo. palo de golf
 
->[!VIDEO](https://video.tv.adobe.com/v/3463796/?learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3463801/?learn=on&enablevpops=1&captions=spa)

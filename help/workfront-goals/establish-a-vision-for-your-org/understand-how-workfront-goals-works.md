@@ -25,7 +25,7 @@ En este vídeo, aprenderá sobre lo siguiente:
 * Metas de ejemplo
 * Ámbito de influencia
 
->[!VIDEO](https://video.tv.adobe.com/v/335183/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3413131/?quality=12&learn=on&enablevpops=1&captions=spa)
 
 ## Designar personas responsables
 

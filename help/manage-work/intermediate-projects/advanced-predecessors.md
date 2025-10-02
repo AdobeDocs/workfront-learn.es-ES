@@ -36,7 +36,7 @@ En este vídeo, aprenderá sobre lo siguiente:
 * Errores de bucle de dependencia
 * Métodos abreviados y prácticas recomendadas
 
->[!VIDEO](https://video.tv.adobe.com/v/3424287/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3454530/?quality=12&learn=on&enablevpops=1&captions=spa)
 
 Para obtener más información sobre el uso de predecesoras, consulte [Usar predecesoras de tareas](https://experienceleague.adobe.com/docs/workfront/using/manage-work/tasks/use-task-predecessors/use-task-predecessors.html?lang=es).
 

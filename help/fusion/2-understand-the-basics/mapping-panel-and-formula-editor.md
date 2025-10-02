@@ -29,4 +29,4 @@ Este vídeo contiene información sobre:
 * Los diferentes tipos de fórmula
 * Uso bueno y malo del editor de fórmulas
 
->[!VIDEO](https://video.tv.adobe.com/v/335262/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3415984/?quality=12&learn=on&enablevpops=1&captions=spa)

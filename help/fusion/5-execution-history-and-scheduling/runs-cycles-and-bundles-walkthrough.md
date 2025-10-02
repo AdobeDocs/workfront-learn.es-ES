@@ -28,7 +28,7 @@ Práctica con diferentes configuraciones de escenario para explorar mediante eje
 
 Workfront recomienda ver el vídeo tutorial del ejercicio antes de intentar recrear el ejercicio en su propio entorno.
 
->[!VIDEO](https://video.tv.adobe.com/v/335286/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3417430/?quality=12&learn=on&enablevpops=1&captions=spa)
 
 
 
