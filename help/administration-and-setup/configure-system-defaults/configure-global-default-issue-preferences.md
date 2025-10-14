@@ -116,7 +116,7 @@ Ventana de preferencias de ![[!UICONTROL Tareas y problemas] con la sección [!U
 1. A continuación, seleccione el acceso para compartir para el proyecto: [!UICONTROL Ver], [!UICONTROL Contribuir] o [!UICONTROL Administrar]. Cuando configure las [!UICONTROL Opciones avanzadas], tenga en cuenta los flujos de trabajo de su organización y las necesidades de acceso.
 1. Ahorre cuando haya terminado.
 
-Ventana de ![[!UICONTROL Acceso] que muestra las opciones [!UICONTROL Contribuir] ](assets/admin-fund-issue-prefs-access-2.png)
+Ventana de ![[!UICONTROL Acceso] que muestra las opciones [!UICONTROL Contribuir] &#x200B;](assets/admin-fund-issue-prefs-access-2.png)
 
 <!--
 learn more URLs
