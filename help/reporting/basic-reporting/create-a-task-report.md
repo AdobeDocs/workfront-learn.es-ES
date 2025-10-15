@@ -25,7 +25,7 @@ El vídeo proporciona una guía paso a paso sobre la creación de un informe per
 
 El informe resultante ayuda a los usuarios a centrarse en tareas tardías, proporciona perspectivas sobre las dependencias y simplifica la navegación a los proyectos host. palo de golf
 
->[!VIDEO](https://video.tv.adobe.com/v/335154/?quality=12&learn=on&enablevpops=0)
+>[!VIDEO](https://video.tv.adobe.com/v/3448345/?captions=spa&quality=12&learn=on&enablevpops=0)
 
 ## Puntos clave
 

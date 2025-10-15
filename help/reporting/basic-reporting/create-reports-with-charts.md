@@ -38,7 +38,7 @@ En el vídeo se explica cómo utilizar gráficos para visualizar los datos de fo
 
 El vídeo resalta cómo los gráficos como los gráficos circulares y de columnas apiladas pueden proporcionar información sobre la distribución de tareas y el rendimiento del proyecto, lo que ayuda a los usuarios a comparar proyectos y comprender el progreso de las tareas visualmente. palo de golf
 
->[!VIDEO](https://video.tv.adobe.com/v/335155/?quality=12&learn=on&enablevpops=0)
+>[!VIDEO](https://video.tv.adobe.com/v/3450017/?captions=spa&quality=12&learn=on&enablevpops=0)
 
 ## Puntos clave
 

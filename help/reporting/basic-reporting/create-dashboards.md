@@ -24,7 +24,7 @@ ht-degree: 29%
 El vídeo proporciona una guía completa para comprender y utilizar los paneles en Workfront.
 palo de golfEn él se explica que un tablero es una colección de informes que permite a los usuarios organizar y mostrar los datos relacionados en un solo lugar.
 
->[!VIDEO](https://video.tv.adobe.com/v/335157/?quality=12&learn=on&enablevpops=0)
+>[!VIDEO](https://video.tv.adobe.com/v/3449125/?captions=spa&quality=12&learn=on&enablevpops=0)
 
 ## Puntos clave
 

@@ -41,7 +41,7 @@ Este vídeo contiene información sobre:
 * Qué son las palabras agrupadas en mayúsculas y minúsculas
 * Algunos _bloques de código en modo texto_ que puede usar en sus vistas de informes
 
->[!VIDEO](https://video.tv.adobe.com/v/3410571/?quality=12&learn=on&enablevpops=0)
+>[!VIDEO](https://video.tv.adobe.com/v/3470793/?captions=spa&quality=12&learn=on&enablevpops=0)
 
 ## Actividades de &quot;Comprender el modo de texto básico para vistas&quot;
 

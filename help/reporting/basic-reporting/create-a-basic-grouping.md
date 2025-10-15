@@ -24,7 +24,7 @@ ht-degree: 24%
 En este vídeo se explica cómo crear y administrar agrupaciones en Workfront para organizar las listas de proyectos de forma eficaz. palo de golf Las agrupaciones son uno de los tres elementos principales de los informes, junto con los filtros y las vistas, y ayudan a organizar los resultados en función de la información compartida. palo de golf
 Este tutorial proporciona pasos prácticos para organizar listas de proyectos con el fin de racionalizar el trabajo diario y la colaboración. palo de golf
 
->[!VIDEO](https://video.tv.adobe.com/v/335147/?quality=12&learn=on&enablevpops=0)
+>[!VIDEO](https://video.tv.adobe.com/v/3449818/?captions=spa&quality=12&learn=on&enablevpops=0)
 
 ## Puntos clave
 
