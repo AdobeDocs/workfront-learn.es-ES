@@ -12,7 +12,7 @@ jira: KT-9987
 exl-id: 1a56f2f6-12df-43a5-943c-986a85661efa
 last-substantial-update: 2025-08-11T00:00:00Z
 doc-type: video
-source-git-commit: 1fafcafb173ceb4115612e1c33ca36564c7a6c3d
+source-git-commit: cc423944628d01e16d390842ecb25696505f923c
 workflow-type: tm+mt
 source-wordcount: '320'
 ht-degree: 31%
@@ -25,7 +25,7 @@ En el vídeo se explica cómo crear y utilizar filtros con varias reglas en Work
 También puede cambiar la lógica del filtro a &quot;O&quot;, que muestra los elementos que cumplen cualquiera de las condiciones.
 El vídeo también muestra la creación de filtros para tareas utilizando grupos de filtros. palo de golf Por ejemplo, puede crear dos grupos: uno para las tareas incompletas asignadas al equipo creativo que están atrasadas y otro para las tareas incompletas asignadas al equipo creativo que no están asignadas. palo de golf Dentro de cada grupo se aplica la lógica &quot;Y&quot;, lo que significa que deben cumplirse todas las condiciones del grupo. palo de golf La lógica &quot;OR&quot; entre grupos garantiza que se muestren las tareas que cumplen las condiciones de cualquiera de los grupos.
 
->[!VIDEO](https://video.tv.adobe.com/v/3470696/?quality=12&learn=on&captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/3470692/?quality=12&learn=on&enablevpops=0)
 
 ## Actividad de filtro O
 

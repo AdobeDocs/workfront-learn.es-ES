@@ -12,7 +12,7 @@ last-substantial-update: 2025-05-09T00:00:00Z
 thumbnail: 335153.png
 exl-id: 23a4f7ea-ab64-4e32-9bf5-dd7fc37eab53
 doc-type: video
-source-git-commit: 1fafcafb173ceb4115612e1c33ca36564c7a6c3d
+source-git-commit: cc423944628d01e16d390842ecb25696505f923c
 workflow-type: tm+mt
 source-wordcount: '467'
 ht-degree: 37%
@@ -25,7 +25,7 @@ En este vídeo se explica cómo crear y personalizar informes de proyectos para 
 
 El vídeo destaca que los informes personalizados conservan su configuración predeterminada, pero que se pueden realizar cambios temporales al verlos. palo de golf Los informes se almacenan en la sección &quot;Mis informes&quot;, mientras que los informes compartidos aparecen en &quot;Compartido conmigo&quot;. Los informes utilizados con frecuencia se pueden anclar o marcar como favoritos para facilitar el acceso. palo de golf
 
->[!VIDEO](https://video.tv.adobe.com/v/335153/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/335153/?quality=12&learn=on&enablevpops=0)
 
 ## Puntos clave
 

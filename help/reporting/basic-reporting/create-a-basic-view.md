@@ -12,7 +12,7 @@ last-substantial-update: 2025-06-06T00:00:00Z
 jira: KT-8854
 exl-id: ba3c0e10-dcf1-4a7b-bf11-ccfed9040e6d
 doc-type: video
-source-git-commit: 1fafcafb173ceb4115612e1c33ca36564c7a6c3d
+source-git-commit: cc423944628d01e16d390842ecb25696505f923c
 workflow-type: tm+mt
 source-wordcount: '976'
 ht-degree: 73%
@@ -25,7 +25,7 @@ En el vídeo se explica cómo crear y personalizar vistas en Workfront para most
 
 El vídeo destaca la flexibilidad de las vistas en Workfront y proporciona instrucciones paso a paso para crearlas, personalizarlas y administrarlas.
 
->[!VIDEO](https://video.tv.adobe.com/v/3450241/?quality=12&learn=on&captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/335148/?quality=12&learn=on&enablevpops=0)
 
 ## Puntos clave
 
@@ -150,7 +150,7 @@ Cree una vista de plantilla de proyecto denominada “Estándar+estado activo”
 * [!UICONTROL Horas planificadas]
 * [!UICONTROL Coste planificado]
 * [!UICONTROL Indicadores]
-* [!UICONTROL Nombre del grupo &#x200B;]
+* [!UICONTROL Nombre del grupo ]
 * [!UICONTROL Está activo]
 
 
