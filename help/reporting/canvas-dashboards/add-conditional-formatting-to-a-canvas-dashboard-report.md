@@ -35,8 +35,8 @@ Las primeras cosas que debe hacer para poder crear un **informe** de panel de li
 >[!VIDEO](https://video.tv.adobe.com/v/3474973/?quality=12&learn=on&enablevpops=1)
 
 **Para obtener más información, consulte los siguientes artículos de ayuda:**
-[Información general sobre paneles de lienzo](https://experienceleague.adobe.com/en/docs/workfront/using/reporting/canvas-dashboards/canvas-dashboards-overview)
-[Crear un informe de tabla en un panel de lienzo](https://experienceleague.adobe.com/en/docs/workfront/using/reporting/canvas-dashboards/add-reports/build-table-report)
+[Información general sobre paneles de lienzo](https://experienceleague.adobe.com/es/docs/workfront/using/reporting/canvas-dashboards/canvas-dashboards-overview)
+[Crear un informe de tabla en un panel de lienzo](https://experienceleague.adobe.com/es/docs/workfront/using/reporting/canvas-dashboards/add-reports/build-table-report)
 
 ## Tutoriales recomendados sobre este tema
 

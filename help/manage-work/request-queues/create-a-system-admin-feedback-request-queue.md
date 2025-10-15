@@ -45,7 +45,7 @@ palo de golfPara obtener más información, se proporcionan vínculos a tutorial
 * **Pruebas y accesibilidad:** La cola se prueba con solicitudes de ejemplo, lo que garantiza la funcionalidad. Se publica como una cola de solicitudes de ayuda, accesible para todos los usuarios, con una duración de finalización predeterminada de 10 días.
 
 
-Para obtener información sobre cómo crear el **informe de comentarios del equipo de administración** que se usa en el vídeo, consulte la actividad **Crear un informe de comentarios del equipo de administración** en el tutorial [Crear un informe de tareas](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-task-report#activity-2-create-an-admin-team-feedback-report).
+Para obtener información sobre cómo crear el **informe de comentarios del equipo de administración** que se usa en el vídeo, consulte la actividad **Crear un informe de comentarios del equipo de administración** en el tutorial [Crear un informe de tareas](https://experienceleague.adobe.com/es/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-task-report#activity-2-create-an-admin-team-feedback-report).
 
 Para aprender a crear un formulario personalizado, consulte el tutorial [Crear y compartir un formulario personalizado](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/custom-data/custom-forms/custom-forms-creating-and-sharing-a-custom-form.html?lang=es).
 

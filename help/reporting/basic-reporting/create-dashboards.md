@@ -41,7 +41,7 @@ palo de golfEn él se explica que un tablero es una colección de informes que p
 
 Crear un [!UICONTROL tablero] con un solo informe:&quot;Buscar notas en este proyecto&quot;. Esto es útil para encontrar rápidamente cualquier actualización realizada en un proyecto, incluso si hay miles de actualizaciones para buscar. Esto buscará en los subprocesos de actualización para extraer rápidamente cualquier actualización que cumpla los criterios especificados en los mensajes.
 
-Cree este informe haciendo una copia del informe &quot;Notas de búsqueda&quot; que creó en la actividad &quot;Crear un informe de notas&quot;. ¿Aún no lo ha creado? Haga clic aquí para ver la actividad en el tutorial [Crear un informe de tareas](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-task-report#activity-1-create-a-note-report-with-prompts).
+Cree este informe haciendo una copia del informe &quot;Notas de búsqueda&quot; que creó en la actividad &quot;Crear un informe de notas&quot;. ¿Aún no lo ha creado? Haga clic aquí para ver la actividad en el tutorial [Crear un informe de tareas](https://experienceleague.adobe.com/es/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-task-report#activity-1-create-a-note-report-with-prompts).
 
 * Elimine el mensaje Nombre del proyecto de la copia y cambie el nombre del informe a &quot;Notas de búsqueda en este proyecto&quot;.
 * Asigne un nombre al [!UICONTROL panel] &quot;Notas de búsqueda&quot;.
@@ -50,7 +50,7 @@ Cree este informe haciendo una copia del informe &quot;Notas de búsqueda&quot; 
 
 ### Respuesta 1
 
-1. Ejecute el informe que ha creado en la actividad Crear un informe de notas. ¿Aún no lo ha creado? Haga clic aquí para ver la actividad en el tutorial [Crear un informe de tareas](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-task-report#activity-1-create-a-note-report-with-prompts).
+1. Ejecute el informe que ha creado en la actividad Crear un informe de notas. ¿Aún no lo ha creado? Haga clic aquí para ver la actividad en el tutorial [Crear un informe de tareas](https://experienceleague.adobe.com/es/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-task-report#activity-1-create-a-note-report-with-prompts).
 1. Haga clic en **[!UICONTROL Acciones de informe]** y seleccione **[!UICONTROL Copiar]**. [!DNL Workfront] crea un nuevo informe denominado &quot;Búsqueda de notas (copia)&quot;.
 1. Vaya a **[!UICONTROL Acciones de informe]** y seleccione **[!UICONTROL Editar]**. Haga clic en **[!UICONTROL Configuración de informes]** y cambie el nombre a &quot;Buscar notas en este proyecto&quot;.
 1. Haga clic en [!UICONTROL Mensajes del informe] y elimine el mensaje [!UICONTROL Proyecto] > [!UICONTROL Nombre] de la lista.
