@@ -73,7 +73,7 @@ Se acerca el final del trimestre y usted quiere ver cómo se han ajustado a sus 
 1. En la pestaña **[!UICONTROL Filtros]** agregue estas dos reglas de filtro:
 
    * [!UICONTROL Proyecto] > [!UICONTROL Estado equivale a] > [!UICONTROL Completar]
-   * [!UICONTROL Proyecto] >[!UICONTROL  Fecha de finalización real] > [!UICONTROL Último trimestre]
+   * [!UICONTROL Proyecto] >[!UICONTROL &#x200B; Fecha de finalización real] > [!UICONTROL Último trimestre]
 
    ![Imagen de la pantalla para agregar filtros a un informe](assets/chart-report-filters.png)
 
