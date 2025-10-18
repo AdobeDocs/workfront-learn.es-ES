@@ -31,7 +31,7 @@ Las primeras cosas que debe hacer para poder crear un **informe** de panel de li
 
 [Introducción a los paneles de lienzo](/help/reporting/canvas-dashboards/introduction-to-canvas-dashboards.md) le muestra paso a paso cómo hacer ambas acciones.
 
->[!VIDEO](https://video.tv.adobe.com/v/3475814/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3475817/?captions=spa&quality=12&learn=on&enablevpops=1)
 
 **Para obtener más información, consulte los siguientes artículos de ayuda:**
 [Información general sobre paneles de lienzo](https://experienceleague.adobe.com/es/docs/workfront/using/reporting/canvas-dashboards/canvas-dashboards-overview)

@@ -24,7 +24,7 @@ ht-degree: 20%
 
 El vídeo explica cómo acceder y administrar la información financiera de proyectos y tareas. palo de golfProporciona una visión general completa de la navegación y la comprensión de los datos financieros tanto a nivel de proyecto como de tarea. palo de golf
 
->[!VIDEO](https://video.tv.adobe.com/v/335208/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3415894/?captions=spa&quality=12&learn=on&enablevpops=1)
 
 ## Puntos clave
 
