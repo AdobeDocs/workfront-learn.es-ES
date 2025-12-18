@@ -9,13 +9,14 @@ level: Beginner
 team: Technical Marketing
 jira: KT-8811
 doc-type: video
+last-substantial-update: 2025-12-18T00:00:00Z
 exl-id: 1a9b767c-3efd-4ecd-9a99-178586cc6774
 badgeIntegration: label="Integración" type="positive"
 feature-set: Workfront
 topic: Integrations
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 67237825d4d14091c1664993a65b2658c4f700dd
 workflow-type: tm+mt
-source-wordcount: '208'
+source-wordcount: '174'
 ht-degree: 100%
 
 ---
@@ -25,7 +26,6 @@ ht-degree: 100%
 Integre Workfront con Creative Cloud para buscar y actualizar el trabajo asignado en Adobe Workfront sin salir de las siguientes aplicaciones de Adobe Creative Cloud:
 
 * Photoshop
-* XD
 * InDesign
 * Illustrator
 * Premiere Pro
@@ -34,12 +34,7 @@ Integre Workfront con Creative Cloud para buscar y actualizar el trabajo asignad
 Debe instalar el complemento correcto para la aplicación de Adobe Creative Cloud que está utilizando:
 
 * Para Photoshop, consulte [Instalación y apertura de Adobe Workfront para Photoshop](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-creative-cloud/install-wf-cc/wf-cc-install-ps.html?lang=es-ES)
-* Para XD, consulte [Instalar y abrir Adobe Workfront para XD](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-creative-cloud/install-wf-cc/wf-adobe-xd-install.html?lang=es-ES)
 * Para InDesign, Illustrator, Premiere Pro y After Effects, consulte [Instalación y apertura de Adobe Workfront para diseño y vídeo](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-creative-cloud/install-wf-cc/wf-install-cc.html?lang=es-ES)
-
->[!NOTE]
->
->La carga de vídeo de **Premiere Pro** y **After Effects** y la revisión y aprobación en Workfront, no están disponibles en este momento a través del complemento.
 
 
 En este vídeo, aprenderá a hacer lo siguiente desde la aplicación de Creative Cloud:
@@ -48,8 +43,8 @@ En este vídeo, aprenderá a hacer lo siguiente desde la aplicación de Creative
 * Cargar archivos a Workfront
 * Agregar comentarios y etiquetar integrantes del equipo
 * Solicitar aprobaciones de documentos
-* Cargar pruebas y asignar un flujo de trabajo de pruebas
+* Cargar revisiones y asignar un flujo de trabajo de revisiones
 * Hora de registro
 * Marque el trabajo completado
 
->[!VIDEO](https://video.tv.adobe.com/v/3420643/?quality=12&learn=on&enablevpops=1&captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/3415452/?quality=12&learn=on&enablevpops=1)
