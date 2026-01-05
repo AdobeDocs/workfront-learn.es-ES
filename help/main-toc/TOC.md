@@ -344,7 +344,7 @@ ht-degree: 92%
       + [Mejore el flujo de trabajo con la integración de G Suite](/help/integrations/g-suite-integrations/worfront-for-g-suite-integrations.md)
 
    + Jira {#jira}
-      + [Cree visibilidad con la integración  [!DNL Jira] &#x200B;](/help/integrations/jira/jira.md)
+      + [Cree visibilidad con la integración  [!DNL Jira] ](/help/integrations/jira/jira.md)
 
    + Microsoft Outlook {#outlook}
       + [Instalación del complemento de Microsoft Outlook](/help/integrations/outlook/integrations-microsoft-outlook.md)
@@ -469,9 +469,9 @@ ht-degree: 92%
       + [Prueba e inicio](/help/fusion/11-design-optimization-and-testing/testing-considerations.md)
 
 + Revisión de Workfront {#workfront-proof}
-   + [Conozca las ventajas de las pruebas](/help/workfront-proof/benefits-of-proofing-in-workfront.md)
+   + [Conozca las ventajas de las revisiones](/help/workfront-proof/benefits-of-proofing-in-workfront.md)
    + [Comprender la diferencia entre un documento y una prueba](/help/workfront-proof/document-vs-proof.md)
-   + [Explicación del visualizador de prueba](/help/workfront-proof/two-options-for-the-proofing-viewers.md)
+   + [Explicación del visualizador de revisión](/help/workfront-proof/two-options-for-the-proofing-viewers.md)
 
    + Administración y configuración {#administration-and-setup-for-proof}
       + [¿Qué es una plantilla de flujo de trabajo automatizada?](/help/workfront-proof/administration-and-setup/what-is-an-automated-workflow-template.md)
@@ -522,7 +522,7 @@ ht-degree: 92%
       + [Comprender  [!DNL Workfront DAM]](/help/workfront-dam/system-setup/introduction-to-workfront-dam.md)
       + [Comprender la configuración del sistema](/help/workfront-dam/system-setup/system-setup-system-settings.md)
       + [Comprender [!UICONTROL Brand Portal]](/help/workfront-dam/system-setup/brand-connect-brand-portal-introduction.md)
-      + [Analizar y planificar una estrategia de  [!DNL Workfront DAM] &#x200B;](/help/workfront-dam/system-setup/analyze-and-plan-to-develop-a-workfront-dam-strategy.md)
+      + [Analizar y planificar una estrategia de  [!DNL Workfront DAM] ](/help/workfront-dam/system-setup/analyze-and-plan-to-develop-a-workfront-dam-strategy.md)
       + [Configurar grupos y usuarios](/help/workfront-dam/system-setup/system-setup-groups-and-users.md)
       + [Configuración de la integración en Workfront](/help/workfront-dam/system-setup/configure-the-integration-in-workfront.md)
       + [Personalizar [!DNL Workfront DAM]](/help/workfront-dam/system-setup/system-setup-customize-workfront-dam.md)
