@@ -1,5 +1,5 @@
 ---
-title: Introducción a la administración de un proyecto
+title: Administrar un proyecto con estado actual
 description: Realice un seguimiento eficaz del progreso del proyecto con los informes, administre las dependencias a través de las vistas de Gantt, supervise las tareas y las aprobaciones, mejore la comunicación del equipo y garantice flujos de trabajo fluidos con actualizaciones frecuentes.
 activity: use
 feature: Work Management,Get Started with Workfront
@@ -13,20 +13,20 @@ recommendations: noDisplay,catalog
 jira: KT-8781
 exl-id: 4202941d-eb2d-43b5-91e8-06b0076a470d
 doc-type: video
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 06aa10f55d388112c486fce3d544e6a2cf7ef8da
 workflow-type: tm+mt
-source-wordcount: '176'
-ht-degree: 17%
+source-wordcount: '178'
+ht-degree: 12%
 
 ---
 
-# Introducción a la administración de un proyecto
+# Administrar un proyecto con estado actual
 
 El vídeo proporciona información general sobre la administración de un proyecto después de que su estado se cambie a &quot;Actual&quot;.
 
->[!VIDEO](https://video.tv.adobe.com/v/3445170/?quality=12&learn=on&enablevpops=1&captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/335094/?quality=12&learn=on&enablevpops=1)
 
-## Puntos clave
+## Principales conclusiones
 
 * **Supervisión del progreso:** Los proyectos con estado &quot;Actual&quot; aparecen en los informes, lo que permite a los administradores realizar un seguimiento del progreso (según lo programado, retrasado o con vencimiento).
 * **Dependencias entre proyectos:** las dependencias se pueden administrar y ver en la vista Gantt del proyecto, con opciones para explorar en profundidad y obtener información detallada.

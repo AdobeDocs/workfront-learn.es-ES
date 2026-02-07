@@ -1,5 +1,5 @@
 ---
-title: Gestión de trabajo no planificado
+title: Gestión eficaz del trabajo no planificado
 description: Mejore la administración de proyectos en Workfront mediante el seguimiento y la resolución efectivos de problemas, el uso de herramientas de registro, la implementación de prácticas recomendadas, el fomento de la comunicación y la conversión fluida de problemas en tareas para una ejecución optimizada.
 activity: use
 team: Technical Marketing
@@ -12,21 +12,21 @@ last-substantial-update: 2024-06-26T00:00:00Z
 recommendations: noDisplay,catalog
 jira: KT-10070
 exl-id: 43caddaf-5fd8-4580-9a37-59b5ecc57c91
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 06aa10f55d388112c486fce3d544e6a2cf7ef8da
 workflow-type: tm+mt
-source-wordcount: '264'
-ht-degree: 12%
+source-wordcount: '266'
+ht-degree: 10%
 
 ---
 
-# Gestión de trabajo no planificado
+# Gestión eficaz del trabajo no planificado
 
 En el vídeo se destaca la importancia de la comunicación en la gestión de proyectos y se destaca el papel de las cuestiones como instrumento clave para facilitar la comunicación. palo de golf Explica la diferencia entre las actualizaciones y los problemas, teniendo en cuenta que los problemas son más adecuados para el trabajo que debe asignarse, seguirse y resolverse antes de que se pueda completar un proyecto. palo de golf El vídeo proporciona una guía paso a paso sobre cómo registrar problemas. palo de golf
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3446569/?quality=12&learn=on&enablevpops=1&captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/3419488/?quality=12&learn=on&enablevpops=1)
 
-## Puntos clave
+## Principales conclusiones
 
 * **Problemas vs. Actualizaciones:** Use problemas para tareas que deben asignarse, seguirse y resolverse antes de la finalización del proyecto, ya que son más fáciles de supervisar y organizar en comparación con las actualizaciones. palo de golf
 * **Problemas de registro:** Los problemas se pueden registrar en el nivel de tarea o proyecto a través de la ficha PROBLEMAS. palo de golf Se pueden establecer prioridades y se pueden configurar notificaciones por correo electrónico para asignaciones y actualizaciones.

@@ -1,5 +1,5 @@
 ---
-title: Realizar una solicitud
+title: Creación y administración de solicitudes en Workfront
 description: Mejore la eficacia en Workfront con la creación optimizada de solicitudes, los flujos de trabajo personalizables, el guardado automático de borradores, las herramientas de seguimiento y filtrado, y la capacidad de copiar y reutilizar solicitudes.
 activity: use
 feature: Work Management,Get Started with Workfront
@@ -13,20 +13,20 @@ jira: KT-8806
 exl-id: 07a4824e-809e-4649-b669-865519b95f1f
 recommendations: noDisplay,catalog
 doc-type: video
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 06aa10f55d388112c486fce3d544e6a2cf7ef8da
 workflow-type: tm+mt
-source-wordcount: '254'
-ht-degree: 13%
+source-wordcount: '260'
+ht-degree: 11%
 
 ---
 
-# Realizar una solicitud
+# Creación y administración de solicitudes en Workfront
 
 El vídeo proporciona una guía detallada sobre cómo realizar y administrar solicitudes en Workfront. Explica el proceso de creación de una solicitud, empezando por seleccionar &quot;Solicitudes&quot; en el menú principal y haciendo clic en el botón &quot;Nueva solicitud&quot;. palo de golf Los usuarios pueden elegir un tipo de solicitud de colas personalizadas y adaptadas a los flujos de trabajo de su organización.
 
->[!VIDEO](https://video.tv.adobe.com/v/3413113/?quality=12&learn=on&enablevpops=1&captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/336092/?quality=12&learn=on&enablevpops=1)
 
-## Puntos clave
+## Principales conclusiones
 
 * **Creación de solicitudes optimizada:** Los usuarios pueden crear solicitudes fácilmente seleccionando &quot;Solicitudes&quot; en el menú principal, eligiendo un tipo de solicitud, rellenando los campos obligatorios y adjuntando los documentos pertinentes. palo de golf
 * **Flujos de trabajo personalizables:** las colas y los formularios de solicitud se adaptan a los flujos de trabajo de la organización, lo que permite a los usuarios especificar detalles (por ejemplo, en la tienda, al aire libre, medios sociales) y prioridad.

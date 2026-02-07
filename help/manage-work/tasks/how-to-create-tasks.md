@@ -1,5 +1,5 @@
 ---
-title: Crear tareas
+title: Cree tareas de forma eficaz en Workfront
 description: Simplifique la creación de tareas con opciones para la edición detallada o en línea, la recolocación flexible, las vistas personalizadas para campos adicionales y la ubicación específica, como el uso de "Insertar tarea debajo" en Workfront.
 feature: Work Management
 thumbnail: how-to-create-tasks.jpeg
@@ -10,21 +10,21 @@ last-substantial-update: 2023-05-15T00:00:00Z
 recommendations: noDisplay,catalog
 jira: KT-10151
 exl-id: 68102c46-80be-4255-89b8-38022d421c6c
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 06aa10f55d388112c486fce3d544e6a2cf7ef8da
 workflow-type: tm+mt
-source-wordcount: '195'
-ht-degree: 10%
+source-wordcount: '201'
+ht-degree: 9%
 
 ---
 
-# Crear tareas
+# Cree tareas de forma eficaz en Workfront
 
 El vídeo proporciona un tutorial sobre la creación de tareas en un proyecto de Workfront, que cubre el método largo y los métodos abreviados prácticos. Hace hincapié en la flexibilidad en la creación de tareas y proporciona sugerencias para una administración eficiente de las tareas.
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3423162/?quality=12&learn=on&enablevpops=1&captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/3419372/?quality=12&learn=on&enablevpops=1)
 
-## Puntos clave
+## Principales conclusiones
 
 * **Métodos de creación de tareas:** Utilice el botón &quot;Nueva tarea&quot; para la creación detallada de tareas o el botón &quot;Agregar más tareas&quot; para la edición rápida en línea.
 * **Campos obligatorios:** &#x200B;Solo el nombre de la tarea es obligatorio; otros campos como la descripción, la duración y las asignaciones son opcionales y se pueden agregar más adelante. palo de golf

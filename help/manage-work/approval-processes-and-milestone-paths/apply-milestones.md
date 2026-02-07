@@ -1,5 +1,5 @@
 ---
-title: Aplicar hitos
+title: Aplicar rutas de hitos a proyectos y tareas
 description: Obtenga información sobre cómo aplicar rutas de hitos a un proyecto y asociar tareas clave como pasos de hito dentro del proyecto.
 feature: Work Management
 thumbnail: 335205.jpeg
@@ -13,14 +13,14 @@ recommendations: noDisplay,catalog
 jira: KT-8933
 exl-id: 69674b7b-21e3-48b1-9385-7446e3124b83
 doc-type: video
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 06aa10f55d388112c486fce3d544e6a2cf7ef8da
 workflow-type: tm+mt
-source-wordcount: '85'
-ht-degree: 100%
+source-wordcount: '100'
+ht-degree: 79%
 
 ---
 
-# Aplicar hitos
+# Aplicar rutas de hitos a proyectos y tareas
 
 Este vídeo contiene información sobre:
 
@@ -28,7 +28,7 @@ Este vídeo contiene información sobre:
 * Agregar un hito a una tarea
 * Prácticas recomendadas para aplicar hitos
 
->[!VIDEO](https://video.tv.adobe.com/v/3430281/?quality=12&learn=on&enablevpops=1&captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/335205/?quality=12&learn=on&enablevpops=1)
 
 >[!TIP]
 >
@@ -37,5 +37,5 @@ Este vídeo contiene información sobre:
 ## Tutoriales recomendados sobre este tema
 
 * [Ver hitos](/help/manage-work/approval-processes-and-milestone-paths/view-milestones.md)
-* [Crear hitos](/help/administration-and-setup/approval-processes-and-milestone-paths/creating-milestones.md)
+* [Aplicar rutas de hitos a proyectos y tareas](/help/administration-and-setup/approval-processes-and-milestone-paths/creating-milestones.md)
 * [Actividad de vista de hitos en Crear una vista básica](/help/reporting/basic-reporting/create-a-basic-view.md)

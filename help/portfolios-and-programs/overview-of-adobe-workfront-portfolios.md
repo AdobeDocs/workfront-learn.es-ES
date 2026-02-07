@@ -1,5 +1,5 @@
 ---
-title: Comprensión de los portafolios
+title: Explorar la administración y optimización del portafolio
 description: Optimice la selección de proyectos en Workfront utilizando Portfolio Optimizer, creando portafolios con acceso administrado, organizando proyectos y programas y preparando casos comerciales para la toma de decisiones informada.
 activity: use
 team: Technical Marketing
@@ -12,21 +12,21 @@ recommendations: noDisplay,catalog
 jira: KT-13837
 level: Beginner
 exl-id: daa4c8f8-9b15-4de1-8976-547a6362e952
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 06aa10f55d388112c486fce3d544e6a2cf7ef8da
 workflow-type: tm+mt
-source-wordcount: '279'
+source-wordcount: '285'
 ht-degree: 7%
 
 ---
 
-# Comprensión de los portafolios
+# Explorar la administración y optimización del portafolio
 
 El vídeo explica la administración de portafolios, centrándose en cómo los administradores pueden optimizar la selección de proyectos para alinearse con los objetivos de la compañía. palo de golf Presenta el concepto de portafolios como colecciones de proyectos que compiten por recursos compartidos, presupuestos y programaciones. palo de golf Los administradores pueden utilizar herramientas como Portfolio Optimizer para comparar proyectos en función de criterios como mano de obra, gastos, riesgo, ROI y alineación con objetivos de portafolio. palo de golf La preparación de proyectos para la comparación implica la creación de un caso empresarial para cada uno. palo de golf
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3442831/?quality=12&learn=on&enablevpops=1&captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/3442807/?quality=12&learn=on&enablevpops=1)
 
-## Puntos clave
+## Principales conclusiones
 
 * **Optimización de Portfolio:** Los administradores usan herramientas como Portfolio Optimizer para comparar proyectos basados en criterios como mano de obra, gastos, riesgo, ROI y alineación con objetivos de portafolio para priorizar y seleccionar proyectos de manera eficaz.
 * **Creación de Portfolio:** Los portafolios se crean navegando a la sección Portfolio, haciendo clic en &quot;Nuevo Portfolio&quot; y asignando un administrador de Portfolio. palo de golf El creador y el administrador tienen inicialmente acceso exclusivo. palo de golf

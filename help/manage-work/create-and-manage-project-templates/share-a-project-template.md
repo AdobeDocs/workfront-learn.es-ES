@@ -1,5 +1,5 @@
 ---
-title: Compartir una plantilla de proyecto
+title: Uso compartido efectivo de una plantilla de proyecto
 description: Aprenda cómo compartir una plantilla de proyecto y cómo compartir proyectos creados a partir de una plantilla.
 activity: use
 feature: Work Management
@@ -12,21 +12,21 @@ recommendations: noDisplay,catalog
 jira: KT-8951
 exl-id: 9179fbc8-1000-4215-b2c3-de617c7f1d80
 doc-type: video
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 06aa10f55d388112c486fce3d544e6a2cf7ef8da
 workflow-type: tm+mt
-source-wordcount: '77'
-ht-degree: 100%
+source-wordcount: '79'
+ht-degree: 87%
 
 ---
 
-# Compartir una plantilla de proyecto
+# Uso compartido efectivo de una plantilla de proyecto
 
 Aprenderá lo siguiente:
 
 * Compartir una plantilla con otros usuarios
 * Compartir proyectos creados mediante una plantilla
 
->[!VIDEO](https://video.tv.adobe.com/v/3415437/?quality=12&learn=on&enablevpops=1&captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/335211/?quality=12&learn=on&enablevpops=1)
 
 ## Tutoriales recomendados sobre este tema
 

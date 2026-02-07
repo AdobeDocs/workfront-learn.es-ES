@@ -1,5 +1,5 @@
 ---
-title: Actualización del estado del problema
+title: Actualizar estados de problemas de forma eficaz
 description: Obtenga información sobre los estados de problemas y las prácticas recomendadas para utilizarlos.
 feature: Work Management
 type: Tutorial
@@ -9,20 +9,20 @@ last-substantial-update: 2025-09-03T00:00:00Z
 recommendations: noDisplay,catalog
 jira: KT-18800
 exl-id: 61602f6f-900e-402b-b1fb-88da53fc81b9
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 06aa10f55d388112c486fce3d544e6a2cf7ef8da
 workflow-type: tm+mt
 source-wordcount: '194'
-ht-degree: 17%
+ht-degree: 14%
 
 ---
 
-# Actualización del estado del problema
+# Actualizar estados de problemas de forma eficaz
 
 En este vídeo aprenderá sobre los estados de problemas y las prácticas recomendadas para utilizarlos.
 
->[!VIDEO](https://video.tv.adobe.com/v/3472968/?quality=12&learn=on&enablevpops=1&captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/3472962/?quality=12&learn=on&enablevpops=1)
 
-## Puntos clave
+## Principales conclusiones
 
 * **¿En qué se diferencian los problemas de las tareas?** problemas difieren de las tareas en que un problema representa trabajo no planificado. Si un problema debe incluirse como trabajo planificado, debe convertirse en una tarea o un proyecto.
 * **¿Por qué es importante revisar rápidamente los problemas de un proyecto?** Cuando tiene problemas pendientes en un proyecto, representan un riesgo potencial para la programación o el presupuesto del proyecto y se deben asignar rápidamente a alguien que pueda investigarlos y tomar o recomendar las medidas adecuadas.

@@ -1,5 +1,5 @@
 ---
-title: Introducción a la planificación de un proyecto
+title: Planificar un proyecto de forma eficaz en Workfront
 description: Optimice la planificación de proyectos centrándose en los campos clave, estableciendo el estado en "Planificación", utilizando las vistas adecuadas, seleccionando fechas de inicio realistas y aprovechando los modos de programación para obtener plazos precisos.
 activity: use
 feature: Work Management,Get Started with Workfront
@@ -12,22 +12,22 @@ recommendations: noDisplay,catalog
 jira: KT-8772
 exl-id: 6df467a3-6e26-4bd4-94ac-b77cd43b5aa3
 doc-type: video
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 06aa10f55d388112c486fce3d544e6a2cf7ef8da
 workflow-type: tm+mt
-source-wordcount: '273'
-ht-degree: 14%
+source-wordcount: '275'
+ht-degree: 11%
 
 ---
 
-# Introducción a la planificación de un proyecto
+# Planificar un proyecto de forma eficaz en Workfront
 
 El vídeo proporciona instrucciones sobre cómo planificar eficazmente un proyecto en Workfront. palo de golf Hace hincapié en la importancia de sentar una base sólida para garantizar que el proyecto finalice a tiempo y tenga éxito. palo de golf Los pasos clave incluyen comprender cinco campos esenciales: Tareas, Asignaciones, Duraciones, Horas planificadas y Predecesoras. palo de golf Estos campos permiten realizar ajustes rápidos y precisos en el plan del proyecto. palo de golf
 
 El vídeo destaca la importancia de contar con plazos realistas, disponibilidad del equipo y una planificación precisa para crear una base sólida para el éxito del proyecto. palo de golf
 
->[!VIDEO](https://video.tv.adobe.com/v/3448570/?quality=12&learn=on&enablevpops=1&captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/335086/?quality=12&learn=on&enablevpops=1)
 
-## Puntos clave
+## Principales conclusiones
 
 * **Céntrese en cinco campos clave:** Comprenda las tareas, las asignaciones, las duraciones, las horas planificadas y las tareas predecesoras para realizar cambios eficientes y precisos en el plan del proyecto. palo de golf
 * **Establecer el estado del proyecto en &quot;Planificación&quot;:** Asegúrese de que el estado del proyecto se establece en &quot;Planificación&quot; para evitar notificaciones innecesarias al ajustar el plan. palo de golf

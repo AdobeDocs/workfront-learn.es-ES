@@ -1,5 +1,5 @@
 ---
-title: Encontrar proyectos
+title: Buscar proyectos de forma eficaz
 description: Simplifique la administración de proyectos con filtros, herramientas de búsqueda, listas recientes, favoritos, proyectos anclados e informes o paneles personalizados para un acceso rápido y organizado a los proyectos.
 activity: use
 feature: Work Management,Get Started with Workfront
@@ -13,20 +13,20 @@ recommendations: noDisplay,catalog
 jira: KT-15115
 exl-id: 2d894587-60ad-4d1e-961f-886a8accfb17
 doc-type: video
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 06aa10f55d388112c486fce3d544e6a2cf7ef8da
 workflow-type: tm+mt
-source-wordcount: '173'
-ht-degree: 21%
+source-wordcount: '175'
+ht-degree: 20%
 
 ---
 
-# Encontrar proyectos
+# Buscar proyectos de forma eficaz
 
 En este vídeo, aprenderá algunas formas rápidas y sencillas de encontrar proyectos.
 
->[!VIDEO](https://video.tv.adobe.com/v/3439551/?quality=12&learn=on&enablevpops=1&captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/3427788/?quality=12&learn=on&enablevpops=1)
 
-## Puntos clave
+## Principales conclusiones
 
 * **Filtros y opciones de búsqueda:** Use filtros y herramientas de búsqueda, incluida la Búsqueda avanzada, para localizar rápidamente proyectos específicos basados en nombres, descripciones o campos de datos personalizados. palo de golf
 * **Lista de recientes:** Los proyectos vistos recientemente aparecen automáticamente en la lista Recientes, que puede mostrar hasta 20 proyectos para acceso rápido. palo de golf

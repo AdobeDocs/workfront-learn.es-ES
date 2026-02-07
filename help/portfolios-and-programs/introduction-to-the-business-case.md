@@ -1,5 +1,5 @@
 ---
-title: Información sobre el [!UICONTROL Caso empresarial]
+title: Cree un caso empresarial completo
 description: Cree casos empresariales completos en Workfront para priorizar los proyectos mediante la inclusión de información detallada del proyecto, gastos, análisis de mano de obra y riesgos, cuadros de resultados y formularios personalizados para una administración de cartera informada.
 activity: use
 team: Technical Marketing
@@ -12,20 +12,20 @@ jira: KT-13836
 role: User
 level: Intermediate
 exl-id: febb7378-81d4-4348-ac57-e9c4756966c0
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 06aa10f55d388112c486fce3d544e6a2cf7ef8da
 workflow-type: tm+mt
-source-wordcount: '243'
-ht-degree: 9%
+source-wordcount: '245'
+ht-degree: 7%
 
 ---
 
-# Información sobre el [!UICONTROL Caso empresarial]
+# Cree un caso empresarial completo
 
 El vídeo explica la importancia de un caso empresarial en la administración de proyectos. Hace hincapié en que completar el caso empresarial ayuda a los administradores a analizar y priorizar los proyectos que compiten por los mismos recursos. palo de golf Una vez finalizado, al enviar el caso empresarial, el estado del proyecto cambia a Solicitado y se calcula su puntuación general para la comparación en la herramienta de optimización de Portfolio. palo de golf Aunque ninguno de los campos es obligatorio, una información más detallada mejora la toma de decisiones. palo de golf
 
->[!VIDEO](https://video.tv.adobe.com/v/3442847/?quality=12&learn=on&enablevpops=1&captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/3442843/?quality=12&learn=on&enablevpops=1)
 
-## Puntos clave
+## Principales conclusiones
 
 El vídeo describe las secciones clave del caso empresarial, como las siguientes:
 

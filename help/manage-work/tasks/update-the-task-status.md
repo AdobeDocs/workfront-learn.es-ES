@@ -1,5 +1,5 @@
 ---
-title: Actualizar el estado de la tarea
+title: Actualizar el estado de las tareas para obtener informes precisos
 description: Descubra cómo, por qué y con qué frecuencia actualizar el estado de la tarea.
 feature: Work Management
 type: Tutorial
@@ -9,20 +9,20 @@ last-substantial-update: 2025-08-26T00:00:00Z
 recommendations: noDisplay,catalog
 jira: KT-18799
 exl-id: 2b485695-578c-4c1d-b7c5-52af326487b2
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 06aa10f55d388112c486fce3d544e6a2cf7ef8da
 workflow-type: tm+mt
-source-wordcount: '155'
+source-wordcount: '159'
 ht-degree: 16%
 
 ---
 
-# Actualizar el estado de la tarea
+# Actualizar el estado de las tareas para obtener informes precisos
 
 El vídeo proporciona un tutorial sobre cómo, por qué y con qué frecuencia actualizar el estado de la tarea.
 
->[!VIDEO](https://video.tv.adobe.com/v/3471170/?quality=12&learn=on&enablevpops=1&captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/3471167/?quality=12&learn=on&enablevpops=1)
 
-## Puntos clave
+## Principales conclusiones
 
 * **¿Cómo se debe actualizar el estado de la tarea?** Hay varios lugares donde puede actualizar el estado de la tarea. El más común se encuentra en la lista de tareas de la página del proyecto.
 * **¿Por qué es importante actualizar el estado de la tarea?** Los informes de proyecto y tarea precisos y oportunos dependen totalmente de las actualizaciones de estado de los colaboradores individuales. Sin actualizaciones consistentes, la visibilidad sufre, las decisiones se estancan y el progreso corre el riesgo de desviarse del camino correcto.

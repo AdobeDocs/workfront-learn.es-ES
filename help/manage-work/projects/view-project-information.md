@@ -1,5 +1,5 @@
 ---
-title: Ver información del proyecto
+title: Explorar filtros, vistas y agrupaciones para la administración de proyectos
 description: Optimice los flujos de trabajo de los proyectos con filtros personalizables, vistas detalladas, agrupaciones eficientes, herramientas de administración de tareas y funciones de seguimiento de problemas para una organización y una claridad mejoradas.
 activity: use
 team: Technical Marketing
@@ -12,14 +12,14 @@ last-substantial-update: 2024-05-01T00:00:00Z
 recommendations: noDisplay,catalog
 jira: KT-10145
 exl-id: e89be0d0-4584-4985-8a6f-177ea6c5b951
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 06aa10f55d388112c486fce3d544e6a2cf7ef8da
 workflow-type: tm+mt
-source-wordcount: '417'
-ht-degree: 5%
+source-wordcount: '427'
+ht-degree: 4%
 
 ---
 
-# Ver información del proyecto
+# Explorar filtros, vistas y agrupaciones para la administración de proyectos
 
 Este vídeo proporciona información general sobre los filtros, las vistas y las agrupaciones en Workfront para ayudar a los usuarios a administrar y analizar proyectos, tareas y problemas de forma eficaz. palo de golf Los puntos clave incluyen:
 
@@ -33,9 +33,9 @@ Este vídeo proporciona información general sobre los filtros, las vistas y las
 
 El vídeo destaca la personalización y proporciona vínculos a tutoriales para un aprendizaje posterior. palo de golf
 
->[!VIDEO](https://video.tv.adobe.com/v/3453069/?quality=12&learn=on&enablevpops=1&captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/3428815/?quality=12&learn=on&enablevpops=1)
 
-## Puntos clave
+## Principales conclusiones
 
 * **Filtros personalizables:** Los filtros como &quot;Proyectos de mi propiedad&quot; y &quot;Retrasados de la programación&quot; ayudan a reducir las listas de proyectos, y los usuarios pueden personalizar o apilar filtros para obtener resultados más específicos. palo de golf
 * **Vistas detalladas:** Las vistas como &quot;Vista de todas las fechas&quot; y &quot;Vista de historia real&quot; proporcionan información sobre las fechas planificadas, proyectadas y reales, así como resúmenes de proyectos y actualizaciones de condiciones. palo de golf

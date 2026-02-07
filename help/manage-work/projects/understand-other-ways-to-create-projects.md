@@ -1,5 +1,5 @@
 ---
-title: Descubra cuatro formas para crear un proyecto
+title: Explore cuatro métodos para crear un proyecto
 description: Explore cómo crear proyectos de forma eficaz en Workfront mediante plantillas, empezando desde cero, copiando proyectos existentes o importando archivos de proyectos de Microsoft, adaptados a las diversas necesidades del usuario.
 activity: use
 feature: Work Management,Get Started with Workfront
@@ -13,14 +13,14 @@ recommendations: noDisplay,catalog
 last-substantial-update: 2024-03-05T00:00:00Z
 exl-id: 98eaadc5-1b1d-4641-83a5-818e7dd60769
 doc-type: video
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 06aa10f55d388112c486fce3d544e6a2cf7ef8da
 workflow-type: tm+mt
 source-wordcount: '472'
-ht-degree: 6%
+ht-degree: 4%
 
 ---
 
-# Descubra cuatro formas para crear un proyecto
+# Explore cuatro métodos para crear un proyecto
 
 El vídeo proporciona una guía completa sobre la creación de proyectos en Workfront mediante varios métodos:
 
@@ -55,9 +55,9 @@ El vídeo proporciona una guía completa sobre la creación de proyectos en Work
 
 El vídeo destaca la flexibilidad de Workfront para crear proyectos a través de plantillas, arañar, copiar o importar, para satisfacer diferentes necesidades del usuario. palo de golf
 
->[!VIDEO](https://video.tv.adobe.com/v/3432173/?quality=12&learn=on&enablevpops=1&captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/335084/?quality=12&learn=on&enablevpops=1)
 
-## Puntos clave
+## Principales conclusiones
 
 * **Las plantillas simplifican la creación de proyectos:**
 * Se recomienda encarecidamente utilizar una plantilla, ya que puede predefinir detalles clave como tareas, formularios y opciones de uso compartido, lo que ahorra tiempo y esfuerzo. palo de golf

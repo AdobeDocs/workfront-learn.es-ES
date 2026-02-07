@@ -1,5 +1,5 @@
 ---
-title: Crear una plantilla de proyecto y obtener información sobre [!UICONTROL modelos]
+title: Creación de una plantilla de proyecto y exploración de modelos
 description: Aprenda a crear una plantilla de proyecto desde cero a partir de un proyecto existente, y comprenda cómo los [!UICONTROL Modelos] le permiten acceder a un mundo de plantillas de proyecto útiles creadas por expertos en Workfront.
 activity: use
 feature: Work Management
@@ -13,14 +13,14 @@ recommendations: noDisplay,catalog
 jira: KT-8950
 exl-id: 1f706148-c001-42a8-a675-48e91d445f0b
 doc-type: video
-source-git-commit: cc423944628d01e16d390842ecb25696505f923c
+source-git-commit: 06aa10f55d388112c486fce3d544e6a2cf7ef8da
 workflow-type: tm+mt
-source-wordcount: '635'
+source-wordcount: '633'
 ht-degree: 54%
 
 ---
 
-# Crear una plantilla de proyecto y obtener más información acerca de los [!UICONTROL Modelos]
+# Creación de una plantilla de proyecto y exploración de modelos
 
 
 Aprenda a crear una plantilla de proyecto desde cero y a partir de un proyecto existente, y comprenda cómo los [!UICONTROL Modelos] le permiten acceder a un mundo de plantillas de proyecto útiles creadas por expertos en Workfront.
@@ -31,9 +31,9 @@ Aprenda a crear una plantilla de proyecto desde cero y a partir de un proyecto e
 * Una vez creada la plantilla, se puede utilizar para producir nuevos proyectos. El vídeo muestra cómo crear un nuevo proyecto a partir de la plantilla, realizar los ajustes necesarios y agregar tareas o modificar duraciones según sea necesario. palo de golf También muestra cómo asignar funciones de trabajo a tareas mediante las funciones de planificación y programación de recursos. palo de golf
 * En el vídeo se explica cómo guardar un proyecto existente como una plantilla nueva, lo que permite realizar actualizaciones y mejoras en el flujo de trabajo. palo de golf Destaca la importancia de administrar las plantillas para evitar confusiones y garantizar una ejecución del proyecto más ágil. palo de golf
 
->[!VIDEO](https://video.tv.adobe.com/v/3415443/?captions=spa&quality=12&learn=on&enablevpops=0)
+>[!VIDEO](https://video.tv.adobe.com/v/335210/?quality=12&learn=on&enablevpops=0)
 
-## Puntos clave
+## Principales conclusiones
 
 * **Creación de una plantilla:** Aprenda a crear una nueva plantilla desde cero asignándole un nombre, configurando tareas, escalas de tiempo y asignando roles. palo de golf
 * **Organización de tareas:** Use relaciones de tareas principales y secundarias para organizar las tareas de manera eficiente, proporcionando un resumen y una estructura claros para el proyecto. palo de golf

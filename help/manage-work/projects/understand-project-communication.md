@@ -1,5 +1,5 @@
 ---
-title: Comprender la comunicación del proyecto
+title: Mejore el éxito del proyecto mediante una comunicación eficaz
 description: Mejore el éxito del proyecto con una comunicación eficaz con las partes interesadas, claridad de las tareas, debates centralizados, informes precisos del estado y resolución proactiva de problemas para mantener la alineación y la eficacia.
 activity: use
 team: Technical Marketing
@@ -12,16 +12,17 @@ last-substantial-update: 2024-11-11T00:00:00Z
 recommendations: noDisplay,catalog
 jira: KT-10147
 exl-id: 0f2a2c78-8844-47b1-b0db-542392d9ce97
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 06aa10f55d388112c486fce3d544e6a2cf7ef8da
 workflow-type: tm+mt
-source-wordcount: '398'
-ht-degree: 15%
+source-wordcount: '404'
+ht-degree: 14%
 
 ---
 
-# Comprender la comunicación del proyecto
+# Mejore el éxito del proyecto mediante una comunicación eficaz
 
 El video enfatiza la importancia de una comunicación efectiva para el éxito del proyecto y proporciona estrategias para garantizar la claridad y eficiencia en la gestión del proyecto. palo de golf Los puntos clave incluyen:
+
 * **Comunicación con las partes interesadas:** Mantenga a las partes interesadas informadas sobre el progreso del proyecto, los problemas y las resoluciones. palo de golf Es esencial contar con actualizaciones regulares adaptadas a sus necesidades. palo de golf
 * **Claridad de la tarea:** Asegúrese de que los miembros del equipo comprendan sus responsabilidades para evitar confusión y revueltas en el ámbito. palo de golf Utilice subtareas para una mayor claridad al asignar varias personas a una tarea. palo de golf
 * **Comunicación centralizada:** Use herramientas como Workfront para almacenar todas las discusiones relacionadas con el proyecto en un solo lugar. palo de golf Las notificaciones pueden ayudar a los integrantes del equipo a seguir participando en las discusiones. palo de golf
@@ -32,15 +33,15 @@ El video enfatiza la importancia de una comunicación efectiva para el éxito de
 
 El vídeo destaca cómo Workfront simplifica la comunicación, la administración de tareas y la creación de informes, lo que garantiza que toda la información relacionada con el proyecto sea accesible y organizada. palo de golf
 
->[!VIDEO](https://video.tv.adobe.com/v/3436149/?quality=12&learn=on&enablevpops=1&captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/3419150/?quality=12&learn=on&enablevpops=1)
 
 >[!TIP]
 >
->Para crear el informe Búsqueda de notas que se muestra en el vídeo, consulte la actividad en el tutorial [Creación de un informe de tareas](https://experienceleague.adobe.com/es/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-task-report#activity-1-create-a-note-report-with-prompts).
+>Para crear el informe Búsqueda de notas que se muestra en el vídeo, consulte la actividad en el tutorial [Creación de un informe de tareas](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-task-report#activity-1-create-a-note-report-with-prompts).
 >
->Para agregar el informe Búsqueda de notas al panel de control del proyecto, consulte la actividad en el tutorial [Creación de paneles de control](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-dashboards.html?lang=es#activity-1-create-a-dashboard).
+>Para agregar el informe Búsqueda de notas al panel de control del proyecto, consulte la actividad en el tutorial [Creación de paneles de control](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-dashboards.html#activity-1-create-a-dashboard).
 
-## Puntos clave
+## Principales conclusiones
 
 * **Comunicación efectiva con las partes interesadas:** Actualice con regularidad a las partes interesadas sobre el progreso del proyecto, los problemas y las resoluciones para garantizar la transparencia y la alineación.
 * **Claridad de la tarea y evitar el desplazamiento del ámbito:** Defina claramente las responsabilidades de los integrantes del equipo, utilice subtareas para varios usuarios asignados y céntrese en ofrecer exactamente lo que el proyecto requiere.

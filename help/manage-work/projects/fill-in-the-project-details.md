@@ -1,5 +1,5 @@
 ---
-title: Rellene los detalles del proyecto
+title: Rellene los detalles esenciales del proyecto
 description: Optimice la eficacia de la administración de proyectos utilizando nombres descriptivos, estableciendo los estados adecuados, eligiendo el modo de programación adecuado, aprovechando las plantillas y los formularios personalizados y administrando los recursos con los conjuntos de recursos y las programaciones.
 activity: use
 team: Technical Marketing
@@ -12,21 +12,21 @@ last-substantial-update: 2024-06-21T00:00:00Z
 recommendations: noDisplay,catalog
 jira: KT-10140
 exl-id: a62b9421-627a-4f23-ab66-da1f29114225
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 06aa10f55d388112c486fce3d544e6a2cf7ef8da
 workflow-type: tm+mt
 source-wordcount: '210'
-ht-degree: 27%
+ht-degree: 23%
 
 ---
 
-# Rellene los detalles del proyecto
+# Rellene los detalles esenciales del proyecto
 
 En este vídeo, aprenderá las configuraciones de proyecto más comunes necesarias al crear un proyecto.
 
 
 >[!VIDEO](https://video.tv.adobe.com/v/3430410/?quality=12&learn=on&enablevpops=1)
 
-## Puntos clave
+## Principales conclusiones
 
 * **Usar nombres de proyecto descriptivos:** Evite confusiones al nombrar proyectos de forma descriptiva en lugar de usar títulos genéricos. palo de golf La organización de proyectos en portafolios y programas mejora la creación de informes y la coherencia. palo de golf
 * **Establecer estado de proyecto apropiado:** Comience con el estado &quot;Planificación&quot; al crear un proyecto y, a continuación, cambie a &quot;Actual&quot; cuando el proyecto se ponga en marcha. palo de golf Los estados no &quot;Actuales&quot; pausan las notificaciones, lo que permite la replanificación sin interrupciones. palo de golf

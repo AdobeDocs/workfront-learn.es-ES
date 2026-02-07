@@ -1,5 +1,5 @@
 ---
-title: Informe de problemas
+title: Crear informes personalizados para la administración de problemas
 description: Obtenga información sobre cómo crear informes personalizados para la administración de problemas y proyectos, incluido cómo centralizar y rastrear problemas abiertos, personalizar columnas y filtros y optimizar la administración de proyectos y problemas.
 activity: use
 team: Technical Marketing
@@ -12,14 +12,14 @@ last-substantial-update: 2024-07-24T00:00:00Z
 recommendations: noDisplay,catalog
 jira: KT-10072
 exl-id: c7d76d7f-46be-40a7-99f8-5e83dc708d34
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 06aa10f55d388112c486fce3d544e6a2cf7ef8da
 workflow-type: tm+mt
-source-wordcount: '376'
-ht-degree: 6%
+source-wordcount: '382'
+ht-degree: 4%
 
 ---
 
-# Informe de problemas
+# Crear informes personalizados para la administración de problemas
 
 El vídeo proporciona una guía paso a paso sobre la creación de dos tipos de informes para administrar y rastrear problemas y proyectos. palo de golf
 
@@ -31,7 +31,7 @@ El vídeo destaca la personalización de columnas y filtros para adaptar los inf
 
 >[!VIDEO](https://video.tv.adobe.com/v/3432002/?quality=12&learn=on&enablevpops=1)
 
-## Puntos clave
+## Principales conclusiones
 
 * **Informes personalizados para la administración de problemas:** En el vídeo se muestra cómo crear informes personalizados para centralizar y realizar un seguimiento de los problemas pendientes, lo que facilita su administración y resolución. palo de golf
 * **Detalles del informe de problemas:** El informe de problemas incluye columnas como objeto de resolución y fecha de entrada, ordenadas por las entradas más recientes. palo de golf Ayuda a identificar si los problemas se han asignado o convertido en tareas o proyectos. palo de golf

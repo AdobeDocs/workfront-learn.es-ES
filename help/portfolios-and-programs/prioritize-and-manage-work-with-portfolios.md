@@ -1,5 +1,5 @@
 ---
-title: Comprender [!UICONTROL Portfolio Optimizer]
+title: Optimizar las prioridades del proyecto con la herramienta de optimización de Portfolio
 description: Optimice la administración de proyectos en Workfront completando casos comerciales para realizar comparaciones justas, filtrando proyectos por estado, ajustando puntuaciones de forma dinámica, priorizando proyectos de forma eficaz y alineando la planificación de recursos con los objetivos del portafolio.
 activity: use
 team: Technical Marketing
@@ -12,22 +12,22 @@ jira: KT-13835
 role: User
 level: Intermediate
 exl-id: b8b91ae8-f0e1-4cab-bf2c-6b8ca9746ea3
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 06aa10f55d388112c486fce3d544e6a2cf7ef8da
 workflow-type: tm+mt
-source-wordcount: '283'
-ht-degree: 3%
+source-wordcount: '291'
+ht-degree: 4%
 
 ---
 
-# Comprender [!UICONTROL Portfolio Optimizer]
+# Optimizar las prioridades del proyecto con la herramienta de optimización de Portfolio
 
 En el vídeo se explica cómo utilizar la herramienta de optimización de Portfolio en Workfront para evaluar y priorizar proyectos dentro de un portafolio. palo de golf Comienza enviando un caso empresarial para un proyecto, cambiando su estado a &quot;solicitado&quot; y habilitando opciones para aprobarlo o rechazarlo. palo de golf Antes de la aprobación, los usuarios pueden comparar el proyecto con otros miembros del portafolio mediante la herramienta de optimización de Portfolio. palo de golf
 
 El vídeo destaca la importancia de completar los casos comerciales para realizar comparaciones precisas y proporciona instrucciones paso a paso para optimizar y administrar las prioridades del proyecto de forma eficaz. palo de golf
 
->[!VIDEO](https://video.tv.adobe.com/v/3446278/?quality=12&learn=on&enablevpops=1&captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/3446275/?quality=12&learn=on&enablevpops=1)
 
-## Puntos clave
+## Principales conclusiones
 
 * **Casos comerciales completos para comparaciones justas:** Asegúrese de que todos los proyectos hayan completado y enviado casos comerciales antes de compararlos en la herramienta de optimización de Portfolio para evitar la falta de datos y evaluaciones inexactas. palo de golf
 * **Filtrar proyectos por estado:** Use filtros para centrarse en estados de proyecto específicos (por ejemplo, solicitado, aprobado, actual) y así agilizar las comparaciones y la toma de decisiones. palo de golf

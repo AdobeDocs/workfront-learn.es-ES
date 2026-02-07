@@ -1,5 +1,5 @@
 ---
-title: Cargar recursos
+title: Carga y administración de recursos del proyecto
 description: Cargue documentos, pruebas y otros recursos al proyecto antes de cerrarlo para asegurarse de que todos los datos relevantes estén asociados a él.
 activity: use
 team: Technical Marketing
@@ -13,14 +13,14 @@ last-substantial-update: 2024-12-02T00:00:00Z
 jira: KT-10138
 exl-id: d6004151-3b05-4433-ad1c-aff1187e61ac
 doc-type: video
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 06aa10f55d388112c486fce3d544e6a2cf7ef8da
 workflow-type: tm+mt
-source-wordcount: '75'
-ht-degree: 100%
+source-wordcount: '81'
+ht-degree: 87%
 
 ---
 
-# Cargar recursos
+# Carga y administración de recursos del proyecto
 
 Este vídeo contiene información sobre:
 
@@ -29,7 +29,7 @@ Este vídeo contiene información sobre:
 * Cargar un documento
 * Búsqueda de formación sobre la carga de pruebas
 
->[!VIDEO](https://video.tv.adobe.com/v/3440373/?quality=12&learn=on&enablevpops=1&captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/3440370/?quality=12&learn=on&enablevpops=1)
 
 ## Tutoriales recomendados sobre este tema
 

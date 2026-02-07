@@ -1,5 +1,5 @@
 ---
-title: Buscar y administrar solicitudes
+title: Buscar y administrar solicitudes de forma eficaz
 description: Aprenda a utilizar filtros, administrar asignaciones de equipo, crear informes y paneles personalizados, y aclarar el significado de "mi" en diferentes contextos para una administración eficaz de las solicitudes.
 activity: use
 team: Technical Marketing
@@ -13,14 +13,14 @@ recommendations: noDisplay,catalog
 doc-type: video
 jira: KT-10143
 exl-id: 45956a0d-d63f-4539-ac65-f2c64a60b4bf
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 06aa10f55d388112c486fce3d544e6a2cf7ef8da
 workflow-type: tm+mt
-source-wordcount: '227'
-ht-degree: 14%
+source-wordcount: '229'
+ht-degree: 13%
 
 ---
 
-# Búsqueda y administración de solicitudes
+# Buscar y administrar solicitudes de forma eficaz
 
 En este vídeo se explica cómo buscar y administrar solicitudes en Workfront. palo de golf Abarca cuatro áreas principales:
 
@@ -30,9 +30,9 @@ En este vídeo se explica cómo buscar y administrar solicitudes en Workfront. p
 * Informes y paneles personalizados
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3441657/?quality=12&learn=on&enablevpops=1&captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/3422686/?quality=12&learn=on&enablevpops=1)
 
-## Puntos clave
+## Principales conclusiones
 
 * **Búsqueda de solicitudes en la página principal de Workfront:** Los usuarios pueden ver las solicitudes que se les hayan asignado o que estén a la espera de su aprobación, según su función. palo de golf
 * **Uso de filtros en el área de solicitud:** Los filtros como &quot;mis solicitudes&quot; y &quot;mis solicitudes abiertas&quot; permiten a los usuarios ver las solicitudes que han creado. palo de golf
