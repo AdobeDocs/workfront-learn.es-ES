@@ -45,7 +45,7 @@ En el vídeo se explica cómo compartir proyectos de forma eficaz en Workfront p
 
 El vídeo destaca el uso de equipos y plantillas para una administración eficiente del uso compartido, así como el papel de los administradores a la hora de personalizar las preferencias de uso compartido.
 
->[!VIDEO](https://video.tv.adobe.com/v/3418904/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3423153/?captions=spa&quality=12&learn=on&enablevpops=1)
 
 ## Principales conclusiones
 

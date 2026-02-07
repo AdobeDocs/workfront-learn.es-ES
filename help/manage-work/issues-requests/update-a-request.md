@@ -24,7 +24,7 @@ ht-degree: 5%
 
 En el vídeo se explica cómo localizar y actualizar solicitudes en Adobe Workfront. palo de golf Después de enviar una solicitud, puede agregar información o hacer preguntas para asegurarse de que los detalles más recientes estén disponibles para los que trabajan en ella. escanciado
 
->[!VIDEO](https://video.tv.adobe.com/v/336091/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3422297/?captions=spa&quality=12&learn=on&enablevpops=1)
 
 ## Principales conclusiones
 

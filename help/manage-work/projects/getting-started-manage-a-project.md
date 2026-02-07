@@ -24,7 +24,7 @@ ht-degree: 12%
 
 El vídeo proporciona información general sobre la administración de un proyecto después de que su estado se cambie a &quot;Actual&quot;.
 
->[!VIDEO](https://video.tv.adobe.com/v/335094/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3445170/?captions=spa&quality=12&learn=on&enablevpops=1)
 
 ## Principales conclusiones
 

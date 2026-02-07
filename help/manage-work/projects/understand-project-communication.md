@@ -33,7 +33,7 @@ El video enfatiza la importancia de una comunicación efectiva para el éxito de
 
 El vídeo destaca cómo Workfront simplifica la comunicación, la administración de tareas y la creación de informes, lo que garantiza que toda la información relacionada con el proyecto sea accesible y organizada. palo de golf
 
->[!VIDEO](https://video.tv.adobe.com/v/3419150/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3436149/?captions=spa&quality=12&learn=on&enablevpops=1)
 
 >[!TIP]
 >

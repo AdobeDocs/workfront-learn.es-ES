@@ -27,7 +27,7 @@ Este vídeo contiene información sobre:
 * Vista de hitos en un proyecto específico
 * Leer la vista de hitos en una lista de proyectos
 
->[!VIDEO](https://video.tv.adobe.com/v/335206/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3415900/?captions=spa&quality=12&learn=on&enablevpops=1)
 
 >[!TIP]
 >

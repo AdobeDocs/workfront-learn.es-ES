@@ -25,7 +25,7 @@ El vídeo proporciona instrucciones sobre cómo planificar eficazmente un proyec
 
 El vídeo destaca la importancia de contar con plazos realistas, disponibilidad del equipo y una planificación precisa para crear una base sólida para el éxito del proyecto. palo de golf
 
->[!VIDEO](https://video.tv.adobe.com/v/335086/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3448570/?captions=spa&quality=12&learn=on&enablevpops=1)
 
 ## Principales conclusiones
 
