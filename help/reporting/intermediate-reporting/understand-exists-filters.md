@@ -24,7 +24,7 @@ Los filtros EXISTS son filtros avanzados de modo de texto, que nos permiten solu
 
 En este vídeo aprenderá a crear un filtro EXISTE para ver &quot;Aprobaciones de pruebas en proyectos actuales&quot; en un informe de aprobaciones de pruebas.
 
-Para obtener un tutorial más detallado sobre el funcionamiento de EXISTS, consulte la documentación de [Creación de filtros de modo de texto complejos con instrucciones EXISTS](https://experienceleague.adobe.com/en/docs/workfront/using/reporting/reports/text-mode/create-complex-text-mode-filters-using-exists-statements).
+Para obtener un tutorial más detallado sobre el funcionamiento de EXISTS, consulte la documentación de [Creación de filtros de modo de texto complejos con instrucciones EXISTS](https://experienceleague.adobe.com/es/docs/workfront/using/reporting/reports/text-mode/create-complex-text-mode-filters-using-exists-statements).
 
 >[!VIDEO](https://video.tv.adobe.com/v/3471181/?quality=12&learn=on&enablevpops=1)
 
