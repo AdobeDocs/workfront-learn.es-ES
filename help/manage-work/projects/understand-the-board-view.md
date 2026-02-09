@@ -1,6 +1,6 @@
 ---
 title: Explorar la vista del tablero para administrar tareas
-description: Optimice la administración de tareas en Workfront con la interfaz [!UICONTROL de la vista del ]tablero [!DNL Kanban] , que ofrece ordenación, creación, personalización e integración perfecta con la vista de lista de tareas para una organización eficiente del proyecto.
+description: Optimice la administración de tareas en Workfront con la interfaz [!UICONTROL de la vista del &#x200B;]tablero [!DNL Kanban] , que ofrece ordenación, creación, personalización e integración perfecta con la vista de lista de tareas para una organización eficiente del proyecto.
 activity: use
 team: Technical Marketing
 feature: Work Management
