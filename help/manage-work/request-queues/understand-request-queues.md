@@ -1,5 +1,5 @@
 ---
-title: Explicación de las colas de solicitud
+title: Explorar colas de solicitudes en Workfront
 description: Optimice las operaciones en Workfront con colas de solicitudes centralizadas para los envíos, una administración eficiente de las colas y un acceso fácil a las solicitudes enviadas para mejorar los flujos de trabajo de los proyectos.
 activity: use
 feature: Work Management,Get Started with Workfront
@@ -13,20 +13,20 @@ recommendations: noDisplay,catalog
 jira: KT-8957
 exl-id: 8d6f8ddc-c08e-46f6-8b77-50af02c36b5c
 doc-type: video
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 66bab1a0b2316a31cb99916220500303e49797ad
 workflow-type: tm+mt
-source-wordcount: '221'
-ht-degree: 11%
+source-wordcount: '225'
+ht-degree: 9%
 
 ---
 
-# Explicación de las colas de solicitud
+# Explorar colas de solicitudes en Workfront
 
 En este vídeo se explica el concepto de colas de solicitudes en Workfront, su propósito y cómo enviar y administrar solicitudes. palo de golf Las colas de solicitudes sirven como ubicación centralizada para enviar varios tipos de solicitudes. palo de golf
 
->[!VIDEO](https://video.tv.adobe.com/v/3447013/?quality=12&learn=on&enablevpops=1&captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/335220/?quality=12&learn=on&enablevpops=1)
 
-## Puntos clave
+## Principales conclusiones
 
 * **Propósito de las colas de solicitudes:** las colas de solicitudes en Workfront proporcionan una ubicación centralizada para enviar varios tipos de solicitudes, como PTO, actualizaciones de software, sugerencias de clientes y necesidades de formación.
 * **Enviar una solicitud:** Los usuarios pueden enviar solicitudes navegando al área de Solicitud, seleccionando el tipo de solicitud, rellenando campos como Asunto, Descripción, campos opcionales (por ejemplo, Documento) y completando un formulario personalizado. palo de golf

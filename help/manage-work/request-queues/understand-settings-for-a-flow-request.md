@@ -1,5 +1,5 @@
 ---
-title: Explicación de la configuración de una solicitud de flujo
+title: Organizar la configuración del flujo de solicitudes
 description: Optimice la administración de solicitudes de Workfront definiendo temas de colas, utilizando grupos de temas, configurando reglas de enrutamiento, planificando con anticipación y asegurándose de que los envíos no se pasen por alto para mejorar la eficacia.
 activity: delpoy
 feature: Work Management
@@ -13,14 +13,14 @@ recommendations: noDisplay,catalog
 last-substantial-update: 2024-08-12T00:00:00Z
 exl-id: 7def260c-7542-4b9e-b2fb-afa5f79e164b
 doc-type: video
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 66bab1a0b2316a31cb99916220500303e49797ad
 workflow-type: tm+mt
-source-wordcount: '287'
-ht-degree: 11%
+source-wordcount: '285'
+ht-degree: 7%
 
 ---
 
-# Explicación de la configuración de una solicitud de flujo
+# Organizar la configuración del flujo de solicitudes
 
 En el vídeo se explica el proceso de flujo de solicitudes en Workfront, centrándose en la administración de colas, las reglas de enrutamiento, los grupos de temas y los temas de colas. palo de golf Hace hincapié en la importancia de organizar la cola de solicitudes respondiendo a tres preguntas clave:
 
@@ -30,9 +30,9 @@ En el vídeo se explica el proceso de flujo de solicitudes en Workfront, centrá
 
 Al abordar estas preguntas, los usuarios pueden planificar y configurar de forma eficaz su cola de solicitudes en Workfront. palo de golf
 
->[!VIDEO](https://video.tv.adobe.com/v/3441908/?quality=12&learn=on&enablevpops=1&captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/335222/?quality=12&learn=on&enablevpops=1)
 
-## Puntos clave
+## Principales conclusiones
 
 * **Temas de cola:** Defina y organice diferentes tipos de solicitudes en temas de cola para optimizar la categorización y la personalización. palo de golf
 * **Grupos de temas:** Use grupos de temas para organizar aún más los temas de la cola, lo que facilita la localización de solicitudes relacionadas (por ejemplo, la agrupación de categorías &quot;Imprimir&quot; y &quot;Digital&quot;). palo de golf

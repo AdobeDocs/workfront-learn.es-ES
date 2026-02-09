@@ -1,5 +1,5 @@
 ---
-title: Comprensión del modo de texto básico de las agrupaciones
+title: Explorar el modo de texto básico para agrupaciones en Workfront
 description: Obtenga información acerca del modo de texto, camel case y algunos modos de texto básicos que puede utilizar en las agrupaciones de informes en Workfront.
 activity: use
 feature: Reports and Dashboards
@@ -12,14 +12,14 @@ last-substantial-update: 2025-08-12T00:00:00Z
 jira: KT-11369
 exl-id: 5f45c64f-a22b-4983-91fd-9a1939f99fb1
 doc-type: video
-source-git-commit: cc423944628d01e16d390842ecb25696505f923c
+source-git-commit: 66bab1a0b2316a31cb99916220500303e49797ad
 workflow-type: tm+mt
-source-wordcount: '287'
-ht-degree: 85%
+source-wordcount: '291'
+ht-degree: 80%
 
 ---
 
-# Comprensión del modo de texto básico de las agrupaciones
+# Explorar el modo de texto básico para agrupaciones en Workfront
 
 >[!PREREQUISITES]
 >
@@ -40,7 +40,7 @@ Este vídeo contiene información sobre:
 * Qué son las palabras agrupadas en mayúsculas y minúsculas
 * Algunos _bloques de código en modo texto_ que puede usar en sus agrupaciones de informes
 
->[!VIDEO](https://video.tv.adobe.com/v/3470784/?captions=spa&quality=12&learn=on&enablevpops=0)
+>[!VIDEO](https://video.tv.adobe.com/v/3410641/?quality=12&learn=on&enablevpops=0)
 
 ## Actividades &quot;Comprender el modo de texto básico para agrupaciones&quot;
 

@@ -1,5 +1,5 @@
 ---
-title: Comprender el modo de texto básico de los filtros
+title: Explorar el modo de texto básico de los filtros en Workfront
 description: Obtenga información sobre el modo de texto, camel case y algunos modos de texto básicos que puede utilizar en los filtros de informes en Workfront.
 activity: use
 feature: Reports and Dashboards
@@ -12,14 +12,14 @@ last-substantial-update: 2025-07-30T00:00:00Z
 jira: KT-9086
 exl-id: b3f16468-b720-468d-887a-b313fc32bd89
 doc-type: video
-source-git-commit: cc423944628d01e16d390842ecb25696505f923c
+source-git-commit: 66bab1a0b2316a31cb99916220500303e49797ad
 workflow-type: tm+mt
-source-wordcount: '423'
-ht-degree: 88%
+source-wordcount: '427'
+ht-degree: 86%
 
 ---
 
-# Comprender el modo de texto básico de los filtros
+# Explorar el modo de texto básico de los filtros en Workfront
 
 >[!PREREQUISITES]
 >
@@ -41,7 +41,7 @@ En este vídeo, aprenderá sobre lo siguiente:
 * Mayúsculas y minúsculas
 * Algunos _bloques de código en modo texto_ que puede usar en los filtros de informe
 
->[!VIDEO](https://video.tv.adobe.com/v/3412683/?captions=spa&quality=12&learn=on&enablevpops=0)
+>[!VIDEO](https://video.tv.adobe.com/v/336820/?quality=12&learn=on&enablevpops=0)
 
 ## Actividades de &quot;Comprender el modo de texto básico de los filtros&quot;
 

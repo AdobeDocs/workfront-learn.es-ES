@@ -1,5 +1,5 @@
 ---
-title: Buscar información financiera
+title: Acceso y administración de información financiera para proyectos y tareas
 description: Descubra cómo acceder, analizar y administrar de forma eficaz los datos financieros de los proyectos y las tareas, incluyendo presupuestos, ingresos, costes y métricas de rendimiento tanto en el nivel del proyecto como de la tarea.
 activity: use
 feature: Work Management
@@ -13,20 +13,20 @@ exl-id: 8b50c79a-d5b7-4127-8daf-8a449b3fe570
 last-substantial-update: 2025-04-16T00:00:00Z
 recommendations: noDisplay,catalog
 doc-type: video
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 66bab1a0b2316a31cb99916220500303e49797ad
 workflow-type: tm+mt
-source-wordcount: '205'
-ht-degree: 20%
+source-wordcount: '217'
+ht-degree: 17%
 
 ---
 
-# Buscar información financiera
+# Acceso y administración de información financiera para proyectos y tareas
 
 El vídeo explica cómo acceder y administrar la información financiera de proyectos y tareas. palo de golfProporciona una visión general completa de la navegación y la comprensión de los datos financieros tanto a nivel de proyecto como de tarea. palo de golf
 
->[!VIDEO](https://video.tv.adobe.com/v/3415894/?captions=spa&quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/335208/?quality=12&learn=on&enablevpops=1)
 
-## Puntos clave
+## Principales conclusiones
 
 * **Acceso a información financiera:** Los detalles financieros de un proyecto se encuentran en la página de finanzas, a la que se puede acceder mediante &quot;Detalles del proyecto&quot;, mientras que los datos financieros de nivel de tarea se encuentran en &quot;Detalles de la tarea&quot;.
 * **Campos editables:** Los usuarios con los derechos apropiados pueden editar campos como presupuesto, beneficio planificado, beneficio real, ingresos fijos y costos fijos.

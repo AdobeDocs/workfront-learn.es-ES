@@ -1,5 +1,5 @@
 ---
-title: Creación de informes con gráficos
+title: Visualización de datos con gráficos en informes
 description: Los gráficos mejoran la visualización de los datos al organizar las perspectivas de datos a través de filtros, agrupaciones y formatos de columna apilada personalizables, lo que hace que el análisis sea más claro y procesable.
 activity: use
 feature: Reports and Dashboards
@@ -12,14 +12,14 @@ jira: KT-8860
 last-substantial-update: 2025-05-06T00:00:00Z
 exl-id: ea3b360b-1fbd-4d1a-b505-b75759d24e41
 doc-type: video
-source-git-commit: cc423944628d01e16d390842ecb25696505f923c
+source-git-commit: 66bab1a0b2316a31cb99916220500303e49797ad
 workflow-type: tm+mt
-source-wordcount: '595'
-ht-degree: 33%
+source-wordcount: '599'
+ht-degree: 32%
 
 ---
 
-# Creación de informes con gráficos
+# Visualización de datos con gráficos en informes
 
 En el vídeo se explica cómo utilizar gráficos para visualizar los datos de forma eficaz, especialmente para rastrear tareas de proyectos. palo de golf Muestra la creación de dos tipos de informes en Workfront:
 
@@ -38,9 +38,9 @@ En el vídeo se explica cómo utilizar gráficos para visualizar los datos de fo
 
 El vídeo resalta cómo los gráficos como los gráficos circulares y de columnas apiladas pueden proporcionar información sobre la distribución de tareas y el rendimiento del proyecto, lo que ayuda a los usuarios a comparar proyectos y comprender el progreso de las tareas visualmente. palo de golf
 
->[!VIDEO](https://video.tv.adobe.com/v/3450017/?captions=spa&quality=12&learn=on&enablevpops=0)
+>[!VIDEO](https://video.tv.adobe.com/v/335155/?quality=12&learn=on&enablevpops=0)
 
-## Puntos clave
+## Principales conclusiones
 
 * **Los gráficos mejoran la claridad de los datos**: la visualización de datos con gráficos, como gráficos circulares o de columnas, facilita la comprensión de la distribución de tareas y el progreso del proyecto en comparación con los informes de lista. palo de golf
 * **Filtrado para datos específicos**: la aplicación de filtros (por ejemplo, tareas incompletas o tardías en proyectos actuales) ayuda a centrarse en datos relevantes para el análisis segmentado. palo de golf
@@ -73,7 +73,7 @@ Se acerca el final del trimestre y usted quiere ver cómo se han ajustado a sus 
 1. En la pestaña **[!UICONTROL Filtros]** agregue estas dos reglas de filtro:
 
    * [!UICONTROL Proyecto] > [!UICONTROL Estado equivale a] > [!UICONTROL Completar]
-   * [!UICONTROL Proyecto] >[!UICONTROL &#x200B; Fecha de finalización real] > [!UICONTROL Último trimestre]
+   * [!UICONTROL Proyecto] >[!UICONTROL  Fecha de finalización real] > [!UICONTROL Último trimestre]
 
    ![Imagen de la pantalla para agregar filtros a un informe](assets/chart-report-filters.png)
 

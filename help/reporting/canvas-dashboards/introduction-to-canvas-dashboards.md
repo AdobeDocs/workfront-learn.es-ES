@@ -1,5 +1,5 @@
 ---
-title: Introducción a los paneles de lienzo
+title: Explorar paneles de lienzo en Workfront
 description: Obtenga información sobre cómo navegar hasta y dentro de los paneles de lienzo y cómo crear un panel simple con informes existentes.
 activity: use
 team: Technical Marketing
@@ -12,20 +12,20 @@ last-substantial-update: 2025-09-09T00:00:00Z
 recommendations: noDisplay,catalog
 doc-type: video
 exl-id: 344982c0-b7e8-4fac-bcb0-ee6b20b81dec
-source-git-commit: cc423944628d01e16d390842ecb25696505f923c
+source-git-commit: 66bab1a0b2316a31cb99916220500303e49797ad
 workflow-type: tm+mt
-source-wordcount: '131'
+source-wordcount: '133'
 ht-degree: 18%
 
 ---
 
-# Introducción a los paneles de lienzo
+# Explorar paneles de lienzo en Workfront
 
 La función Paneles de lienzo es otra forma de crear paneles en Workfront. Actualmente está en General Beta, lo que significa que todos los clientes de Workfront pueden utilizar la función si están inscritos en la versión beta. Un administrador del sistema debe realizar la inscripción. Este vídeo les mostrará cómo.
 
->[!VIDEO](https://video.tv.adobe.com/v/3474023/?captions=spa&quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3474020/?quality=12&learn=on&enablevpops=1)
 
-Para obtener más información, consulte el artículo [Información general sobre paneles de lienzo](https://experienceleague.adobe.com/es/docs/workfront/using/reporting/canvas-dashboards/canvas-dashboards-overview).
+Para obtener más información, consulte el artículo [Información general sobre paneles de lienzo](https://experienceleague.adobe.com/en/docs/workfront/using/reporting/canvas-dashboards/canvas-dashboards-overview).
 
 ## Tutoriales recomendados sobre este tema
 

@@ -1,5 +1,5 @@
 ---
-title: Enviar y compartir informes
+title: Envíe y comparta informes de forma eficaz
 description: Obtenga información sobre cómo enviar informes a usuarios, equipos o cualquier dirección de correo electrónico y cómo compartirlos con cualquier persona de Workfront.
 activity: use
 feature: Reports and Dashboards
@@ -12,14 +12,14 @@ jira: KT-8863
 last-substantial-update: 2025-05-29T00:00:00Z
 exl-id: 3d0554fb-4fe0-43d5-b725-2bcd44134bb5
 doc-type: video
-source-git-commit: cc423944628d01e16d390842ecb25696505f923c
+source-git-commit: 66bab1a0b2316a31cb99916220500303e49797ad
 workflow-type: tm+mt
-source-wordcount: '354'
-ht-degree: 57%
+source-wordcount: '356'
+ht-degree: 55%
 
 ---
 
-# Enviar y compartir informes
+# Envíe y comparta informes de forma eficaz
 
 Este vídeo contiene información sobre:
 
@@ -27,9 +27,9 @@ Este vídeo contiene información sobre:
 * Cómo compartir informes con cualquier persona
 * Qué pueden ver y hacer los destinatarios con un informe de Workfront
 
->[!VIDEO](https://video.tv.adobe.com/v/3447815/?captions=spa&quality=12&learn=on&enablevpops=0)
+>[!VIDEO](https://video.tv.adobe.com/v/335158/?quality=12&learn=on&enablevpops=0)
 
-## Puntos clave
+## Principales conclusiones
 
 * **Envío de informes a usuarios externos:** Puede enviar informes a usuarios que no sean de Workfront introduciendo sus direcciones de correo electrónico, lo que facilita el uso compartido de datos fuera de su organización. palo de golf
 * **Visibilidad del control de derechos de acceso:** La vista del destinatario del informe depende de los derechos de acceso que establezca, lo que garantiza la seguridad de los datos y la visibilidad adecuada. palo de golf

@@ -1,5 +1,5 @@
 ---
-title: Comprender la vista [!UICONTROL Gantt]
+title: Explorar la vista [!UICONTROL Gantt] para la administración de proyectos
 description: Maximice la eficiencia del proyecto con gráficos Gantt, que ofrecen vistas generales, seguimiento del progreso, administración de hitos, perspectivas de predecesores y opciones personalizables para optimizar la administración de tareas y recursos.
 activity: use
 team: Technical Marketing
@@ -12,14 +12,14 @@ last-substantial-update: 2023-05-11T00:00:00Z
 recommendations: noDisplay,catalog
 jira: KT-10144
 exl-id: 9f9cf889-8be5-43e2-88ab-52b1c35603ec
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 66bab1a0b2316a31cb99916220500303e49797ad
 workflow-type: tm+mt
-source-wordcount: '363'
-ht-degree: 12%
+source-wordcount: '369'
+ht-degree: 11%
 
 ---
 
-# Comprender la vista [!UICONTROL Gantt]
+# Explorar la vista [!UICONTROL Gantt] para la administración de proyectos
 
 En el vídeo se explica cómo utilizar el Diagrama de Gantt del proyecto y el Diagrama de Gantt de tareas para visualizar y administrar tareas y proyectos de forma eficaz. palo de golf Los gráficos Gantt proporcionan una vista general de las tareas, las plantillas y los proyectos, y se utilizan normalmente en los portafolios para comprender las relaciones entre los proyectos, especialmente los que comparten recursos. palo de golf
 
@@ -40,11 +40,11 @@ En el vídeo se explica cómo utilizar el Diagrama de Gantt del proyecto y el Di
 
 El vídeo enfatiza la flexibilidad de los gráficos Gantt, lo que permite a los usuarios personalizar las vistas y mostrar varios elementos simultáneamente para una mejor administración del proyecto.
 
->[!VIDEO](https://video.tv.adobe.com/v/3448009/?quality=12&learn=on&enablevpops=1&captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/3419304/?quality=12&learn=on&enablevpops=1)
 
 Puede obtener más información con el artículo en línea [Introducción al gráfico Gantt](https://experienceleague.adobe.com/docs/workfront/using/manage-work/the-gantt-chart/gantt-chart-overview/get-started-with-gantt.html?lang=es).
 
-## Puntos clave
+## Principales conclusiones
 
 * **Vista general:** los gráficos Gantt proporcionan una descripción general completa de las tareas, proyectos y portafolios, lo que facilita la comprensión de las relaciones y el uso compartido de recursos entre los proyectos. palo de golf
 * **Seguimiento del progreso:** Los indicadores de estado de progreso (verde, amarillo, rojo y azul claro) ayudan a supervisar las escalas de tiempo de los proyectos y las tareas, destacando los estados a tiempo, en riesgo, retrasados o atrasados. palo de golf

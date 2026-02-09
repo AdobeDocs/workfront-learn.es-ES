@@ -1,5 +1,5 @@
 ---
-title: Creación de un informe de tareas
+title: Crear un informe de tareas para asignaciones tardías
 description: 'Aprenda a crear un informe de tareas con un filtro complejo y a encontrar los informes que crea en Workfront. '
 activity: use
 feature: Reports and Dashboards
@@ -12,22 +12,22 @@ last-substantial-update: 2025-06-11T00:00:00Z
 jira: KT-8859
 exl-id: 90bad2e8-9cd2-4ae7-973b-eeab9d615bef
 doc-type: video
-source-git-commit: cc423944628d01e16d390842ecb25696505f923c
+source-git-commit: 66bab1a0b2316a31cb99916220500303e49797ad
 workflow-type: tm+mt
-source-wordcount: '1115'
-ht-degree: 77%
+source-wordcount: '1121'
+ht-degree: 76%
 
 ---
 
-# Creación de un informe de tareas
+# Crear un informe de tareas para asignaciones tardías
 
 El vídeo proporciona una guía paso a paso sobre la creación de un informe personalizado para realizar un seguimiento de las tareas atrasadas asignadas al usuario que ha iniciado sesión. Comienza explicando la necesidad de informes personalizados cuando los filtros, las vistas o los informes integrados existentes no cumplen con requisitos específicos. palo de golf El informe se denomina &quot;Tareas atrasadas asignadas a mí&quot; y se agrega una descripción para mayor claridad. palo de golf
 
 El informe resultante ayuda a los usuarios a centrarse en tareas tardías, proporciona perspectivas sobre las dependencias y simplifica la navegación a los proyectos host. palo de golf
 
->[!VIDEO](https://video.tv.adobe.com/v/3448345/?captions=spa&quality=12&learn=on&enablevpops=0)
+>[!VIDEO](https://video.tv.adobe.com/v/335154/?quality=12&learn=on&enablevpops=0)
 
-## Puntos clave
+## Principales conclusiones
 
 * **Creación de informes personalizados:** Cuando los filtros existentes y los informes integrados no satisfacen sus necesidades, puede crear un informe personalizado desde cero para centrarse en datos específicos, como las tareas tardías asignadas a usted. palo de golf
 * **Configuración del filtro:** Use filtros para definir los criterios del informe, incluidas las tareas tardías, las tareas incompletas, los proyectos actuales y las tareas asignadas al usuario que ha iniciado sesión. palo de golf

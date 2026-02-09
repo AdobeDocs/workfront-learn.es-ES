@@ -1,5 +1,5 @@
 ---
-title: Información sobre los componentes del sistema de informes
+title: Exploración de los componentes de informes en Workfront
 description: Los componentes de informes de Workfront refinan la visualización de datos con filtros basados en objetos, vistas dinámicas, agrupaciones estructuradas y la funcionalidad de comodín para obtener perspectivas adaptadas.
 activity: use
 feature: Reports and Dashboards
@@ -12,14 +12,14 @@ jira: KT-8850
 last-substantial-update: 2025-04-28T00:00:00Z
 exl-id: e9f9ba24-540f-49e1-ac52-740df489317b
 doc-type: video
-source-git-commit: cc423944628d01e16d390842ecb25696505f923c
+source-git-commit: 66bab1a0b2316a31cb99916220500303e49797ad
 workflow-type: tm+mt
-source-wordcount: '533'
-ht-degree: 42%
+source-wordcount: '537'
+ht-degree: 41%
 
 ---
 
-# Información sobre los componentes del sistema de informes
+# Exploración de los componentes de informes en Workfront
 
 En el vídeo se explica el concepto de los componentes de creación de informes en Workfront, que son esenciales para crear filtros, vistas y agrupaciones. Los componentes clave incluyen:
 
@@ -29,9 +29,9 @@ En el vídeo se explica el concepto de los componentes de creación de informes 
 * **Calificador de filtro:** Define qué valores incluir o excluir en un informe, como mostrar tareas con una prioridad &quot;alta&quot;.
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3447024/?captions=spa&quality=12&learn=on&enablevpops=0)
+>[!VIDEO](https://video.tv.adobe.com/v/335146/?quality=12&learn=on&enablevpops=0)
 
-## Puntos clave
+## Principales conclusiones
 
 * **Componentes de informes:** Los componentes de informes de Workfront incluyen el tipo de objeto, el origen del campo, el nombre del campo, los calificadores de filtro y el campo de valor, que son esenciales para crear filtros, vistas y agrupaciones. palo de golf
 * **Especificidad del tipo de objeto:** Los filtros, las vistas y las agrupaciones están vinculados a tipos de objetos específicos, como proyectos, tareas o entradas de horas, lo que garantiza que los informes se adapten a los datos relevantes. palo de golf

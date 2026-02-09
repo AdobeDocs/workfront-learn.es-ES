@@ -1,5 +1,5 @@
 ---
-title: Explicación de los filtros de proyecto integrados
+title: Exploración de filtros de proyecto integrados
 description: Obtenga información sobre cómo revisar los filtros de proyecto integrados para ver cómo se han generado y cree su propio filtro de proyecto en Workfront.
 activity: use
 feature: Reports and Dashboards
@@ -12,21 +12,21 @@ last-substantial-update: 2025-07-24T00:00:00Z
 jira: KT-9083
 exl-id: 8180029a-a350-45cb-9948-eb5b44276b86
 doc-type: video
-source-git-commit: cc423944628d01e16d390842ecb25696505f923c
+source-git-commit: 66bab1a0b2316a31cb99916220500303e49797ad
 workflow-type: tm+mt
 source-wordcount: '158'
-ht-degree: 96%
+ht-degree: 91%
 
 ---
 
-# Explicación de los filtros de proyecto integrados
+# Exploración de filtros de proyecto integrados
 
 Este vídeo contiene información sobre:
 
 * Revise los filtros de proyecto integrados para ver cómo se crean
 * Cree su propio filtro de proyecto con lo que ha aprendido
 
->[!VIDEO](https://video.tv.adobe.com/v/3412665/?captions=spa&quality=12&learn=on&enablevpops=0)
+>[!VIDEO](https://video.tv.adobe.com/v/336817/?quality=12&learn=on&enablevpops=0)
 
 ## Actividades de &quot;Comprensión de los filtros de proyecto integrados&quot;
 

@@ -1,5 +1,5 @@
 ---
-title: Información sobre las múltiples tasas de facturación
+title: Personalizar las tarifas de facturación para los roles
 description: Personalice y administre las tarifas de facturación para los roles al nivel de proyecto.
 activity: use
 team: Technical Marketing
@@ -13,22 +13,22 @@ exl-id: bda562b9-f8da-49c9-bea7-0440fdc4c24c
 last-substantial-update: 2025-04-16T00:00:00Z
 recommendations: noDisplay,catalog
 doc-type: video
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 66bab1a0b2316a31cb99916220500303e49797ad
 workflow-type: tm+mt
-source-wordcount: '169'
-ht-degree: 10%
+source-wordcount: '173'
+ht-degree: 6%
 
 ---
 
 
-# Información sobre las múltiples tasas de facturación
+# Personalizar las tarifas de facturación para los roles
 
 En este vídeo se explica cómo administrar y personalizar las tarifas de facturación para los roles de trabajo dentro de un proyecto. palo de golfHace hincapié en la flexibilidad a la hora de establecer varias tarifas de facturación para el mismo rol y garantizar ajustes precisos basados en el tiempo. palo de golf
 
 
 >[!VIDEO](https://video.tv.adobe.com/v/3457652/?quality=12&learn=on&enablevpops=1)
 
-## Puntos clave
+## Principales conclusiones
 
 
 * **Tarifa de facturación predeterminada:** El administrador del sistema establece una tarifa de facturación predeterminada para cada rol, pero se puede personalizar para proyectos individuales. palo de golf

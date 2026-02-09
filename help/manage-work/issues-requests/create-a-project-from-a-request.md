@@ -1,5 +1,5 @@
 ---
-title: Convertir un problema/solicitud en un proyecto
+title: Conversión de un problema o una solicitud en un proyecto
 description: Optimice la administración de proyectos en Workfront convirtiendo problemas en proyectos con plantillas, personalizando los detalles del proyecto, administrando las opciones de resolución de problemas y garantizando la visibilidad y el acceso a flujos de trabajo sin problemas.
 activity: use
 feature: Work Management
@@ -12,20 +12,20 @@ jira: KT-9723
 recommendations: noDisplay,catalog
 exl-id: 5095d6bb-2721-47f1-be52-8e43d3edb2fd
 doc-type: video
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 66bab1a0b2316a31cb99916220500303e49797ad
 workflow-type: tm+mt
-source-wordcount: '233'
-ht-degree: 14%
+source-wordcount: '235'
+ht-degree: 8%
 
 ---
 
-# Convertir un problema/solicitud en un proyecto
+# Conversión de un problema o una solicitud en un proyecto
 
 En este vídeo se muestra cómo convertir un problema o una solicitud en un proyecto.
 
->[!VIDEO](https://video.tv.adobe.com/v/3446625/?quality=12&learn=on&enablevpops=1&captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/340343/?quality=12&learn=on&enablevpops=1)
 
-## Puntos clave
+## Principales conclusiones
 
 * **Proceso de conversión:** Para convertir un problema o una solicitud en un proyecto, seleccione el problema, utilice el menú de tres puntos y elija una opción de conversión, preferiblemente mediante una plantilla. palo de golf
 * **Selección de plantilla:** Se recomienda usar una plantilla por coherencia y facilidad. palo de golf Puede revisar y seleccionar la plantilla adecuada según los requisitos del proyecto. palo de golf

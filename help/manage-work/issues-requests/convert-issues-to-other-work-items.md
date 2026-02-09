@@ -1,5 +1,5 @@
 ---
-title: Convertir un problema/solicitud en una tarea
+title: Conversión de un problema o una solicitud en una tarea
 description: Convierta problemas sin esfuerzo en tareas en Workfront con nombres editables, archivos adjuntos de formulario personalizados sin problemas, selección de proyectos flexible, opciones de conversión y actualizaciones de estado sincronizadas para flujos de trabajo optimizados.
 activity: use
 team: Technical Marketing
@@ -11,20 +11,20 @@ last-substantial-update: 2024-02-28T00:00:00Z
 recommendations: noDisplay,catalog
 jira: KT-10069
 exl-id: 1fd4d862-e44b-4c50-9663-70e727f6e9b7
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 66bab1a0b2316a31cb99916220500303e49797ad
 workflow-type: tm+mt
-source-wordcount: '245'
-ht-degree: 22%
+source-wordcount: '247'
+ht-degree: 17%
 
 ---
 
-# Convertir un problema/solicitud en una tarea
+# Conversión de un problema o una solicitud en una tarea
 
 En este vídeo se muestra cómo convertir un problema o una solicitud en una tarea.
 
->[!VIDEO](https://video.tv.adobe.com/v/3445433/?quality=12&learn=on&enablevpops=1&captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/3427605/?quality=12&learn=on&enablevpops=1)
 
-## Puntos clave
+## Principales conclusiones
 
 * **Proceso sencillo de conversión:** Para convertir un problema o una solicitud en una tarea, abra el problema, haga clic en el menú de tres puntos y seleccione &quot;Convertir en tarea&quot;. El nombre y la descripción de la tarea se copian de forma predeterminada, pero se pueden editar. palo de golf
 * **Selección de proyecto de destino:** Puede elegir el proyecto de destino para la tarea, ya sea el proyecto predeterminado en el que reside el problema o cualquier otro proyecto al que tenga acceso. palo de golf

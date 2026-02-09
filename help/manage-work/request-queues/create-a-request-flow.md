@@ -1,5 +1,5 @@
 ---
-title: Crear un flujo de solicitud
+title: Creación de un flujo de solicitud en Workfront
 description: Optimice la administración de solicitudes creando reglas de enrutamiento para asignaciones eficientes, organizando solicitudes con grupos de temas anidados, vinculando temas de colas a flujos de trabajo, probando la funcionalidad de flujo de solicitudes y realizando ajustes flexibles para garantizar la precisión y la eficacia.
 activity: deploy
 feature: Work Management
@@ -13,14 +13,14 @@ last-substantial-update: 2024-09-11T00:00:00Z
 recommendations: noDisplay,catalog
 exl-id: 194df349-541d-4940-a6a5-b5d47cb58cf4
 doc-type: video
-source-git-commit: cc423944628d01e16d390842ecb25696505f923c
+source-git-commit: 66bab1a0b2316a31cb99916220500303e49797ad
 workflow-type: tm+mt
-source-wordcount: '402'
-ht-degree: 9%
+source-wordcount: '406'
+ht-degree: 7%
 
 ---
 
-# Crear un flujo de solicitud
+# Creación de un flujo de solicitud en Workfront
 
 >[!PREREQUISITES]
 >
@@ -31,9 +31,9 @@ Este vídeo proporciona una guía paso a paso para crear un flujo de solicitud m
 A continuación, en el vídeo se muestra cómo crear temas de colas, que están vinculados a reglas de enrutamiento, grupos de temas, formularios personalizados, procesos de aprobación y duraciones predeterminadas.
 Por último, el vídeo muestra cómo probar la configuración enviando una solicitud para asegurarse de que se enruta correctamente. palo de golf Si surge algún problema, se pueden realizar ajustes en la cola. palo de golf El vídeo destaca la importancia de verificar la estructura y la funcionalidad del flujo de solicitud para garantizar un enrutamiento y una organización adecuados.
 
->[!VIDEO](https://video.tv.adobe.com/v/3433825/?captions=spa&quality=12&learn=on&enablevpops=0)
+>[!VIDEO](https://video.tv.adobe.com/v/335223/?quality=12&learn=on&enablevpops=0)
 
-## Puntos clave
+## Principales conclusiones
 
 * **Configuración de reglas de enrutamiento:** Las reglas de enrutamiento determinan cómo se asignan las solicitudes, ya sea a equipos (por ejemplo, equipo de Creative) o a personas (por ejemplo, Jennifer Campbell o Mark Lewis). palo de golf Estas reglas se crean nombrándolas, agregando descripciones y seleccionando usuarios o equipos asignados predeterminados.
 * **Creación de grupos de temas:** Los grupos de temas ayudan a organizar las solicitudes en categorías como &quot;Digital&quot; e &quot;Imprimir&quot;. No hay límite en el número de grupos de temas que se pueden crear y se pueden anidar hasta 10 niveles de profundidad.

@@ -1,5 +1,5 @@
 ---
-title: Crear mensajes personalizados
+title: Creación de mensajes personalizados con el modo de texto
 description: Conozca qué es un mensaje personalizado, cómo crear un mensaje personalizado usando el modo de texto y algunos ejemplos que puede usar en los informes en Workfront.
 activity: use
 feature: Reports and Dashboards
@@ -12,14 +12,14 @@ last-substantial-update: 2025-08-05T00:00:00Z
 jira: KT-9087
 exl-id: 1bb0832e-e888-4154-b78d-24c6d69f629f
 doc-type: video
-source-git-commit: cc423944628d01e16d390842ecb25696505f923c
+source-git-commit: 66bab1a0b2316a31cb99916220500303e49797ad
 workflow-type: tm+mt
-source-wordcount: '198'
-ht-degree: 97%
+source-wordcount: '204'
+ht-degree: 92%
 
 ---
 
-# Crear mensajes personalizados
+# Creación de mensajes personalizados con el modo de texto
 
 Este vídeo contiene información sobre:
 
@@ -27,7 +27,7 @@ Este vídeo contiene información sobre:
 * Cómo crear una solicitud personalizada mediante el modo de texto
 * Algunos ejemplos que se pueden usar en los informes
 
->[!VIDEO](https://video.tv.adobe.com/v/3412689/?captions=spa&quality=12&learn=on&enablevpops=0)
+>[!VIDEO](https://video.tv.adobe.com/v/336822/?quality=12&learn=on&enablevpops=0)
 
 ## Actividades &quot;Crear indicadores personalizados&quot;
 

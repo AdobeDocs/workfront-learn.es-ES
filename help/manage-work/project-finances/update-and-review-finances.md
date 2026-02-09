@@ -1,5 +1,5 @@
 ---
-title: Actualizar finanzas
+title: Actualizar finanzas para proyectos de clientes
 description: Optimice el seguimiento y la facturación de costes definiendo tarifas, asignando tipos de costes e ingresos a las tareas, administrando los gastos y creando registros de facturación. Workfront no efectúa la facturación real.
 activity: use
 team: Technical Marketing
@@ -13,15 +13,15 @@ exl-id: fd977963-c8fe-4200-b46e-3de46373f400
 last-substantial-update: 2025-04-16T00:00:00Z
 recommendations: noDisplay,catalog
 doc-type: video
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 66bab1a0b2316a31cb99916220500303e49797ad
 workflow-type: tm+mt
-source-wordcount: '359'
+source-wordcount: '365'
 ht-degree: 11%
 
 ---
 
 
-# Actualizar finanzas
+# Actualizar finanzas para proyectos de clientes
 
 Este vídeo proporciona una guía detallada sobre el seguimiento del tiempo, los gastos y la creación de registros de facturación para proyectos de clientes. palo de golf Los puntos clave incluyen:
 
@@ -49,7 +49,7 @@ Este vídeo destaca la importancia de una configuración y un seguimiento adecua
 
 >[!VIDEO](https://video.tv.adobe.com/v/3457648/?quality=12&learn=on&enablevpops=1)
 
-## Puntos clave
+## Principales conclusiones
 
 
 * **Configurar tarifas de costo y facturación:** Asegúrese de que los usuarios o los roles de trabajo tengan tarifas de costo y facturación definidas en sus perfiles para rastrear con precisión los gastos del proyecto. palo de golf
