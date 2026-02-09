@@ -30,7 +30,7 @@ En el vídeo se explica el proceso de flujo de solicitudes en Workfront, centrá
 
 Al abordar estas preguntas, los usuarios pueden planificar y configurar de forma eficaz su cola de solicitudes en Workfront. palo de golf
 
->[!VIDEO](https://video.tv.adobe.com/v/335222/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3441908/?captions=spa&quality=12&learn=on&enablevpops=1)
 
 ## Principales conclusiones
 

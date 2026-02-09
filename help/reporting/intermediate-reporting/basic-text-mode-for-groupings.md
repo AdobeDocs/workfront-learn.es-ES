@@ -40,7 +40,7 @@ Este vídeo contiene información sobre:
 * Qué son las palabras agrupadas en mayúsculas y minúsculas
 * Algunos _bloques de código en modo texto_ que puede usar en sus agrupaciones de informes
 
->[!VIDEO](https://video.tv.adobe.com/v/3410641/?quality=12&learn=on&enablevpops=0)
+>[!VIDEO](https://video.tv.adobe.com/v/3470784/?captions=spa&quality=12&learn=on&enablevpops=0)
 
 ## Actividades &quot;Comprender el modo de texto básico para agrupaciones&quot;
 

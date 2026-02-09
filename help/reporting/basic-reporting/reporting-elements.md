@@ -24,7 +24,7 @@ En el vídeo se explica cómo utilizar los elementos de creación de informes de
 
 El vídeo también muestra cómo personalizar elementos de creación de informes y compartirlos con otros. palo de golf Estas herramientas permiten a los usuarios adaptar los informes de listas a sus necesidades para mejorar la visibilidad y la administración.
 
->[!VIDEO](https://video.tv.adobe.com/v/335145/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3447791/?captions=spa&quality=12&learn=on&enablevpops=1)
 
 ## Principales conclusiones
 
