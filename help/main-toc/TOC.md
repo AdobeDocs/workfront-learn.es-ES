@@ -1,10 +1,10 @@
 ---
 user-guide-title: Tutoriales de Workfront
 user-guide-description: Una biblioteca de vídeos y artículos de formación diseñados para ayudarle a comprender mejor las funciones y la configuración de Workfront.
-source-git-commit: 66bab1a0b2316a31cb99916220500303e49797ad
+source-git-commit: bb1f0cb236ff68aaa89a6d6f11b5e3f4bba06dcc
 workflow-type: tm+mt
-source-wordcount: '2483'
-ht-degree: 77%
+source-wordcount: '2488'
+ht-degree: 76%
 
 ---
 
@@ -167,6 +167,7 @@ ht-degree: 77%
 
    + Crear y administrar plantillas de proyecto {#create-and-manage-project-templates}
       + [Creación de una plantilla de proyecto y exploración de modelos](/help/manage-work/create-and-manage-project-templates/create-a-project-template.md)
+      + [Instalar y utilizar un modelo](/help/manage-work/create-and-manage-project-templates/install-and-use-a-blueprint.md)
       + [Creación de un proyecto directamente a partir de una plantilla](/help/manage-work/create-and-manage-project-templates/create-a-project-directly-from-a-template.md)
       + [Uso compartido efectivo de una plantilla de proyecto](/help/manage-work/create-and-manage-project-templates/share-a-project-template.md)
       + [Copiar un proyecto existente de forma eficaz](/help/manage-work/manage-projects/copy-an-existing-project.md)
@@ -344,7 +345,7 @@ ht-degree: 77%
       + [Mejore el flujo de trabajo con la integración de G Suite](/help/integrations/g-suite-integrations/worfront-for-g-suite-integrations.md)
 
    + Jira {#jira}
-      + [Cree visibilidad con la integración  [!DNL Jira] &#x200B;](/help/integrations/jira/jira.md)
+      + [Cree visibilidad con la integración  [!DNL Jira] ](/help/integrations/jira/jira.md)
 
    + Microsoft Outlook {#outlook}
       + [Instalación del complemento de Microsoft Outlook](/help/integrations/outlook/integrations-microsoft-outlook.md)
@@ -522,7 +523,7 @@ ht-degree: 77%
       + [Comprender  [!DNL Workfront DAM]](/help/workfront-dam/system-setup/introduction-to-workfront-dam.md)
       + [Comprender la configuración del sistema](/help/workfront-dam/system-setup/system-setup-system-settings.md)
       + [Comprender [!UICONTROL Brand Portal]](/help/workfront-dam/system-setup/brand-connect-brand-portal-introduction.md)
-      + [Analizar y planificar una estrategia de  [!DNL Workfront DAM] &#x200B;](/help/workfront-dam/system-setup/analyze-and-plan-to-develop-a-workfront-dam-strategy.md)
+      + [Analizar y planificar una estrategia de  [!DNL Workfront DAM] ](/help/workfront-dam/system-setup/analyze-and-plan-to-develop-a-workfront-dam-strategy.md)
       + [Configurar grupos y usuarios](/help/workfront-dam/system-setup/system-setup-groups-and-users.md)
       + [Configuración de la integración en Workfront](/help/workfront-dam/system-setup/configure-the-integration-in-workfront.md)
       + [Personalizar [!DNL Workfront DAM]](/help/workfront-dam/system-setup/system-setup-customize-workfront-dam.md)
