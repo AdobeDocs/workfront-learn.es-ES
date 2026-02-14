@@ -23,7 +23,7 @@ ht-degree: 24%
 Descubra cómo un administrador instala un modelo y cómo un usuario lo pone en uso. En este ejemplo, instalaremos el modelo &quot;Formación de Workfront para nuevos usuarios&quot; y utilizaremos las plantillas y vistas que crea como lista de comprobación de formación para ayudar a habilitar a los usuarios en Workfront.
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3479833/?quality=12&learn=on&enablevpops=0)
+>[!VIDEO](https://video.tv.adobe.com/v/3479837/?captions=spa&quality=12&learn=on&enablevpops=0)
 
 ## Principales conclusiones
 
