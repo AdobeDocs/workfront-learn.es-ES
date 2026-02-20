@@ -9,13 +9,13 @@ role: User
 level: Beginner
 jira: KT-11038
 thumbnail: KT11038.png
-last-substantial-update: 2025-06-02T00:00:00Z
+last-substantial-update: 2026-02-19T00:00:00Z
 recommendations: noDisplay,catalog
 exl-id: 8ecf4979-f291-4788-bdaa-ab5485fb0849
-source-git-commit: 64b23532fba54ac1fbfba807e4b6f0490bfca631
+source-git-commit: 248683cd98cd123c4af9f34380a932deb714c62b
 workflow-type: tm+mt
-source-wordcount: '985'
-ht-degree: 97%
+source-wordcount: '1181'
+ht-degree: 77%
 
 ---
 
@@ -48,19 +48,37 @@ Cree un nuevo proyecto en Workfront para cada fila del archivo CSV de la lista d
 
    **Autentique la conexión del módulo a su cuenta de Workfront.**
 
-1. Para crear una conexión por primera vez, haga clic en el botón Añadir.
+1. Para poder conectarse a una instancia de Workfront, primero debe crear un conector OAuth 2.0 en esa instancia de Workfront. Para ello, inicia sesión en la instancia de Workfront y ve a **Configuración > Sistema > Aplicaciones OAuth2** y haz clic en **Crear integración de aplicaciones**.
 
-   ![Imagen 3 de diseño del escenario inicial](../12-exercises/assets/initial-scenario-design-3.png)
+Complete la primera página del formulario como se muestra a continuación y haga clic en **Crear**.
 
-1. Asigne un nombre a la conexión, como “Mi Workfront 2020”
+![Imagen de diseño inicial del escenario 3a](../12-exercises/assets/initial-scenario-design-3a.png)
 
-   ![Imagen 4 de diseño del escenario inicial](../12-exercises/assets/initial-scenario-design-4.png)
+Cuando aparezca la siguiente pantalla, rellene el campo **URL de redireccionamiento** con la siguiente URL:
 
-1. Escriba la dirección URL de **su cuenta de Workfront test drive** y haga clic en Siguiente.
+`https://app.workfrontfusion.com/oauth/cb/workfront-workfront`
 
-   ![Imagen 5 de diseño del escenario inicial](../12-exercises/assets/initial-scenario-design-5.png)
+![Imagen de diseño inicial del escenario 3b](../12-exercises/assets/initial-scenario-design-3b.png)
 
-1. Introduzca su contraseña y haga clic en Iniciar sesión.
+Luego haz clic en el botón **Agregar secreto de cliente**. Aparecerá el secreto de cliente. Cópielo y guárdelo en un lugar en el que pueda recuperarlo para un paso futuro. Lo necesitará en su escenario de Fusion. Copie y guarde también el **ID de cliente** para un paso futuro. Cuando termine de copiar estos, haga clic en **Guardar** en la parte inferior de la aplicación.
+
+![Imagen de diseño inicial del escenario 3c](../12-exercises/assets/initial-scenario-design-3c.png)
+
+1. Cuando vuelva a Fusion, haga clic en el botón **Agregar** para crear una conexión con Workfront.
+
+   ![Imagen de diseño inicial del escenario 3d](../12-exercises/assets/initial-scenario-design-3d.png)
+
+1. Seleccione **Adobe Workfront auth** como tipo de conexión y marque la casilla **Mostrar configuración avanzada**. Luego haz clic en **Continuar**.
+
+   ![Imagen de diseño inicial del escenario 4a](../12-exercises/assets/initial-scenario-design-4a.png)
+
+1. Use **ID de cliente** y **Secreto de cliente** que guardó anteriormente para rellenar aquí. Para la **URL de autenticación**, es más fácil copiar la URL de autenticación predeterminada que aparece debajo del campo, reemplazar `oauth.my` por `<domain name>.testdrive` y luego hacer clic en **Continuar**.
+
+   ![Imagen de diseño inicial del escenario 5a](../12-exercises/assets/initial-scenario-design-5a.png)
+
+1. Se debe autenticar su conexión. Es posible que tenga que iniciar sesión en Workfront. Haga clic en **Permitir acceso**.
+
+   ![Imagen de diseño inicial del escenario 5b](../12-exercises/assets/initial-scenario-design-5b.png)
 
    **Se establece la conexión. Ahora introduzca el ID del documento que desea descargar de Workfront.**
 
