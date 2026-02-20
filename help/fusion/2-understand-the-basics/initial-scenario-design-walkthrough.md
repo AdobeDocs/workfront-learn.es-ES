@@ -13,7 +13,7 @@ jira: KT-9001
 exl-id: 78408bf8-e676-4e49-b023-5ea0a6999229
 recommendations: noDisplay,catalog
 doc-type: video
-source-git-commit: 248683cd98cd123c4af9f34380a932deb714c62b
+source-git-commit: 181f611224fc0a981008b04579aa9886594dc183
 workflow-type: tm+mt
 source-wordcount: '130'
 ht-degree: 82%
@@ -34,9 +34,9 @@ Este vídeo contiene información sobre:
 * Usar el diseñador de escenarios
 * Crear un escenario básico
 
->[!VIDEO](https://video.tv.adobe.com/v/3415972/?captions=spa&quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/335261/?quality=12&learn=on&enablevpops=1)
 
-## Esta es la URL que se pegará en el campo **URL de redireccionamiento** al crear una integración de aplicación de OAuth en la instancia de la unidad de prueba
+**Esta es la URL que se pegará en el campo &quot;URL de redireccionamiento&quot; al crear una integración de aplicación OAuth en la instancia de la unidad de prueba**
 
 ```
 https://app.workfrontfusion.com/oauth/cb/workfront-workfront
@@ -44,4 +44,4 @@ https://app.workfrontfusion.com/oauth/cb/workfront-workfront
 
 ## ¿Desea obtener más información? Recomendamos lo siguiente:
 
-[Documentación de Workfront Fusion](https://experienceleague.adobe.com/es/docs/workfront-fusion/using/get-started-with-fusion/understand-workfront-fusion/workfront-fusion-overview)
+[Documentación de Workfront Fusion](https://experienceleague.adobe.com/en/docs/workfront-fusion/using/get-started-with-fusion/understand-workfront-fusion/workfront-fusion-overview)
