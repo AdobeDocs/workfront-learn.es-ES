@@ -63,4 +63,4 @@ Las instrucciones paso a paso le ayudarán a superar los ejercicios del tutorial
 
 [Documentación de Workfront Fusion](https://experienceleague.adobe.com/es/docs/workfront-fusion/using/get-started-with-fusion/understand-workfront-fusion/workfront-fusion-overview)
 
-También está la [comunidad de Workfront Fusion 2.0](https://experienceleaguecommunities.adobe.com/t5/workfront-fusion-2-0/ct-p/workfront-fusion-2) para publicar preguntas.
+También está la [comunidad de Workfront Fusion 2.0](https://experienceleaguecommunities.adobe.com/t5/workfront-fusion-2-0/ct-p/workfront-fusion-2?profile.language=es) para publicar preguntas.
