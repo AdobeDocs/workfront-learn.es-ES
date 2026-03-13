@@ -1,10 +1,10 @@
 ---
 user-guide-title: Tutoriales de Workfront
-user-guide-description: Una biblioteca de vídeos y artículos de formación diseñados para ayudarle a comprender mejor las funciones y la configuración de Workfront.
-source-git-commit: bb1f0cb236ff68aaa89a6d6f11b5e3f4bba06dcc
+user-guide-description: La biblioteca de vídeos de formación y artículos está estructurada para ayudarle a comprender mejor las funciones y la configuración de Workfront.
+source-git-commit: 1548354dd04aeeeeeb0e64726ea2256f7f832279
 workflow-type: tm+mt
-source-wordcount: '2488'
-ht-degree: 76%
+source-wordcount: '2485'
+ht-degree: 78%
 
 ---
 
@@ -67,7 +67,7 @@ ht-degree: 76%
 
    + Procesos de aprobación y rutas de hitos {#approval-processes-and-milestone-paths}
       + [Explicación de los procesos de aprobación específicos del grupo](/help/administration-and-setup/approval-processes-and-milestone-paths/group-specific-approval-processes.md)
-      + [Creación de rutas y pasos de hitos](/help/administration-and-setup/approval-processes-and-milestone-paths/creating-milestones.md)
+      + [Creación de trazados y pasos de hitos](/help/administration-and-setup/approval-processes-and-milestone-paths/creating-milestones.md)
 
    + Rendimiento y mantenimiento del sistema {#system-perfomance-and-maintenance}
       + [Encargarse de una instancia de Adobe Workfront existente](/help/administration-and-setup/system-performance-and-maintenance/take-charge-of-an-existing-workfront-instance.md)
@@ -105,37 +105,37 @@ ht-degree: 76%
 
 + Administración del trabajo {#manage-work}
    + Proyectos {#projects}
-      + [Creación y administración de un proyecto desde cero](/help/manage-work/projects/understand-basic-project-creation.md)
+      + [Crear y administrar un proyecto desde cero](/help/manage-work/projects/understand-basic-project-creation.md)
       + [Navegar por la página del proyecto](/help/manage-work/projects/navigate-the-project-page.md)
-      + [Explore cuatro métodos para crear un proyecto](/help/manage-work/projects/understand-other-ways-to-create-projects.md)
-      + [Rellene los detalles esenciales del proyecto](/help/manage-work/projects/fill-in-the-project-details.md)
+      + [Explora cuatro métodos para crear un proyecto](/help/manage-work/projects/understand-other-ways-to-create-projects.md)
+      + [Rellenar los detalles esenciales del proyecto](/help/manage-work/projects/fill-in-the-project-details.md)
       + [Planificar un proyecto de forma eficaz en Workfront](/help/manage-work/projects/getting-started-plan-a-project.md)
       + [Lanzamiento de un proyecto](/help/manage-work/projects/take-a-project-live.md)
-      + [Administrar un proyecto con estado actual](/help/manage-work/projects/getting-started-manage-a-project.md)
-      + [Buscar proyectos de forma eficaz](/help/manage-work/projects/find-projects.md)
-      + [Uso compartido efectivo de proyectos en Workfront](/help/manage-work/projects/share-a-project.md)
+      + [Administrar un proyecto con el estado actual](/help/manage-work/projects/getting-started-manage-a-project.md)
+      + [Encuentra proyectos de forma eficaz](/help/manage-work/projects/find-projects.md)
+      + [Compartir proyectos de forma eficaz en Workfront](/help/manage-work/projects/share-a-project.md)
       + [Información sobre el equipo del proyecto](/help/manage-work/projects/understand-the-project-team.md)
       + [Mejore el éxito del proyecto mediante una comunicación eficaz](/help/manage-work/projects/understand-project-communication.md)
       + [Explorar filtros, vistas y agrupaciones para la administración de proyectos](/help/manage-work/projects/view-project-information.md)
       + [Seguimiento del progreso general del proyecto](/help/manage-work/projects/track-overall-project-progress.md)
       + [Seguimiento del progreso del trabajo con las métricas del proyecto](/help/manage-work/projects/track-work-progress-with-project-metrics.md)
       + [Explorar la vista Gantt para la administración de proyectos](/help/manage-work/projects/understand-the-gantt-view.md)
-      + [Explorar la vista del tablero para administrar tareas](/help/manage-work/projects/understand-the-board-view.md)
+      + [Explorar la vista de tablero para la administración de tareas](/help/manage-work/projects/understand-the-board-view.md)
 
    + Tareas {#tasks}
-      + [Cree tareas de forma eficaz en Workfront](/help/manage-work/tasks/how-to-create-tasks.md)
-      + [Explicación de las relaciones entre tareas principales y secundarias](/help/manage-work/tasks/understand-parent-child-tasks.md)
-      + [Administrar tareas de forma eficaz en Workfront](/help/manage-work/tasks/work-with-tasks.md)
+      + [Crea tareas de forma eficaz en Workfront](/help/manage-work/tasks/how-to-create-tasks.md)
+      + [Comprensión de las relaciones entre tareas principales y secundarias](/help/manage-work/tasks/understand-parent-child-tasks.md)
+      + [Gestiona las tareas de forma eficaz en Workfront](/help/manage-work/tasks/work-with-tasks.md)
       + [Asignación de tareas del plan del proyecto](/help/manage-work/tasks/assign-tasks-from-the-project-plan.md)
-      + [Actualizar el estado de las tareas para obtener informes precisos](/help/manage-work/tasks/update-the-task-status.md)
+      + [Actualizar el estado de la tarea para obtener informes precisos](/help/manage-work/tasks/update-the-task-status.md)
       + [Información sobre las duraciones de las tareas](/help/manage-work/tasks/understand-task-durations.md)
       + [Secuenciar tareas de forma eficaz en Workfront](/help/manage-work/tasks/learn-to-sequence-tasks.md)
       + [Comprender las horas planificadas](/help/manage-work/tasks/understand-planned-hours.md)
       + [Calcular horas de tarea con esfuerzo de trabajo](/help/manage-work/tasks/understand-work-effort.md)
 
    + Problemas/solicitudes {#issues-requests}
-      + [Gestión eficaz del trabajo no planificado](/help/manage-work/issues-requests/handle-unplanned-work.md)
-      + [Creación y administración de solicitudes en Workfront](/help/manage-work/issues-requests/make-a-request.md)
+      + [Gestiona el trabajo no planificado de forma eficaz](/help/manage-work/issues-requests/handle-unplanned-work.md)
+      + [Creación y gestión de solicitudes en Workfront](/help/manage-work/issues-requests/make-a-request.md)
       + [Buscar y administrar solicitudes de forma eficaz](/help/manage-work/issues-requests/find-requests.md)
       + [Administrar asignaciones de problemas de forma eficaz](/help/manage-work/issues-requests/manage-issue-assignments.md)
       + [Actualizar estados de problemas de forma eficaz](/help/manage-work/tasks/update-the-issue-status.md)
@@ -148,7 +148,7 @@ ht-degree: 76%
       + [Explorar colas de solicitudes en Workfront](/help/manage-work/request-queues/understand-request-queues.md)
       + [Crear una cola de solicitudes en Workfront](/help/manage-work/request-queues/create-a-request-queue.md)
       + [Organizar la configuración del flujo de solicitudes](/help/manage-work/request-queues/understand-settings-for-a-flow-request.md)
-      + [Creación de un flujo de solicitud en Workfront](/help/manage-work/request-queues/create-a-request-flow.md)
+      + [Crear un flujo de solicitudes en Workfront](/help/manage-work/request-queues/create-a-request-flow.md)
       + [Crear una cola de solicitudes de comentarios de administrador del sistema](/help/manage-work/request-queues/create-a-system-admin-feedback-request-queue.md)
       + [Respuestas a preguntas comunes sobre las colas de solicitud](/help/manage-work/request-queues/request-queue-faq.md)
 
@@ -158,11 +158,11 @@ ht-degree: 76%
       + [Optimizar las prioridades del proyecto con la herramienta de optimización de Portfolio](/help/portfolios-and-programs/prioritize-and-manage-work-with-portfolios.md)
 
    + Procesos de aprobación y rutas de hitos {#approval-processes-and-milestone-paths}
-      + [Crear un proceso de aprobación global y de un solo uso](/help/manage-work/approval-processes-and-milestone-paths/create-a-single-use-approval-process.md)
-      + [Aplicar un proceso de aprobación de problema en una cola de solicitudes](/help/manage-work/approval-processes-and-milestone-paths/apply-an-issue-approval-process-in-a-request-queue.md)
+      + [Crear y administrar procesos de aprobación](/help/manage-work/approval-processes-and-milestone-paths/create-a-single-use-approval-process.md)
+      + [Aplicar un proceso de aprobación de problemas en una cola de solicitudes](/help/manage-work/approval-processes-and-milestone-paths/apply-an-issue-approval-process-in-a-request-queue.md)
       + [Revisar y aprobar el trabajo digital](/help/manage-work/issues-requests/review-and-approve-digital-work.md)
       + [Delegar tareas, problemas y aprobaciones de forma eficaz](/help/manage-work/approval-processes-and-milestone-paths/delegate-approvals.md)
-      + [Aplicar rutas de hitos a proyectos y tareas](/help/manage-work/approval-processes-and-milestone-paths/apply-milestones.md)
+      + [Aplicación de rutas de hitos a proyectos y tareas](/help/manage-work/approval-processes-and-milestone-paths/apply-milestones.md)
       + [Ver hitos en sus proyectos](/help/manage-work/approval-processes-and-milestone-paths/view-milestones.md)
 
    + Crear y administrar plantillas de proyecto {#create-and-manage-project-templates}
@@ -177,7 +177,7 @@ ht-degree: 76%
    + Cronologías del proyecto {#project-timelines}
       + [Exploración de las cronologías de proyectos en Workfront](/help/manage-work/project-timelines/understand-project-timelines.md)
       + [Comprender los tipos de fechas y el estado de progreso](/help/manage-work/project-timelines/understand-task-dates-and-progress-status.md)
-      + [Seguimiento del progreso mediante porcentaje completado y estado de progreso](/help/manage-work/project-timelines/track-work-progress-from-the-project-timeline.md)
+      + [Seguimiento del progreso mediante el porcentaje completado y el estado del progreso](/help/manage-work/project-timelines/track-work-progress-from-the-project-timeline.md)
 
    + Cierre de un proyecto {#close-a-project}
       + [Cambiar el estado del proyecto a completo](/help/manage-work/projects/change-the-project-status.md)
@@ -189,23 +189,23 @@ ht-degree: 76%
    + Finanzas del proyecto para usuarios {#project-finances-users}
       + [Acceso y administración de información financiera para proyectos y tareas](/help/manage-work/project-finances/find-financial-information.md)
       + [Actualizar finanzas para proyectos de clientes](/help/manage-work/project-finances/update-and-review-finances.md)
-      + [Personalizar las tarifas de facturación para los roles](/help/manage-work/project-finances/multiple-billing-rates.md)
+      + [Personalizar los índices de facturación para las funciones de trabajo](/help/manage-work/project-finances/multiple-billing-rates.md)
 
    + Proyectos intermedios {#intermediate-projects}
-      + [Tipos de duración maestros y restricciones de tareas](/help/manage-work/intermediate-projects/understand-and-manage-duration-types-and-task-constraints.md)
-      + [Establecer dependencias con predecesoras entre proyectos](/help/manage-work/intermediate-projects/understand-cross-project-predecessors.md)
-      + [Dominar dependencias de tareas avanzadas](/help/manage-work/intermediate-projects/advanced-predecessors.md)
+      + [Tipos de duración maestra y delimitaciones de tareas](/help/manage-work/intermediate-projects/understand-and-manage-duration-types-and-task-constraints.md)
+      + [Establecer dependencias con predecesores entre proyectos](/help/manage-work/intermediate-projects/understand-cross-project-predecessors.md)
+      + [Domina las dependencias de tareas avanzadas](/help/manage-work/intermediate-projects/advanced-predecessors.md)
 
 
 + Informes {#reporting}
    + Informes básicos {#basic-reporting}
-      + [Explorar elementos de informes de Workfront](/help/reporting/basic-reporting/reporting-elements.md)
-      + [Exploración de los componentes de informes en Workfront](/help/reporting/basic-reporting/reporting-components.md)
+      + [Explorar los elementos de informes de Workfront](/help/reporting/basic-reporting/reporting-elements.md)
+      + [Explora los componentes de informes en Workfront](/help/reporting/basic-reporting/reporting-components.md)
       + [Creación de una agrupación básica](/help/reporting/basic-reporting/create-a-basic-grouping.md)
       + [Creación de una vista básica](/help/reporting/basic-reporting/create-a-basic-view.md)
       + [Añadir un formato condicional básico a una vista](/help/reporting/basic-reporting/add-basic-conditional-formatting-to-a-view.md)
       + [Creación de un filtro básico](/help/reporting/basic-reporting/create-a-basic-filter.md)
-      + [Explorar la nueva experiencia de filtrado](/help/reporting/basic-reporting/understand-the-new-filter-experience.md)
+      + [Explora la nueva experiencia de filtrado](/help/reporting/basic-reporting/understand-the-new-filter-experience.md)
       + [Creación de actividades de filtro básicas](/help/reporting/basic-reporting/create-a-basic-filter-activity.md)
       + [Creación de un informe simple](/help/reporting/basic-reporting/create-a-simple-report.md)
       + [Crear un informe de tareas para asignaciones tardías](/help/reporting/basic-reporting/create-a-task-report.md)
@@ -222,11 +222,11 @@ ht-degree: 76%
       + [Crear instrucciones OR en filtros](/help/reporting/intermediate-reporting/or-statements-in-filters.md)
       + [Exploración de filtros de proyecto integrados](/help/reporting/intermediate-reporting/open-built-in-project-filters.md)
       + [Explorar filtros de tareas integrados](/help/reporting/intermediate-reporting/open-built-in-task-filters.md)
-      + [Exploración de los filtros de problemas integrados](/help/reporting/intermediate-reporting/open-built-in-issue-filters.md)
-      + [Explorar el modo de texto básico de los filtros en Workfront](/help/reporting/intermediate-reporting/basic-text-mode-for-filters.md)
+      + [Explora los filtros de problemas integrados](/help/reporting/intermediate-reporting/open-built-in-issue-filters.md)
+      + [Explorar el modo de texto básico para filtros en Workfront](/help/reporting/intermediate-reporting/basic-text-mode-for-filters.md)
       + [Explorar el modo de texto básico para vistas en Workfront](/help/reporting/intermediate-reporting/basic-text-mode-for-views.md)
-      + [Explorar el modo de texto básico para agrupaciones en Workfront](/help/reporting/intermediate-reporting/basic-text-mode-for-groupings.md)
-      + [Creación de mensajes personalizados con el modo de texto](/help/reporting/intermediate-reporting/custom-prompts.md)
+      + [Explora el modo de texto básico para agrupar en Workfront](/help/reporting/intermediate-reporting/basic-text-mode-for-groupings.md)
+      + [Creación de mensajes personalizados mediante el modo de texto](/help/reporting/intermediate-reporting/custom-prompts.md)
       + [Crear filtros EXISTENTES para informes complejos](/help/reporting/intermediate-reporting/understand-exists-filters.md)
 
    + Informes avanzados {#advanced-reporting}
@@ -238,16 +238,16 @@ ht-degree: 76%
    + Informes de calendario {#calendar-reports}
       + [Exploración de la interfaz de informes de calendario](/help/reporting/basic-reporting/tour-of-the-interface.md)
       + [Creación de un informe de calendario personalizado](/help/reporting/basic-reporting/creating-custom-calendars.md)
-      + [Explorar las funcionalidades avanzadas de informes de calendario](/help/reporting/basic-reporting/additional-calendar-options.md)
+      + [Explora las funciones avanzadas de informes de calendario](/help/reporting/basic-reporting/additional-calendar-options.md)
       + [Actividad: crear un informe de calendario](/help/reporting/basic-reporting/your-turn-to-create-a-calendar.md)
 
    + Paneles de control de lienzo {#canvas-dashboards}
       + [Explorar paneles de lienzo en Workfront](/help/reporting/canvas-dashboards/introduction-to-canvas-dashboards.md)
       + [Crear un informe KPI en un panel de lienzo](/help/reporting/canvas-dashboards/create-a-kpi-report-on-a-canvas-dashboard.md)
       + [Creación de un informe de gráfico en un panel de lienzo](/help/reporting/canvas-dashboards/create-a-chart-report-on-a-canvas-dashboard.md)
-      + [Creación de un informe de tabla en un panel de lienzo](/help/reporting/canvas-dashboards/create-a-table-report-on-a-canvas-dashboard.md)
-      + [Añadir formato condicional a un informe de panel de lienzo](/help/reporting/canvas-dashboards/add-conditional-formatting-to-a-canvas-dashboard-report.md)
-      + [Aplicación de un filtro O en un informe de panel de lienzo](/help/reporting/canvas-dashboards/use-an-or-filter-in-a-canvas-dashboard-report.md)
+      + [Crear un informe de tabla en un panel de Canvas](/help/reporting/canvas-dashboards/create-a-table-report-on-a-canvas-dashboard.md)
+      + [Añadir formato condicional a un informe de Canvas Dashboard](/help/reporting/canvas-dashboards/add-conditional-formatting-to-a-canvas-dashboard-report.md)
+      + [Aplicación de un filtro O en un informe del panel de Canvas](/help/reporting/canvas-dashboards/use-an-or-filter-in-a-canvas-dashboard-report.md)
 
 + Administran los recursos {#manage-resources}
    + Administración de recursos {#resource-management}
@@ -271,7 +271,7 @@ ht-degree: 76%
       + [Ver por función](/help/manage-resources/resource-planning/view-by-job-role/view-by-job-role.md)
       + [Ver por proyecto](/help/manage-resources/resource-planning/view-by-project/view-by-project.md)
 
-   + Calendario personal de días libres {#personal-time-off-calendar}
+   + Calendario de tiempo libre personal {#personal-time-off-calendar}
       + [¿Por qué utilizar el calendario de días libres?](/help/manage-resources/pto/why-use-time-off-calendar.md)
       + [Cómo afectan los días libres a las cronologías del proyecto](/help/manage-resources/pto/how-time-off-affects-project-timelines.md)
       + [Administración de los días libres de otros usuarios](/help/manage-resources/pto/manage-other-users-time-off.md)
@@ -328,8 +328,8 @@ ht-degree: 76%
    + [Creación y administración de vistas de tabla](/help/workfront-planning/create-and-manage-table-views.md)
    + [Creación y administración de vistas de cronología](/help/workfront-planning/create-and-manage-timeline-views.md)
    + [Conectar tipos de registro](/help/workfront-planning/connect-record-types.md)
-   + [Creación de un formulario de solicitud de tipo de registro](/help/workfront-planning/create-a-record-type-request-form.md)
-   + [Ventajas de la planificación de Workfront para los equipos de diseño de UX](/help/workfront-planning/benefits-of-workfront-planning-for-ux-design-teams.md)
+   + [Crear un formulario de solicitud de tipo de registro](/help/workfront-planning/create-a-record-type-request-form.md)
+   + [Ventajas de la planificación de Workfront para equipos de diseño de UX](/help/workfront-planning/benefits-of-workfront-planning-for-ux-design-teams.md)
 
 + Integraciones {#integrations}
    + Adobe Creative Cloud {#adobe-creative-cloud}
@@ -345,7 +345,7 @@ ht-degree: 76%
       + [Mejore el flujo de trabajo con la integración de G Suite](/help/integrations/g-suite-integrations/worfront-for-g-suite-integrations.md)
 
    + Jira {#jira}
-      + [Cree visibilidad con la integración  [!DNL Jira] &#x200B;](/help/integrations/jira/jira.md)
+      + [Cree visibilidad con la integración  [!DNL Jira] ](/help/integrations/jira/jira.md)
 
    + Microsoft Outlook {#outlook}
       + [Instalación del complemento de Microsoft Outlook](/help/integrations/outlook/integrations-microsoft-outlook.md)
@@ -367,7 +367,7 @@ ht-degree: 76%
       + [Realizar aprobaciones mediante [!UICONTROL Slack]](/help/integrations/slack/make-approvals-through-slack.md)
       + [Buscar en Workfront mediante [!UICONTROL Slack]](/help/integrations/slack/search-workfront-through-slack.md)
 
-+ Fusion {#fusion}
++ Fusión {#fusion}
    + Bienvenido a Workfront Fusion {#welcome-to-workfront-fusion}
       + [Introducción y estrategia tecnológica](/help/fusion/1-welcome-to-workfront-fusion/introduction-and-tech-strategy.md)
       + [Iniciar sesión como nuevo usuario](/help/fusion/1-welcome-to-workfront-fusion/log-in-as-a-new-user.md)
@@ -523,7 +523,7 @@ ht-degree: 76%
       + [Comprender  [!DNL Workfront DAM]](/help/workfront-dam/system-setup/introduction-to-workfront-dam.md)
       + [Comprender la configuración del sistema](/help/workfront-dam/system-setup/system-setup-system-settings.md)
       + [Comprender [!UICONTROL Brand Portal]](/help/workfront-dam/system-setup/brand-connect-brand-portal-introduction.md)
-      + [Analizar y planificar una estrategia de  [!DNL Workfront DAM] &#x200B;](/help/workfront-dam/system-setup/analyze-and-plan-to-develop-a-workfront-dam-strategy.md)
+      + [Analizar y planificar una estrategia de  [!DNL Workfront DAM] ](/help/workfront-dam/system-setup/analyze-and-plan-to-develop-a-workfront-dam-strategy.md)
       + [Configurar grupos y usuarios](/help/workfront-dam/system-setup/system-setup-groups-and-users.md)
       + [Configuración de la integración en Workfront](/help/workfront-dam/system-setup/configure-the-integration-in-workfront.md)
       + [Personalizar [!DNL Workfront DAM]](/help/workfront-dam/system-setup/system-setup-customize-workfront-dam.md)

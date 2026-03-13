@@ -1,5 +1,5 @@
 ---
-title: Crear un proceso de aprobación global y de un solo uso
+title: Creación y administración de procesos de aprobación
 description: Mejore los flujos de trabajo de aprobación aprovechando los procesos de aprobación globales y de un solo uso para tareas, proyectos o problemas, implementando aprobaciones por fases de varios niveles y promoviendo la eficacia mediante la reutilización en plantillas de proyecto.
 activity: use
 feature: Approvals
@@ -13,22 +13,22 @@ last-substantial-update: 2025-03-26T00:00:00Z
 recommendations: noDisplay,catalog
 exl-id: 85d28b54-72a6-4dd1-bac8-8e7ffb3e2b76
 doc-type: video
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 1548354dd04aeeeeeb0e64726ea2256f7f832279
 workflow-type: tm+mt
-source-wordcount: '294'
-ht-degree: 25%
+source-wordcount: '288'
+ht-degree: 20%
 
 ---
 
-# Crear un proceso de aprobación global y de un solo uso
+# Creación y administración de procesos de aprobación
 
 En el vídeo se explica cómo crear y administrar procesos de aprobación para proyectos, tareas o problemas, distinguiendo entre procesos de aprobación globales y de un solo uso.
 El vídeo muestra la creación de procesos de aprobación, la configuración de aprobadores, la configuración de estados y el uso de fases para aprobaciones de varios niveles.
 palo de golfDestaca la flexibilidad de los procesos globales y de un solo uso para administrar las aprobaciones de tareas de forma eficaz.
 
->[!VIDEO](https://video.tv.adobe.com/v/3434690/?quality=12&learn=on&enablevpops=1&captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/335225/?quality=12&learn=on&enablevpops=1)
 
-## Puntos clave
+## Principales conclusiones
 
 * **Tipos de procesos de aprobación:** Existen dos tipos: procesos de aprobación globales (compartidos entre tareas, proyectos o problemas) y procesos de aprobación de un solo uso (específicos de una sola tarea, proyecto o problema).
 * **Procesos de aprobación globales:** Estos se crean en la sección Configuración > Procesos > Aprobaciones y se pueden activar según estados específicos. palo de golf Pueden incluir varios aprobadores o aprobaciones organizadas.
