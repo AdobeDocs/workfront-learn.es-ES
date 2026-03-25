@@ -9,10 +9,10 @@ activity: use
 team: Technical Marketing
 thumbnail: to-know-expressions.png
 exl-id: 512a3071-f47f-4fd4-bf5f-9b18bef8ba59
-source-git-commit: 409147f9a62302d28e14b834981992a0421d4e4b
+source-git-commit: 2bfb833431370c0debe85d3d3376cf907632042e
 workflow-type: tm+mt
-source-wordcount: '964'
-ht-degree: 100%
+source-wordcount: '959'
+ht-degree: 98%
 
 ---
 
@@ -44,7 +44,7 @@ La forma recomendada de escribir expresiones es con poco o ningún espaciado ent
 
 Sin embargo, si el espaciado le ayuda a ver lo que está sucediendo, se puede añadir algo de espaciado a las expresiones. Los espacios adicionales no deben impedir que la expresión recopile o calcule un valor en [!DNL Workfront].
 
-* IF (ISBLANK ({description}), &quot;Sin descripción&quot;, &quot;Tiene descripción&quot; )
+* IF (ESBLANCO ({description}), &quot;Sin descripción&quot; , &quot;Tiene descripción&quot; )
 
 ![Expresiones con espaciado entre campos](assets/T2K03.png)
 
@@ -117,8 +117,10 @@ Desea hacer lo mismo para una iteración. Puede utilizar la misma expresión; si
 
 Según la necesidad, los campos calculados en los formularios personalizados pueden ser bastante sencillos o muy complejos. Las expresiones pueden incrustar o anidar otras expresiones y valores para proporcionar el nivel de detalle necesario para obtener una mejor imagen de lo que está sucediendo con el trabajo realizado en su organización.
 
-<!--Depending on the need, calculated fields in custom forms can be quite simple or very complex. Expressions can embed, or nest, other expressions and values to provide the level of detail needed to get a better picture of what is going on with the work being done at your organization. 
+<!--
+Depending on the need, calculated fields in custom forms can be quite simple or very complex. Expressions can embed, or nest, other expressions and values to provide the level of detail needed to get a better picture of what is going on with the work being done at your organization. 
 
 Most of the examples and exercises in this course have been relatively simple to provide a base understanding of the expressions most commonly used and how to build those expressions in a custom calculated field. 
 
-Now you're ready to start building your own calculated custom fields.-->
+Now you're ready to start building your own calculated custom fields.
+-->

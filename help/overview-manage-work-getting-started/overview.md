@@ -1,6 +1,6 @@
 ---
 title: 'Administrar trabajo: introducción'
-description: Inicie la recorrido de Workfront aprendiendo a crear y planificar proyectos. Workfront recomienda mantener las cosas simples.
+description: Inicie el recorrido de Workfront aprendiendo a crear y planificar proyectos. Workfront recomienda mantener las cosas simples.
 feature: Work Management
 type: Tutorial
 role: User
@@ -11,22 +11,22 @@ last-substantial-update: 2024-08-23T00:00:00Z
 jira: KT-10669
 mini-toc-levels: 1
 recommendations: noDisplay,catalog
-index: y
+index: true
 exl-id: 6cb8465a-f59a-41b9-a043-0f76b71980a3
-source-git-commit: 422b07bc6b1941316a9e441560929d9b2832232f
+source-git-commit: 4670302db899675ec45cb633451e2d232f312e2d
 workflow-type: tm+mt
 source-wordcount: '943'
-ht-degree: 4%
+ht-degree: 6%
 
 ---
 
 # Administrar trabajo: introducción {#overview}
 
-Inicie la recorrido de Workfront aprendiendo a crear y planificar proyectos. Workfront recomienda mantener las cosas simples.
+Inicie el recorrido de Workfront aprendiendo a crear y planificar proyectos. Workfront recomienda mantener las cosas simples.
 
 En este tutorial, aprenderá a crear un proyecto, a planearlo, a administrarlo y a cerrarlo.
 
-Después de completar este tutorial, recomendamos [Administrar trabajo - Intermedio](https://experienceleague.adobe.com/docs/workfront-learn/manage-work-intermediate/overview.html?lang=es) para perfeccionar aún más sus habilidades de administración de proyectos.
+Después de completar este tutorial, recomendamos [Administrar trabajo - Intermedio](https://experienceleague.adobe.com/docs/workfront-learn/manage-work-intermediate/overview.html) para perfeccionar aún más sus habilidades de administración de proyectos.
 
 >[!PREREQUISITES]
 >

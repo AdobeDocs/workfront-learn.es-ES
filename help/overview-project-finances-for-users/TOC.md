@@ -4,8 +4,8 @@ user-guide-description: Obtenga información sobre cómo realizar un seguimiento
 breadcrumb-title: Finanzas del proyecto para usuarios
 solution: Workfront
 sub-product: Work Management
-index: y
-source-git-commit: 5c71f8a9114a1f00da0e889da04f35cce11c5bde
+index: true
+source-git-commit: 4670302db899675ec45cb633451e2d232f312e2d
 workflow-type: tm+mt
 source-wordcount: '65'
 ht-degree: 47%

@@ -11,9 +11,9 @@ last-substantial-update: 2024-08-26T00:00:00Z
 jira: KT-10671
 mini-toc-levels: 1
 recommendations: noDisplay,catalog
-index: y
+index: true
 exl-id: 4903b21b-d673-402b-8fd8-3e6b50d44c4d
-source-git-commit: 422b07bc6b1941316a9e441560929d9b2832232f
+source-git-commit: 4670302db899675ec45cb633451e2d232f312e2d
 workflow-type: tm+mt
 source-wordcount: '766'
 ht-degree: 0%
@@ -38,7 +38,7 @@ Profundice para obtener más información sobre cómo sacar el máximo partido a
 >
 >* Buen conocimiento del uso de Workfront
 >* Tipo de licencia estándar con derechos para crear proyectos habilitados
->* [Administrar trabajo - introducción](https://experienceleague.adobe.com/?lang=es&recommended=Workfront-U-1-2022.1.planners)
+>* [Administrar trabajo - introducción](https://experienceleague.adobe.com/?recommended=Workfront-U-1-2022.1.planners)
 
 
 ## Plantillas de proyecto

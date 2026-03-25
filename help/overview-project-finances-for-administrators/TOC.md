@@ -4,11 +4,11 @@ user-guide-description: Aprenda a establecer una configuración financiera de to
 breadcrumb-title: Finanzas del proyecto para administradores
 solution: Workfront
 sub-product: Work Management
-index: y
-source-git-commit: 5c71f8a9114a1f00da0e889da04f35cce11c5bde
+index: true
+source-git-commit: 4670302db899675ec45cb633451e2d232f312e2d
 workflow-type: tm+mt
 source-wordcount: '57'
-ht-degree: 63%
+ht-degree: 70%
 
 ---
 

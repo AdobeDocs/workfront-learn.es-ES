@@ -5,11 +5,11 @@ feature: Work Management
 breadcrumb-title: 'Administrar trabajo: introducción'
 solution: Workfront
 sub-product: Work Management
-index: y
-source-git-commit: 422b07bc6b1941316a9e441560929d9b2832232f
+index: true
+source-git-commit: 4670302db899675ec45cb633451e2d232f312e2d
 workflow-type: tm+mt
 source-wordcount: '196'
-ht-degree: 68%
+ht-degree: 71%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 68%
 # Administrar trabajo: introducción {#manage-work-getting-started}
 
 + [Administrar trabajo: introducción](overview.md)
-+ Administrar trabajo - Introducción {#manage-work-getting-started}
++ Administrar trabajo: introducción {#manage-work-getting-started}
    + Crear un proyecto {#create-a-project}
       + [Información sobre la creación básica del proyecto](understand-basic-project-creation.md)
       + [Convertir un problema/solicitud en un proyecto](create-a-project-from-a-request.md)

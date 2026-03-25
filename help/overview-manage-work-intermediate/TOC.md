@@ -5,11 +5,11 @@ feature: Work Management
 breadcrumb-title: Administrar trabajo - intermedio
 solution: Workfront
 sub-product: Work Management
-index: y
-source-git-commit: 422b07bc6b1941316a9e441560929d9b2832232f
+index: true
+source-git-commit: 4670302db899675ec45cb633451e2d232f312e2d
 workflow-type: tm+mt
 source-wordcount: '173'
-ht-degree: 63%
+ht-degree: 64%
 
 ---
 
@@ -26,13 +26,13 @@ ht-degree: 63%
       + [Desactivar una plantilla de proyecto](deactivate-a-project-template.md)
       + [Editar el equipo del proyecto en una plantilla de proyecto](edit-the-project-team-in-a-project-template.md)
 
-   + Crear y usar procesos de aprobación {#how-to-create-and-use-approval-processes}
+   + Creación y uso de procesos de aprobación {#how-to-create-and-use-approval-processes}
       + [Crear un proceso de aprobación global y de un solo uso](create-a-single-use-approval-process.md)
       + [Explicación de los procesos de aprobación específicos del grupo](group-specific-approval-processes.md)
       + [Revisar y aprobar el trabajo digital](review-and-approve-digital-work.md)
       + [Delegar tareas, problemas y aprobaciones](delegate-approvals.md)
 
-   + Crear y usar hitos {#how-to-create-and-use-milestones}
+   + Creación y uso de hitos {#how-to-create-and-use-milestones}
       + [Crear hitos](creating-milestones.md)
       + [Aplicar hitos](apply-milestones.md)
       + [Ver hitos](view-milestones.md)
@@ -47,7 +47,7 @@ ht-degree: 63%
       + [Convertir un problema/solicitud en una tarea](convert-issues-to-other-work-items.md)
       + [Informe de problemas](report-on-issues.md)
 
-   + Explorando más profundo {#digging-deeper}
+   + Profundizando {#digging-deeper}
       + [Explicación y administración de los tipos de duración y las restricciones de tareas](understand-and-manage-duration-types-and-task-constraints.md)
       + [Comprender a los predecesores de varios proyectos](understand-cross-project-predecessors.md)
       + [Predecesoras avanzadas](advanced-predecessors.md)
