@@ -38,7 +38,7 @@ Profundice para obtener más información sobre cómo sacar el máximo partido a
 >
 >* Buen conocimiento del uso de Workfront
 >* Tipo de licencia estándar con derechos para crear proyectos habilitados
->* [Administrar trabajo - introducción](https://experienceleague.adobe.com/?recommended=Workfront-U-1-2022.1.planners)
+>* [Administrar trabajo - introducción](https://experienceleague.adobe.com/?lang=es&recommended=Workfront-U-1-2022.1.planners)
 
 
 ## Plantillas de proyecto
