@@ -1,7 +1,7 @@
 ---
 source-git-commit: 960fec2f8329aa037e7342a63f37f8c26042e8d4
-workflow-type: ht
-source-wordcount: '424'
+workflow-type: tm+mt
+source-wordcount: '401'
 ht-degree: 100%
 
 ---
@@ -57,4 +57,4 @@ Todos los artículos de este repositorio usan markdown al estilo de GitHub. Si n
 En el repositorio público, se asignan etiquetas automatizadas a las solicitudes de extracción para ayudarnos a gestionar su flujo de trabajo y para ayudarle a saber qué está pasando con su solicitud de extracción:
 
 * **Cambio enviado al autor**: el autor está informado de la solicitud de extracción pendiente.
-* **Listo para fusionar**: listo para que el equipo de revisión de solicitudes de extracción lo revise.
+* **Listo para combinar**: listo para que el equipo de revisión de solicitudes de extracción lo revise.
