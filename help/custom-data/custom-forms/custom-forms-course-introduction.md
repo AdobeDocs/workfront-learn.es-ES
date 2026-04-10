@@ -8,11 +8,10 @@ level: Beginner, Intermediate
 activity: use
 team: Technical Marketing
 jira: KT-8908
-hidefromtoc: true
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: d35545dcc670baef47834464a0a7aae9e50daf18
 workflow-type: tm+mt
-source-wordcount: '37'
-ht-degree: 100%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -20,4 +19,4 @@ ht-degree: 100%
 
 En este vídeo, aprenderá qué es un formulario personalizado y cómo se puede utilizar para capturar información específica de la organización.
 
->[!VIDEO](https://video.tv.adobe.com/v/3432761/?quality=12&learn=on&enablevpops=1&captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/335171/?quality=12&learn=on&enablevpops=1)
