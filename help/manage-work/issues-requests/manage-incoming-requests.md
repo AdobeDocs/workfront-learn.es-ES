@@ -1,6 +1,6 @@
 ---
 title: Administrar solicitudes
-description: Obtenga información sobre cómo encontrar solicitudes que se han enviado mediante tableros, [!UICONTROL Inicio], el área de [!UICONTROL Solicitudes] o la página [!UICONTROL Equipos] en  [!DNL  Workfront].
+description: Obtenga información sobre cómo encontrar solicitudes que se han enviado mediante tableros, [!UICONTROL Inicio], el área de [!UICONTROL Solicitudes] o la página [!UICONTROL Equipos] en  [!DNL &#x200B; Workfront].
 activity: use
 team: Technical Marketing
 feature: Work Management
