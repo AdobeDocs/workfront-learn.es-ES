@@ -11,8 +11,7 @@ thumbnail: myupdates.png
 jira: KT-10081
 exl-id: fed89b2d-5092-426d-8af4-4268d89bc29d
 hide: true
-hidefromtoc: true
-source-git-commit: 76bccb731d1257fee3e3c0c20dde8efa2270a9c3
+source-git-commit: d35545dcc670baef47834464a0a7aae9e50daf18
 workflow-type: tm+mt
 source-wordcount: '191'
 ht-degree: 92%
@@ -26,7 +25,7 @@ Workfront proporciona dos lugares para acceder al trabajo que se le ha asignado 
 * [!DNL My Updates]
 * [!DNL Home]
 
-La página [!DNL My Updates] mantiene las cosas sencillas mostrando las solicitudes de aprobación que se le han asignado, además de las actualizaciones en las que está incluido. Esta página se carga de forma predeterminada para los usuarios con licencia de revisión cuando inicia sesión en Workfront, a menos que el administrador del sistema de su organización haya establecido una página de aterrizaje diferente.
+La página [!DNL My Updates] mantiene las cosas sencillas mostrando las solicitudes de aprobación que se le han asignado, además de las actualizaciones en las que está incluido. Esta página se carga de forma predeterminada para los usuarios con licencia de revisión cuando inicia sesión en Workfront, a menos que el administrador del sistema de su organización haya establecido una página de destino diferente.
 
 ![Una imagen de la página [!DNL My Updates] &#x200B;](assets/my-updates-overview.png)
 
