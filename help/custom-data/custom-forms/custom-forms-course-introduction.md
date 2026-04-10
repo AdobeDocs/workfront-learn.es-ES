@@ -19,4 +19,4 @@ ht-degree: 0%
 
 En este vídeo, aprenderá qué es un formulario personalizado y cómo se puede utilizar para capturar información específica de la organización.
 
->[!VIDEO](https://video.tv.adobe.com/v/335171/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3432761/?captions=spa&quality=12&learn=on&enablevpops=1)
