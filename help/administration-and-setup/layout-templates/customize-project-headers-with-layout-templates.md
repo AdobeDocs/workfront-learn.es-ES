@@ -1,25 +1,25 @@
 ---
 title: Personalizar encabezados de proyecto con plantillas de diseño
-description: Aprenda a añadir y eliminar campos de encabezados de proyecto mediante plantillas de diseño.
+description: Aprenda a personalizar los encabezados de los proyectos, mostrar los detalles clave y optimizar los flujos de trabajo con las plantillas de diseño en la plataforma de Adobe.
 feature: System Setup and Administration
-activity: deploy
-team: Technical Marketing
+topic: Personalization
 role: Admin
-level: Intermediate
-type: Tutorial
-thumbnail: null
-jira: KT-11108
-doc-type: video
-exl-id: e70029ce-e30e-42c2-aed0-849403dfb5e7
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+level: Beginner
+doc-type: Feature Video
+duration: 240
+last-substantial-update: 2026-04-15T00:00:00Z
+jira: KT-20209
+source-git-commit: 58bb8b11c151c3b8c72d0518a11acb78dfa58ce5
 workflow-type: tm+mt
-source-wordcount: '38'
-ht-degree: 100%
+source-wordcount: '81'
+ht-degree: 7%
 
 ---
 
+
 # Personalizar encabezados de proyecto con plantillas de diseño
 
-Aprenda a añadir y eliminar campos de encabezados de proyecto mediante plantillas de diseño.
+Descubra cómo adaptar los encabezados de los proyectos para que muestren solo la información más relevante mediante plantillas de diseño. Aprenda a eliminar campos innecesarios, agregar campos personalizados y organizarlos de forma eficaz. Esto garantiza que los equipos puedan acceder rápidamente a los detalles esenciales del proyecto, lo que mejora la claridad y la eficacia. Vea el siguiente vídeo para obtener instrucciones paso a paso sobre cómo optimizar los encabezados de proyecto.
 
->[!VIDEO](https://video.tv.adobe.com/v/3422849?captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/3483466/?captions=spa&learn=on&enablevpops)
+
