@@ -21,5 +21,5 @@ ht-degree: 7%
 
 Descubra cómo adaptar los encabezados de los proyectos para que muestren solo la información más relevante mediante plantillas de diseño. Aprenda a eliminar campos innecesarios, agregar campos personalizados y organizarlos de forma eficaz. Esto garantiza que los equipos puedan acceder rápidamente a los detalles esenciales del proyecto, lo que mejora la claridad y la eficacia. Vea el siguiente vídeo para obtener instrucciones paso a paso sobre cómo optimizar los encabezados de proyecto.
 
->[!VIDEO](https://video.tv.adobe.com/v/3483451/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3483466/?captions=spa&learn=on&enablevpops)
 

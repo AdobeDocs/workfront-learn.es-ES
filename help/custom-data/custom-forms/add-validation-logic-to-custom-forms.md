@@ -20,5 +20,5 @@ ht-degree: 0%
 
 Descubra cómo agregar lógica de validación a los formularios personalizados para garantizar la precisión de los datos y guiar a los usuarios en la cumplimentación correcta de los formularios. La implementación de la lógica de validación ayuda a evitar errores, optimiza los procesos y mejora la eficacia del equipo. Aprenda instrucciones paso a paso para crear condiciones, establecer mensajes de error y probar las validaciones de forma eficaz. Vea el siguiente vídeo para dominar esta función esencial.
 
->[!VIDEO](https://video.tv.adobe.com/v/3483426/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3483429/?captions=spa&learn=on&enablevpops)
 

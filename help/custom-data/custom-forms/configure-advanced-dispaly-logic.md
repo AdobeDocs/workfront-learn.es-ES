@@ -21,5 +21,5 @@ ht-degree: 0%
 
 Descubra cómo utilizar expresiones de lógica de visualización avanzadas para controlar la visibilidad de los campos y las secciones de formulario personalizados. Esta función le ayuda a crear formularios más dinámicos y adaptados, alineándolos con las necesidades específicas del usuario y mejorando la eficacia del flujo de trabajo.
 
->[!VIDEO](https://video.tv.adobe.com/v/3483439/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3483454/?captions=spa&learn=on&enablevpops)
 

@@ -21,5 +21,5 @@ ht-degree: 0%
 
 Descubra cómo configurar la localización definida por el usuario para mostrar contenido en varios idiomas en función de las preferencias del usuario. Esta función simplifica la colaboración entre regiones al permitir que los equipos trabajen en su lengua materna. Vea el siguiente vídeo para aprender a configurar y administrar traducciones específicas de idiomas de forma eficaz.
 
->[!VIDEO](https://video.tv.adobe.com/v/3483438/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3483442/?captions=spa&learn=on&enablevpops)
 
