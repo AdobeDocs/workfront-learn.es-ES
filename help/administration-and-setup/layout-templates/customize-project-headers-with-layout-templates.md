@@ -21,5 +21,5 @@ ht-degree: 8%
 
 Descubra cómo adaptar los encabezados de los proyectos para que muestren solo la información más relevante mediante plantillas de diseño. Aprenda a eliminar campos innecesarios, añadir campos personalizados y organizarlos de forma eficaz para garantizar que los equipos puedan acceder rápidamente a detalles críticos del proyecto y mejorar la claridad y la eficacia.
 
->[!VIDEO](https://video.tv.adobe.com/v/3483451/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3483466/?captions=spa&learn=on&enablevpops)
 
