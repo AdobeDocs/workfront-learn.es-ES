@@ -1,10 +1,10 @@
 ---
 user-guide-title: Tutoriales de Workfront
 user-guide-description: La biblioteca de vídeos de formación y artículos está estructurada para ayudarle a comprender mejor las funciones y la configuración de Workfront.
-source-git-commit: 7d929d47386ce95aa82689117dcb1e4d204130cc
+source-git-commit: f846da511d1b9a23eca21e249ea619dba5321420
 workflow-type: tm+mt
-source-wordcount: '2485'
-ht-degree: 78%
+source-wordcount: '2494'
+ht-degree: 77%
 
 ---
 
@@ -193,6 +193,7 @@ ht-degree: 78%
 
    + Proyectos intermedios {#intermediate-projects}
       + [Tipos de duración maestros y restricciones de tareas](/help/manage-work/intermediate-projects/understand-and-manage-duration-types-and-task-constraints.md)
+      + [Seguimiento maestro de proyectos con líneas de base, instantáneas e informes automatizados](/help/manage-work/intermediate-projects/baselines-snapshots-and-automated-reports.md)
       + [Establecer dependencias con predecesoras entre proyectos](/help/manage-work/intermediate-projects/understand-cross-project-predecessors.md)
       + [Dominar dependencias de tareas avanzadas](/help/manage-work/intermediate-projects/advanced-predecessors.md)
 
