@@ -22,7 +22,7 @@ ht-degree: 0%
 Este vídeo destaca la importancia de utilizar líneas de base, instantáneas e informes enviados para realizar un seguimiento eficaz del proyecto, un análisis histórico y una comunicación con las partes interesadas.
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3483617/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3483620/?captions=spa&quality=12&learn=on&enablevpops)
 
 ## Principales conclusiones
 
