@@ -1,9 +1,9 @@
 ---
 user-guide-title: Tutoriales de Workfront
 user-guide-description: La biblioteca de vídeos de formación y artículos está estructurada para ayudarle a comprender mejor las funciones y la configuración de Workfront.
-source-git-commit: f846da511d1b9a23eca21e249ea619dba5321420
+source-git-commit: 81308974e68a409b69f789a98b3b570167f2a4fa
 workflow-type: tm+mt
-source-wordcount: '2494'
+source-wordcount: '2508'
 ht-degree: 77%
 
 ---
@@ -12,7 +12,7 @@ ht-degree: 77%
 # Tutoriales de Workfront {#tutorials-workfront}
 
 + [Tutoriales de Workfront](home.md)
-+ Administración y configuración {#administration-and-setup}
++ Administration and Setup {#administration-and-setup}
    + Configuración de la organización {#organizational-setup}
       + [Creación de equipos](/help/administration-and-setup/organizational-setup/user-organization-teams.md)
       + [Crear grupos y subgrupos](/help/administration-and-setup/organizational-setup/user-organization-groups.md)
@@ -35,6 +35,7 @@ ht-degree: 77%
       + [Personalizar tipos de problemas y terminología](/help/administration-and-setup/configure-system-defaults/customize-issue-types-and-terminology.md)
       + [Configurar las preferencias de problemas predeterminadas globales](/help/administration-and-setup/configure-system-defaults/configure-global-default-issue-preferences.md)
       + [Crear y administrar reglas empresariales](/help/administration-and-setup/configure-system-defaults/create-and-manage-business-rules.md)
+      + [Configure User Defined Localization](/help/administration-and-setup/configure-system-defaults/configure-user-defined-localization.md)
 
    + Plantillas de diseño {#layout-templates}
       + [¿Qué son las plantillas de diseño?](/help/administration-and-setup/layout-templates/what-are-layout-templates.md)
@@ -88,6 +89,8 @@ ht-degree: 77%
       + [Asignación de un formulario personalizado a un objeto](/help/custom-data/custom-forms/custom-forms-using-a-custom-form.md)
       + [Añadir saltos de sección y lógicas a un formulario personalizado](/help/custom-data/custom-forms/add-section-breaks-and-logic-to-a-custom-form.md)
       + [Exportar un formulario personalizado como PDF](/help/custom-data/custom-forms/export-a-custom-form-as-a-pdf.md)
+      + [Agregar lógica de validación a Forms personalizado](/help/custom-data/custom-forms/add-validation-logic-to-custom-forms.md)
+      + [Configurar la lógica de visualización avanzada](/help/custom-data/custom-forms/configure-advanced-dispaly-logic.md)
 
    + Expresiones calculadas {#calculated-expressions}
       + [Introducción a los campos calculados y las expresiones](/help/custom-data/calculated-expressions/get-started-with-calculated-fields-and-expressions.md)
@@ -144,9 +147,9 @@ ht-degree: 77%
       + [Conversión de un problema o una solicitud en una tarea](/help/manage-work/issues-requests/convert-issues-to-other-work-items.md)
       + [Crear informes personalizados para la administración de problemas](/help/manage-work/issues-requests/report-on-issues.md)
 
-   + Colas de solicitudes {#request-queues}
-      + [Explorar colas de solicitudes en Workfront](/help/manage-work/request-queues/understand-request-queues.md)
-      + [Crear una cola de solicitudes en Workfront](/help/manage-work/request-queues/create-a-request-queue.md)
+   + Request queues {#request-queues}
+      + [Explore request queues in Workfront](/help/manage-work/request-queues/understand-request-queues.md)
+      + [Create a request queue in Workfront](/help/manage-work/request-queues/create-a-request-queue.md)
       + [Organizar la configuración del flujo de solicitudes](/help/manage-work/request-queues/understand-settings-for-a-flow-request.md)
       + [Creación de un flujo de solicitud en Workfront](/help/manage-work/request-queues/create-a-request-flow.md)
       + [Crear una cola de solicitudes de comentarios de administrador del sistema](/help/manage-work/request-queues/create-a-system-admin-feedback-request-queue.md)
@@ -191,7 +194,7 @@ ht-degree: 77%
       + [Actualizar finanzas para proyectos de clientes](/help/manage-work/project-finances/update-and-review-finances.md)
       + [Personalizar las tarifas de facturación para los roles](/help/manage-work/project-finances/multiple-billing-rates.md)
 
-   + Proyectos intermedios {#intermediate-projects}
+   + Intermediate projects {#intermediate-projects}
       + [Tipos de duración maestros y restricciones de tareas](/help/manage-work/intermediate-projects/understand-and-manage-duration-types-and-task-constraints.md)
       + [Seguimiento maestro de proyectos con líneas de base, instantáneas e informes automatizados](/help/manage-work/intermediate-projects/baselines-snapshots-and-automated-reports.md)
       + [Establecer dependencias con predecesoras entre proyectos](/help/manage-work/intermediate-projects/understand-cross-project-predecessors.md)
@@ -213,9 +216,9 @@ ht-degree: 77%
       + [Copia y edición de un informe](/help/reporting/basic-reporting/copy-a-report.md)
       + [Visualización de datos con gráficos en informes](/help/reporting/basic-reporting/create-reports-with-charts.md)
       + [Creación de un informe de matriz](/help/reporting/basic-reporting/create-a-matrix-report.md)
-      + [Creación de paneles en Workfront](/help/reporting/basic-reporting/create-dashboards.md)
-      + [Envíe y comparta informes de forma eficaz](/help/reporting/basic-reporting/how-to-send-and-share-reports.md)
-      + [Explorar la configuración y las solicitudes del informe](/help/reporting/basic-reporting/report-settings.md)
+      + [Create dashboards in Workfront](/help/reporting/basic-reporting/create-dashboards.md)
+      + [Send and share reports effectively](/help/reporting/basic-reporting/how-to-send-and-share-reports.md)
+      + [Explore report settings and prompts](/help/reporting/basic-reporting/report-settings.md)
 
    + Informes intermedios {#intermediate-reporting}
       + [Crear filtros con caracteres comodín basados en el usuario](/help/reporting/intermediate-reporting/create-filters-with-user-based-wildcards.md)
@@ -329,7 +332,7 @@ ht-degree: 77%
    + [Creación y administración de vistas de tabla](/help/workfront-planning/create-and-manage-table-views.md)
    + [Creación y administración de vistas de cronología](/help/workfront-planning/create-and-manage-timeline-views.md)
    + [Conectar tipos de registro](/help/workfront-planning/connect-record-types.md)
-   + [Creación de un formulario de solicitud de tipo de registro](/help/workfront-planning/create-a-record-type-request-form.md)
+   + [Create a record type request form](/help/workfront-planning/create-a-record-type-request-form.md)
    + [Ventajas de la planificación de Workfront para los equipos de diseño de UX](/help/workfront-planning/benefits-of-workfront-planning-for-ux-design-teams.md)
 
 + Integraciones {#integrations}
@@ -488,7 +491,7 @@ ht-degree: 77%
       + [Ajustar la configuración predeterminada de la cuenta de prueba](/help/workfront-proof/administration-and-setup/set-up-default-proof-account-settings.md)
       + [Configuración para usuarios de prueba](/help/workfront-proof/administration-and-setup/settings-for-proof-users.md)
 
-   + Cargar pruebas {#upload-proofs}
+   + Upload proofs {#upload-proofs}
       + [¿Qué es una versión de prueba?](/help/workfront-proof/upload-proofs/what-is-a-proof-version.md)
       + [¿Quién carga las versiones de prueba?](/help/workfront-proof/upload-proofs/who-uploads-the-proof-versions.md)
       + [Convertir un documento en una prueba](/help/workfront-proof/upload-proofs/convert-a-document-to-a-proof.md)
