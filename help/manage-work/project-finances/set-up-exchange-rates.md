@@ -10,29 +10,29 @@ role: User
 level: Intermediate
 jira: KT-10049
 exl-id: f0d5bbe3-54e6-41be-8497-e54ad7cd7707
-last-substantial-update: 2025-04-23T00:00:00Z
+last-substantial-update: 2026-04-28T00:00:00Z
 recommendations: noDisplay,catalog
 doc-type: video
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 65eba30ab660e44b8adca2238d743f1f38bec75e
 workflow-type: tm+mt
-source-wordcount: '277'
-ht-degree: 17%
+source-wordcount: '271'
+ht-degree: 19%
 
 ---
 
 # Configuración de tipos de cambio
 
-El vídeo proporciona una guía sobre la administración de monedas en el sistema de seguimiento financiero de Workfront. palo de golf Explica que la moneda predeterminada es el dólar estadounidense, pero se pueden configurar monedas adicionales a nivel global o para proyectos individuales y funciones del puesto.
-El video enfatiza que el sistema no proporciona tasas de cambio actuales, por lo que los usuarios deben obtenerlas externamente. palo de golf Una vez configuradas, las tasas de cambio se convierten en las predeterminadas para los proyectos o roles de trabajo, pero no se actualizan automáticamente; los usuarios con los permisos adecuados deben actualizarlas manualmente. palo de golf Después de configurar las monedas, los usuarios pueden crear nuevos proyectos y seleccionar entre las opciones de moneda disponibles, con la capacidad de personalizar las tasas de cambio para proyectos individuales. palo de golf
+El vídeo proporciona una guía sobre la administración de monedas en el sistema de seguimiento financiero de Workfront. Se explica que la moneda predeterminada es el dólar estadounidense, pero se pueden configurar monedas adicionales a nivel global o para proyectos individuales y funciones del puesto.
+El video enfatiza que el sistema no proporciona tasas de cambio actuales, por lo que los usuarios deben obtenerlas externamente. Una vez establecidos, los tipos de cambio se convierten en los predeterminados para los proyectos o funciones del puesto, pero no se actualizan automáticamente; los usuarios con los permisos adecuados deben actualizarlos manualmente. Después de configurar las monedas, los usuarios pueden crear nuevos proyectos y seleccionar entre las opciones de moneda disponibles, con la capacidad de personalizar los tipos de cambio para proyectos individuales. &#x200B;
 
 >[!VIDEO](https://video.tv.adobe.com/v/3457693/?quality=12&learn=on&enablevpops=1)
 
-## Puntos clave
+## Principales conclusiones
 
-* **Moneda predeterminada:** La moneda predeterminada del sistema es el dólar estadounidense, pero esto se puede cambiar a nivel global o para proyectos individuales y roles. palo de golf
-* **Agregar monedas:** Se pueden configurar monedas adicionales junto con sus tasas de cambio en el área de configuración. palo de golf
-* **Actualizaciones manuales de tasas de cambio:** El sistema no proporciona tasas de cambio actuales; los usuarios deben obtenerlas de forma externa e introducirlas manualmente. palo de golf
-* **Personalización específica del proyecto:** Las tasas de cambio establecidas en el área de configuración se usan como valores predeterminados, pero los usuarios pueden personalizar las tasas de cambio para proyectos individuales. palo de golf
+* **Moneda predeterminada:** La moneda predeterminada del sistema es el dólar estadounidense, pero esto se puede cambiar a nivel global o para proyectos individuales y roles. &#x200B;
+* **Agregar monedas:** Se pueden configurar monedas adicionales junto con sus tasas de cambio en el área de configuración. &#x200B;
+* **Actualizaciones manuales de tasas de cambio:** El sistema no proporciona tasas de cambio actuales; los usuarios deben obtenerlas de forma externa e introducirlas manualmente. &#x200B;
+* **Personalización específica del proyecto:** Las tasas de cambio establecidas en el área de configuración se usan como valores predeterminados, pero los usuarios pueden personalizar las tasas de cambio para proyectos individuales. &#x200B;
 * **Actualizaciones y permisos:** Los cambios en el área de configuración no actualizan automáticamente los proyectos existentes. La actualización de las tasas de cambio para proyectos o funciones de trabajo requiere los permisos de usuario adecuados.
 
 ## Tutoriales recomendados sobre este tema
