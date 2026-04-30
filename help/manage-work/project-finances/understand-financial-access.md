@@ -10,26 +10,26 @@ role: User
 level: Intermediate
 jira: KT-10067
 exl-id: 1c3d724a-8ff0-466f-9416-cff3da59c8ea
-last-substantial-update: 2025-04-23T00:00:00Z
+last-substantial-update: 2026-04-29T00:00:00Z
 recommendations: noDisplay,catalog
 doc-type: video
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 6e171e980c41615686f73dd44a26dc47e4b5dcdf
 workflow-type: tm+mt
-source-wordcount: '233'
+source-wordcount: '234'
 ht-degree: 12%
 
 ---
 
 # Comprender el acceso financiero
 
-En el vídeo se explica la función que desempeña un administrador del sistema en la administración del acceso a la información financiera dentro de Workfront. palo de golf El administrador controla el acceso a través de los niveles de acceso&#x200B;
+En el vídeo se explica la función que desempeña un administrador del sistema en la administración del acceso a la información financiera dentro de Workfront. El administrador controla el acceso a través de los niveles de acceso&#x200B;
 El vídeo enfatiza que los usuarios solo pueden usar su acceso financiero en proyectos que creen o en proyectos donde alguien con acceso financiero lo haya compartido con ellos.
 
->[!VIDEO](https://video.tv.adobe.com/v/3457731/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3484931/?captions=spa&quality=12&learn=on&enablevpops=1)
 
-## Puntos clave
+## Principales conclusiones
 
-* **Función del administrador del sistema:** El administrador del sistema administra el acceso a la información financiera mediante la configuración y los niveles de acceso, lo que garantiza el control sobre quién puede ver o editar los datos financieros. palo de golf
+* **Función del administrador del sistema:** El administrador del sistema administra el acceso a la información financiera mediante la configuración y los niveles de acceso, lo que garantiza el control sobre quién puede ver o editar los datos financieros. &#x200B;
 * **Creando niveles de acceso:** Se puede crear un nivel de acceso para conceder a los usuarios permisos para editar y ver la facturación, las tarifas de costo, las tasas de cambio y los gastos.
 * **Acceso financiero de nivel de proyecto:** Los usuarios con acceso financiero pueden editar las finanzas en los proyectos que creen, pero otros necesitan acceso explícito para ver o editar las finanzas.
 * **Uso compartido de acceso personalizable:** El acceso financiero se puede compartir con usuarios específicos, con permisos personalizados (por ejemplo, acceso de solo lectura), incluso si tienen derechos generales para editar datos financieros.
