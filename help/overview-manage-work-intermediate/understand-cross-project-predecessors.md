@@ -13,9 +13,9 @@ jira: KT-13737
 doc-type: video
 hide: true
 exl-id: 1ed29279-3452-49db-976a-157e4ed4c678
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 437f85e11f772ba5f0f9f2fee6a92abd3a8bcabd
 workflow-type: tm+mt
-source-wordcount: '212'
+source-wordcount: '250'
 ht-degree: 100%
 
 ---
@@ -36,6 +36,6 @@ Este vídeo contiene información sobre:
 * Cómo crear un predecesor en varios proyectos
 * Cómo realizar el seguimiento de los predecesores en los informes
 
->[!VIDEO](https://video.tv.adobe.com/v/3422840/?quality=12&learn=on&enablevpops=1&captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/3422840/?captions=spa&quality=12&learn=on&enablevpops=1)
 
 Para obtener información sobre cómo crear la vista **Predecesores y sucesores de varios proyectos** y el informe **Predecesores y sucesores de varios proyectos** que se utiliza en el vídeo, consulte el tutorial [Comprensión del modo de texto básico de las vistas](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/intermediate-reporting/basic-text-mode-for-views.html?lang=es) y asegúrese de seguir los tutoriales de requisitos previos que se enumeran allí, si lo necesita.

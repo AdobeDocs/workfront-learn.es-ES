@@ -14,7 +14,7 @@ jira: KT-8771
 hide: true
 doc-type: video
 exl-id: be4a5529-08ce-4cce-abb7-b4352629e6bd
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 437f85e11f772ba5f0f9f2fee6a92abd3a8bcabd
 workflow-type: tm+mt
 source-wordcount: '495'
 ht-degree: 100%
@@ -30,7 +30,7 @@ En este vídeo, aprenderá lo siguiente:
 * Dónde cargar documentos
 * Cómo ver el historial de actualizaciones
 
->[!VIDEO](https://video.tv.adobe.com/v/3449729/?quality=12&learn=on&enablevpops=1&captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/3449729/?captions=spa&quality=12&learn=on&enablevpops=1)
 
 ## Partes clave de la página del proyecto
 

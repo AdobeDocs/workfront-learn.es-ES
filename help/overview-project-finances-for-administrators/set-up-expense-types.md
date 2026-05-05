@@ -10,9 +10,10 @@ role: User
 level: Intermediate
 jira: KT-10064
 hide: true
-source-git-commit: d7347d41099e0faf6b47a6fe0e58091105e4e41d
+exl-id: 30f5bb50-5c53-4199-a558-fad07e71ef84
+source-git-commit: 437f85e11f772ba5f0f9f2fee6a92abd3a8bcabd
 workflow-type: tm+mt
-source-wordcount: '252'
+source-wordcount: '255'
 ht-degree: 100%
 
 ---

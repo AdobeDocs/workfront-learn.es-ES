@@ -13,7 +13,7 @@ hide: true
 recommendations: noDisplay,catalog
 doc-type: video
 exl-id: 22ed8642-220e-4d45-b15d-c245391073ea
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 437f85e11f772ba5f0f9f2fee6a92abd3a8bcabd
 workflow-type: tm+mt
 source-wordcount: '79'
 ht-degree: 58%
@@ -29,7 +29,7 @@ En este vídeo, verá las ventajas de:
 * Creación de informes personalizados con lecciones aprendidas
 * Creación de un proyecto de &quot;lecciones aprendidas&quot;
 
->[!VIDEO](https://video.tv.adobe.com/v/3441015/?quality=12&learn=on&enablevpops=1&captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/3441015/?captions=spa&quality=12&learn=on&enablevpops=1)
 
 ## Tutoriales recomendados sobre este tema
 

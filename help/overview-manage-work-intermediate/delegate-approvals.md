@@ -13,9 +13,9 @@ hide: true
 doc-type: video
 recommendations: noDisplay,catalog
 exl-id: 2eb8c7e2-d980-409c-b06a-d44f5817648d
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 437f85e11f772ba5f0f9f2fee6a92abd3a8bcabd
 workflow-type: tm+mt
-source-wordcount: '95'
+source-wordcount: '97'
 ht-degree: 100%
 
 ---
@@ -31,7 +31,7 @@ Este vídeo contiene información sobre:
 * Delegar aprobaciones de proyectos, tareas y problemas
 * Identificar aprobaciones delegadas
 
->[!VIDEO](https://video.tv.adobe.com/v/3446379/?quality=12&learn=on&enablevpops=1&captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/3446379/?captions=spa&quality=12&learn=on&enablevpops=1)
 
 ## Tutoriales recomendados sobre este tema
 

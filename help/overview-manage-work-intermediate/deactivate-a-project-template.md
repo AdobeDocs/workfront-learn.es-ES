@@ -14,9 +14,9 @@ doc-type: video
 recommendations: noDisplay,catalog
 hide: true
 exl-id: d1246b53-922e-44f5-b4db-c68afa974c71
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 437f85e11f772ba5f0f9f2fee6a92abd3a8bcabd
 workflow-type: tm+mt
-source-wordcount: '125'
+source-wordcount: '140'
 ht-degree: 100%
 
 ---
@@ -28,7 +28,7 @@ Este vídeo contiene información sobre:
 * Cómo compartir una plantilla de proyecto que otorga derechos para activarla y desactivarla.
 * Cómo activar y desactivar una plantilla de proyecto.
 
->[!VIDEO](https://video.tv.adobe.com/v/3444993/?quality=12&learn=on&enablevpops=1&captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/3444993/?captions=spa&quality=12&learn=on&enablevpops=1)
 
 ## Obtenga información sobre cómo crear una vista personalizada para ver y editar el estado activo de las plantillas de proyecto
 

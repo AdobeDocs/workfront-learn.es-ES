@@ -12,10 +12,10 @@ hide: true
 jira: KT-13892
 exl-id: f669d044-9498-4a07-90b3-1917504f7bf4
 doc-type: video
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 437f85e11f772ba5f0f9f2fee6a92abd3a8bcabd
 workflow-type: tm+mt
-source-wordcount: '510'
-ht-degree: 100%
+source-wordcount: '513'
+ht-degree: 91%
 
 ---
 
@@ -40,7 +40,7 @@ Los líderes y ejecutivos pueden navegar hasta el área del informe para ver inf
 
 ### Paneles de control
 
-Al utilizar un panel de control, los líderes pueden ver y explorar rápidamente cualquier parte del trabajo en el que está trabajando su organización. El panel de control es simplemente una colección de informes que proporcionan información que los líderes pueden necesitar ver de forma regular. Los paneles de control son totalmente personalizables, de modo que cualquier usuario que utilice Workfront pueda ver el trabajo que le importe.
+Al utilizar un panel, los líderes pueden ver y explorar en profundidad rápidamente cualquier parte del trabajo en el que esté trabajando su organización actualmente.El tablero es simplemente una recopilación de informes que proporcionan información que los líderes pueden necesitar ver de forma regular. Los paneles de control son totalmente personalizables, de modo que cualquier usuario que utilice Workfront pueda ver el trabajo que le importe.
 
 Haga clic en Paneles de control en el icono de menú Principal en la esquina superior derecha para acceder al área Paneles de control.
 
@@ -58,7 +58,7 @@ Con un panel de control, los líderes son capaces de revisar cosas como los “C
 
 Los informes de Workfront pueden mejorar la rendición de cuentas de sus empleados. La clave para aprovechar los informes es establecer un flujo de trabajo claro para la forma en que su organización los utiliza. Asegúrese de que todos tengan una idea clara de qué informes se utilizan para medir el éxito.
 
-![Ejemplo de informes en un panel de control de Workfront ](assets/workfront-4-executives-3.png)
+![Ejemplo de informes en un panel de control de Workfront &#x200B;](assets/workfront-4-executives-3.png)
 
 Ejemplo de informes en un panel de control de Workfront
 
@@ -79,7 +79,7 @@ Este vídeo contiene información sobre:
 * Realizar una solicitud
 * Ver las solicitudes enviadas
 
->[!VIDEO](https://video.tv.adobe.com/v/3413113/?quality=12&learn=on&enablevpops=1&captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/3413113/?captions=spa&quality=12&learn=on&enablevpops=1)
 
 ## Elementos que esperan su aprobación
 

@@ -13,7 +13,7 @@ hide: true
 recommendations: noDisplay,catalog
 doc-type: video
 exl-id: 9dd8bd9a-c4b2-4fe3-85db-44b3d716bc5d
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 437f85e11f772ba5f0f9f2fee6a92abd3a8bcabd
 workflow-type: tm+mt
 source-wordcount: '77'
 ht-degree: 100%
@@ -29,7 +29,7 @@ Este vídeo contiene información sobre:
 * Cargar un documento
 * Búsqueda de formación sobre la carga de pruebas
 
->[!VIDEO](https://video.tv.adobe.com/v/3440373/?quality=12&learn=on&enablevpops=1&captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/3440373/?captions=spa&quality=12&learn=on&enablevpops=1)
 
 ## Tutoriales recomendados sobre este tema
 
