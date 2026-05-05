@@ -58,7 +58,7 @@ Con un panel de control, los líderes son capaces de revisar cosas como los “C
 
 Los informes de Workfront pueden mejorar la rendición de cuentas de sus empleados. La clave para aprovechar los informes es establecer un flujo de trabajo claro para la forma en que su organización los utiliza. Asegúrese de que todos tengan una idea clara de qué informes se utilizan para medir el éxito.
 
-![Ejemplo de informes en un panel de control de Workfront ](assets/workfront-4-executives-3.png)
+![Ejemplo de informes en un panel de control de Workfront &#x200B;](assets/workfront-4-executives-3.png)
 
 Ejemplo de informes en un panel de control de Workfront
 
