@@ -28,7 +28,7 @@ Este vídeo contiene información sobre:
 * Cómo utilizar la vista [!UICONTROL Tablero]
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3422430/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3423283/?captions=spa&quality=12&learn=on&enablevpops=1)
 
 ## Tutoriales recomendados sobre este tema
 

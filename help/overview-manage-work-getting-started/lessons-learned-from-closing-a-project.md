@@ -29,7 +29,7 @@ En este vídeo, verá las ventajas de:
 * Creación de informes personalizados con lecciones aprendidas
 * Creación de un proyecto de &quot;lecciones aprendidas&quot;
 
->[!VIDEO](https://video.tv.adobe.com/v/3441012/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3441015/?captions=spa&quality=12&learn=on&enablevpops=1)
 
 ## Tutoriales recomendados sobre este tema
 

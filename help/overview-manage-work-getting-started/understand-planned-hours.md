@@ -30,7 +30,7 @@ Este vídeo contiene información sobre:
 * Calcular las horas planificadas
 * Adición de horas planificadas a tareas
 
->[!VIDEO](https://video.tv.adobe.com/v/335090/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3445336/?captions=spa&quality=12&learn=on&enablevpops=1)
 
 
 ## Tutoriales y artículos recomendados sobre este tema

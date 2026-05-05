@@ -33,7 +33,7 @@ Aprenderá a encontrar estas solicitudes en los siguientes lugares:
 * En un tablero personalizado
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3422686/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3441657/?captions=spa&quality=12&learn=on&enablevpops=1)
 
 
 ## Tutoriales recomendados sobre este tema

@@ -29,7 +29,7 @@ Este vídeo contiene información sobre:
 * Cargar un documento
 * Búsqueda de formación sobre la carga de pruebas
 
->[!VIDEO](https://video.tv.adobe.com/v/3440370/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3440373/?captions=spa&quality=12&learn=on&enablevpops=1)
 
 ## Tutoriales recomendados sobre este tema
 
