@@ -12,10 +12,10 @@ jira: KT-8962
 hide: true
 doc-type: video
 exl-id: e80dd36f-7aab-4cf1-873c-92dba684c13c
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 437f85e11f772ba5f0f9f2fee6a92abd3a8bcabd
 workflow-type: tm+mt
-source-wordcount: '442'
-ht-degree: 96%
+source-wordcount: '448'
+ht-degree: 95%
 
 ---
 
@@ -27,7 +27,7 @@ En cualquier caso, cuando el estado del objeto cambia a uno especificado en el p
 
 En este vídeo, aprenderá a crear un proceso de aprobación global y un proceso de aprobación de un solo uso en un proyecto, tarea o problema.
 
->[!VIDEO](https://video.tv.adobe.com/v/3434690/?quality=12&learn=on&enablevpops=1&captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/335225/?quality=12&learn=on&enablevpops=1)
 
 >[!TIP]
 >

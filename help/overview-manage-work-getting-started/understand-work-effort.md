@@ -1,6 +1,6 @@
 ---
 title: Comprender el [!UICONTROL esfuerzo laboral]
-description: Descubra cómo puede usar el [!UICONTROL esfuerzo laboral] para obtener una estimación aproximada de las horas planificadas en la línea de tiempo del proyecto.
+description: Descubra cómo puede usar el [!UICONTROL esfuerzo laboral] para obtener una estimación aproximada de las horas planificadas en la cronología del proyecto.
 activity: use
 team: Technical Marketing
 feature: Work Management
@@ -13,9 +13,9 @@ last-substantial-update: 2024-05-29T00:00:00Z
 recommendations: noDisplay,catalog
 hide: true
 exl-id: 09a06302-1cce-4023-bd73-5b8dbe6531e4
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 437f85e11f772ba5f0f9f2fee6a92abd3a8bcabd
 workflow-type: tm+mt
-source-wordcount: '84'
+source-wordcount: '97'
 ht-degree: 100%
 
 ---
@@ -28,7 +28,7 @@ Este vídeo contiene información sobre:
 * Cómo utilizar el esfuerzo laboral
 * Cómo crear una vista de tareas del esfuerzo laboral
 
->[!VIDEO](https://video.tv.adobe.com/v/3447402/?quality=12&learn=on&enablevpops=1&captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/3429446/?quality=12&learn=on&enablevpops=1)
 
 Para obtener más información sobre el [!UICONTROL esfuerzo laboral], consulte el artículo de [Información general sobre el esfuerzo laboral](https://experienceleague.adobe.com/docs/workfront/using/manage-work/tasks/task-information/work-effort.html?lang=es).
 

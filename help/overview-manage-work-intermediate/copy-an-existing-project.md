@@ -12,9 +12,9 @@ jira: KT-10155
 recommendations: noDisplay,catalog
 hide: true
 exl-id: c2031f6c-e32c-4ea3-a4ae-0780ebd2a530
-source-git-commit: 422b07bc6b1941316a9e441560929d9b2832232f
+source-git-commit: 437f85e11f772ba5f0f9f2fee6a92abd3a8bcabd
 workflow-type: tm+mt
-source-wordcount: '155'
+source-wordcount: '158'
 ht-degree: 100%
 
 ---

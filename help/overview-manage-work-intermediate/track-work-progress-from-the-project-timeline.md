@@ -11,16 +11,16 @@ last-substantial-update: 2023-08-16T00:00:00Z
 level: Beginner
 jira: KT-10150
 hide: true
-source-git-commit: c675114a7f82521a59072f80a64d314be4cd335d
+source-git-commit: 437f85e11f772ba5f0f9f2fee6a92abd3a8bcabd
 workflow-type: tm+mt
-source-wordcount: '412'
+source-wordcount: '430'
 ht-degree: 100%
 
 ---
 
 # Seguimiento del progreso desde la cronología del proyecto
 
-Asegúrese de que las tareas avancen de la forma en que deberían para lograr los plazos de los proyectos. A medida que explora la lista de [!UICONTROL Tareas], hay varias funciones en [!DNL  Workfront] que le ayudan a controlar el progreso y el estado del trabajo.
+Asegúrese de que las tareas avancen de la forma en que deberían para cumplir los plazos de los proyectos. A medida que explora la lista de [!UICONTROL Tareas], hay varias funciones en [!DNL  Workfront] que le ayudan a controlar el progreso y el estado del trabajo.
 
 ## Porcentaje completado
 

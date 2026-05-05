@@ -9,9 +9,9 @@ role: User
 level: Beginner
 jira: KT-10152
 hide: true
-source-git-commit: 4568e4e47b719e2dee35357d42674613112a9c43
+source-git-commit: 437f85e11f772ba5f0f9f2fee6a92abd3a8bcabd
 workflow-type: tm+mt
-source-wordcount: '107'
+source-wordcount: '108'
 ht-degree: 100%
 
 ---
