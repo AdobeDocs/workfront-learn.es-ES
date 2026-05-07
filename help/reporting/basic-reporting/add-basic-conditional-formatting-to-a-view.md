@@ -11,11 +11,16 @@ team: Technical Marketing
 jira: KT-8855
 exl-id: bf9a4cf4-b073-4f7e-8516-e7843f4dc20f
 doc-type: video
-product_v2: id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
-feature_v2: id: c6dd2ac5-f5bd-4e59-9101-25b156918623
-subfeature_v2: id: ceb4d94a-32ed-4fea-9724-1339d684b0bc
-role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
-level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+product_v2:
+  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2:
+  - id: c6dd2ac5-f5bd-4e59-9101-25b156918623
+subfeature_v2:
+  - id: ceb4d94a-32ed-4fea-9724-1339d684b0bc
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-06T14:28:11.136Z'
 source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
 workflow-type: tm+mt
@@ -71,7 +76,7 @@ Esto le ayudará a identificar las tareas con problemas sin incluir la columna p
 1. Haga clic en **[!UICONTROL Opciones avanzadas]** en la esquina superior derecha de la ventana del Creador de informes.
 1. Haga clic en **[!UICONTROL Añadir una regla para esta columna]**.
 1. Inicie la regla de columna cambiando [!UICONTROL Tarea] > [!UICONTROL Nombre] en la parte superior de la ventana para [!UICONTROL Tarea] > [!UICONTROL Estado de progreso]. Haga clic en el icono **[!UICONTROL X]** junto a [!UICONTROL Tarea] > [!UICONTROL Nombre] para eliminarlo del campo.
-1. Escriba “progreso” en el campo y, a continuación, seleccione[!UICONTROL  Estado de progreso] en el origen del campo [!UICONTROL Tarea].
+1. Escriba “progreso” en el campo y, a continuación, seleccione[!UICONTROL &#x200B; Estado de progreso] en el origen del campo [!UICONTROL Tarea].
 1. Seleccione **[!UICONTROL Tarde]** en el campo a la derecha del calificador [!UICONTROL Igual].
 1. Elija un fondo de rojo en la fila [!UICONTROL Color del texto].
 1. Haga clic en **[!UICONTROL Agregar regla]** para guardar la regla de columna.

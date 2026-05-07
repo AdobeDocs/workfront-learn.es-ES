@@ -1,6 +1,6 @@
 ---
 title: Explicación de los detalles de la prueba
-description: Profundizar en los detalles detrás de una prueba en [!DNL  Workfront] a través del panel de resumen y la página [!UICONTROL Detalles del documento].
+description: Profundizar en los detalles detrás de una prueba en [!DNL &#x200B; Workfront] a través del panel de resumen y la página [!UICONTROL Detalles del documento].
 activity: use
 team: Technical Marketing
 feature: Workfront Proof
@@ -10,11 +10,16 @@ level: Beginner
 thumbnail: understand-proof-details.png
 jira: KT-10110
 exl-id: 196f9318-eced-4825-b0fd-8592b6cb3403
-product_v2: id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
-feature_v2: id: e14a7f57-c82c-4874-a495-5d036cbbdc3d
-subfeature_v2: id: b18b693b-6d59-4359-95fd-a386b7a615fe
-role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
-level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+product_v2:
+  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2:
+  - id: e14a7f57-c82c-4874-a495-5d036cbbdc3d
+subfeature_v2:
+  - id: b18b693b-6d59-4359-95fd-a386b7a615fe
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-05T19:56:45.995Z'
 source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
 workflow-type: tm+mt
@@ -53,7 +58,7 @@ Para obtener más información sobre la revisión, haga clic en [!UICONTROL Deta
 
 Esto lo lleva a la página [!UICONTROL Detalles del documento] y a una variedad de opciones adicionales en el panel izquierdo.
 
-![Una imagen de la página de la prueba en [!DNL  Workfront].](assets/document-details.png)
+![Una imagen de la página de la prueba en [!DNL &#x200B; Workfront].](assets/document-details.png)
 
 Es importante tener en cuenta que la capacidad de ver información relacionada con el proceso de revisión depende de los permisos de revisión en [!DNL Workfront].
 
