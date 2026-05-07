@@ -58,7 +58,7 @@ Workfront realiza un seguimiento de los elementos facturables, pero no gestiona 
 
 Este vídeo destaca la importancia de una configuración y un seguimiento adecuados para optimizar los procesos de facturación del cliente. &#x200B;
 
->[!VIDEO](https://video.tv.adobe.com/v/3457648/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3486191/?captions=spa&quality=12&learn=on&enablevpops=1)
 
 ## Principales conclusiones
 
