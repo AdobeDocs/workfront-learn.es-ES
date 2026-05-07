@@ -10,11 +10,18 @@ level: Intermediate, Experienced
 jira: KT-10018
 exl-id: 9924e479-c300-47b4-8e40-241ebb2435cf
 TQID: https://experienceleague.adobe.com/yTBd9pAA4m4fbXniB-givgEjA5Ble6N6Xv5c1JgM4bc
-product_v2: id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
-feature_v2: id: d968a1bc-9a90-4926-a531-bcf272c32aad
-role_v2: id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
-level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588
-topic_v2: id: aa2f3246-cb95-4b30-8899-fdf7d73550ccid: c7d04a2c-412a-4c9d-9d7a-4456eaa5adebid: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+product_v2:
+  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2:
+  - id: d968a1bc-9a90-4926-a531-bcf272c32aad
+role_v2:
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+topic_v2:
+  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+  - id: c7d04a2c-412a-4c9d-9d7a-4456eaa5adeb
+  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
 source-git-commit: 36674ed53c8645f556862bb2d99f3bfd6c993c1e
 workflow-type: tm+mt
 source-wordcount: 887
@@ -122,7 +129,7 @@ Ventana de preferencias de ![[!UICONTROL Tareas y problemas] con la sección [!U
 1. A continuación, seleccione el acceso para compartir para el proyecto: [!UICONTROL Ver], [!UICONTROL Contribuir] o [!UICONTROL Administrar]. Cuando configure las [!UICONTROL Opciones avanzadas], tenga en cuenta los flujos de trabajo de su organización y las necesidades de acceso.
 1. Ahorre cuando haya terminado.
 
-Ventana de ![[!UICONTROL Acceso] que muestra las opciones [!UICONTROL Contribuir] ](assets/admin-fund-issue-prefs-access-2.png)
+Ventana de ![[!UICONTROL Acceso] que muestra las opciones [!UICONTROL Contribuir] &#x200B;](assets/admin-fund-issue-prefs-access-2.png)
 
 <!--
 learn more URLs
