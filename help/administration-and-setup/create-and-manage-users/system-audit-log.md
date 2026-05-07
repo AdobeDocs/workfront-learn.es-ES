@@ -10,9 +10,22 @@ level: Beginner, Intermediate
 thumbnail: 10040.jpeg
 jira: KT-10040
 exl-id: 9de6fd40-10fb-47a6-b186-3a38c411f1ac
-source-git-commit: 4568e4e47b719e2dee35357d42674613112a9c43
+TQID: https://experienceleague.adobe.com/xMxWQ53TUXVjS-H8EuK3nf7jt8v4vUgKoZVsmApc-JM
+product_v2:
+  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2:
+  - id: d968a1bc-9a90-4926-a531-bcf272c32aad
+role_v2:
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2:
+  - id: d095671a-1355-40aa-8b5f-06c33c68080b
+  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: 36674ed53c8645f556862bb2d99f3bfd6c993c1e
 workflow-type: tm+mt
-source-wordcount: '265'
+source-wordcount: 267
 ht-degree: 100%
 
 ---
@@ -44,7 +57,7 @@ La exportación de los datos del registro de auditoría permite a los administra
 
 Los registros de auditoría se pueden exportar en un archivo CSV (valor separado por comas), que se puede abrir en una aplicación de hoja de cálculo o en un editor de texto sin formato. La exportación está limitada a 50 000 filas al mismo tiempo, por lo que debe utilizar los filtros para reducir la lista si el total supera los 50 000.
 
-Botón ![[!UICONTROL Exportar] en la página [!UICONTROL Registros de auditoría] ](assets/admin-fund-audit-log-3.png)
+Botón ![[!UICONTROL Exportar] en la página [!UICONTROL Registros de auditoría]](assets/admin-fund-audit-log-3.png)
 
 <!--
 learn more URLs

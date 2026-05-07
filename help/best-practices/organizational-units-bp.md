@@ -6,10 +6,29 @@ role: Admin, Leader, User
 level: Beginner
 jira: KT-10906
 exl-id: 0d1ddaed-8daa-40e5-8384-c052ec36fbdc
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+TQID: https://experienceleague.adobe.com/r-JHnUp9uBXJskFfm-bTt-2DnaKRoA-6vpiAOEFSBjw
+product_v2:
+  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2:
+  - id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
+  - id: d968a1bc-9a90-4926-a531-bcf272c32aad
+subfeature_v2:
+  - id: c10f2e93-7a58-4212-aa24-684c265ebe76
+  - id: f0dd7b45-76b5-49d4-afe3-39f436b6fbd3
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+  - id: f8a45b24-4be7-4f1b-909b-60d06b483a20
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2:
+  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+  - id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
+source-git-commit: 36674ed53c8645f556862bb2d99f3bfd6c993c1e
 workflow-type: tm+mt
-source-wordcount: '1434'
-ht-degree: 100%
+source-wordcount: 1446
+ht-degree: 94%
 
 ---
 
@@ -25,7 +44,7 @@ Al revisar estas recomendaciones, hay que tener en cuenta que algunas prácticas
 
 Al desplazarse por esta página, encontrará en primer lugar una lista de alto nivel de todas las prácticas recomendadas sobre el tema. Esto permite revisar las recomendaciones sin profundizar en los detalles de &quot;por qué&quot;.
 
-El punto &quot;¿Por qué estas son prácticas recomendadas?&quot; se encuentra después de la lista de alto nivel, proporciona mayores detalles sobre algunas de las prácticas recomendadas y por qué se consideran un proceso, una herramienta, etc., cuya implementación se debe considerar al trabajar con Workfront.
+El área &quot;¿Por qué son estas prácticas recomendadas?&quot;, que se encuentra después de la lista de alto nivel, proporciona más detalles sobre algunas de las prácticas recomendadas y por qué se consideran un proceso, una herramienta, etc., debe considerar la implementación con su instancia de Workfront.
 
 </br>
 </br>
@@ -246,7 +265,7 @@ Use unidades organizativas más grandes para compartir elementos con conjuntos d
 
 **A continuación se explica por qué**
 
-Usar una entidad organizativa más grande, como grupos y equipos, al compartir elementos en Workfront (proyectos, informes, etc.)significa que puede compartir el objeto de forma rápida y sencilla con un conjunto selecto de personas al mismo tiempo. Añadir los nombres de los usuarios individuales a la ventana de uso compartido puede resultar engorroso y llevar mucho tiempo.
+El uso de una unidad organizativa más grande como grupos y equipos al compartir elementos en Workfront (proyectos, informes, etc.) significa que puede compartir rápida y fácilmente el objeto con un conjunto selecto de personas al mismo tiempo. Añadir los nombres de los usuarios individuales a la ventana de uso compartido puede resultar engorroso y llevar mucho tiempo.
 
 
 

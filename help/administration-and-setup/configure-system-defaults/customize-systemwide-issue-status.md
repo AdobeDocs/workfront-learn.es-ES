@@ -9,9 +9,20 @@ role: Admin
 level: Intermediate, Experienced
 jira: KT-10030
 exl-id: c8f5677f-8d9d-4d1a-a1e3-d1a438878213
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+TQID: https://experienceleague.adobe.com/Wo7ObQJmkrsaYDXxaPMYQvDFfQx8wtC8qYi3Nvc6DkY
+product_v2:
+  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2:
+  - id: d968a1bc-9a90-4926-a531-bcf272c32aad
+role_v2:
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+topic_v2:
+  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: 36674ed53c8645f556862bb2d99f3bfd6c993c1e
 workflow-type: tm+mt
-source-wordcount: '386'
+source-wordcount: 392
 ht-degree: 100%
 
 ---
@@ -33,11 +44,11 @@ Puede editar un estado existente para cambiar el nombre, los tipos de problema a
 ![Lista de estados de problemas con la opción [!UICONTROL Editar] resaltada](assets/admin-fund-edit-issue-status.png)
 
 1. Haga clic en **[!UICONTROL Configuración]** en el **[!UICONTROL Menú principal]**.
-1. Expanda las **[!UICONTROL Preferencias del proyecto]** en el panel de menú de la izquierda.
+1. Expanda la sección de **[!UICONTROL Preferencias del proyecto]** en el panel de menú de la izquierda.
 1. Seleccione **[!UICONTROL Estados]**.
 1. Seleccione la pestaña **[!UICONTROL Problemas]** y asegúrese de que [!UICONTROL Estados del sistema] se muestra en el ángulo superior derecho.
 1. Seleccione **[!UICONTROL Lista principal]** para ver los estados de todos los tipos de problemas. Aquí es donde crea o modifica un estado de problema.
-1. Pase el ratón por encima del lado derecho del estado cuyo nombre desea cambiar y haga clic en **[!UICONTROL Editar]**.
+1. Pase el puntero por encima del lado derecho del estado cuyo nombre desea cambiar y haga clic en **[!UICONTROL Editar]**.
 1. Asigne un nuevo nombre al estado o cambie cualquiera de la otra información, como desee.
 1. Bloquee el estado si esta configuración debe aplicarse a todos los usuarios de su instancia [!DNL Workfront].
 1. Desbloquee el estado para permitir que los administradores de grupos editen el estado solo para sus grupos.

@@ -10,9 +10,20 @@ level: Beginner
 thumbnail: 10104.jpeg
 jira: KT-10104
 exl-id: 7a29d9e9-6b19-4ca7-86ed-9fcb65050f29
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+TQID: https://experienceleague.adobe.com/J87mQcZGFozOPxxPbvRpBdmfOLMVmYbpsK-Id4hjtpE
+product_v2:
+  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2:
+  - id: d968a1bc-9a90-4926-a531-bcf272c32aad
+role_v2:
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2:
+  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: 36674ed53c8645f556862bb2d99f3bfd6c993c1e
 workflow-type: tm+mt
-source-wordcount: '255'
+source-wordcount: 255
 ht-degree: 100%
 
 ---
@@ -27,7 +38,7 @@ Página ![[!UICONTROL Iniciar sesión como] en el área [!UICONTROL Configuraci�
 
 Esta función es útil por varios motivos.
 
-* Los administradores pueden obtener una vista previa de las plantillas de diseño asignadas a los usuarios para asegurarse de que los elementos de menú o los paneles se muestran correctamente.
+* Los administradores pueden obtener una vista previa de las plantillas de diseño asignadas a los usuarios para asegurarse de que los elementos de menú o los paneles de control se muestran correctamente.
 * Resulta útil durante la prueba del flujo de trabajo para garantizar que los permisos de un usuario están correctamente configurados.
 * Los administradores incluso pueden aprovechar esta función para marcar una tarea como completada o realizar una aprobación para alguien que no pueda.
 

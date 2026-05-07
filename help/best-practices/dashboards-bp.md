@@ -1,19 +1,28 @@
 ---
-title: 'Práctica recomendada: paneles'
-description: Explore las prácticas recomendadas de los expertos de Adobe Workfront sobre la configuración, administración y uso de los paneles de Workfront.
+title: 'Práctica recomendada: paneles de control'
+description: Explore las prácticas recomendadas de los expertos de Adobe Workfront sobre la configuración, administración y uso de los paneles de control de Workfront.
 feature: Reports and Dashboards
 role: Admin, Leader, User
 level: Beginner
 jira: KT-10909
 exl-id: fd4cd3d4-9343-4f33-919a-9c390f42411a
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+TQID: https://experienceleague.adobe.com/0LxBbWilsQ1BUdZTZGLmcHthNkw5mvubjlZru2ljqt8
+product_v2:
+  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+  - id: f8a45b24-4be7-4f1b-909b-60d06b483a20
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+source-git-commit: 36674ed53c8645f556862bb2d99f3bfd6c993c1e
 workflow-type: tm+mt
-source-wordcount: '483'
-ht-degree: 100%
+source-wordcount: 491
+ht-degree: 92%
 
 ---
 
-# Práctica recomendada: paneles
+# Práctica recomendada: paneles de control
 
 ## ¿Qué es una &quot;práctica recomendada&quot; de Adobe Workfront?
 
@@ -25,20 +34,20 @@ Al revisar estas recomendaciones, hay que tener en cuenta que algunas prácticas
 
 Al desplazarse por esta página, encontrará en primer lugar una lista de alto nivel de todas las prácticas recomendadas sobre el tema. Esto permite revisar las recomendaciones sin profundizar en los detalles de &quot;por qué&quot;.
 
-El punto &quot;¿Por qué estas son prácticas recomendadas?&quot; se encuentra después de la lista de alto nivel, proporciona mayores detalles sobre algunas de las prácticas recomendadas y por qué se consideran un proceso, una herramienta, etc., cuya implementación se debe considerar al trabajar con Workfront.
+El área &quot;¿Por qué son estas prácticas recomendadas?&quot;, que se encuentra después de la lista de alto nivel, proporciona más detalles sobre algunas de las prácticas recomendadas y por qué se consideran un proceso, una herramienta, etc., debe considerar la implementación con su instancia de Workfront.
 
 </br>
 </br>
 
-## Prácticas recomendadas sobre paneles
+## Prácticas recomendadas sobre paneles de control
 
-* Añada paneles a las plantillas de diseño.
+* Añada paneles de control a las plantillas de diseño.
 
-* Evite sobrecargar paneles con demasiados informes.
+* Evite sobrecargar paneles de control con demasiados informes.
 
-* Haga que un panel sea la página de inicio de Workfront para los ejecutivos de su organización.
+* Haga que un panel de control sea la página de inicio de Workfront para los ejecutivos de su organización.
 
-* Personalice las columnas visibles en un informe cuando forme parte de un panel.
+* Personalice las columnas visibles en un informe cuando forme parte de un panel de control.
 
 
 </br>
@@ -49,43 +58,43 @@ El punto &quot;¿Por qué estas son prácticas recomendadas?&quot; se encuentra 
 
 **Práctica recomendada**
 
-Añada paneles a las plantillas de diseño.
+Añada paneles de control a las plantillas de diseño.
 
 **A continuación se explica por qué**
 
-Los paneles y las plantillas de diseño a menudo tienen algo en común: están diseñados para ayudar que un conjunto específico de usuarios complete su trabajo. El uso compartido de paneles mediante plantillas de diseño ayuda a los administradores de sistemas y grupos a distribuir los paneles rápidamente. También garantiza que los usuarios tengan todas las herramientas necesarias, desde las secciones de Workfront hasta los informes que muestran sus últimas asignaciones.
+Los paneles de control y las plantillas de diseño a menudo tienen algo en común: están diseñados para ayudar que un conjunto específico de usuarios complete su trabajo. El uso compartido de paneles de control mediante plantillas de diseño ayuda a los administradores de sistemas y grupos a distribuir los paneles de control rápidamente. También garantiza que los usuarios tengan todas las herramientas necesarias, desde las secciones de Workfront hasta los informes que muestran sus últimas asignaciones.
 
 </br>
 </br>
 
 **Práctica recomendada**
 
-Evite sobrecargar paneles con demasiados informes.
+Evite sobrecargar paneles de control con demasiados informes.
 
 **A continuación se explica por qué**
 
-No siempre es mejor poseer más información. Demasiados informes en un panel hacen que al usuario le resulte difícil encontrar lo que está buscando.
+No siempre es mejor poseer más información. Demasiados informes en un panel de control hacen que al usuario le resulte difícil encontrar lo que está buscando.
 
-Además, el número y la complejidad de los informes pueden ralentizar el rendimiento del panel. Los paneles se pueden cargar más rápidamente al mostrar los informes en formato de gráfico y al limitar los informes de lista a 15 objetos a la vez (a través de la configuración del informe).
+Además, el número y la complejidad de los informes pueden ralentizar el rendimiento del panel de control. Los paneles de control se pueden cargar más rápidamente al mostrar los informes en formato de gráfico y al limitar los informes de lista a 15 objetos a la vez (a través de la configuración del informe).
 
 </br>
 </br>
 
 **Práctica recomendada**
 
-Haga que un panel sea la página de inicio de Workfront para los ejecutivos de su organización.
+Haga que un panel de control sea la página de inicio de Workfront para los ejecutivos de su organización.
 
 **A continuación se explica por qué**
 
-Si tiene ejecutivos o administradores que solo usan Workfront para revisar informes, hacer que el panel sea lo primero que vean al iniciar sesión significa que tienen visibilidad instantánea del progreso del trabajo.
+Si tiene ejecutivos o administradores que solo usan Workfront para revisar informes, hacer que el panel de control sea lo primero que vean al iniciar sesión significa que tienen visibilidad instantánea del progreso del trabajo.
 
 </br>
 </br>
 
 **Práctica recomendada**
 
-Personalice las columnas visibles en un informe cuando forme parte de un panel.
+Personalice las columnas visibles en un informe cuando forme parte de un panel de control.
 
 **A continuación se explica por qué**
 
-De forma predeterminada, los informes en paralelo de un panel solo muestran una columna. Según el nombre de la columna o los datos que se van a mostrar, pueden caber tres o cuatro columnas. Active la opción “Mostrar esta columna cuando esté en un panel” en las columnas que desee mostrar cuando el informe está en una configuración paralela en un panel.
+De forma predeterminada, los informes en paralelo de un panel de control solo muestran una columna. Según el nombre de la columna o los datos que se van a mostrar, pueden caber tres o cuatro columnas. Active la opción “Mostrar esta columna cuando esté en un panel de control” en las columnas que desee mostrar cuando el informe está en una configuración paralela en un panel de control.

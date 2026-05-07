@@ -11,21 +11,30 @@ thumbnail: 335103.png
 jira: KT-8802
 exl-id: 3bd3b403-bfa3-4120-8afe-7566fc8f184f
 doc-type: video
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+TQID: https://experienceleague.adobe.com/scBWTdMHtri-zSM3xUbf4oYESDKiqE3ERDsg5nMLnA4
+product_v2:
+  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2:
+  - id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+source-git-commit: 36674ed53c8645f556862bb2d99f3bfd6c993c1e
 workflow-type: tm+mt
-source-wordcount: '140'
+source-wordcount: 142
 ht-degree: 100%
 
 ---
 
-# Registrar las horas en el trabajo en la [!UICONTROL Página de inicio] de [!DNL Workfront] 
+# Registrar las horas en el trabajo en la [!UICONTROL Página de inicio] de [!DNL Workfront]
 
 Este vídeo contiene información sobre:
 
 * El valor de registrar el tiempo
 * Cómo registrar el tiempo en las asignaciones de trabajo
 
->[!VIDEO](https://video.tv.adobe.com/v/3438601/?quality=12&learn=on&enablevpops=1&captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/3438601/?captions=spa&quality=12&learn=on&enablevpops=1)
 
 ## Sugerencias para registrar las horas en el trabajo en [!DNL Home]
 

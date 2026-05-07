@@ -9,9 +9,20 @@ role: Admin
 level: Intermediate, Experienced
 jira: KT-10021
 exl-id: d1e5c2d6-b001-4e9e-b72d-c792c70d09e8
-source-git-commit: 4568e4e47b719e2dee35357d42674613112a9c43
+TQID: https://experienceleague.adobe.com/twVXujg-A2HhqTJAPyGB4E7ER59CcV7Prubge9OV2Cs
+product_v2:
+  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2:
+  - id: d968a1bc-9a90-4926-a531-bcf272c32aad
+role_v2:
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+topic_v2:
+  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: 36674ed53c8645f556862bb2d99f3bfd6c993c1e
 workflow-type: tm+mt
-source-wordcount: '321'
+source-wordcount: 323
 ht-degree: 100%
 
 ---
@@ -34,11 +45,11 @@ Por ejemplo, hay un equipo que desea rastrear los riesgos del proyecto mediante 
 Los tipos de problemas cambian de nombre a nivel de todo el sistema, por lo que el cambio se aplica a todos los usuarios.
 
 1. Haga clic en **[!UICONTROL Configuración]** en el **[!UICONTROL Menú principal]**.
-1. Expanda las **[!UICONTROL Preferencias del proyecto]** en el panel de menú de la izquierda.
+1. Expanda la sección de **[!UICONTROL Preferencias del proyecto]** en el panel de menú de la izquierda.
 1. Seleccione **[!UICONTROL Estados]**.
 1. Seleccione la pestaña **[!UICONTROL Problemas]**.
 1. Asegúrese de que el menú de la esquina superior derecha está configurado en [!UICONTROL Estados del sistema].
-1. Pase el cursor junto a un tipo de problema en la parte superior de la lista. Haga clic en el icono de lápiz para activar la edición de campos.
+1. Pase el cursor junto a un tipo de problema en la parte superior de la lista. Haga clic en el icono de lápiz para habilitar la edición de campos.
 1. Cambie el nombre del tipo de problema.
 1. Haga clic fuera del campo para guardar.
 
