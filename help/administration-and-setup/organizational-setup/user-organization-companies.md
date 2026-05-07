@@ -37,4 +37,4 @@ Este vídeo contiene información sobre:
 * Definición de compañías de Workfront
 * Cómo crear compañías y asociaciones
 
->[!VIDEO](https://video.tv.adobe.com/v/335069/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3432861/?captions=spa&quality=12&learn=on&enablevpops=1)

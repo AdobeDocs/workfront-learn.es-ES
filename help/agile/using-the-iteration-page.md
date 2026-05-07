@@ -28,4 +28,4 @@ ht-degree: 100%
 
 Obtenga información sobre cómo leer la barra de estado de la iteración, buscar y leer el gráfico de evolución, así como para ver y mover historias en el guion gráfico de la iteración.
 
->[!VIDEO](https://video.tv.adobe.com/v/346285/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3412176/?captions=spa&quality=12&learn=on&enablevpops=1)

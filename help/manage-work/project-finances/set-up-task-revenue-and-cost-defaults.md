@@ -41,7 +41,7 @@ ht-degree: 38%
 
 Descubra dónde se utilizan el tipo de ingresos y los tipos de costes, y cómo configurar los valores predeterminados del sistema.
 
->[!VIDEO](https://video.tv.adobe.com/v/3457685/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3484183/?captions=spa&quality=12&learn=on&enablevpops=1)
 
 ## Principales conclusiones
 

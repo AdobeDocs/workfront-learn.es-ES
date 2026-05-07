@@ -51,7 +51,7 @@ Este vídeo contiene información sobre:
 - Seleccionar la metodología de Scrum
 - Determinar la configuración del equipo de Scrum
 
->[!VIDEO](https://video.tv.adobe.com/v/346281/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3412163/?captions=spa&quality=12&learn=on&enablevpops=1)
 
 ¿Ya tiene un equipo en Workfront que desea convertir en un equipo ágil? No se preocupe. Vaya a Configuración del equipo y marque el recuadro “Este es un equipo ágil”.
 

@@ -33,4 +33,4 @@ ht-degree: 100%
 
 En este vídeo, aprenderá a adjuntar un formulario personalizado a los objetos de Workfront.
 
->[!VIDEO](https://video.tv.adobe.com/v/335173/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3431642/?captions=spa&quality=12&learn=on&enablevpops=1)

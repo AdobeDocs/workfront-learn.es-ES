@@ -33,7 +33,7 @@ ht-degree: 100%
 
 Aprenda a personalizar el área [!UICONTROL Inicio] de sus usuarios para acceder, realizar el seguimiento, aprobar y actualizar el trabajo de forma rápida y sencilla.
 
->[!VIDEO](https://video.tv.adobe.com/v/3428091/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3432781/?captions=spa&quality=12&learn=on&enablevpops=1)
 
 <br>
 </br>
@@ -48,4 +48,4 @@ Este vídeo contiene información sobre:
 * Eliminar elementos del [!UICONTROL Inicio]
 * Añadir elementos al [!UICONTROL Inicio]
 
->[!VIDEO](https://video.tv.adobe.com/v/335081/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3432322/?captions=spa&quality=12&learn=on&enablevpops=1)

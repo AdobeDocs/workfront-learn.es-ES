@@ -38,4 +38,4 @@ Este vídeo contiene información sobre:
 * Añadir elementos al [!UICONTROL Menú principal]
 
 
->[!VIDEO](https://video.tv.adobe.com/v/335073/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3432308/?captions=spa&quality=12&learn=on&enablevpops=1)

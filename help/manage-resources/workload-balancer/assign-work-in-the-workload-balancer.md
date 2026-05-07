@@ -36,4 +36,4 @@ Este vídeo contiene información sobre:
 * Asignaciones a una tarea no asignada
 
 
->[!VIDEO](https://video.tv.adobe.com/v/335166/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3413804/?captions=spa&quality=12&learn=on&enablevpops=1)

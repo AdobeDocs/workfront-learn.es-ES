@@ -36,4 +36,4 @@ Este vídeo contiene información sobre:
 * Utilice la sección Menciones para ver las actualizaciones que ha incluido en
 * Responder a las actualizaciones
 
->[!VIDEO](https://video.tv.adobe.com/v/340342/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3414232/?captions=spa&quality=12&learn=on&enablevpops=1)

@@ -34,7 +34,7 @@ Este vídeo contiene información sobre:
 * El propósito del estado en [!DNL  Workfront]
 * Cambio del estado de las asignaciones de trabajo
 
->[!VIDEO](https://video.tv.adobe.com/v/335101/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3443433/?captions=spa&quality=12&learn=on&enablevpops=1)
 
 ## Iniciar o trabajar en él
 

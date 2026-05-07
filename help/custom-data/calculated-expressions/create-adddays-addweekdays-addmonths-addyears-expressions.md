@@ -32,7 +32,7 @@ Este vídeo contiene información sobre:
 * Qué se calcula con las expresiones ADDDAYS/ADDWEEKDAY/ADDMONTHS/ADDYEAR
 * Cómo crear una expresión de datos ADDWEEKDAYS en un campo calculado
 
->[!VIDEO](https://video.tv.adobe.com/v/335175/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3416188/?captions=spa&quality=12&learn=on&enablevpops=1)
 
 ## Ejemplos adicionales
 

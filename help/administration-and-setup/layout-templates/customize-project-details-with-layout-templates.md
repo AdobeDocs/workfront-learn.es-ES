@@ -36,4 +36,4 @@ Este vídeo contiene información sobre:
 * Ir al área de detalles del proyecto
 * Personalizar los campos de detalles del proyecto mediante una plantilla de diseño
 
->[!VIDEO](https://video.tv.adobe.com/v/335076/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3432906/?captions=spa&quality=12&learn=on&enablevpops=1)

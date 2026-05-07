@@ -33,4 +33,4 @@ ht-degree: 100%
 
 En este vídeo, aprenderá a definir la terminología con una plantilla de diseño.
 
->[!VIDEO](https://video.tv.adobe.com/v/335074/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3445477/?captions=spa&quality=12&learn=on&enablevpops=1)

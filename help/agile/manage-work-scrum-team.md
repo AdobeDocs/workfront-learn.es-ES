@@ -38,7 +38,7 @@ Este vídeo contiene información sobre:
 
 En este vídeo, aprenderá a crear un proyecto de registro de asuntos pendientes con un equipo ágil y a crear un nuevo artículo.
 
->[!VIDEO](https://video.tv.adobe.com/v/346282/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3412169/?captions=spa&quality=12&learn=on&enablevpops=1)
 
 El equipo ágil preparará el registro de asuntos pendientes. Básicamente, significa que pasarán tres cosas.
 

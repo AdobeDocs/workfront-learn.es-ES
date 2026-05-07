@@ -32,7 +32,7 @@ Este vídeo contiene información sobre:
 * Qué hacen las expresiones SUB, SUM, DIV y PROD
 * Creación de una expresión de datos SUB en un campo calculado
 
->[!VIDEO](https://video.tv.adobe.com/v/335177/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3413999/?captions=spa&quality=12&learn=on&enablevpops=1)
 
 ## Información adicional: expresión ROUND
 

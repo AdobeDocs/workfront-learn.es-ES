@@ -33,4 +33,4 @@ Este vídeo contiene información sobre:
 
 * Los elementos estándar utilizados al crear expresiones en [!DNL Workfront]
 
->[!VIDEO](https://video.tv.adobe.com/v/335174/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3416224/?captions=spa&quality=12&learn=on&enablevpops=1)

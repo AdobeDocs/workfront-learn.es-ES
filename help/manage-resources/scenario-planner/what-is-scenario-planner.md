@@ -40,4 +40,4 @@ Este vídeo contiene información sobre:
 * Planificación de escenarios dentro de la organización
 * La configuración de acceso necesaria para utilizar [!DNL Scenario Planner]
 
->[!VIDEO](https://video.tv.adobe.com/v/335317/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3412623/?captions=spa&quality=12&learn=on&enablevpops=1)

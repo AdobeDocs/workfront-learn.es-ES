@@ -38,4 +38,4 @@ Este vídeo contiene información sobre:
 * Cómo crear funciones de trabajo.
 * Cómo aplicar funciones de trabajo a usuarios para que se puedan asignar al trabajo correcto.
 
->[!VIDEO](https://video.tv.adobe.com/v/3416966/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3452429/?captions=spa&quality=12&learn=on&enablevpops=1)

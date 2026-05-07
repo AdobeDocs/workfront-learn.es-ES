@@ -29,4 +29,4 @@ ht-degree: 100%
 
 Aprenda a agregar y editar la configuración de columnas en un tablero.
 
->[!VIDEO](https://video.tv.adobe.com/v/347332/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3422935/?captions=spa&quality=12&learn=on&enablevpops=1)
