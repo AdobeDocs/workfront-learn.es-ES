@@ -11,9 +11,15 @@ thumbnail: review-approve-digital-work.png
 jira: KT-8841
 exl-id: fd6e008c-a162-49fa-9f7e-ab7333165dad
 doc-type: video
-source-git-commit: 2bfb833431370c0debe85d3d3376cf907632042e
+product_v2: id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2: id: e14a7f57-c82c-4874-a495-5d036cbbdc3d
+subfeature_v2: id: b18b693b-6d59-4359-95fd-a386b7a615fe
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+autotag-review: '2026-05-05T19:55:03.417Z'
+source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
 workflow-type: tm+mt
-source-wordcount: '727'
+source-wordcount: 727
 ht-degree: 44%
 
 ---
@@ -32,7 +38,7 @@ Una vez que sepa lo que se espera, puede empezar a revisar una prueba.
 
 Cuando un recurso esté listo para su revisión y aprobación, recibirá una notificación por correo electrónico.
 
-![Una imagen de un nuevo correo electrónico de prueba que solicita la revisión y aprobación de dos pruebas en [!DNL &#x200B; Workfront].](assets/new-proof-emails.png)
+![Una imagen de un nuevo correo electrónico de prueba que solicita la revisión y aprobación de dos pruebas en [!DNL  Workfront].](assets/new-proof-emails.png)
 
 Es importante tener en cuenta que este vínculo de prueba es único para usted. Si comparte el vínculo con alguien, cualquier comentario o marcado que se haga se etiquetará con su nombre.
 
@@ -63,7 +69,7 @@ También puede encontrar pruebas para revisar el panel de control de [!DNL Workf
 
 Si normalmente trabaja con proyectos, tareas o problemas en [!DNL Workfront], puede que prefiera abrir la prueba directamente desde la sección de [!DNL Documents] de ese elemento.
 
-![Una imagen de la sección [!UICONTROL Documentos] encontrada en una tarea de [!DNL &#x200B; Workfront] con el vínculo [!UICONTROL Prueba abierta &#x200B;]resaltado.](assets/open-proof-from-documents.png)
+![Una imagen de la sección [!UICONTROL Documentos] encontrada en una tarea de [!DNL  Workfront] con el vínculo [!UICONTROL Prueba abierta ]resaltado.](assets/open-proof-from-documents.png)
 
 1. Haga clic en el nombre del proyecto, la tarea o el problema.
 2. Haga clic en [!UICONTROL Documentos] en el menú del panel izquierdo de la página del elemento.

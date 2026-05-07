@@ -9,30 +9,36 @@ level: Beginner
 team: Technical Marketing
 thumbnail: 335157.png
 jira: KT-8862
-last-substantial-update: 2025-05-28T00:00:00Z
+last-substantial-update: '2025-05-28T00:00:00.000Z'
 exl-id: 7adc2aeb-6618-4894-acc3-298e35175854
 doc-type: video
-source-git-commit: 66bab1a0b2316a31cb99916220500303e49797ad
+product_v2: id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2: id: c6dd2ac5-f5bd-4e59-9101-25b156918623
+subfeature_v2: id: caabbe77-a670-4ba9-8190-faf649b1f84a
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+autotag-review: '2026-05-06T14:20:51.376Z'
+source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
 workflow-type: tm+mt
-source-wordcount: '650'
-ht-degree: 29%
+source-wordcount: 689
+ht-degree: 27%
 
 ---
 
 # Creación de paneles en Workfront
 
 El vídeo proporciona una guía completa para comprender y utilizar los paneles en Workfront.
-palo de golfEn él se explica que un tablero es una colección de informes que permite a los usuarios organizar y mostrar los datos relacionados en un solo lugar.
+&#x200B;Se explica que un tablero es una colección de informes que permite a los usuarios organizar y mostrar los datos relacionados en un solo lugar.
 
->[!VIDEO](https://video.tv.adobe.com/v/3449125/?captions=spa&quality=12&learn=on&enablevpops=0)
+>[!VIDEO](https://video.tv.adobe.com/v/335157/?quality=12&learn=on&enablevpops=0)
 
 ## Principales conclusiones
 
-* **Paneles en Workfront:** Un panel es una colección de informes que permite a los usuarios organizar y mostrar datos relacionados, como proyectos, tareas y problemas, en una vista centralizada. palo de golf
-* **Creación de paneles:** Los paneles se pueden personalizar seleccionando un diseño, agregando informes, calendarios personalizados o páginas externas y organizándolos para que tengan una visualización óptima. palo de golf Los usuarios también pueden personalizar qué columnas aparecen en informes en paralelo dentro del panel. palo de golf
-* **Acceso a los paneles:** Los paneles se encuentran en &quot;Mis paneles&quot;, &quot;Paneles compartidos&quot; o &quot;Todos los paneles&quot; en el área de Paneles. palo de golf Los paneles que se utilizan con más frecuencia se pueden anclar o agregar a Favoritos para acceder rápidamente a ellos. palo de golf
-* **Compartir tableros:** Los tableros se pueden compartir con otros usuarios de Workfront, incluidos todos los informes incluidos en el tablero, a través del menú &quot;Acciones de tablero&quot;. palo de golf
-* **Impresión de paneles:** Los paneles se pueden imprimir directamente desde el menú &quot;Acciones de panel&quot;, lo que facilita el uso compartido de copias físicas de los datos. palo de golf
+* **Paneles en Workfront:** Un panel es una colección de informes que permite a los usuarios organizar y mostrar datos relacionados, como proyectos, tareas y problemas, en una vista centralizada. &#x200B;
+* **Creación de paneles:** Los paneles se pueden personalizar seleccionando un diseño, agregando informes, calendarios personalizados o páginas externas y organizándolos para que tengan una visualización óptima. Los usuarios también pueden personalizar qué columnas aparecen en informes en paralelo dentro del panel. &#x200B;
+* **Acceso a los paneles:** Los paneles se encuentran en &quot;Mis paneles&quot;, &quot;Paneles compartidos&quot; o &quot;Todos los paneles&quot; en el área de Paneles. Los paneles que se utilizan con más frecuencia se pueden anclar o agregar a Favoritos para acceder rápidamente a ellos. &#x200B;
+* **Compartir tableros:** Los tableros se pueden compartir con otros usuarios de Workfront, incluidos todos los informes incluidos en el tablero, a través del menú &quot;Acciones de tablero&quot;. &#x200B;
+* **Impresión de paneles:** Los paneles se pueden imprimir directamente desde el menú &quot;Acciones de panel&quot;, lo que facilita el uso compartido de copias físicas de los datos. &#x200B;
 
 
 ## Actividades &quot;Crear tablero&quot;
@@ -41,7 +47,7 @@ palo de golfEn él se explica que un tablero es una colección de informes que p
 
 Crear un [!UICONTROL tablero] con un solo informe:&quot;Buscar notas en este proyecto&quot;. Esto es útil para encontrar rápidamente cualquier actualización realizada en un proyecto, incluso si hay miles de actualizaciones para buscar. Esto buscará en los subprocesos de actualización para extraer rápidamente cualquier actualización que cumpla los criterios especificados en los mensajes.
 
-Cree este informe haciendo una copia del informe &quot;Notas de búsqueda&quot; que creó en la actividad &quot;Crear un informe de notas&quot;. ¿Aún no lo ha creado? Haga clic aquí para ver la actividad en el tutorial [Crear un informe de tareas](https://experienceleague.adobe.com/es/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-task-report#activity-1-create-a-note-report-with-prompts).
+Cree este informe haciendo una copia del informe &quot;Notas de búsqueda&quot; que creó en la actividad &quot;Crear un informe de notas&quot;. ¿Aún no lo ha creado? Haga clic aquí para ver la actividad en el tutorial [Crear un informe de tareas](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-task-report#activity-1-create-a-note-report-with-prompts).
 
 * Elimine el mensaje Nombre del proyecto de la copia y cambie el nombre del informe a &quot;Notas de búsqueda en este proyecto&quot;.
 * Asigne un nombre al [!UICONTROL panel] &quot;Notas de búsqueda&quot;.
@@ -50,7 +56,7 @@ Cree este informe haciendo una copia del informe &quot;Notas de búsqueda&quot; 
 
 ### Respuesta 1
 
-1. Ejecute el informe que ha creado en la actividad Crear un informe de notas. ¿Aún no lo ha creado? Haga clic aquí para ver la actividad en el tutorial [Crear un informe de tareas](https://experienceleague.adobe.com/es/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-task-report#activity-1-create-a-note-report-with-prompts).
+1. Ejecute el informe que ha creado en la actividad Crear un informe de notas. ¿Aún no lo ha creado? Haga clic aquí para ver la actividad en el tutorial [Crear un informe de tareas](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-task-report#activity-1-create-a-note-report-with-prompts).
 1. Haga clic en **[!UICONTROL Acciones de informe]** y seleccione **[!UICONTROL Copiar]**. [!DNL Workfront] crea un nuevo informe denominado &quot;Búsqueda de notas (copia)&quot;.
 1. Vaya a **[!UICONTROL Acciones de informe]** y seleccione **[!UICONTROL Editar]**. Haga clic en **[!UICONTROL Configuración de informes]** y cambie el nombre a &quot;Buscar notas en este proyecto&quot;.
 1. Haga clic en [!UICONTROL Mensajes del informe] y elimine el mensaje [!UICONTROL Proyecto] > [!UICONTROL Nombre] de la lista.

@@ -1,6 +1,6 @@
 ---
 title: Explicación de los detalles de la prueba
-description: Profundizar en los detalles detrás de una prueba en [!DNL &#x200B; Workfront] a través del panel de resumen y la página [!UICONTROL Detalles del documento].
+description: Profundizar en los detalles detrás de una prueba en [!DNL  Workfront] a través del panel de resumen y la página [!UICONTROL Detalles del documento].
 activity: use
 team: Technical Marketing
 feature: Workfront Proof
@@ -10,9 +10,15 @@ level: Beginner
 thumbnail: understand-proof-details.png
 jira: KT-10110
 exl-id: 196f9318-eced-4825-b0fd-8592b6cb3403
-source-git-commit: cb72c429f0ef4cd9945282876aa49189dab1bd96
+product_v2: id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2: id: e14a7f57-c82c-4874-a495-5d036cbbdc3d
+subfeature_v2: id: b18b693b-6d59-4359-95fd-a386b7a615fe
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+autotag-review: '2026-05-05T19:56:45.995Z'
+source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
 workflow-type: tm+mt
-source-wordcount: '1038'
+source-wordcount: 1038
 ht-degree: 57%
 
 ---
@@ -47,17 +53,17 @@ Para obtener más información sobre la revisión, haga clic en [!UICONTROL Deta
 
 Esto lo lleva a la página [!UICONTROL Detalles del documento] y a una variedad de opciones adicionales en el panel izquierdo.
 
-![Una imagen de la página de la prueba en [!DNL &#x200B; Workfront].](assets/document-details.png)
+![Una imagen de la página de la prueba en [!DNL  Workfront].](assets/document-details.png)
 
 Es importante tener en cuenta que la capacidad de ver información relacionada con el proceso de revisión depende de los permisos de revisión en [!DNL Workfront].
 
 Desde la página de la prueba, puede acceder a estas secciones desde el menú del panel izquierdo:
 
 * **Actualizaciones —** Los comentarios realizados en el visor de pruebas aparecen aquí, con la etiqueta &quot;comentario de prueba&quot;. También puede realizar comentarios sobre el archivo, como hace comentarios sobre una tarea o proyecto (estos comentarios no aparecen en el visualizador de pruebas).
-* **Aprobaciones:** esta sección es para aprobaciones de documentos, no para aprobaciones de pruebas. Los dos tipos de aprobaciones son procesos independientes en [!DNL Workfront] y no se vinculan entre sí. Si utiliza flujos de trabajo de prueba para sus revisiones y aprobaciones, no utilizará esta sección.
+* **Aprobaciones:** esta sección es para aprobaciones de documentos, no para aprobaciones de revisiones. Los dos tipos de aprobaciones son procesos independientes en [!DNL Workfront] y no se vinculan entre sí. Si utiliza flujos de trabajo de prueba para sus revisiones y aprobaciones, no utilizará esta sección.
 * **Todas las versiones:** rastree y administre el historial de versiones de la prueba. Puede que le resulte más fácil acceder a esta información en el panel de resumen de la lista [!UICONTROL Documentos].
 * **Formularios personalizados:** los formularios personalizados se utilizan en pruebas para capturar información específica de la organización. Esta información se puede pasar con el archivo a sistemas de almacenamiento de documentos integrados, como [!DNL Workfront] DAM o Adobe Experience Manager. Los formularios personalizados los configura el administrador del sistema o el administrador del grupo de [!DNL Workfront]. Hable con su equipo o con sus administradores para saber si va a utilizar formularios personalizados en las pruebas.
-* **Flujo de trabajo de prueba:** administre o modifique el flujo de trabajo asignado a la prueba. También puede abrir esta ventana mediante el vínculo [!UICONTROL Flujo de trabajo de revisión] en la revisión de la lista [!UICONTROL Documentos].
+* **Flujo de trabajo de revisión:** administre o modifique el flujo de trabajo asignado a la revisión. También puede abrir esta ventana mediante el vínculo [!UICONTROL Flujo de trabajo de revisión] en la revisión de la lista [!UICONTROL Documentos].
 
 Veamos con más detalle dos de las secciones: [!UICONTROL Configuración del visor de revisiones] y [!UICONTROL Actividad de revisiones].
 
@@ -65,10 +71,10 @@ Veamos con más detalle dos de las secciones: [!UICONTROL Configuración del vis
 
 Esta configuración le ayuda a controlar el acceso a la propia prueba.
 
-![Una imagen de la [!UICONTROL Configuración del visualizador de pruebas] de la página de la prueba con la opción [!UICONTROL Configuración del visualizador de pruebas] en el menú del panel izquierdo.](assets/proofing-settings-on-details-page.png)
+![Una imagen de la [!UICONTROL Configuración del visualizador de revisiones] de la página de la revisión con la opción [!UICONTROL Configuración del visualizador de revisiones] en el menú del panel izquierdo.](assets/proofing-settings-on-details-page.png)
 
-* **[!UICONTROL Inicio de sesión obligatorio. Esta prueba no se puede compartir con usuarios invitados]:** la prueba solo se puede compartir con personas que tengan una licencia de prueba de [!DNL Workfront].
-* **[!UICONTROL Requerir que las decisiones se firmen electrónicamente] —** Al compartir una prueba, esto requiere que el destinatario tenga permisos de revisión en [!DNL Workfront] y que los haga &quot;firmar electrónicamente&quot; la prueba al escribir su contraseña de revisión cuando tomen una decisión sobre la revisión. (Nota: La contraseña de revisión debe ser diferente de la contraseña de [!DNL Workfront]. La contraseña de revisión no es fácilmente accesible, por lo que la mayoría de los destinatarios no sabrán esta contraseña). El Adobe recomienda hablar con el consultor de [!DNL Workfront] antes de usar esta función.
+* **[!UICONTROL Inicio de sesión obligatorio. Esta revisión no se puede compartir con usuarios invitados]:** la revisión solo se puede compartir con personas que tengan una licencia de revisión de [!DNL Workfront].
+* **[!UICONTROL Requerir que las decisiones se firmen electrónicamente] —** Al compartir una prueba, esto requiere que el destinatario tenga permisos de revisión en [!DNL Workfront] y que los haga &quot;firmar electrónicamente&quot; la prueba al escribir su contraseña de revisión cuando tomen una decisión sobre la revisión. (Nota: La contraseña de revisión debe ser diferente de la contraseña de [!DNL Workfront]. La contraseña de revisión no es fácilmente accesible, por lo que la mayoría de los destinatarios no sabrán esta contraseña). Adobe recomienda hablar con el consultor de [!DNL Workfront] antes de usar esta función.
 * **[!UICONTROL Bloquear la prueba cuando se toman todas las decisiones necesarias]:** esto bloquea la prueba de cualquier otro comentario, respuesta, decisión, etc., una vez que se haya tomado una decisión sobre la prueba. Esto bloquea la versión de prueba completa, no solo una fase específica del flujo de trabajo de revisión.
 * **[!UICONTROL Permitir la descarga del archivo original] —** Los destinatarios de la prueba pueden descargar el archivo de origen original de la prueba desde el visor de pruebas.
 * **[!UICONTROL Permitir el uso compartido de pruebas mediante una URL pública o código incrustado]:** los destinatarios de la prueba pueden compartir un vínculo de prueba accesible al público con cualquier persona.
@@ -85,7 +91,7 @@ La sección **[!UICONTROL Actividad]** registra cuándo se hicieron los comentar
 
 La sección **[!UICONTROL Mensajes]** registra el momento en que se enviaron alertas y mensajes de correo electrónico a los destinatarios, quién los mandó y el contenido. Esto puede resultar útil para solucionar problemas si alguien dice que no recibió un correo electrónico sobre una prueba. Puede consultar si se ha enviado un correo electrónico y cuándo.
 
-El Adobe recomienda que el administrador y el propietario de la prueba se familiaricen con la información de estas dos secciones. Si combina esta información con la comprensión de cómo leer la barra de progreso de [!UICONTROL SOCD], podrá entender y administrar de verdad sus pruebas, sin importar en qué punto del flujo de trabajo de revisión se encuentren.
+Adobe recomienda que el administrador y el propietario de las pruebas se familiaricen con la información de estas dos secciones. Si combina esta información con la comprensión de cómo leer la barra de progreso de [!UICONTROL SOCD], podrá entender y administrar de verdad sus pruebas, sin importar en qué punto del flujo de trabajo de revisión se encuentren.
 
 Una vez que haya terminado de trabajar en la sección [!UICONTROL Detalles del documento], use la ruta de exploración para volver a la sección [!UICONTROL Documentos] del proyecto, tarea o problema al que está adjunta la revisión.
 

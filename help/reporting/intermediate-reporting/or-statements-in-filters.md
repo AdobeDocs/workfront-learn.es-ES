@@ -10,22 +10,27 @@ role: User
 level: Intermediate
 jira: KT-9987
 exl-id: 1a56f2f6-12df-43a5-943c-986a85661efa
-last-substantial-update: 2025-08-11T00:00:00Z
+last-substantial-update: '2025-08-11T00:00:00.000Z'
 doc-type: video
-source-git-commit: cc423944628d01e16d390842ecb25696505f923c
+product_v2: id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2: id: c6dd2ac5-f5bd-4e59-9101-25b156918623
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+autotag-review: '2026-05-06T02:11:54.379Z'
+source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
 workflow-type: tm+mt
-source-wordcount: '320'
+source-wordcount: 318
 ht-degree: 31%
 
 ---
 
 # Crear instrucciones OR en filtros
 
-En el vídeo se explica cómo crear y utilizar filtros con varias reglas en Workfront. palo de golf De forma predeterminada, Workfront utiliza &quot;Y&quot; entre reglas de filtro, lo que significa que todas las condiciones deben ser verdaderas para que un elemento aparezca en la lista.
+En el vídeo se explica cómo crear y utilizar filtros con varias reglas en Workfront. De forma predeterminada, Workfront utiliza &quot;Y&quot; entre las reglas de filtro, lo que significa que todas las condiciones deben ser verdaderas para que un elemento aparezca en la lista.
 También puede cambiar la lógica del filtro a &quot;O&quot;, que muestra los elementos que cumplen cualquiera de las condiciones.
-El vídeo también muestra la creación de filtros para tareas utilizando grupos de filtros. palo de golf Por ejemplo, puede crear dos grupos: uno para las tareas incompletas asignadas al equipo creativo que están atrasadas y otro para las tareas incompletas asignadas al equipo creativo que no están asignadas. palo de golf Dentro de cada grupo se aplica la lógica &quot;Y&quot;, lo que significa que deben cumplirse todas las condiciones del grupo. palo de golf La lógica &quot;OR&quot; entre grupos garantiza que se muestren las tareas que cumplen las condiciones de cualquiera de los grupos.
+El vídeo también muestra la creación de filtros para tareas utilizando grupos de filtros. Por ejemplo, puede crear dos grupos: uno para tareas incompletas asignadas al equipo creativo que están atrasadas y otro para tareas incompletas asignadas al equipo creativo que no están asignadas. Dentro de cada grupo, se aplica la lógica &quot;AND&quot;, lo que significa que se deben cumplir todas las condiciones del grupo. La lógica &quot;OR&quot; entre grupos garantiza que se muestren las tareas que cumplen las condiciones de cualquiera de los grupos.
 
->[!VIDEO](https://video.tv.adobe.com/v/3470696/?captions=spa&quality=12&learn=on&enablevpops=0)
+>[!VIDEO](https://video.tv.adobe.com/v/3470692/?quality=12&learn=on&enablevpops=0)
 
 ## Actividad de filtro O
 

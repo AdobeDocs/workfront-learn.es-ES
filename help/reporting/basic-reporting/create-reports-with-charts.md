@@ -9,25 +9,31 @@ level: Beginner
 team: Technical Marketing
 thumbnail: 335153.png
 jira: KT-8860
-last-substantial-update: 2025-05-06T00:00:00Z
+last-substantial-update: '2025-05-06T00:00:00.000Z'
 exl-id: ea3b360b-1fbd-4d1a-b505-b75759d24e41
 doc-type: video
-source-git-commit: 66bab1a0b2316a31cb99916220500303e49797ad
+product_v2: id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2: id: c6dd2ac5-f5bd-4e59-9101-25b156918623
+subfeature_v2: id: ceb4d94a-32ed-4fea-9724-1339d684b0bc
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+autotag-review: '2026-05-06T14:21:20.703Z'
+source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
 workflow-type: tm+mt
-source-wordcount: '599'
+source-wordcount: 590
 ht-degree: 32%
 
 ---
 
 # Visualización de datos con gráficos en informes
 
-En el vídeo se explica cómo utilizar gráficos para visualizar los datos de forma eficaz, especialmente para rastrear tareas de proyectos. palo de golf Muestra la creación de dos tipos de informes en Workfront:
+En el vídeo se explica cómo utilizar gráficos para visualizar los datos de forma eficaz, especialmente para rastrear tareas de proyectos. Muestra la creación de dos tipos de informes en Workfront:
 
 **Informe de tareas atrasadas por proyecto:**
 
-* Comience con un informe de lista y aplique filtros para mostrar solo las tareas incompletas y tardías de los proyectos actuales. palo de golf
-* Agrupe las tareas por nombre de proyecto y cree un gráfico circular para visualizar la distribución de las tareas tardías entre los proyectos. palo de golf
-* Configure el gráfico como la pestaña predeterminada para facilitar el acceso. palo de golf
+* Comience con un informe de lista y aplique filtros para mostrar solo las tareas incompletas y tardías de los proyectos actuales. &#x200B;
+* Agrupe las tareas por nombre de proyecto y cree un gráfico circular para visualizar la distribución de las tareas tardías entre los proyectos. &#x200B;
+* Configure el gráfico como la pestaña predeterminada para facilitar el acceso. &#x200B;
 
 **Informe de estado de tareas por proyecto y progreso:**
 
@@ -36,16 +42,16 @@ En el vídeo se explica cómo utilizar gráficos para visualizar los datos de fo
 * Utilice un gráfico de columnas apiladas para mostrar el número total de tareas por proyecto, con pilas que representan diferentes estados de progreso.
 * Personalice los colores si es necesario y guarde el informe.
 
-El vídeo resalta cómo los gráficos como los gráficos circulares y de columnas apiladas pueden proporcionar información sobre la distribución de tareas y el rendimiento del proyecto, lo que ayuda a los usuarios a comparar proyectos y comprender el progreso de las tareas visualmente. palo de golf
+El vídeo resalta cómo los gráficos como los gráficos circulares y de columnas apiladas pueden proporcionar información sobre la distribución de tareas y el rendimiento del proyecto, lo que ayuda a los usuarios a comparar proyectos y comprender el progreso de las tareas visualmente. &#x200B;
 
->[!VIDEO](https://video.tv.adobe.com/v/3450017/?captions=spa&quality=12&learn=on&enablevpops=0)
+>[!VIDEO](https://video.tv.adobe.com/v/335155/?quality=12&learn=on&enablevpops=0)
 
 ## Principales conclusiones
 
-* **Los gráficos mejoran la claridad de los datos**: la visualización de datos con gráficos, como gráficos circulares o de columnas, facilita la comprensión de la distribución de tareas y el progreso del proyecto en comparación con los informes de lista. palo de golf
-* **Filtrado para datos específicos**: la aplicación de filtros (por ejemplo, tareas incompletas o tardías en proyectos actuales) ayuda a centrarse en datos relevantes para el análisis segmentado. palo de golf
-* **Agrupación para una mejor organización**: Agrupar tareas por nombre de proyecto o estado de progreso organiza los datos de forma eficaz, lo que permite realizar comparaciones significativas entre proyectos. palo de golf
-* **Opciones de personalización de gráficos**: los usuarios pueden seleccionar tipos de gráficos (por ejemplo, circulares, columnas o barras) y personalizar colores para alinearlos con las preferencias o la marca. palo de golf
+* **Los gráficos mejoran la claridad de los datos**: la visualización de datos con gráficos, como gráficos circulares o de columnas, facilita la comprensión de la distribución de tareas y el progreso del proyecto en comparación con los informes de lista. &#x200B;
+* **Filtrado para datos específicos**: la aplicación de filtros (por ejemplo, tareas incompletas o tardías en proyectos actuales) ayuda a centrarse en datos relevantes para el análisis segmentado. &#x200B;
+* **Agrupación para una mejor organización**: Agrupar tareas por nombre de proyecto o estado de progreso organiza los datos de forma eficaz, lo que permite realizar comparaciones significativas entre proyectos. &#x200B;
+* **Opciones de personalización de gráficos**: los usuarios pueden seleccionar tipos de gráficos (por ejemplo, circulares, columnas o barras) y personalizar colores para alinearlos con las preferencias o la marca. &#x200B;
 * **Gráficos de columnas apiladas para obtener información detallada**: los gráficos de columnas apiladas proporcionan una vista completa del progreso de las tareas dentro de los proyectos, mostrando tanto las tareas totales como sus estados en una sola visualización.
 
 
@@ -73,7 +79,7 @@ Se acerca el final del trimestre y usted quiere ver cómo se han ajustado a sus 
 1. En la pestaña **[!UICONTROL Filtros]** agregue estas dos reglas de filtro:
 
    * [!UICONTROL Proyecto] > [!UICONTROL Estado equivale a] > [!UICONTROL Completar]
-   * [!UICONTROL Proyecto] >[!UICONTROL &#x200B; Fecha de finalización real] > [!UICONTROL Último trimestre]
+   * [!UICONTROL Proyecto] >[!UICONTROL  Fecha de finalización real] > [!UICONTROL Último trimestre]
 
    ![Imagen de la pantalla para agregar filtros a un informe](assets/chart-report-filters.png)
 

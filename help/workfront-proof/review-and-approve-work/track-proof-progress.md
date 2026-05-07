@@ -1,6 +1,6 @@
 ---
 title: Seguimiento del progreso de la prueba
-description: Aprenda a utilizar los indicadores de [!UICONTROL SOCD], el progreso de la revisión e informes para realizar el seguimiento del progreso de una revisión en [!DNL &#x200B; Workfront].
+description: Aprenda a utilizar los indicadores de [!UICONTROL SOCD], el progreso de la revisión e informes para realizar el seguimiento del progreso de una revisión en [!DNL  Workfront].
 activity: use
 team: Technical Marketing
 feature: Workfront Proof
@@ -10,9 +10,15 @@ level: Beginner
 thumbnail: track-proof-progress.png
 jira: KT-10111
 exl-id: 343483fe-487a-4a23-914d-2807a00630f9
-source-git-commit: 8ad86921177da189503211635116146e886dbd17
+product_v2: id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2: id: e14a7f57-c82c-4874-a495-5d036cbbdc3d
+subfeature_v2: id: b18b693b-6d59-4359-95fd-a386b7a615fe
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+autotag-review: '2026-05-05T19:53:35.724Z'
+source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
 workflow-type: tm+mt
-source-wordcount: '767'
+source-wordcount: 770
 ht-degree: 64%
 
 ---
@@ -27,7 +33,7 @@ Para ver el progreso de la revisión en [!DNL Workfront], debe tener una licenci
 
 Obtenga una vista de alto nivel de cómo progresa la revisión a través del proceso de revisión y aprobación mediante los iconos de [!UICONTROL SOCD] en la lista de [!UICONTROL Documentos]. Estos iconos indican acciones específicas realizadas en la revisión.
 
-![Una imagen de la lista [!UICONTROL Documentos] en un proyecto de [!DNL &#x200B; Workfront] con los iconos de [!UICONTROL SOCD] resaltados.](assets/manage-proofs-socd.png)
+![Una imagen de la lista [!UICONTROL Documentos] en un proyecto de [!DNL  Workfront] con los iconos de [!UICONTROL SOCD] resaltados.](assets/manage-proofs-socd.png)
 
 Los iconos indican el trabajo realizado en una revisión desde el momento en que se envía la revisión a los destinatarios hasta el momento en que toman una decisión sobre la revisión.
 
@@ -59,7 +65,7 @@ Si desea saber cómo lo está haciendo cada destinatario de revisión individual
 
 El estado de prueba se basa en el estado de los destinatarios de prueba de la fase. El estado general de la revisión es visible en la página [!UICONTROL Documentos], a la derecha de los indicadores de [!UICONTROL SOCD], para que pueda saber fácilmente si tiene una decisión sobre la revisión.
 
-![Una imagen de la lista [!UICONTROL Documentos] en un proyecto de [!DNL &#x200B; Workfront] con el estado de revisión general resaltado.](assets/manage-proofs-overall-status.png)
+![Una imagen de la lista [!UICONTROL Documentos] en un proyecto de [!DNL  Workfront] con el estado de revisión general resaltado.](assets/manage-proofs-overall-status.png)
 
 Este estado de revisión indica el estado general de la revisión. Por ejemplo, si dos destinatarios aprueban la revisión, sus estados individuales muestran [!UICONTROL Aprobado]. Sin embargo, el tercer destinatario aún no ha tomado una decisión, por lo que el estado de esa persona es [!UICONTROL Pendiente]. Por lo tanto, el estado general se muestra como [!UICONTROL Pendiente].
 
@@ -79,11 +85,11 @@ También puede aprovechar las funcionalidades de creación de informes de [!DNL 
 
 Un informe de aprobación de revisión le ayuda a realizar un seguimiento de las aprobaciones pendientes para asegurarse de que se cumplen los plazos.
 
-![Una imagen de un informe de aprobación de revisión en [!DNL &#x200B; Workfront].](assets/proof-approval-report.png)
+![Una imagen de un informe de aprobación de revisión en [!DNL  Workfront].](assets/proof-approval-report.png)
 
 Un informe de versión del documento permite administrar y rastrear las versiones de revisión.
 
-![Imagen de un informe de versión de documento en [!DNL &#x200B; Workfront].](assets/document-version-report.png)
+![Imagen de un informe de versión de documento en [!DNL  Workfront].](assets/document-version-report.png)
 
 Recomendamos trabajar con su consultor de [!DNL Workfront] para crear informes que cumplan los requisitos de su organización. Algunos de los informes deben estar familiarizados con el sistema de informes de modo de texto de [!DNL Workfront's].
 

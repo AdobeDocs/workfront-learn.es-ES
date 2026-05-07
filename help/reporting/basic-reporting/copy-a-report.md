@@ -8,13 +8,19 @@ role: User
 level: Beginner
 activity: deploy
 team: Technical Marketing
-last-substantial-update: 2025-05-12T00:00:00Z
+last-substantial-update: '2025-05-12T00:00:00.000Z'
 jira: KT-14692
 doc-type: video
 exl-id: aad45ea3-b9dd-4568-a6fe-749640e12878
-source-git-commit: 66bab1a0b2316a31cb99916220500303e49797ad
+product_v2: id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2: id: c6dd2ac5-f5bd-4e59-9101-25b156918623
+subfeature_v2: id: ceb4d94a-32ed-4fea-9724-1339d684b0bc
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+autotag-review: '2026-05-06T14:23:42.416Z'
+source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
 workflow-type: tm+mt
-source-wordcount: '40'
+source-wordcount: 40
 ht-degree: 75%
 
 ---
@@ -23,4 +29,4 @@ ht-degree: 75%
 
 Aprenda a crear rápidamente un nuevo informe copiando y editando un informe similar.
 
->[!VIDEO](https://video.tv.adobe.com/v/3437048/?captions=spa&quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3427230/?quality=12&learn=on&enablevpops=1)

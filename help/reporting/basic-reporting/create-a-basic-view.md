@@ -8,30 +8,36 @@ type: Tutorial
 role: User
 level: Beginner
 team: Technical Marketing
-last-substantial-update: 2025-06-06T00:00:00Z
+last-substantial-update: '2025-06-06T00:00:00.000Z'
 jira: KT-8854
 exl-id: ba3c0e10-dcf1-4a7b-bf11-ccfed9040e6d
 doc-type: video
-source-git-commit: cc423944628d01e16d390842ecb25696505f923c
+product_v2: id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2: id: c6dd2ac5-f5bd-4e59-9101-25b156918623
+subfeature_v2: id: ceb4d94a-32ed-4fea-9724-1339d684b0bc
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+autotag-review: '2026-05-06T14:22:21.695Z'
+source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
 workflow-type: tm+mt
-source-wordcount: '976'
-ht-degree: 73%
+source-wordcount: 984
+ht-degree: 70%
 
 ---
 
 # Creación de una vista básica
 
-En el vídeo se explica cómo crear y personalizar vistas en Workfront para mostrar información específica sobre los elementos de una lista, como proyectos, tareas, problemas y documentos. palo de golf Las vistas permiten a los usuarios ver detalles como nombre, descripción, estado y otros campos relevantes para los elementos. palo de golf
+En el vídeo se explica cómo crear y personalizar vistas en Workfront para mostrar información específica sobre los elementos de una lista, como proyectos, tareas, problemas y documentos. Las vistas permiten a los usuarios ver detalles como nombre, descripción, estado y otros campos relevantes para los elementos. &#x200B;
 
 El vídeo destaca la flexibilidad de las vistas en Workfront y proporciona instrucciones paso a paso para crearlas, personalizarlas y administrarlas.
 
->[!VIDEO](https://video.tv.adobe.com/v/3450241/?captions=spa&quality=12&learn=on&enablevpops=0)
+>[!VIDEO](https://video.tv.adobe.com/v/335148/?quality=12&learn=on&enablevpops=0)
 
-## Puntos clave
+## Principales conclusiones
 
 * **Personalización de vistas**: los usuarios pueden editar las vistas existentes o crear otras nuevas agregando, quitando o reorganizando columnas para mostrar información específica, como el estado del proyecto o el presupuesto.
-* **Edición en línea**: algunos campos de una vista de lista se pueden actualizar directamente sin abrir elementos individuales, por lo que los cambios se realizan con mayor rapidez. palo de golf
-* **Creación de vistas desde cero**: los usuarios pueden diseñar vistas para satisfacer necesidades específicas, como el seguimiento del estado del proyecto, agregando columnas relevantes como el presupuesto, el costo real y el estado de progreso. palo de golf
+* **Edición en línea**: algunos campos de una vista de lista se pueden actualizar directamente sin abrir elementos individuales, por lo que los cambios se realizan con mayor rapidez. &#x200B;
+* **Creación de vistas desde cero**: los usuarios pueden diseñar vistas para satisfacer necesidades específicas, como el seguimiento del estado del proyecto, agregando columnas relevantes como el presupuesto, el costo real y el estado de progreso. &#x200B;
 * **Compartir y administrar vistas**: las vistas personalizadas se pueden compartir con los integrantes del equipo para colaborar o se pueden quitar cuando ya no sean necesarias.
 
 ## Actividades &quot;Crear una vista básica&quot;
@@ -66,7 +72,7 @@ Cree una vista de tarea denominada “Vista de estado de tarea” con las siguie
 1. En el campo [!UICONTROL Mostrar en esta columna], escriba “estado” y, a continuación, seleccione “Iconos de estado” en la fuente del campo Tarea.
 1. Haga clic en **[!UICONTROL Guardar]**.
 
-Pase el puntero por encima de cada uno de los iconos de la columna [!UICONTROL Iconos de estado] para ver lo que representan. Si aparecen en gris, significa que la tarea no tiene notas, documentos, procesos de aprobación, etc. Si un icono aparece en color, hay al menos uno de los elementos asociados a la tarea. Puede hacer clic en los iconos de nota o documento para ir a ese elemento.
+Pase el puntero por encima de cada uno de los iconos de la columna [!UICONTROL Iconos de estado] para ver lo que representan. Si aparece en gris, significa que la tarea no tiene notas, documentos, procesos de aprobación, etc. Si aparece un icono en color, hay al menos uno de ese elemento asociado con la tarea. Puede hacer clic en los iconos de nota o documento para ir a ese elemento.
 
 ### Actividad 2: Crear una vista hito
 
@@ -150,7 +156,7 @@ Cree una vista de plantilla de proyecto denominada “Estándar+estado activo”
 * [!UICONTROL Horas planificadas]
 * [!UICONTROL Coste planificado]
 * [!UICONTROL Indicadores]
-* [!UICONTROL Nombre del grupo &#x200B;]
+* [!UICONTROL Nombre del grupo ]
 * [!UICONTROL Está activo]
 
 

@@ -1,7 +1,7 @@
 ---
 title: Información general sobre la formación de Workfront Fusion
 description: Obtenga información acerca del libro de actividades de Adobe Workfront Fusion y cómo obtener una cuenta de unidad de prueba de Workfront.
-short-description: 'Cada sección de Workfront Fusion contiene varios tutoriales y cada uno presenta los conceptos que debe comprender antes de pasar al siguiente. '
+short-description: Cada sección de Workfront Fusion contiene varios tutoriales y cada uno presenta los conceptos que debe comprender antes de pasar al siguiente.
 activity: use
 team: Technical Marketing
 type: Tutorial
@@ -9,13 +9,19 @@ feature: Workfront Fusion
 role: User
 level: Beginner
 jira: KT-11035
-last-substantial-update: 2026-03-11T00:00:00Z
+last-substantial-update: '2026-03-11T00:00:00.000Z'
 recommendations: noDisplay,catalog
 exl-id: 998abb57-baff-4ebb-bd90-c67a553ee8d7
-source-git-commit: 1548354dd04aeeeeeb0e64726ea2256f7f832279
+product_v2: id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2: id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
+subfeature_v2: id: c3a155b4-a54b-4a82-a3d2-c8f0f971673e
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+autotag-review: '2026-05-06T16:48:52.918Z'
+source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
 workflow-type: tm+mt
-source-wordcount: '449'
-ht-degree: 72%
+source-wordcount: 487
+ht-degree: 73%
 
 ---
 
@@ -63,4 +69,4 @@ Las instrucciones paso a paso le ayudarán a superar los ejercicios del tutorial
 
 [Documentación de Workfront Fusion](https://experienceleague.adobe.com/es/docs/workfront-fusion/using/get-started-with-fusion/understand-workfront-fusion/workfront-fusion-overview)
 
-También está la [comunidad de Workfront Fusion 2.0](https://experienceleaguecommunities.adobe.com/t5/workfront-fusion-2-0/ct-p/workfront-fusion-2?profile.language=es) para publicar preguntas.
+También está la [comunidad de Workfront Fusion 2.0](https://experienceleaguecommunities.adobe.com/t5/workfront-fusion-2-0/ct-p/workfront-fusion-2) para publicar preguntas.

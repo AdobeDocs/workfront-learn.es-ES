@@ -10,9 +10,15 @@ team: Technical Marketing
 jira: KT-8967
 exl-id: 4ebf675c-b72d-447e-b131-a89acb449e15
 doc-type: video
-source-git-commit: 2bfb833431370c0debe85d3d3376cf907632042e
+product_v2: id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2: id: e14a7f57-c82c-4874-a495-5d036cbbdc3d
+subfeature_v2: id: b70a979b-965d-47a9-a360-e7ec2a19b8c1
+role_v2: id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+autotag-review: '2026-05-05T20:28:55.491Z'
+source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
 workflow-type: tm+mt
-source-wordcount: '414'
+source-wordcount: 416
 ht-degree: 95%
 
 ---
@@ -28,13 +34,13 @@ Este vídeo contiene información sobre:
 * Crear y editar grupos
 * Agregar y editar usuarios
 
->[!VIDEO](https://video.tv.adobe.com/v/3414466/?captions=spa&quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/335230/?quality=12&learn=on&enablevpops=1)
 
 ## Revisión de grupos y usuarios
 
 A medida que configura el sistema de [!UICONTROL DAM de Workfront], es importante tener en cuenta las funciones que los usuarios y grupos desempeñan en el panorama general.
 
-Los grupos controlan el acceso a las carpetas de recursos en [!UICONTROL DAM de Workfront]. La configuración de grupo también controla lo que los usuarios pueden hacer con los recursos (ver, descargar, editar, etc.) a los que tienen permiso para acceder.
+Los grupos controlan el acceso a las carpetas de recursos en [!UICONTROL DAM de Workfront]. La configuración de grupo también controla lo que los usuarios pueden hacer con los recursos (ver, descargar, editar, etc.) tienen permiso para acceder a.
 
 Al crear grupos, es vital tener en cuenta a qué carpetas de recursos necesitarán acceder los miembros de ese grupo en [!UICONTROL DAM de Workfront].
 

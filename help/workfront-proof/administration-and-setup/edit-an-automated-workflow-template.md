@@ -1,6 +1,6 @@
 ---
 title: Edición de una plantilla de flujo de trabajo automatizada
-description: Aprenda a realizar cambios en una plantilla de flujo de trabajo de pruebas automatizadas existente en  [!DNL  Workfront].
+description: Aprenda a realizar cambios en una plantilla de flujo de trabajo de revisiones automatizadas existente en  [!DNL  Workfront].
 activity: use
 feature: Workfront Proof
 type: Tutorial
@@ -8,13 +8,19 @@ role: User, Admin
 level: Intermediate
 team: Technical Marketing
 thumbnail: 335131.png
-last-substantial-update: 2024-08-08T00:00:00Z
+last-substantial-update: '2024-08-08T00:00:00.000Z'
 jira: KT-8831
 exl-id: 03841b1f-741d-4427-ae84-ddb9f890fc95
 doc-type: video
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+product_v2: id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2: id: e14a7f57-c82c-4874-a495-5d036cbbdc3d
+subfeature_v2: id: b18b693b-6d59-4359-95fd-a386b7a615fe
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+autotag-review: '2026-05-05T20:06:38.512Z'
+source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
 workflow-type: tm+mt
-source-wordcount: '572'
+source-wordcount: 578
 ht-degree: 100%
 
 ---
@@ -25,7 +31,7 @@ A medida que se refinan los procesos de revisión y aprobación de la prueba o q
 
 Mantener las plantillas actualizadas garantiza la coherencia en los procesos de revisión y aprobación, además de ahorrar tiempo para las pruebas de carga, ya que no se tiene que modificar constantemente un flujo de trabajo.
 
-1. Seleccione **[!UICONTROL Prueba]** del **[!UICONTROL Menú principal]** en [!DNL Workfront].
+1. Seleccione **[!UICONTROL Revisión]** del **[!UICONTROL Menú principal]** en [!DNL Workfront].
 1. Desde allí, seleccione **[!UICONTROL Flujos de trabajo]** en el menú del panel izquierdo.
 1. Haga clic en el menú de tres puntos situado en el extremo derecho del nombre de la plantilla y seleccione **[!UICONTROL Ver detalles de una plantilla]**.
 
@@ -44,7 +50,7 @@ Cada etapa de un flujo de trabajo automatizado tiene su propia sección, que per
 
 Este vídeo muestra algunos de los cambios que puede realizar en el área [!UICONTROL Flujo de trabajo]. Consulte la lista con viñetas bajo este vídeo para revisar esta configuración.
 
->[!VIDEO](https://video.tv.adobe.com/v/3432620/?quality=12&learn=on&enablevpops=1&captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/335131/?quality=12&learn=on&enablevpops=1)
 
 Como revisión, estos son los cambios de plantilla de prueba que puede realizar en la sección [!UICONTROL Flujo de trabajo]:
 

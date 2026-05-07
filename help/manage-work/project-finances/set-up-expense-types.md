@@ -10,13 +10,19 @@ role: User
 level: Intermediate
 jira: KT-10064
 exl-id: a8576504-d3f5-4ea0-8ace-bff0c00f8461
-last-substantial-update: 2025-04-23T00:00:00Z
+last-substantial-update: '2025-04-23T00:00:00.000Z'
 recommendations: noDisplay,catalog
 doc-type: video
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+product_v2: id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2: id: d968a1bc-9a90-4926-a531-bcf272c32aadid: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
+subfeature_v2: id: f0dd7b45-76b5-49d4-afe3-39f436b6fbd3
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+autotag-review: '2026-05-06T14:51:17.520Z'
+source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
 workflow-type: tm+mt
-source-wordcount: '168'
-ht-degree: 27%
+source-wordcount: 172
+ht-degree: 28%
 
 ---
 
@@ -27,7 +33,7 @@ En el vídeo se explica cómo administrar los tipos de gastos en Workfront, cent
 
 >[!VIDEO](https://video.tv.adobe.com/v/3457702/?quality=12&learn=on&enablevpops=1)
 
-## Puntos clave
+## Principales conclusiones
 
 * **Tipos de gastos generados previamente:** Workfront incluye tipos de gastos generados previamente que no se pueden eliminar, ocultar ni modificar, lo que garantiza la coherencia en todo el sistema.
 * **Tipos de gastos personalizados:** Los administradores del sistema pueden crear sus propios tipos de gastos, que son editables, eliminables y para todo el sistema. Pueden incluir unidades calculadas, como tasas de kilometraje.

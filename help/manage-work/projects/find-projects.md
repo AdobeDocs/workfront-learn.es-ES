@@ -8,15 +8,21 @@ type: Tutorial
 role: User
 level: Beginner
 team: Technical Marketing
-last-substantial-update: 2024-03-11T00:00:00Z
+last-substantial-update: '2024-03-11T00:00:00.000Z'
 recommendations: noDisplay,catalog
 jira: KT-15115
 exl-id: 2d894587-60ad-4d1e-961f-886a8accfb17
 doc-type: video
-source-git-commit: 06aa10f55d388112c486fce3d544e6a2cf7ef8da
+product_v2: id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2: id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
+subfeature_v2: id: f0dd7b45-76b5-49d4-afe3-39f436b6fbd3
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+autotag-review: '2026-05-06T14:47:13.116Z'
+source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
 workflow-type: tm+mt
-source-wordcount: '175'
-ht-degree: 20%
+source-wordcount: 169
+ht-degree: 21%
 
 ---
 
@@ -24,15 +30,15 @@ ht-degree: 20%
 
 En este vídeo, aprenderá algunas formas rápidas y sencillas de encontrar proyectos.
 
->[!VIDEO](https://video.tv.adobe.com/v/3439551/?captions=spa&quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3427788/?quality=12&learn=on&enablevpops=1)
 
 ## Principales conclusiones
 
-* **Filtros y opciones de búsqueda:** Use filtros y herramientas de búsqueda, incluida la Búsqueda avanzada, para localizar rápidamente proyectos específicos basados en nombres, descripciones o campos de datos personalizados. palo de golf
-* **Lista de recientes:** Los proyectos vistos recientemente aparecen automáticamente en la lista Recientes, que puede mostrar hasta 20 proyectos para acceso rápido. palo de golf
-* **Favoritos:** Marque los proyectos como favoritos al hacer clic en el icono de estrella. palo de golf Los favoritos siguen siendo accesibles hasta que se eliminan manualmente, lo que los hace ideales para los proyectos a los que se accede con frecuencia. palo de golf
-* **Anclar proyectos:** Anclar proyectos para que sean fácilmente accesibles. palo de golf Los proyectos anclados permanecen visibles hasta que se desanclan.
-* **Informes y paneles personalizados:** Cree informes y paneles personalizados para organizar y acceder a todos los proyectos relevantes de forma eficaz. palo de golf
+* **Filtros y opciones de búsqueda:** Use filtros y herramientas de búsqueda, incluida la Búsqueda avanzada, para localizar rápidamente proyectos específicos basados en nombres, descripciones o campos de datos personalizados. &#x200B;
+* **Lista de recientes:** Los proyectos vistos recientemente aparecen automáticamente en la lista Recientes, que puede mostrar hasta 20 proyectos para acceso rápido. &#x200B;
+* **Favoritos:** Marque los proyectos como favoritos al hacer clic en el icono de estrella. Se puede acceder a Favoritos hasta que se eliminen manualmente, por lo que son ideales para los proyectos a los que se accede con más frecuencia. &#x200B;
+* **Anclar proyectos:** Anclar proyectos para que sean fácilmente accesibles. Los proyectos anclados permanecen visibles hasta que los libera.
+* **Informes y paneles personalizados:** Cree informes y paneles personalizados para organizar y acceder a todos los proyectos relevantes de forma eficaz. &#x200B;
 
 
 ## Tutoriales recomendados sobre este tema

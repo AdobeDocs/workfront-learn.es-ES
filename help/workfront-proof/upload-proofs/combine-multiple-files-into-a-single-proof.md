@@ -1,6 +1,6 @@
 ---
 title: Combinación de varios archivos en una sola prueba
-description: Aprenda a optimizar el proceso de revisión combinando varios archivos en una sola revisión en  [!DNL &#x200B; Workfront].
+description: Aprenda a optimizar el proceso de revisión combinando varios archivos en una sola revisión en  [!DNL  Workfront].
 activity: use
 team: Technical Marketing
 feature: Workfront Proof
@@ -10,16 +10,22 @@ level: Beginner
 thumbnail: combine-multiple-files-single-proof.png
 jira: KT-10163
 exl-id: 2a3e97f7-51b3-4e14-bb15-6d255cd18034
-source-git-commit: 2102a538a93169650df317176aa922eaa4e436bf
+product_v2: id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2: id: e14a7f57-c82c-4874-a495-5d036cbbdc3d
+subfeature_v2: id: b18b693b-6d59-4359-95fd-a386b7a615fe
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+autotag-review: '2026-05-05T19:53:14.058Z'
+source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
 workflow-type: tm+mt
-source-wordcount: '453'
+source-wordcount: 457
 ht-degree: 71%
 
 ---
 
 # Combinación de varios archivos en una sola prueba
 
-La combinación de varios archivos en una sola prueba puede a menudo hacer que el proceso de pruebas sea más ágil.
+La combinación de varios archivos en una sola revisión puede a menudo hacer que el proceso de revisiones sea más ágil.
 
 La opción &quot;combinar&quot; es útil cuando los archivos individuales están relacionados o forman parte de una entrega completa y todos los archivos deben ser revisados por las mismas personas en el mismo plazo.
 
@@ -60,7 +66,7 @@ Lamentablemente, la combinación de archivos no es posible cuando los archivos d
 >Recuerde a sus compañeros de trabajo que les envía una prueba como parte de su formación en Workfront.
 
 
-Encuentre tres o cuatro archivos (PDF, archivo de texto, etc.) en el equipo.
+Busque tres o cuatro archivos (PDF, archivo de texto, etc.) en el equipo.
 
 1. Abra un proyecto, una tarea o un problema que esté utilizando para realizar prácticas en Workfront.
 1. Cargue los archivos, combinándolos en una sola prueba.

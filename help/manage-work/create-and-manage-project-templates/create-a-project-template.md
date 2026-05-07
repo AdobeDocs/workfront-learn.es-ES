@@ -8,15 +8,21 @@ type: Tutorial
 role: User
 level: Beginner
 team: Technical Marketing
-last-substantial-update: 2024-10-11T00:00:00Z
+last-substantial-update: '2024-10-11T00:00:00.000Z'
 recommendations: noDisplay,catalog
 jira: KT-8950
 exl-id: 1f706148-c001-42a8-a675-48e91d445f0b
 doc-type: video
-source-git-commit: 06aa10f55d388112c486fce3d544e6a2cf7ef8da
+product_v2: id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2: id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
+subfeature_v2: id: f0dd7b45-76b5-49d4-afe3-39f436b6fbd3
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+autotag-review: '2026-05-06T15:00:48.755Z'
+source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
 workflow-type: tm+mt
-source-wordcount: '633'
-ht-degree: 54%
+source-wordcount: 629
+ht-degree: 55%
 
 ---
 
@@ -27,19 +33,19 @@ Aprenda a crear una plantilla de proyecto desde cero y a partir de un proyecto e
 
 ## Crear una plantilla de proyecto
 
-* El vídeo proporciona una guía paso a paso para crear y utilizar plantillas para la producción de vídeo de marketing. Comienza explicando cómo crear una nueva plantilla desde cero, cómo ponerle nombre y cómo guardarla. palo de golf El proceso consta de tres pasos principales: crear tareas, configurar la cronología utilizando duraciones y predecesoras y realizar asignaciones a roles en lugar de a usuarios individuales. palo de golf El vídeo enfatiza la organización de tareas utilizando relaciones padre-hijo para una mejor síntesis y eficiencia. palo de golf
-* Una vez creada la plantilla, se puede utilizar para producir nuevos proyectos. El vídeo muestra cómo crear un nuevo proyecto a partir de la plantilla, realizar los ajustes necesarios y agregar tareas o modificar duraciones según sea necesario. palo de golf También muestra cómo asignar funciones de trabajo a tareas mediante las funciones de planificación y programación de recursos. palo de golf
-* En el vídeo se explica cómo guardar un proyecto existente como una plantilla nueva, lo que permite realizar actualizaciones y mejoras en el flujo de trabajo. palo de golf Destaca la importancia de administrar las plantillas para evitar confusiones y garantizar una ejecución del proyecto más ágil. palo de golf
+* El vídeo proporciona una guía paso a paso para crear y utilizar plantillas para la producción de vídeo de marketing. Comienza explicando cómo crear una nueva plantilla desde cero, cómo ponerle nombre y cómo guardarla. El proceso implica tres pasos principales: crear tareas, configurar la cronología utilizando duraciones y predecesoras, y realizar asignaciones a roles en lugar de a usuarios individuales. El vídeo enfatiza la organización de tareas utilizando las relaciones padre-hijo para una mejor síntesis y eficiencia. &#x200B;
+* Una vez creada la plantilla, se puede utilizar para producir nuevos proyectos. El vídeo muestra cómo crear un nuevo proyecto a partir de la plantilla, realizar los ajustes necesarios y agregar tareas o modificar duraciones según sea necesario. También muestra cómo asignar funciones de trabajo a tareas mediante las funcionalidades de planificación y programación de recursos. &#x200B;
+* En el vídeo se explica cómo guardar un proyecto existente como una plantilla nueva, lo que permite realizar actualizaciones y mejoras en el flujo de trabajo. Resalta la importancia de administrar las plantillas para evitar confusiones y garantizar una ejecución del proyecto más ágil. &#x200B;
 
->[!VIDEO](https://video.tv.adobe.com/v/3415443/?captions=spa&quality=12&learn=on&enablevpops=0)
+>[!VIDEO](https://video.tv.adobe.com/v/335210/?quality=12&learn=on&enablevpops=0)
 
 ## Principales conclusiones
 
-* **Creación de una plantilla:** Aprenda a crear una nueva plantilla desde cero asignándole un nombre, configurando tareas, escalas de tiempo y asignando roles. palo de golf
-* **Organización de tareas:** Use relaciones de tareas principales y secundarias para organizar las tareas de manera eficiente, proporcionando un resumen y una estructura claros para el proyecto. palo de golf
-* **Configuración de escala de tiempo:** Configure las escalas de tiempo de las tareas usando duraciones y predecesoras para estimar el lapso de tiempo y la secuencia de tareas con precisión. palo de golf
-* **Asignaciones basadas en roles:** asigne tareas a roles de trabajo en lugar de a usuarios individuales para utilizar las funcionalidades de planificación y programación de recursos de forma eficaz. palo de golf
-* **Administración de plantillas:** Guarde los proyectos existentes como nuevas plantillas para incorporar mejoras y administrar las plantillas para evitar confusiones y garantizar una ejecución eficiente del proyecto. palo de golf
+* **Creación de una plantilla:** Aprenda a crear una nueva plantilla desde cero asignándole un nombre, configurando tareas, escalas de tiempo y asignando roles. &#x200B;
+* **Organización de tareas:** Use relaciones de tareas principales y secundarias para organizar las tareas de manera eficiente, proporcionando un resumen y una estructura claros para el proyecto. &#x200B;
+* **Configuración de escala de tiempo:** Configure las escalas de tiempo de las tareas usando duraciones y predecesoras para estimar el lapso de tiempo y la secuencia de tareas con precisión. &#x200B;
+* **Asignaciones basadas en roles:** asigne tareas a roles de trabajo en lugar de a usuarios individuales para utilizar las funcionalidades de planificación y programación de recursos de forma eficaz. &#x200B;
+* **Administración de plantillas:** Guarde los proyectos existentes como nuevas plantillas para incorporar mejoras y administrar las plantillas para evitar confusiones y garantizar una ejecución eficiente del proyecto. &#x200B;
 
 
 ## Plantillas creadas con [!UICONTROL Modelos]
