@@ -9,12 +9,23 @@ level: Beginner
 team: Technical Marketing
 thumbnail: 335158.png
 jira: KT-8863
-last-substantial-update: 2025-05-29T00:00:00Z
+last-substantial-update: '2025-05-29T00:00:00.000Z'
 exl-id: 3d0554fb-4fe0-43d5-b725-2bcd44134bb5
 doc-type: video
-source-git-commit: 66bab1a0b2316a31cb99916220500303e49797ad
+product_v2:
+  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2:
+  - id: c6dd2ac5-f5bd-4e59-9101-25b156918623
+subfeature_v2:
+  - id: ceb4d94a-32ed-4fea-9724-1339d684b0bc
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+autotag-review: '2026-05-06T14:18:44.706Z'
+source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
 workflow-type: tm+mt
-source-wordcount: '356'
+source-wordcount: 354
 ht-degree: 55%
 
 ---
@@ -31,10 +42,10 @@ Este vídeo contiene información sobre:
 
 ## Principales conclusiones
 
-* **Envío de informes a usuarios externos:** Puede enviar informes a usuarios que no sean de Workfront introduciendo sus direcciones de correo electrónico, lo que facilita el uso compartido de datos fuera de su organización. palo de golf
-* **Visibilidad del control de derechos de acceso:** La vista del destinatario del informe depende de los derechos de acceso que establezca, lo que garantiza la seguridad de los datos y la visibilidad adecuada. palo de golf
-* **Entrega repetida para instantáneas:** Las entregas programadas proporcionan instantáneas inmovilizadas de datos en momentos específicos, útiles para rastrear tendencias y mantener un historial de datos de proyecto. palo de golf
-* **Compartir informes con equipos:** los informes se pueden compartir con personas, equipos o roles de trabajo, lo que otorga derechos de visualización o administración. palo de golf Los informes compartidos aparecen en la sección &quot;Compartidos conmigo&quot; de los usuarios. palo de golf
+* **Envío de informes a usuarios externos:** Puede enviar informes a usuarios que no sean de Workfront introduciendo sus direcciones de correo electrónico, lo que facilita el uso compartido de datos fuera de su organización. &#x200B;
+* **Visibilidad del control de derechos de acceso:** La vista del destinatario del informe depende de los derechos de acceso que establezca, lo que garantiza la seguridad de los datos y la visibilidad adecuada. &#x200B;
+* **Entrega repetida para instantáneas:** Las entregas programadas proporcionan instantáneas inmovilizadas de datos en momentos específicos, útiles para rastrear tendencias y mantener un historial de datos de proyecto. &#x200B;
+* **Compartir informes con equipos:** los informes se pueden compartir con personas, equipos o roles de trabajo, lo que otorga derechos de visualización o administración. Los informes compartidos aparecen en la sección Usuarios &quot;Compartidos conmigo&quot;. &#x200B;
 * **Uso compartido público y en todo el sistema:** los informes se pueden compartir mediante vínculos públicos para usuarios externos o hacerse visibles en todo el sistema para todos los usuarios de Workfront, lo que ofrece flexibilidad para compartir datos.
 
 

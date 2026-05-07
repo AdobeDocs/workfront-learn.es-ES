@@ -8,14 +8,25 @@ type: Tutorial
 role: User
 level: Beginner
 team: Technical Marketing
-last-substantial-update: 2024-11-01T00:00:00Z
+last-substantial-update: '2024-11-01T00:00:00.000Z'
 recommendations: noDisplay,catalog
 jira: KT-8953
 exl-id: ba993197-9f84-4fc0-86cc-cf849c889f56
 doc-type: video
-source-git-commit: 06aa10f55d388112c486fce3d544e6a2cf7ef8da
+product_v2:
+  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2:
+  - id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
+subfeature_v2:
+  - id: f0dd7b45-76b5-49d4-afe3-39f436b6fbd3
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+autotag-review: '2026-05-06T14:48:54.364Z'
+source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
 workflow-type: tm+mt
-source-wordcount: '705'
+source-wordcount: 700
 ht-degree: 10%
 
 ---
@@ -36,11 +47,11 @@ Lo que aprenderá:
 
 ## Principales conclusiones
 
-* **Administración y asignación de tareas:** Las tareas principales agrupan varias subtareas, que se asignan a roles de trabajo y, posteriormente, a usuarios con las habilidades necesarias. palo de golf Las tareas predecesoras indican relaciones secuenciales, mientras que las tareas sin predecesoras se pueden realizar en paralelo. palo de golf
-* **Diagrama de Gantt y ruta crítica:** El gráfico de Gantt proporciona una escala de tiempo visual del proyecto y la característica Ruta crítica resalta las tareas que podrían retrasar el proyecto si se retrasan. palo de golf
-* **Vistas y supervisión:** Las distintas vistas de Workfront, como la vista estándar para la planificación y la vista de estado para la supervisión, incluyen indicadores de progreso, comentarios, documentos, problemas, aprobaciones, rutas críticas y hitos. También se puede realizar un seguimiento de la actividad reciente. palo de golf
-* **Opciones de programación:** los proyectos se pueden programar desde una fecha de inicio o de finalización, y Workfront calcula las fechas correspondientes en función de las duraciones de las tareas y sus predecesoras. palo de golf Se recomienda programar desde una fecha de inicio en las fechas de finalización críticas para permitir cierto margen de demora. palo de golf
-* **Restricciones de tarea:** Las restricciones de tarea como &quot;lo antes posible&quot; y &quot;lo más tarde posible&quot; afectan la programación de tareas. palo de golf Cambiar el modo de programación después de la creación del proyecto puede afectar a las delimitaciones de tareas y las fechas planificadas. palo de golf Se pueden crear vistas personalizadas para mostrar las delimitaciones de las tareas. palo de golf
+* **Administración y asignación de tareas:** Las tareas principales agrupan varias subtareas, que se asignan a roles de trabajo y, posteriormente, a usuarios con las habilidades necesarias. Las predecesoras indican relaciones secuenciales, mientras que las tareas sin predecesoras se pueden realizar en paralelo. &#x200B;
+* **Diagrama de Gantt y ruta crítica:** El gráfico de Gantt proporciona una escala de tiempo visual del proyecto y la característica Ruta crítica resalta las tareas que podrían retrasar el proyecto si se retrasan. &#x200B;
+* **Vistas y supervisión:** Las distintas vistas de Workfront, como la vista estándar para la planificación y la vista de estado para la supervisión, incluyen indicadores de progreso, comentarios, documentos, problemas, aprobaciones, rutas críticas y hitos. También se puede realizar un seguimiento de la actividad reciente. &#x200B;
+* **Opciones de programación:** los proyectos se pueden programar desde una fecha de inicio o de finalización, y Workfront calcula las fechas correspondientes en función de las duraciones de las tareas y sus predecesoras. Se recomienda programar desde una fecha de inicio en las fechas de finalización críticas para permitir cierto margen de demora. &#x200B;
+* **Restricciones de tarea:** Las restricciones de tarea como &quot;lo antes posible&quot; y &quot;lo más tarde posible&quot; afectan la programación de tareas. Cambiar el modo de programación después de la creación del proyecto puede afectar a las restricciones de tareas y las fechas planificadas. Se pueden crear vistas personalizadas para mostrar las restricciones de tareas. &#x200B;
 
 
 ## Para cambiar o no cambiar fechas en las escalas de tiempo del &#x200B;proyecto...

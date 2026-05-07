@@ -10,9 +10,21 @@ level: Intermediate
 thumbnail: set-default-at-risk-proof-settings.png
 jira: KT-10234
 exl-id: 1e99e434-9aa5-44e3-8496-76dd57bd2f91
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+product_v2:
+  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2:
+  - id: e14a7f57-c82c-4874-a495-5d036cbbdc3d
+subfeature_v2:
+  - id: b18b693b-6d59-4359-95fd-a386b7a615fe
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+autotag-review: '2026-05-05T20:04:44.869Z'
+source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
 workflow-type: tm+mt
-source-wordcount: '289'
+source-wordcount: 291
 ht-degree: 100%
 
 ---
@@ -25,7 +37,7 @@ La notificación de riesgo está activada de forma predeterminada. Una prueba se
 
 ![Configuración de prueba para notificaciones de riesgo](assets/proof-system-setups-at-risk-default-1.png)
 
-1. Seleccione **[!UICONTROL Prueba]** del [!UICONTROL Menú principal] de [!DNL Workfront’s].
+1. Seleccione **[!UICONTROL Revisión]** del [!UICONTROL Menú principal] de [!DNL Workfront’s].
 1. Seleccione **[!UICONTROL Configuración de la cuenta]** en la barra de navegación superior.
 1. Seleccione la pestaña **[!UICONTROL Configuración]**.
 1. Vaya a la sección [!UICONTROL Valores predeterminados de la prueba].
@@ -36,7 +48,7 @@ La notificación de riesgo está activada de forma predeterminada. Una prueba se
 ## Su turno
 
 1. Inicie sesión en Workfront y vaya al área Configuración. En la sección Revisión y aprobación, seleccione la configuración para destinatarios de prueba designados y no destinatarios.
-1. Ahora utilice el menú principal de Workfront para ir a la configuración de prueba (seleccione Prueba). Establezca el país, el idioma y la zona horaria como predeterminados para todas las pruebas y usuarios de pruebas.
+1. Ahora utilice el menú principal de Workfront para ir a la configuración de revisión (seleccione Revisión). Establezca el país, el idioma y la zona horaria como predeterminados para todas las pruebas y usuarios de pruebas.
 1. Si es necesario, ajuste el tiempo de notificación en riesgo en la pestaña Configuración del área de configuración de la prueba. Hable con los equipos mediante la prueba para decidir qué funcionará mejor para ellos.
 
 <!--

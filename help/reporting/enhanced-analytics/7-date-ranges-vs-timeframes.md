@@ -11,9 +11,20 @@ level: Beginner
 jira: KT-10043
 recommendations: noDisplay,catalog
 exl-id: 9ed421a0-5f44-4096-a7ad-c4be4d00808f
-source-git-commit: f033b210268e8979ee15abe812e6ad85673eeedb
+product_v2:
+  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2:
+  - id: c6dd2ac5-f5bd-4e59-9101-25b156918623
+subfeature_v2:
+  - id: db1e0ccb-6619-410a-84d6-6b80ac783274
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+autotag-review: '2026-05-06T14:01:21.544Z'
+source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
 workflow-type: tm+mt
-source-wordcount: '315'
+source-wordcount: 315
 ht-degree: 100%
 
 ---
@@ -34,7 +45,7 @@ Cuando actualiza la página, se desplaza o cierra/inicia la sesión en Workfront
 
 ## Períodos de tiempo
 
-Haga clic y arrastre alrededor de una sección deseada de una cronología para crear un filtro de período de tiempo. Este período de tiempo ahora se aplica a todos los gráficos del área de trabajo y aparece junto a cualquier otro filtro de la barra de filtros. Para profundizar en un gráfico, haga clic y arrastre alrededor de las áreas para actualizar el período de tiempo. Para quitar el filtro, simplemente pase el ratón sobre él en la barra de filtros y haga clic en la X que aparece.
+Haga clic y arrastre alrededor de una sección deseada de una cronología para crear un filtro de período de tiempo. Este período de tiempo ahora se aplica a todos los gráficos del área de trabajo y aparece junto a cualquier otro filtro de la barra de filtros. Para profundizar en un gráfico, haga clic y arrastre alrededor de las áreas para actualizar el período de tiempo. Para quitar el filtro, simplemente pase el puntero por encima de él en la barra de filtros y haga clic en la X que aparece.
 
 ![Imagen de selección de un intervalo de fechas mediante clic y arrastre](assets/section-1-4.png)
 

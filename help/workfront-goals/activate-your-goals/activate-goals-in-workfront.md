@@ -9,16 +9,27 @@ role: User
 level: Beginner
 jira: KT-10118
 exl-id: 53df924b-0ba2-442a-95a6-40bd9b12d206
-source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
+product_v2:
+  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2:
+  - id: d968a1bc-9a90-4926-a531-bcf272c32aad
+subfeature_v2:
+  - id: fceb5125-bb41-419a-b0db-31958cb42f6c
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+autotag-review: '2026-05-05T20:21:10.503Z'
+source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
 workflow-type: tm+mt
-source-wordcount: '325'
+source-wordcount: 327
 ht-degree: 100%
 
 ---
 
 # Activar metas
 
-Ahora que ha creado las metas, se deben activar. Cuando crea una meta, se guarda en el estado [!UICONTROL Borrador]. Las metas en el estado [!UICONTROL Borrador] no forman parte de la administración de metas hasta que las active. Una vez activados, cambian al estado [!UICONTROL Activo] y muestran el progreso en el panel y cómo se alinean con la estrategia general. Las metas en el estado [!UICONTROL Activo] se asocian a un indicador de progreso, normalmente, una actividad, un resultado, un proyecto o una meta alineada (relación de meta principal-secundaria).
+Ahora que ha creado las metas, se deben activar. Cuando crea una meta, se guarda en el estado [!UICONTROL Borrador]. Las metas en el estado [!UICONTROL Borrador] no forman parte de la administración de metas hasta que las active. Una vez activados, cambian al estado [!UICONTROL Activo] y muestran el progreso en el panel de control y cómo se alinean con la estrategia general. Las metas en el estado [!UICONTROL Activo] se asocian a un indicador de progreso, normalmente, una actividad, un resultado, un proyecto o una meta alineada (relación de meta principal-secundaria).
 
 ![Captura de pantalla de una meta en Workfront Goals en un estado de borrador](assets/04-workfront-goals-activate-goals.png)
 

@@ -9,13 +9,24 @@ level: Beginner
 team: Technical Marketing
 thumbnail: 335156.png
 jira: KT-8861
-last-substantial-update: 2025-05-20T00:00:00Z
+last-substantial-update: '2025-05-20T00:00:00.000Z'
 exl-id: e893d94a-e808-4bc1-bc6e-f46a5582b55d
 doc-type: video
-source-git-commit: cc423944628d01e16d390842ecb25696505f923c
+product_v2:
+  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2:
+  - id: c6dd2ac5-f5bd-4e59-9101-25b156918623
+subfeature_v2:
+  - id: ceb4d94a-32ed-4fea-9724-1339d684b0bc
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+autotag-review: '2026-05-06T14:21:46.565Z'
+source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
 workflow-type: tm+mt
-source-wordcount: '418'
-ht-degree: 48%
+source-wordcount: 411
+ht-degree: 49%
 
 ---
 
@@ -28,13 +39,13 @@ Este vídeo contiene información sobre:
 
 >[!VIDEO](https://video.tv.adobe.com/v/3448186/?captions=spa&quality=12&learn=on&enablevpops=0)
 
-## Puntos clave
+## Principales conclusiones
 
-* **Estructura de informe de matriz:** Los informes de matriz organizan los datos en filas y columnas, con totales automáticos de filas y columnas. palo de golf Son ideales para rastrear métricas como horas trabajadas, costos e ingresos. palo de golf
-* **Configuración de filtros:** Use filtros para centrarse en datos específicos, como las horas trabajadas durante el último trimestre por usuarios de un equipo particular. palo de golf La &quot;fuente del campo de propietario&quot; ayuda a identificar a los miembros relevantes del equipo. palo de golf
-* **Opciones de agrupación:** En nuestro ejemplo, las filas se agrupan por &quot;nombre de propietario&quot; (persona que trabajó las horas), mientras que las columnas se agrupan por &quot;fecha de entrada de hora&quot; (por mes y semana). palo de golf
-* **Datos resumidos:** Las columnas como horas, costos reales e ingresos se resumen de manera predeterminada, lo que garantiza que los totales se muestren en la matriz. Si lo desea, estos valores predeterminados se pueden desactivar. palo de golf
-* **Integración de gráficos:** Los informes de matriz se pueden complementar con gráficos para una visualización de datos alternativa, utilizando la misma información de agrupación. Puede establecer la pestaña Matriz o la pestaña Gráfico como la vista predeterminada. palo de golf
+* **Estructura de informe de matriz:** Los informes de matriz organizan los datos en filas y columnas, con totales automáticos de filas y columnas. Son ideales para rastrear métricas como horas trabajadas, costos e ingresos. &#x200B;
+* **Configuración de filtros:** Use filtros para centrarse en datos específicos, como las horas trabajadas durante el último trimestre por usuarios de un equipo particular. La &quot;fuente del campo de propietario&quot; ayuda a identificar a los miembros relevantes del equipo. &#x200B;
+* **Opciones de agrupación:** En nuestro ejemplo, las filas se agrupan por &quot;nombre de propietario&quot; (persona que trabajó las horas), mientras que las columnas se agrupan por &quot;fecha de entrada de hora&quot; (por mes y semana). &#x200B;
+* **Datos resumidos:** Las columnas como horas, costos reales e ingresos se resumen de manera predeterminada, lo que garantiza que los totales se muestren en la matriz. Si lo desea, estos valores predeterminados se pueden desactivar. &#x200B;
+* **Integración de gráficos:** Los informes de matriz se pueden complementar con gráficos para una visualización de datos alternativa, utilizando la misma información de agrupación. Puede establecer la pestaña Matriz o la pestaña Gráfico como la vista predeterminada. &#x200B;
 
 ## Actividades &quot;Crear un informe de matriz&quot;
 

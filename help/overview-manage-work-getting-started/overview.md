@@ -7,15 +7,26 @@ role: User
 level: Intermediate
 activity: deploy
 team: Technical Marketing
-last-substantial-update: 2024-08-23T00:00:00Z
+last-substantial-update: '2024-08-23T00:00:00.000Z'
 jira: KT-10669
 mini-toc-levels: 1
 recommendations: noDisplay,catalog
 index: true
 exl-id: 6cb8465a-f59a-41b9-a043-0f76b71980a3
-source-git-commit: 4670302db899675ec45cb633451e2d232f312e2d
+product_v2:
+  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2:
+  - id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
+subfeature_v2:
+  - id: f0dd7b45-76b5-49d4-afe3-39f436b6fbd3
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+autotag-review: '2026-05-06T14:34:02.499Z'
+source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
 workflow-type: tm+mt
-source-wordcount: '943'
+source-wordcount: 954
 ht-degree: 6%
 
 ---

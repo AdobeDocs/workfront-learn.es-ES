@@ -8,14 +8,25 @@ role: User
 level: Intermediate
 activity: deploy
 team: Technical Marketing
-last-substantial-update: 2023-09-14T00:00:00Z
+last-substantial-update: '2023-09-14T00:00:00.000Z'
 jira: KT-13879
 doc-type: video
 hide: true
 exl-id: 8ef57b1c-39fb-4c4e-852e-994ea718e91a
-source-git-commit: 437f85e11f772ba5f0f9f2fee6a92abd3a8bcabd
+product_v2:
+  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2:
+  - id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
+subfeature_v2:
+  - id: f0dd7b45-76b5-49d4-afe3-39f436b6fbd3
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+autotag-review: '2026-05-05T19:23:55.145Z'
+source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
 workflow-type: tm+mt
-source-wordcount: '158'
+source-wordcount: 158
 ht-degree: 100%
 
 ---

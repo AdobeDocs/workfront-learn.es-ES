@@ -8,30 +8,41 @@ role: User
 level: Beginner
 team: Technical Marketing
 thumbnail: 336092.png
-last-substantial-update: 2024-07-09T00:00:00Z
+last-substantial-update: '2024-07-09T00:00:00.000Z'
 jira: KT-8806
 exl-id: 07a4824e-809e-4649-b669-865519b95f1f
 recommendations: noDisplay,catalog
 doc-type: video
-source-git-commit: 06aa10f55d388112c486fce3d544e6a2cf7ef8da
+product_v2:
+  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2:
+  - id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
+subfeature_v2:
+  - id: c10f2e93-7a58-4212-aa24-684c265ebe76
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+autotag-review: '2026-05-06T14:54:50.397Z'
+source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
 workflow-type: tm+mt
-source-wordcount: '260'
-ht-degree: 11%
+source-wordcount: 257
+ht-degree: 12%
 
 ---
 
 # Creación y administración de solicitudes en Workfront
 
-El vídeo proporciona una guía detallada sobre cómo realizar y administrar solicitudes en Workfront. Explica el proceso de creación de una solicitud, empezando por seleccionar &quot;Solicitudes&quot; en el menú principal y haciendo clic en el botón &quot;Nueva solicitud&quot;. palo de golf Los usuarios pueden elegir un tipo de solicitud de colas personalizadas y adaptadas a los flujos de trabajo de su organización.
+El vídeo proporciona una guía detallada sobre cómo realizar y administrar solicitudes en Workfront. Explica el proceso de creación de una solicitud, empezando por seleccionar &quot;Solicitudes&quot; en el menú principal y haciendo clic en el botón &quot;Nueva solicitud&quot;. Los usuarios pueden elegir un tipo de solicitud de entre colas personalizadas y adaptadas a los flujos de trabajo de su organización.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3413113/?captions=spa&quality=12&learn=on&enablevpops=1)
 
 ## Principales conclusiones
 
-* **Creación de solicitudes optimizada:** Los usuarios pueden crear solicitudes fácilmente seleccionando &quot;Solicitudes&quot; en el menú principal, eligiendo un tipo de solicitud, rellenando los campos obligatorios y adjuntando los documentos pertinentes. palo de golf
+* **Creación de solicitudes optimizada:** Los usuarios pueden crear solicitudes fácilmente seleccionando &quot;Solicitudes&quot; en el menú principal, eligiendo un tipo de solicitud, rellenando los campos obligatorios y adjuntando los documentos pertinentes. &#x200B;
 * **Flujos de trabajo personalizables:** las colas y los formularios de solicitud se adaptan a los flujos de trabajo de la organización, lo que permite a los usuarios especificar detalles (por ejemplo, en la tienda, al aire libre, medios sociales) y prioridad.
-* **Función de guardado automático de borrador:** los borradores se guardan automáticamente a medida que los usuarios rellenan el campo de asunto, para garantizar que no se pierdan datos si se pausan o se alejan. palo de golf Se puede acceder a los borradores más adelante para su finalización o descartarlos si no son necesarios. palo de golf
-* **Solicitudes de seguimiento y filtrado:** Las solicitudes enviadas se pueden rastrear en la página &quot;Enviadas&quot;, con filtros disponibles para ver las solicitudes abiertas, no resueltas o todas basadas en los permisos de usuario. palo de golf
+* **Función de guardado automático de borrador:** los borradores se guardan automáticamente a medida que los usuarios rellenan el campo de asunto, para garantizar que no se pierdan datos si se pausan o se alejan. Se puede acceder a los borradores más tarde para su finalización o descartarlos si no es necesario. &#x200B;
+* **Solicitudes de seguimiento y filtrado:** Las solicitudes enviadas se pueden rastrear en la página &quot;Enviadas&quot;, con filtros disponibles para ver las solicitudes abiertas, no resueltas o todas basadas en los permisos de usuario. &#x200B;
 * **Copiar y reutilizar solicitudes:** Los usuarios pueden copiar solicitudes existentes para crear otras nuevas, lo que facilita el envío de solicitudes similares sin comenzar desde cero.
 
 ## Tutoriales recomendados sobre este tema

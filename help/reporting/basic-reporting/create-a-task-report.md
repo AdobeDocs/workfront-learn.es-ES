@@ -1,6 +1,6 @@
 ---
 title: Crear un informe de tareas para asignaciones tardías
-description: 'Aprenda a crear un informe de tareas con un filtro complejo y a encontrar los informes que crea en Workfront. '
+description: Aprenda a crear un informe de tareas con un filtro complejo y a encontrar los informes que crea en Workfront.
 activity: use
 feature: Reports and Dashboards
 type: Tutorial
@@ -8,31 +8,42 @@ role: User
 level: Beginner
 team: Technical Marketing
 thumbnail: 335154.png
-last-substantial-update: 2025-06-11T00:00:00Z
+last-substantial-update: '2025-06-11T00:00:00.000Z'
 jira: KT-8859
 exl-id: 90bad2e8-9cd2-4ae7-973b-eeab9d615bef
 doc-type: video
-source-git-commit: 66bab1a0b2316a31cb99916220500303e49797ad
+product_v2:
+  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2:
+  - id: c6dd2ac5-f5bd-4e59-9101-25b156918623
+subfeature_v2:
+  - id: ceb4d94a-32ed-4fea-9724-1339d684b0bc
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+autotag-review: '2026-05-06T14:20:19.850Z'
+source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
 workflow-type: tm+mt
-source-wordcount: '1121'
+source-wordcount: 1158
 ht-degree: 76%
 
 ---
 
 # Crear un informe de tareas para asignaciones tardías
 
-El vídeo proporciona una guía paso a paso sobre la creación de un informe personalizado para realizar un seguimiento de las tareas atrasadas asignadas al usuario que ha iniciado sesión. Comienza explicando la necesidad de informes personalizados cuando los filtros, las vistas o los informes integrados existentes no cumplen con requisitos específicos. palo de golf El informe se denomina &quot;Tareas atrasadas asignadas a mí&quot; y se agrega una descripción para mayor claridad. palo de golf
+El vídeo proporciona una guía paso a paso sobre la creación de un informe personalizado para realizar un seguimiento de las tareas atrasadas asignadas al usuario que ha iniciado sesión. Comienza explicando la necesidad de informes personalizados cuando los filtros, las vistas o los informes integrados existentes no cumplen con requisitos específicos. El informe se denomina &quot;Tareas tardías asignadas a mí&quot; y se ha añadido una descripción para mayor claridad. &#x200B;
 
-El informe resultante ayuda a los usuarios a centrarse en tareas tardías, proporciona perspectivas sobre las dependencias y simplifica la navegación a los proyectos host. palo de golf
+El informe resultante ayuda a los usuarios a centrarse en tareas tardías, proporciona perspectivas sobre las dependencias y simplifica la navegación a los proyectos host. &#x200B;
 
 >[!VIDEO](https://video.tv.adobe.com/v/3448345/?captions=spa&quality=12&learn=on&enablevpops=0)
 
 ## Principales conclusiones
 
-* **Creación de informes personalizados:** Cuando los filtros existentes y los informes integrados no satisfacen sus necesidades, puede crear un informe personalizado desde cero para centrarse en datos específicos, como las tareas tardías asignadas a usted. palo de golf
-* **Configuración del filtro:** Use filtros para definir los criterios del informe, incluidas las tareas tardías, las tareas incompletas, los proyectos actuales y las tareas asignadas al usuario que ha iniciado sesión. palo de golf
-* **Columnas para contexto:** Agregue columnas como &quot;Puede comenzar&quot; para identificar problemas de dependencia y &quot;Nombre de proyecto&quot; con hipervínculos para facilitar la navegación a proyectos relacionados. palo de golf
-* **Orden de prioridad:** Ordene las tareas por la columna &quot;Vencimiento el&quot; en orden ascendente para priorizar las tareas más vencidas en la parte superior del informe. palo de golf
+* **Creación de informes personalizados:** Cuando los filtros existentes y los informes integrados no satisfacen sus necesidades, puede crear un informe personalizado desde cero para centrarse en datos específicos, como las tareas tardías asignadas a usted. &#x200B;
+* **Configuración del filtro:** Use filtros para definir los criterios del informe, incluidas las tareas tardías, las tareas incompletas, los proyectos actuales y las tareas asignadas al usuario que ha iniciado sesión. &#x200B;
+* **Columnas para contexto:** Agregue columnas como &quot;Puede comenzar&quot; para identificar problemas de dependencia y &quot;Nombre de proyecto&quot; con hipervínculos para facilitar la navegación a proyectos relacionados. &#x200B;
+* **Orden de prioridad:** Ordene las tareas por la columna &quot;Vencimiento el&quot; en orden ascendente para priorizar las tareas más vencidas en la parte superior del informe. &#x200B;
 * **Accesibilidad:** Guarde el informe, ancle o márquelo como favorito para acceder rápidamente, lo que garantiza un seguimiento y una administración eficientes de las tareas tardías.
 
 

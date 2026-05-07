@@ -12,9 +12,20 @@ jira: KT-8721
 recommendations: noDisplay,catalog
 exl-id: b63ab88a-c196-489f-92e8-ffe94be6aa2b
 doc-type: video
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+product_v2:
+  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2:
+  - id: c6dd2ac5-f5bd-4e59-9101-25b156918623
+subfeature_v2:
+  - id: db1e0ccb-6619-410a-84d6-6b80ac783274
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+autotag-review: '2026-05-06T14:01:05.075Z'
+source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
 workflow-type: tm+mt
-source-wordcount: '264'
+source-wordcount: 265
 ht-degree: 100%
 
 ---
@@ -27,7 +38,7 @@ Este vídeo contiene información sobre:
 * Adición de un filtro mediante un formulario personalizado
 * Sugerencias de filtrado
 
->[!VIDEO](https://video.tv.adobe.com/v/3439640/?quality=12&learn=on&enablevpops=1&captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/3439640/?captions=spa&quality=12&learn=on&enablevpops=1)
 
 >[!NOTE]
 >

@@ -10,9 +10,20 @@ team: Technical Marketing
 jira: KT-10122
 doc-type: video
 exl-id: 784b353f-cc6b-4a4b-9935-9e5d25c532b4
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+product_v2:
+  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2:
+  - id: d968a1bc-9a90-4926-a531-bcf272c32aad
+subfeature_v2:
+  - id: fceb5125-bb41-419a-b0db-31958cb42f6c
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+autotag-review: '2026-05-05T20:18:58.063Z'
+source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
 workflow-type: tm+mt
-source-wordcount: '885'
+source-wordcount: 890
 ht-degree: 100%
 
 ---
@@ -36,7 +47,7 @@ Este vídeo contiene información sobre:
 
 * Vaya a la [!UICONTROL Lista de metas] para añadir una nueva
 
->[!VIDEO](https://video.tv.adobe.com/v/3412617/?quality=12&learn=on&enablevpops=1&captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/3412617/?captions=spa&quality=12&learn=on&enablevpops=1)
 
 ## Copiar una meta existente
 
@@ -93,5 +104,5 @@ Este vídeo contiene información sobre:
 
 * Adición de una actividad y conversión en una meta alineada
 
->[!VIDEO](https://video.tv.adobe.com/v/3416522/?quality=12&learn=on&enablevpops=1&captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/3416522/?captions=spa&quality=12&learn=on&enablevpops=1)
 
