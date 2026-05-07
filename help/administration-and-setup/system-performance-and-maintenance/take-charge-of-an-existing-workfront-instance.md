@@ -10,10 +10,16 @@ jira: KT-11747
 team: Technical Marketing
 thumbnail: null
 exl-id: ad900f59-319b-49ee-bc23-e816edc2de24
-source-git-commit: ed631261fc3ad4eb72b59e1ca5b3a79951d8645b
+TQID: https://experienceleague.adobe.com/-l24VZKcCqwHrotADh0jzpbVTCnrSU7cPDoJj7bwCbI
+product_v2: id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2: id: d968a1bc-9a90-4926-a531-bcf272c32aadid: f48b5020-b9cd-4d99-bc6e-42c35e90c1f8
+role_v2: id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2: id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87cid: cdd65e7e-8839-44a2-bc21-0e03623b5dd1id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: 36674ed53c8645f556862bb2d99f3bfd6c993c1e
 workflow-type: tm+mt
-source-wordcount: '748'
-ht-degree: 100%
+source-wordcount: 825
+ht-degree: 96%
 
 ---
 
@@ -23,7 +29,7 @@ Lo maravilloso de Workfront es que se puede personalizar. Y justamente eso es ta
 
 Sin embargo, a través de nuestra lista de comprobación de instancias heredadas, puede aprender todo lo que necesita saber sobre su instancia.
 
-![Imagen de lista de comprobación de instancias heredadas](assets/wf-inherited-instance-image.png)
+![Imagen de lista de comprobación de instancia heredada](assets/wf-inherited-instance-image.png)
 <br></br>
 
 En esta lista de comprobación de instancias heredadas, podrá revisar un conjunto completo de preguntas, recursos y vínculos para comprender claramente cómo se ha configurado.
@@ -73,7 +79,7 @@ Al final de esta fase, debe tener lo siguiente:
 
 * Una vista más profunda del estado actual de la instancia
 
-* Se han identificado los cambios o mejoras que desea realizar en la instancia para satisfacer las necesidades comerciales.
+* Se han identificado los cambios o mejoras que desea realizar en la instancia para satisfacer las necesidades empresariales.
 <br>
 </br>
 
@@ -98,7 +104,7 @@ Al pasar por cada fase y con la ayuda de la lista de comprobación de instancias
 </br>
 
 A continuación encontrará información adicional.
-* [Seminario web: sugerencias para hacerse cargo de una instancia heredada](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/webinar-system-admin-essentials-tips-for-taking-over-an-existing/td-p/571873?profile.language=es)
+* [Seminario web: sugerencias para hacerse cargo de una instancia heredada](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/webinar-system-admin-essentials-tips-for-taking-over-an-existing/td-p/571873)
 * [Definición de objetivos para la implementación de Workfront](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/get-started-administration/define-wf-goals-objectives.html?lang=es)
-* [Publicación de blog: patrocinio ejecutivo y valor para el liderazgo](https://experienceleaguecommunities.adobe.com/t5/workfront-blogs/customer-success-tips-executive-sponsorship-and-value-to/ba-p/518353?profile.language=es)
-* [Publicación de blog: introducción a los KPI de Adobe Workfront](https://experienceleaguecommunities.adobe.com/t5/workfront-blogs/kpi-dashboards-in-the-new-workfront-experience-introduction-to/ba-p/549001?profile.language=es)
+* [Publicación de blog: Patrocinio ejecutivo y valor para el liderazgo](https://experienceleaguecommunities.adobe.com/t5/workfront-blogs/customer-success-tips-executive-sponsorship-and-value-to/ba-p/518353)
+* [Publicación de blog: Introducción a los KPI de Adobe Workfront](https://experienceleaguecommunities.adobe.com/t5/workfront-blogs/kpi-dashboards-in-the-new-workfront-experience-introduction-to/ba-p/549001)

@@ -6,10 +6,16 @@ role: Admin, Leader, User
 level: Beginner
 jira: KT-10921
 exl-id: dbb961f9-c207-49f1-9545-ec127f983c15
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+TQID: https://experienceleague.adobe.com/qp6rMfRSCtQfsrU-1zzHWYWrvMnFJAJBYoqXKGP3GeQ
+product_v2: id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2: id: e14a7f57-c82c-4874-a495-5d036cbbdc3d
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554id: c66ffd68-0f65-42bb-aa23-b4020f12e0bdid: f8a45b24-4be7-4f1b-909b-60d06b483a20
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2: id: aa2f3246-cb95-4b30-8899-fdf7d73550ccid: c7d04a2c-412a-4c9d-9d7a-4456eaa5adeb
+source-git-commit: 36674ed53c8645f556862bb2d99f3bfd6c993c1e
 workflow-type: tm+mt
-source-wordcount: '1482'
-ht-degree: 100%
+source-wordcount: 1492
+ht-degree: 91%
 
 ---
 
@@ -25,7 +31,7 @@ Al revisar estas recomendaciones, hay que tener en cuenta que algunas prácticas
 
 Al desplazarse por esta página, encontrará en primer lugar una lista de alto nivel de todas las prácticas recomendadas sobre el tema. Esto permite revisar las recomendaciones sin profundizar en los detalles de &quot;por qué&quot;.
 
-El punto &quot;¿Por qué estas son prácticas recomendadas?&quot; se encuentra después de la lista de alto nivel, proporciona mayores detalles sobre algunas de las prácticas recomendadas y por qué se consideran un proceso, una herramienta, etc., cuya implementación se debe considerar al trabajar con Workfront.
+El área &quot;¿Por qué son estas prácticas recomendadas?&quot;, que se encuentra después de la lista de alto nivel, proporciona más detalles sobre algunas de las prácticas recomendadas y por qué se consideran un proceso, una herramienta, etc., debe considerar la implementación con su instancia de Workfront.
 
 </br>
 </br>
@@ -76,7 +82,7 @@ Incluya una descripción para cada elemento de una cola de solicitudes: el proye
 
 Las descripciones permiten a los administradores de grupos, futuros administradores del sistema u otras personas que mantienen colas de solicitud saber exactamente qué hace cada parte de la cola de solicitudes.
 
-La información de descripción también aparece al pasar el ratón sobre el icono de información del campo en la nueva ventana de solicitud.
+La información de descripción también aparece al pasar el puntero por encima del icono de información del campo en la nueva ventana de solicitud.
 
 La descripción no tiene que ser larga, solo un breve comentario sobre el propósito o el uso del elemento.
 
@@ -91,7 +97,7 @@ Cree un estado de proyecto llamado “Cola de solicitudes” u “Operativo” q
 
 Una cola de solicitud se encuentra en un proyecto y debe tener un estado igual a Actual para que la cola esté activa.
 
-Para distinguir una solicitud de los proyectos de trabajo reales con un estado “Actual”, cree un estado que se utilizará solo en las colas de solicitud denominadas “Cola de solicitudes” u “Operativo”. A continuación, puede utilizar este estado para excluir o incluir proyectos de cola de solicitudes mientras escribe informes.
+Para distinguir una solicitud de los proyectos de trabajo reales con un estado &quot;Actual&quot;, cree un estado para utilizarlo solo en colas de solicitudes llamadas &quot;Cola de solicitudes&quot; o &quot;Operativo&quot;. A continuación, puede utilizar este estado para ayudar a excluir o incluir proyectos de colas de solicitudes al escribir informes.
 
 </br>
 </br>
@@ -126,7 +132,7 @@ Evite compartir colas de solicitud con “todos”.  Configure la configuración
 
 **A continuación se explica por qué**
 
-En la mayoría de los casos, una cola de solicitudes solo debe compartirse con un conjunto determinado de personas como un equipo, un proveedor, clientes, etc. Cuando los solicitantes ven solo lo que necesitan en la lista de la cola de solicitudes, facilita la búsqueda y navegación.
+En la mayoría de los casos, una cola de solicitudes solo debe compartirse con un determinado conjunto de personas, como un equipo, un proveedor, clientes, etc. Cuando los solicitantes ven solo lo que necesitan en la lista de colas de solicitudes, les facilita la búsqueda y la navegación.
 
 </br>
 </br>

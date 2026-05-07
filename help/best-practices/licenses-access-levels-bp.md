@@ -6,10 +6,16 @@ role: Admin, Leader, User
 level: Beginner
 jira: KT-10914
 exl-id: 6be3fab9-16a1-4ab9-89ce-8c53f8358e62
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+TQID: https://experienceleague.adobe.com/YvTTPwGkach9JpmNHLxuLT3fpQ7KOzYjxtw-kdhFlEI
+product_v2: id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2: id: d968a1bc-9a90-4926-a531-bcf272c32aadid: e14a7f57-c82c-4874-a495-5d036cbbdc3d
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554id: c66ffd68-0f65-42bb-aa23-b4020f12e0bdid: f8a45b24-4be7-4f1b-909b-60d06b483a20
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2: id: d095671a-1355-40aa-8b5f-06c33c68080bid: eddd9b14-83bd-4ff4-9072-54a4a484abb7id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
+source-git-commit: 36674ed53c8645f556862bb2d99f3bfd6c993c1e
 workflow-type: tm+mt
-source-wordcount: '1253'
-ht-degree: 100%
+source-wordcount: 1268
+ht-degree: 90%
 
 ---
 
@@ -25,7 +31,7 @@ Al revisar estas recomendaciones, hay que tener en cuenta que algunas prácticas
 
 Al desplazarse por esta página, encontrará en primer lugar una lista de alto nivel de todas las prácticas recomendadas sobre el tema. Esto permite revisar las recomendaciones sin profundizar en los detalles de &quot;por qué&quot;.
 
-El punto &quot;¿Por qué estas son prácticas recomendadas?&quot; se encuentra después de la lista de alto nivel, proporciona mayores detalles sobre algunas de las prácticas recomendadas y por qué se consideran un proceso, una herramienta, etc., cuya implementación se debe considerar al trabajar con Workfront.
+El área &quot;¿Por qué son estas prácticas recomendadas?&quot;, que se encuentra después de la lista de alto nivel, proporciona más detalles sobre algunas de las prácticas recomendadas y por qué se consideran un proceso, una herramienta, etc., debe considerar la implementación con su instancia de Workfront.
 
 </br>
 </br>
@@ -98,7 +104,7 @@ El uso compartido de un objeto en todo el sistema se utiliza a menudo como una h
 
 
 
-Por ejemplo, es posible que esté trabajando con varios proveedores dentro de Workfront para comprobar el progreso, proporcionar aprobaciones, etc. Si la casilla de verificación “Compartir todo el sistema” es una opción, podría seleccionarse o establecerse como predeterminada, poniendo la información a disposición de todos los proveedores.
+Por ejemplo: puede estar trabajando con varios proveedores dentro de Workfront para comprobar el progreso, proporcionar aprobaciones, etc. Si la casilla &quot;Compartir en todo el sistema&quot; es una opción, se puede seleccionar o establecer como predeterminada, haciendo que la información esté disponible para todos los proveedores.
 
 
 
@@ -175,7 +181,7 @@ Limitarse a los niveles de acceso necesarios para lograr sus objetivos de trabaj
 
 **A continuación se explica por qué**
 
-El nivel de acceso garantiza que, cuando un objeto de Workfront se comparte con un usuario, este tenga los derechos necesarios para editarlo, eliminarlo, etc. Los niveles de acceso se pueden hacer más generales porque el uso compartido en elementos individuales se puede configurar para que sean más específicos.
+El nivel de acceso garantiza que, cuando se comparta un objeto de Workfront con un usuario, este tenga los derechos necesarios para editarlo, eliminarlo, etc. Puede hacer que los niveles de acceso sean más generales, ya que el uso compartido de elementos individuales se puede configurar para que sean más específicos.
 
 
 Además, tener menos niveles de acceso puede facilitar el mantenimiento de un sistema sin desorden e implementar una estrategia, lo que también puede llevar a una incorporación más rápida cuando las personas se unen a la empresa o cambian de departamento.

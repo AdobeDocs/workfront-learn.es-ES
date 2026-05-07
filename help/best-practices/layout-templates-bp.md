@@ -6,10 +6,16 @@ role: Admin, Leader, User
 level: Beginner
 jira: KT-10913
 exl-id: bfcea59d-7746-40aa-989d-6e2b7e312a2b
-source-git-commit: 1275ca2f30453df06cfcf9944798a1c89111a6de
-workflow-type: ht
-source-wordcount: '741'
-ht-degree: 100%
+TQID: https://experienceleague.adobe.com/TP7xqSuqZdUF4vbxUMyBib23OZwqG4SwOP7cDSEfhJU
+product_v2: id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2: id: d968a1bc-9a90-4926-a531-bcf272c32aad
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554id: c66ffd68-0f65-42bb-aa23-b4020f12e0bdid: f8a45b24-4be7-4f1b-909b-60d06b483a20
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2: id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: 36674ed53c8645f556862bb2d99f3bfd6c993c1e
+workflow-type: tm+mt
+source-wordcount: 747
+ht-degree: 80%
 
 ---
 
@@ -25,7 +31,7 @@ Al revisar estas recomendaciones, hay que tener en cuenta que algunas prácticas
 
 Al desplazarse por esta página, encontrará en primer lugar una lista de alto nivel de todas las prácticas recomendadas sobre el tema. Esto permite revisar las recomendaciones sin profundizar en los detalles de &quot;por qué&quot;.
 
-El punto &quot;¿Por qué estas son prácticas recomendadas?&quot; se encuentra después de la lista de alto nivel, proporciona mayores detalles sobre algunas de las prácticas recomendadas y por qué se consideran un proceso, una herramienta, etc., cuya implementación se debe considerar al trabajar con Workfront.
+El área &quot;¿Por qué son estas prácticas recomendadas?&quot;, que se encuentra después de la lista de alto nivel, proporciona más detalles sobre algunas de las prácticas recomendadas y por qué se consideran un proceso, una herramienta, etc., debe considerar la implementación con su instancia de Workfront.
 
 </br>
 </br>
@@ -68,7 +74,7 @@ Cree plantillas de diseño para conjuntos de usuarios, no para particulares.
 
 **A continuación se explica por qué**
 
-Cree diseños en torno a conjuntos de personas que realizan trabajos similares, que necesitan acceder a las mismas partes de Workfront, etc. Esto no solo garantiza que los usuarios tengan acceso a las partes de Workfront que necesitan para realizar su trabajo, sino que también implica que los administradores de sistemas y grupos deben crear y mantener menos plantillas de diseño.
+Cree diseños alrededor de conjuntos de personas que realizan un trabajo similar, necesitan acceder a las mismas partes de Workfront, etc. Esto no solo garantiza que los usuarios tengan acceso a las partes de Workfront que necesitan para realizar su trabajo, sino que también significa menos plantillas de diseño para que los administradores de sistemas y grupos las creen y mantengan.
 
 Si los usuarios solicitan plantillas de diseño “especializadas”, enséñeles a utilizar pines en la barra de navegación y añada sus propias secciones personalizadas en los menús del panel izquierdo. Esto puede satisfacer sus necesidades sin tener que crear plantillas de diseño adicionales.
 
@@ -83,9 +89,9 @@ Tenga en cuenta los flujos de trabajo y procesos al crear las plantillas de dise
 
 Asegúrese de que los usuarios puedan acceder a todo lo que necesiten para realizar su trabajo.
 
-Opciones en el menú principal. Los elementos de menú más utilizados en una posición prominente (u organizar el menú principal alfabéticamente) 
-Secciones de menú del panel izquierdo, en un orden que facilite el flujo de trabajo
-Campos estándar y personalizados visibles en Inicio, para permitir a los usuarios completar asignaciones sin tener que profundizar en las tareas o problemas para obtener la información necesaria
+Opciones del menú principal, con los elementos de menú más utilizados en una posición destacada (u organizar el menú principal alfabéticamente)
+Secciones de menú del panel izquierdo, en un orden que facilita el flujo de trabajo
+Campos estándar y personalizados visibles en Inicio para permitir a los usuarios completar asignaciones sin tener que profundizar en tareas o problemas para obtener la información necesaria
 
 Después de crear la plantilla de diseño, utilice la función “iniciar sesión como” del área de configuración para probar la plantilla como alguien que la va a utilizar. Consulte cada paso del flujo de trabajo de esa persona para asegurarse de que tiene lo que necesita antes de asignar usuarios a la plantilla.
 

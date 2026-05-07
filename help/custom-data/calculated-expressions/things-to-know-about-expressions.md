@@ -9,9 +9,12 @@ activity: use
 team: Technical Marketing
 thumbnail: to-know-expressions.png
 exl-id: 512a3071-f47f-4fd4-bf5f-9b18bef8ba59
-source-git-commit: 2bfb833431370c0debe85d3d3376cf907632042e
+TQID: https://experienceleague.adobe.com/5BGPqaG7HXlOlHESycWzRtJc5T-OZV7jPTwx-kWSivQ
+product_v2: id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554id: c66ffd68-0f65-42bb-aa23-b4020f12e0bdid: f8a45b24-4be7-4f1b-909b-60d06b483a20
+source-git-commit: 36674ed53c8645f556862bb2d99f3bfd6c993c1e
 workflow-type: tm+mt
-source-wordcount: '959'
+source-wordcount: 963
 ht-degree: 98%
 
 ---

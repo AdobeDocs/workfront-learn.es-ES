@@ -6,10 +6,16 @@ role: Admin, Leader, User
 level: Beginner
 jira: KT-10902
 exl-id: 0f3fc5ba-d01a-4337-829f-def0830ddf81
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+TQID: https://experienceleague.adobe.com/RUQeNzEb0eg9DKSKepugb0HD4O2ODql-0mWBn-ptgxk
+product_v2: id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2: id: b58ad82f-df6b-4b01-81a3-3a02ab9567a0id: f48b5020-b9cd-4d99-bc6e-42c35e90c1f8
+subfeature_v2: id: bb1dd007-4a34-496d-9d3b-2278fdaadac1
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554id: c66ffd68-0f65-42bb-aa23-b4020f12e0bdid: f8a45b24-4be7-4f1b-909b-60d06b483a20
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+source-git-commit: 36674ed53c8645f556862bb2d99f3bfd6c993c1e
 workflow-type: tm+mt
-source-wordcount: '406'
-ht-degree: 100%
+source-wordcount: 410
+ht-degree: 75%
 
 ---
 
@@ -25,7 +31,7 @@ Al revisar estas recomendaciones, hay que tener en cuenta que algunas prácticas
 
 Al desplazarse por esta página, encontrará en primer lugar una lista de alto nivel de todas las prácticas recomendadas sobre el tema. Esto permite revisar las recomendaciones sin profundizar en los detalles de &quot;por qué&quot;.
 
-El punto &quot;¿Por qué estas son prácticas recomendadas?&quot; se encuentra después de la lista de alto nivel, proporciona mayores detalles sobre algunas de las prácticas recomendadas y por qué se consideran un proceso, una herramienta, etc., cuya implementación se debe considerar al trabajar con Workfront.
+El área &quot;¿Por qué son estas prácticas recomendadas?&quot;, que se encuentra después de la lista de alto nivel, proporciona más detalles sobre algunas de las prácticas recomendadas y por qué se consideran un proceso, una herramienta, etc., debe considerar la implementación con su instancia de Workfront.
 
 </br>
 </br>
@@ -61,7 +67,7 @@ Rastree todos los campos personalizados usados en integraciones que utilizan un 
 
 **A continuación se explica por qué**
 
-Un proyecto es el lugar perfecto para registrar nombres de campo personalizados, con qué integración se usan, etc. Esto ayuda a evitar la creación de campos personalizados redundantes o el uso del mismo campo personalizado con varias integraciones.
+Un proyecto es el lugar perfecto para registrar nombres de campos personalizados, con qué integración se utilizan, etc. Esto le ayudará a evitar la creación de campos personalizados redundantes o a utilizar el mismo campo personalizado con varias integraciones.
 
 </br>
 </br>

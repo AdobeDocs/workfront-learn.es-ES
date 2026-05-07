@@ -8,31 +8,37 @@ thumbnail: create-a-project-directly-from-a-template.jpeg
 type: Tutorial
 role: User
 level: Beginner
-last-substantial-update: 2025-03-28T00:00:00Z
+last-substantial-update: 2025-03-28T00:00:00.000Z
 recommendations: noDisplay,catalog
 jira: KT-10156
 exl-id: 1f44eb26-98bf-4723-b162-27a4f8cb8177
 doc-type: video
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+TQID: https://experienceleague.adobe.com/wRwzeRNQN5ub6hmHX7fjeqsfckB3oilTdUsMRBbT-pU
+product_v2: id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2: id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
+subfeature_v2: id: f0dd7b45-76b5-49d4-afe3-39f436b6fbd3
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+source-git-commit: 36674ed53c8645f556862bb2d99f3bfd6c993c1e
 workflow-type: tm+mt
-source-wordcount: '228'
-ht-degree: 20%
+source-wordcount: 222
+ht-degree: 22%
 
 ---
 
 # Creación de un proyecto directamente a partir de una plantilla
 
-En este vídeo se explica cómo crear un proyecto a partir de una plantilla. palo de golf Si tiene derechos para abrir una plantilla, puede utilizarla como método abreviado para crear un proyecto. palo de golf Para ello, abra la plantilla, acceda al menú de tres puntos y seleccione &quot;Crear proyecto&quot;. Esto le lleva a una pantalla en la que puede editar los detalles del proyecto. palo de golf Una vez listo, haga clic en &quot;Crear proyecto&quot; para finalizar. palo de golf
+En este vídeo se explica cómo crear un proyecto a partir de una plantilla. Si tiene derechos para abrir una plantilla, puede utilizarla como método abreviado para crear un proyecto. Para ello, abra la plantilla, acceda al menú de tres puntos y seleccione &quot;Crear proyecto&quot;. Esto le lleva a una pantalla en la que puede editar los detalles del proyecto. Una vez listo, haga clic en &quot;Crear proyecto&quot; para finalizar. &#x200B;
 
->[!VIDEO](https://video.tv.adobe.com/v/3456016/?quality=12&learn=on&enablevpops=1&captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/3456013/?quality=12&learn=on&enablevpops=1)
 
-## Puntos clave
+## Principales conclusiones
 
-* **Acceso a plantillas:** Necesita derechos para abrir una plantilla y crear un proyecto a partir de ella. palo de golf
-* **Opción de acceso directo:** El uso de una plantilla puede ser un acceso directo útil en comparación con iniciar un proyecto desde cero. palo de golf
-* **Menú de tres puntos:** Abra la plantilla y seleccione &quot;Crear proyecto&quot; en el menú de tres puntos. palo de golf
-* **Editar detalles del proyecto:** Después de seleccionar &quot;Crear proyecto&quot;, puede editar los detalles del proyecto antes de finalizar. palo de golf
-* **Finalizar creación:** Haga clic en &quot;Crear proyecto&quot; cuando esté listo para completar el proceso. palo de golf
+* **Acceso a plantillas:** Necesita derechos para abrir una plantilla y crear un proyecto a partir de ella. &#x200B;
+* **Opción de acceso directo:** El uso de una plantilla puede ser un acceso directo útil en comparación con iniciar un proyecto desde cero. &#x200B;
+* **Menú de tres puntos:** Abra la plantilla y seleccione &quot;Crear proyecto&quot; en el menú de tres puntos. &#x200B;
+* **Editar detalles del proyecto:** Después de seleccionar &quot;Crear proyecto&quot;, puede editar los detalles del proyecto antes de finalizar. &#x200B;
+* **Finalizar creación:** Haga clic en &quot;Crear proyecto&quot; cuando esté listo para completar el proceso. &#x200B;
 
 
 ## Tutoriales recomendados sobre este tema

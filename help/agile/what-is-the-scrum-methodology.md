@@ -7,16 +7,20 @@ level: Intermediate
 jira: KT-10890
 thumbnail: what-is-scrum.jpeg
 exl-id: 6c3a1ffd-4e1e-4133-a354-0b05ca777cf8
-source-git-commit: 37a1c8c492af68ccdee9bd7688ff4d07b41c71e7
-workflow-type: ht
-source-wordcount: '774'
-ht-degree: 100%
+TQID: https://experienceleague.adobe.com/vdFb9-34gvRIM8TN-3TfnF4uBfpRsIyuOhiGytlBnCw
+product_v2: id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554id: c66ffd68-0f65-42bb-aa23-b4020f12e0bdid: f8a45b24-4be7-4f1b-909b-60d06b483a20
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+source-git-commit: 36674ed53c8645f556862bb2d99f3bfd6c993c1e
+workflow-type: tm+mt
+source-wordcount: 777
+ht-degree: 91%
 
 ---
 
 # ¿Cuál es la metodología Scrum y cómo funciona?
 
-La metodología Scrum engloba el modelo de flexibilidad, pero difiere de otras en que tiene funciones definidas para quienes forman parte del equipo, como el propietario del producto, el líder de equipo de Scrum, etc. Además, cuenta con prácticas concretas para definir y completar el trabajo.
+La metodología Scrum engloba el modelo de flexibilidad, pero difiere de otras metodologías en que tiene funciones definidas para aquellos que forman parte del equipo, como Propietario del producto, Maestro de la escoria, etc., y prácticas definidas para definir y completar el trabajo.
 
 ## Información general del equipo de Scrum
 
@@ -64,7 +68,7 @@ Una vez que han creado sus historias principales, deben preparar el registro de 
 
 ### Planificación de iteraciones
 
-Una vez que el registro de asuntos pendientes se haya configurado y priorizado, es hora de planificar la iteración. (Muchas organizaciones utilizan las palabras “sprint” e “iteración” de forma intercambiable). El equipo decide qué historias completar basándose en las que se consideran listas para seguir. El equipo asigna las tareas y decide la duración de la iteración.
+Una vez que el registro de asuntos pendientes se haya configurado y priorizado, es hora de planificar la iteración. (Muchas organizaciones utilizan las palabras &quot;sprint&quot; e &quot;iteration&quot; indistintamente). El equipo decide qué historias completar basándose en las historias que se consideran listas para publicar. El equipo asigna las tareas y decide la duración de la iteración.
 
 
 
@@ -88,7 +92,7 @@ Estas reuniones permiten que todo el mundo esté en sintonía y avance con rapid
 Es importante que el equipo, a medida que responde a las tres preguntas principales en sus reuniones breves, monitorice y lleve el seguimiento de su progreso hacia la finalización de la iteración. Al hacerlo, puede determinar si se está moviendo lo suficientemente rápido a través de sus historias para ofrecer todas las funciones a tiempo al final de la iteración. Hay dos componentes para hacerlo en el proceso de Scrum.
 
 
-### Guion gráfico 
+### Guion gráfico
 
 Mediante un guion gráfico, los equipos mueven sus historias a través de columnas de estado para mostrar cuándo los elementos de trabajo son nuevos, están en curso o se han completado.
 

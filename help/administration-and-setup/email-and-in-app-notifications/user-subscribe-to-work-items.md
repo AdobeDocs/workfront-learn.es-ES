@@ -9,16 +9,22 @@ role: Admin, Leader, User
 level: Beginner
 jira: KT-10098
 exl-id: afc02878-e72e-4707-9a9b-94f1dc4694aa
-source-git-commit: 4568e4e47b719e2dee35357d42674613112a9c43
+TQID: https://experienceleague.adobe.com/qMUsOWywOvf46kP-8sy5v8-wJd-iAiLItw-BeHsRri8
+product_v2: id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2: id: d968a1bc-9a90-4926-a531-bcf272c32aad
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554id: c66ffd68-0f65-42bb-aa23-b4020f12e0bdid: f8a45b24-4be7-4f1b-909b-60d06b483a20
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2: id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: 36674ed53c8645f556862bb2d99f3bfd6c993c1e
 workflow-type: tm+mt
-source-wordcount: '419'
+source-wordcount: 421
 ht-degree: 100%
 
 ---
 
 # Suscribirse a los elementos de trabajo
 
-Las notificaciones de eventos le ponen al día sobre el trabajo que le ha sido asignado. Sin embargo, puede haber ocasiones en las que desee seguir elementos de trabajo que no tenga asignados, ya que esto puede afectar al trabajo que realice. Suscribirse a un elemento específico es la solución perfecta.
+Las notificaciones de eventos le actualizan sobre el trabajo que le ha sido asignado. Sin embargo, puede haber ocasiones en las que desee seguir elementos de trabajo que no tenga asignados, ya que esto puede afectar al trabajo que realice. Suscribirse a un elemento específico es la solución perfecta.
 
 Por ejemplo, le interesa el progreso de la tarea Copia inicial. No le han asignado esta tarea, pero es responsable de editar esa copia inicial y desea saber lo que está sucediendo. Puede suscribirse a la tarea y, cuando se realicen actualizaciones, recibirá una notificación por correo electrónico que le ofrecerá una actualización en tiempo real de cómo progresa ese trabajo.
 
@@ -32,13 +38,13 @@ Ventana ![[!UICONTROL Acceso a tareas]](assets/admin-fund-user-notifications-11.
 
 Una vez que tenga acceso al elemento de trabajo, suscríbase a él mediante las acciones siguientes:
 
-1. Vaya a la página de aterrizaje del proyecto, tarea o problema.
+1. Vaya a la página de destino del proyecto, tarea o problema.
 1. Haga clic en el menú **[!UICONTROL Acciones]**.
 1. Hacer clic en **[!UICONTROL Suscribirse]**.
 
 Opción ![[!UICONTROL Suscribirse] del menú de tareas](assets/admin-fund-user-notifications-12.png)
 
-Puede ver quién más se ha suscrito al elemento de trabajo pasando el ratón por encima del número situado junto a [!UICONTROL Suscribirse/cancelar suscripción] en el menú.
+Puede ver quién más se ha suscrito al elemento de trabajo pasando el puntero por encima del número situado junto a [!UICONTROL Suscribirse/cancelar suscripción] en el menú.
 
 ![Menú Tareas que muestra quién se ha suscrito](assets/admin-fund-user-notifications-13.png)
 

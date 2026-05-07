@@ -11,14 +11,19 @@ thumbnail: 335102.png
 jira: KT-8801
 exl-id: a63af21e-7646-41b2-97f7-7cbfc7a031b0
 doc-type: video
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+TQID: https://experienceleague.adobe.com/60Yk-4-IP08-3oEUcIQIqKVitDezxAC-fIV0e2uVYRQ
+product_v2: id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2: id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+source-git-commit: 36674ed53c8645f556862bb2d99f3bfd6c993c1e
 workflow-type: tm+mt
-source-wordcount: '245'
+source-wordcount: 247
 ht-degree: 100%
 
 ---
 
-# Comunique sobre los trabajos con las actualizaciones en el [!UICONTROL Inicio] de [!DNL Workfront] 
+# Comunique sobre los trabajos con las actualizaciones en el [!UICONTROL Inicio] de [!DNL Workfront]
 
 Este vídeo contiene información sobre:
 
@@ -26,7 +31,7 @@ Este vídeo contiene información sobre:
 * Etiquete a los usuarios en las actualizaciones de [!DNL Workfront]
 * Responder a actualizaciones existentes
 
->[!VIDEO](https://video.tv.adobe.com/v/3445280/?quality=12&learn=on&enablevpops=1&captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/335102/?quality=12&learn=on&enablevpops=1)
 
 ## Sugerencias para actualizar los trabajos en el [!UICONTROL inicio]
 

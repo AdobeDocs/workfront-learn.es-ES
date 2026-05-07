@@ -11,9 +11,14 @@ thumbnail: 335169.jpeg
 jira: KT-8906
 exl-id: 2114027c-e616-45a3-aca4-6382b6a20fda
 doc-type: video
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+TQID: https://experienceleague.adobe.com/xqa0b-3ApGd1QiIJh1s4Y0btYfdkgZXDQQ1kAiBWp3I
+product_v2: id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2: id: e14a7f57-c82c-4874-a495-5d036cbbdc3d
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554id: f8a45b24-4be7-4f1b-909b-60d06b483a20
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+source-git-commit: 36674ed53c8645f556862bb2d99f3bfd6c993c1e
 workflow-type: tm+mt
-source-wordcount: '318'
+source-wordcount: 320
 ht-degree: 100%
 
 ---
@@ -26,7 +31,7 @@ En este vídeo, aprenderá lo siguiente:
 * Descubra cómo se muestra la información de recursos en esta vista
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3416528/?quality=12&learn=on&enablevpops=1&captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/335169/?quality=12&learn=on&enablevpops=1)
 
 En la opción Ver por función, el valor predeterminado es mostrar la columna Presupuestado, que extrae el número estimado de recursos necesarios para un proyecto de un caso empresarial, si se ha rellenado. Esto también significa que la columna Neto está, de forma predeterminada, utilizando los números de la columna Presupuestado para indicarle cuántos recursos quedan.
 
