@@ -35,4 +35,4 @@ Este vídeo contiene información sobre:
 * La diferencia entre los tres perfiles de usuario de [!UICONTROL DAM de Workfront]
 * Cómo navegar en [!UICONTROL DAM de Workfront]
 
->[!VIDEO](https://video.tv.adobe.com/v/335252/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3414424/?captions=spa&quality=12&learn=on&enablevpops=1)

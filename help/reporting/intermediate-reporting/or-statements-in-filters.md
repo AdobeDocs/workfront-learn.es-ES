@@ -34,7 +34,7 @@ En el vídeo se explica cómo crear y utilizar filtros con varias reglas en Work
 También puede cambiar la lógica del filtro a &quot;O&quot;, que muestra los elementos que cumplen cualquiera de las condiciones.
 El vídeo también muestra la creación de filtros para tareas utilizando grupos de filtros. Por ejemplo, puede crear dos grupos: uno para tareas incompletas asignadas al equipo creativo que están atrasadas y otro para tareas incompletas asignadas al equipo creativo que no están asignadas. Dentro de cada grupo, se aplica la lógica &quot;AND&quot;, lo que significa que se deben cumplir todas las condiciones del grupo. La lógica &quot;OR&quot; entre grupos garantiza que se muestren las tareas que cumplen las condiciones de cualquiera de los grupos.
 
->[!VIDEO](https://video.tv.adobe.com/v/3470692/?quality=12&learn=on&enablevpops=0)
+>[!VIDEO](https://video.tv.adobe.com/v/3470696/?captions=spa&quality=12&learn=on&enablevpops=0)
 
 ## Actividad de filtro O
 

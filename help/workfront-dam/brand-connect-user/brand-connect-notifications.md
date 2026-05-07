@@ -36,4 +36,4 @@ Este vídeo contiene información sobre:
 * Modificación de la configuración de notificación
 * Crear una libreta de direcciones
 
->[!VIDEO](https://video.tv.adobe.com/v/335250/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3414448/?captions=spa&quality=12&learn=on&enablevpops=1)

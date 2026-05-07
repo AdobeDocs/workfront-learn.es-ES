@@ -36,7 +36,7 @@ Este vídeo contiene información sobre:
 * Defina lo que usted y su equipo deben hacer para lograr la meta de nivel superior
 * Precise la jerarquía de metas de la Sección 2: Establecer una visión y una estrategia
 
->[!VIDEO](https://video.tv.adobe.com/v/335187/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3416014/?captions=spa&quality=12&learn=on&enablevpops=1)
 
 <!--
 Pro-tips graphic

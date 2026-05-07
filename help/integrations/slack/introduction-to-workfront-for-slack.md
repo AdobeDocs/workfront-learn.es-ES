@@ -34,7 +34,7 @@ En este vídeo, aprenderá lo siguiente:
 
 * Obtenga una introducción de lo que aprenderá de [!DNL Workfront] para los vídeos de [!DNL Slack].
 
->[!VIDEO](https://video.tv.adobe.com/v/335116/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3435918/?captions=spa&quality=12&learn=on&enablevpops=1)
 
 >[!NOTE]
 >

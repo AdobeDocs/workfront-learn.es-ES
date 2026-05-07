@@ -35,7 +35,7 @@ Este vídeo contiene información sobre:
 * Crear una declaración objetiva clara, o la intención del Comandante
 * Redactar metas empresariales u organizativas sólidas
 
->[!VIDEO](https://video.tv.adobe.com/v/335186/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3416008/?captions=spa&quality=12&learn=on&enablevpops=1)
 
 <!--
 Your turn graphic

@@ -40,7 +40,7 @@ Este vídeo contiene información sobre:
 * Formas de agregar y eliminar tareas
 * Cambiar el orden de las tareas
 
->[!VIDEO](https://video.tv.adobe.com/v/335088/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3448559/?captions=spa&quality=12&learn=on&enablevpops=1)
 
 ## Tutoriales recomendados sobre este tema
 

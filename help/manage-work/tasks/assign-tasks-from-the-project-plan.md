@@ -36,7 +36,7 @@ ht-degree: 14%
 En el vídeo se explican varios métodos para asignar tareas en un plan de proyecto. Hace hincapié en el uso de herramientas como filtros, plantillas y funciones de administración de recursos para optimizar las asignaciones de tareas y los flujos de trabajo del proyecto.
 
 
->[!VIDEO](https://video.tv.adobe.com/v/335092/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3445739/?captions=spa&quality=12&learn=on&enablevpops=1)
 
 ## Principales conclusiones
 

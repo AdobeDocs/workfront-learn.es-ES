@@ -36,4 +36,4 @@ Este vídeo contiene información sobre:
 * Cuáles son algunos tipos de error comunes y cómo los gestiona el sistema de forma predeterminada
 * Aplicación de la gestión de errores personalizada mediante un módulo de gestión de errores
 
->[!VIDEO](https://video.tv.adobe.com/v/335304/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3418129/?captions=spa&quality=12&learn=on&enablevpops=1)

@@ -35,4 +35,4 @@ Este vídeo contiene información sobre:
 
 * Cómo usar, crear y navegar entre organizaciones, equipos y usuarios
 
->[!VIDEO](https://video.tv.adobe.com/v/335309/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3418184/?captions=spa&quality=12&learn=on&enablevpops=1)

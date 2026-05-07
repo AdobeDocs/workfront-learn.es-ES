@@ -39,7 +39,7 @@ Este vídeo contiene información sobre:
 * Acceso a los gráficos de métricas del proyecto
 * Personalización de la información de los gráficos
 
->[!VIDEO](https://video.tv.adobe.com/v/336667/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3439173/?captions=spa&quality=12&learn=on&enablevpops=1)
 
 ## Tutoriales recomendados sobre este tema
 

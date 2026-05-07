@@ -36,4 +36,4 @@ Este vídeo contiene información sobre:
 * Instalación y uso de la herramienta Dev de Workfront Fusion
 * Cómo revisar las distintas herramientas de diseño de escenarios avanzados
 
->[!VIDEO](https://video.tv.adobe.com/v/335302/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3418117/?captions=spa&quality=12&learn=on&enablevpops=1)

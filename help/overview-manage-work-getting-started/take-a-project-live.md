@@ -37,7 +37,7 @@ Este vídeo contiene información sobre:
 
 * Lanzar su proyecto utilizando el estado del proyecto
 
->[!VIDEO](https://video.tv.adobe.com/v/335093/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3438986/?captions=spa&quality=12&learn=on&enablevpops=1)
 
 ## Tutoriales recomendados sobre este tema
 

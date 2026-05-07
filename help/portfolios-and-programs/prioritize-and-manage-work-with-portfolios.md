@@ -36,7 +36,7 @@ En el vídeo se explica cómo utilizar la herramienta de optimización de Portfo
 
 El vídeo destaca la importancia de completar los casos comerciales para realizar comparaciones precisas y proporciona instrucciones paso a paso para optimizar y administrar las prioridades del proyecto de forma eficaz. &#x200B;
 
->[!VIDEO](https://video.tv.adobe.com/v/3446275/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3446278/?captions=spa&quality=12&learn=on&enablevpops=1)
 
 ## Principales conclusiones
 

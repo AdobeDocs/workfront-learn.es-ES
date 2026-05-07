@@ -36,7 +36,7 @@ Este vídeo contiene información sobre:
 
 * Cómo ver rápidamente cuánto tiempo dedican los trabajadores a cada proyecto
 
->[!VIDEO](https://video.tv.adobe.com/v/335050/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3437802/?captions=spa&quality=12&learn=on&enablevpops=1)
 
 ## Revisar el tiempo invertido en proyectos
 

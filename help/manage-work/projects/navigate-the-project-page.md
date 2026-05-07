@@ -44,7 +44,7 @@ Este vídeo proporciona información general sobre cómo navegar y administrar l
 * **Sección de documentos:** Permite cargar y administrar archivos y pruebas relacionados con el proyecto. Los documentos adjuntos a las tareas se acumulan en el nivel de proyecto para facilitar el acceso. &#x200B;
 
 
->[!VIDEO](https://video.tv.adobe.com/v/335085/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3449729/?captions=spa&quality=12&learn=on&enablevpops=1)
 
 ## Principales conclusiones
 

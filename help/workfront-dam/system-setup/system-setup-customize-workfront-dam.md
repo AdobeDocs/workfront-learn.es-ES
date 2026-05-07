@@ -40,4 +40,4 @@ Este vídeo contiene información sobre:
 * Controlar las notificaciones en la aplicación
 * Planear la instalación y mantenimiento de [!UICONTROL DAM de Workfront]
 
->[!VIDEO](https://video.tv.adobe.com/v/335232/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3454267/?captions=spa&quality=12&learn=on&enablevpops=1)

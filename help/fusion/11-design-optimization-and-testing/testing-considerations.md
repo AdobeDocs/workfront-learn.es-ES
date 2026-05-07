@@ -43,7 +43,7 @@ Este vídeo contiene información sobre:
 * Crear documentación detallada que se pueda compartir
 * Probar la profundidad, la amplitud, la complejidad y la carga
 
->[!VIDEO](https://video.tv.adobe.com/v/335315/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3419026/?captions=spa&quality=12&learn=on&enablevpops=1)
 
 ## Lista de comprobación de consideraciones de la prueba
 

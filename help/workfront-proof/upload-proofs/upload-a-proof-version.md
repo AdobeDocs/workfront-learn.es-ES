@@ -36,7 +36,7 @@ Este vídeo contiene información sobre:
 * Cargue una nueva versión de una prueba
 * Aplicación de un flujo de trabajo de revisiones a la versión
 
->[!VIDEO](https://video.tv.adobe.com/v/336096/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3441854/?captions=spa&quality=12&learn=on&enablevpops=1)
 
 ## Cargar una versión desde el visualizador de revisiones
 

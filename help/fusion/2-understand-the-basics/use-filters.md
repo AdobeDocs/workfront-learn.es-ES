@@ -37,4 +37,4 @@ Este vídeo contiene información sobre:
 * Uso de filtros como criterios de búsqueda dentro de un módulo
 * Revisión de la evaluación de los filtros en el historial de ejecución
 
->[!VIDEO](https://video.tv.adobe.com/v/335265/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3416471/?captions=spa&quality=12&learn=on&enablevpops=1)

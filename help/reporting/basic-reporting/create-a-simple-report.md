@@ -36,7 +36,7 @@ En este vídeo se explica cómo crear y personalizar informes de proyectos para 
 
 El vídeo destaca que los informes personalizados conservan su configuración predeterminada, pero que se pueden realizar cambios temporales al verlos. Los informes se almacenan en la sección &quot;Mis informes&quot;, mientras que los informes compartidos aparecen en &quot;Compartido conmigo&quot;. Los informes usados con frecuencia se pueden anclar o marcar como favoritos para facilitar el acceso. &#x200B;
 
->[!VIDEO](https://video.tv.adobe.com/v/335153/?quality=12&learn=on&enablevpops=0)
+>[!VIDEO](https://video.tv.adobe.com/v/3413119/?captions=spa&quality=12&learn=on&enablevpops=0)
 
 ## Principales conclusiones
 

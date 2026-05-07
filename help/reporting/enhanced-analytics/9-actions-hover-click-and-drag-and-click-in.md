@@ -38,7 +38,7 @@ Este vídeo contiene información sobre:
 * Creación de un período de tiempo en un gráfico
 * Cómo hacer que aparezcan gráficos adicionales
 
->[!VIDEO](https://video.tv.adobe.com/v/335044/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3438568/?captions=spa&quality=12&learn=on&enablevpops=1)
 
 ## Haga clic en un gráfico para obtener más información
 

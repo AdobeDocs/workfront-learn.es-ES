@@ -36,7 +36,7 @@ Este vídeo contiene información sobre:
 * Las tres directivas del controlador de error que permiten que la ejecución continúe
 * Las dos directivas del controlador de error que detienen la ejecución
 
->[!VIDEO](https://video.tv.adobe.com/v/335305/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3418135/?captions=spa&quality=12&learn=on&enablevpops=1)
 
 ## Directivas: el escenario continúa
 

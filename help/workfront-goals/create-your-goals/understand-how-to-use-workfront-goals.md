@@ -35,4 +35,4 @@ Este vídeo contiene información sobre:
 * Navegar por los gráficos
 * Navegar por la alineación de metas
 
->[!VIDEO](https://video.tv.adobe.com/v/335182/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3421294/?captions=spa&quality=12&learn=on&enablevpops=1)

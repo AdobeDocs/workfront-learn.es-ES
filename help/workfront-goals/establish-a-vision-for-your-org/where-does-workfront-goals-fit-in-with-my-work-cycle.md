@@ -35,7 +35,7 @@ En este vídeo, aprenderá sobre lo siguiente:
 * Los seis pasos en un ciclo de vida laboral típico
 * Componentes básicos de la “fase de estrategia” en el ciclo de vida laboral
 
->[!VIDEO](https://video.tv.adobe.com/v/335184/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3415990/?captions=spa&quality=12&learn=on&enablevpops=1)
 
 <!--
 Your turn graphic

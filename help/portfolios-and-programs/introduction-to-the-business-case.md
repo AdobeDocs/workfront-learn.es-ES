@@ -34,7 +34,7 @@ ht-degree: 7%
 
 El vídeo explica la importancia de un caso empresarial en la administración de proyectos. Hace hincapié en que completar el caso empresarial ayuda a los administradores a analizar y priorizar los proyectos que compiten por los mismos recursos. Una vez finalizado, al enviar el caso empresarial, el estado del proyecto cambia a &quot;Solicitado&quot; y se calcula su puntuación general para compararla en la herramienta de optimización de Portfolio. Aunque ninguno de los campos es obligatorio, una información más detallada mejora la toma de decisiones. &#x200B;
 
->[!VIDEO](https://video.tv.adobe.com/v/3442843/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3442847/?captions=spa&quality=12&learn=on&enablevpops=1)
 
 ## Principales conclusiones
 

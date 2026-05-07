@@ -47,7 +47,7 @@ Este vídeo contiene información sobre:
 
 * Vaya a la [!UICONTROL Lista de metas] para añadir una nueva
 
->[!VIDEO](https://video.tv.adobe.com/v/335191/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3412617/?captions=spa&quality=12&learn=on&enablevpops=1)
 
 ## Copiar una meta existente
 
@@ -104,5 +104,5 @@ Este vídeo contiene información sobre:
 
 * Adición de una actividad y conversión en una meta alineada
 
->[!VIDEO](https://video.tv.adobe.com/v/335192/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3416522/?captions=spa&quality=12&learn=on&enablevpops=1)
 

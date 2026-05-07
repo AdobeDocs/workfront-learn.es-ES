@@ -37,7 +37,7 @@ Este vídeo contiene información sobre:
 * Cuando un informe de matriz puede resultar útil
 * Y cómo crear un informe de matriz
 
->[!VIDEO](https://video.tv.adobe.com/v/335156/?quality=12&learn=on&enablevpops=0)
+>[!VIDEO](https://video.tv.adobe.com/v/3448186/?captions=spa&quality=12&learn=on&enablevpops=0)
 
 ## Principales conclusiones
 

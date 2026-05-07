@@ -35,7 +35,7 @@ Este vídeo contiene información sobre:
 
 * Tres conceptos básicos que conforman Workfront Fusion: escenarios, aplicaciones y módulos
 
->[!VIDEO](https://video.tv.adobe.com/v/335260/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3415960/?captions=spa&quality=12&learn=on&enablevpops=1)
 
 ## Terminología de los conceptos básicos
 

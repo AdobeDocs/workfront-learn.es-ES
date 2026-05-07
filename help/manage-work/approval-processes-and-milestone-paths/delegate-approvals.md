@@ -38,7 +38,7 @@ Para las aprobaciones, los usuarios pueden delegarlas a través del widget &quot
 Las aprobaciones delegadas se marcan en el sistema, mostrando quién las delegó y a quién. Las actualizaciones relacionadas con las aprobaciones aparecen en la pestaña Update y la actividad del sistema se puede ver en la pestaña System Activity. &#x200B;
 
 
->[!VIDEO](https://video.tv.adobe.com/v/336094/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3446379/?captions=spa&quality=12&learn=on&enablevpops=1)
 
 ## Principales conclusiones
 

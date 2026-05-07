@@ -37,7 +37,7 @@ Este vídeo contiene información sobre:
 * Utilizar un proceso de aprobación existente
 * Edición de un proceso de aprobación existente para un proyecto, tarea o problema específicos
 
->[!VIDEO](https://video.tv.adobe.com/v/335226/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3414472/?captions=spa&quality=12&learn=on&enablevpops=1)
 
 <!--
 learn more URLS

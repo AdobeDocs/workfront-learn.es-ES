@@ -37,7 +37,7 @@ Este vídeo contiene información sobre:
 * Descargue todas las versiones de una prueba
 * Elimine una versión de prueba
 
->[!VIDEO](https://video.tv.adobe.com/v/335137/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3438645/?captions=spa&quality=12&learn=on&enablevpops=1)
 
 <!--
 ## Learn more

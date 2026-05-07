@@ -34,4 +34,4 @@ Este vídeo contiene información sobre:
 
 * Ver trabajo reciente con [!DNL Slack]
 
->[!VIDEO](https://video.tv.adobe.com/v/335120/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3435929/?captions=spa&quality=12&learn=on&enablevpops=1)

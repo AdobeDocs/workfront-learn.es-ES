@@ -39,7 +39,7 @@ Instale y utilice las diferentes áreas de la herramienta de desarrollo de Workf
 
 Workfront recomienda ver el vídeo tutorial del ejercicio antes de intentar recrear el ejercicio en su propio entorno.
 
->[!VIDEO](https://video.tv.adobe.com/v/335303/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3418123/?captions=spa&quality=12&learn=on&enablevpops=1)
 
 
 ## Descargue la herramienta de desarrollo

@@ -39,4 +39,4 @@ Este vídeo contiene información sobre:
 * Cómo leer JSON y cómo se traduce en datos para utilizarlos en sus escenarios
 * Cómo utilizar los módulos JSON al crear, cambiar y trabajar con JSON
 
->[!VIDEO](https://video.tv.adobe.com/v/335300/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3418105/?captions=spa&quality=12&learn=on&enablevpops=1)

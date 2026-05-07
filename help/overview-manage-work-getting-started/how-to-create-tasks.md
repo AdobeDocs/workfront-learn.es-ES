@@ -37,7 +37,7 @@ Este vídeo contiene información sobre:
 * El largo camino para crear una tarea en un proyecto de Workfront
 * Algunos métodos abreviados útiles para crear tareas
 
->[!VIDEO](https://video.tv.adobe.com/v/3419372/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3423162/?captions=spa&quality=12&learn=on&enablevpops=1)
 
 ## Tutoriales recomendados sobre este tema
 

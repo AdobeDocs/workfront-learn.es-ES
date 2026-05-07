@@ -35,7 +35,7 @@ ht-degree: 7%
 El vídeo explica la administración de portafolios, centrándose en cómo los administradores pueden optimizar la selección de proyectos para alinearse con los objetivos de la compañía. Introduce el concepto de portafolios como colecciones de proyectos que compiten por recursos compartidos, presupuestos y horarios. Los administradores pueden utilizar herramientas como Portfolio Optimizer para comparar proyectos en función de criterios como mano de obra, gastos, riesgo, ROI y alineación con los objetivos del portafolio. La preparación de proyectos para la comparación implica la creación de un caso empresarial para cada uno. &#x200B;
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3442807/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3442831/?captions=spa&quality=12&learn=on&enablevpops=1)
 
 ## Principales conclusiones
 

@@ -38,7 +38,7 @@ Este vídeo contiene información sobre:
 * Cómo cambiar el nombre de las opciones de decisión de la revisión
 * Cómo ocultar opciones de decisión de la revisión innecesarias
 
->[!VIDEO](https://video.tv.adobe.com/v/335127/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3444652/?captions=spa&quality=12&learn=on&enablevpops=1)
 
 ## Su turno
 

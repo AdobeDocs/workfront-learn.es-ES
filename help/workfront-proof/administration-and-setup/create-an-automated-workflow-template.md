@@ -40,7 +40,7 @@ Este vídeo contiene información sobre:
 * Establecer un plazo para el proceso de revisión y aprobación
 * Comparta la plantilla de flujo de trabajo automatizado con otros usuarios
 
->[!VIDEO](https://video.tv.adobe.com/v/335130/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3454254/?captions=spa&quality=12&learn=on&enablevpops=1)
 
 ## Opciones de activación de fase adicionales
 

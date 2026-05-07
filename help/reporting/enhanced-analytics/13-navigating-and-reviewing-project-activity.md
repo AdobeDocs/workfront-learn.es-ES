@@ -36,7 +36,7 @@ Este vídeo contiene información sobre:
 
 * Cómo comparar proyectos en función de usuarios que han iniciado sesión, cambios de estado de tareas y tareas completadas
 
->[!VIDEO](https://video.tv.adobe.com/v/335049/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3437439/?captions=spa&quality=12&learn=on&enablevpops=1)
 
 ## Comparar trabajo de proyecto
 

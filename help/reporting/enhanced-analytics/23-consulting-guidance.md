@@ -36,4 +36,4 @@ Este vídeo contiene información sobre:
 
 * Formulación de recomendaciones para que su organización funcione de forma más eficaz
 
->[!VIDEO](https://video.tv.adobe.com/v/335056/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3438832/?captions=spa&quality=12&learn=on&enablevpops=1)

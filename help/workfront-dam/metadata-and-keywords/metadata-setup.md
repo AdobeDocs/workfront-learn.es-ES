@@ -37,7 +37,7 @@ Este vídeo contiene información sobre:
 * Usar campos de metadatos existentes
 * Crear campos de metadatos personalizados
 
->[!VIDEO](https://video.tv.adobe.com/v/335235/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3419515/?captions=spa&quality=12&learn=on&enablevpops=1)
 
 ## Prácticas recomendadas de metadatos
 

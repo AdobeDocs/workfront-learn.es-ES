@@ -39,7 +39,7 @@ Conozca el útil hábito de almacenar ejecuciones incompletas y comprenda el val
 
 Workfront recomienda ver el vídeo tutorial del ejercicio antes de intentar recrear el ejercicio en su propio entorno.
 
->[!VIDEO](https://video.tv.adobe.com/v/335308/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3418178/?captions=spa&quality=12&learn=on&enablevpops=1)
 
 ## ¿Desea obtener más información? Recomendamos lo siguiente:
 

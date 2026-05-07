@@ -39,7 +39,7 @@ Abra un archivo CSV que contenga una lista de entradas de tiempo. Estas entradas
 
 Workfront recomienda ver el vídeo tutorial del ejercicio antes de intentar recrear el ejercicio en su propio entorno.
 
->[!VIDEO](https://video.tv.adobe.com/v/335294/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3417956/?captions=spa&quality=12&learn=on&enablevpops=1)
 
 
 

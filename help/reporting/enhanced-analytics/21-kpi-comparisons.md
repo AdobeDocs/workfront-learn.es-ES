@@ -38,4 +38,4 @@ Este vídeo contiene información sobre:
 * Cambio del intervalo de fechas
 * Comparación de KPI con dos filtros diferentes, uno al lado del otro
 
->[!VIDEO](https://video.tv.adobe.com/v/335054/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3440250/?captions=spa&quality=12&learn=on&enablevpops=1)

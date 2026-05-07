@@ -34,4 +34,4 @@ ht-degree: 75%
 
 Aprenda a crear rápidamente un nuevo informe copiando y editando un informe similar.
 
->[!VIDEO](https://video.tv.adobe.com/v/3427230/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3437048/?captions=spa&quality=12&learn=on&enablevpops=1)

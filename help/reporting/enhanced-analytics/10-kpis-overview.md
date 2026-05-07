@@ -36,7 +36,7 @@ Este vídeo contiene información sobre:
 
 * Cómo obtener valor a partir de los datos de los KPI
 
->[!VIDEO](https://video.tv.adobe.com/v/335046/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3445496/?captions=spa&quality=12&learn=on&enablevpops=1)
 
 ## Comparar los KPI
 

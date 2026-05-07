@@ -38,7 +38,7 @@ Este vídeo contiene información sobre:
 * Qué son las ejecuciones incompletas
 * Cómo gestionar un error que resulta en una ejecución incompleta
 
->[!VIDEO](https://video.tv.adobe.com/v/335307/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3418147/?captions=spa&quality=12&learn=on&enablevpops=1)
 
 ## Errores que dan lugar a ejecuciones incompletas
 

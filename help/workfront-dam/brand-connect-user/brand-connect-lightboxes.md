@@ -38,7 +38,7 @@ Este vídeo contiene información sobre:
 * Ver y administrar lightboxes
 * Colaborar en un lightbox
 
->[!VIDEO](https://video.tv.adobe.com/v/335248/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3454353/?captions=spa&quality=12&learn=on&enablevpops=1)
 
 ## Lightboxes frente a carpetas
 

@@ -40,7 +40,7 @@ Este vídeo contiene información sobre:
 * Cómo puede ayudarle una [!UICONTROL Vista] a ver la información que necesita
 * Cómo establecer la fecha de inicio o finalización
 
->[!VIDEO](https://video.tv.adobe.com/v/335086/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3448570/?captions=spa&quality=12&learn=on&enablevpops=1)
 
 ## Tutoriales recomendados sobre este tema
 

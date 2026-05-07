@@ -34,7 +34,7 @@ ht-degree: 10%
 
 En el vídeo se explican los pasos finales para poner en marcha un proyecto cambiando su estado a &quot;actual&quot;. Antes de hacerlo, enfatiza la revisión de elementos clave del proyecto, incluidos nombres de tareas, duraciones, horas planificadas, predecesoras, fechas de inicio y finalización y asignaciones, para garantizar que todo sea preciso y esté configurado correctamente. Una vez que el proyecto esté activo, el administrador de proyectos recibirá notificaciones basadas en la configuración global y personal, y el proyecto aparecerá en los informes y filtros de los proyectos activos. Esto marca el inicio oficial del trabajo. &#x200B;
 
->[!VIDEO](https://video.tv.adobe.com/v/335093/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3438986/?captions=spa&quality=12&learn=on&enablevpops=1)
 
 ## Principales conclusiones
 
