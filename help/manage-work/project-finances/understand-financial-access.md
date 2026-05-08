@@ -39,7 +39,7 @@ ht-degree: 12%
 En el vídeo se explica la función que desempeña un administrador del sistema en la administración del acceso a la información financiera dentro de Workfront. El administrador controla el acceso a través de los niveles de acceso&#x200B;
 El vídeo enfatiza que los usuarios solo pueden usar su acceso financiero en proyectos que creen o en proyectos donde alguien con acceso financiero lo haya compartido con ellos.
 
->[!VIDEO](https://video.tv.adobe.com/v/3457731/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3484931/?captions=spa&quality=12&learn=on&enablevpops=1)
 
 ## Principales conclusiones
 
