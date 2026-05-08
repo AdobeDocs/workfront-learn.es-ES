@@ -27,10 +27,10 @@ role_v2:
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
 autotag-review: '2026-05-05T18:54:38.081Z'
-source-git-commit: bcf74708778567c20ea0c74e2b9173d7fe83dbcd
+source-git-commit: ee03983e89e8c99e2fbdc12b108f3fb33d6d8e72
 workflow-type: tm+mt
-source-wordcount: 271
-ht-degree: 19%
+source-wordcount: 277
+ht-degree: 18%
 
 ---
 
@@ -55,3 +55,4 @@ El video enfatiza que el sistema no proporciona tasas de cambio actuales, por lo
 * [Configurar los valores predeterminados de ingresos y costes de las tareas](/help/manage-work/project-finances/set-up-task-revenue-and-cost-defaults.md)
 * [Configurar tipos de gastos](/help/manage-work/project-finances/set-up-expense-types.md)
 * [Comprender el acceso financiero](/help/manage-work/project-finances/understand-financial-access.md)
+* [Creación de puestos y tarjetas de tarifas](/help/manage-work/project-finances/create-job-roles-and-rate-cards.md)
