@@ -37,4 +37,4 @@ En este vídeo, aprenderá lo siguiente:
 * Obtenga información general de navegación para [!DNL Scenario Planner]
 * Aprenda cómo [!DNL Scenario Planner] puede ayudarle a alinear las decisiones con los resultados de su empresa.
 
->[!VIDEO](https://video.tv.adobe.com/v/335316/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3414400/?captions=spa&quality=12&learn=on&enablevpops=1)
