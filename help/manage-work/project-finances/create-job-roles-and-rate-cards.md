@@ -35,7 +35,7 @@ ht-degree: 13%
 En este vídeo se explica cómo crear un rol y una tarjeta de tarifa, y cómo adjuntar y quitar una tarjeta de tarifa de un proyecto.
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3486517/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3486521/?captions=spa&quality=12&learn=on&enablevpops=1)
 
 ## Principales conclusiones
 
