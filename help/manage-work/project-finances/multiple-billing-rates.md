@@ -36,7 +36,7 @@ ht-degree: 4%
 En este vídeo se explica cómo administrar y personalizar las tarifas de facturación para los roles de trabajo dentro de un proyecto. &#x200B;Hace hincapié en la flexibilidad a la hora de establecer varias tarifas de facturación para el mismo rol y garantizar ajustes precisos basados en el tiempo. &#x200B;
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3457652/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3489638/?captions=spa&quality=12&learn=on&enablevpops=1)
 
 ## Principales conclusiones
 
