@@ -3,6 +3,7 @@ cloud: Experience Cloud
 solution: Workfront
 product_v2:
   - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+usetq: true
 product: experience cloud
 landing-page-name: workfront
 landing-page-breadcrumb-title: Workfront
@@ -14,7 +15,7 @@ mini-toc-levels: 2
 git-repo: https://github.com/AdobeDocs/workfront-learn.es-ES
 index: true
 auto-video-transcripts: true
-source-git-commit: e2d1cf69c4e2a936c78ab60cdce7c2d29d4f57a4
+source-git-commit: 93c9f3e6134a1a74c450e0ed2f1be1cb3d50d1af
 workflow-type: tm+mt
 source-wordcount: 71
 ht-degree: 92%
