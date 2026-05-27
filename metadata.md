@@ -12,7 +12,7 @@ level: Beginner
 feature-set: Workfront
 type: Tutorial
 mini-toc-levels: 2
-git-repo: https://github.com/AdobeDocs/workfront-learn.en
+git-repo: https://github.com/AdobeDocs/workfront-learn.es-ES
 index: true
 auto-video-transcripts: true
 source-git-commit: 93c9f3e6134a1a74c450e0ed2f1be1cb3d50d1af
