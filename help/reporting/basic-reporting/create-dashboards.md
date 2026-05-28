@@ -9,7 +9,7 @@ level: Beginner
 team: Technical Marketing
 thumbnail: 335157.png
 jira: KT-8862
-last-substantial-update: '2025-05-28T00:00:00.000Z'
+last-substantial-update: '2026-05-28T00:00:00.000Z'
 exl-id: 7adc2aeb-6618-4894-acc3-298e35175854
 doc-type: video
 product_v2:
@@ -23,10 +23,10 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-06T14:20:51.376Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: f6c4afc6e1984ef0af8f80e052766f90de7a8655
 workflow-type: tm+mt
-source-wordcount: 689
-ht-degree: 27%
+source-wordcount: 1140
+ht-degree: 18%
 
 ---
 
@@ -39,11 +39,11 @@ El vídeo proporciona una guía completa para comprender y utilizar los paneles 
 
 ## Principales conclusiones
 
-* **Paneles en Workfront:** Un panel es una colección de informes que permite a los usuarios organizar y mostrar datos relacionados, como proyectos, tareas y problemas, en una vista centralizada. &#x200B;
-* **Creación de paneles:** Los paneles se pueden personalizar seleccionando un diseño, agregando informes, calendarios personalizados o páginas externas y organizándolos para que tengan una visualización óptima. Los usuarios también pueden personalizar qué columnas aparecen en informes en paralelo dentro del panel. &#x200B;
-* **Acceso a los paneles:** Los paneles se encuentran en &quot;Mis paneles&quot;, &quot;Paneles compartidos&quot; o &quot;Todos los paneles&quot; en el área de Paneles. Los paneles que se utilizan con más frecuencia se pueden anclar o agregar a Favoritos para acceder rápidamente a ellos. &#x200B;
-* **Compartir tableros:** Los tableros se pueden compartir con otros usuarios de Workfront, incluidos todos los informes incluidos en el tablero, a través del menú &quot;Acciones de tablero&quot;. &#x200B;
-* **Impresión de paneles:** Los paneles se pueden imprimir directamente desde el menú &quot;Acciones de panel&quot;, lo que facilita el uso compartido de copias físicas de los datos. &#x200B;
+* **Paneles en Workfront:** Un panel es una colección de informes que permite a los usuarios organizar y mostrar datos relacionados, como proyectos, tareas y problemas, en una vista centralizada. palo de golf
+* **Creación de paneles:** Los paneles se pueden personalizar seleccionando un diseño, agregando informes, calendarios personalizados o páginas externas y organizándolos para que tengan una visualización óptima. Los usuarios también pueden personalizar qué columnas aparecen en informes en paralelo dentro del panel. palo de golf
+* **Acceso a los paneles:** Los paneles se encuentran en &quot;Mis paneles&quot;, &quot;Paneles compartidos&quot; o &quot;Todos los paneles&quot; en el área de Paneles. Los paneles que se utilizan con más frecuencia se pueden anclar o agregar a Favoritos para acceder rápidamente a ellos. palo de golf
+* **Compartir tableros:** Los tableros se pueden compartir con otros usuarios de Workfront, incluidos todos los informes incluidos en el tablero, a través del menú &quot;Acciones de tablero&quot;. palo de golf
+* **Impresión de paneles:** Los paneles se pueden imprimir directamente desde el menú &quot;Acciones de panel&quot;, lo que facilita el uso compartido de copias físicas de los datos. palo de golf
 
 
 ## Actividades &quot;Crear tablero&quot;
@@ -90,3 +90,79 @@ Cree este informe haciendo una copia del informe &quot;Notas de búsqueda&quot; 
 1. En el campo **[!UICONTROL Nombre de vínculo rápido]**, escriba &quot;Notas de búsqueda&quot;.
 1. Haga clic en **[!UICONTROL Add]**.
 1. En el menú del panel izquierdo, busque Notas de búsqueda cerca de la parte inferior. Haga clic en los puntos a la izquierda del nombre y arrástrelo hacia arriba a la derecha debajo de Actualizaciones.
+
+### Actividad 2: Tareas abiertas de Mis equipos
+
+Cree un [!UICONTROL panel] con 3 informes de &quot;tareas abiertas&quot;, cada uno filtrado por un equipo diferente asignado a las tareas.
+
+Utilice un informe de &quot;tareas abiertas&quot; existente (filtrado por un equipo) si dispone de uno o cree uno nuevo para este panel. Copie y edite el informe dos veces para dos equipos adicionales y, a continuación, colóquelos en un solo panel denominado **&quot;Tareas abiertas de mis equipos&quot;.**
+
+### Respuesta 2
+
+#### Parte 1: Creación de un informe de &quot;tareas abiertas&quot; filtrado por uno de sus equipos
+
+1. Seleccione **[!UICONTROL Informes]** desde el **[!UICONTROL Menú principal]**.
+1. Haga clic en el menú **[!UICONTROL Nuevo informe]** y seleccione **[!UICONTROL Tarea]**.
+1. Asigne un nombre al informe &quot;Abrir tareas asignadas al equipo de Creative&quot; (o a cualquiera de sus equipos).
+1. En **[!UICONTROL Columnas (Vista)]**, configure las columnas para incluir lo siguiente:
+
+   ![Imagen de la pantalla para crear las columnas del informe de tareas abiertas](assets/create-dashboards-activity-2-1.png)
+
+   * [!UICONTROL Proyecto] > [!UICONTROL Nombre]
+   * [!UICONTROL Tarea] > [!UICONTROL Nombre]
+   * [!UICONTROL Tarea] > [!UICONTROL Asignaciones]
+   * [!UICONTROL Tarea] > [!UICONTROL Duración]
+   * [!UICONTROL Tarea] > [!UICONTROL Horas planificadas]
+   * [!UICONTROL Tarea] > [!UICONTROL Fecha planificada de inicio]
+   * [!UICONTROL Tarea] > [!UICONTROL Fecha planificada de finalización]
+   * [!UICONTROL Tarea] > [!UICONTROL Porcentaje completado]
+
+1. Seleccione la columna **[!UICONTROL Fecha planificada de finalización]** y cambie la clasificación a **Ascendente**.
+
+1. En la ficha **[!UICONTROL Filtros]**, agregue reglas de filtro para incluir:
+
+   ![Imagen de la pantalla para crear los filtros de informe de tareas abiertas](assets/create-dashboards-activity-2-2.png)
+
+   * [!UICONTROL Proyecto] > [!UICONTROL Estado Es Igual A] > [!UICONTROL Igual A] > &quot;Actual&quot;
+   * [!UICONTROL Tarea] > [!UICONTROL Id. de equipo] > [!UICONTROL Igual] > &quot;Creative&quot;
+   * [!UICONTROL Tarea] > [!UICONTROL Porcentaje completado] > [!UICONTROL Menor que] > &quot;100&quot;
+
+1. Haga clic en el botón **[!UICONTROL Guardar+Cerrar]** para guardar y cerrar el informe.
+
+#### Parte 2: Copie el informe que acaba de crear y cree un nuevo informe para su segundo equipo
+
+![Imagen de la pantalla para copiar un informe](assets/create-dashboards-activity-2-3.png)
+
+1. Para ver el informe que acaba de crear, haga clic en **[!UICONTROL Acciones de informe] > [!UICONTROL Copiar]**.
+1. El nuevo informe aparecerá con el nombre **&quot;(Copiar)&quot;** anexado al título.
+1. Haga clic en **[!UICONTROL Acciones de informe] > [!UICONTROL Editar]**. A continuación, cambie el filtro y el título del informe para centrarse en el equipo Orion (o en cualquiera de sus equipos).
+1. Haga clic en la ficha [!UICONTROL Filtros] y cambie la regla de filtro
+   **[!UICONTROL Tarea] > [!UICONTROL Id. de equipo] > [!UICONTROL Igual] > &quot;Creative&quot;** a
+   **[!UICONTROL Tarea] > [!UICONTROL Id. de equipo] > [!UICONTROL Igual] > &quot;Orión&quot;**
+1. En el campo Título del informe, cambie la palabra **[!UICONTROL &quot;Creative&quot;]** a **[!UICONTROL &quot;Orion&quot;]** y elimine la palabra **&quot;(Copiar)&quot;**.
+1. Haga clic en el botón **[!UICONTROL Guardar+Cerrar]** para guardar y cerrar el informe.
+
+#### Parte 3: Vuelva a copiar el informe y cree un nuevo informe para su tercer equipo
+
+1. Para ver el informe que acaba de crear, haga clic de nuevo en **[!UICONTROL Acciones de informe] > [!UICONTROL Copiar]**. Esta vez cambie el nombre del equipo en el título y el filtro a &quot;Marketing digital&quot; (o cualquier otro de sus equipos).
+
+#### Parte 4: Creación de un panel que muestre las tareas abiertas de cada uno de los equipos
+
+1. En el menú principal, haga clic en **[!UICONTROL Paneles]**.
+1. Luego haga clic en **[!UICONTROL Nuevo panel]**.
+
+   ![Imagen de la pantalla para crear un tablero](assets/create-dashboards-activity-2-4.png)
+
+1. Asigne un nombre al tablero **&quot;Tareas abiertas de mis equipos&quot;**.
+1. Empiece a escribir el nombre de sus informes en el campo **[!UICONTROL Buscar por nombre]**.
+1. Como todos los nombres de los informes comienzan con las mismas palabras, es posible que vea que aparecen así:
+
+   ![Una imagen de la pantalla de diseño del tablero](assets/create-dashboards-activity-2-5.png)
+
+1. Arrástrelos al área de diseño y haga clic en Guardar + Cerrar.
+
+   ![Una imagen de la pantalla de diseño del tablero](assets/create-dashboards-activity-2-6.png)
+
+1. Este es el tablero final:
+
+   ![Una imagen de la pantalla de diseño del tablero](assets/create-dashboards-activity-2-7.png)

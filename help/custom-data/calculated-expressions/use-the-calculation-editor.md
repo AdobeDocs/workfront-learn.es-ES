@@ -8,6 +8,7 @@ level: Experienced
 activity: use
 team: Technical Marketing
 thumbnail: 339959.png
+last-substantial-update: '2026-05-27T00:00:00.000Z'
 jira: KT-9506
 exl-id: f569e8a7-f26d-4a11-b602-e51cdfe97350
 doc-type: video
@@ -18,7 +19,7 @@ role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
   - id: f8a45b24-4be7-4f1b-909b-60d06b483a20
-source-git-commit: 36674ed53c8645f556862bb2d99f3bfd6c993c1e
+source-git-commit: f6c4afc6e1984ef0af8f80e052766f90de7a8655
 workflow-type: tm+mt
 source-wordcount: 55
 ht-degree: 100%
