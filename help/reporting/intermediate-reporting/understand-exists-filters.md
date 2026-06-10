@@ -11,11 +11,16 @@ jira: KT-18808
 last-substantial-update: '2025-08-25T00:00:00.000Z'
 doc-type: video
 exl-id: f518a919-0c44-4122-873a-e2f10e3162d5
-product_v2: id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
-feature_v2: id: c6dd2ac5-f5bd-4e59-9101-25b156918623
-subfeature_v2: id: cec4c78b-dd2b-46ec-b824-6ca30f0eb7b2
-role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
-level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+product_v2:
+  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2:
+  - id: c6dd2ac5-f5bd-4e59-9101-25b156918623
+subfeature_v2:
+  - id: cec4c78b-dd2b-46ec-b824-6ca30f0eb7b2
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
 autotag-review: '2026-05-06T02:08:32.688Z'
 source-git-commit: 082aa48e99d6c772c973f9bbbc90b0544103e0d5
 workflow-type: tm+mt
