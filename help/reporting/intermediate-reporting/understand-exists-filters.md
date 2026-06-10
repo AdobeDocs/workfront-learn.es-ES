@@ -7,7 +7,7 @@ feature: Reports and Dashboards
 type: Tutorial
 role: User
 level: Intermediate
-jira: KT-1880
+jira: KT-18808
 last-substantial-update: '2025-08-25T00:00:00.000Z'
 doc-type: video
 exl-id: f518a919-0c44-4122-873a-e2f10e3162d5
@@ -22,7 +22,7 @@ role_v2:
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
 autotag-review: '2026-05-06T02:08:32.688Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: 082aa48e99d6c772c973f9bbbc90b0544103e0d5
 workflow-type: tm+mt
 source-wordcount: 706
 ht-degree: 4%
