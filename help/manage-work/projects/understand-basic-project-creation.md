@@ -36,7 +36,7 @@ ht-degree: 27%
 En este vídeo se explica cómo crear y administrar un proyecto desde cero. Comienza creando un nuevo proyecto, cambiándole el nombre y estableciendo una meta con una descripción, una fecha de inicio y una fecha de finalización objetivo. Los proyectos se pueden desglosar en tareas, que son trabajos planificados con duraciones y asignaciones estimadas. Las tareas se pueden secuenciar utilizando predecesoras y el estado del proyecto se puede establecer en &quot;Actual&quot; para notificar al equipo e incluirlo en los informes. palo de golf
 
 
->[!VIDEO](https://video.tv.adobe.com/v/335082/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3435899/?captions=spa&quality=12&learn=on&enablevpops=1)
 
 ## Principales conclusiones
 
