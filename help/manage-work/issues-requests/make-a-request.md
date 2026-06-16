@@ -24,10 +24,10 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-06T14:54:50.397Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: f0f541bf3fd6db69e6d813cf81456a5df6848d49
 workflow-type: tm+mt
-source-wordcount: 257
-ht-degree: 12%
+source-wordcount: 253
+ht-degree: 2%
 
 ---
 
@@ -39,16 +39,16 @@ El vídeo proporciona una guía detallada sobre cómo realizar y administrar sol
 
 ## Principales conclusiones
 
-* **Creación de solicitudes optimizada:** Los usuarios pueden crear solicitudes fácilmente seleccionando &quot;Solicitudes&quot; en el menú principal, eligiendo un tipo de solicitud, rellenando los campos obligatorios y adjuntando los documentos pertinentes. &#x200B;
+* **Creación de solicitudes optimizada:** Los usuarios pueden crear solicitudes fácilmente seleccionando &quot;Solicitudes&quot; en el menú principal, eligiendo un tipo de solicitud, rellenando los campos obligatorios y adjuntando los documentos pertinentes. palo de golf
 * **Flujos de trabajo personalizables:** las colas y los formularios de solicitud se adaptan a los flujos de trabajo de la organización, lo que permite a los usuarios especificar detalles (por ejemplo, en la tienda, al aire libre, medios sociales) y prioridad.
-* **Función de guardado automático de borrador:** los borradores se guardan automáticamente a medida que los usuarios rellenan el campo de asunto, para garantizar que no se pierdan datos si se pausan o se alejan. Se puede acceder a los borradores más tarde para su finalización o descartarlos si no es necesario. &#x200B;
-* **Solicitudes de seguimiento y filtrado:** Las solicitudes enviadas se pueden rastrear en la página &quot;Enviadas&quot;, con filtros disponibles para ver las solicitudes abiertas, no resueltas o todas basadas en los permisos de usuario. &#x200B;
+* **Función de guardado automático de borrador:** los borradores se guardan automáticamente a medida que los usuarios rellenan el campo de asunto, para garantizar que no se pierdan datos si se pausan o se alejan. Se puede acceder a los borradores más tarde para su finalización o descartarlos si no es necesario. palo de golf
+* **Solicitudes de seguimiento y filtrado:** Las solicitudes enviadas se pueden rastrear en la página &quot;Enviadas&quot;, con filtros disponibles para ver las solicitudes abiertas, no resueltas o todas basadas en los permisos de usuario. palo de golf
 * **Copiar y reutilizar solicitudes:** Los usuarios pueden copiar solicitudes existentes para crear otras nuevas, lo que facilita el envío de solicitudes similares sin comenzar desde cero.
 
 ## Tutoriales recomendados sobre este tema
 
-* [Explicación de las colas de solicitud](/help/manage-work/request-queues/understand-request-queues.md)
-* [Búsqueda y administración de solicitudes](/help/manage-work/issues-requests/find-requests.md)
-* [Actualizar solicitud](/help/manage-work/issues-requests/update-a-request.md)
-* [Convertir un problema/solicitud en un proyecto](/help/manage-work/issues-requests/create-a-project-from-a-request.md)
-* [Convertir un problema/solicitud en una tarea](/help/manage-work/issues-requests/convert-issues-to-other-work-items.md)
+* [Explorar colas de solicitudes en Workfront](/help/manage-work/request-queues/understand-request-queues.md)
+* [Buscar y administrar solicitudes de forma eficaz](/help/manage-work/issues-requests/find-requests.md)
+* [Actualización de una solicitud en Workfront](/help/manage-work/issues-requests/update-a-request.md)
+* [Conversión de un problema o una solicitud en un proyecto](/help/manage-work/issues-requests/create-a-project-from-a-request.md)
+* [Conversión de un problema o una solicitud en una tarea](/help/manage-work/issues-requests/convert-issues-to-other-work-items.md)

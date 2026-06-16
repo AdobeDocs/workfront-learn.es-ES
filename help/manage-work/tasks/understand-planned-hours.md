@@ -24,9 +24,9 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-06T14:38:33.224Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: f0f541bf3fd6db69e6d813cf81456a5df6848d49
 workflow-type: tm+mt
-source-wordcount: 239
+source-wordcount: 201
 ht-degree: 23%
 
 ---
@@ -43,17 +43,17 @@ También ayudan a rastrear el tiempo empleado en las tareas, mejorar las estimac
 
 ## Principales conclusiones
 
-* **Importancia de horas planificadas:** Las horas planificadas ayudan a estimar las duraciones de las tareas, administrar la asignación de recursos y rastrear el tiempo empleado, mejorando la planificación futura del proyecto. &#x200B;
-* **Consejos de estimación precisa:** Divida las tareas largas en subtareas más pequeñas, realice un seguimiento eficaz del tiempo y documente los cambios o problemas para refinar las estimaciones de horas planificadas. &#x200B;
-* **Administración de recursos:** Workfront usa las horas planificadas para identificar la asignación excesiva o insuficiente de recursos, lo que garantiza asignaciones de tareas eficientes. &#x200B;
-* **Referencia histórica:** Los proyectos completados deben conservarse como referencias para la planificación futura, especialmente para las tareas asignadas a nuevos trabajadores. &#x200B;
-* **Facilidad de uso:** Las horas planificadas se pueden agregar o editar mediante la edición en línea, y las horas de la tarea principal se calculan automáticamente sumando subtareas. Se recomienda incluir las horas planificadas en las plantillas de proyecto. &#x200B;
+* **Importancia de horas planificadas:** Las horas planificadas ayudan a estimar las duraciones de las tareas, administrar la asignación de recursos y rastrear el tiempo empleado, mejorando la planificación futura del proyecto. palo de golf
+* **Consejos de estimación precisa:** Divida las tareas largas en subtareas más pequeñas, realice un seguimiento eficaz del tiempo y documente los cambios o problemas para refinar las estimaciones de horas planificadas. palo de golf
+* **Administración de recursos:** Workfront usa las horas planificadas para identificar la asignación excesiva o insuficiente de recursos, lo que garantiza asignaciones de tareas eficientes. palo de golf
+* **Referencia histórica:** Los proyectos completados deben conservarse como referencias para la planificación futura, especialmente para las tareas asignadas a nuevos trabajadores. palo de golf
+* **Facilidad de uso:** Las horas planificadas se pueden agregar o editar mediante la edición en línea, y las horas de la tarea principal se calculan automáticamente sumando subtareas. Se recomienda incluir las horas planificadas en las plantillas de proyecto. palo de golf
 
 
 ## Tutoriales y artículos recomendados sobre este tema
 
 * [Información sobre las duraciones de las tareas](/help/manage-work/tasks/understand-task-durations.md)
-* [Aprenda a secuenciar tareas](/help/manage-work/tasks/learn-to-sequence-tasks.md)
-* [Comprender el [!UICONTROL esfuerzo laboral]](/help/manage-work/tasks/understand-work-effort.md)
+* [Secuenciar tareas de forma eficaz en Workfront](/help/manage-work/tasks/learn-to-sequence-tasks.md)
+* [Calcular horas de tarea con esfuerzo de trabajo](/help/manage-work/tasks/understand-work-effort.md)
 * [Información general de plantillas de horas](https://experienceleague.adobe.com/es/docs/workfront/using/timesheets/details/timesheets-overview)
 * [Hora de registro](https://experienceleague.adobe.com/es/docs/workfront/using/timesheets/create-and-manage-timesheets-in-adobe-workfront/log-time)

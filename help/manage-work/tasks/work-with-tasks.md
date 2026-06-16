@@ -23,10 +23,10 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-06T14:36:54.897Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: f0f541bf3fd6db69e6d813cf81456a5df6848d49
 workflow-type: tm+mt
-source-wordcount: 219
-ht-degree: 9%
+source-wordcount: 220
+ht-degree: 7%
 
 ---
 
@@ -38,14 +38,14 @@ Este vídeo proporciona una guía detallada sobre la administración de tareas e
 
 ## Principales conclusiones
 
-* **Edición en línea para cambios rápidos:** Haga doble clic en un campo para editar directamente la información de la tarea y utilice el tabulador para desplazarse entre los campos y obtener actualizaciones más rápidas. &#x200B;
-* **Eliminando tareas con copia de seguridad de la papelera de reciclaje:** Las tareas eliminadas se mueven a la papelera de reciclaje durante 30 días, a las que solo pueden acceder los administradores del sistema, lo que garantiza la recuperabilidad si es necesario. &#x200B;
-* **Agregar tareas con estructura principal-secundaria:** Use &quot;Insertar arriba&quot; o &quot;Insertar abajo&quot; para agregar tareas en ubicaciones específicas, heredando la estructura principal-secundaria de la tarea seleccionada. &#x200B;
-* **Duplicar tareas para mejorar la eficiencia:** Duplique tareas o conjuntos de tareas para ahorrar tiempo, con todos los detalles de las tareas copiados para facilitar la modificación y el cambio de posición. &#x200B;
-* **Reorganización de tareas con sangría, anulación de sangría y arrastrar y soltar:** Ajuste la jerarquía de tareas o mueva tareas dentro del proyecto con herramientas intuitivas como sangría, anulación de sangría y funcionalidad de arrastrar y soltar. &#x200B;
+* **Edición en línea para cambios rápidos:** Haga doble clic en un campo para editar directamente la información de la tarea y utilice el tabulador para desplazarse entre los campos y obtener actualizaciones más rápidas. palo de golf
+* **Eliminando tareas con copia de seguridad de la papelera de reciclaje:** Las tareas eliminadas se mueven a la papelera de reciclaje durante 30 días, a las que solo pueden acceder los administradores del sistema, lo que garantiza la recuperabilidad si es necesario. palo de golf
+* **Agregar tareas con estructura principal-secundaria:** Use &quot;Insertar arriba&quot; o &quot;Insertar abajo&quot; para agregar tareas en ubicaciones específicas, heredando la estructura principal-secundaria de la tarea seleccionada. palo de golf
+* **Duplicar tareas para mejorar la eficiencia:** Duplique tareas o conjuntos de tareas para ahorrar tiempo, con todos los detalles de las tareas copiados para facilitar la modificación y el cambio de posición. palo de golf
+* **Reorganización de tareas con sangría, anulación de sangría y arrastrar y soltar:** Ajuste la jerarquía de tareas o mueva tareas dentro del proyecto con herramientas intuitivas como sangría, anulación de sangría y funcionalidad de arrastrar y soltar. palo de golf
 
 ## Tutoriales recomendados sobre este tema
 
-* [Comprender las tareas principales y secundarias](/help/manage-work/tasks/understand-parent-child-tasks.md)
+* [Explicación de las relaciones entre tareas principales y secundarias](/help/manage-work/tasks/understand-parent-child-tasks.md)
 * [Asignación de tareas del plan del proyecto](/help/manage-work/tasks/assign-tasks-from-the-project-plan.md)
 * [Información sobre las duraciones de las tareas](/help/manage-work/tasks/understand-task-durations.md)

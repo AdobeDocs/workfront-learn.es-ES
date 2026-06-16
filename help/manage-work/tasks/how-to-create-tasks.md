@@ -21,10 +21,10 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-06T14:39:08.728Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: f0f541bf3fd6db69e6d813cf81456a5df6848d49
 workflow-type: tm+mt
-source-wordcount: 201
-ht-degree: 9%
+source-wordcount: 204
+ht-degree: 6%
 
 ---
 
@@ -38,14 +38,14 @@ El vídeo proporciona un tutorial sobre la creación de tareas en un proyecto de
 ## Principales conclusiones
 
 * **Métodos de creación de tareas:** Utilice el botón &quot;Nueva tarea&quot; para la creación detallada de tareas o el botón &quot;Agregar más tareas&quot; para la edición rápida en línea.
-* **Campos obligatorios:** &#x200B;Solo el nombre de la tarea es obligatorio; otros campos como la descripción, la duración y las asignaciones son opcionales y se pueden agregar más adelante. &#x200B;
+* **Campos obligatorios:** &#x200B;Solo el nombre de la tarea es obligatorio; otros campos como la descripción, la duración y las asignaciones son opcionales y se pueden agregar más adelante. palo de golf
 * **Tareas de cambio de posición:** &#x200B;Las tareas se agregan al final de la lista, pero se pueden cambiar de posición arrastrando o utilizando la opción &quot;Anular sangría&quot; para ajustar la jerarquía.
-* **Vistas personalizadas:** Se pueden seleccionar distintas vistas para incluir campos adicionales, como descripciones, al agregar tareas. &#x200B;
+* **Vistas personalizadas:** Se pueden seleccionar distintas vistas para incluir campos adicionales, como descripciones, al agregar tareas. palo de golf
 * **Inserción de tareas en posiciones específicas:** &#x200B;Haga clic con el botón secundario entre las tareas existentes y seleccione &quot;Insertar tarea a continuación&quot; para colocar una nueva tarea en una ubicación específica.
 
 
 ## Tutoriales recomendados sobre este tema
 
-* [Comprender las tareas principales y secundarias](/help/manage-work/tasks/understand-parent-child-tasks.md)
-* [Trabajo con tareas](/help/manage-work/tasks/work-with-tasks.md)
+* [Explicación de las relaciones entre tareas principales y secundarias](/help/manage-work/tasks/understand-parent-child-tasks.md)
+* [Administrar tareas de forma eficaz en Workfront](/help/manage-work/tasks/work-with-tasks.md)
 * [Asignación de tareas del plan del proyecto](/help/manage-work/tasks/assign-tasks-from-the-project-plan.md)

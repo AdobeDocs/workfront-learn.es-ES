@@ -24,10 +24,10 @@ role_v2:
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
 autotag-review: '2026-05-05T19:23:55.145Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: f0f541bf3fd6db69e6d813cf81456a5df6848d49
 workflow-type: tm+mt
-source-wordcount: 158
-ht-degree: 100%
+source-wordcount: 159
+ht-degree: 96%
 
 ---
 
@@ -36,7 +36,7 @@ ht-degree: 100%
 
 >[!PREREQUISITES]
 >
->* [Aprenda a secuenciar tareas](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/tasks/learn-to-sequence-tasks.html?lang=es)
+>* [Secuencia de tareas efectiva en Workfront](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/tasks/learn-to-sequence-tasks.html?lang=es)
 >* O ya se siente cómodo utilizando tareas predecesoras en sus proyectos
 
 

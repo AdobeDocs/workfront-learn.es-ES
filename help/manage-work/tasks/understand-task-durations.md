@@ -24,10 +24,10 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-06T14:37:12.123Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: f0f541bf3fd6db69e6d813cf81456a5df6848d49
 workflow-type: tm+mt
-source-wordcount: 216
-ht-degree: 10%
+source-wordcount: 188
+ht-degree: 8%
 
 ---
 
@@ -42,16 +42,16 @@ Workfront recomienda utilizar duraciones y predecesoras para establecer escalas 
 
 ## Principales conclusiones
 
-* **Definición de la duración de la tarea:** La duración de la tarea es la diferencia entre la fecha planificada de inicio y la fecha planificada de finalización de una tarea, que representa la ventana de tiempo para completar el trabajo. &#x200B;
-* **Impacto en la escala de tiempo del proyecto:** Las duraciones de las tareas afectan directamente a la duración general del proyecto y a la fecha planificada de finalización, por lo que son cruciales para una planificación precisa del proyecto. &#x200B;
-* **Uso de predecesoras:** Las fechas planificadas de inicio y finalización se calculan usando las duraciones y predecesoras de las tareas, lo que garantiza una cronología dinámica y flexible. &#x200B;
-* **Evitar restricciones manuales:** Al establecer manualmente las fechas de inicio y finalización, se crean restricciones de tareas, lo que puede impedir los ajustes automáticos cuando cambian las duraciones o las predecesoras. &#x200B;
-* **Administración de recursos:** Las duraciones son esenciales para las herramientas de programación y administración de recursos de Workfront, lo que permite realizar estimaciones de recursos precisas y planificar la disponibilidad del equipo. &#x200B;
+* **Definición de la duración de la tarea:** La duración de la tarea es la diferencia entre la fecha planificada de inicio y la fecha planificada de finalización de una tarea, que representa la ventana de tiempo para completar el trabajo. palo de golf
+* **Impacto en la escala de tiempo del proyecto:** Las duraciones de las tareas afectan directamente a la duración general del proyecto y a la fecha planificada de finalización, por lo que son cruciales para una planificación precisa del proyecto. palo de golf
+* **Uso de predecesoras:** Las fechas planificadas de inicio y finalización se calculan usando las duraciones y predecesoras de las tareas, lo que garantiza una cronología dinámica y flexible. palo de golf
+* **Evitar restricciones manuales:** Al establecer manualmente las fechas de inicio y finalización, se crean restricciones de tareas, lo que puede impedir los ajustes automáticos cuando cambian las duraciones o las predecesoras. palo de golf
+* **Administración de recursos:** Las duraciones son esenciales para las herramientas de programación y administración de recursos de Workfront, lo que permite realizar estimaciones de recursos precisas y planificar la disponibilidad del equipo. palo de golf
 
 
 ## Tutoriales recomendados sobre este tema
 
-* [Aprenda a secuenciar tareas](/help/manage-work/tasks/learn-to-sequence-tasks.md)
+* [Secuenciar tareas de forma eficaz en Workfront](/help/manage-work/tasks/learn-to-sequence-tasks.md)
 * [Comprender las horas planificadas](/help/manage-work/tasks/understand-planned-hours.md)
-* [Comprender el [!UICONTROL esfuerzo laboral]](/help/manage-work/tasks/understand-work-effort.md)
+* [Calcular horas de tarea con esfuerzo de trabajo](/help/manage-work/tasks/understand-work-effort.md)
 

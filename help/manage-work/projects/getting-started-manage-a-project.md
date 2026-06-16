@@ -24,16 +24,16 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-06T14:47:01.284Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: f0f541bf3fd6db69e6d813cf81456a5df6848d49
 workflow-type: tm+mt
-source-wordcount: 177
-ht-degree: 12%
+source-wordcount: 183
+ht-degree: 8%
 
 ---
 
 # Administrar un proyecto con estado actual
 
-El vídeo proporciona información general sobre la administración de un proyecto después de que su estado se cambie a &quot;Actual&quot;. &#x200B;
+El vídeo proporciona información general sobre la administración de un proyecto después de que su estado se cambie a &quot;Actual&quot;.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3445170/?captions=spa&quality=12&learn=on&enablevpops=1)
 
@@ -43,13 +43,13 @@ El vídeo proporciona información general sobre la administración de un proyec
 * **Dependencias entre proyectos:** las dependencias se pueden administrar y ver en la vista Gantt del proyecto, con opciones para explorar en profundidad y obtener información detallada.
 * **Administración de tareas y aprobaciones:** Use las fichas de estado y aprobaciones para realizar un seguimiento de la finalización de tareas, las aprobaciones pendientes y comunicarse mediante comentarios.
 * **Comunicación con el equipo:** Envíe fácilmente actualizaciones a todos los integrantes del equipo mediante la característica &quot;Actualizar todo&quot; y mantenga un registro de las discusiones en el proyecto.
-* **Actualizaciones frecuentes:** Los trabajadores deben actualizar los estados de las tareas diariamente para garantizar una administración sin problemas del proyecto y un seguimiento preciso. &#x200B;
+* **Actualizaciones frecuentes:** Los trabajadores deben actualizar los estados de las tareas diariamente para garantizar una administración sin problemas del proyecto y un seguimiento preciso. palo de golf
 
 
 ## Tutoriales recomendados sobre este tema
 
 * [Lanzamiento de un proyecto](/help/manage-work/projects/take-a-project-live.md)
-* [Encontrar proyectos](/help/manage-work/projects/find-projects.md)
-* [Compartir un proyecto](/help/manage-work/projects/share-a-project.md)
+* [Buscar proyectos de forma eficaz](/help/manage-work/projects/find-projects.md)
+* [Uso compartido efectivo de proyectos en Workfront](/help/manage-work/projects/share-a-project.md)
 * [Información sobre el equipo del proyecto](/help/manage-work/projects/understand-the-project-team.md)
-* [Comprender la comunicación del proyecto](/help/manage-work/projects/understand-project-communication.md)
+* [Mejore el éxito del proyecto mediante una comunicación eficaz](/help/manage-work/projects/understand-project-communication.md)

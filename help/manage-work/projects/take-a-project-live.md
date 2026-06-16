@@ -23,31 +23,31 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-06T14:45:46.743Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: f0f541bf3fd6db69e6d813cf81456a5df6848d49
 workflow-type: tm+mt
-source-wordcount: 231
-ht-degree: 10%
+source-wordcount: 168
+ht-degree: 8%
 
 ---
 
 # Lanzamiento de un proyecto
 
-En el vídeo se explican los pasos finales para poner en marcha un proyecto cambiando su estado a &quot;actual&quot;. Antes de hacerlo, enfatiza la revisión de elementos clave del proyecto, incluidos nombres de tareas, duraciones, horas planificadas, predecesoras, fechas de inicio y finalización y asignaciones, para garantizar que todo sea preciso y esté configurado correctamente. Una vez que el proyecto esté activo, el administrador de proyectos recibirá notificaciones basadas en la configuración global y personal, y el proyecto aparecerá en los informes y filtros de los proyectos activos. Esto marca el inicio oficial del trabajo. &#x200B;
+En el vídeo se explican los pasos finales para poner en marcha un proyecto cambiando su estado a &quot;actual&quot;. Antes de hacerlo, se destaca la revisión de elementos clave del proyecto, como nombres de tareas, duraciones, horas planificadas, predecesoras, fechas de inicio y finalización y asignaciones, para garantizar que todo sea preciso y esté configurado correctamente. Una vez que el proyecto esté activo, el administrador de proyectos recibirá notificaciones basadas en la configuración global y personal, y el proyecto aparecerá en los informes y filtros de los proyectos activos. Esto marca el inicio oficial del trabajo. palo de golf
 
 >[!VIDEO](https://video.tv.adobe.com/v/3438986/?captions=spa&quality=12&learn=on&enablevpops=1)
 
 ## Principales conclusiones
 
-* **Revisar detalles del proyecto:** Asegúrese de que los nombres de las tareas, las duraciones, las horas planificadas, las predecesoras, las fechas de inicio y finalización y las asignaciones sean precisos y estén correctamente establecidos. &#x200B;
-* **Cambiar estado del proyecto:** Actualice el estado del proyecto a &quot;actual&quot; en el encabezado del proyecto o detalles para activarlo. &#x200B;
-* **Recibir notificaciones:** Como jefe de proyecto, empezará a recibir notificaciones basadas en la configuración personal y global una vez que el proyecto esté activo. &#x200B;
-* **Seguimiento de proyectos activos:** El proyecto aparecerá en los informes y filtros para proyectos activos, actuales o en curso, lo que facilita su supervisión. &#x200B;
-* **Comenzar trabajo:** Al publicar el proyecto, se inicia oficialmente la fase de trabajo y ejecución. &#x200B;
+* **Revisar detalles del proyecto:** Asegúrese de que los nombres de las tareas, las duraciones, las horas planificadas, las predecesoras, las fechas de inicio y finalización y las asignaciones sean precisos y estén correctamente establecidos. palo de golf
+* **Cambiar estado del proyecto:** Actualice el estado del proyecto a &quot;actual&quot; en el encabezado del proyecto o detalles para activarlo. palo de golf
+* **Recibir notificaciones:** Como jefe de proyecto, empezará a recibir notificaciones basadas en la configuración personal y global una vez que el proyecto esté activo. palo de golf
+* **Seguimiento de proyectos activos:** El proyecto aparecerá en los informes y filtros para proyectos activos, actuales o en curso, lo que facilita su supervisión. palo de golf
+* **Comenzar trabajo:** Al publicar el proyecto, se inicia oficialmente la fase de trabajo y ejecución. palo de golf
 
 
 
 ## Tutoriales recomendados sobre este tema
 
-* [Introducción a la administración de un proyecto](/help/manage-work/projects/getting-started-manage-a-project.md)
-* [Encontrar proyectos](/help/manage-work/projects/find-projects.md)
-* [Compartir un proyecto](/help/manage-work/projects/share-a-project.md)
+* [Administrar un proyecto con estado actual](/help/manage-work/projects/getting-started-manage-a-project.md)
+* [Buscar proyectos de forma eficaz](/help/manage-work/projects/find-projects.md)
+* [Uso compartido efectivo de proyectos en Workfront](/help/manage-work/projects/share-a-project.md)

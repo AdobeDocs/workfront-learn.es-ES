@@ -23,10 +23,10 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-06T14:44:38.813Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: f0f541bf3fd6db69e6d813cf81456a5df6848d49
 workflow-type: tm+mt
-source-wordcount: 239
-ht-degree: 14%
+source-wordcount: 226
+ht-degree: 9%
 
 ---
 
@@ -34,22 +34,22 @@ ht-degree: 14%
 
 En el vídeo se explica cómo realizar un seguimiento del progreso general del proyecto mediante varios indicadores en Workfront, como Porcentaje completado, Fechas proyectadas, Condición y estado de progreso, Problemas pendientes y la columna Actualización de condición.
 
-El vídeo destaca la importancia de las actualizaciones regulares por parte de los miembros del equipo y de la administración proactiva de problemas para garantizar un seguimiento preciso y la finalización oportuna del proyecto. &#x200B;
+El vídeo destaca la importancia de las actualizaciones regulares por parte de los miembros del equipo y de la administración proactiva de problemas para garantizar un seguimiento preciso y la finalización oportuna del proyecto. palo de golf
 
 >[!VIDEO](https://video.tv.adobe.com/v/3447413/?captions=spa&quality=12&learn=on&enablevpops=1)
 
 ## Principales conclusiones
 
-* **Cálculo de porcentaje completado:** El progreso general del proyecto se calcula en función de los valores de porcentaje completado de tareas individuales, ponderados por su duración o las horas planificadas. &#x200B;
-* **Fechas planificadas vs. proyectadas:** Workfront calcula las fechas de inicio/finalización planificadas y proyectadas en función de las duraciones de las tareas y sus predecesoras. Las discrepancias entre estas fechas indican posibles retrasos. &#x200B;
-* **Estado de condición del proyecto:** El campo de condición (por ejemplo, En destino, En riesgo, En problemas) refleja el estado del proyecto y se puede establecer de forma manual o automática mediante el modo de estado de progreso. &#x200B;
-* **Administración de problemas pendientes:** Los problemas abiertos indican posibles riesgos. Es esencial revisarlas y convertirlas en tareas con prontitud para mantener los plazos de los proyectos. &#x200B;
-* **Columna de actualización de condición:** Las actualizaciones semanales del jefe de proyecto en la columna de actualización de condición proporcionan un resumen claro del progreso y ayudan a realizar un seguimiento de los últimos desarrollos. &#x200B;
+* **Cálculo de porcentaje completado:** El progreso general del proyecto se calcula en función de los valores de porcentaje completado de tareas individuales, ponderados por su duración o las horas planificadas. palo de golf
+* **Fechas planificadas vs. proyectadas:** Workfront calcula las fechas de inicio/finalización planificadas y proyectadas en función de las duraciones de las tareas y sus predecesoras. Las discrepancias entre estas fechas indican posibles retrasos. palo de golf
+* **Estado de condición del proyecto:** El campo de condición (por ejemplo, En destino, En riesgo, En problemas) refleja el estado del proyecto y se puede establecer de forma manual o automática mediante el modo de estado de progreso. palo de golf
+* **Administración de problemas pendientes:** Los problemas abiertos indican posibles riesgos. Es esencial revisarlas y convertirlas en tareas con prontitud para mantener los plazos de los proyectos. palo de golf
+* **Columna de actualización de condición:** Las actualizaciones semanales del jefe de proyecto en la columna de actualización de condición proporcionan un resumen claro del progreso y ayudan a realizar un seguimiento de los últimos desarrollos. palo de golf
 
 
 ## Tutoriales recomendados sobre este tema
 
-* [Introducción a la administración de un proyecto](/help/manage-work/projects/getting-started-manage-a-project.md)
+* [Administrar un proyecto con estado actual](/help/manage-work/projects/getting-started-manage-a-project.md)
 * [Seguimiento del progreso del trabajo con las métricas del proyecto](/help/manage-work/projects/track-work-progress-with-project-metrics.md)
-* [Comprender la vista [!UICONTROL Gantt]](/help/manage-work/projects/understand-the-gantt-view.md)
-* [Comprender la vista [!UICONTROL Tablero]](/help/manage-work/projects/understand-the-board-view.md)
+* [Explorar la vista Gantt para la administración de proyectos](/help/manage-work/projects/understand-the-gantt-view.md)
+* [Explorar la vista del tablero para administrar tareas](/help/manage-work/projects/understand-the-board-view.md)

@@ -25,30 +25,30 @@ role_v2:
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
 autotag-review: '2026-05-06T14:41:42.290Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: f0f541bf3fd6db69e6d813cf81456a5df6848d49
 workflow-type: tm+mt
-source-wordcount: 241
-ht-degree: 8%
+source-wordcount: 192
+ht-degree: 3%
 
 ---
 
 # Crear una cola de solicitudes en Workfront
 
-El vídeo proporciona una guía paso a paso sobre cómo crear una cola de solicitudes en Workfront. El vídeo concluye mostrando cómo enviar una solicitud utilizando la cola recién creada, mostrando el proceso de introducir detalles y verificar el envío en la pestaña &quot;solicitudes enviadas&quot;. &#x200B;
+El vídeo proporciona una guía paso a paso sobre cómo crear una cola de solicitudes en Workfront. El vídeo concluye mostrando cómo enviar una solicitud utilizando la cola recién creada, mostrando el proceso de introducir detalles y verificar el envío en la pestaña &quot;solicitudes enviadas&quot;. palo de golf
 
 >[!VIDEO](https://video.tv.adobe.com/v/335221/?quality=12&learn=on&enablevpops=1)
 
 ## Principales conclusiones
 
-* **Crear una cola de solicitudes:** Comience creando un nuevo proyecto y asignándole un nombre, que más adelante servirá como cola de solicitudes. Asegúrese de marcar la casilla &quot;publicar como cola de solicitudes de ayuda&quot; para designarla oficialmente como cola. &#x200B;
-* **Permisos de acceso:** Defina quién puede enviar solicitudes a la cola eligiendo entre cuatro opciones: cualquiera, visores de proyectos, miembros de la compañía o miembros del grupo. &#x200B;
-* **Tipos de solicitud:** Personalice la cola para incluir tipos específicos de solicitudes, como problemas, informes de errores, pedidos de cambio o solicitudes generales. La opción predeterminada es &quot;problemas&quot;. &#x200B;
-* **Campos personalizables:** Establezca detalles adicionales como tiempo de respuesta predeterminado, permisos y otras características de la cola para adaptar su funcionalidad. &#x200B;
+* **Crear una cola de solicitudes:** Comience creando un nuevo proyecto y asignándole un nombre, que más adelante servirá como cola de solicitudes. Asegúrese de marcar la casilla &quot;publicar como cola de solicitudes de ayuda&quot; para designarla oficialmente como cola. palo de golf
+* **Permisos de acceso:** Defina quién puede enviar solicitudes a la cola eligiendo entre cuatro opciones: cualquiera, visores de proyectos, miembros de la compañía o miembros del grupo. palo de golf
+* **Tipos de solicitud:** Personalice la cola para incluir tipos específicos de solicitudes, como problemas, informes de errores, pedidos de cambio o solicitudes generales. La opción predeterminada es &quot;problemas&quot;.
+* **Campos personalizables:** Establezca detalles adicionales como tiempo de respuesta predeterminado, permisos y otras características de la cola para adaptar su funcionalidad. palo de golf
 * **Activar la cola:** Guarde la configuración y establezca el estado del proyecto en &quot;actual&quot; para activar la cola. Pruebe su funcionalidad enviando una solicitud y verificándola en la pestaña &quot;solicitudes enviadas&quot;.
 
 ## Tutoriales recomendados sobre este tema
 
-* [Explicación de las colas de solicitud](/help/manage-work/request-queues/understand-request-queues.md)
-* [Explicación de la configuración de una solicitud de flujo](/help/manage-work/request-queues/understand-settings-for-a-flow-request.md)
-* [Crear un flujo de solicitud](/help/manage-work/request-queues/create-a-request-flow.md)
+* [Explorar colas de solicitudes en Workfront](/help/manage-work/request-queues/understand-request-queues.md)
+* [Organizar la configuración del flujo de solicitudes](/help/manage-work/request-queues/understand-settings-for-a-flow-request.md)
+* [Creación de un flujo de solicitud en Workfront](/help/manage-work/request-queues/create-a-request-flow.md)
 

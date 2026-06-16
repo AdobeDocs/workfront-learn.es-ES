@@ -24,10 +24,10 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-06T15:01:02.349Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: f0f541bf3fd6db69e6d813cf81456a5df6848d49
 workflow-type: tm+mt
-source-wordcount: 81
-ht-degree: 87%
+source-wordcount: 88
+ht-degree: 70%
 
 ---
 
@@ -46,6 +46,6 @@ Este vídeo contiene información sobre:
 
 * [Carga una prueba con un flujo de trabajo básico](/help/workfront-proof/upload-proofs/upload-a-proof-with-a-basic-workflow.md)
 * [Cambiar el estado del proyecto a completo](/help/manage-work/projects/change-the-project-status.md)
-* [Aprobaciones completas](/help/manage-work/close-a-project/complete-approvals.md)
-* [Registro de las lecciones aprendidas](/help/manage-work/close-a-project/lessons-learned-from-closing-a-project.md)
-* [Horas de registro y revisión](/help/manage-work/close-a-project/log-and-review-hours.md)
+* [Resolver aprobaciones de tareas y problemas](/help/manage-work/close-a-project/complete-approvals.md)
+* [Registrar las lecciones aprendidas para futuros proyectos](/help/manage-work/close-a-project/lessons-learned-from-closing-a-project.md)
+* [Registrar y revisar horas del proyecto](/help/manage-work/close-a-project/log-and-review-hours.md)

@@ -24,18 +24,18 @@ role_v2:
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
 autotag-review: '2026-05-06T15:04:22.081Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: f0f541bf3fd6db69e6d813cf81456a5df6848d49
 workflow-type: tm+mt
-source-wordcount: 422
-ht-degree: 5%
+source-wordcount: 245
+ht-degree: 6%
 
 ---
 
 # Delegar tareas, problemas y aprobaciones de forma eficaz
 
-En este vídeo se explica cómo delegar tareas, problemas y aprobaciones. Para habilitar la delegación, el administrador del sistema o del grupo debe activar la función en Configuración en Preferencias del proyecto. Una vez activadas, los usuarios pueden delegar todas sus tareas y problemas a otra persona durante un período de tiempo especificado utilizando el botón &quot;Delegar&quot; en el widget Mis tareas. La delegación se aplica tanto a tareas como a problemas de forma conjunta, y deben asignarse a la misma persona. Las delegaciones se pueden configurar con o sin fecha de finalización y los usuarios pueden detener las delegaciones manualmente en cualquier momento. &#x200B;
-Para las aprobaciones, los usuarios pueden delegarlas a través del widget &quot;Esperando mi aprobación&quot;. La delegación se aplica a las aprobaciones existentes y a las nuevas durante el período de tiempo especificado, pero solo a los proyectos, tareas y problemas, no a los documentos, pruebas u hojas de horas. El administrador puede habilitar las notificaciones de tareas delegadas, problemas y aprobaciones para informar tanto al delegado como al delegado. &#x200B;
-Las aprobaciones delegadas se marcan en el sistema, mostrando quién las delegó y a quién. Las actualizaciones relacionadas con las aprobaciones aparecen en la pestaña Update y la actividad del sistema se puede ver en la pestaña System Activity. &#x200B;
+En este vídeo se explica cómo delegar tareas, problemas y aprobaciones. Para habilitar la delegación, el administrador del sistema o del grupo debe activar la función en Configuración en Preferencias del proyecto. Una vez activadas, los usuarios pueden delegar todas sus tareas y problemas a otra persona durante un período de tiempo especificado utilizando el botón &quot;Delegar&quot; en el widget Mis tareas. La delegación se aplica tanto a tareas como a problemas de forma conjunta, y deben asignarse a la misma persona. Las delegaciones se pueden configurar con o sin fecha de finalización y los usuarios pueden detener las delegaciones manualmente en cualquier momento. palo de golf
+Para las aprobaciones, los usuarios pueden delegarlas a través del widget &quot;Esperando mi aprobación&quot;. La delegación se aplica a las aprobaciones existentes y a las nuevas durante el período de tiempo especificado, pero solo a los proyectos, tareas y problemas, no a los documentos, pruebas u hojas de horas. El administrador puede habilitar las notificaciones de tareas delegadas, problemas y aprobaciones para informar tanto al delegado como al delegado. palo de golf
+Las aprobaciones delegadas se marcan en el sistema, mostrando quién las delegó y a quién. Las actualizaciones relacionadas con las aprobaciones aparecen en la pestaña Update y la actividad del sistema se puede ver en la pestaña System Activity. palo de golf
 
 
 >[!VIDEO](https://video.tv.adobe.com/v/3446379/?captions=spa&quality=12&learn=on&enablevpops=1)
@@ -52,6 +52,6 @@ Las aprobaciones delegadas se marcan en el sistema, mostrando quién las delegó
 ## Tutoriales recomendados sobre este tema
 
 * [Configurar notificaciones de eventos](/help/administration-and-setup/email-and-in-app-notifications/admin-set-up-event-notifications.md)
-* [Crear un proceso de aprobación global y de un solo uso](/help/manage-work/approval-processes-and-milestone-paths/create-a-single-use-approval-process.md)
+* [Creación y administración de procesos de aprobación](/help/manage-work/approval-processes-and-milestone-paths/create-a-single-use-approval-process.md)
 * [Explicación de los procesos de aprobación específicos del grupo](/help/administration-and-setup/approval-processes-and-milestone-paths/group-specific-approval-processes.md)
 

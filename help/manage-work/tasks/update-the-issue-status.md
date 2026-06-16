@@ -20,10 +20,10 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-06T14:37:42.333Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: f0f541bf3fd6db69e6d813cf81456a5df6848d49
 workflow-type: tm+mt
-source-wordcount: 195
-ht-degree: 14%
+source-wordcount: 199
+ht-degree: 3%
 
 ---
 
@@ -42,7 +42,7 @@ En este vídeo aprenderá sobre los estados de problemas y las prácticas recome
 
 ## Tutoriales recomendados sobre este tema
 
-* [Gestión de trabajo no planificado](/help/manage-work/issues-requests/handle-unplanned-work.md)
-* [Convertir un problema/solicitud en un proyecto](/help/manage-work/issues-requests/create-a-project-from-a-request.md)
-* [Convertir un problema/solicitud en una tarea](/help/manage-work/issues-requests/convert-issues-to-other-work-items.md)
-* [Búsqueda y administración de solicitudes](/help/manage-work/issues-requests/find-requests.md)
+* [Gestión eficaz del trabajo no planificado](/help/manage-work/issues-requests/handle-unplanned-work.md)
+* [Conversión de un problema o una solicitud en un proyecto](/help/manage-work/issues-requests/create-a-project-from-a-request.md)
+* [Conversión de un problema o una solicitud en una tarea](/help/manage-work/issues-requests/convert-issues-to-other-work-items.md)
+* [Buscar y administrar solicitudes de forma eficaz](/help/manage-work/issues-requests/find-requests.md)

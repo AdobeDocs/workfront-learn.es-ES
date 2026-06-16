@@ -24,9 +24,9 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-06T14:37:58.078Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: f0f541bf3fd6db69e6d813cf81456a5df6848d49
 workflow-type: tm+mt
-source-wordcount: 218
+source-wordcount: 179
 ht-degree: 7%
 
 ---
@@ -42,14 +42,14 @@ El vídeo muestra cómo establecer predecesoras para nuevas tareas, lo que garan
 
 ## Principales conclusiones
 
-* **Predecesoras definen el orden de las tareas:** Las predecesoras establecen la secuencia de tareas, asegurándose de que algunas tareas se completen antes de que otras comiencen, lo cual es crucial para el éxito del proyecto. &#x200B;
-* **Duraciones afectan a las escalas de tiempo:** Las duraciones de las tareas establecen el período de tiempo para el trabajo y ajustan las fechas de inicio y finalización, lo que crea un efecto en cascada en las tareas dependientes. &#x200B;
-* **Las plantillas simplifican la configuración:** las predecesoras y las restricciones se pueden preestablecer en las plantillas de proyecto, lo que optimiza el proceso de administración de secuencias de tareas. &#x200B;
-* **Los ajustes manuales afectan a las restricciones:** Al establecer manualmente fechas específicas, se anulan las actualizaciones en cascada causadas por cambios en las duraciones o predecesoras. &#x200B;
+* **Predecesoras definen el orden de las tareas:** Las predecesoras establecen la secuencia de tareas, asegurándose de que algunas tareas se completen antes de que otras comiencen, lo cual es crucial para el éxito del proyecto. palo de golf
+* **Duraciones afectan a las escalas de tiempo:** Las duraciones de las tareas establecen el período de tiempo para el trabajo y ajustan las fechas de inicio y finalización, lo que crea un efecto en cascada en las tareas dependientes. palo de golf
+* **Las plantillas simplifican la configuración:** las predecesoras y las restricciones se pueden preestablecer en las plantillas de proyecto, lo que optimiza el proceso de administración de secuencias de tareas. palo de golf
+* **Los ajustes manuales afectan a las restricciones:** Al establecer manualmente fechas específicas, se anulan las actualizaciones en cascada causadas por cambios en las duraciones o predecesoras. palo de golf
 * **La práctica mejora las habilidades:** La práctica con predecesoras y duraciones ayuda a perfeccionar las habilidades de administración de proyectos y garantiza un mejor control sobre los plazos.
 
 ## Tutoriales recomendados sobre este tema
 
 * [Información sobre las duraciones de las tareas](/help/manage-work/tasks/understand-task-durations.md)
 * [Comprender las horas planificadas](/help/manage-work/tasks/understand-planned-hours.md)
-* [Comprender el [!UICONTROL esfuerzo laboral]](/help/manage-work/tasks/understand-work-effort.md)
+* [Calcular horas de tarea con esfuerzo de trabajo](/help/manage-work/tasks/understand-work-effort.md)

@@ -23,10 +23,10 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-06T14:55:37.524Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: f0f541bf3fd6db69e6d813cf81456a5df6848d49
 workflow-type: tm+mt
-source-wordcount: 283
-ht-degree: 24%
+source-wordcount: 201
+ht-degree: 23%
 
 ---
 
@@ -45,16 +45,16 @@ Este vídeo contiene información sobre:
 
 ## Principales conclusiones
 
-* **Asignar problemas:** Use la edición en línea en el campo de asignaciones para asignar problemas a usuarios o equipos, y asegúrese de hacer clic en &quot;guardar&quot; después de realizar las asignaciones. Los jefes de equipo pueden utilizar el equilibrador de carga de trabajo para asignar tareas arrastrándolas y soltándolas en los calendarios de los miembros del equipo. &#x200B;
-* **Buscando problemas asignados:** los problemas asignados a usted aparecen en la Lista de trabajoss en Inicio, que se puede filtrar. Los problemas asignados por el equipo se pueden ver en la sección de solicitudes de equipos, donde los integrantes del equipo pueden aceptar o reasignar tareas. Estos problemas también aparecen en el distribuidor de cargas de trabajo para una mejor visibilidad. &#x200B;
-* **Actualización del progreso:** Las actualizaciones de publicación y el registro de horas en los problemas para dar visibilidad al progreso del trabajo. Utilice la función &quot;Nombre&quot; para dirigir los comentarios a usuarios o equipos específicos. Las notificaciones se envían para comentarios, pero no para las horas registradas o los cambios de estado. &#x200B;
-* **Cambiando el estado del problema:** Actualice el estado del problema para reflejar el progreso, como &quot;trabajando en él&quot; o &quot;completado&quot;. Los problemas sin resolver impiden que las tareas y los proyectos asociados se marquen como completos. &#x200B;
-* **Flujos de trabajo específicos del equipo:** Siga los flujos de trabajo específicos de su organización y las configuraciones del sistema para administrar los problemas de forma eficaz. &#x200B;
+* **Asignar problemas:** Use la edición en línea en el campo de asignaciones para asignar problemas a usuarios o equipos, y asegúrese de hacer clic en &quot;guardar&quot; después de realizar las asignaciones. Los jefes de equipo pueden utilizar el equilibrador de carga de trabajo para asignar tareas arrastrándolas y soltándolas en los calendarios de los miembros del equipo. palo de golf
+* **Buscando problemas asignados:** los problemas asignados a usted aparecen en la Lista de trabajoss en Inicio, que se puede filtrar. Los problemas asignados por el equipo se pueden ver en la sección de solicitudes de equipos, donde los integrantes del equipo pueden aceptar o reasignar tareas. Estos problemas también aparecen en el distribuidor de cargas de trabajo para una mejor visibilidad. palo de golf
+* **Actualización del progreso:** Las actualizaciones de publicación y el registro de horas en los problemas para dar visibilidad al progreso del trabajo. Utilice la función &quot;Nombre&quot; para dirigir los comentarios a usuarios o equipos específicos. Las notificaciones se envían para comentarios, pero no para las horas registradas o los cambios de estado. palo de golf
+* **Cambiando el estado del problema:** Actualice el estado del problema para reflejar el progreso, como &quot;trabajando en él&quot; o &quot;completado&quot;. Los problemas no resueltos impiden que las tareas y los proyectos asociados se marquen como completados. palo de golf
+* **Flujos de trabajo específicos del equipo:** Siga los flujos de trabajo específicos de su organización y las configuraciones del sistema para administrar los problemas de forma eficaz. palo de golf
 
 
 ## Tutoriales recomendados sobre este tema
 
-* [Gestión de trabajo no planificado](/help/manage-work/issues-requests/handle-unplanned-work.md)
-* [Búsqueda y administración de solicitudes](/help/manage-work/issues-requests/find-requests.md)
-* [Convertir un problema/solicitud en un proyecto](/help/manage-work/issues-requests/create-a-project-from-a-request.md)
-* [Convertir un problema/solicitud en una tarea](/help/manage-work/issues-requests/convert-issues-to-other-work-items.md)
+* [Gestión eficaz del trabajo no planificado](/help/manage-work/issues-requests/handle-unplanned-work.md)
+* [Buscar y administrar solicitudes de forma eficaz](/help/manage-work/issues-requests/find-requests.md)
+* [Conversión de un problema o una solicitud en un proyecto](/help/manage-work/issues-requests/create-a-project-from-a-request.md)
+* [Conversión de un problema o una solicitud en una tarea](/help/manage-work/issues-requests/convert-issues-to-other-work-items.md)

@@ -25,10 +25,10 @@ role_v2:
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
 autotag-review: '2026-05-06T15:05:30.420Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: f0f541bf3fd6db69e6d813cf81456a5df6848d49
 workflow-type: tm+mt
-source-wordcount: 297
-ht-degree: 20%
+source-wordcount: 267
+ht-degree: 17%
 
 ---
 
@@ -61,8 +61,8 @@ El vídeo muestra la creación de procesos de aprobación, la configuración de 
 
 ## Tutoriales recomendados sobre este tema
 
-* [Delegar tareas, problemas y aprobaciones](/help/manage-work/approval-processes-and-milestone-paths/delegate-approvals.md)
-* [Explicación de los procesos de aprobación específicos del grupo](/help/administration-and-setup/approval-processes-and-milestone-paths/group-specific-approval-processes.md)
-* [Crear un flujo de solicitud](/help/manage-work/request-queues/create-a-request-flow.md)
+* [Delegar tareas, problemas y aprobaciones de forma eficaz](/help/manage-work/approval-processes-and-milestone-paths/delegate-approvals.md)
+* [Creación y administración de procesos de aprobación](/help/administration-and-setup/approval-processes-and-milestone-paths/group-specific-approval-processes.md)
+* [Creación de un flujo de solicitud en Workfront](/help/manage-work/request-queues/create-a-request-flow.md)
 * [Aplicar un proceso de aprobación de problema en una cola de solicitudes](/help/manage-work/approval-processes-and-milestone-paths/apply-an-issue-approval-process-in-a-request-queue.md)
 

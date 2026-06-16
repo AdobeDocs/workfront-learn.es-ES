@@ -25,10 +25,10 @@ role_v2:
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
 autotag-review: '2026-05-06T15:58:59.618Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: f0f541bf3fd6db69e6d813cf81456a5df6848d49
 workflow-type: tm+mt
-source-wordcount: 426
-ht-degree: 23%
+source-wordcount: 291
+ht-degree: 24%
 
 ---
 
@@ -36,12 +36,12 @@ ht-degree: 23%
 
 >[!PREREQUISITES]
 >
->* [Crear un flujo de solicitud](https://experienceleague.adobe.com/es/docs/workfront-learn/tutorials-workfront/manage-work/request-queues/create-a-request-flow)
->* [Creación de un proceso de aprobación global y de un solo uso](https://experienceleague.adobe.com/es/docs/workfront-learn/tutorials-workfront/manage-work/approval-processes-and-milestone-paths/create-a-single-use-approval-process)
+>* [Crear un flujo de solicitud en Workfront](https://experienceleague.adobe.com/es/docs/workfront-learn/tutorials-workfront/manage-work/request-queues/create-a-request-flow)
+>* [Crear y administrar procesos de aprobación](https://experienceleague.adobe.com/es/docs/workfront-learn/tutorials-workfront/manage-work/approval-processes-and-milestone-paths/create-a-single-use-approval-process)
 
 
-En el vídeo se explica el proceso de aplicación de un proceso de aprobación predeterminado al crear una cola de solicitudes. Cuando se crea una solicitud, comienza con el estado &quot;Nuevo - Pendiente de aprobación&quot; y se envía una notificación de aprobación al aprobador designado. Si se aprueba, el estado cambia a &quot;Nuevo&quot;, lo que permite que las personas asignadas comiencen a trabajar. Si se rechaza, el estado puede volver incorrectamente a &quot;Nuevo&quot; debido a un error común en la configuración del proceso de aprobación. &#x200B;
-El vídeo resalta que el proceso de aprobación se activa cuando el estado se establece en &quot;Nuevo&quot;, que es el predeterminado para las nuevas solicitudes. Si se rechaza, el sistema vuelve a cambiar el estado al anterior de forma predeterminada, lo que no es ideal para nuevas solicitudes. En su lugar, se debe elegir un estado diferente, como &quot;No se resolverá&quot;. El vídeo también indica que no hay un estado &quot;Rechazado&quot; proporcionado de forma predeterminada, pero un administrador del sistema puede crear uno si es necesario. &#x200B;
+En el vídeo se explica el proceso de aplicación de un proceso de aprobación predeterminado al crear una cola de solicitudes. Cuando se crea una solicitud, comienza con el estado &quot;Nuevo - Pendiente de aprobación&quot; y se envía una notificación de aprobación al aprobador designado. Si se aprueba, el estado cambia a &quot;Nuevo&quot;, lo que permite que las personas asignadas comiencen a trabajar. Si se rechaza, el estado puede volver incorrectamente a &quot;Nuevo&quot; debido a un error común en la configuración del proceso de aprobación. palo de golf
+El vídeo resalta que el proceso de aprobación se activa cuando el estado se establece en &quot;Nuevo&quot;, que es el predeterminado para las nuevas solicitudes. Si se rechaza, el sistema vuelve a cambiar el estado al anterior de forma predeterminada, lo que no es ideal para nuevas solicitudes. En su lugar, se debe elegir un estado diferente, como &quot;No se resolverá&quot;. El vídeo también indica que no hay un estado &quot;Rechazado&quot; proporcionado de forma predeterminada, pero un administrador del sistema puede crear uno si es necesario. palo de golf
 
 >[!VIDEO](https://video.tv.adobe.com/v/3455027/?captions=spa&quality=12&learn=on&enablevpops=1)
 
@@ -56,7 +56,7 @@ El vídeo resalta que el proceso de aprobación se activa cuando el estado se es
 
 ## Tutoriales recomendados sobre este tema
 
-* [Delegar tareas, problemas y aprobaciones](/help/manage-work/approval-processes-and-milestone-paths/delegate-approvals.md)
+* [Delegar tareas, problemas y aprobaciones de forma eficaz](/help/manage-work/approval-processes-and-milestone-paths/delegate-approvals.md)
 * [Explicación de los procesos de aprobación específicos del grupo](/help/administration-and-setup/approval-processes-and-milestone-paths/group-specific-approval-processes.md)
-* [Crear un flujo de solicitud](/help/manage-work/request-queues/create-a-request-flow.md)
-* [Crear un proceso de aprobación global y de un solo uso](https://experienceleague.adobe.com/es/docs/workfront-learn/tutorials-workfront/manage-work/approval-processes-and-milestone-paths/create-a-single-use-approval-process)
+* [Creación de un flujo de solicitud en Workfront](/help/manage-work/request-queues/create-a-request-flow.md)
+* [Creación y administración de procesos de aprobación](https://experienceleague.adobe.com/es/docs/workfront-learn/tutorials-workfront/manage-work/approval-processes-and-milestone-paths/create-a-single-use-approval-process)

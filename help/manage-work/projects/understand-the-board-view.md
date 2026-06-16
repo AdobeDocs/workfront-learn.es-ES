@@ -23,10 +23,10 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-06T14:43:17.788Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: f0f541bf3fd6db69e6d813cf81456a5df6848d49
 workflow-type: tm+mt
-source-wordcount: 295
-ht-degree: 8%
+source-wordcount: 291
+ht-degree: 5%
 
 ---
 
@@ -38,16 +38,16 @@ En el vídeo se explica la función de vista de tablero de Workfront, que propor
 
 ## Principales conclusiones
 
-* **Información general sobre la vista de tablero:** La vista de tablero de Workfront ofrece una interfaz de estilo Kanban para ver y administrar tareas de proyecto, lo que proporciona una alternativa a la vista tradicional de la lista de tareas. &#x200B;
-* **Administración de tareas:** Las tareas se pueden ordenar, agrupar y mover dentro o entre columnas, con actualizaciones de estado aplicadas automáticamente cuando se mueven tareas. &#x200B;
-* **Creación de tareas:** Las nuevas tarjetas se pueden crear directamente en la vista del tablero, lo que genera nuevas tareas en el proyecto. Estas tareas se pueden editar y asignar inmediatamente. &#x200B;
-* **Personalización:** Las columnas y tarjetas de la vista del tablero se pueden configurar para adaptarse a las necesidades del proyecto, lo que mejora la flexibilidad en la organización de tareas. &#x200B;
-* **Integración con la lista de tareas:** Los cambios realizados en la vista del tablero, como las actualizaciones de estado de las tareas o la creación de nuevas tareas, se reflejan en la vista de lista de tareas, lo que garantiza una integración perfecta entre las vistas. &#x200B;
+* **Información general sobre la vista de tablero:** La vista de tablero de Workfront ofrece una interfaz de estilo Kanban para ver y administrar tareas de proyecto, lo que proporciona una alternativa a la vista tradicional de la lista de tareas. palo de golf
+* **Administración de tareas:** Las tareas se pueden ordenar, agrupar y mover dentro o entre columnas, con actualizaciones de estado aplicadas automáticamente cuando se mueven tareas. palo de golf
+* **Creación de tareas:** Las nuevas tarjetas se pueden crear directamente en la vista del tablero, lo que genera nuevas tareas en el proyecto. Estas tareas se pueden editar y asignar inmediatamente. palo de golf
+* **Personalización:** Las columnas y tarjetas de la vista del tablero se pueden configurar para adaptarse a las necesidades del proyecto, lo que mejora la flexibilidad en la organización de tareas. palo de golf
+* **Integración con la lista de tareas:** Los cambios realizados en la vista del tablero, como las actualizaciones de estado de las tareas o la creación de nuevas tareas, se reflejan en la vista de lista de tareas, lo que garantiza una integración perfecta entre las vistas. palo de golf
 
 
 ## Tutoriales recomendados sobre este tema
 
-* [Introducción a la administración de un proyecto](/help/manage-work/projects/getting-started-manage-a-project.md)
+* [Administrar un proyecto con estado actual](/help/manage-work/projects/getting-started-manage-a-project.md)
 * [Seguimiento del progreso general del proyecto](/help/manage-work/projects/track-overall-project-progress.md)
 * [Seguimiento del progreso del trabajo con las métricas del proyecto](/help/manage-work/projects/track-work-progress-with-project-metrics.md)
-* [Comprender la vista [!UICONTROL Gantt]](/help/manage-work/projects/understand-the-gantt-view.md)
+* [Explorar la vista Gantt para la administración de proyectos](/help/manage-work/projects/understand-the-gantt-view.md)
