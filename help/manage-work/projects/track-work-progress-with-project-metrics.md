@@ -36,7 +36,7 @@ ht-degree: 16%
 En el vídeo se explica cómo realizar un seguimiento del progreso del proyecto mediante Métricas del proyecto. Muestra cómo acceder a la pestaña Métricas en el panel izquierdo de un proyecto, lo que puede requerir desplazarse y hacer clic en Mostrar más. El área KPI de la parte superior muestra indicadores de rendimiento clave, como tareas completadas, incompletas y vencidas. Los usuarios pueden hacer clic en los indicadores para ver tareas específicas y utilizar gráficos para agrupar tareas o problemas por estado o prioridad. Al pasar el ratón por encima de las columnas, se muestran las cantidades, y el gráfico muestra la proporción de tareas o problemas completos a incompletos. Las métricas también pueden mostrar tareas por usuario asignado en función de su estado (completo, incompleto, próximo o vencido). Las preferencias para ver métricas se guardan para visitas futuras. Por último, el vídeo muestra cómo exportar la página de métricas como archivo PNG con el botón Exportar. palo de golf
 
 
->[!VIDEO](https://video.tv.adobe.com/v/336667/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3439173/?captions=spa&quality=12&learn=on&enablevpops=1)
 
 ## Principales conclusiones
 

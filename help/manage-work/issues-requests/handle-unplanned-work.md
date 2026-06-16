@@ -35,7 +35,7 @@ ht-degree: 3%
 En el vídeo se destaca la importancia de la comunicación en la gestión de proyectos y se destaca el papel de las cuestiones como instrumento clave para facilitar la comunicación. Explica la diferencia entre actualizaciones y problemas, y observa que los problemas son más adecuados para el trabajo que debe asignarse, rastrearse y resolverse antes de que se pueda completar un proyecto. El vídeo proporciona una guía paso a paso sobre cómo registrar problemas. palo de golf
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3419488/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3446569/?captions=spa&quality=12&learn=on&enablevpops=1)
 
 ## Principales conclusiones
 

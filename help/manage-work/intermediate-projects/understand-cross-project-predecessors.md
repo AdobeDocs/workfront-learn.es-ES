@@ -46,6 +46,6 @@ Este vídeo contiene información sobre:
 * Cómo crear un predecesor en varios proyectos
 * Cómo realizar el seguimiento de los predecesores en los informes
 
->[!VIDEO](https://video.tv.adobe.com/v/3422123/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3422840/?captions=spa&quality=12&learn=on&enablevpops=1)
 
 Para aprender a crear la vista **Predecesoras y sucesoras entre proyectos** y el informe **Predecesoras y sucesoras entre proyectos** que se usa en el vídeo, vea el tutorial [Explorar el modo de texto básico para vistas en Workfront](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/intermediate-reporting/basic-text-mode-for-views.html?lang=es), y asegúrese de usar los tutoriales de requisitos previos que se enumeran allí si es necesario.

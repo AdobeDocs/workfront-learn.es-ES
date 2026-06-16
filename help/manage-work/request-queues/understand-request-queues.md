@@ -36,7 +36,7 @@ ht-degree: 5%
 
 En este vídeo se explica el concepto de colas de solicitudes en Workfront, su propósito y cómo enviar y administrar solicitudes. Las colas de solicitudes sirven como ubicación centralizada para enviar varios tipos de solicitudes. palo de golf
 
->[!VIDEO](https://video.tv.adobe.com/v/335220/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3447013/?captions=spa&quality=12&learn=on&enablevpops=1)
 
 ## Principales conclusiones
 
