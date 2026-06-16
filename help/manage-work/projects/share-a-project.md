@@ -12,21 +12,16 @@ last-substantial-update: '2023-07-21T00:00:00.000Z'
 recommendations: noDisplay,catalog
 jira: KT-10148
 exl-id: 22bd2dd6-68a1-4f4e-b581-66dfbca0464c
-product_v2:
-  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
-feature_v2:
-  - id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
-subfeature_v2:
-  - id: f0dd7b45-76b5-49d4-afe3-39f436b6fbd3
-role_v2:
-  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
-level_v2:
-  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+product_v2: id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2: id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
+subfeature_v2: id: f0dd7b45-76b5-49d4-afe3-39f436b6fbd3
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-06T14:45:21.983Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: f0f541bf3fd6db69e6d813cf81456a5df6848d49
 workflow-type: tm+mt
-source-wordcount: 357
-ht-degree: 5%
+source-wordcount: 362
+ht-degree: 3%
 
 ---
 
@@ -47,8 +42,8 @@ En el vídeo se explica cómo compartir proyectos de forma eficaz en Workfront p
 
 **Uso compartido masivo y de plantillas:**
 
-* La edición masiva permite compartir ajustes para varios proyectos. &#x200B;
-* La configuración de uso compartido se puede preconfigurar en las plantillas de proyecto para ahorrar tiempo. &#x200B;
+* La edición masiva permite compartir ajustes para varios proyectos. palo de golf
+* La configuración de uso compartido se puede preconfigurar en las plantillas de proyecto para ahorrar tiempo. palo de golf
 
 **Valores predeterminados del sistema:**
 
@@ -56,21 +51,21 @@ En el vídeo se explica cómo compartir proyectos de forma eficaz en Workfront p
 
 El vídeo destaca el uso de equipos y plantillas para una administración eficiente del uso compartido, así como el papel de los administradores a la hora de personalizar las preferencias de uso compartido.
 
->[!VIDEO](https://video.tv.adobe.com/v/3423153/?captions=spa&quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3418904/?quality=12&learn=on&enablevpops=1)
 
 ## Principales conclusiones
 
-* **Derechos de acceso automáticos:** Workfront asigna automáticamente los derechos de acceso correspondientes en función de las funciones (por ejemplo, creadores de proyectos, trabajadores, patrocinadores y administradores de recursos) para simplificar el uso compartido. &#x200B;
-* **Opciones flexibles de uso compartido:** los proyectos se pueden compartir con personas, equipos, roles, grupos o empresas, y los permisos se pueden heredar a través de portafolios o programas. &#x200B;
-* **Administración eficiente del equipo:** Al agregar o quitar miembros de los equipos, se actualizan automáticamente sus derechos de acceso a todos los objetos compartidos, lo que hace que el uso compartido basado en el equipo sea el método más sencillo. &#x200B;
-* **Uso compartido de plantillas:** La preconfiguración de la configuración de uso compartido en las plantillas de proyecto garantiza derechos de acceso coherentes para todos los proyectos creados con la plantilla, lo que ahorra tiempo. &#x200B;
-* **Valores predeterminados personalizables del sistema:** Los administradores del sistema pueden modificar la configuración de uso compartido predeterminada, como la concesión de derechos de colaborador a los integrantes del equipo asignados a tareas, para alinearse con las preferencias de la organización. &#x200B;
+* **Derechos de acceso automáticos:** Workfront asigna automáticamente los derechos de acceso correspondientes en función de las funciones (por ejemplo, creadores de proyectos, trabajadores, patrocinadores y administradores de recursos) para simplificar el uso compartido. palo de golf
+* **Opciones flexibles de uso compartido:** los proyectos se pueden compartir con personas, equipos, roles, grupos o empresas, y los permisos se pueden heredar a través de portafolios o programas. palo de golf
+* **Administración eficiente del equipo:** Al agregar o quitar miembros de los equipos, se actualizan automáticamente sus derechos de acceso a todos los objetos compartidos, lo que hace que el uso compartido basado en el equipo sea el método más sencillo. palo de golf
+* **Uso compartido de plantillas:** La preconfiguración de la configuración de uso compartido en las plantillas de proyecto garantiza derechos de acceso coherentes para todos los proyectos creados con la plantilla, lo que ahorra tiempo. palo de golf
+* **Valores predeterminados personalizables del sistema:** Los administradores del sistema pueden modificar la configuración de uso compartido predeterminada, como la concesión de derechos de colaborador a los integrantes del equipo asignados a tareas, para alinearse con las preferencias de la organización. palo de golf
 
 
 ## Tutoriales recomendados sobre este tema
 
-* [Introducción a la administración de un proyecto](/help/manage-work/projects/getting-started-manage-a-project.md)
-* [Encontrar proyectos](/help/manage-work/projects/find-projects.md)
+* [Administrar un proyecto con estado actual](/help/manage-work/projects/getting-started-manage-a-project.md)
+* [Buscar proyectos de forma eficaz](/help/manage-work/projects/find-projects.md)
 * [Información sobre el equipo del proyecto](/help/manage-work/projects/understand-the-project-team.md)
-* [Comprender la comunicación del proyecto](/help/manage-work/projects/understand-project-communication.md)
+* [Mejore el éxito del proyecto mediante una comunicación eficaz](/help/manage-work/projects/understand-project-communication.md)
 

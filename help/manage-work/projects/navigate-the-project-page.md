@@ -13,21 +13,16 @@ recommendations: noDisplay,catalog
 jira: KT-8771
 exl-id: 2c70b05e-6320-41e6-9c28-782edd7d4a8c
 doc-type: video
-product_v2:
-  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
-feature_v2:
-  - id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
-subfeature_v2:
-  - id: f0dd7b45-76b5-49d4-afe3-39f436b6fbd3
-role_v2:
-  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
-level_v2:
-  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+product_v2: id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2: id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
+subfeature_v2: id: f0dd7b45-76b5-49d4-afe3-39f436b6fbd3
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-06T14:46:43.714Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: f0f541bf3fd6db69e6d813cf81456a5df6848d49
 workflow-type: tm+mt
-source-wordcount: 786
-ht-degree: 55%
+source-wordcount: 711
+ht-degree: 59%
 
 ---
 
@@ -35,24 +30,24 @@ ht-degree: 55%
 
 Este vídeo proporciona información general sobre cómo navegar y administrar la página del proyecto en Workfront. Las características principales incluyen:
 
-* **Encabezado del proyecto:** Muestra información esencial, como el porcentaje completado, el jefe de proyecto, la fecha planificada de finalización, la condición del proyecto y el estado. El estado ayuda a rastrear las notificaciones de fase y déclencheur del proyecto. &#x200B;
-* **Navegación por ruta de exploración:** Muestra la ubicación del proyecto dentro del programa y el portafolio de la organización, con vínculos en los que se puede hacer clic para facilitar la navegación. &#x200B;
-* **Favoritos y menú:** El Inicio de favoritos marca el proyecto para obtener acceso rápido, mientras que el menú ofrece opciones como editar detalles, copiar el proyecto y recalcular las escalas de tiempo. &#x200B;
-* **Lista de tareas:** Representa pasos en el plan del proyecto. Utilice filtros rápidos para localizar tareas, editar en línea para cambios rápidos y el panel de resumen de tareas para obtener información detallada. Al hacer clic en el nombre de una tarea, se abre su página dedicada. &#x200B;
-* **Panel izquierdo:** Proporciona acceso a varias secciones del proyecto, como detalles, actualizaciones y documentos. El administrador del sistema puede personalizar el panel. &#x200B;
-* **Sección de actualizaciones:** centraliza la comunicación sobre el proyecto, permitiendo etiquetar a los usuarios, responder a comentarios y ver actualizaciones resumidas de tareas, problemas y documentos. &#x200B;
-* **Sección de documentos:** Permite cargar y administrar archivos y pruebas relacionados con el proyecto. Los documentos adjuntos a las tareas se acumulan en el nivel de proyecto para facilitar el acceso. &#x200B;
+* **Encabezado del proyecto:** Muestra información esencial, como el porcentaje completado, el jefe de proyecto, la fecha planificada de finalización, la condición del proyecto y el estado. El estado ayuda a rastrear las notificaciones de fase y déclencheur del proyecto. palo de golf
+* **Navegación por ruta de exploración:** Muestra la ubicación del proyecto dentro del programa y el portafolio de la organización, con vínculos en los que se puede hacer clic para facilitar la navegación. palo de golf
+* **Favoritos y menú:** El Inicio de favoritos marca el proyecto para obtener acceso rápido, mientras que el menú ofrece opciones como editar detalles, copiar el proyecto y recalcular las escalas de tiempo. palo de golf
+* **Lista de tareas:** Representa pasos en el plan del proyecto. Utilice filtros rápidos para localizar tareas, editar en línea para cambios rápidos y el panel de resumen de tareas para obtener información detallada. Al hacer clic en el nombre de una tarea, se abre su página dedicada. palo de golf
+* **Panel izquierdo:** Proporciona acceso a varias secciones del proyecto, como detalles, actualizaciones y documentos. El administrador del sistema puede personalizar el panel. palo de golf
+* **Sección de actualizaciones:** centraliza la comunicación sobre el proyecto, permitiendo etiquetar a los usuarios, responder a comentarios y ver actualizaciones resumidas de tareas, problemas y documentos. palo de golf
+* **Sección de documentos:** Permite cargar y administrar archivos y pruebas relacionados con el proyecto. Los documentos adjuntos a las tareas se acumulan en el nivel de proyecto para facilitar el acceso. palo de golf
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3449729/?captions=spa&quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/335085/?quality=12&learn=on&enablevpops=1)
 
 ## Principales conclusiones
 
-* **Información general sobre el encabezado del proyecto:** Acceda rápidamente a detalles clave del proyecto como porcentaje completado, jefe de proyecto, fecha de vencimiento, estado y condición. El estado también controla las notificaciones y las fases del flujo de trabajo. &#x200B;
-* **Administración de tareas:** Use la lista de tareas para realizar un seguimiento de los pasos del proyecto, aplicar filtros rápidos para buscar tareas y realizar ediciones en línea. Acceda a la información detallada de las tareas a través del panel de resumen o de la página de tareas. &#x200B;
-* **Navegación de ruta de exploración:** Navegue por la jerarquía del proyecto dentro de la organización mediante vínculos en los que se puede hacer clic en la ruta de exploración. &#x200B;
-* **Actualizaciones centralizadas:** todas las actualizaciones de tareas, problemas y documentos se resumen en la sección de actualizaciones del proyecto, lo que simplifica la comunicación y el seguimiento. &#x200B;
-* **Organización del documento:** Cargue y administre archivos y pruebas relacionados con el proyecto en la sección de documentos, asegurándose de que los documentos relevantes se adjunten a las tareas para una colaboración optimizada. &#x200B;
+* **Información general sobre el encabezado del proyecto:** Acceda rápidamente a detalles clave del proyecto como porcentaje completado, jefe de proyecto, fecha de vencimiento, estado y condición. El estado también controla las notificaciones y las fases del flujo de trabajo. palo de golf
+* **Administración de tareas:** Use la lista de tareas para realizar un seguimiento de los pasos del proyecto, aplicar filtros rápidos para buscar tareas y realizar ediciones en línea. Acceda a la información detallada de las tareas a través del panel de resumen o de la página de tareas. palo de golf
+* **Navegación de ruta de exploración:** Navegue por la jerarquía del proyecto dentro de la organización mediante vínculos en los que se puede hacer clic en la ruta de exploración. palo de golf
+* **Actualizaciones centralizadas:** todas las actualizaciones de tareas, problemas y documentos se resumen en la sección de actualizaciones del proyecto, lo que simplifica la comunicación y el seguimiento. palo de golf
+* **Organización del documento:** Cargue y administre archivos y pruebas relacionados con el proyecto en la sección de documentos, asegurándose de que los documentos relevantes se adjunten a las tareas para una colaboración optimizada. palo de golf
 
 
 ## Partes clave de la página del proyecto
@@ -81,7 +76,7 @@ La página del proyecto está repleta de funciones que le ayudarán a administra
 
 ## Tutoriales recomendados sobre este tema
 
-* [Información sobre la creación básica del proyecto](/help/manage-work/projects/understand-basic-project-creation.md)
-* [Descubra cuatro formas para crear un proyecto](/help/manage-work/projects/understand-other-ways-to-create-projects.md)
-* [Rellene los detalles del proyecto](/help/manage-work/projects/fill-in-the-project-details.md)
+* [Creación y administración de un proyecto desde cero](/help/manage-work/projects/understand-basic-project-creation.md)
+* [Explore cuatro métodos para crear un proyecto](/help/manage-work/projects/understand-other-ways-to-create-projects.md)
+* [Rellene los detalles esenciales del proyecto](/help/manage-work/projects/fill-in-the-project-details.md)
 

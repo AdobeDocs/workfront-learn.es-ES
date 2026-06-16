@@ -11,10 +11,11 @@ last-substantial-update: 2026-2-12
 recommendations: noDisplay,catalog
 jira: KT-20314
 doc-type: video
-source-git-commit: bb1f0cb236ff68aaa89a6d6f11b5e3f4bba06dcc
+exl-id: 5f1620a2-a8a1-4f62-8038-86f4f6fc05d6
+source-git-commit: f0f541bf3fd6db69e6d813cf81456a5df6848d49
 workflow-type: tm+mt
 source-wordcount: '172'
-ht-degree: 24%
+ht-degree: 45%
 
 ---
 
@@ -23,7 +24,7 @@ ht-degree: 24%
 Descubra cómo un administrador instala un modelo y cómo un usuario lo pone en uso. En este ejemplo, instalaremos el modelo &quot;Formación de Workfront para nuevos usuarios&quot; y utilizaremos las plantillas y vistas que crea como lista de comprobación de formación para ayudar a habilitar a los usuarios en Workfront.
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3479837/?captions=spa&quality=12&learn=on&enablevpops=0)
+>[!VIDEO](https://video.tv.adobe.com/v/3479833/?quality=12&learn=on&enablevpops=0)
 
 ## Principales conclusiones
 
@@ -34,9 +35,9 @@ Descubra cómo un administrador instala un modelo y cómo un usuario lo pone en 
 
 ## Tutoriales recomendados sobre este tema
 
-* [Crear una plantilla de proyecto y obtener más información acerca de los Modelos](/help/manage-work/create-and-manage-project-templates/create-a-project-template.md)
+* [Creación de una plantilla de proyecto y exploración de modelos](/help/manage-work/create-and-manage-project-templates/create-a-project-template.md)
 * [Creación de un proyecto directamente a partir de una plantilla](/help/manage-work/create-and-manage-project-templates/create-a-project-directly-from-a-template.md)
-* [Compartir una plantilla de proyecto](/help/manage-work/create-and-manage-project-templates/share-a-project-template.md)
-* [Copiar un proyecto existente](/help/manage-work/manage-projects/copy-an-existing-project.md)
+* [Uso compartido efectivo de una plantilla de proyecto](/help/manage-work/create-and-manage-project-templates/share-a-project-template.md)
+* [Copiar un proyecto existente de forma eficaz](/help/manage-work/manage-projects/copy-an-existing-project.md)
 * [Desactivar una plantilla de proyecto](/help/manage-work/create-and-manage-project-templates/deactivate-a-project-template.md)
-* [Editar el equipo del proyecto en una plantilla de proyecto](/help/manage-work/create-and-manage-project-templates/edit-the-project-team-in-a-project-template.md)
+* [Editar el equipo del proyecto en una plantilla](/help/manage-work/create-and-manage-project-templates/edit-the-project-team-in-a-project-template.md)
