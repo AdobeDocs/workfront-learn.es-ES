@@ -12,18 +12,13 @@ last-substantial-update: '2025-07-30T00:00:00.000Z'
 jira: KT-9086
 exl-id: b3f16468-b720-468d-887a-b313fc32bd89
 doc-type: video
-product_v2:
-  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
-feature_v2:
-  - id: c6dd2ac5-f5bd-4e59-9101-25b156918623
-subfeature_v2:
-  - id: cec4c78b-dd2b-46ec-b824-6ca30f0eb7b2
-role_v2:
-  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
-level_v2:
-  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+product_v2: id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2: id: c6dd2ac5-f5bd-4e59-9101-25b156918623
+subfeature_v2: id: cec4c78b-dd2b-46ec-b824-6ca30f0eb7b2
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588
 autotag-review: '2026-05-06T13:59:16.164Z'
-source-git-commit: f0f541bf3fd6db69e6d813cf81456a5df6848d49
+source-git-commit: 03d522789acef5234d60733543ad10bf4bb8e092
 workflow-type: tm+mt
 source-wordcount: 504
 ht-degree: 83%
@@ -52,7 +47,7 @@ En este vídeo, aprenderá sobre lo siguiente:
 * Mayúsculas y minúsculas
 * Algunos _bloques de código en modo texto_ que puede usar en los filtros de informe
 
->[!VIDEO](https://video.tv.adobe.com/v/3412683/?captions=spa&quality=12&learn=on&enablevpops=0)
+>[!VIDEO](https://video.tv.adobe.com/v/336820/?quality=12&learn=on&enablevpops=0)
 
 ## Actividades de &quot;Comprender el modo de texto básico de los filtros&quot;
 
@@ -156,3 +151,4 @@ EXISTS:A:$$EXISTSMOD=NOTEXISTS
 EXISTS:A:$$OBJCODE=CTGYPA
 EXISTS:A:parameterID=FIELD:ID
 ```
+
