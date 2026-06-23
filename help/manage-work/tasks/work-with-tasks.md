@@ -23,7 +23,7 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-06T14:36:54.897Z'
-source-git-commit: f0f541bf3fd6db69e6d813cf81456a5df6848d49
+source-git-commit: 03d522789acef5234d60733543ad10bf4bb8e092
 workflow-type: tm+mt
 source-wordcount: 220
 ht-degree: 7%
@@ -49,3 +49,4 @@ Este vídeo proporciona una guía detallada sobre la administración de tareas e
 * [Explicación de las relaciones entre tareas principales y secundarias](/help/manage-work/tasks/understand-parent-child-tasks.md)
 * [Asignación de tareas del plan del proyecto](/help/manage-work/tasks/assign-tasks-from-the-project-plan.md)
 * [Información sobre las duraciones de las tareas](/help/manage-work/tasks/understand-task-durations.md)
+
