@@ -49,5 +49,5 @@ Este vídeo contiene información sobre:
 
 * [Ver hitos en sus proyectos](/help/manage-work/approval-processes-and-milestone-paths/view-milestones.md)
 * [Aplicar rutas de hitos a proyectos y tareas](/help/administration-and-setup/approval-processes-and-milestone-paths/creating-milestones.md)
-* [Actividad de vista de hitos en Crear una vista básica](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-basic-view#activity-2-create-a-milestone-view)
+* [Actividad de vista de hitos en Crear una vista básica](https://experienceleague.adobe.com/es/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-basic-view#activity-2-create-a-milestone-view)
 
