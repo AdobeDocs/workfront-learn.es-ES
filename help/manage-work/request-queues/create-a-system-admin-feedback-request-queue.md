@@ -13,21 +13,16 @@ recommendations: noDisplay,catalog
 jira: KT-14864
 doc-type: video
 exl-id: bef0ba6b-6c29-46ec-ae0d-c54f5609ff5f
-product_v2:
-  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
-feature_v2:
-  - id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
-subfeature_v2:
-  - id: c10f2e93-7a58-4212-aa24-684c265ebe76
-role_v2:
-  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
-level_v2:
-  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+product_v2: id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2: id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
+subfeature_v2: id: c10f2e93-7a58-4212-aa24-684c265ebe76
+role_v2: id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588
 autotag-review: '2026-05-06T14:41:28.128Z'
-source-git-commit: f0f541bf3fd6db69e6d813cf81456a5df6848d49
+source-git-commit: 4077f8da1f1400400fc9749db53719037c778e7c
 workflow-type: tm+mt
-source-wordcount: 373
-ht-degree: 30%
+source-wordcount: 431
+ht-degree: 25%
 
 ---
 
@@ -39,10 +34,7 @@ ht-degree: 30%
 >* [Crear un flujo de solicitud en Workfront](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/request-queues/create-a-request-flow.html?lang=es)
 >* O si se siente cómodo creando una cola de solicitudes que usa una regla de enrutamiento y un formulario personalizado.
 
-El vídeo proporciona una guía paso a paso para crear una cola de solicitudes de comentarios para los administradores del sistema.
-&#x200B;El propósito de la cola es recopilar los comentarios del usuario sobre los procesos y flujos de trabajo creados por los administradores del sistema, lo que permite realizar mejoras y optimizaciones.
-El vídeo destaca la importancia de la participación de los usuarios y la transparencia en la mejora de los procesos, lo que anima a los administradores a compartir informes de comentarios con los usuarios.
-&#x200B;Para obtener más información, se proporcionan vínculos a tutoriales para crear informes y formularios personalizados.
+El vídeo proporciona una guía paso a paso para crear una cola de solicitudes de comentarios para los administradores del sistema.&#x200B;El propósito de la cola es recopilar los comentarios del usuario sobre los procesos y flujos de trabajo creados por los administradores del sistema, lo que permite realizar mejoras y optimizaciones.El vídeo destaca la importancia de la participación de los usuarios y la transparencia en la mejora de los procesos, lo que anima a los administradores a compartir informes de comentarios con los usuarios.&#x200B;Para obtener más información, se proporcionan vínculos a tutoriales para crear informes y formularios personalizados.
 
 
 >[!VIDEO](https://video.tv.adobe.com/v/3427124/?quality=12&learn=on&enablevpops=0)
@@ -56,10 +48,11 @@ El vídeo destaca la importancia de la participación de los usuarios y la trans
 * **Pruebas y accesibilidad:** La cola se prueba con solicitudes de ejemplo, lo que garantiza la funcionalidad. Se publica como una cola de solicitudes de ayuda, accesible para todos los usuarios, con una duración de finalización predeterminada de 10 días.
 
 
-Para obtener información sobre cómo crear el **informe de comentarios del equipo de administración** que se usa en el vídeo, consulte la actividad **Crear un informe de comentarios del equipo de administración** en el tutorial [Crear un informe de tareas](https://experienceleague.adobe.com/es/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-task-report#activity-2-create-an-admin-team-feedback-report).
+Para obtener información sobre cómo crear el **informe de comentarios del equipo de administración** que se usa en el vídeo, consulte la actividad **Crear un informe de comentarios del equipo de administración** en el tutorial [Crear un informe de tareas](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-task-report#activity-2-create-an-admin-team-feedback-report).
 
 Para aprender a crear un formulario personalizado, consulte el tutorial [Crear y compartir un formulario personalizado](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/custom-data/custom-forms/custom-forms-creating-and-sharing-a-custom-form.html?lang=es).
 
 ## Tutoriales recomendados sobre este tema
 
 * [Respuestas a preguntas comunes sobre las colas de solicitud](/help/manage-work/request-queues/request-queue-faq.md)
+
