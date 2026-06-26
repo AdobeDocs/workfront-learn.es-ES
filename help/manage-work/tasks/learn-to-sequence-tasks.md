@@ -36,7 +36,7 @@ ht-degree: 6%
 En el vídeo se explica cómo secuenciar las tareas en Workfront mediante predecesoras y duraciones para administrar de forma eficaz las escalas de tiempo de los proyectos.El vídeo muestra cómo establecer predecesoras para nuevas tareas, lo que garantiza un orden secuencial y fechas de inicio precisas.&#x200B;Hace hincapié en la importancia de practicar con los predecesores para comprender su impacto en los plazos del proyecto y recomienda utilizar duraciones y predecesores para una planificación eficiente del proyecto.
 
 
->[!VIDEO](https://video.tv.adobe.com/v/335091/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3447323/?captions=spa&quality=12&learn=on&enablevpops=1)
 
 ## Principales conclusiones
 

@@ -36,7 +36,7 @@ En la pestaña [!UICONTROL Detalles de cola] de la cola de solicitudes/proyecto,
 
 Consulte este vídeo para obtener más información:
 
->[!VIDEO](https://video.tv.adobe.com/v/3434156/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3434159/?captions=spa&quality=12&learn=on&enablevpops=1)
 
 **Otorgue a los usuarios acceso a la cola, pero ahora también pueden ver el proyecto de cola de solicitudes. ¿Por qué?**
 
@@ -74,7 +74,7 @@ Puede acceder a los campos en los orígenes de campo **[!UICONTROL Problema conv
 
 Consulte este vídeo para obtener más información:
 
->[!VIDEO](https://video.tv.adobe.com/v/3434176/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3434179/?captions=spa&quality=12&learn=on&enablevpops=1)
 
 
 **¿Cuál es la mejor manera de filtrar por colas de solicitud en un informe?**
@@ -85,7 +85,7 @@ Si el filtro del proyecto incluye **Cola>>Es pública>>No es igual a>>Ninguna** 
 
 Consulte este vídeo para obtener más información:
 
->[!VIDEO](https://video.tv.adobe.com/v/3434329/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3434333/?captions=spa&quality=12&learn=on&enablevpops=1)
 
 **¿Es buena idea crear un estado personalizado de la cola de solicitudes?**
 

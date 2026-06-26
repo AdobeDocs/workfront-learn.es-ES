@@ -41,7 +41,7 @@ ht-degree: 5%
 
 Este vídeo proporciona una guía paso a paso para crear un flujo de solicitud mediante la configuración de temas de colas, grupos de temas y reglas de enrutamiento. El proceso comienza con la creación de reglas de enrutamiento, que definen cómo se asignan las solicitudes.&#x200B; A continuación, se crean grupos de temas para organizar las solicitudes.&#x200B; Estos grupos se pueden agregar a las colas y no hay límite en el número de grupos de temas que se pueden crear.A continuación, en el vídeo se muestra cómo crear temas de colas, que están vinculados a reglas de enrutamiento, grupos de temas, formularios personalizados, procesos de aprobación y duraciones predeterminadas.Por último, el vídeo muestra cómo probar la configuración enviando una solicitud para asegurarse de que se enruta correctamente. Si surge algún problema, se pueden realizar ajustes en la cola. El vídeo destaca la importancia de verificar la estructura y la funcionalidad del flujo de solicitudes para garantizar un enrutamiento y una organización adecuados.
 
->[!VIDEO](https://video.tv.adobe.com/v/335223/?quality=12&learn=on&enablevpops=0)
+>[!VIDEO](https://video.tv.adobe.com/v/3433825/?captions=spa&quality=12&learn=on&enablevpops=0)
 
 ## Principales conclusiones
 

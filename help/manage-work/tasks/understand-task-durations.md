@@ -36,7 +36,7 @@ ht-degree: 6%
 En este vídeo se describen las duraciones de las tareas en Workfront, su impacto en las fechas de inicio y finalización de las tareas, las escalas de tiempo de los proyectos y las prácticas recomendadas para utilizar las duraciones de forma eficaz.Workfront recomienda utilizar duraciones y predecesoras para establecer escalas de tiempo de tareas en lugar de establecer manualmente restricciones, ya que las restricciones pueden impedir los ajustes automáticos.&#x200B;Las duraciones precisas son esenciales para una planificación eficaz del proyecto y la gestión de recursos.
 
 
->[!VIDEO](https://video.tv.adobe.com/v/335089/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3449346/?captions=spa&quality=12&learn=on&enablevpops=1)
 
 ## Principales conclusiones
 
