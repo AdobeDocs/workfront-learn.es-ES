@@ -35,7 +35,7 @@ ht-degree: 15%
 
 El vídeo explica cómo acceder y administrar la información financiera de proyectos y tareas. &#x200B;Proporciona una visión general completa de la navegación y la comprensión de los datos financieros tanto a nivel de proyecto como de tarea. 
 
->[!VIDEO](https://video.tv.adobe.com/v/335208/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3415894/?captions=spa&quality=12&learn=on&enablevpops=1)
 
 ## Principales conclusiones
 
