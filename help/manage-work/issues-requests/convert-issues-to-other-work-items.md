@@ -22,10 +22,10 @@ role_v2:
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
 autotag-review: '2026-05-06T14:55:57.327Z'
-source-git-commit: f0f541bf3fd6db69e6d813cf81456a5df6848d49
+source-git-commit: df1a568be7d42893910e1c0afde8bbba213a7803
 workflow-type: tm+mt
-source-wordcount: 230
-ht-degree: 12%
+source-wordcount: 243
+ht-degree: 11%
 
 ---
 
@@ -37,14 +37,14 @@ En este vídeo se muestra cómo convertir un problema o una solicitud en una tar
 
 ## Principales conclusiones
 
-* **Proceso sencillo de conversión:** Para convertir un problema o una solicitud en una tarea, abra el problema, haga clic en el menú de tres puntos y seleccione &quot;Convertir en tarea&quot;. El nombre y la descripción de la tarea se copian de forma predeterminada, pero se pueden editar. palo de golf
-* **Selección de proyecto de destino:** Puede elegir el proyecto de destino para la tarea, ya sea el proyecto predeterminado en el que reside el problema o cualquier otro proyecto al que tenga acceso. palo de golf
-* **Archivo adjunto de formulario automático:** Los formularios personalizados vinculados al problema se agregan automáticamente a la tarea, lo que garantiza que todos los valores de campo se transfieran sin problemas. palo de golf
+* **Proceso sencillo de conversión:** Para convertir un problema o una solicitud en una tarea, abra el problema, haga clic en el menú de tres puntos y seleccione &quot;Convertir en tarea&quot;. El nombre y la descripción de la tarea se copian de forma predeterminada, pero se pueden editar. 
+* **Selección de proyecto de destino:** Puede elegir el proyecto de destino para la tarea, ya sea el proyecto predeterminado en el que reside el problema o cualquier otro proyecto al que tenga acceso. &#x200B;
+* **Archivo adjunto de formulario automático:** Los formularios personalizados vinculados al problema se agregan automáticamente a la tarea, lo que garantiza que todos los valores de campo se transfieran sin problemas. &#x200B;
 * **Opciones de conversión:** Las opciones clave incluyen:
-   * Mantener el problema original activo junto con la tarea. palo de golf
-   * Permitir al solicitante acceso a la tarea. palo de golf
-   * Conservar la fecha planificada de finalización del problema para la tarea. palo de golf
-* **Actualizaciones de estado vinculadas:** Si se conserva el problema original, su estado se actualizará automáticamente en función del progreso de la tarea, lo que garantiza la sincronización entre el problema y la tarea. palo de golf
+   * Mantener el problema original activo junto con la tarea. &#x200B;
+   * Permitir al solicitante acceso a la tarea. &#x200B;
+   * Conservar la fecha planificada de finalización del problema para la tarea. &#x200B;
+* **Actualizaciones de estado vinculadas:** Si se conserva el problema original, su estado se actualizará automáticamente en función del progreso de la tarea, lo que garantiza la sincronización entre el problema y la tarea. &#x200B;
 
 
 >[!NOTE]
@@ -56,4 +56,5 @@ En este vídeo se muestra cómo convertir un problema o una solicitud en una tar
 * [Buscar y administrar solicitudes de forma eficaz](/help/manage-work/issues-requests/find-requests.md)
 * [Conversión de un problema o una solicitud en un proyecto](/help/manage-work/issues-requests/create-a-project-from-a-request.md)
 * [Gestión eficaz del trabajo no planificado](/help/manage-work/issues-requests/handle-unplanned-work.md)
+
 

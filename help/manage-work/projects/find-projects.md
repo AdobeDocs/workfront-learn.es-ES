@@ -24,10 +24,10 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-06T14:47:13.116Z'
-source-git-commit: f0f541bf3fd6db69e6d813cf81456a5df6848d49
+source-git-commit: df1a568be7d42893910e1c0afde8bbba213a7803
 workflow-type: tm+mt
-source-wordcount: 162
-ht-degree: 15%
+source-wordcount: 175
+ht-degree: 14%
 
 ---
 
@@ -39,11 +39,11 @@ En este vídeo, aprenderá algunas formas rápidas y sencillas de encontrar proy
 
 ## Principales conclusiones
 
-* **Filtros y opciones de búsqueda:** Use filtros y herramientas de búsqueda, incluida la Búsqueda avanzada, para localizar rápidamente proyectos específicos basados en nombres, descripciones o campos de datos personalizados. palo de golf
-* **Lista de recientes:** Los proyectos vistos recientemente aparecen automáticamente en la lista Recientes, que puede mostrar hasta 20 proyectos para acceso rápido. palo de golf
-* **Favoritos:** Marque los proyectos como favoritos al hacer clic en el icono de estrella. Se puede acceder a Favoritos hasta que se eliminen manualmente, por lo que son ideales para los proyectos a los que se accede con más frecuencia. palo de golf
+* **Filtros y opciones de búsqueda:** Use filtros y herramientas de búsqueda, incluida la Búsqueda avanzada, para localizar rápidamente proyectos específicos basados en nombres, descripciones o campos de datos personalizados. &#x200B;
+* **Lista de recientes:** Los proyectos vistos recientemente aparecen automáticamente en la lista Recientes, que puede mostrar hasta 20 proyectos para acceso rápido. &#x200B;
+* **Favoritos:** Marque los proyectos como favoritos al hacer clic en el icono de estrella. Se puede acceder a Favoritos hasta que se eliminen manualmente, por lo que son ideales para los proyectos a los que se accede con más frecuencia. 
 * **Anclar proyectos:** Anclar proyectos para que sean fácilmente accesibles. Los proyectos anclados permanecen visibles hasta que los libera.
-* **Informes y paneles personalizados:** Cree informes y paneles personalizados para organizar y acceder a todos los proyectos relevantes de forma eficaz. palo de golf
+* **Informes y paneles personalizados:** Cree informes y paneles personalizados para organizar y acceder a todos los proyectos relevantes de forma eficaz. &#x200B;
 
 
 ## Tutoriales recomendados sobre este tema
@@ -52,3 +52,4 @@ En este vídeo, aprenderá algunas formas rápidas y sencillas de encontrar proy
 * [Uso compartido efectivo de proyectos en Workfront](/help/manage-work/projects/share-a-project.md)
 * [Información sobre el equipo del proyecto](/help/manage-work/projects/understand-the-project-team.md)
 * [Mejore el éxito del proyecto mediante una comunicación eficaz](/help/manage-work/projects/understand-project-communication.md)
+

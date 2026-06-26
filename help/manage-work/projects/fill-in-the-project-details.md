@@ -23,10 +23,10 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-06T14:47:36.241Z'
-source-git-commit: f0f541bf3fd6db69e6d813cf81456a5df6848d49
+source-git-commit: df1a568be7d42893910e1c0afde8bbba213a7803
 workflow-type: tm+mt
-source-wordcount: 201
-ht-degree: 22%
+source-wordcount: 221
+ht-degree: 20%
 
 ---
 
@@ -39,8 +39,8 @@ En este vídeo, aprenderá las configuraciones de proyecto más comunes necesari
 
 ## Principales conclusiones
 
-* **Usar nombres de proyecto descriptivos:** Evite confusiones al nombrar proyectos de forma descriptiva en lugar de usar títulos genéricos. La organización de los proyectos en portafolios y programas mejora la creación de informes y la coherencia. palo de golf
-* **Establecer estado de proyecto apropiado:** Comience con el estado &quot;Planificación&quot; al crear un proyecto y, a continuación, cambie a &quot;Actual&quot; cuando el proyecto se ponga en marcha. Los estados &quot;No actuales&quot; pausan las notificaciones, lo que permite la replanificación sin interrupciones. palo de golf
+* **Usar nombres de proyecto descriptivos:** Evite confusiones al nombrar proyectos de forma descriptiva en lugar de usar títulos genéricos. La organización de los proyectos en portafolios y programas mejora la creación de informes y la coherencia. 
+* **Establecer estado de proyecto apropiado:** Comience con el estado &quot;Planificación&quot; al crear un proyecto y, a continuación, cambie a &quot;Actual&quot; cuando el proyecto se ponga en marcha. Los estados &quot;No actuales&quot; pausan las notificaciones, lo que permite la replanificación sin interrupciones. 
 * **Aprovechar plantillas y Forms personalizado:** Use plantillas de proyecto para formularios personalizados y de coherencia para almacenar datos de proyecto únicos. Estas herramientas simplifican la configuración y garantizan la captura de la información esencial.
 * **Utilizar conjuntos y programas de recursos:** Asigne conjuntos de recursos a proyectos para administrar los recursos de forma eficaz y aplique el horario correcto para reflejar los días laborables, las horas y los días festivos. Esto garantiza una ejecución del proyecto y una asignación de recursos sin problemas.
 
@@ -53,3 +53,4 @@ En este vídeo, aprenderá las configuraciones de proyecto más comunes necesari
 * [Explore cuatro métodos para crear un proyecto](/help/manage-work/projects/understand-other-ways-to-create-projects.md)
 * [Planificar un proyecto de forma eficaz en Workfront](/help/manage-work/projects/getting-started-plan-a-project.md)
 * [Editar proyectos](https://experienceleague.adobe.com/es/docs/workfront/using/manage-work/projects/manage-projects/edit-projects)
+

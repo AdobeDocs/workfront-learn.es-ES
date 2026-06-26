@@ -24,10 +24,10 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-06T14:56:55.448Z'
-source-git-commit: f0f541bf3fd6db69e6d813cf81456a5df6848d49
+source-git-commit: df1a568be7d42893910e1c0afde8bbba213a7803
 workflow-type: tm+mt
-source-wordcount: 219
-ht-degree: 4%
+source-wordcount: 232
+ht-degree: 3%
 
 ---
 
@@ -45,11 +45,11 @@ En este vídeo se explica cómo buscar y administrar solicitudes en Workfront. A
 
 ## Principales conclusiones
 
-* **Búsqueda de solicitudes en la página principal de Workfront:** Los usuarios pueden ver las solicitudes que se les hayan asignado o que estén a la espera de su aprobación, según su función. palo de golf
-* **Uso de filtros en el área de solicitud:** Los filtros como &quot;mis solicitudes&quot; y &quot;mis solicitudes abiertas&quot; permiten a los usuarios ver las solicitudes que han creado. palo de golf
-* **Administración de solicitudes en la página Equipos:** Los usuarios pueden ver las solicitudes de equipo sin asignar y asignarlas a sí mismos o a otros usuarios, utilizando el equilibrador de carga de trabajo para administrar las asignaciones de los miembros del equipo en función de su carga de trabajo actual. palo de golf
-* **Informes y paneles personalizados:** Los usuarios pueden crear informes personalizados para realizar el seguimiento de las solicitudes, lo que permite crear nombres, filtros, vistas y agrupaciones personalizados, lo que ayuda a administrar y priorizar las solicitudes de forma eficaz. palo de golf
-* **Explicación de &quot;My&quot; en los filtros:** El término &quot;my&quot; en Inicio se refiere a los problemas que se me han asignado. El término &quot;mi&quot; en el área de solicitud hace referencia a los problemas que he solicitado. palo de golf
+* **Búsqueda de solicitudes en la página principal de Workfront:** Los usuarios pueden ver las solicitudes que se les hayan asignado o que estén a la espera de su aprobación, según su función. &#x200B;
+* **Uso de filtros en el área de solicitud:** Los filtros como &quot;mis solicitudes&quot; y &quot;mis solicitudes abiertas&quot; permiten a los usuarios ver las solicitudes que han creado. &#x200B;
+* **Administración de solicitudes en la página Equipos:** Los usuarios pueden ver las solicitudes de equipo sin asignar y asignarlas a sí mismos o a otros usuarios, utilizando el equilibrador de carga de trabajo para administrar las asignaciones de los miembros del equipo en función de su carga de trabajo actual. &#x200B;
+* **Informes y paneles personalizados:** Los usuarios pueden crear informes personalizados para realizar el seguimiento de las solicitudes, lo que permite crear nombres, filtros, vistas y agrupaciones personalizados, lo que ayuda a administrar y priorizar las solicitudes de forma eficaz. &#x200B;
+* **Explicación de &quot;My&quot; en los filtros:** El término &quot;my&quot; en Inicio se refiere a los problemas que se me han asignado. El término &quot;mi&quot; en el área de solicitud hace referencia a los problemas que he solicitado. 
 
 
 ## Tutoriales recomendados sobre este tema
@@ -59,4 +59,5 @@ En este vídeo se explica cómo buscar y administrar solicitudes en Workfront. A
 * [Actualización de una solicitud en Workfront](/help/manage-work/issues-requests/update-a-request.md)
 * [Conversión de un problema o una solicitud en un proyecto](/help/manage-work/issues-requests/create-a-project-from-a-request.md)
 * [Conversión de un problema o una solicitud en una tarea](/help/manage-work/issues-requests/convert-issues-to-other-work-items.md)
+
 

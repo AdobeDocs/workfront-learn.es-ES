@@ -23,10 +23,10 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-06T14:53:40.935Z'
-source-git-commit: f0f541bf3fd6db69e6d813cf81456a5df6848d49
+source-git-commit: df1a568be7d42893910e1c0afde8bbba213a7803
 workflow-type: tm+mt
-source-wordcount: 355
-ht-degree: 11%
+source-wordcount: 372
+ht-degree: 10%
 
 ---
 
@@ -40,17 +40,17 @@ En el vídeo se explica cómo revisar y aprobar el trabajo digital mediante el w
 * **Aprobación de revisión:** Vaya a la revisión para revisar y agregar comentarios específicos. Las opciones de aprobación incluyen &quot;Aprobar&quot;, &quot;Aprobado con cambios&quot;, &quot;Cambios necesarios&quot; o &quot;No relevante&quot;.
 * **Aprobación de documento:** Los documentos sin pruebas aún se pueden aprobar o rechazar. Si es necesario realizar cambios, descríbalos en un comentario, similar a &quot;Aprobado con cambios&quot; en la aprobación de la prueba.
 
-El vídeo destaca la flexibilidad para revisar y aprobar el trabajo, con opciones para agregar comentarios y especificar cambios según sea necesario. palo de golf
+El vídeo destaca la flexibilidad para revisar y aprobar el trabajo, con opciones para agregar comentarios y especificar cambios según sea necesario. &#x200B;
 
 >[!VIDEO](https://video.tv.adobe.com/v/3444949/?captions=spa&quality=12&learn=on&enablevpops=1)
 
 ## Principales conclusiones
 
-* **Administración centralizada de aprobación:** Se puede acceder a todos los elementos pendientes de aprobación en el widget &quot;Esperando mi aprobación&quot; del área de Inicio. palo de golf
-* **Opciones de revisión flexible:** Puede aprobar o rechazar directamente desde el área de Inicio o hacer clic en el nombre del elemento para revisar los detalles antes de tomar una decisión. palo de golf
-* **Opciones de comentarios:** Agregar comentarios es opcional, pero se recomienda para una mayor claridad. Las aprobaciones realizadas en el área de Inicio requieren comentarios, mientras que las realizadas dentro del elemento no. palo de golf
-* **Detalles de aprobación de pruebas:** Las aprobaciones de pruebas ofrecen varias opciones, entre las que se incluyen &quot;Aprobado con cambios&quot;, &quot;Cambios necesarios&quot; y &quot;No relevante&quot;, lo que permite obtener comentarios detallados. palo de golf
-* **Control de cambios:** Para los documentos o pruebas que requieran cambios, puede especificar los cambios en los comentarios, lo que garantiza una comunicación clara para volver a enviarlos o actualizar. palo de golf
+* **Administración centralizada de aprobación:** Se puede acceder a todos los elementos pendientes de aprobación en el widget &quot;Esperando mi aprobación&quot; del área de Inicio. &#x200B;
+* **Opciones de revisión flexible:** Puede aprobar o rechazar directamente desde el área de Inicio o hacer clic en el nombre del elemento para revisar los detalles antes de tomar una decisión. &#x200B;
+* **Opciones de comentarios:** Agregar comentarios es opcional, pero se recomienda para una mayor claridad. Las aprobaciones realizadas en el área de Inicio requieren comentarios, mientras que las realizadas dentro del elemento no. 
+* **Detalles de aprobación de pruebas:** Las aprobaciones de pruebas ofrecen varias opciones, entre las que se incluyen &quot;Aprobado con cambios&quot;, &quot;Cambios necesarios&quot; y &quot;No relevante&quot;, lo que permite obtener comentarios detallados. &#x200B;
+* **Control de cambios:** Para los documentos o pruebas que requieran cambios, puede especificar los cambios en los comentarios, lo que garantiza una comunicación clara para volver a enviarlos o actualizar. &#x200B;
 
 
 >[!NOTE]
@@ -71,3 +71,4 @@ Guides
 Home overview for Reviewers
 Issue page overview
 -->
+

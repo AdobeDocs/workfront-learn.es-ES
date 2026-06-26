@@ -24,10 +24,10 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-06T14:48:54.364Z'
-source-git-commit: f0f541bf3fd6db69e6d813cf81456a5df6848d49
+source-git-commit: df1a568be7d42893910e1c0afde8bbba213a7803
 workflow-type: tm+mt
-source-wordcount: 643
-ht-degree: 9%
+source-wordcount: 700
+ht-degree: 8%
 
 ---
 
@@ -47,11 +47,11 @@ Lo que aprenderá:
 
 ## Principales conclusiones
 
-* **Administración y asignación de tareas:** Las tareas principales agrupan varias subtareas, que se asignan a roles de trabajo y, posteriormente, a usuarios con las habilidades necesarias. Las predecesoras indican relaciones secuenciales, mientras que las tareas sin predecesoras se pueden realizar en paralelo. palo de golf
-* **Diagrama de Gantt y ruta crítica:** El gráfico de Gantt proporciona una escala de tiempo visual del proyecto y la característica Ruta crítica resalta las tareas que podrían retrasar el proyecto si se retrasan. palo de golf
-* **Vistas y supervisión:** Las distintas vistas de Workfront, como la vista estándar para la planificación y la vista de estado para la supervisión, incluyen indicadores de progreso, comentarios, documentos, problemas, aprobaciones, rutas críticas y hitos. También se puede realizar un seguimiento de la actividad reciente. palo de golf
-* **Opciones de programación:** los proyectos se pueden programar desde una fecha de inicio o de finalización, y Workfront calcula las fechas correspondientes en función de las duraciones de las tareas y sus predecesoras. Se recomienda programar desde una fecha de inicio en las fechas de finalización críticas para permitir cierto margen de demora. palo de golf
-* **Restricciones de tarea:** Las restricciones de tarea como &quot;lo antes posible&quot; y &quot;lo más tarde posible&quot; afectan la programación de tareas. Cambiar el modo de programación después de la creación del proyecto puede afectar a las restricciones de tareas y las fechas planificadas. Se pueden crear vistas personalizadas para mostrar las restricciones de tareas. palo de golf
+* **Administración y asignación de tareas:** Las tareas principales agrupan varias subtareas, que se asignan a roles de trabajo y, posteriormente, a usuarios con las habilidades necesarias. Las predecesoras indican relaciones secuenciales, mientras que las tareas sin predecesoras se pueden realizar en paralelo. 
+* **Diagrama de Gantt y ruta crítica:** El gráfico de Gantt proporciona una escala de tiempo visual del proyecto y la característica Ruta crítica resalta las tareas que podrían retrasar el proyecto si se retrasan. &#x200B;
+* **Vistas y supervisión:** Las distintas vistas de Workfront, como la vista estándar para la planificación y la vista de estado para la supervisión, incluyen indicadores de progreso, comentarios, documentos, problemas, aprobaciones, rutas críticas y hitos. También se puede realizar un seguimiento de la actividad reciente. 
+* **Opciones de programación:** los proyectos se pueden programar desde una fecha de inicio o de finalización, y Workfront calcula las fechas correspondientes en función de las duraciones de las tareas y sus predecesoras. Se recomienda programar desde una fecha de inicio en las fechas de finalización críticas para permitir cierto margen de demora. 
+* **Restricciones de tarea:** Las restricciones de tarea como &quot;lo antes posible&quot; y &quot;lo más tarde posible&quot; afectan la programación de tareas. Cambiar el modo de programación después de la creación del proyecto puede afectar a las restricciones de tareas y las fechas planificadas. Se pueden crear vistas personalizadas para mostrar las restricciones de tareas. 
 
 
 ## Para cambiar o no cambiar fechas en las escalas de tiempo del &#x200B;proyecto...
@@ -66,4 +66,5 @@ Lo que aprenderá:
 * [Seguimiento del progreso mediante porcentaje completado y estado de progreso](/help/manage-work/project-timelines/track-work-progress-from-the-project-timeline.md)
 * [Comprender los tipos de fechas y el estado de progreso](/help/manage-work/project-timelines/understand-task-dates-and-progress-status.md)
 * [Tipos de duración maestros y restricciones de tareas](/help/manage-work/intermediate-projects/understand-and-manage-duration-types-and-task-constraints.md)
+
 
