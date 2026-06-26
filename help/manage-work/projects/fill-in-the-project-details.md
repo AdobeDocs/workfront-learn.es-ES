@@ -12,21 +12,16 @@ last-substantial-update: '2024-06-21T00:00:00.000Z'
 recommendations: noDisplay,catalog
 jira: KT-10140
 exl-id: a62b9421-627a-4f23-ab66-da1f29114225
-product_v2:
-  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
-feature_v2:
-  - id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
-subfeature_v2:
-  - id: f0dd7b45-76b5-49d4-afe3-39f436b6fbd3
-role_v2:
-  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
-level_v2:
-  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+product_v2: id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2: id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
+subfeature_v2: id: f0dd7b45-76b5-49d4-afe3-39f436b6fbd3
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-06T14:47:36.241Z'
-source-git-commit: f0f541bf3fd6db69e6d813cf81456a5df6848d49
+source-git-commit: df1a568be7d42893910e1c0afde8bbba213a7803
 workflow-type: tm+mt
-source-wordcount: 201
-ht-degree: 22%
+source-wordcount: 221
+ht-degree: 20%
 
 ---
 
@@ -39,8 +34,8 @@ En este vídeo, aprenderá las configuraciones de proyecto más comunes necesari
 
 ## Principales conclusiones
 
-* **Usar nombres de proyecto descriptivos:** Evite confusiones al nombrar proyectos de forma descriptiva en lugar de usar títulos genéricos. La organización de los proyectos en portafolios y programas mejora la creación de informes y la coherencia. palo de golf
-* **Establecer estado de proyecto apropiado:** Comience con el estado &quot;Planificación&quot; al crear un proyecto y, a continuación, cambie a &quot;Actual&quot; cuando el proyecto se ponga en marcha. Los estados &quot;No actuales&quot; pausan las notificaciones, lo que permite la replanificación sin interrupciones. palo de golf
+* **Usar nombres de proyecto descriptivos:** Evite confusiones al nombrar proyectos de forma descriptiva en lugar de usar títulos genéricos. La organización de los proyectos en portafolios y programas mejora la creación de informes y la coherencia. 
+* **Establecer estado de proyecto apropiado:** Comience con el estado &quot;Planificación&quot; al crear un proyecto y, a continuación, cambie a &quot;Actual&quot; cuando el proyecto se ponga en marcha. Los estados &quot;No actuales&quot; pausan las notificaciones, lo que permite la replanificación sin interrupciones. 
 * **Aprovechar plantillas y Forms personalizado:** Use plantillas de proyecto para formularios personalizados y de coherencia para almacenar datos de proyecto únicos. Estas herramientas simplifican la configuración y garantizan la captura de la información esencial.
 * **Utilizar conjuntos y programas de recursos:** Asigne conjuntos de recursos a proyectos para administrar los recursos de forma eficaz y aplique el horario correcto para reflejar los días laborables, las horas y los días festivos. Esto garantiza una ejecución del proyecto y una asignación de recursos sin problemas.
 
@@ -53,3 +48,4 @@ En este vídeo, aprenderá las configuraciones de proyecto más comunes necesari
 * [Explore cuatro métodos para crear un proyecto](/help/manage-work/projects/understand-other-ways-to-create-projects.md)
 * [Planificar un proyecto de forma eficaz en Workfront](/help/manage-work/projects/getting-started-plan-a-project.md)
 * [Editar proyectos](https://experienceleague.adobe.com/es/docs/workfront/using/manage-work/projects/manage-projects/edit-projects)
+

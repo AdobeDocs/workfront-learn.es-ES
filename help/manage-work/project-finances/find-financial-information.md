@@ -13,29 +13,24 @@ exl-id: 8b50c79a-d5b7-4127-8daf-8a449b3fe570
 last-substantial-update: '2025-04-16T00:00:00.000Z'
 recommendations: noDisplay,catalog
 doc-type: video
-product_v2:
-  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
-feature_v2:
-  - id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
-subfeature_v2:
-  - id: f0dd7b45-76b5-49d4-afe3-39f436b6fbd3
-role_v2:
-  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
-level_v2:
-  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+product_v2: id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2: id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
+subfeature_v2: id: f0dd7b45-76b5-49d4-afe3-39f436b6fbd3
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588
 autotag-review: '2026-05-06T14:52:10.607Z'
-source-git-commit: f0f541bf3fd6db69e6d813cf81456a5df6848d49
+source-git-commit: df1a568be7d42893910e1c0afde8bbba213a7803
 workflow-type: tm+mt
-source-wordcount: 203
-ht-degree: 16%
+source-wordcount: 220
+ht-degree: 15%
 
 ---
 
 # Acceso y administración de información financiera para proyectos y tareas
 
-El vídeo explica cómo acceder y administrar la información financiera de proyectos y tareas. &#x200B;Proporciona una visión general completa de la navegación y la comprensión de los datos financieros tanto a nivel de proyecto como de tarea. palo de golf
+El vídeo explica cómo acceder y administrar la información financiera de proyectos y tareas. &#x200B;Proporciona una visión general completa de la navegación y la comprensión de los datos financieros tanto a nivel de proyecto como de tarea. 
 
->[!VIDEO](https://video.tv.adobe.com/v/3415894/?captions=spa&quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/335208/?quality=12&learn=on&enablevpops=1)
 
 ## Principales conclusiones
 
@@ -51,4 +46,5 @@ El vídeo explica cómo acceder y administrar la información financiera de proy
 <!--* [Find financial information](/help/manage-work/project-finances/find-financial-information.md)-->
 * [Actualizar finanzas para proyectos de clientes](/help/manage-work/project-finances/update-and-review-finances.md)
 * [Personalizar las tarifas de facturación para los roles](/help/manage-work/project-finances/multiple-billing-rates.md)
+
 
