@@ -23,16 +23,16 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-06T14:43:04.428Z'
-source-git-commit: f0f541bf3fd6db69e6d813cf81456a5df6848d49
+source-git-commit: 4077f8da1f1400400fc9749db53719037c778e7c
 workflow-type: tm+mt
-source-wordcount: 370
-ht-degree: 13%
+source-wordcount: 397
+ht-degree: 12%
 
 ---
 
 # Explorar la vista [!UICONTROL Gantt] para la administración de proyectos
 
-En el vídeo se explica cómo utilizar el Diagrama de Gantt del proyecto y el Diagrama de Gantt de tareas para visualizar y administrar tareas y proyectos de forma eficaz. Los diagramas Gantt proporcionan una vista general de las tareas, plantillas y proyectos, y se utilizan comúnmente en portafolios para comprender las relaciones entre los proyectos, especialmente los que comparten recursos. palo de golf
+En el vídeo se explica cómo utilizar el Diagrama de Gantt del proyecto y el Diagrama de Gantt de tareas para visualizar y administrar tareas y proyectos de forma eficaz. Los diagramas Gantt proporcionan una vista general de las tareas, plantillas y proyectos, y se utilizan comúnmente en portafolios para comprender las relaciones entre los proyectos, especialmente los que comparten recursos. 
 
 **Las características principales del gráfico Gantt del proyecto incluyen:**
 
@@ -57,10 +57,10 @@ Puede obtener más información con el artículo en línea [Introducción al gr�
 
 ## Principales conclusiones
 
-* **Vista general:** los gráficos Gantt proporcionan una descripción general completa de las tareas, proyectos y portafolios, lo que facilita la comprensión de las relaciones y el uso compartido de recursos entre los proyectos. palo de golf
-* **Seguimiento del progreso:** Los indicadores de estado de progreso (verde, amarillo, rojo y azul claro) ayudan a supervisar las escalas de tiempo de los proyectos y las tareas, destacando los estados a tiempo, en riesgo, retrasados o atrasados. palo de golf
-* **Administración de hitos:** Las líneas y los diamantes de hitos marcan visualmente las fechas de finalización clave, lo que ayuda a rastrear el progreso de los hitos dentro de los proyectos. palo de golf
-* **Información sobre la tarea predecesora:** Las tareas predecesoras específicas de tareas y proyectos cruzados se pueden comprobar fácilmente, lo que garantiza que las dependencias sean claras y manejables. palo de golf
+* **Vista general:** los gráficos Gantt proporcionan una descripción general completa de las tareas, proyectos y portafolios, lo que facilita la comprensión de las relaciones y el uso compartido de recursos entre los proyectos. &#x200B;
+* **Seguimiento del progreso:** Los indicadores de estado de progreso (verde, amarillo, rojo y azul claro) ayudan a supervisar las escalas de tiempo de los proyectos y las tareas, destacando los estados a tiempo, en riesgo, retrasados o atrasados. &#x200B;
+* **Administración de hitos:** Las líneas y los diamantes de hitos marcan visualmente las fechas de finalización clave, lo que ayuda a rastrear el progreso de los hitos dentro de los proyectos. &#x200B;
+* **Información sobre la tarea predecesora:** Las tareas predecesoras específicas de tareas y proyectos cruzados se pueden comprobar fácilmente, lo que garantiza que las dependencias sean claras y manejables. &#x200B;
 * **Opciones de personalización:** Los usuarios pueden mostrar fechas reales, fechas proyectadas, líneas de base, asignaciones y mucho más, adaptando la vista del gráfico Gantt a sus necesidades específicas.
 
 
@@ -70,3 +70,4 @@ Puede obtener más información con el artículo en línea [Introducción al gr�
 * [Seguimiento del progreso general del proyecto](/help/manage-work/projects/track-overall-project-progress.md)
 * [Seguimiento del progreso del trabajo con las métricas del proyecto](/help/manage-work/projects/track-work-progress-with-project-metrics.md)
 * [Explorar la vista del tablero para administrar tareas](/help/manage-work/projects/understand-the-board-view.md)
+

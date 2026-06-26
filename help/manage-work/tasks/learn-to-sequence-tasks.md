@@ -24,28 +24,26 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-06T14:37:58.078Z'
-source-git-commit: f0f541bf3fd6db69e6d813cf81456a5df6848d49
+source-git-commit: 4077f8da1f1400400fc9749db53719037c778e7c
 workflow-type: tm+mt
-source-wordcount: 179
-ht-degree: 7%
+source-wordcount: 213
+ht-degree: 6%
 
 ---
 
 # Secuenciar tareas de forma eficaz en Workfront
 
-En el vídeo se explica cómo secuenciar las tareas en Workfront mediante predecesoras y duraciones para administrar de forma eficaz las escalas de tiempo de los proyectos.
-El vídeo muestra cómo establecer predecesoras para nuevas tareas, lo que garantiza un orden secuencial y fechas de inicio precisas.
-&#x200B;Hace hincapié en la importancia de practicar con los predecesores para comprender su impacto en los plazos del proyecto y recomienda utilizar duraciones y predecesores para una planificación eficiente del proyecto.
+En el vídeo se explica cómo secuenciar las tareas en Workfront mediante predecesoras y duraciones para administrar de forma eficaz las escalas de tiempo de los proyectos.El vídeo muestra cómo establecer predecesoras para nuevas tareas, lo que garantiza un orden secuencial y fechas de inicio precisas.&#x200B;Hace hincapié en la importancia de practicar con los predecesores para comprender su impacto en los plazos del proyecto y recomienda utilizar duraciones y predecesores para una planificación eficiente del proyecto.
 
 
 >[!VIDEO](https://video.tv.adobe.com/v/3447323/?captions=spa&quality=12&learn=on&enablevpops=1)
 
 ## Principales conclusiones
 
-* **Predecesoras definen el orden de las tareas:** Las predecesoras establecen la secuencia de tareas, asegurándose de que algunas tareas se completen antes de que otras comiencen, lo cual es crucial para el éxito del proyecto. palo de golf
-* **Duraciones afectan a las escalas de tiempo:** Las duraciones de las tareas establecen el período de tiempo para el trabajo y ajustan las fechas de inicio y finalización, lo que crea un efecto en cascada en las tareas dependientes. palo de golf
-* **Las plantillas simplifican la configuración:** las predecesoras y las restricciones se pueden preestablecer en las plantillas de proyecto, lo que optimiza el proceso de administración de secuencias de tareas. palo de golf
-* **Los ajustes manuales afectan a las restricciones:** Al establecer manualmente fechas específicas, se anulan las actualizaciones en cascada causadas por cambios en las duraciones o predecesoras. palo de golf
+* **Predecesoras definen el orden de las tareas:** Las predecesoras establecen la secuencia de tareas, asegurándose de que algunas tareas se completen antes de que otras comiencen, lo cual es crucial para el éxito del proyecto. &#x200B;
+* **Duraciones afectan a las escalas de tiempo:** Las duraciones de las tareas establecen el período de tiempo para el trabajo y ajustan las fechas de inicio y finalización, lo que crea un efecto en cascada en las tareas dependientes. &#x200B;
+* **Las plantillas simplifican la configuración:** las predecesoras y las restricciones se pueden preestablecer en las plantillas de proyecto, lo que optimiza el proceso de administración de secuencias de tareas. &#x200B;
+* **Los ajustes manuales afectan a las restricciones:** Al establecer manualmente fechas específicas, se anulan las actualizaciones en cascada causadas por cambios en las duraciones o predecesoras. &#x200B;
 * **La práctica mejora las habilidades:** La práctica con predecesoras y duraciones ayuda a perfeccionar las habilidades de administración de proyectos y garantiza un mejor control sobre los plazos.
 
 ## Tutoriales recomendados sobre este tema
@@ -53,3 +51,4 @@ El vídeo muestra cómo establecer predecesoras para nuevas tareas, lo que garan
 * [Información sobre las duraciones de las tareas](/help/manage-work/tasks/understand-task-durations.md)
 * [Comprender las horas planificadas](/help/manage-work/tasks/understand-planned-hours.md)
 * [Calcular horas de tarea con esfuerzo de trabajo](/help/manage-work/tasks/understand-work-effort.md)
+

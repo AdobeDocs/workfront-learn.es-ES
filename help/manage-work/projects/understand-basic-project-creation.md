@@ -1,6 +1,6 @@
 ---
 title: Creación y administración de un proyecto desde cero
-description: Aprenda a crear, administrar y completar proyectos de forma eficaz, a gestionar problemas inesperados y a explorar sugerencias fáciles de usar para los principiantes con el fin de dominar las funciones esenciales de administración de proyectos.
+description: Aprenda a crear, administrar y completar proyectos de forma eficaz, gestionar problemas inesperados y explorar consejos fáciles de usar para los principiantes con el fin de dominar las funciones esenciales de administración de proyectos. ​
 activity: use
 feature: Work Management,Get Started with Workfront
 thumbnail: 335082.jpeg
@@ -24,16 +24,16 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-06T14:45:11.134Z'
-source-git-commit: f0f541bf3fd6db69e6d813cf81456a5df6848d49
+source-git-commit: 4077f8da1f1400400fc9749db53719037c778e7c
 workflow-type: tm+mt
-source-wordcount: 169
-ht-degree: 20%
+source-wordcount: 241
+ht-degree: 14%
 
 ---
 
 # Creación y administración de un proyecto desde cero
 
-En este vídeo se explica cómo crear y administrar un proyecto desde cero. Comienza creando un nuevo proyecto, cambiándole el nombre y estableciendo una meta con una descripción, una fecha de inicio y una fecha de finalización objetivo. Los proyectos se pueden desglosar en tareas, que son trabajos planificados con duraciones y asignaciones estimadas. Las tareas se pueden secuenciar utilizando predecesoras y el estado del proyecto se puede establecer en &quot;Actual&quot; para notificar al equipo e incluirlo en los informes. palo de golf
+En este vídeo se explica cómo crear y administrar un proyecto desde cero. Comienza creando un nuevo proyecto, cambiándole el nombre y estableciendo una meta con una descripción, una fecha de inicio y una fecha de finalización objetivo. Los proyectos se pueden desglosar en tareas, que son trabajos planificados con duraciones y asignaciones estimadas. Las tareas se pueden secuenciar utilizando predecesoras y el estado del proyecto se puede establecer en &quot;Actual&quot; para notificar al equipo e incluirlo en los informes. 
 
 
 >[!VIDEO](https://video.tv.adobe.com/v/3435899/?captions=spa&quality=12&learn=on&enablevpops=1)
@@ -41,10 +41,10 @@ En este vídeo se explica cómo crear y administrar un proyecto desde cero. Comi
 ## Principales conclusiones
 
 * **Creación de un proyecto:** Comience creando un nuevo proyecto, cambiándole el nombre y estableciendo una meta, una descripción, una fecha de inicio y una fecha de finalización objetivo.
-* **Desglose del trabajo:** Divida el proyecto en tareas individuales, estime las duraciones, asigne responsabilidades y secuencie tareas utilizando predecesoras. palo de golf
-* **Resolución de problemas:** Administre problemas inesperados convirtiéndolos en tareas, moviéndolos a otro proyecto o marcándolos como &quot;No se resuelve&quot;.
-* **Ajuste de escalas de tiempo:** Si agrega tareas, puede afectar a la escala de tiempo del proyecto, pero las tareas superpuestas pueden ayudar a mantener la fecha de finalización original. palo de golf
-* **Criterios de finalización:** Un proyecto se considera completado cuando todas las tareas han finalizado y cualquier problema se ha resuelto. Los principiantes deben comenzar con proyectos sencillos y explorar gradualmente las características avanzadas. palo de golf
+* **Desglose del trabajo:** Divida el proyecto en tareas individuales, estime las duraciones, asigne responsabilidades y secuencie tareas utilizando predecesoras. &#x200B;
+* **Resolución de problemas:** Administre los problemas inesperados convirtiéndolos en tareas, moviéndolos a otro proyecto o marcándolos como &quot;No se resuelve&quot;. &#x200B;
+* **Ajuste de escalas de tiempo:** Si agrega tareas, puede afectar a la escala de tiempo del proyecto, pero las tareas superpuestas pueden ayudar a mantener la fecha de finalización original. &#x200B;
+* **Criterios de finalización:** Un proyecto se considera completado cuando todas las tareas han finalizado y cualquier problema se ha resuelto. Los principiantes deben comenzar con proyectos sencillos y explorar gradualmente las características avanzadas. 
 
 
 ## Tutoriales recomendados sobre este tema
@@ -52,4 +52,5 @@ En este vídeo se explica cómo crear y administrar un proyecto desde cero. Comi
 * [Navegar por la página del proyecto](/help/manage-work/projects/navigate-the-project-page.md)
 * [Explore cuatro métodos para crear un proyecto](/help/manage-work/projects/understand-other-ways-to-create-projects.md)
 * [Rellene los detalles esenciales del proyecto](/help/manage-work/projects/fill-in-the-project-details.md)
+
 

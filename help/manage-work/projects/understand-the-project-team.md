@@ -24,10 +24,10 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-06T14:42:45.518Z'
-source-git-commit: f0f541bf3fd6db69e6d813cf81456a5df6848d49
+source-git-commit: 4077f8da1f1400400fc9749db53719037c778e7c
 workflow-type: tm+mt
-source-wordcount: 208
-ht-degree: 7%
+source-wordcount: 224
+ht-degree: 6%
 
 ---
 
@@ -39,11 +39,11 @@ En este vídeo, aprenderá para qué se puede utilizar el equipo del proyecto y 
 
 ## Principales conclusiones
 
-* **Propagación automática de equipo:** El equipo del proyecto se rellena automáticamente cuando a los usuarios se les asignan tareas o se les designa como propietarios del proyecto. Sin embargo, los usuarios no se eliminan automáticamente cuando se eliminan sus asignaciones; esto debe hacerse manualmente. palo de golf
-* **Actualizaciones manuales:** Puede agregar o quitar manualmente personas del equipo del proyecto, incluso si no tienen asignaciones, para garantizar que la lista del equipo se mantenga precisa y actualizada. palo de golf
-* **Comunicación centralizada:** La ficha Personas le permite enviar actualizaciones a todos los integrantes del equipo en el nivel de proyecto, lo que la convierte en una herramienta conveniente para la comunicación en todo el equipo. palo de golf
-* **Notificaciones por correo electrónico:** Los administradores del sistema pueden activar notificaciones por correo electrónico para el equipo del proyecto, como alertas para documentos agregados, tareas de hitos completadas o problemas, lo que garantiza que los integrantes del equipo se mantengan informados. palo de golf
-* **Seguimiento de la participación en el proyecto:** Workfront usa el equipo del proyecto para identificar en qué proyectos está involucrado un usuario, lo que habilita características como filtrar proyectos por participación del usuario para facilitar la navegación. palo de golf
+* **Propagación automática de equipo:** El equipo del proyecto se rellena automáticamente cuando a los usuarios se les asignan tareas o se les designa como propietarios del proyecto. Sin embargo, los usuarios no se eliminan automáticamente cuando se eliminan sus asignaciones; esto debe hacerse manualmente. 
+* **Actualizaciones manuales:** Puede agregar o quitar manualmente personas del equipo del proyecto, incluso si no tienen asignaciones, para garantizar que la lista del equipo se mantenga precisa y actualizada. &#x200B;
+* **Comunicación centralizada:** La ficha Personas le permite enviar actualizaciones a todos los integrantes del equipo en el nivel de proyecto, lo que la convierte en una herramienta conveniente para la comunicación en todo el equipo. &#x200B;
+* **Notificaciones por correo electrónico:** Los administradores del sistema pueden activar notificaciones por correo electrónico para el equipo del proyecto, como alertas para documentos agregados, tareas de hitos completadas o problemas, lo que garantiza que los integrantes del equipo se mantengan informados. &#x200B;
+* **Seguimiento de la participación en el proyecto:** Workfront usa el equipo del proyecto para identificar en qué proyectos está involucrado un usuario, lo que habilita características como filtrar proyectos por participación del usuario para facilitar la navegación. &#x200B;
 
 ## Tutoriales recomendados sobre este tema
 
@@ -51,3 +51,4 @@ En este vídeo, aprenderá para qué se puede utilizar el equipo del proyecto y 
 * [Buscar proyectos de forma eficaz](/help/manage-work/projects/find-projects.md)
 * [Uso compartido efectivo de proyectos en Workfront](/help/manage-work/projects/share-a-project.md)
 * [Mejore el éxito del proyecto mediante una comunicación eficaz](/help/manage-work/projects/understand-project-communication.md)
+
