@@ -6,7 +6,7 @@ thumbnail: how-to-create-tasks.jpeg
 type: Tutorial
 role: User
 level: Beginner
-last-substantial-update: '2023-05-15T00:00:00.000Z'
+last-substantial-update: '2026-07-21T00:00:00.000Z'
 recommendations: noDisplay,catalog
 jira: KT-10151
 exl-id: 68102c46-80be-4255-89b8-38022d421c6c
@@ -21,7 +21,7 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-06T14:39:08.728Z'
-source-git-commit: 4077f8da1f1400400fc9749db53719037c778e7c
+source-git-commit: 8c436898c1fe507bafb41dfefba4727cf52e9f1a
 workflow-type: tm+mt
 source-wordcount: 204
 ht-degree: 6%
@@ -38,9 +38,9 @@ El vídeo proporciona un tutorial sobre la creación de tareas en un proyecto de
 ## Principales conclusiones
 
 * **Métodos de creación de tareas:** Utilice el botón &quot;Nueva tarea&quot; para la creación detallada de tareas o el botón &quot;Agregar más tareas&quot; para la edición rápida en línea.
-* **Campos obligatorios:** &#x200B;Solo el nombre de la tarea es obligatorio; otros campos como la descripción, la duración y las asignaciones son opcionales y se pueden agregar más adelante. &#x200B;
+* **Campos obligatorios:** &#x200B;Solo el nombre de la tarea es obligatorio; otros campos como la descripción, la duración y las asignaciones son opcionales y se pueden agregar más adelante. palo de golf
 * **Tareas de cambio de posición:** &#x200B;Las tareas se agregan al final de la lista, pero se pueden cambiar de posición arrastrando o utilizando la opción &quot;Anular sangría&quot; para ajustar la jerarquía.
-* **Vistas personalizadas:** Se pueden seleccionar distintas vistas para incluir campos adicionales, como descripciones, al agregar tareas. &#x200B;
+* **Vistas personalizadas:** Se pueden seleccionar distintas vistas para incluir campos adicionales, como descripciones, al agregar tareas. palo de golf
 * **Inserción de tareas en posiciones específicas:** &#x200B;Haga clic con el botón secundario entre las tareas existentes y seleccione &quot;Insertar tarea a continuación&quot; para colocar una nueva tarea en una ubicación específica.
 
 
