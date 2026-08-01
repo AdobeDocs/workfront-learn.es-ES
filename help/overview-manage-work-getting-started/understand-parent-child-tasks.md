@@ -38,7 +38,7 @@ Este vídeo contiene información sobre:
 
 * Cómo se estructuran las tareas en un proyecto de [!DNL Workfront]
 
->[!VIDEO](https://video.tv.adobe.com/v/335087/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3445599/?captions=spa&quality=12&learn=on&enablevpops=1)
 
 ## Tutoriales recomendados sobre este tema
 
