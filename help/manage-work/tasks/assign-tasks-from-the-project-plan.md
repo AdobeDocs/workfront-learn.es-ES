@@ -8,7 +8,7 @@ type: Tutorial
 role: User
 level: Beginner
 team: Technical Marketing
-last-substantial-update: '2024-05-23T00:00:00.000Z'
+last-substantial-update: '2026-07-29T00:00:00.000Z'
 jira: KT-8779
 recommendations: noDisplay,catalog
 exl-id: 14b893d4-e3bb-4e5d-a06b-99b744ad6b61
@@ -24,10 +24,10 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-06T14:38:57.192Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: 1127abea85995e915397d3a7a6de9f567fb88f1b
 workflow-type: tm+mt
-source-wordcount: 221
-ht-degree: 14%
+source-wordcount: 191
+ht-degree: 16%
 
 ---
 
@@ -40,11 +40,11 @@ En el vídeo se explican varios métodos para asignar tareas en un plan de proye
 
 ## Principales conclusiones
 
-* **Edición en línea para asignaciones rápidas:** Asigne tareas fácilmente escribiendo un nombre y seleccionándolas de una lista, con funcionalidad de escritura anticipada para una selección más rápida. &#x200B;
-* **Edición masiva para aumentar la eficacia:** Asigne varias tareas a la misma persona seleccionando tareas, utilizando la edición masiva y eligiendo el nombre de la lista. &#x200B;
-* **Roles para asignaciones optimizadas:** Use los roles para facilitar las asignaciones de tareas, especialmente con las plantillas de proyecto. Las funciones del puesto se registran por separado para la gestión de recursos y la planificación de la capacidad. &#x200B;
-* **Asignaciones de equipo para Collaboration:** Asigne tareas a equipos seleccionando el nombre del equipo, visible con un icono de equipo. Los integrantes del equipo pueden asignar tareas automáticamente o los líderes del equipo pueden reasignarlas, conservando el nombre del equipo para los informes. &#x200B;
-* **Integración de administración de recursos:** Los roles de trabajo y las asignaciones de equipo admiten cálculos de disponibilidad y capacidad de recursos, lo que mejora la planificación y ejecución del proyecto. &#x200B;
+* **Edición en línea para asignaciones rápidas:** Asigne tareas fácilmente escribiendo un nombre y seleccionándolas de una lista, con funcionalidad de escritura anticipada para una selección más rápida. palo de golf
+* **Edición masiva para aumentar la eficacia:** Asigne varias tareas a la misma persona seleccionando tareas, utilizando la edición masiva y eligiendo el nombre de la lista. palo de golf
+* **Roles para asignaciones optimizadas:** Use los roles para facilitar las asignaciones de tareas, especialmente con las plantillas de proyecto. Las funciones del puesto se registran por separado para la gestión de recursos y la planificación de la capacidad. palo de golf
+* **Asignaciones de equipo para Collaboration:** Asigne tareas a equipos seleccionando el nombre del equipo, visible con un icono de equipo. Los integrantes del equipo pueden asignar tareas automáticamente o los líderes del equipo pueden reasignarlas, conservando el nombre del equipo para los informes. palo de golf
+* **Integración de administración de recursos:** Los roles de trabajo y las asignaciones de equipo admiten cálculos de disponibilidad y capacidad de recursos, lo que mejora la planificación y ejecución del proyecto. palo de golf
 
 
 ## Tutoriales recomendados sobre este tema
