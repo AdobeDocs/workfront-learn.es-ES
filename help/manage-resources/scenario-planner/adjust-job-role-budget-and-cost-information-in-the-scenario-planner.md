@@ -36,4 +36,4 @@ Este vídeo contiene información sobre:
 * Ajustar la información del presupuesto
 * Ajustar la información de costes
 
->[!VIDEO](https://video.tv.adobe.com/v/335320/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3412641/?captions=spa&quality=12&learn=on&enablevpops=1)
