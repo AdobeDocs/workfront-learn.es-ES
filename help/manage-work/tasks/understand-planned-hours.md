@@ -38,7 +38,7 @@ Las horas planificadas son cruciales para la administración de recursos en Work
 También ayudan a rastrear el tiempo empleado en las tareas, mejorar las estimaciones futuras y aclarar las expectativas con los integrantes del equipo.
 
 
->[!VIDEO](https://video.tv.adobe.com/v/335090/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3445336/?captions=spa&learn=on)
 
 
 ## Principales conclusiones
