@@ -36,4 +36,4 @@ Este vídeo contiene información sobre:
 * Filtrar la lista de usuarios en el área de Trabajo asignado
 * Filtrar el área de Trabajo no asignado
 
->[!VIDEO](https://video.tv.adobe.com/v/335163/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3413855/?captions=spa&quality=12&learn=on&enablevpops=1)

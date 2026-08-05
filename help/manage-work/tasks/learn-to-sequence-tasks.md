@@ -8,7 +8,7 @@ type: Tutorial
 role: User
 level: Beginner
 team: Technical Marketing
-last-substantial-update: '2024-06-15T00:00:00.000Z'
+last-substantial-update: '2026-08-04T00:00:00.000Z'
 jira: KT-8778
 recommendations: noDisplay,catalog
 exl-id: 4044743f-71f8-4416-a365-575d90d5bd70
@@ -24,7 +24,7 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-06T14:37:58.078Z'
-source-git-commit: 4077f8da1f1400400fc9749db53719037c778e7c
+source-git-commit: 43b480caa23d4fd0fb485e18a3474fdfeab387e7
 workflow-type: tm+mt
 source-wordcount: 213
 ht-degree: 6%
@@ -33,7 +33,9 @@ ht-degree: 6%
 
 # Secuenciar tareas de forma eficaz en Workfront
 
-En el vídeo se explica cómo secuenciar las tareas en Workfront mediante predecesoras y duraciones para administrar de forma eficaz las escalas de tiempo de los proyectos.El vídeo muestra cómo establecer predecesoras para nuevas tareas, lo que garantiza un orden secuencial y fechas de inicio precisas.&#x200B;Hace hincapié en la importancia de practicar con los predecesores para comprender su impacto en los plazos del proyecto y recomienda utilizar duraciones y predecesores para una planificación eficiente del proyecto.
+En el vídeo se explica cómo secuenciar las tareas en Workfront mediante predecesoras y duraciones para administrar de forma eficaz las escalas de tiempo de los proyectos.
+El vídeo muestra cómo establecer predecesoras para nuevas tareas, lo que garantiza un orden secuencial y fechas de inicio precisas.
+&#x200B;Hace hincapié en la importancia de practicar con los predecesores para comprender su impacto en los plazos del proyecto y recomienda utilizar duraciones y predecesores para una planificación eficiente del proyecto.
 
 
 >[!VIDEO](https://video.tv.adobe.com/v/3447323/?captions=spa&quality=12&learn=on&enablevpops=1)

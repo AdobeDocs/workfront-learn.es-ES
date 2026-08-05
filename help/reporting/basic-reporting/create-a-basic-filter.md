@@ -35,7 +35,7 @@ ht-degree: 3%
 En este vídeo se explica cómo crear y utilizar filtros en Workfront para personalizar informes de lista basados en criterios específicos. Los filtros permiten a los usuarios reducir listas, como tareas, proyectos o documentos, definiendo condiciones. En la lista solo aparecerán los elementos que coincidan con las condiciones de filtro y accesibles para el usuario que ha iniciado sesión. &#x200B;
 
 
->[!VIDEO](https://video.tv.adobe.com/v/335151/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3431675/?captions=spa&quality=12&learn=on&enablevpops=1)
 
 ## Principales conclusiones
 

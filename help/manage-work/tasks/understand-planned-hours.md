@@ -9,7 +9,7 @@ role: User
 level: Beginner
 team: Technical Marketing
 jira: KT-8777
-last-substantial-update: '2024-06-19T00:00:00.000Z'
+last-substantial-update: '2026-08-04T00:00:00.000Z'
 recommendations: noDisplay,catalog
 exl-id: 76bde9ac-74de-41fc-ab75-5b987b42515c
 doc-type: video
@@ -24,7 +24,7 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-06T14:38:33.224Z'
-source-git-commit: 4077f8da1f1400400fc9749db53719037c778e7c
+source-git-commit: 43b480caa23d4fd0fb485e18a3474fdfeab387e7
 workflow-type: tm+mt
 source-wordcount: 243
 ht-degree: 19%
@@ -33,7 +33,9 @@ ht-degree: 19%
 
 # Comprender las horas planificadas
 
-En el vídeo se explica el concepto de horas planificadas, que son estimaciones del tiempo necesario para completar las tareas.Las horas planificadas son cruciales para la administración de recursos en Workfront, ya que ayudan a identificar la asignación excesiva o insuficiente de recursos.También ayudan a rastrear el tiempo empleado en las tareas, mejorar las estimaciones futuras y aclarar las expectativas con los trabajadores.
+En el vídeo se explica el concepto de horas planificadas, que son estimaciones del tiempo necesario para completar las tareas.
+Las horas planificadas son cruciales para la administración de recursos en Workfront, ya que ayudan a identificar la asignación excesiva o insuficiente de recursos.
+También ayudan a rastrear el tiempo empleado en las tareas, mejorar las estimaciones futuras y aclarar las expectativas con los trabajadores.
 
 
 >[!VIDEO](https://video.tv.adobe.com/v/3445336/?captions=spa&quality=12&learn=on&enablevpops=1)
@@ -45,7 +47,7 @@ En el vídeo se explica el concepto de horas planificadas, que son estimaciones 
 * **Consejos de estimación precisa:** Divida las tareas largas en subtareas más pequeñas, realice un seguimiento eficaz del tiempo y documente los cambios o problemas para refinar las estimaciones de horas planificadas. &#x200B;
 * **Administración de recursos:** Workfront usa las horas planificadas para identificar la asignación excesiva o insuficiente de recursos, lo que garantiza asignaciones de tareas eficientes. &#x200B;
 * **Referencia histórica:** Los proyectos completados deben conservarse como referencias para la planificación futura, especialmente para las tareas asignadas a nuevos trabajadores. &#x200B;
-* **Facilidad de uso:** Las horas planificadas se pueden agregar o editar mediante la edición en línea, y las horas de la tarea principal se calculan automáticamente sumando subtareas. Se recomienda incluir las horas planificadas en las plantillas de proyecto. 
+* **Facilidad de uso:** Las horas planificadas se pueden agregar o editar mediante la edición en línea, y las horas de la tarea principal se calculan automáticamente sumando subtareas. Se recomienda incluir las horas planificadas en las plantillas de proyecto. &#x200B;
 
 
 ## Tutoriales y artículos recomendados sobre este tema
