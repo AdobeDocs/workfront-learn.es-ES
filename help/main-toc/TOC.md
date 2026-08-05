@@ -1,9 +1,9 @@
 ---
 user-guide-title: Tutoriales de Workfront
 user-guide-description: La biblioteca de vídeos de formación y artículos está estructurada para ayudarle a comprender mejor las funciones y la configuración de Workfront.
-source-git-commit: 43b480caa23d4fd0fb485e18a3474fdfeab387e7
+source-git-commit: 910f282af942ba9ea62b56d86f6b4cd929908ad3
 workflow-type: tm+mt
-source-wordcount: '2657'
+source-wordcount: '2659'
 ht-degree: 77%
 
 ---
@@ -519,13 +519,13 @@ ht-degree: 77%
     + [Comprender  [!DNL Workfront DAM]](/help/workfront-dam/system-setup/introduction-to-workfront-dam.md)
     + [Comprender la configuración del sistema](/help/workfront-dam/system-setup/system-setup-system-settings.md)
     + [Comprender [!UICONTROL Brand Portal]](/help/workfront-dam/system-setup/brand-connect-brand-portal-introduction.md)
-    + [Analizar y planificar una estrategia de  [!DNL Workfront DAM] &#x200B;](/help/workfront-dam/system-setup/analyze-and-plan-to-develop-a-workfront-dam-strategy.md)
+    + [Analizar y planificar una estrategia de  [!DNL Workfront DAM] ](/help/workfront-dam/system-setup/analyze-and-plan-to-develop-a-workfront-dam-strategy.md)
     + [Configurar grupos y usuarios](/help/workfront-dam/system-setup/system-setup-groups-and-users.md)
     + [Configuración de la integración en Workfront](/help/workfront-dam/system-setup/configure-the-integration-in-workfront.md)
     + [Personalizar [!DNL Workfront DAM]](/help/workfront-dam/system-setup/system-setup-customize-workfront-dam.md)
 
   + Metadatos y palabras clave {#metadata-and-keywords}
-    + [Comprender los metadatos](/help/workfront-dam/metadata-and-keywords/metadata-introduction.md)
+    + [Introducción de metadatos y palabras clave](/help/workfront-dam/metadata-and-keywords/metadata-introduction.md)
     + [Habilitar y aplicar la taxonomía de palabras clave](/help/workfront-dam/metadata-and-keywords/enable-and-enforce-keyword-taxonomy.md)
     + [Revisión de la terminología de metadatos](/help/workfront-dam/metadata-and-keywords/review-the-terminology.md)
     + [Buscar recursos mediante metadatos y palabras clave](/help/workfront-dam/metadata-and-keywords/search-for-assets.md)
