@@ -1,9 +1,9 @@
 ---
 user-guide-title: Tutoriales de Workfront
 user-guide-description: La biblioteca de vídeos de formación y artículos está estructurada para ayudarle a comprender mejor las funciones y la configuración de Workfront.
-source-git-commit: 910f282af942ba9ea62b56d86f6b4cd929908ad3
+source-git-commit: 14693616f1b7b47558aa98c6ea4b101b8fc27f19
 workflow-type: tm+mt
-source-wordcount: '2659'
+source-wordcount: '2658'
 ht-degree: 77%
 
 ---
@@ -191,7 +191,7 @@ ht-degree: 77%
     + [Registrar y revisar horas del proyecto](/help/manage-work/close-a-project/log-and-review-hours.md)
 
   + Finanzas del proyecto para usuarios {#project-finances-users}
-    + [Acceso y administración de información financiera para proyectos y tareas](/help/manage-work/project-finances/find-financial-information.md)
+    + [Acceso y administración de la información financiera para las finanzas del proyecto](/help/manage-work/project-finances/find-financial-information.md)
     + [Actualizar finanzas para proyectos de clientes](/help/manage-work/project-finances/update-and-review-finances.md)
     + [Personalizar las tarifas de facturación para los roles](/help/manage-work/project-finances/multiple-billing-rates.md)
 

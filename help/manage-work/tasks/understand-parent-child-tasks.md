@@ -1,18 +1,18 @@
 ---
 title: Explicación de las relaciones entre tareas principales y secundarias
-description: Optimice la administración de proyectos con tareas como base, usando estructuras principal-secundario, finalización automática de tareas principales, herramientas flexibles de organización y estructuración de tareas adaptada para lograr eficiencia.
-activity: use
+description: Aprenda cómo las estructuras de tareas principal-secundario organizan los proyectos en Workfront, incluida la finalización automática de la tarea principal y la organización de tareas flexible y adaptada.
 feature: Work Management
 thumbnail: 335087.jpeg
 type: Tutorial
 role: User
 level: Beginner
+duration: 459
 team: Technical Marketing
 recommendations: noDisplay,catalog
-last-substantial-update: '2026-07-28T00:00:00.000Z'
+last-substantial-update: '2026-07-28'
 jira: KT-8774
 exl-id: 882e421d-8ed9-492f-8810-7bc2de8fc820
-doc-type: video
+doc-type: Feature Video
 product_v2:
   - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
 feature_v2:
@@ -24,27 +24,27 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-06T14:38:15.124Z'
-source-git-commit: f4ee97efb7f49a98f8b6bcd5145558c6d6476fe4
+source-git-commit: 974178416cf6b743c3c5f3d7297bc221707daa54
 workflow-type: tm+mt
-source-wordcount: 185
-ht-degree: 7%
+source-wordcount: 264
+ht-degree: 4%
 
 ---
 
 # Explicación de las relaciones entre tareas principales y secundarias
 
 En este vídeo se explica la estructura de tareas de Workfront. Las tareas son componentes esenciales de un proyecto y representan los elementos de trabajo necesarios para su finalización&#x200B; El vídeo destaca la importancia de organizar las tareas con precisión como paso clave en la planificación y administración del proyecto. Muestra cómo empezar a trabajar con tareas y explica las relaciones entre las tareas principales y secundarias.
-&#x200B;Las tareas principales actúan como organizadores, agrupan el proyecto en fases, etapas o hitos y no se asignan a individuos. Las tareas secundarias, o subtareas, representan el trabajo procesable asignado a los integrantes del equipo.
+Las tareas principales actúan como organizadores, agrupan el proyecto en fases, etapas o hitos, y no se asignan a individuos. Las tareas secundarias, o subtareas, representan el trabajo procesable asignado a los integrantes del equipo.
 
->[!VIDEO](https://video.tv.adobe.com/v/3445599/?captions=spa&quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3445599/?captions=spa&learn=on)
 
 ## Principales conclusiones
 
-* **Tareas como Backbone del proyecto:** Las tareas representan los elementos de trabajo necesarios para completar un proyecto y son cruciales para la planificación y administración efectivas del proyecto. palo de golf
-* **Estructura de la tarea principal-secundaria:** Las tareas principales agrupan el proyecto en fases, etapas o hitos, mientras que las tareas secundarias (subtareas) representan trabajo procesable asignado a los integrantes del equipo. palo de golf
-* **Finalización automática de tareas principales:** Las tareas principales se marcan como completadas automáticamente una vez que todas las tareas secundarias asociadas hayan finalizado. palo de golf
+* **Tareas como Backbone del proyecto:** Las tareas representan los elementos de trabajo necesarios para completar un proyecto y son cruciales para la planificación y administración efectivas del proyecto. &#x200B;
+* **Estructura de la tarea principal-secundaria:** Las tareas principales agrupan el proyecto en fases, etapas o hitos, mientras que las tareas secundarias (subtareas) representan trabajo procesable asignado a los integrantes del equipo. &#x200B;
+* **Finalización automática de tareas principales:** Las tareas principales se marcan como completadas automáticamente una vez que todas las tareas secundarias asociadas hayan finalizado. &#x200B;
 * **Herramientas de organización de tareas:** Las tareas se pueden organizar mediante los botones de sangría y anulación de sangría para crear estructuras jerárquicas, con compatibilidad para hasta siete niveles de relaciones principal-secundario.
-* **Estructuración flexible de tareas:** los proyectos pueden utilizar una estructura principal-secundaria o mantener todas las tareas en el mismo nivel, según las necesidades específicas del proyecto. palo de golf
+* **Estructuración flexible de tareas:** los proyectos pueden utilizar una estructura principal-secundaria o mantener todas las tareas en el mismo nivel, según las necesidades específicas del proyecto. &#x200B;
 
 
 ## Tutoriales recomendados sobre este tema
