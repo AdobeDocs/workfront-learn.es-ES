@@ -22,7 +22,7 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-06T16:45:52.312Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: 9ae283a3880351d9aa7c0738e02bef084e999f5f
 workflow-type: tm+mt
 source-wordcount: 493
 ht-degree: 94%
@@ -47,7 +47,7 @@ Llame a un servicio web para devolver detalles sobre varios países e identifica
 
 1. Cree un nuevo escenario y asígnele el nombre “Agregación avanzada”.
 1. Establezca el módulo del activador en un HTTP: realice un módulo de solicitud.
-1. Utilice esta URL, `https://restcountries.com/v2/lang/es`, que proporciona una lista de todos los países donde se habla español.
+1. Utilice esta URL, `https://countries.dev/lang/es`, que proporciona una lista de todos los países donde se habla español.
 1. Deje el Método como Get.
 1. Haga clic en la casilla de verificación Analizar respuesta.
 1. Cambie el nombre del módulo “Obtener países”.
@@ -59,7 +59,7 @@ Llame a un servicio web para devolver detalles sobre varios países e identifica
 
    **Debe recopilar información de la subregión para cada uno de los países, por lo que deberá realizar una petición HTTP adicional.**
 
-1. Agregue otra solicitud para obtener información de la subregión. Solo devolverá el primer país, pero está bien por ahora. Añadir otro HTTP Realice un módulo de solicitud y utilice la URL `https://restcountries.com/v2/name/{country name}`.
+1. Agregue otra solicitud para obtener información de la subregión. Solo devolverá el primer país, pero está bien por ahora. Añadir otro HTTP Realice un módulo de solicitud y utilice la URL `https://countries.dev/name/{country name}`.
 1. Para obtener el nombre del primer país, vaya al panel de asignación y haga clic en Datos y, a continuación, en Nombre en la matriz. El [1] en el campo de datos significa que devolverá el primer elemento de la matriz.
 
    + Haga clic en el número y cambie el índice si es necesario, pero en este caso solo desea el primer elemento.

@@ -22,7 +22,7 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-06T16:33:27.197Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: 9ae283a3880351d9aa7c0738e02bef084e999f5f
 workflow-type: tm+mt
 source-wordcount: 258
 ht-degree: 91%
@@ -43,8 +43,8 @@ Workfront recomienda ver el vídeo tutorial del ejercicio antes de intentar recr
 
 ## Ejercitar direcciones URL
 
-* `https://restcountries.com/v2/lang/es`
-* `https://restcountries.com/v2/name/{country name}`
+* `https://countries.dev/lang/es`
+* `https://countries.dev/name/{country name}`
 
 
 
