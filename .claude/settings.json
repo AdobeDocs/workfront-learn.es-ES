@@ -1,0 +1,14 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npm ls *)",
+      "Read(//Users/chuckmiddleton2023/.vscode/extensions/**)",
+      "Read(//Users/chuckmiddleton2023/Library/Application Support/Code/User/**)",
+      "Bash(npm root *)",
+      "Bash(find \"/Users/chuckmiddleton2023/.vscode/extensions/anthropic.claude-code-2.1.222-darwin-arm64\" -maxdepth 2 -iname \"*claude*\")",
+      "Read(//Users/chuckmiddleton2023/.vscode/extensions/anthropic.claude-code-2.1.222-darwin-arm64/**)",
+      "Bash(/Users/chuckmiddleton2023/.vscode/extensions/anthropic.claude-code-2.1.222-darwin-arm64/resources/native-binary/claude --version)",
+      "Bash(/Users/chuckmiddleton2023/.vscode/extensions/anthropic.claude-code-2.1.222-darwin-arm64/resources/native-binary/claude mcp *)"
+    ]
+  }
+}
