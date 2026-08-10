@@ -7,23 +7,20 @@ thumbnail: 336822.png
 type: Tutorial
 role: User
 level: Intermediate
+duration: 382
 team: Technical Marketing
-last-substantial-update: '2025-08-05T00:00:00.000Z'
+last-substantial-update: '2025-08-05'
+nudge-edit: 2026-08-10
 jira: KT-9087
 exl-id: 1bb0832e-e888-4154-b78d-24c6d69f629f
-doc-type: video
-product_v2:
-  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
-feature_v2:
-  - id: c6dd2ac5-f5bd-4e59-9101-25b156918623
-subfeature_v2:
-  - id: cec4c78b-dd2b-46ec-b824-6ca30f0eb7b2
-role_v2:
-  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
-level_v2:
-  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+doc-type: Feature Video
+product_v2: id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2: id: c6dd2ac5-f5bd-4e59-9101-25b156918623
+subfeature_v2: id: cec4c78b-dd2b-46ec-b824-6ca30f0eb7b2
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588
 autotag-review: '2026-05-06T13:58:55.263Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: 86e3d3414b665c39e085cddf76dce15587624b71
 workflow-type: tm+mt
 source-wordcount: 207
 ht-degree: 92%
@@ -38,7 +35,7 @@ Este vídeo contiene información sobre:
 * Cómo crear una solicitud personalizada mediante el modo de texto
 * Algunos ejemplos que se pueden usar en los informes
 
->[!VIDEO](https://video.tv.adobe.com/v/3412689/?captions=spa&quality=12&learn=on&enablevpops=0)
+>[!VIDEO](https://video.tv.adobe.com/v/336822/?quality=12&learn=on&enablevpops=0)
 
 ## Actividades &quot;Crear indicadores personalizados&quot;
 
