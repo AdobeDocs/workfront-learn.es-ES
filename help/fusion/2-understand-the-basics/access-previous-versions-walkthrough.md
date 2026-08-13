@@ -9,6 +9,7 @@ role: User
 level: Beginner
 jira: KT-9009
 exl-id: dd2cc2a2-e5af-41cc-bc0d-6be1efd996d9
+last-substantial-update: '2026-08-12T00:00:00.000Z'
 recommendations: noDisplay,catalog
 doc-type: video
 product_v2:
@@ -22,10 +23,10 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-06T16:39:17.503Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: 4b419797e3014599bffd64f576d8eeb196c8c153
 workflow-type: tm+mt
 source-wordcount: 280
-ht-degree: 100%
+ht-degree: 78%
 
 ---
 
@@ -43,7 +44,8 @@ Workfront recomienda ver el vídeo tutorial del ejercicio antes de intentar recr
 
 >[!NOTE]
 >
->Después de guardar el escenario, hay una nueva versión disponible en el menú de tres puntos si necesita acceder a ella en el futuro. Las versiones de escenarios guardadas anteriormente solo están disponibles durante 60 días. Si necesita acceder a versiones anteriores de más de 60 días con fines de auditoría, Workfront recomienda guardar un modelo del escenario y archivarlo en una ubicación determinada.
+>Después de guardar el escenario, Workfront Fusion conserva la versión del escenario anterior durante 60 días. El período de retención de una versión comienza cuando esa versión se reemplaza por una versión más reciente, no cuando la versión se creó originalmente.
+>Para conservar el historial de versiones de los escenarios más allá de 60 días para fines de auditoría, guarde y archive un modelo del escenario en una ubicación acordada.
 
 
 ## Añadir a la terminología
