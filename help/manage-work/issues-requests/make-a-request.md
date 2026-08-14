@@ -8,7 +8,7 @@ role: User
 level: Beginner
 team: Technical Marketing
 thumbnail: 336092.png
-last-substantial-update: '2024-07-09T00:00:00.000Z'
+last-substantial-update: '2026-08-13T00:00:00.000Z'
 jira: KT-8806
 exl-id: 07a4824e-809e-4649-b669-865519b95f1f
 recommendations: noDisplay,catalog
@@ -24,7 +24,7 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-06T14:54:50.397Z'
-source-git-commit: df1a568be7d42893910e1c0afde8bbba213a7803
+source-git-commit: 74efef740074d25e892061995fd2e9b19a3afae1
 workflow-type: tm+mt
 source-wordcount: 264
 ht-degree: 2%
@@ -41,7 +41,7 @@ El vídeo proporciona una guía detallada sobre cómo realizar y administrar sol
 
 * **Creación de solicitudes optimizada:** Los usuarios pueden crear solicitudes fácilmente seleccionando &quot;Solicitudes&quot; en el menú principal, eligiendo un tipo de solicitud, rellenando los campos obligatorios y adjuntando los documentos pertinentes. &#x200B;
 * **Flujos de trabajo personalizables:** las colas y los formularios de solicitud se adaptan a los flujos de trabajo de la organización, lo que permite a los usuarios especificar detalles (por ejemplo, en la tienda, al aire libre, medios sociales) y prioridad.
-* **Función de guardado automático de borrador:** los borradores se guardan automáticamente a medida que los usuarios rellenan el campo de asunto, para garantizar que no se pierdan datos si se pausan o se alejan. Se puede acceder a los borradores más tarde para su finalización o descartarlos si no es necesario. 
+* **Función de guardado automático de borrador:** los borradores se guardan automáticamente a medida que los usuarios rellenan el campo de asunto, para garantizar que no se pierdan datos si se pausan o se alejan. Se puede acceder a los borradores más tarde para su finalización o descartarlos si no es necesario. &#x200B;
 * **Solicitudes de seguimiento y filtrado:** Las solicitudes enviadas se pueden rastrear en la página &quot;Enviadas&quot;, con filtros disponibles para ver las solicitudes abiertas, no resueltas o todas basadas en los permisos de usuario. &#x200B;
 * **Copiar y reutilizar solicitudes:** Los usuarios pueden copiar solicitudes existentes para crear otras nuevas, lo que facilita el envío de solicitudes similares sin comenzar desde cero.
 

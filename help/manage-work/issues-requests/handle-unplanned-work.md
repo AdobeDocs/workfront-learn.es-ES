@@ -8,7 +8,7 @@ thumbnail: handle-unplanned-work.jpeg
 type: Tutorial
 role: User
 level: Beginner
-last-substantial-update: '2024-06-26T00:00:00.000Z'
+last-substantial-update: '2026-08-12T00:00:00.000Z'
 recommendations: noDisplay,catalog
 jira: KT-10070
 exl-id: 43caddaf-5fd8-4580-9a37-59b5ecc57c91
@@ -23,7 +23,7 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-06T14:57:12.678Z'
-source-git-commit: df1a568be7d42893910e1c0afde8bbba213a7803
+source-git-commit: 74efef740074d25e892061995fd2e9b19a3afae1
 workflow-type: tm+mt
 source-wordcount: 266
 ht-degree: 2%
@@ -32,7 +32,7 @@ ht-degree: 2%
 
 # Gestión eficaz del trabajo no planificado
 
-En el vídeo se destaca la importancia de la comunicación en la gestión de proyectos y se destaca el papel de las cuestiones como instrumento clave para facilitar la comunicación. Explica la diferencia entre actualizaciones y problemas, y observa que los problemas son más adecuados para el trabajo que debe asignarse, rastrearse y resolverse antes de que se pueda completar un proyecto. El vídeo proporciona una guía paso a paso sobre cómo registrar problemas. 
+En el vídeo se destaca la importancia de la comunicación en la gestión de proyectos y se destaca el papel de las cuestiones como instrumento clave para facilitar la comunicación. Explica la diferencia entre actualizaciones y problemas, y observa que los problemas son más adecuados para el trabajo que debe asignarse, rastrearse y resolverse antes de que se pueda completar un proyecto. El vídeo proporciona una guía paso a paso sobre cómo registrar problemas. &#x200B;
 
 
 >[!VIDEO](https://video.tv.adobe.com/v/3446569/?captions=spa&quality=12&learn=on&enablevpops=1)
