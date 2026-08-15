@@ -8,7 +8,7 @@ thumbnail: manage-issue-assignments.jpeg
 type: Tutorial
 role: User
 level: Beginner
-last-substantial-update: '2023-05-26T00:00:00.000Z'
+last-substantial-update: '2026-08-14T00:00:00.000Z'
 recommendations: noDisplay,catalog
 jira: KT-10071
 exl-id: 1d82e588-a986-4d83-b3b5-3325a5926a61
@@ -23,7 +23,7 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-06T14:55:37.524Z'
-source-git-commit: df1a568be7d42893910e1c0afde8bbba213a7803
+source-git-commit: 53316275f40bbdef51cff99078bb398a6b129f6e
 workflow-type: tm+mt
 source-wordcount: 287
 ht-degree: 16%
@@ -45,10 +45,10 @@ Este vídeo contiene información sobre:
 
 ## Principales conclusiones
 
-* **Asignar problemas:** Use la edición en línea en el campo de asignaciones para asignar problemas a usuarios o equipos, y asegúrese de hacer clic en &quot;guardar&quot; después de realizar las asignaciones. Los jefes de equipo pueden utilizar el equilibrador de carga de trabajo para asignar tareas arrastrándolas y soltándolas en los calendarios de los miembros del equipo. 
-* **Buscando problemas asignados:** los problemas asignados a usted aparecen en la Lista de trabajoss en Inicio, que se puede filtrar. Los problemas asignados por el equipo se pueden ver en la sección de solicitudes de equipos, donde los integrantes del equipo pueden aceptar o reasignar tareas. Estos problemas también aparecen en el distribuidor de cargas de trabajo para una mejor visibilidad. 
-* **Actualización del progreso:** Las actualizaciones de publicación y el registro de horas en los problemas para dar visibilidad al progreso del trabajo. Utilice la función &quot;Nombre&quot; para dirigir los comentarios a usuarios o equipos específicos. Las notificaciones se envían para comentarios, pero no para las horas registradas o los cambios de estado. 
-* **Cambiando el estado del problema:** Actualice el estado del problema para reflejar el progreso, como &quot;trabajando en él&quot; o &quot;completado&quot;. Los problemas sin resolver impiden que las tareas y los proyectos asociados se marquen como completos. 
+* **Asignar problemas:** Use la edición en línea en el campo de asignaciones para asignar problemas a usuarios o equipos, y asegúrese de hacer clic en &quot;guardar&quot; después de realizar las asignaciones. Los jefes de equipo pueden utilizar el equilibrador de carga de trabajo para asignar tareas arrastrándolas y soltándolas en los calendarios de los miembros del equipo. &#x200B;
+* **Buscando problemas asignados:** los problemas asignados a usted aparecen en la Lista de trabajoss en Inicio, que se puede filtrar. Los problemas asignados por el equipo se pueden ver en la sección de solicitudes de equipos, donde los integrantes del equipo pueden aceptar o reasignar tareas. Estos problemas también aparecen en el distribuidor de cargas de trabajo para una mejor visibilidad. &#x200B;
+* **Actualización del progreso:** Las actualizaciones de publicación y el registro de horas en los problemas para dar visibilidad al progreso del trabajo. Utilice la función &quot;Nombre&quot; para dirigir los comentarios a usuarios o equipos específicos. Las notificaciones se envían para comentarios, pero no para las horas registradas o los cambios de estado. &#x200B;
+* **Cambiando el estado del problema:** Actualice el estado del problema para reflejar el progreso, como &quot;trabajando en él&quot; o &quot;completado&quot;. Los problemas sin resolver impiden que las tareas y los proyectos asociados se marquen como completos. &#x200B;
 * **Flujos de trabajo específicos del equipo:** Siga los flujos de trabajo específicos de su organización y las configuraciones del sistema para administrar los problemas de forma eficaz. &#x200B;
 
 
