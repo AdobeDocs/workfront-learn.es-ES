@@ -11,7 +11,7 @@ jira: KT-10142
 exl-id: b56c49a5-bd3b-43b0-8e14-7443f5c7e4b1
 source-git-commit: ec82cd0aafb89df7b3c46eb716faf3a25cd438a2
 workflow-type: tm+mt
-source-wordcount: '405'
+source-wordcount: '404'
 ht-degree: 100%
 
 ---
@@ -23,7 +23,7 @@ La página del proyecto está repleta de funciones que le ayudarán a administra
 ![Página del proyecto](assets/project-page-graphic-for-planner.png)
 
 1. **Ruta de exploración:** navegue por la jerarquía de programas y portafolios detrás del proyecto.
-2. **Tipo de objeto:** mostrar el tipo de objeto en la página de aterrizaje le ayuda a identificar lo que está viendo en [!DNL Workfront]. El término “proyecto” puede personalizarlo su administrador del sistema [!DNL Workfront].
+2. **Tipo de objeto:** mostrar el tipo de objeto en la página de destino le ayuda a identificar lo que está viendo en [!DNL Workfront]. El término “proyecto” puede personalizarlo su administrador del sistema [!DNL Workfront].
 3. **Nombre del proyecto:** nombre del proyecto que está viendo. Haga clic en el nombre para editarlo.
 4. **Encabezado del proyecto:** información estándar disponible en todas las páginas del proyecto.
 5. **[!UICONTROL Porcentaje completado]:** esto se actualiza automáticamente en función de las tareas completadas en el proyecto.
