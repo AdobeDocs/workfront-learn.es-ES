@@ -5,7 +5,7 @@ feature: Work Management
 type: Tutorial
 role: User
 level: Beginner
-last-substantial-update: '2025-09-03T00:00:00.000Z'
+last-substantial-update: '2026-08-17T00:00:00.000Z'
 recommendations: noDisplay,catalog
 jira: KT-18800
 exl-id: 61602f6f-900e-402b-b1fb-88da53fc81b9
@@ -20,7 +20,7 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-06T14:37:42.333Z'
-source-git-commit: 03d522789acef5234d60733543ad10bf4bb8e092
+source-git-commit: d1984616d691299fb4767a29966b6f62c16679b8
 workflow-type: tm+mt
 source-wordcount: 199
 ht-degree: 3%
