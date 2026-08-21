@@ -8,23 +8,18 @@ thumbnail: 3422686.jpg
 type: Tutorial
 role: User
 level: Beginner
-last-substantial-update: '2025-02-26T00:00:00.000Z'
+last-substantial-update: '2026-08-17T00:00:00.000Z'
 recommendations: noDisplay,catalog
 doc-type: video
 jira: KT-10143
 exl-id: 45956a0d-d63f-4539-ac65-f2c64a60b4bf
-product_v2:
-  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
-feature_v2:
-  - id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
-subfeature_v2:
-  - id: c10f2e93-7a58-4212-aa24-684c265ebe76
-role_v2:
-  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
-level_v2:
-  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+product_v2: id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2: id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
+subfeature_v2: id: c10f2e93-7a58-4212-aa24-684c265ebe76
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-06T14:56:55.448Z'
-source-git-commit: df1a568be7d42893910e1c0afde8bbba213a7803
+source-git-commit: 1349efa7ac6687138985cc075db7b31c3e7dc693
 workflow-type: tm+mt
 source-wordcount: 232
 ht-degree: 3%
@@ -41,7 +36,7 @@ En este vídeo se explica cómo buscar y administrar solicitudes en Workfront. A
 * Informes y paneles personalizados
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3441657/?captions=spa&quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3422686/?quality=12&learn=on&enablevpops=1)
 
 ## Principales conclusiones
 
@@ -49,7 +44,7 @@ En este vídeo se explica cómo buscar y administrar solicitudes en Workfront. A
 * **Uso de filtros en el área de solicitud:** Los filtros como &quot;mis solicitudes&quot; y &quot;mis solicitudes abiertas&quot; permiten a los usuarios ver las solicitudes que han creado. &#x200B;
 * **Administración de solicitudes en la página Equipos:** Los usuarios pueden ver las solicitudes de equipo sin asignar y asignarlas a sí mismos o a otros usuarios, utilizando el equilibrador de carga de trabajo para administrar las asignaciones de los miembros del equipo en función de su carga de trabajo actual. &#x200B;
 * **Informes y paneles personalizados:** Los usuarios pueden crear informes personalizados para realizar el seguimiento de las solicitudes, lo que permite crear nombres, filtros, vistas y agrupaciones personalizados, lo que ayuda a administrar y priorizar las solicitudes de forma eficaz. &#x200B;
-* **Explicación de &quot;My&quot; en los filtros:** El término &quot;my&quot; en Inicio se refiere a los problemas que se me han asignado. El término &quot;mi&quot; en el área de solicitud hace referencia a los problemas que he solicitado. 
+* **Explicación de &quot;My&quot; en los filtros:** El término &quot;my&quot; en Inicio se refiere a los problemas que se me han asignado. El término &quot;mi&quot; en el área de solicitud hace referencia a los problemas que he solicitado. &#x200B;
 
 
 ## Tutoriales recomendados sobre este tema
