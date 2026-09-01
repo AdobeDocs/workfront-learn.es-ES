@@ -1,9 +1,9 @@
 ---
 user-guide-title: Tutoriales de Workfront
 user-guide-description: La biblioteca de vídeos de formación y artículos está estructurada para ayudarle a comprender mejor las funciones y la configuración de Workfront.
-source-git-commit: 14693616f1b7b47558aa98c6ea4b101b8fc27f19
+source-git-commit: 71fb13f139ceffafa58845488f865c5287093273
 workflow-type: tm+mt
-source-wordcount: '2658'
+source-wordcount: '2670'
 ht-degree: 77%
 
 ---
@@ -321,7 +321,7 @@ ht-degree: 77%
     + [Actualización del progreso en resultados y actividades](/help/workfront-goals/manage-your-goals/make-a-quantitative-update.md)
     + [Cierre de la meta una vez completada](/help/workfront-goals/manage-your-goals/close-a-goal-once-complete.md)
 
-  + Supervise sus metas {#monitor-goals}
+  + Monitorice sus metas {#monitor-goals}
     + [Explicación de la sección de gráficos](/help/workfront-goals/monitor-your-goals/understand-the-graphs-section.md)
     + [Cálculo del progreso de la meta](/help/workfront-goals/monitor-your-goals/calculate-goal-progress.md)
     + [Comunicar el estado de la meta](/help/workfront-goals/monitor-your-goals/communicate-goal-status.md)
@@ -563,6 +563,10 @@ ht-degree: 77%
 
 + Inicio {#home}
   + [Quitar, añadir y reorganizar widgets en Inicio](/help/workfront-home/remove-add-and-rearrange-widgets.md)
+
++ Prioridades {#priorities}
+  + [Céntrese en el día usando Prioridades](/help/priorities/focus-your-day-using-priorities.md)
+  + [Actuar y mostrar su trabajo](/help/priorities/taking-action-and-showing-your-work.md)
 
 
 + Agile {#agile}
