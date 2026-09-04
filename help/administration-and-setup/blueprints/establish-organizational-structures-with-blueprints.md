@@ -23,7 +23,7 @@ Los administradores de Workfront pueden utilizar modelos para ayudar a generar e
 
 ![Organización de estructuras con [!UICONTROL Modelos]](assets/BP_orgstructure_01.png)
 
-Para instalar un modelo de estructura organizativa en los entornos de producción o de zona protegida, seleccione Modelos en el menú principal. Examine el catálogo o utilice la opción Filtrar por tipo del menú de filtrado derecho para localizar e instalar el modelo adecuado. 
+Para instalar un modelo de estructura organizativa en los entornos de producción o de zona protegida, seleccione Modelos en el menú principal. Examine el catálogo o utilice la opción Filtrar por tipo del menú de filtrado derecho para localizar e instalar el modelo adecuado.
 
 Antes de la instalación, asigne los campos de compañía, grupo, función y equipo según las necesidades de su organización. Los campos variarán según el modelo seleccionado.
 
