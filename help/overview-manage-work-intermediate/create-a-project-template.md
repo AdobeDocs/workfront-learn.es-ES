@@ -14,63 +14,19 @@ recommendations: noDisplay,catalog
 hide: true
 doc-type: video
 exl-id: 8b373be7-df75-4929-9027-d95947c42f94
-product_v2:
-  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
-feature_v2:
-  - id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
-subfeature_v2:
-  - id: f0dd7b45-76b5-49d4-afe3-39f436b6fbd3
-role_v2:
-  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
-level_v2:
-  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+product_v2: id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2: id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
+subfeature_v2: id: f0dd7b45-76b5-49d4-afe3-39f436b6fbd3
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-05T19:21:02.093Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: 0c963b3f3c4e4367e21040e36d8a23fac7eb759c
 workflow-type: tm+mt
-source-wordcount: 380
+source-wordcount: 48
 ht-degree: 100%
 
 ---
 
 # Crear una plantilla de proyecto y obtener más información acerca de los [!UICONTROL Modelos]
 
-Aprenda a crear una plantilla de proyecto desde cero y a partir de un proyecto existente, y comprenda cómo los [!UICONTROL Modelos] le permiten acceder a un mundo de plantillas de proyecto útiles creadas por expertos en Workfront.
-
-## Crear una plantilla de proyecto
-
-Este vídeo contiene información sobre:
-
-* Crear una plantilla desde cero
-* Crear una plantilla a partir de un proyecto existente
-
->[!VIDEO](https://video.tv.adobe.com/v/3415443/?captions=spa&quality=12&learn=on&enablevpops=1)
-
-## Plantillas creadas con [!UICONTROL Modelos]
-
-Los usuarios de Workfront pueden utilizar [!UICONTROL Modelos] para ayudar a crear plantillas de proyectos. Esta función, ubicada en el Menú principal, le permite acceder a plantillas creadas previamente y listas para usarse dirigidas a un departamento y a un nivel de madurez específico. Estas plantillas ofrecen a los usuarios un punto de partida para repetir la creación de proyectos y ayudan a mantener la coherencia entre proyectos de alcance similar.
-
-![Modelos en el Menú principal](assets/pt-blueprints-01.png)
-
-Cualquier usuario con licencia puede examinar la lista de modelos disponibles en Workfront. No puede aplicar un modelo directamente al crear un nuevo proyecto (como convertir una tarea o solicitud en un proyecto). Una diferencia clave entre un modelo y una plantilla de proyecto es que se utiliza un modelo para generar una plantilla, mientras que una plantilla sirve para crear un proyecto. **Un administrador del sistema debe instalar el modelo para que se cree la plantilla correspondiente.**
-
-Si encuentra un modelo que le parezca interesante, puede hacer clic en **[!UICONTROL Detalles]** para obtener más información.
-
-![Lista de modelos](assets/pt-blueprints-02.png)
-
-La pantalla de [!UICONTROL Detalles] explica más acerca del modelo, incluido el historial de instalación si se ha instalado el modelo.
-
-![Detalles acerca del uso de un modelo](assets/pt-blueprints-03.png)
-
-Si el modelo estaba instalado, puede hacer clic en **[!UICONTROL Ver detalles]** para obtener vínculos a la plantilla creada y a cualquier otro objeto creado para admitir la plantilla.
-
-![Detalles acerca de la instalación de un modelo](assets/pt-blueprints-04.png)
-
-Si el modelo aún no se ha instalado, puede solicitarlo al administrador del sistema.
-
-## Tutoriales recomendados sobre este tema
-
-* [Creación de un proyecto directamente a partir de una plantilla](/help/manage-work/create-and-manage-project-templates/create-a-project-directly-from-a-template.md)
-* [Compartir una plantilla de proyecto](/help/manage-work/create-and-manage-project-templates/share-a-project-template.md)
-* [Copiar un proyecto existente](/help/manage-work/manage-projects/copy-an-existing-project.md)
-* [Desactivar una plantilla de proyecto](/help/manage-work/create-and-manage-project-templates/deactivate-a-project-template.md)
-* [Editar el equipo del proyecto en una plantilla de proyecto](/help/manage-work/create-and-manage-project-templates/edit-the-project-team-in-a-project-template.md)
+{{$include /help/_includes/create-a-project-template.md}}
