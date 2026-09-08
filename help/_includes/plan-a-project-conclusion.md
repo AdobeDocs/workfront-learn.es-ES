@@ -7,7 +7,7 @@ ht-degree: 94%
 ---
 # Planificar un proyecto: revisión - COMPARTIDO
 
-Ponga en marcha sus proyectos de [!DNL  Workfront] rápidamente mediante una plantilla de proyecto. A continuación, planifique el proyecto centrándose primero en estos cinco campos:
+Ponga en marcha sus proyectos de [!DNL &#x200B; Workfront] rápidamente mediante una plantilla de proyecto. A continuación, planifique el proyecto centrándose primero en estos cinco campos:
 
 1. Tareas
 1. Duración
