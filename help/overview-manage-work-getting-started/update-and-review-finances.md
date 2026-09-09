@@ -1,6 +1,6 @@
 ---
 title: Actualizar y revisar las finanzas
-description: Obtenga información sobre cómo revisar la información financiera asociada a un proyecto en  [!DNL &#x200B; Workfront].
+description: Obtenga información sobre cómo revisar la información financiera asociada a un proyecto en  [!DNL  Workfront].
 activity: use
 team: Technical Marketing
 feature: Work Management
@@ -22,45 +22,13 @@ role_v2:
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
 autotag-review: '2026-05-05T19:25:38.036Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: 0c963b3f3c4e4367e21040e36d8a23fac7eb759c
 workflow-type: tm+mt
-source-wordcount: 258
-ht-degree: 92%
+source-wordcount: 20
+ht-degree: 100%
 
 ---
 
 # Actualizar y revisar las finanzas
 
-Si su organización utiliza [!DNL Workfront] para realizar un seguimiento de la información financiera relacionada con el proyecto, la revisión de los gastos y la creación de registros de facturación pueden formar parte de su proceso de cierre de un proyecto.
-
->[!NOTE]
->
->Muchos clientes de [!DNL Workfront] gestionan sus gastos y finanzas del proyecto en un sistema de terceros, en lugar de en [!DNL Workfront]. Por lo tanto, es posible que tenga diferentes procesos o directrices para actualizar y revisar la información financiera antes de cerrar un proyecto.
-
-
-## Gastos
-
-Los gastos se pueden registrar en tareas individuales o en el propio proyecto. Independientemente de la partida en la que se registre el gasto, puede ver todos los gastos en la sección [!UICONTROL Gastos] del propio proyecto.
-
-Sección ![[!UICONTROL Gastos] de un proyecto](assets/expense-section.png)
-
-## Registros de facturación
-
-Los registros de facturación se utilizan en [!DNL Workfront] para agrupar las horas, gastos, ingresos y cantidades facturables adicionales en un único registro e importe. A menudo, se exportan desde [!DNL Workfront] en un sistema contable o de facturación de terceros.
-
-Debe tener acceso a los datos financieros de [!DNL Workfront] para crear y ver registros de facturación.
-
-## Datos financieros
-
-Un vistazo a la información de [!UICONTROL Finanzas] en los [!UICONTROL Detalles del proyecto] permite ver las cifras reales de beneficios, ingresos y costes.
-
-![Sección de finanzas de la ventana [!UICONTROL Detalles del proyecto] en un proyecto](assets/finance-section-project-details.png)
-
-La mayoría de la información financiera de los [!UICONTROL Detalles del proyecto] se configura durante la creación del proyecto y los números que vea aquí se basan en esa información. Así que cuando estás cerrando un proyecto, realmente no hay nada que necesites actualizar o añadir en los detalles financieros.
-
-<!--
-learn more urls
-Create billing records
-Manage project expenses
-Project finances
--->
+{{$include /help/_includes/update-and-review-finances.md}}

@@ -24,29 +24,13 @@ role_v2:
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
 autotag-review: '2026-05-06T15:03:56.827Z'
-source-git-commit: 03d522789acef5234d60733543ad10bf4bb8e092
+source-git-commit: 0c963b3f3c4e4367e21040e36d8a23fac7eb759c
 workflow-type: tm+mt
-source-wordcount: 83
-ht-degree: 79%
+source-wordcount: 27
+ht-degree: 62%
 
 ---
 
 # Ver hitos en sus proyectos
 
-Este vídeo contiene información sobre:
-
-* Vista de hitos en un proyecto específico
-* Leer la vista de hitos en una lista de proyectos
-
->[!VIDEO](https://video.tv.adobe.com/v/3415900/?captions=spa&quality=12&learn=on&enablevpops=1)
-
->[!TIP]
->
->Para obtener información sobre cómo crear una vista de Hito, consulte la actividad de vista de hito en [Crear una vista básica](/help/reporting/basic-reporting/create-a-basic-view.md).
-
-## Tutoriales recomendados sobre este tema
-
-* [Aplicar rutas de hitos a proyectos y tareas](/help/manage-work/approval-processes-and-milestone-paths/apply-milestones.md)
-* [Crear hitos](/help/administration-and-setup/approval-processes-and-milestone-paths/creating-milestones.md)
-
-
+{{$include /help/_includes/view-milestones.md}}

@@ -24,37 +24,13 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-06T14:46:32.240Z'
-source-git-commit: dca6f8510edc49351593fb73d0d5f2b0ac9be53e
+source-git-commit: 0c963b3f3c4e4367e21040e36d8a23fac7eb759c
 workflow-type: tm+mt
-source-wordcount: 230
-ht-degree: 8%
+source-wordcount: 39
+ht-degree: 0%
 
 ---
 
 # Planificar un proyecto de forma eficaz en Workfront
 
-El vídeo proporciona instrucciones sobre cómo planificar eficazmente un proyecto en Workfront. Enfatiza la importancia de sentar una base sólida para asegurar que el proyecto termine a tiempo y tenga éxito. Los pasos clave incluyen la comprensión de cinco campos esenciales: Tareas, Asignaciones, Duraciones, Horas planificadas y Predecesoras. Estos campos permiten realizar ajustes rápidos y precisos en el plan del proyecto. palo de golf
-
-El vídeo destaca la importancia de contar con plazos realistas, disponibilidad del equipo y una planificación precisa para crear una base sólida para el éxito del proyecto. palo de golf
-
->[!VIDEO](https://video.tv.adobe.com/v/3448570/?captions=spa&quality=12&learn=on&enablevpops=1)
-
-## Principales conclusiones
-
-* **Céntrese en cinco campos clave:** Comprenda las tareas, las asignaciones, las duraciones, las horas planificadas y las tareas predecesoras para realizar cambios eficientes y precisos en el plan del proyecto. palo de golf
-* **Establecer el estado del proyecto en &quot;Planificación&quot;:** Asegúrese de que el estado del proyecto se establece en &quot;Planificación&quot; para evitar notificaciones innecesarias al ajustar el plan. palo de golf
-* **Usar vistas adecuadas:** Utilizar la vista estándar o las vistas personalizadas para centrarse en los detalles esenciales del proyecto, como tareas, duraciones y asignaciones. palo de golf
-* **Elija una fecha de inicio realista:** Establezca una fecha de inicio práctica que se ajuste a la disponibilidad del equipo y evite escenarios poco realistas, como vacaciones o fines de semana. palo de golf
-* **Aprovechar los modos de programación:** Utilice el modo &quot;Fecha de inicio&quot; para calcular la fecha de finalización o el modo &quot;Fecha de finalización&quot; para calcular la fecha de inicio, asegurándose de que la cronología se ajuste a los requisitos del proyecto. palo de golf
-
-
-
-## Tutoriales recomendados sobre este tema
-
-* [Cree tareas de forma eficaz en Workfront](/help/manage-work/tasks/how-to-create-tasks.md)
-* [Administrar tareas de forma eficaz en Workfront](/help/manage-work/tasks/work-with-tasks.md)
-* [Asignación de tareas del plan del proyecto](/help/manage-work/tasks/assign-tasks-from-the-project-plan.md)
-* [Información sobre las duraciones de las tareas](/help/manage-work/tasks/understand-task-durations.md)
-* [Secuenciar tareas de forma eficaz en Workfront](/help/manage-work/tasks/learn-to-sequence-tasks.md)
-* [Comprender las horas planificadas](/help/manage-work/tasks/understand-planned-hours.md)
-* [Calcular horas de tarea con esfuerzo de trabajo](/help/manage-work/tasks/understand-work-effort.md)
+{{$include /help/_includes/getting-started-plan-a-project.md}}

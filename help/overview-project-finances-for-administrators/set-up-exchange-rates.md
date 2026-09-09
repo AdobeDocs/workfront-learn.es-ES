@@ -23,37 +23,13 @@ role_v2:
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
 autotag-review: '2026-05-05T19:05:15.685Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: 0c963b3f3c4e4367e21040e36d8a23fac7eb759c
 workflow-type: tm+mt
-source-wordcount: 219
+source-wordcount: 29
 ht-degree: 100%
 
 ---
 
 # Configuración de tipos de cambio
 
-[!DNL Workfront] admite diferentes divisas para organizaciones de clientes que representan a empresas multinacionales. Los tipos de cambio pueden utilizarse en proyectos e informes para reflejar información financiera en distintas divisas de todo el mundo.
-
-Los administradores del sistema gestionan los tipos de cambio. Se pueden configurar divisas adicionales según sea necesario para su organización.
-
-La divisa base predeterminada de Workfront es el dólar estadounidense. Esta es la moneda en la que se calculará la información financiera de forma predeterminada. Este valor predeterminado se puede cambiar de manera global y en proyectos individuales.
-
-## Configuración de divisas y tipos de cambio
-
-![Una imagen de la selección de tipos de cambio](assets/setting-up-finances-4.png)
-
-**Seleccione [!UICONTROL Configuración] en el menú principal.**
-
-1. Expanda **[!UICONTROL Preferencias del proyecto]** en el panel de menú de la izquierda.
-1. Haga clic en **[!UICONTROL Tipos de cambio]**.
-1. Haga clic en el botón **[!UICONTROL Agregar divisa]**.
-1. Seleccione la moneda del país en la lista desplegable.
-1. Introduzca el tipo de cambio deseado para la divisa.
-1. Si una divisa que no sea el dólar de los EE. UU. debe establecerse como la moneda base del sistema de [!DNL Workfront] (predeterminada), haga clic en el botón situado junto al nombre de la divisa.
-1. Haga clic en **[!UICONTROL Guardar]** cuando se hayan agregado todas las divisas.
-
-![Una imagen de la adición de una divisa a la lista de tipos de cambio](assets/setting-up-finances-5.png)
-
->[!NOTE]
->
->Workfront no actualiza ni sigue los valores de mercado actuales de los tipos de cambio. Las actualizaciones, si es necesario, deben realizarse manualmente.
+{{$include /help/_includes/set-up-exchange-rates.md}}

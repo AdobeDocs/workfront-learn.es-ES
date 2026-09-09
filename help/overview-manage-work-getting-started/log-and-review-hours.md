@@ -1,6 +1,6 @@
 ---
 title: Horas de registro y revisión
-description: Registre las horas pendientes y revise las horas registradas antes de cerrar un proyecto en  [!DNL &#x200B; Workfront].
+description: Registre las horas pendientes y revise las horas registradas antes de cerrar un proyecto en  [!DNL  Workfront].
 activity: use
 team: Technical Marketing
 feature: Work Management
@@ -24,25 +24,13 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-05T19:32:37.168Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: 0c963b3f3c4e4367e21040e36d8a23fac7eb759c
 workflow-type: tm+mt
-source-wordcount: 57
-ht-degree: 80%
+source-wordcount: 20
+ht-degree: 100%
 
 ---
 
 # Horas de registro y revisión
 
-Este vídeo contiene información sobre:
-
-* Revisar horas registradas en un proyecto
-* Aprobar horas del proyecto si es necesario
-
->[!VIDEO](https://video.tv.adobe.com/v/3441072/?captions=spa&quality=12&learn=on&enablevpops=1)
-
-## Tutoriales recomendados sobre este tema
-
-* [Cambiar el estado del proyecto a completo](/help/manage-work/projects/change-the-project-status.md)
-* [Aprobaciones completas](/help/manage-work/close-a-project/complete-approvals.md)
-* [Cargar recursos](/help/manage-work/close-a-project/upload-assets.md)
-* [Registro de las lecciones aprendidas](/help/manage-work/close-a-project/lessons-learned-from-closing-a-project.md)
+{{$include /help/_includes/log-and-review-hours.md}}

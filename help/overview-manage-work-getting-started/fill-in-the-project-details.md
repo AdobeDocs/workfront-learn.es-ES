@@ -25,24 +25,13 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-05T19:35:43.807Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: 0c963b3f3c4e4367e21040e36d8a23fac7eb759c
 workflow-type: tm+mt
-source-wordcount: 81
+source-wordcount: 22
 ht-degree: 100%
 
 ---
 
 # Rellene los detalles del proyecto
 
-En este vídeo, aprenderá las configuraciones de proyecto más comunes necesarias al crear un proyecto.
-
->[!VIDEO](https://video.tv.adobe.com/v/3430410/?quality=12&learn=on&enablevpops=1)
-
-
-## Tutoriales y artículos recomendados sobre este tema
-
-* [Información sobre la creación básica del proyecto](/help/manage-work/projects/understand-basic-project-creation.md)
-* [Navegar por la página del proyecto](/help/manage-work/projects/navigate-the-project-page.md)
-* [Descubra cuatro formas para crear un proyecto](/help/manage-work/projects/understand-other-ways-to-create-projects.md)
-* [Introducción a la planificación de un proyecto](/help/manage-work/projects/getting-started-plan-a-project.md)
-* [Editar proyectos](https://experienceleague.adobe.com/es/docs/workfront/using/manage-work/projects/manage-projects/edit-projects)
+{{$include /help/_includes/fill-in-the-project-details.md}}

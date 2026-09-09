@@ -1,6 +1,6 @@
 ---
 title: Introducción a la administración de un proyecto
-description: Obtenga información sobre cómo supervisar el progreso del proyecto, profundizar para ver los detalles de las tareas y cómo comunicarse con las partes interesadas.
+description: Obtenga información sobre cómo monitorizar el progreso del proyecto, profundizar para ver los detalles de las tareas y cómo comunicarse con las partes interesadas.
 activity: use
 feature: Work Management,Get Started with Workfront
 thumbnail: 335094.jpeg
@@ -25,27 +25,13 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-05T19:34:47.354Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: 0c963b3f3c4e4367e21040e36d8a23fac7eb759c
 workflow-type: tm+mt
-source-wordcount: 73
+source-wordcount: 28
 ht-degree: 100%
 
 ---
 
 # Introducción a la administración de un proyecto
 
-Este vídeo contiene información sobre:
-
-* Cómo supervisar el progreso del proyecto
-* Cómo explorar en profundidad para ver los detalles de la tarea
-* Cómo comunicarse con las partes interesadas
-
->[!VIDEO](https://video.tv.adobe.com/v/3445170/?captions=spa&quality=12&learn=on&enablevpops=1)
-
-## Tutoriales recomendados sobre este tema
-
-* [Lanzamiento de un proyecto](/help/manage-work/projects/take-a-project-live.md)
-* [Encontrar proyectos](/help/manage-work/projects/find-projects.md)
-* [Compartir un proyecto](/help/manage-work/projects/share-a-project.md)
-* [Información sobre el equipo del proyecto](/help/manage-work/projects/understand-the-project-team.md)
-* [Comprender la comunicación del proyecto](/help/manage-work/projects/understand-project-communication.md)
+{{$include /help/_includes/getting-started-manage-a-project.md}}

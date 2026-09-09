@@ -24,27 +24,13 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-06T15:02:44.128Z'
-source-git-commit: 03d522789acef5234d60733543ad10bf4bb8e092
+source-git-commit: 0c963b3f3c4e4367e21040e36d8a23fac7eb759c
 workflow-type: tm+mt
-source-wordcount: 78
-ht-degree: 66%
+source-wordcount: 25
+ht-degree: 60%
 
 ---
 
 # Resolver aprobaciones de tareas y problemas
 
-Este vídeo contiene información sobre:
-
-* Cómo encontrar aprobaciones de tareas por resolver y ocuparse de ellas
-* Cómo encontrar aprobaciones de problemas por resolver y tratarlos
-
->[!VIDEO](https://video.tv.adobe.com/v/3439427/?captions=spa&quality=12&learn=on&enablevpops=1)
-
-## Tutoriales recomendados sobre este tema
-
-* [Cambiar el estado del proyecto a completo](/help/manage-work/projects/change-the-project-status.md)
-* [Carga y administración de recursos del proyecto](/help/manage-work/close-a-project/upload-assets.md)
-* [Registrar las lecciones aprendidas para futuros proyectos](/help/manage-work/close-a-project/lessons-learned-from-closing-a-project.md)
-* [Registrar y revisar horas del proyecto](/help/manage-work/close-a-project/log-and-review-hours.md)
-
-
+{{$include /help/_includes/complete-approvals.md}}

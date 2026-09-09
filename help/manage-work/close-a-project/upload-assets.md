@@ -24,29 +24,13 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-06T15:01:02.349Z'
-source-git-commit: 4077f8da1f1400400fc9749db53719037c778e7c
+source-git-commit: 0c963b3f3c4e4367e21040e36d8a23fac7eb759c
 workflow-type: tm+mt
-source-wordcount: 88
-ht-degree: 70%
+source-wordcount: 30
+ht-degree: 66%
 
 ---
 
 # Carga y administración de recursos del proyecto
 
-Este vídeo contiene información sobre:
-
-* Comprobación de aprobaciones de pruebas
-* Comprobación de aprobaciones de documentos
-* Cargar un documento
-* Búsqueda de formación sobre la carga de pruebas
-
->[!VIDEO](https://video.tv.adobe.com/v/3440373/?captions=spa&quality=12&learn=on&enablevpops=1)
-
-## Tutoriales recomendados sobre este tema
-
-* [Carga una prueba con un flujo de trabajo básico](/help/workfront-proof/upload-proofs/upload-a-proof-with-a-basic-workflow.md)
-* [Cambiar el estado del proyecto a completo](/help/manage-work/projects/change-the-project-status.md)
-* [Resolver aprobaciones de tareas y problemas](/help/manage-work/close-a-project/complete-approvals.md)
-* [Registrar las lecciones aprendidas para futuros proyectos](/help/manage-work/close-a-project/lessons-learned-from-closing-a-project.md)
-* [Registrar y revisar horas del proyecto](/help/manage-work/close-a-project/log-and-review-hours.md)
-
+{{$include /help/_includes/upload-assets.md}}

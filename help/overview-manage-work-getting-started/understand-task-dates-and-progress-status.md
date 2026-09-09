@@ -23,29 +23,13 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-05T19:26:31.703Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: 0c963b3f3c4e4367e21040e36d8a23fac7eb759c
 workflow-type: tm+mt
-source-wordcount: 110
+source-wordcount: 30
 ht-degree: 100%
 
 ---
 
 # Comprender los tipos de fechas y el estado de progreso
 
-Este vídeo contiene información sobre:
-
-* Seleccione una vista para comparar los diferentes tipos de fechas en [!DNL Workfront's]
-* Utilice el estado de progreso para realizar un seguimiento del progreso del trabajo
-
->[!VIDEO](https://video.tv.adobe.com/v/3436610/?captions=spa&quality=12&learn=on&enablevpops=1)
-
->[!NOTE]
->
->Como se indica en el vídeo, es importante que las personas cambien el estado de **[!UICONTROL Nuevo]** a **[!UICONTROL En curso]** cuando inician una tarea, de modo que la [!UICONTROL Fecha de inicio real] sea correcta. Pero si se olvidan de hacerlo cuando inicien la tarea, podrán volver atrás y editar la [!UICONTROL Fecha de inicio real] en cualquier momento.
-
-
-<!--
-Task progress status overview
-Definitions for the project, task, and issue dates within Workfront
-Project timelines
--->
+{{$include /help/_includes/understand-task-dates-and-progress-status.md}}

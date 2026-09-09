@@ -24,34 +24,13 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-05T19:27:31.448Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: 0c963b3f3c4e4367e21040e36d8a23fac7eb759c
 workflow-type: tm+mt
-source-wordcount: 137
+source-wordcount: 25
 ht-degree: 100%
 
 ---
 
 # Comprender la comunicación del proyecto
 
-En este vídeo aprenderá a comunicarse con todas las partes interesadas del proyecto mediante:
-
-* Buena planificación de proyectos
-* Actualizaciones
-* Estado de la tarea y porcentaje completado
-* Problemas
-* Informes
-
->[!VIDEO](https://video.tv.adobe.com/v/3436149/?captions=spa&quality=12&learn=on&enablevpops=1)
-
->[!TIP]
->
->Para crear el informe Búsqueda de notas que se muestra en el vídeo, consulte la actividad en el tutorial [Creación de un informe de tareas](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-task-report.html?lang=es).
->
->Para agregar el informe Búsqueda de notas al panel de control del proyecto, consulte la actividad en el tutorial [Creación de paneles de control](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-dashboards.html?lang=es).
-
-## Tutoriales recomendados sobre este tema
-
-* [Introducción a la administración de un proyecto](/help/manage-work/projects/getting-started-manage-a-project.md)
-* [Encontrar proyectos](/help/manage-work/projects/find-projects.md)
-* [Compartir un proyecto](/help/manage-work/projects/share-a-project.md)
-* [Información sobre el equipo del proyecto](/help/manage-work/projects/understand-the-project-team.md)
+{{$include /help/_includes/understand-project-communication.md}}

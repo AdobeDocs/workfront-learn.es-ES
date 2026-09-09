@@ -11,23 +11,13 @@ team: Technical Marketing
 jira: KT-8953
 hide: true
 doc-type: video
-source-git-commit: 437f85e11f772ba5f0f9f2fee6a92abd3a8bcabd
+source-git-commit: 0c963b3f3c4e4367e21040e36d8a23fac7eb759c
 workflow-type: tm+mt
-source-wordcount: '91'
+source-wordcount: '29'
 ht-degree: 100%
 
 ---
 
 # Explicación de las cronologías del proyecto
 
-En este vídeo, aprenderá sobre lo siguiente:
-
-* Administración básica de la cronología del proyecto
-* Programación de proyectos desde la fecha de inicio o finalización
-* Las restricciones de tareas
-
->[!VIDEO](https://video.tv.adobe.com/v/3435838/?captions=spa&quality=12&learn=on&enablevpops=1)
-
->[!IMPORTANT]
->
->Para obtener una explicación más completa de los tipos de duración y las restricciones de tareas, consulte [Explicación y administración de los tipos de duración y las restricciones de tareas](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/intermediate-projects/understand-and-manage-duration-types-and-task-constraints.html?lang=es).
+{{$include /help/_includes/understand-project-timelines.md}}

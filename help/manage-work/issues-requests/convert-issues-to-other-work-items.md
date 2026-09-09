@@ -22,39 +22,13 @@ role_v2:
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
 autotag-review: '2026-05-06T14:55:57.327Z'
-source-git-commit: 1349efa7ac6687138985cc075db7b31c3e7dc693
+source-git-commit: 0c963b3f3c4e4367e21040e36d8a23fac7eb759c
 workflow-type: tm+mt
-source-wordcount: 243
-ht-degree: 11%
+source-wordcount: 42
+ht-degree: 0%
 
 ---
 
 # Conversión de un problema o una solicitud en una tarea
 
-En este vídeo se muestra cómo convertir un problema o una solicitud en una tarea.
-
->[!VIDEO](https://video.tv.adobe.com/v/3445433/?captions=spa&quality=12&learn=on&enablevpops=1)
-
-## Principales conclusiones
-
-* **Proceso sencillo de conversión:** Para convertir un problema o una solicitud en una tarea, abra el problema, haga clic en el menú de tres puntos y seleccione &quot;Convertir en tarea&quot;. El nombre y la descripción de la tarea se copian de forma predeterminada, pero se pueden editar. &#x200B;
-* **Selección de proyecto de destino:** Puede elegir el proyecto de destino para la tarea, ya sea el proyecto predeterminado en el que reside el problema o cualquier otro proyecto al que tenga acceso. &#x200B;
-* **Archivo adjunto de formulario automático:** Los formularios personalizados vinculados al problema se agregan automáticamente a la tarea, lo que garantiza que todos los valores de campo se transfieran sin problemas. &#x200B;
-* **Opciones de conversión:** Las opciones clave incluyen:
-  * Mantener el problema original activo junto con la tarea. &#x200B;
-  * Permitir al solicitante acceso a la tarea. &#x200B;
-  * Conservar la fecha planificada de finalización del problema para la tarea. &#x200B;
-* **Actualizaciones de estado vinculadas:** Si se conserva el problema original, su estado se actualizará automáticamente en función del progreso de la tarea, lo que garantiza la sincronización entre el problema y la tarea. &#x200B;
-
-
->[!NOTE]
->
->No se pueden agregar problemas a la cronología del proyecto, ya que representan “trabajo no planificado”. La cronología del proyecto es para el “trabajo planificado”, es decir, para las tareas.
-
-## Tutoriales recomendados sobre este tema
-
-* [Buscar y administrar solicitudes de forma eficaz](/help/manage-work/issues-requests/find-requests.md)
-* [Conversión de un problema o una solicitud en un proyecto](/help/manage-work/issues-requests/create-a-project-from-a-request.md)
-* [Gestión eficaz del trabajo no planificado](/help/manage-work/issues-requests/handle-unplanned-work.md)
-
-
+{{$include /help/_includes/convert-issues-to-other-work-items.md}}

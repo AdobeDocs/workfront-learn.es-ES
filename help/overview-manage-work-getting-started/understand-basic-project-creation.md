@@ -25,26 +25,13 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-05T19:29:36.461Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: 0c963b3f3c4e4367e21040e36d8a23fac7eb759c
 workflow-type: tm+mt
-source-wordcount: 91
+source-wordcount: 34
 ht-degree: 100%
 
 ---
 
 # Información sobre la creación básica del proyecto
 
-Este vídeo contiene información sobre:
-
-* La definición de un proyecto en Workfront
-* Cuatro pasos para poner en marcha un proyecto
-* Información sobre tareas y problemas
-* Práctica recomendada para empezar a crear proyectos
-
->[!VIDEO](https://video.tv.adobe.com/v/3435899/?captions=spa&quality=12&learn=on&enablevpops=1)
-
-## Tutoriales recomendados sobre este tema
-
-* [Navegar por la página del proyecto](/help/manage-work/projects/navigate-the-project-page.md)
-* [Descubra cuatro formas para crear un proyecto](/help/manage-work/projects/understand-other-ways-to-create-projects.md)
-* [Rellene los detalles del proyecto](/help/manage-work/projects/fill-in-the-project-details.md)
+{{$include /help/_includes/understand-basic-project-creation.md}}

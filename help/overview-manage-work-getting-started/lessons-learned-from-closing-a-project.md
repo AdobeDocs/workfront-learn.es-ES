@@ -24,27 +24,13 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-05T19:32:59.903Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: 0c963b3f3c4e4367e21040e36d8a23fac7eb759c
 workflow-type: tm+mt
-source-wordcount: 79
-ht-degree: 58%
+source-wordcount: 27
+ht-degree: 100%
 
 ---
 
 # Registro de las lecciones aprendidas
 
-En este vídeo, verá las ventajas de:
-
-* Creación de una tarea &quot;lecciones aprendidas&quot;
-* Adjuntar al proyecto un formulario personalizado con las lecciones aprendidas
-* Creación de informes personalizados con lecciones aprendidas
-* Creación de un proyecto de &quot;lecciones aprendidas&quot;
-
->[!VIDEO](https://video.tv.adobe.com/v/3441015/?captions=spa&quality=12&learn=on&enablevpops=1)
-
-## Tutoriales recomendados sobre este tema
-
-* [Cambiar el estado del proyecto a completo](/help/manage-work/projects/change-the-project-status.md)
-* [Aprobaciones completas](/help/manage-work/close-a-project/complete-approvals.md)
-* [Cargar recursos](/help/manage-work/close-a-project/upload-assets.md)
-* [Horas de registro y revisión](/help/manage-work/close-a-project/log-and-review-hours.md)
+{{$include /help/_includes/lessons-learned-from-closing-a-project.md}}

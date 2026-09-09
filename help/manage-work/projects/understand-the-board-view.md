@@ -23,32 +23,13 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-06T14:43:17.788Z'
-source-git-commit: 4077f8da1f1400400fc9749db53719037c778e7c
+source-git-commit: 0c963b3f3c4e4367e21040e36d8a23fac7eb759c
 workflow-type: tm+mt
-source-wordcount: 299
-ht-degree: 5%
+source-wordcount: 40
+ht-degree: 0%
 
 ---
 
 # Explorar la vista del tablero para administrar tareas
 
-En el vídeo se explica la función de vista de tablero de Workfront, que proporciona una forma alternativa de ver y administrar tareas de proyecto. En la vista del tablero, las tareas se muestran como tarjetas en un tablero de estilo Kanban, lo que permite a los usuarios ordenar, agrupar y mover tareas dentro de las columnas o entre ellas. Al mover una tarea, se actualiza su estado automáticamente, lo que se refleja en la vista de lista de tareas. Los usuarios pueden crear nuevas tarjetas, que generan nuevas tareas en el proyecto, y editarlas o asignarlas directamente en la vista del tablero. Se pueden configurar columnas y tarjetas, y las tareas se pueden secuenciar utilizando predecesoras en la vista de lista de tareas.
-
->[!VIDEO](https://video.tv.adobe.com/v/3423283/?captions=spa&quality=12&learn=on&enablevpops=1)
-
-## Principales conclusiones
-
-* **Información general sobre la vista de tablero:** La vista de tablero de Workfront ofrece una interfaz de estilo Kanban para ver y administrar tareas de proyecto, lo que proporciona una alternativa a la vista tradicional de la lista de tareas. &#x200B;
-* **Administración de tareas:** Las tareas se pueden ordenar, agrupar y mover dentro o entre columnas, con actualizaciones de estado aplicadas automáticamente cuando se mueven tareas. &#x200B;
-* **Creación de tareas:** Las nuevas tarjetas se pueden crear directamente en la vista del tablero, lo que genera nuevas tareas en el proyecto. Estas tareas se pueden editar y asignar inmediatamente. 
-* **Personalización:** Las columnas y tarjetas de la vista del tablero se pueden configurar para adaptarse a las necesidades del proyecto, lo que mejora la flexibilidad en la organización de tareas. &#x200B;
-* **Integración con la lista de tareas:** Los cambios realizados en la vista del tablero, como las actualizaciones de estado de las tareas o la creación de nuevas tareas, se reflejan en la vista de lista de tareas, lo que garantiza una integración perfecta entre las vistas. &#x200B;
-
-
-## Tutoriales recomendados sobre este tema
-
-* [Administrar un proyecto con estado actual](/help/manage-work/projects/getting-started-manage-a-project.md)
-* [Seguimiento del progreso general del proyecto](/help/manage-work/projects/track-overall-project-progress.md)
-* [Seguimiento del progreso del trabajo con las métricas del proyecto](/help/manage-work/projects/track-work-progress-with-project-metrics.md)
-* [Explorar la vista Gantt para la administración de proyectos](/help/manage-work/projects/understand-the-gantt-view.md)
-
+{{$include /help/_includes/understand-the-board-view.md}}

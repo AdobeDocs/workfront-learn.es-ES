@@ -25,29 +25,13 @@ role_v2:
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
 autotag-review: '2026-05-05T19:22:30.706Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: 0c963b3f3c4e4367e21040e36d8a23fac7eb759c
 workflow-type: tm+mt
-source-wordcount: 84
+source-wordcount: 22
 ht-degree: 100%
 
 ---
 
 # Aplicar hitos
 
-Este vídeo contiene información sobre:
-
-* Aplicar una ruta de hitos a un proyecto
-* Agregar un hito a una tarea
-* Prácticas recomendadas para aplicar hitos
-
->[!VIDEO](https://video.tv.adobe.com/v/3430281/?captions=spa&quality=12&learn=on&enablevpops=1)
-
->[!TIP]
->
->Para obtener información sobre cómo crear una vista de Hito, consulte la actividad de vista de hito en [Crear una vista básica](/help/reporting/basic-reporting/create-a-basic-view.md).
-
-## Tutoriales recomendados sobre este tema
-
-* [Ver hitos](/help/manage-work/approval-processes-and-milestone-paths/view-milestones.md)
-* [Crear hitos](/help/administration-and-setup/approval-processes-and-milestone-paths/creating-milestones.md)
-* [Actividad de vista de hitos en Crear una vista básica](/help/reporting/basic-reporting/create-a-basic-view.md)
+{{$include /help/_includes/apply-milestones.md}}

@@ -23,17 +23,13 @@ role_v2:
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
 autotag-review: '2026-05-05T19:03:25.349Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: 0c963b3f3c4e4367e21040e36d8a23fac7eb759c
 workflow-type: tm+mt
-source-wordcount: 41
+source-wordcount: 21
 ht-degree: 100%
 
 ---
 
 # Buscar información financiera
 
-Este vídeo contiene información sobre:
-
-* Encuentre información financiera sobre un proyecto y comprenda de dónde procede.
-
->[!VIDEO](https://video.tv.adobe.com/v/3415894/?captions=spa&quality=12&learn=on&enablevpops=1)
+{{$include /help/_includes/find-financial-information.md}}

@@ -25,32 +25,13 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-05T19:16:08.741Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: 0c963b3f3c4e4367e21040e36d8a23fac7eb759c
 workflow-type: tm+mt
-source-wordcount: 129
+source-wordcount: 26
 ht-degree: 100%
 
 ---
 
 # Realizar una solicitud
 
-En muchas organizaciones, el primer paso para iniciar un nuevo proyecto, desarrollar un nuevo producto o crear un envío es realizar una solicitud en Workfront. Puede seguir el progreso de la solicitud y proporcionar información adicional cuando sea necesario.
-
-Este vídeo contiene información sobre:
-
-* Navegar al área de la solicitud
-* Realizar una solicitud
-* Vista de solicitudes enviadas
-* Copiar una solicitud
-* Búsqueda de un borrador de una solicitud
-* Ver las tres últimas rutas de solicitud
-
->[!VIDEO](https://video.tv.adobe.com/v/3413113/?captions=spa&quality=12&learn=on&enablevpops=1)
-
-## Tutoriales recomendados sobre este tema
-
-* [Explicación de las colas de solicitud](/help/manage-work/request-queues/understand-request-queues.md)
-* [Búsqueda y administración de solicitudes](/help/manage-work/issues-requests/find-requests.md)
-* [Actualizar solicitud](/help/manage-work/issues-requests/update-a-request.md)
-* [Convertir un problema/solicitud en un proyecto](/help/manage-work/issues-requests/create-a-project-from-a-request.md)
-* [Convertir un problema/solicitud en una tarea](/help/manage-work/issues-requests/convert-issues-to-other-work-items.md)
+{{$include /help/_includes/make-a-request.md}}

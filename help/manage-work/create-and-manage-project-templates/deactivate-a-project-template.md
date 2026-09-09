@@ -24,35 +24,13 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-06T14:59:01.715Z'
-source-git-commit: 4077f8da1f1400400fc9749db53719037c778e7c
+source-git-commit: 0c963b3f3c4e4367e21040e36d8a23fac7eb759c
 workflow-type: tm+mt
-source-wordcount: 186
-ht-degree: 55%
+source-wordcount: 31
+ht-degree: 100%
 
 ---
 
 # Desactivar una plantilla de proyecto
 
-Este vídeo contiene información sobre:
-
-* Cómo compartir una plantilla de proyecto que otorga derechos para activarla y desactivarla.
-* Cómo activar y desactivar una plantilla de proyecto.
-
->[!VIDEO](https://video.tv.adobe.com/v/3444993/?captions=spa&quality=12&learn=on&enablevpops=1)
-
->[!NOTE]
->
->Si decide eliminar una plantilla, ningún proyecto que haya creado con ella se verá afectado. Las plantillas eliminadas se moverán a la papelera de reciclaje durante 30 días y solamente el administrador del sistema las puede recuperar.
-
-
-
-## Obtenga información sobre cómo crear una vista personalizada para ver y editar el estado activo de las plantillas de proyecto
-
-Para crear una vista de plantillas de proyecto con una columna de estado activo, consulte la actividad **Vista del estado activo de las plantillas de proyecto** en [Crear una vista básica](https://experienceleague.adobe.com/es/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-basic-view#activity-4-create-a-project-template-active-status-view).
-
-## Tutoriales recomendados sobre este tema
-
-* [Creación de una plantilla de proyecto y exploración de modelos](/help/manage-work/create-and-manage-project-templates/create-a-project-template.md)
-* [Uso compartido efectivo de una plantilla de proyecto](/help/manage-work/create-and-manage-project-templates/share-a-project-template.md)
-* [Editar el equipo del proyecto en una plantilla](/help/manage-work/create-and-manage-project-templates/edit-the-project-team-in-a-project-template.md)
-
+{{$include /help/_includes/deactivate-a-project-template.md}}
