@@ -5,10 +5,10 @@ breadcrumb-title: Finanzas del proyecto para administradores
 solution: Workfront
 sub-product: Work Management
 index: true
-source-git-commit: 4670302db899675ec45cb633451e2d232f312e2d
+source-git-commit: b150105844a42e06f5e96f787ad62a1b62185f91
 workflow-type: tm+mt
-source-wordcount: '57'
-ht-degree: 70%
+source-wordcount: '64'
+ht-degree: 62%
 
 ---
 
@@ -18,10 +18,11 @@ ht-degree: 70%
 
 + [Finanzas del proyecto para administradores](overview.md)
 + Finanzas del proyecto para administradores {#project-finances-for-administrators}
-   + [Comprender las métricas de rendimiento](understand-performance-metrics.md)
-   + [Configurar los valores predeterminados de ingresos y costes de las tareas](set-up-task-revenue-and-cost-defaults.md)
-   + [Configuración de tipos de cambio](set-up-exchange-rates.md)
-   + [Configurar tipos de gastos](set-up-expense-types.md)
-   + [Comprender el acceso financiero](understand-financial-access.md)
+  + [Comprender las métricas de rendimiento](understand-performance-metrics.md)
+  + [Configurar los valores predeterminados de ingresos y costes de las tareas](set-up-task-revenue-and-cost-defaults.md)
+  + [Configuración de tipos de cambio](set-up-exchange-rates.md)
+  + [Configurar tipos de gastos](set-up-expense-types.md)
+  + [Creación de puestos y tarjetas de tarifas](create-job-roles-and-rate-cards.md)
+  + [Comprender el acceso financiero](understand-financial-access.md)
 
 

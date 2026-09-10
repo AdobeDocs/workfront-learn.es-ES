@@ -24,10 +24,10 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-06T14:30:09.369Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: b150105844a42e06f5e96f787ad62a1b62185f91
 workflow-type: tm+mt
-source-wordcount: 146
-ht-degree: 26%
+source-wordcount: 154
+ht-degree: 24%
 
 ---
 
@@ -43,6 +43,6 @@ Adobe Workfront no está diseñado para reemplazar ningún software de seguimien
 >* Tipo de licencia estándar con derechos para editar datos financieros
 
 
-* [Actualizar y revisar finanzas](update-and-review-finances.md) - Aprenda a revisar la información financiera asociada con un proyecto.
-* [Buscar información financiera](find-financial-information.md) - Aprenda a encontrar información financiera sobre un proyecto y a comprender de dónde procede.
-* [Comprenda las tarifas de facturación múltiples](multiple-billing-rates.md) - Aprenda a anular las tarifas de facturación del sistema dentro de un proyecto específico.
+* [Acceda y administre información financiera para las finanzas del proyecto](find-financial-information.md). Aprenda a encontrar información financiera sobre un proyecto y comprenda de dónde procede.
+* [Actualizar finanzas para proyectos de clientes](update-and-review-finances.md) - Aprenda a revisar la información financiera asociada con un proyecto.
+* [Personalizar las tarifas de facturación para los roles](multiple-billing-rates.md) - Aprenda a anular las tarifas de facturación del sistema dentro de un proyecto específico.
