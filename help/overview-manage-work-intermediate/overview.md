@@ -13,20 +13,15 @@ mini-toc-levels: 1
 recommendations: noDisplay,catalog
 index: true
 exl-id: 4903b21b-d673-402b-8fd8-3e6b50d44c4d
-product_v2:
-  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
-feature_v2:
-  - id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
-subfeature_v2:
-  - id: f0dd7b45-76b5-49d4-afe3-39f436b6fbd3
-role_v2:
-  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
-level_v2:
-  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+product_v2: id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2: id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
+subfeature_v2: id: f0dd7b45-76b5-49d4-afe3-39f436b6fbd3
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588
 autotag-review: '2026-05-06T14:33:40.172Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: b150105844a42e06f5e96f787ad62a1b62185f91
 workflow-type: tm+mt
-source-wordcount: 777
+source-wordcount: 863
 ht-degree: 1%
 
 ---
@@ -49,26 +44,28 @@ Profundice para obtener más información sobre cómo sacar el máximo partido a
 >
 >* Buen conocimiento del uso de Workfront
 >* Tipo de licencia estándar con derechos para crear proyectos habilitados
->* [Administrar trabajo - introducción](https://experienceleague.adobe.com/?lang=es&recommended=Workfront-U-1-2022.1.planners)
+>* [Administrar trabajo - introducción](https://experienceleague.adobe.com/?recommended=Workfront-U-1-2022.1.planners)
 
 
 ## Plantillas de proyecto
 
 Aprenda a crear y utilizar plantillas de proyecto.
 
-* [Cree una plantilla de proyecto y obtenga información sobre los modelos](create-a-project-template.md) - Aprenda a crear una plantilla de proyecto desde cero y a partir de una plantilla existente.
+* [Crear una plantilla de proyecto y explorar modelos](create-a-project-template.md) - Aprenda a crear una plantilla de proyecto desde cero y a partir de una plantilla existente.
+* [Instalar y utilizar un modelo](install-and-use-a-blueprint.md): aprenda cómo instala un administrador un modelo y cómo lo pone en uso un usuario.
 * [Crear un proyecto directamente a partir de una plantilla](create-a-project-directly-from-a-template.md): aprenda a crear un proyecto a partir de una plantilla ya creada en Adobe Workfront.
-* [Compartir una plantilla de proyecto](share-a-project-template.md): aprenda a compartir una plantilla de proyecto y proyectos creados a partir de una plantilla.
-* [Copiar un proyecto existente](/help/manage-work/manage-projects/copy-an-existing-project.md): aprenda a hacer una copia de un proyecto existente en Adobe Workfront.
+* [Compartir una plantilla de proyecto de forma efectiva](share-a-project-template.md) - Aprenda a compartir una plantilla de proyecto y proyectos creados a partir de una plantilla.
+* [Copie un proyecto existente de manera eficiente](/help/manage-work/manage-projects/copy-an-existing-project.md): aprenda a hacer una copia de un proyecto existente en Adobe Workfront.
 * [Desactivar una plantilla de proyecto](deactivate-a-project-template.md): aprenda a activar y desactivar una plantilla de proyecto.
-* [Editar el equipo del proyecto en una plantilla de proyecto](edit-the-project-team-in-a-project-template.md): aprenda a evitar incluir accidentalmente **no** miembros del equipo del proyecto en un equipo del proyecto de plantilla y a editar el equipo del proyecto de plantilla.
+* [Editar el equipo del proyecto en una plantilla](edit-the-project-team-in-a-project-template.md): aprenda a evitar incluir accidentalmente **no** miembros del equipo del proyecto en un equipo del proyecto de plantilla y a editar el equipo del proyecto de plantilla.
 
 ## Creación y uso de procesos de aprobación
 
 Obtenga información sobre cómo crear procesos de aprobación, adjuntarlos a flujos de trabajo, revisar el trabajo digital y delegar aprobaciones.
 
-* [Crear un proceso de aprobación global y de un solo uso](create-a-single-use-approval-process.md): aprenda a crear un proceso de aprobación global y de un solo uso en un proyecto, tarea o problema.
+* [Crear y administrar procesos de aprobación](create-a-single-use-approval-process.md): aprenda a crear un proceso de aprobación global y de un solo uso en un proyecto, tarea o problema.
 * [Comprender los procesos de aprobación específicos del grupo](group-specific-approval-processes.md) - Aprenda cómo los administradores de grupos pueden crear o editar procesos de aprobación para los grupos que administran.
+* [Aplicar un proceso de aprobación de problema en una cola de solicitudes](apply-an-issue-approval-process-in-a-request-queue.md): implemente un proceso de aprobación predeterminado para optimizar los flujos de trabajo de solicitudes.
 * [Revisar y aprobar trabajo digital](review-and-approve-digital-work.md): aprenda a buscar, revisar y realizar aprobaciones de proyectos, tareas, problemas, documentos y pruebas.
 * [Delegar tareas, problemas y aprobaciones](delegate-approvals.md): aprenda a delegar aprobaciones para proyectos, tareas, problemas y partes de tiempo a otro usuario de Adobe Workfront.
 
@@ -76,27 +73,28 @@ Obtenga información sobre cómo crear procesos de aprobación, adjuntarlos a fl
 
 Obtenga información sobre cómo crear rutas de hitos, aplicar los hitos a las tareas y ver informes de hitos.
 
-* [Crear hitos](creating-milestones.md): aprenda qué son las rutas de hitos, cómo crear rutas de hitos y cómo agregar pasos de hitos a un proyecto.
-* [Aplicar hitos](apply-milestones.md): aprenda a aplicar una ruta de hitos a un proyecto y asocie tareas clave como pasos de hitos dentro del proyecto.
-* [Ver hitos](view-milestones.md): aprenda a ver hitos en un proyecto de Adobe Workfront y a usar la vista de hitos en el área del proyecto.
+* [Crear rutas y pasos de hitos](creating-milestones.md): aprenda qué son las rutas de hitos, cómo crear rutas de hitos y cómo agregar pasos de hitos a un proyecto.
+* [Aplicar rutas de hitos a proyectos y tareas](apply-milestones.md): aprenda a aplicar una ruta de hitos a un proyecto y asocie tareas clave como pasos de hitos dentro del proyecto.
+* [Ver hitos en sus proyectos](view-milestones.md) - Obtenga información sobre cómo ver hitos en un proyecto de Adobe Workfront, además de usar la vista de hitos en el área del proyecto.
 
 ## Cómo trabajar con problemas
 
 Obtenga información sobre cómo gestionar el trabajo no planificado con problemas, convertir problemas en otros elementos de trabajo, administrar asignaciones de problemas e informar sobre problemas.
 
-* [Administrar trabajo no planificado](handle-unplanned-work.md) - Aprenda a manejar el trabajo no planificado en su organización.
-* [Realizar una solicitud](make-a-request.md): aprenda a navegar al área de solicitudes, realizar una solicitud, ver las solicitudes enviadas, copiar una solicitud, encontrar un borrador de una solicitud y ver las tres últimas rutas de solicitud.
-* [Buscar y administrar solicitudes](find-requests.md): aprenda a buscar solicitudes a las que esté asignado, solicitudes que haya creado y solicitudes que administre.
-* [Administrar asignaciones de problemas](manage-issue-assignments.md) - Aprenda a asignar un problema a un usuario individual, a varios usuarios o a un equipo para que se resuelva el problema.
-* [Actualizar una solicitud](update-a-request.md): aprenda a buscar solicitudes que haya enviado y realice una actualización.
-* [Convertir un problema o una solicitud en un proyecto](create-a-project-from-a-request.md). Obtenga información sobre cómo iniciar la conversión de una solicitud a un proyecto y seleccione la plantilla de proyecto adecuada.
+* [Gestionar trabajo no planificado de forma eficaz](handle-unplanned-work.md) - Aprenda a gestionar el trabajo no planificado en su organización.
+* [Crear y administrar solicitudes en Workfront](make-a-request.md): aprenda a navegar al área de solicitudes, realizar una solicitud, ver las solicitudes enviadas, copiar una solicitud, encontrar un borrador de una solicitud y ver las tres últimas rutas de solicitud.
+* [Busque y administre solicitudes de manera eficiente](find-requests.md): Aprenda a encontrar las solicitudes a las que está asignado, las solicitudes que ha creado y las solicitudes que administra.
+* [Administrar asignaciones de problemas de forma eficaz](manage-issue-assignments.md) - Aprenda a asignar un problema a un usuario individual, a varios usuarios o a un equipo para que se resuelva el problema.
+* [Actualizar una solicitud en Workfront](update-a-request.md). Aprenda a encontrar las solicitudes que ha enviado y realice una actualización.
+* [Convertir un problema o una solicitud en un proyecto](create-a-project-from-a-request.md): aprenda a iniciar la conversión de una solicitud a un proyecto y seleccione la plantilla de proyecto adecuada.
 * [Convertir un problema o una solicitud en una tarea](convert-issues-to-other-work-items.md): aprenda a convertir un problema en una tarea.
-* [Informe sobre problemas](report-on-issues.md): aprenda a crear un informe de problemas que muestre los objetos de resolución y un informe de proyecto que muestre la información de problemas convertida.
+* [Crear informes personalizados para la administración de problemas](report-on-issues.md): aprenda a crear un informe de problemas que muestre los objetos de resolución y un informe de proyecto que muestre la información de problemas convertida.
 
 ## Profundizando
 
 Obtenga información detallada sobre las distintas herramientas de administración de proyectos de Workfront, así como consejos y prácticas recomendadas de los profesionales.    
 
-* [Comprenda y administre los tipos de duración y las restricciones de tareas](understand-and-manage-duration-types-and-task-constraints.md) - Comprenda los tipos de duración y las restricciones de tareas, y aprenda a asegurarse de que los tiene configurados correctamente en sus proyectos.
-* [Comprender las tareas predecesoras entre proyectos](understand-cross-project-predecessors.md): aprenda a utilizar y realizar un seguimiento de las tareas predecesoras en dos o más proyectos.
-* [Predecesores avanzados](advanced-predecessors.md): obtenga información acerca de los tipos de dependencia de predecesoras, los tipos de retardo, las predecesoras forzadas, los errores de bucle de dependencia y algunos métodos abreviados y prácticas recomendadas.
+* [Tipos de duración principales y restricciones de tareas](understand-and-manage-duration-types-and-task-constraints.md): comprenda los tipos de duración y las restricciones de tareas, y aprenda a asegurarse de que los tiene configurados correctamente en sus proyectos.
+* [Seguimiento de proyecto maestro con líneas de base, instantáneas e informes automatizados](baselines-snapshots-and-automated-reports.md): aprenda a realizar un seguimiento de los datos históricos de las tareas mediante líneas de base, capturando instantáneas y configurando correos electrónicos automatizados de informes de tareas.
+* [Establezca dependencias con tareas predecesoras entre proyectos](understand-cross-project-predecessors.md). Aprenda a utilizar y realice un seguimiento de las tareas predecesoras en dos o más proyectos.
+* [Dependencias de tareas avanzadas maestras](advanced-predecessors.md): obtenga información acerca de los tipos de dependencias predecesoras, los tipos de retardo, las predecesoras forzadas, los errores de bucle de dependencia y algunos métodos abreviados y prácticas recomendadas.

@@ -6,10 +6,10 @@ breadcrumb-title: 'Administrar trabajo: introducción'
 solution: Workfront
 sub-product: Work Management
 index: true
-source-git-commit: 4670302db899675ec45cb633451e2d232f312e2d
+source-git-commit: b150105844a42e06f5e96f787ad62a1b62185f91
 workflow-type: tm+mt
-source-wordcount: '196'
-ht-degree: 71%
+source-wordcount: '255'
+ht-degree: 19%
 
 ---
 
@@ -18,45 +18,47 @@ ht-degree: 71%
 
 + [Administrar trabajo: introducción](overview.md)
 + Administrar trabajo: introducción {#manage-work-getting-started}
-   + Crear un proyecto {#create-a-project}
-      + [Información sobre la creación básica del proyecto](understand-basic-project-creation.md)
-      + [Convertir un problema/solicitud en un proyecto](create-a-project-from-a-request.md)
-      + [Descubra cuatro formas para crear un proyecto](understand-other-ways-to-create-projects.md)
-      + [Rellene los detalles del proyecto](fill-in-the-project-details.md)
-      + [Navegar por la página del proyecto](navigate-the-project-page.md)
+  + Crear un proyecto {#create-a-project}
+    + [Creación y administración de un proyecto desde cero](understand-basic-project-creation.md)
+    + [Conversión de un problema o una solicitud en un proyecto](create-a-project-from-a-request.md)
+    + [Explore cuatro métodos para crear un proyecto](understand-other-ways-to-create-projects.md)
+    + [Rellene los detalles esenciales del proyecto](fill-in-the-project-details.md)
+    + [Navegar por la página del proyecto](navigate-the-project-page.md)
 
-   + Planificar un proyecto {#plan-a-project}
-      + [Introducción a la planificación de un proyecto](getting-started-plan-a-project.md)
-      + [Crear tareas](how-to-create-tasks.md)
-      + [Comprender las tareas principales y secundarias](understand-parent-child-tasks.md)
-      + [Trabajo con tareas](work-with-tasks.md)
-      + [Asignación de tareas del plan del proyecto](assign-tasks-from-the-project-plan.md)
-      + [Información sobre las duraciones de las tareas](understand-task-durations.md)
-      + [Aprenda a secuenciar tareas](learn-to-sequence-tasks.md)
-      + [Comprender las horas planificadas](understand-planned-hours.md)
-      + [Explicación de las cronologías del proyecto](understand-project-timelines.md)
-      + [Comprenda los tipos de fecha y el estado de progreso](understand-task-dates-and-progress-status.md)
-      + [Comprender el [!UICONTROL esfuerzo laboral]](understand-work-effort.md)
-      + [Lanzamiento de un proyecto](take-a-project-live.md)
+  + Planificar un proyecto {#plan-a-project}
+    + [Administrar un proyecto con estado actual](getting-started-plan-a-project.md)
+    + [Cree tareas de forma eficaz en Workfront](how-to-create-tasks.md)
+    + [Explicación de las relaciones entre tareas principales y secundarias](understand-parent-child-tasks.md)
+    + [Administrar tareas de forma eficaz en Workfront](work-with-tasks.md)
+    + [Asignación de tareas del plan del proyecto](assign-tasks-from-the-project-plan.md)
+    + [Información sobre las duraciones de las tareas](understand-task-durations.md)
+    + [Secuenciar tareas de forma eficaz en Workfront](learn-to-sequence-tasks.md)
+    + [Comprender las horas planificadas](understand-planned-hours.md)
+    + [Exploración de las cronologías de proyectos en Workfront](understand-project-timelines.md)
+    + [Comprenda los tipos de fecha y el estado de progreso](understand-task-dates-and-progress-status.md)
+    + [Calcular horas de tarea con esfuerzo de trabajo](understand-work-effort.md)
+    + [Lanzamiento de un proyecto](take-a-project-live.md)
 
-   + Administrar un proyecto {#manage-a-project}
-      + [Introducción a la administración de un proyecto](getting-started-manage-a-project.md)
-      + [Encontrar proyectos](find-projects.md)
-      + [Compartir un proyecto](share-a-project.md)
-      + [Información sobre el equipo del proyecto](understand-the-project-team.md)
-      + [Comprender la comunicación del proyecto](understand-project-communication.md)
-      + [Ver información del proyecto](view-project-information.md)
-      + [Seguimiento del progreso general del proyecto](track-overall-project-progress.md)
-      + [Seguimiento del progreso del trabajo con las métricas del proyecto](track-work-progress-with-project-metrics.md)
-      + [Seguimiento del progreso desde la cronología del proyecto](track-work-progress-from-the-project-timeline.md)
-      + [Comprender la vista [!UICONTROL Gantt]](understand-the-gantt-view.md)
-      + [Comprender la vista [!UICONTROL Tablero]](understand-the-board-view.md)
+  + Administrar un proyecto {#manage-a-project}
+    + [Administrar un proyecto con estado actual](getting-started-manage-a-project.md)
+    + [Buscar proyectos de forma eficaz](find-projects.md)
+    + [Uso compartido efectivo de proyectos en Workfront](share-a-project.md)
+    + [Información sobre el equipo del proyecto](understand-the-project-team.md)
+    + [Mejore el éxito del proyecto mediante una comunicación eficaz](understand-project-communication.md)
+    + [Explorar filtros, vistas y agrupaciones para la administración de proyectos](view-project-information.md)
+    + [Seguimiento del progreso general del proyecto](track-overall-project-progress.md)
+    + [Seguimiento del progreso del trabajo con las métricas del proyecto](track-work-progress-with-project-metrics.md)
+    + [Seguimiento del progreso mediante porcentaje completado y estado de progreso](track-work-progress-from-the-project-timeline.md)
+    + [Actualizar estados de problemas de forma eficaz](update-the-issue-status.md)
+    + [Actualizar el estado de las tareas para obtener informes precisos](update-the-task-status.md)
+    + [Explorar la vista Gantt para la administración de proyectos](understand-the-gantt-view.md)
+    + [Explorar la vista del tablero para administrar tareas](understand-the-board-view.md)
 
-   + Cierre de un proyecto {#close-a-project}
-      + [Cambiar el estado del proyecto a completo](change-the-project-status.md)
-      + [Aprobaciones completas](complete-approvals.md)
-      + [Cargar recursos](upload-assets.md)
-      + [Registro de las lecciones aprendidas](lessons-learned-from-closing-a-project.md)
-      + [Horas de registro y revisión](log-and-review-hours.md)
-      + [Actualizar y revisar las finanzas](update-and-review-finances.md)
+  + Cierre de un proyecto {#close-a-project}
+    + [Cambiar el estado del proyecto a completo](change-the-project-status.md)
+    + [Resolver aprobaciones de tareas y problemas](complete-approvals.md)
+    + [Carga y administración de recursos del proyecto](upload-assets.md)
+    + [Registrar las lecciones aprendidas para futuros proyectos](lessons-learned-from-closing-a-project.md)
+    + [Registrar y revisar horas del proyecto](log-and-review-hours.md)
+    + [Actualizar finanzas para proyectos de clientes](update-and-review-finances.md)
 
