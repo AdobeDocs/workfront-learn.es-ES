@@ -24,14 +24,14 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-06T14:30:09.369Z'
-source-git-commit: b150105844a42e06f5e96f787ad62a1b62185f91
+source-git-commit: 22fda31ea84297a2d407fad691b863aa22130dbb
 workflow-type: tm+mt
-source-wordcount: 154
-ht-degree: 24%
+source-wordcount: 153
+ht-degree: 27%
 
 ---
 
-# Resumen de finanzas del proyecto para usuarios
+# Finanzas del proyecto para usuarios
 
 Obtenga información sobre cómo realizar un seguimiento de la información financiera de los proyectos, establecer tipos de costes e ingresos y anular las tarifas de facturación. Este tutorial está diseñado para usuarios que realizarán un seguimiento de los datos financieros relacionados con un proyecto.
 
