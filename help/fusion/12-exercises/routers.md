@@ -10,25 +10,29 @@ level: Beginner
 jira: KT-11043
 thumbnail: KT11043.png
 recommendations: noDisplay,catalog
+last-substantial-update: 2026-09-17T00:00:00.000Z
 exl-id: f2a60273-c19b-4423-b354-8cff0dd7bd6b
 product_v2:
   - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+    internal-label: Workfront
 feature_v2:
   - id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
+    internal-label: Work management
 subfeature_v2:
   - id: c3a155b4-a54b-4a82-a3d2-c8f0f971673e
+    internal-label: Workfront Fusion
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
 autotag-review: '2026-05-06T16:41:51.365Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: 7178d41231c1f55033e3c0ab8237ab53c61adbc3
 workflow-type: tm+mt
-source-wordcount: 760
-ht-degree: 100%
-
+source-wordcount: '762'
+ht-degree: 96%
 ---
-
 # Ejercicio de enrutadores
 
 Comprender la importancia de los enrutadores y cómo pueden utilizarse para procesar condicionalmente distintos módulos.
@@ -64,14 +68,14 @@ Utilice un enrutador para pasar paquetes Pokemon frente a superhéroes por la ru
 
    **A continuación, cambie los valores asignados en los nuevos módulos clonados.**
 
-1. Vaya a <https://www.superheroapi.com/> y use su cuenta de Facebook para obtener un token de acceso.
+1. Vaya a <https://superheroapi.com/> y haga clic en **Iniciar sesión con GitHub** para obtener un token de acceso.
 
    >[!NOTE]
    >
    >Si tiene problemas para acceder a su propio token de superhéroe, puede utilizar este token compartido: 10110256647253588. Tenga en cuenta cuántas veces llama a la API de superhéroe para que este token compartido siga funcionando para todos.
 
-1. Abra la configuración de Obtener apariencia de superhéroe y cambie la URL a `https://www.superheroapi.com/api/[access- token]/332/appearance`. Asegúrese de incluir el token de acceso en la dirección URL. Haga clic en Aceptar.
-1. Abra la configuración para Obtener las capacidades de superhéroe y cambie la dirección URL a `https://www.superheroapi.com/api/[access- token]/332/powerstats`. Asegúrese de incluir el token de acceso en la dirección URL. Haga clic en Aceptar.
+1. Abra la configuración de Obtener apariencia de superhéroe y cambie la URL a `https://superheroapi.com/api/[access- token]/332/appearance`. Asegúrese de incluir el token de acceso en la dirección URL. Haga clic en Aceptar.
+1. Abra la configuración para Obtener las capacidades de superhéroe y cambie la dirección URL a `https://superheroapi.com/api/[access- token]/332/powerstats`. Asegúrese de incluir el token de acceso en la dirección URL. Haga clic en Aceptar.
 1. Haga clic con el botón derecho en cada módulo superhéroe y seleccione Ejecutar este módulo únicamente. Esto generará la estructura de datos que debe ver para la asignación.
 1. Después de ejecutar ambos, cambie el número “332” en cada campo URL a la Columna 4 asignada desde el módulo CSV de análisis.
 
@@ -79,7 +83,7 @@ Utilice un enrutador para pasar paquetes Pokemon frente a superhéroes por la ru
 
    **Ahora puede hacer clic en el módulo Establecer múltiples variables en la ruta de superhéroe y actualizar el nombre, la altura, el peso y las capacidades.**
 
-1. Actualice los campos Nombre y Funciones del módulo Obtener las capacidades de superhéroe: módulo 8.
+1. Actualice el campo Nombre y los campos de habilidades del módulo Obtener habilidades de superhéroes: Módulo 8.
 
    ![Imagen 5 de enrutadores](../12-exercises/assets/routers-walkthrough-5.png)
 
