@@ -1,9 +1,8 @@
 ---
-source-git-commit: b150105844a42e06f5e96f787ad62a1b62185f91
+source-git-commit: 7178d41231c1f55033e3c0ab8237ab53c61adbc3
 workflow-type: tm+mt
 source-wordcount: '195'
 ht-degree: 96%
-
 ---
 # Comprender los procesos de aprobación específicos del grupo - COMPARTIDO
 
@@ -11,17 +10,17 @@ Los administradores de sistemas y grupos pueden crear procesos de aprobación en
 
 Para un proceso de aprobación que todos puedan utilizar en [!DNL Workfront], asegúrese de que el campo [!UICONTROL “Este proceso de aprobación lo puede usar”] esté definido como [!UICONTROL Todos los grupos].
 
-Ventana ![[!UICONTROL Editar proceso de aprobación] con campo de grupo resaltado](assets/admin-fund-approval-processes-1.png)
+Ventana ![[!UICONTROL Editar proceso de aprobación] con campo de grupo resaltado](/help/administration-and-setup/approval-processes-and-milestone-paths/assets/admin-fund-approval-processes-1.png)
 
 Los estados disponibles en el menú [!UICONTROL “Iniciar proceso de aprobación cuando el estado esté establecido en”] depende de la selección del campo “usado por”. Con [!UICONTROL Todos los grupos] seleccionado, solo están disponibles los estados bloqueados de todo el sistema.
 
 Para limitar un proceso de aprobación para un grupo específico, seleccione el nombre de ese grupo en la lista para el campo [!UICONTROL “Este proceso de aprobación lo puede usar”].
 
-Ventana ![[!UICONTROL Editar proceso de aprobación] con campo de grupo expandido](assets/admin-fund-approval-processes-2.png)
+Ventana ![[!UICONTROL Editar proceso de aprobación] con campo de grupo expandido](/help/administration-and-setup/approval-processes-and-milestone-paths/assets/admin-fund-approval-processes-2.png)
 
 La opción [!UICONTROL Todos los grupos] no está disponible para los administradores de grupos.
 
 Cuando se selecciona un grupo específico, solo los estados disponibles para ese grupo aparecen en el menú [!UICONTROL &quot;Iniciar proceso de aprobación cuando el estado esté establecido en&quot;].
 
-Ventana ![[!UICONTROL Editar proceso de aprobación] con campo de estado resaltado](assets/admin-fund-approval-processes-3.png)
+Ventana ![[!UICONTROL Editar proceso de aprobación] con campo de estado resaltado](/help/administration-and-setup/approval-processes-and-milestone-paths/assets/admin-fund-approval-processes-3.png)
 
