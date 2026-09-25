@@ -1,6 +1,6 @@
 ---
 title: Copiar una meta existente
-description: Obtenga información sobre cómo copiar una meta existente en  [!DNL Workfront Goals].
+description: Obtenga información sobre cómo copiar un objetivo existente en [!DNL Workfront Goals].
 activity: use
 team: Technical Marketing
 feature: Workfront Goals
@@ -11,11 +11,9 @@ jira: KT-10121
 exl-id: bf9ac10a-8419-458b-b4e8-bedb0ad3b98f
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
-source-wordcount: '525'
-ht-degree: 100%
-
+source-wordcount: '530'
+ht-degree: 98%
 ---
-
 # Copiar una meta existente
 
 Digamos que es el final de un trimestre y queremos recrear una meta existente para el próximo período. O tal vez no haya completado la meta y necesita ampliarla hasta el siguiente período de tiempo. ¿Cuál es la mejor opción para crearlo? Desea copiar y modificar una meta existente.
@@ -48,7 +46,7 @@ Estas son algunas cosas que hay que tener en cuenta antes de copiar las metas:
 
 1. Haga clic en **[!UICONTROL Guardar]**. La meta copiada se guarda con el estado Borrador.
 
-   ![Una imagen del panel [!UICONTROL Detalles de la meta] en [!DNL Workfront Goals] con la opción [!UICONTROL Copiar] ](assets/03-workfront-goals-copy-a-goal.png)
+   ![Una imagen del panel [!UICONTROL Detalles de la meta] en [!DNL Workfront Goals] con la opción [!UICONTROL Copiar] &#x200B;](assets/03-workfront-goals-copy-a-goal.png)
 
 1. Haga clic en **[!UICONTROL Activar]**, que actualiza el estado de la meta a Activo. La meta debe tener una actividad asociada o un resultado para “activar”.
 
