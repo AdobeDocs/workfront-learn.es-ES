@@ -7,22 +7,31 @@ level: Intermediate
 jira: KT-10889
 thumbnail: benefits-of-agile.png
 exl-id: 8aa79988-6e3a-48a0-a30d-1a4bc3ce98be
-TQID: https://experienceleague.adobe.com/i9dD50uFMeS0uyV-7QVq3OotOl13kmDDtdGeN74wOZI
+TQID: 'https://experienceleague.adobe.com/i9dD50uFMeS0uyV-7QVq3OotOl13kmDDtdGeN74wOZI'
 product_v2:
   - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+    internal-label: Workfront
+feature_v2:
+  - id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
+    internal-label: Work management
+subfeature_v2:
+  - id: be65ef36-43e4-48e1-a062-caa3778e15be
+    internal-label: Agile
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
   - id: f8a45b24-4be7-4f1b-909b-60d06b483a20
+    internal-label: Leader
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
-source-git-commit: 36674ed53c8645f556862bb2d99f3bfd6c993c1e
+    internal-label: Intermediate
+source-git-commit: 54883ad8c8df3aaee06ba8f8dca64227594c1c77
 workflow-type: tm+mt
-source-wordcount: 282
+source-wordcount: '282'
 ht-degree: 100%
-
 ---
-
 # Ventajas del uso de Agile
 
 ## Capacidad de ajustar y girar rápidamente

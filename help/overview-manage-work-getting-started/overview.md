@@ -13,31 +13,36 @@ mini-toc-levels: 1
 recommendations: noDisplay,catalog
 index: true
 exl-id: 6cb8465a-f59a-41b9-a043-0f76b71980a3
+autotag-review: '2026-05-06T14:34:02.499Z'
 product_v2:
   - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+    internal-label: Workfront
 feature_v2:
   - id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
+    internal-label: Work management
 subfeature_v2:
   - id: f0dd7b45-76b5-49d4-afe3-39f436b6fbd3
+    internal-label: Projects
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-autotag-review: '2026-05-06T14:34:02.499Z'
-source-git-commit: b150105844a42e06f5e96f787ad62a1b62185f91
+    internal-label: Beginner
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
+source-git-commit: 54883ad8c8df3aaee06ba8f8dca64227594c1c77
 workflow-type: tm+mt
-source-wordcount: 1033
+source-wordcount: '1033'
 ht-degree: 6%
-
 ---
-
 # Administrar trabajo: introducción {#overview}
 
 Inicie el recorrido de Workfront aprendiendo a crear y planificar proyectos. Workfront recomienda mantener las cosas simples.
 
 En este tutorial, aprenderá a crear un proyecto, a planearlo, a administrarlo y a cerrarlo.
 
-Después de completar este tutorial, recomendamos [Administrar trabajo - Intermedio](https://experienceleague.adobe.com/docs/workfront-learn/manage-work-intermediate/overview.html?lang=es) para perfeccionar aún más sus habilidades de administración de proyectos.
+Después de completar este tutorial, recomendamos [Administrar trabajo - Intermedio](https://experienceleague.adobe.com/docs/workfront-learn/manage-work-intermediate/overview.html) para perfeccionar aún más sus habilidades de administración de proyectos.
 
 >[!PREREQUISITES]
 >

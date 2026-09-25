@@ -6,22 +6,28 @@ role: Admin, Leader, User
 level: Beginner
 jira: KT-10917
 exl-id: 5e172ad5-7e75-41cd-bce0-858095d13c6c
-TQID: https://experienceleague.adobe.com/kU9gZR9UZ4q2XwgiWeB-Wql7rCp8Pbv1XKeKsldi7HU
+TQID: 'https://experienceleague.adobe.com/kU9gZR9UZ4q2XwgiWeB-Wql7rCp8Pbv1XKeKsldi7HU'
 product_v2:
   - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+    internal-label: Workfront
+feature_v2:
+  - id: 9e23143e-3f4f-5cbb-821d-095a63bee200
+    internal-label: Strategic Planning
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
   - id: f8a45b24-4be7-4f1b-909b-60d06b483a20
+    internal-label: Leader
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-source-git-commit: 36674ed53c8645f556862bb2d99f3bfd6c993c1e
+    internal-label: Beginner
+source-git-commit: 54883ad8c8df3aaee06ba8f8dca64227594c1c77
 workflow-type: tm+mt
-source-wordcount: 433
+source-wordcount: '433'
 ht-degree: 90%
-
 ---
-
 # Práctica recomendada: vista previa de la zona protegida
 
 ## ¿Qué es una &quot;práctica recomendada&quot; de Adobe Workfront?

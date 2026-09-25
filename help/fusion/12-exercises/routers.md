@@ -12,13 +12,13 @@ thumbnail: KT11043.png
 recommendations: noDisplay,catalog
 last-substantial-update: 2026-09-17T00:00:00.000Z
 exl-id: f2a60273-c19b-4423-b354-8cff0dd7bd6b
+autotag-review: '2026-05-06T16:41:51.365Z'
 product_v2:
   - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
     internal-label: Workfront
 feature_v2:
   - id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
     internal-label: Work management
-subfeature_v2:
   - id: c3a155b4-a54b-4a82-a3d2-c8f0f971673e
     internal-label: Workfront Fusion
 role_v2:
@@ -27,8 +27,7 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-autotag-review: '2026-05-06T16:41:51.365Z'
-source-git-commit: 7178d41231c1f55033e3c0ab8237ab53c61adbc3
+source-git-commit: 54883ad8c8df3aaee06ba8f8dca64227594c1c77
 workflow-type: tm+mt
 source-wordcount: '762'
 ht-degree: 96%
@@ -41,7 +40,7 @@ Comprender la importancia de los enrutadores y cómo pueden utilizarse para proc
 
 Utilice un enrutador para pasar paquetes Pokemon frente a superhéroes por la ruta correcta y luego cree una tarea para cada carácter.
 
-![Imagen 1 de enrutadores &#x200B;](../12-exercises/assets/routers-walkthrough-1.png)
+![Imagen 1 de enrutadores ](../12-exercises/assets/routers-walkthrough-1.png)
 
 ## Pasos a seguir
 
@@ -64,7 +63,7 @@ Utilice un enrutador para pasar paquetes Pokemon frente a superhéroes por la ru
 
    **Su escenario debería tener este aspecto:**
 
-   ![Imagen 3 de enrutadores &#x200B;](../12-exercises/assets/routers-walkthrough-3.png)
+   ![Imagen 3 de enrutadores ](../12-exercises/assets/routers-walkthrough-3.png)
 
    **A continuación, cambie los valores asignados en los nuevos módulos clonados.**
 
@@ -89,7 +88,7 @@ Utilice un enrutador para pasar paquetes Pokemon frente a superhéroes por la ru
 
 1. Actualice los campos Alto y Peso desde el módulo Obtener apariencia de superhéroe: módulo 6.
 
-   ![Imagen 6 de enrutadores &#x200B;](../12-exercises/assets/routers-walkthrough-6.png)
+   ![Imagen 6 de enrutadores ](../12-exercises/assets/routers-walkthrough-6.png)
 
    **Cuando haya terminado, las variables deberían tener este aspecto. Tenga en cuenta que los números de módulos aparecen en los valores de campo.**
 
@@ -110,7 +109,7 @@ Utilice un enrutador para pasar paquetes Pokemon frente a superhéroes por la ru
 1. Ahora, seleccione el campo Nombre desde la sección Campos a asignar.
 1. Asigne el nombre a la tarea “[Carácter] de [Franquicia]”, tomando el nombre del carácter y el nombre de la franquicia del archivo CSV. La columna 3 es el nombre del carácter y la columna 2 es el nombre de la franquicia.
 
-   ![Imagen 9 de enrutadores &#x200B;](../12-exercises/assets/routers-walkthrough-9.png)
+   ![Imagen 9 de enrutadores ](../12-exercises/assets/routers-walkthrough-9.png)
 
 1. Haga clic en Aceptar y cambie el nombre de este módulo a “Crear una tarea para cada carácter”.
 
@@ -123,10 +122,10 @@ Utilice un enrutador para pasar paquetes Pokemon frente a superhéroes por la ru
 
    **Sus filtros deberían tener este aspecto:**
 
-   ![Imagen 11 de enrutadores &#x200B;](../12-exercises/assets/routers-walkthrough-11.png)
+   ![Imagen 11 de enrutadores ](../12-exercises/assets/routers-walkthrough-11.png)
 
    ![Imagen 10 de enrutadores](../12-exercises/assets/routers-walkthrough-10.png)
 
 1. Guarde el escenario y haga clic en Ejecutar una vez. Utilice los inspectores de ejecución para comprobar que todas las operaciones se han realizado correctamente y las tareas que se crearon en el proyecto de Workfront.
 
-   ![Imagen 12 de enrutadores &#x200B;](../12-exercises/assets/routers-walkthrough-12.png)
+   ![Imagen 12 de enrutadores ](../12-exercises/assets/routers-walkthrough-12.png)

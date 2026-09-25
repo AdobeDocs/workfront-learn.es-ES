@@ -5,21 +5,28 @@ role: User
 level: Beginner
 doc-type: Feature Video
 duration: 0
-last-substantial-update: 2026-08-28T00:00:00Z
+last-substantial-update: 2026-08-28T00:00:00.000Z
 jira: KT-22303
-source-git-commit: 095233e738c9aa3919b875627b55a092ec8d5927
+product_v2:
+  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+    internal-label: Workfront
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+source-git-commit: 54883ad8c8df3aaee06ba8f8dca64227594c1c77
 workflow-type: tm+mt
 source-wordcount: '247'
 ht-degree: 0%
-
 ---
-
 
 # Enfoque su día usando prioridades
 
 Las prioridades de Workfront actúan como su centro de control personal para administrar las tareas y los problemas que se le han asignado directamente. Consolida el trabajo de varios proyectos en una sola vista centrada, lo que le ayuda a priorizar las tareas de forma eficaz.
 
->[!VIDEO](https://video.tv.adobe.com/v/3502463/?captions=spa&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3502459/?learn=on&enablevpops)
 
 Cuando utilice Prioridades, tenga en cuenta lo siguiente:
 

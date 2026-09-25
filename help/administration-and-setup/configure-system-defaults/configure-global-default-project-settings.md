@@ -11,13 +11,23 @@ thumbnail: 335065.png
 jira: KT-8753
 exl-id: b961ba8c-9597-4ed4-a6d7-79689c8e290d
 doc-type: video
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+product_v2:
+  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+    internal-label: Workfront
+feature_v2:
+  - id: d5896d07-2812-5418-8b18-8957a0d7f0fb
+    internal-label: System Setup and Administration
+role_v2:
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
+source-git-commit: 54883ad8c8df3aaee06ba8f8dca64227594c1c77
 workflow-type: tm+mt
 source-wordcount: '379'
 ht-degree: 100%
-
 ---
-
 # Configuración de los ajustes predeterminados globales del proyecto
 
 <!--
@@ -30,7 +40,7 @@ Este vídeo contiene información sobre:
 * Definición de las preferencias globales del proyecto
 * Creación y utilización de programaciones
 
->[!VIDEO](https://video.tv.adobe.com/v/3423353/?captions=spa&quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/335065/?quality=12&learn=on&enablevpops=1)
 
 ## Configuración de proyectos, tareas y problemas globales y de grupo
 

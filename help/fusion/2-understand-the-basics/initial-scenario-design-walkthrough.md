@@ -1,6 +1,6 @@
 ---
 title: Tutorial inicial en el diseño de escenarios
-description: Aprenda a crear carpetas y escenarios nuevos, usar el diseñador de escenarios y crear un escenario básico en  [!DNL Adobe Workfront Fusion].
+description: Aprenda a crear carpetas y escenarios nuevos, usar el diseñador de escenarios y crear un escenario básico en [!DNL Adobe Workfront Fusion].
 short-description: Aquí puede ver un vídeo explicativo de ejercicios sobre la creación de escenarios.
 activity: use
 team: Technical Marketing
@@ -13,24 +13,26 @@ jira: KT-9001
 exl-id: 78408bf8-e676-4e49-b023-5ea0a6999229
 recommendations: noDisplay,catalog
 doc-type: video
+autotag-review: '2026-05-06T16:38:59.082Z'
 product_v2:
   - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+    internal-label: Workfront
 feature_v2:
   - id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
-subfeature_v2:
+    internal-label: Work management
   - id: c3a155b4-a54b-4a82-a3d2-c8f0f971673e
+    internal-label: Workfront Fusion
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-autotag-review: '2026-05-06T16:38:59.082Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+    internal-label: Beginner
+source-git-commit: 54883ad8c8df3aaee06ba8f8dca64227594c1c77
 workflow-type: tm+mt
-source-wordcount: 146
+source-wordcount: '146'
 ht-degree: 84%
-
 ---
-
 # Tutorial inicial en el diseño de escenarios
 
 Cree un nuevo proyecto en Workfront para cada fila del archivo CSV de la lista de proyectos.
@@ -45,7 +47,7 @@ Este vídeo contiene información sobre:
 * Usar el diseñador de escenarios
 * Crear un escenario básico
 
->[!VIDEO](https://video.tv.adobe.com/v/3415972/?captions=spa&quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/335261/?quality=12&learn=on&enablevpops=1)
 
 **Esta es la URL que se pegará en el campo &quot;URL de redireccionamiento&quot; al crear una integración de aplicación OAuth en la instancia de la unidad de prueba**
 

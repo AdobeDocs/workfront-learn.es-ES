@@ -1,6 +1,6 @@
 ---
 title: Entender los enrutadores
-description: Aprenda qué son los enrutadores y por qué utilizarlos, cómo pasan los paquetes de datos por las rutas de los enrutadores y cómo añadir y utilizar enrutadores, todo en  [!DNL Adobe Workfront Fusion].
+description: Conozca qué son los enrutadores y por qué usarlos, cómo los paquetes de datos pasan las rutas de enrutadores y cómo agregar y usar enrutadores, todo en [!DNL Adobe Workfront Fusion].
 activity: use
 team: Technical Marketing
 type: Tutorial
@@ -11,24 +11,26 @@ jira: KT-9012
 exl-id: 38517856-094f-48e1-8930-ad0d27bec6ec
 recommendations: noDisplay,catalog
 doc-type: video
+autotag-review: '2026-05-06T16:35:30.303Z'
 product_v2:
   - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+    internal-label: Workfront
 feature_v2:
   - id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
-subfeature_v2:
+    internal-label: Work management
   - id: c3a155b4-a54b-4a82-a3d2-c8f0f971673e
+    internal-label: Workfront Fusion
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-autotag-review: '2026-05-06T16:35:30.303Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+    internal-label: Beginner
+source-git-commit: 54883ad8c8df3aaee06ba8f8dca64227594c1c77
 workflow-type: tm+mt
-source-wordcount: 58
-ht-degree: 100%
-
+source-wordcount: '58'
+ht-degree: 55%
 ---
-
 # Entender los enrutadores
 
 Este vídeo contiene información sobre:
@@ -37,4 +39,4 @@ Este vídeo contiene información sobre:
 * Cómo pasan los paquetes de datos por las rutas de los enrutadores
 * Cómo añadir y utilizar enrutadores
 
->[!VIDEO](https://video.tv.adobe.com/v/3416564/?captions=spa&quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/335271/?quality=12&learn=on&enablevpops=1)
