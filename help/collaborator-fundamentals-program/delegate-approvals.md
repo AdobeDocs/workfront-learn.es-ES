@@ -28,7 +28,7 @@ Este vídeo contiene información sobre:
 * Finalización del período de delegación
 * Búsqueda de aprobaciones delegadas
 
->[!VIDEO](https://video.tv.adobe.com/v/336094/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3446379/?captions=spa&quality=12&learn=on&enablevpops=1)
 
 <!--
 learn more URLS

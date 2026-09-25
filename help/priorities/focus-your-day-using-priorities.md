@@ -26,7 +26,7 @@ ht-degree: 0%
 
 Las prioridades de Workfront actúan como su centro de control personal para administrar las tareas y los problemas que se le han asignado directamente. Consolida el trabajo de varios proyectos en una sola vista centrada, lo que le ayuda a priorizar las tareas de forma eficaz.
 
->[!VIDEO](https://video.tv.adobe.com/v/3502459/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3502463/?captions=spa&learn=on&enablevpops)
 
 Cuando utilice Prioridades, tenga en cuenta lo siguiente:
 

@@ -42,4 +42,4 @@ ht-degree: 80%
 
 Aprenda a crear, administrar y personalizar vistas de tabla de tipo de registro en Planificación de Workfront de Adobe para mejorar la organización y colaboración del proyecto.
 
->[!VIDEO](https://video.tv.adobe.com/v/3448000/?learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3448134/?captions=spa&learn=on&enablevpops=1)

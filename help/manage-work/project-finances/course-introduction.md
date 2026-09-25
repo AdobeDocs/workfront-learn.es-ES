@@ -34,4 +34,4 @@ Este vídeo contiene información sobre:
 * Seguimiento de costes e ingresos
 * Gestión de gastos
 
->[!VIDEO](https://video.tv.adobe.com/v/335207/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3436417/?captions=spa&quality=12&learn=on&enablevpops=1)
