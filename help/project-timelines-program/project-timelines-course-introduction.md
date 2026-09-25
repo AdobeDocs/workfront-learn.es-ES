@@ -1,6 +1,6 @@
 ---
 title: Introducción a las cronologías del proyecto
-description: Conozca qué elementos, como tipos de fecha y restricciones de tarea, se utilizan al crear y administrar escalas de tiempo de proyectos en [!DNL  Workfront].
+description: Conozca qué elementos, como tipos de fecha y restricciones de tarea, se utilizan al crear y administrar escalas de tiempo de proyectos en [!DNL &#x200B; Workfront].
 activity: use
 feature: Work Management
 type: Tutorial
@@ -28,6 +28,6 @@ ht-degree: 62%
 ---
 # Cronologías del proyecto: Introducción al curso
 
-En este vídeo, aprenderá qué elementos (como tipos de fechas y restricciones de tareas) se utilizan al crear y administrar las cronologías de proyectos en [!DNL  Workfront].
+En este vídeo, aprenderá qué elementos (como tipos de fechas y restricciones de tareas) se utilizan al crear y administrar las cronologías de proyectos en [!DNL &#x200B; Workfront].
 
 >[!VIDEO](https://video.tv.adobe.com/v/335212/?quality=12&learn=on&enablevpops=1)

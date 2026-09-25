@@ -1,6 +1,6 @@
 ---
 title: Flujos de trabajo de prueba como parte de las cronologías de proyecto
-description: Conozca las recomendaciones para combinar un proceso de revisión y aprobación con una cronología de proyecto en [!DNL  Workfront].
+description: Conozca las recomendaciones para combinar un proceso de revisión y aprobación con una cronología de proyecto en [!DNL &#x200B; Workfront].
 activity: use
 feature: Workfront Proof
 type: Tutorial

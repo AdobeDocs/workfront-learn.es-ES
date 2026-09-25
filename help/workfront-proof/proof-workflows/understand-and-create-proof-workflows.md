@@ -1,6 +1,6 @@
 ---
 title: Comprensión de los flujos de trabajo de prueba como parte de las cronologías del proyecto
-description: Aprenda qué información recopilar para crear un flujo de trabajo de prueba y la diferencia entre los flujos de trabajo de prueba básicos y avanzados en [!DNL  Workfront].
+description: Aprenda qué información recopilar para crear un flujo de trabajo de prueba y la diferencia entre los flujos de trabajo de prueba básicos y avanzados en [!DNL &#x200B; Workfront].
 activity: use
 feature: Workfront Proof
 type: Tutorial

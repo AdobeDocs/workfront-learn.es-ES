@@ -1,6 +1,6 @@
 ---
 title: Comprensión de la visión subyacente a [!UICONTROL Workfront Goals]
-description: Obtenga información acerca de [!DNL Workfront Goals] en [!DNL  Workfront] del equipo de productos.
+description: Obtenga información acerca de [!DNL Workfront Goals] en [!DNL &#x200B; Workfront] del equipo de productos.
 activity: use
 feature: Workfront Goals
 type: Tutorial

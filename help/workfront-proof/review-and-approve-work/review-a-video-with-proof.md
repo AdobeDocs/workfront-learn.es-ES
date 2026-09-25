@@ -1,6 +1,6 @@
 ---
 title: Revisar un vídeo con una prueba
-description: Aprenda a ajustar la configuración del visor y agregar comentarios con marca de tiempo a un vídeo mediante la revisión en [!DNL  Workfront].
+description: Aprenda a ajustar la configuración del visor y agregar comentarios con marca de tiempo a un vídeo mediante la revisión en [!DNL &#x200B; Workfront].
 activity: use
 feature: Workfront Proof
 type: Tutorial

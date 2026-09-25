@@ -1,6 +1,6 @@
 ---
 title: Introducción al curso de administración de colas
-description: Descubra cómo las colas de solicitudes [!DNL  Workfront] pueden centralizar la administración de la demanda.
+description: Descubra cómo las colas de solicitudes [!DNL &#x200B; Workfront] pueden centralizar la administración de la demanda.
 activity: deploy
 feature: Work Management
 type: Tutorial
@@ -30,6 +30,6 @@ ht-degree: 70%
 ---
 # Introducción al curso de administración de colas
 
-En este vídeo, aprenda cómo las colas de solicitud de [!DNL  Workfront] pueden centralizar la administración de la demanda.
+En este vídeo, aprenda cómo las colas de solicitud de [!DNL &#x200B; Workfront] pueden centralizar la administración de la demanda.
 
 >[!VIDEO](https://video.tv.adobe.com/v/335219/?quality=12&learn=on&enablevpops=1)

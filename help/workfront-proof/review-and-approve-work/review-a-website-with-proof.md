@@ -1,6 +1,6 @@
 ---
 title: Revisar un sitio web con una prueba
-description: Aprenda a abrir una prueba de un sitio web estático o interactivo en [!DNL  Workfront] y a hacer comentarios.
+description: Aprenda a abrir una prueba de un sitio web estático o interactivo en [!DNL &#x200B; Workfront] y a hacer comentarios.
 activity: use
 feature: Workfront Proof
 type: Tutorial

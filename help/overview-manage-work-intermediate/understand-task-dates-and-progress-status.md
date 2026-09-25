@@ -1,6 +1,6 @@
 ---
 title: Comprender los tipos de fechas y el estado de progreso
-description: Aprenda a ver los diferentes tipos de fechas en [!DNL  Workfront] y a utilizar el estado de progreso para ayudarle a realizar un seguimiento del progreso del trabajo.
+description: Aprenda a ver los diferentes tipos de fechas en [!DNL &#x200B; Workfront] y a utilizar el estado de progreso para ayudarle a realizar un seguimiento del progreso del trabajo.
 activity: use
 feature: Work Management
 thumbnail: 335095.jpeg

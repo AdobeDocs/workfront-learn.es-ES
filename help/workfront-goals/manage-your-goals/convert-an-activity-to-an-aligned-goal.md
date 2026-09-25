@@ -1,6 +1,6 @@
 ---
 title: Conversión de una actividad en una meta alineada
-description: Aprenda a convertir una actividad o resultado en un objetivo alineado en [!DNL   Goals].
+description: Aprenda a convertir una actividad o resultado en un objetivo alineado en [!DNL &#x200B;  Goals].
 activity: use
 feature: Workfront Goals
 type: Tutorial

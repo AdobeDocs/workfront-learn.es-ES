@@ -1,6 +1,6 @@
 ---
 title: Información sobre la página del proyecto
-description: Obtenga información acerca de las características clave de la página del proyecto en [!DNL  Workfront] para ayudarle a planificar y administrar sus proyectos.
+description: Obtenga información acerca de las características clave de la página del proyecto en [!DNL &#x200B; Workfront] para ayudarle a planificar y administrar sus proyectos.
 activity: use
 team: Technical Marketing
 feature: Work Management

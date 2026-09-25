@@ -1,6 +1,6 @@
 ---
 title: Introducción a los flujos de trabajo automatizados
-description: Descubra qué es un flujo de trabajo de revisión automatizado en [!DNL  Workfront] y en qué se diferencia de un flujo de trabajo básico.
+description: Descubra qué es un flujo de trabajo de revisión automatizado en [!DNL &#x200B; Workfront] y en qué se diferencia de un flujo de trabajo básico.
 feature: Workfront Proof
 type: Tutorial
 role: User, Admin

@@ -1,6 +1,6 @@
 ---
 title: Personalización de áreas de objeto con una plantilla de diseño
-description: Aprenda a utilizar una plantilla de diseño para agregar, quitar y reorganizar elementos en el menú del panel izquierdo de [!DNL  Workfront].
+description: Aprenda a utilizar una plantilla de diseño para agregar, quitar y reorganizar elementos en el menú del panel izquierdo de [!DNL &#x200B; Workfront].
 feature: System Setup and Administration
 activity: deploy
 team: Technical Marketing

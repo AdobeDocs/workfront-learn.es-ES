@@ -1,6 +1,6 @@
 ---
 title: Conozca las ventajas de las revisiones
-description: Descubra qué es la revisión y las ventajas de utilizar la revisión digital en [!DNL  Workfront].
+description: Descubra qué es la revisión y las ventajas de utilizar la revisión digital en [!DNL &#x200B; Workfront].
 activity: use
 feature: Workfront Proof,Get Started with Workfront
 type: Tutorial
@@ -45,7 +45,7 @@ Este vídeo contiene información sobre:
 
 ## Terminología de revisión
 
-Antes de sumergirse en la configuración de revisión en [!DNL  Workfront], familiarícese con la terminología específica utilizada. Verá que estos términos se repiten con frecuencia a lo largo de este tutorial.
+Antes de sumergirse en la configuración de revisión en [!DNL &#x200B; Workfront], familiarícese con la terminología específica utilizada. Verá que estos términos se repiten con frecuencia a lo largo de este tutorial.
 
 * **Prueba:** versión digital de un archivo que se puede revisar, marcar y aprobar mediante el visualizador de pruebas de [!DNL Workfront's].
 * **Flujo de trabajo de prueba:** proceso de creación, enrutamiento y administración de una prueba en [!DNL Workfront]. Los pasos que se siguen para completar estas acciones.

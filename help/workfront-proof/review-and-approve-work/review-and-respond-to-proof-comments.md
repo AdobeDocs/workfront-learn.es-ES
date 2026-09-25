@@ -1,6 +1,6 @@
 ---
 title: Revisión y respuesta a los comentarios de prueba
-description: Aprenda a ver y responder a los comentarios de prueba desde el visor de pruebas y desde la sección [!UICONTROL Actualizaciones] de [!DNL  Workfront].
+description: Aprenda a ver y responder a los comentarios de prueba desde el visor de pruebas y desde la sección [!UICONTROL Actualizaciones] de [!DNL &#x200B; Workfront].
 activity: use
 feature: Workfront Proof
 type: Tutorial

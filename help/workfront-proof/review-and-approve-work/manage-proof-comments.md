@@ -1,6 +1,6 @@
 ---
 title: Administrar comentarios de la prueba
-description: Obtenga información sobre cómo administrar comentarios de revisión en [!DNL  Workfront] mediante la aplicación de acciones de comentario, la resolución de comentarios y el filtrado de la columna de comentarios.
+description: Obtenga información sobre cómo administrar comentarios de revisión en [!DNL &#x200B; Workfront] mediante la aplicación de acciones de comentario, la resolución de comentarios y el filtrado de la columna de comentarios.
 activity: use
 team: Technical Marketing
 feature: Workfront Proof

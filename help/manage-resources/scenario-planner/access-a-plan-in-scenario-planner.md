@@ -1,6 +1,6 @@
 ---
 title: Acceda a un plan en el [!UICONTROL Planificador de escenario]
-description: Conozca qué permisos de [!DNL  Workfront] son necesarios para que los usuarios tengan acceso a los planes en el [!UICONTROL Planificador de escenarios].
+description: Conozca qué permisos de [!DNL &#x200B; Workfront] son necesarios para que los usuarios tengan acceso a los planes en el [!UICONTROL Planificador de escenarios].
 feature: Resource Management
 type: Tutorial
 role: Leader, User

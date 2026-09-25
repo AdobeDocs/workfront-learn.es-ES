@@ -1,6 +1,6 @@
 ---
 title: Navegar por el visualizador de pruebas
-description: Obtenga información sobre cómo mover una prueba, aumentar o reducir el contenido, utilizar la columna de miniaturas, filtrar comentarios de prueba y mucho más en el visor de pruebas [!DNL  Workfront].
+description: Obtenga información sobre cómo mover una prueba, aumentar o reducir el contenido, utilizar la columna de miniaturas, filtrar comentarios de prueba y mucho más en el visor de pruebas [!DNL &#x200B; Workfront].
 activity: use
 feature: Workfront Proof
 type: Tutorial

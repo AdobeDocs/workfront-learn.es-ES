@@ -1,6 +1,6 @@
 ---
 title: Realizar una actualización cualitativa en [!DNL Workfront Goals]
-description: Aprenda a realizar una actualización cualitativa o escrita en [!DNL   Goals].
+description: Aprenda a realizar una actualización cualitativa o escrita en [!DNL &#x200B;  Goals].
 activity: use
 feature: Workfront Goals
 type: Tutorial

@@ -1,6 +1,6 @@
 ---
 title: Seguimiento del progreso desde la cronología del proyecto
-description: Aprenda a realizar un seguimiento del progreso del trabajo desde la escala de tiempo del proyecto en [!DNL  Workfront] mediante el porcentaje completado, el estado, las asignaciones o las restricciones.
+description: Aprenda a realizar un seguimiento del progreso del trabajo desde la escala de tiempo del proyecto en [!DNL &#x200B; Workfront] mediante el porcentaje completado, el estado, las asignaciones o las restricciones.
 activity: use
 team: Technical Marketing
 feature: Work Management

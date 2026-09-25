@@ -1,6 +1,6 @@
 ---
 title: Introducción al curso
-description: Aprenda a utilizar el presupuesto de un proyecto, realizar un seguimiento de los costos y los ingresos, y controlar los gastos en [!DNL  Workfront].
+description: Aprenda a utilizar el presupuesto de un proyecto, realizar un seguimiento de los costos y los ingresos, y controlar los gastos en [!DNL &#x200B; Workfront].
 activity: use
 feature: Work Management
 type: Tutorial

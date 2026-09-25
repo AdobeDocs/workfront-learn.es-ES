@@ -1,6 +1,6 @@
 ---
 title: Adjuntar y editar procesos de aprobación existentes
-description: Aprenda a utilizar y editar los procesos de aprobación existentes para proyectos, tareas o problemas en [!DNL  Workfront].
+description: Aprenda a utilizar y editar los procesos de aprobación existentes para proyectos, tareas o problemas en [!DNL &#x200B; Workfront].
 activity: use
 feature: Approvals
 thumbnail: 335226.jpeg
