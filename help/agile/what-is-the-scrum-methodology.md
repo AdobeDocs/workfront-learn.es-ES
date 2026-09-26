@@ -7,22 +7,31 @@ level: Intermediate
 jira: KT-10890
 thumbnail: what-is-scrum.jpeg
 exl-id: 6c3a1ffd-4e1e-4133-a354-0b05ca777cf8
-TQID: https://experienceleague.adobe.com/vdFb9-34gvRIM8TN-3TfnF4uBfpRsIyuOhiGytlBnCw
+TQID: 'https://experienceleague.adobe.com/vdFb9-34gvRIM8TN-3TfnF4uBfpRsIyuOhiGytlBnCw'
 product_v2:
   - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+    internal-label: Workfront
+feature_v2:
+  - id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
+    internal-label: Work management
+subfeature_v2:
+  - id: be65ef36-43e4-48e1-a062-caa3778e15be
+    internal-label: Agile
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
   - id: f8a45b24-4be7-4f1b-909b-60d06b483a20
+    internal-label: Leader
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
-source-git-commit: 36674ed53c8645f556862bb2d99f3bfd6c993c1e
+    internal-label: Intermediate
+source-git-commit: 54883ad8c8df3aaee06ba8f8dca64227594c1c77
 workflow-type: tm+mt
-source-wordcount: 777
+source-wordcount: '777'
 ht-degree: 91%
-
 ---
-
 # ¿Cuál es la metodología Scrum y cómo funciona?
 
 La metodología Scrum engloba el modelo de flexibilidad, pero difiere de otras metodologías en que tiene funciones definidas para aquellos que forman parte del equipo, como Propietario del producto, Maestro de la escoria, etc., y prácticas definidas para definir y completar el trabajo.
@@ -106,6 +115,6 @@ Mediante un guion gráfico, los equipos mueven sus historias a través de column
 
 ### Gráfico de evolución
 
-Se puede utilizar un gráfico de evolución para supervisar si el equipo está completando las historias a una velocidad suficiente. Los gráficos de evolución se pueden utilizar en iteraciones individuales o en toda la versión del producto.
+Se puede utilizar un gráfico de evolución para monitorizar si el equipo está completando las historias a una velocidad suficiente. Los gráficos de evolución se pueden utilizar en iteraciones individuales o en toda la versión del producto.
 
 ![Gráfico de evolución](assets/burndown-01.png)

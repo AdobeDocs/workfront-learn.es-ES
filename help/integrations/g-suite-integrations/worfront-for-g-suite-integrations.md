@@ -1,6 +1,6 @@
 ---
 title: Mejore el flujo de trabajo con la integración de G Suite
-description: Obtenga información sobre cómo convertir un correo electrónico en una tarea o un problema de [!DNL Workfront] , ver y actualizar trabajo de Gmail con  [!DNL Workfront]  y aprobar trabajo de Gmail con  [!DNL Workfront] .
+description: Obtenga información sobre cómo convertir un correo electrónico en una tarea o un problema de [!DNL Workfront], ver y actualizar el trabajo de [!DNL Workfront] desde Gmail y aprobar el trabajo de [!DNL Workfront] desde Gmail.
 activity: use
 feature: Workfront Integrations and Apps
 type: Tutorial
@@ -10,24 +10,29 @@ team: Technical Marketing
 jira: KT-8813
 exl-id: 5a752e3c-81c3-4db9-8419-0e5de3483421
 doc-type: video
+autotag-review: '2026-05-06T16:04:30.128Z'
 product_v2:
   - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+    internal-label: Workfront
 feature_v2:
   - id: f48b5020-b9cd-4d99-bc6e-42c35e90c1f8
+    internal-label: Integrations
+  - id: a1f87682-0525-5459-aa06-3560bb4c3b2a
+    internal-label: Workfront Integrations and Apps
 subfeature_v2:
   - id: bbf3fe51-0066-4980-9062-f8005585ee10
+    internal-label: Adobe Workfront for Google Workspace
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-autotag-review: '2026-05-06T16:04:30.128Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+    internal-label: Beginner
+source-git-commit: 54883ad8c8df3aaee06ba8f8dca64227594c1c77
 workflow-type: tm+mt
-source-wordcount: 99
-ht-degree: 100%
-
+source-wordcount: '102'
+ht-degree: 78%
 ---
-
 # Mejore el flujo de trabajo con la integración de G Suite
 
 Este vídeo contiene información sobre:

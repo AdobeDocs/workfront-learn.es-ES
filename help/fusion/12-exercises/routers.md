@@ -12,13 +12,13 @@ thumbnail: KT11043.png
 recommendations: noDisplay,catalog
 last-substantial-update: 2026-09-17T00:00:00.000Z
 exl-id: f2a60273-c19b-4423-b354-8cff0dd7bd6b
+autotag-review: '2026-05-06T16:41:51.365Z'
 product_v2:
   - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
     internal-label: Workfront
 feature_v2:
   - id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
     internal-label: Work management
-subfeature_v2:
   - id: c3a155b4-a54b-4a82-a3d2-c8f0f971673e
     internal-label: Workfront Fusion
 role_v2:
@@ -27,8 +27,7 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-autotag-review: '2026-05-06T16:41:51.365Z'
-source-git-commit: 7178d41231c1f55033e3c0ab8237ab53c61adbc3
+source-git-commit: 54883ad8c8df3aaee06ba8f8dca64227594c1c77
 workflow-type: tm+mt
 source-wordcount: '762'
 ht-degree: 96%

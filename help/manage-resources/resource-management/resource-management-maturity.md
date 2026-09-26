@@ -11,26 +11,33 @@ thumbnail: 335160.png
 jira: KT-8814
 exl-id: f9043748-116f-4d89-9330-bd74a762e684
 doc-type: video
-TQID: https://experienceleague.adobe.com/4rHGdoRjx3CEfBiMkQqHvHMlwrpjFqe9MwSQToDtCAQ
+TQID: 'https://experienceleague.adobe.com/4rHGdoRjx3CEfBiMkQqHvHMlwrpjFqe9MwSQToDtCAQ'
 product_v2:
   - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+    internal-label: Workfront
 feature_v2:
   - id: e14a7f57-c82c-4874-a495-5d036cbbdc3d
+    internal-label: Resource management
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
   - id: f8a45b24-4be7-4f1b-909b-60d06b483a20
+    internal-label: Leader
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
+  - id: d378ca77-2da1-4f39-ad92-1917fe974a38
+    internal-label: Experienced
 topic_v2:
   - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+    internal-label: Reporting
   - id: c2be0313-b3ae-45e0-b454-d20bf54b23f2
-source-git-commit: 36674ed53c8645f556862bb2d99f3bfd6c993c1e
+    internal-label: Measurement
+source-git-commit: 54883ad8c8df3aaee06ba8f8dca64227594c1c77
 workflow-type: tm+mt
-source-wordcount: 364
+source-wordcount: '364'
 ht-degree: 92%
-
 ---
-
 # Vencimiento de la administración de recursos
 
 Saber qué recursos están disponibles y cuándo dentro de una organización puede ser complicado y llevar mucho tiempo. Hay muchas partes móviles, actitudes y opiniones que pueden enturbiar las aguas.

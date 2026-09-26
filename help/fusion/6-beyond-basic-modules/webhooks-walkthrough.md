@@ -1,6 +1,6 @@
 ---
 title: Tutorial de webhooks
-description: Aprenda a utilizar un webhook para crear una aplicación que determine si un cliente tiene la edad suficiente para comprar alcohol, todo en  [!DNL Adobe Workfront Fusion].
+description: Aprenda a utilizar un gancho web para crear una aplicación y determinar si un cliente tiene la edad suficiente para comprar alcohol, todo en [!DNL Adobe Workfront Fusion].
 activity: use
 team: Technical Marketing
 type: Tutorial
@@ -11,24 +11,26 @@ jira: KT-9051
 exl-id: 7870c9db-d538-440a-8972-e7bc5ac5af93
 recommendations: noDisplay,catalog
 doc-type: video
+autotag-review: '2026-05-06T16:29:34.923Z'
 product_v2:
   - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+    internal-label: Workfront
 feature_v2:
   - id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
-subfeature_v2:
+    internal-label: Work management
   - id: c3a155b4-a54b-4a82-a3d2-c8f0f971673e
+    internal-label: Workfront Fusion
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-autotag-review: '2026-05-06T16:29:34.923Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+    internal-label: Beginner
+source-git-commit: 54883ad8c8df3aaee06ba8f8dca64227594c1c77
 workflow-type: tm+mt
-source-wordcount: 356
-ht-degree: 100%
-
+source-wordcount: '356'
+ht-degree: 92%
 ---
-
 # Tutorial de webhooks
 
 En este escenario se crea una aplicación de tienda de conveniencia para que puedan determinar fácilmente si un cliente tiene la edad suficiente para comprar alcohol. El cajero simplemente necesita anunciar el nombre y la fecha de nacimiento del cliente Y un token de cliente verificado en una URL proporcionada. Una vez introducido, esto activará nuestro escenario para calcular la respuesta adecuada y devolverla al solicitante.

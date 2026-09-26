@@ -14,24 +14,29 @@ exl-id: 1a9b767c-3efd-4ecd-9a99-178586cc6774
 badgeIntegration: label="Integración" type="positive"
 feature-set: Workfront
 topic: Integrations
+autotag-review: '2026-05-06T16:04:47.729Z'
 product_v2:
   - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+    internal-label: Workfront
 feature_v2:
   - id: f48b5020-b9cd-4d99-bc6e-42c35e90c1f8
+    internal-label: Integrations
+  - id: a1f87682-0525-5459-aa06-3560bb4c3b2a
+    internal-label: Workfront Integrations and Apps
 subfeature_v2:
   - id: d1807669-3cb9-4c7d-8433-600aa390c92f
+    internal-label: Adobe Workfront for Creative Cloud Plugin
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-autotag-review: '2026-05-06T16:04:47.729Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+    internal-label: Beginner
+source-git-commit: 54883ad8c8df3aaee06ba8f8dca64227594c1c77
 workflow-type: tm+mt
-source-wordcount: 209
+source-wordcount: '209'
 ht-degree: 100%
-
 ---
-
 # Uso de complementos de Adobe Workfront para su integración con Creative Cloud
 
 Integre Workfront con Creative Cloud para buscar y actualizar el trabajo asignado en Adobe Workfront sin salir de las siguientes aplicaciones de Adobe Creative Cloud:

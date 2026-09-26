@@ -6,26 +6,33 @@ role: Admin, Leader, User
 level: Beginner
 jira: KT-10929
 exl-id: 8c18746d-e23a-44d0-b1e3-ebf5ba8d022f
-TQID: https://experienceleague.adobe.com/dHR6MHjya-MlhyDeL6MJvMPzaIkPpp91zfYe6ebcbL0
+TQID: 'https://experienceleague.adobe.com/dHR6MHjya-MlhyDeL6MJvMPzaIkPpp91zfYe6ebcbL0'
 product_v2:
   - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+    internal-label: Workfront
 feature_v2:
   - id: e14a7f57-c82c-4874-a495-5d036cbbdc3d
+    internal-label: Resource management
+  - id: c042179c-157b-516d-b27c-e3bf303e8567
+    internal-label: Get Started with Workfront
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
   - id: f8a45b24-4be7-4f1b-909b-60d06b483a20
+    internal-label: Leader
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
 topic_v2:
   - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
-source-git-commit: 36674ed53c8645f556862bb2d99f3bfd6c993c1e
+    internal-label: Reporting
+source-git-commit: 54883ad8c8df3aaee06ba8f8dca64227594c1c77
 workflow-type: tm+mt
-source-wordcount: 1117
+source-wordcount: '1117'
 ht-degree: 96%
-
 ---
-
 # Práctica recomendada: planificación y administración de la cronología
 
 ## ¿Qué es una &quot;práctica recomendada&quot; de Adobe Workfront?

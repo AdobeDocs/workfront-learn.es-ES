@@ -1,6 +1,6 @@
 ---
 title: Seguimiento y actualización de metas mediante registros
-description: Obtenga información sobre cómo rastrear, actualizar y calcular el progreso en metas en  [!DNL Workfront Goals].
+description: Obtenga información sobre cómo rastrear, actualizar y calcular el progreso de los objetivos en [!DNL Workfront Goals].
 activity: use
 team: Technical Marketing
 feature: Workfront Goals
@@ -9,13 +9,26 @@ role: User
 level: Beginner
 jira: KT-10126
 exl-id: acb6670a-486a-4d88-b422-57ed21833f76
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+product_v2:
+  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+    internal-label: Workfront
+feature_v2:
+  - id: d968a1bc-9a90-4926-a531-bcf272c32aad
+    internal-label: Administration
+subfeature_v2:
+  - id: fceb5125-bb41-419a-b0db-31958cb42f6c
+    internal-label: Workfront Goals
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+source-git-commit: 54883ad8c8df3aaee06ba8f8dca64227594c1c77
 workflow-type: tm+mt
-source-wordcount: '736'
-ht-degree: 100%
-
+source-wordcount: '756'
+ht-degree: 98%
 ---
-
 # Seguimiento y actualización de metas mediante [!UICONTROL Registros]
 
 Una vez que ha activado sus metas, puede trabajar para lograrlas. Pero, ¿cómo rastrear, actualizar y calcular el progreso en la meta? ¿Cómo sabe dónde está y cómo su trabajo está contribuyendo al progreso de la meta? Empecemos con [!UICONTROL Registros] para actualizar el progreso del objetivo, entonces observe cómo ver y comprender el estado de sus objetivos.
@@ -39,9 +52,9 @@ Cuando haga un [!UICONTROL Registro] en el nivel de la meta, puede actualizar el
 * Haga clic en el [!UICONTROL **Menú principal**] en [!DNL Workfront] y haga clic en [!UICONTROL **Objetivos**]. Esto abre el área de [!DNL Workfront Goals]. La sección [!UICONTROL Lista de objetivos] se muestra de forma predeterminada y muestra todos los objetivos que le pertenecen, a sus equipos, a grupos o a su organización.
 * Haga clic en cualquiera de las secciones siguientes del panel izquierdo para acceder a una lista de metas:
 
-   * [!UICONTROL Alineación de metas]
-   * [!UICONTROL Impulso]
-   * [!UICONTROL Registrar]
+  * [!UICONTROL Alineación de metas]
+  * [!UICONTROL Impulso]
+  * [!UICONTROL Registrar]
 
 Una vez que vaya a una sección con la lista de metas, haga clic en el nombre de una meta para abrir el panel [!UICONTROL Detalles de la meta]. Actualice su meta:
 

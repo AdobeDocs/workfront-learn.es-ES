@@ -6,24 +6,30 @@ role: Admin, Leader, User
 level: Beginner
 jira: KT-10912
 exl-id: 1975b52d-f3db-4800-a6e7-72faeb8916b7
-TQID: https://experienceleague.adobe.com/mhg8PhOGBoeIA7SjabdJm9bOA3FKELBR--nfKVA0rDI
+TQID: 'https://experienceleague.adobe.com/mhg8PhOGBoeIA7SjabdJm9bOA3FKELBR--nfKVA0rDI'
 product_v2:
   - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+    internal-label: Workfront
 feature_v2:
   - id: e14a7f57-c82c-4874-a495-5d036cbbdc3d
+    internal-label: Resource management
+  - id: 254442ca-6997-5cfa-963e-f420870aea53
+    internal-label: People Teams and Groups
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
   - id: f8a45b24-4be7-4f1b-909b-60d06b483a20
+    internal-label: Leader
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-source-git-commit: 36674ed53c8645f556862bb2d99f3bfd6c993c1e
+    internal-label: Beginner
+source-git-commit: 54883ad8c8df3aaee06ba8f8dca64227594c1c77
 workflow-type: tm+mt
-source-wordcount: 605
+source-wordcount: '605'
 ht-degree: 93%
-
 ---
-
 # Práctica recomendada: funciones de trabajo
 
 ## ¿Qué es una &quot;práctica recomendada&quot; de Adobe Workfront?

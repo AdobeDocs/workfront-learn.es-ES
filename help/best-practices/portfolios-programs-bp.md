@@ -6,24 +6,31 @@ role: Admin, Leader, User
 level: Beginner
 jira: KT-10916
 exl-id: a5aabc2b-4b7a-4bf4-882e-f9d939130ec0
-TQID: https://experienceleague.adobe.com/9aaMzTwTJUVRNlKYoI5cg-uLUUPOr9JpDbIOIV0qlTg
+TQID: 'https://experienceleague.adobe.com/9aaMzTwTJUVRNlKYoI5cg-uLUUPOr9JpDbIOIV0qlTg'
 product_v2:
   - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+    internal-label: Workfront
+feature_v2:
+  - id: 9e23143e-3f4f-5cbb-821d-095a63bee200
+    internal-label: Strategic Planning
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
   - id: f8a45b24-4be7-4f1b-909b-60d06b483a20
+    internal-label: Leader
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
 topic_v2:
   - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
-source-git-commit: 36674ed53c8645f556862bb2d99f3bfd6c993c1e
+    internal-label: Reporting
+source-git-commit: 54883ad8c8df3aaee06ba8f8dca64227594c1c77
 workflow-type: tm+mt
-source-wordcount: 441
+source-wordcount: '441'
 ht-degree: 100%
-
 ---
-
 # Práctica recomendada: portafolios y programas
 
 ## ¿Qué es una “práctica recomendada” de Adobe Workfront?

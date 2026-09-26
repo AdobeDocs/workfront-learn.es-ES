@@ -10,24 +10,29 @@ level: Intermediate
 thumbnail: setupautoreminds.png
 jira: KT-10092
 exl-id: 69d5b383-af3a-4414-92fe-32c8cf869d25
-TQID: https://experienceleague.adobe.com/-Mc-U8EahSe13Cwms3wrbSEIjrJhTR7SEtZ55RFmhoc
+TQID: 'https://experienceleague.adobe.com/-Mc-U8EahSe13Cwms3wrbSEIjrJhTR7SEtZ55RFmhoc'
 product_v2:
   - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+    internal-label: Workfront
 feature_v2:
   - id: d968a1bc-9a90-4926-a531-bcf272c32aad
+    internal-label: Administration
+  - id: d5896d07-2812-5418-8b18-8957a0d7f0fb
+    internal-label: System Setup and Administration
 role_v2:
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: 36674ed53c8645f556862bb2d99f3bfd6c993c1e
+    internal-label: Administration
+source-git-commit: 54883ad8c8df3aaee06ba8f8dca64227594c1c77
 workflow-type: tm+mt
-source-wordcount: 197
+source-wordcount: '197'
 ht-degree: 100%
-
 ---
-
 <!--
 this has the same content as the system administrator notification setup and mangement section of the email and inapp notificiations learning path
 -->

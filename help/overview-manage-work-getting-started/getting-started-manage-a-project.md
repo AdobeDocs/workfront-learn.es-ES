@@ -14,24 +14,29 @@ jira: KT-8781
 hide: true
 doc-type: video
 exl-id: 966de852-99cc-41a2-8c13-abfc4e9dab24
+autotag-review: '2026-05-05T19:34:47.354Z'
 product_v2:
   - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+    internal-label: Workfront
 feature_v2:
   - id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
+    internal-label: Work management
+  - id: c042179c-157b-516d-b27c-e3bf303e8567
+    internal-label: Get Started with Workfront
 subfeature_v2:
   - id: f0dd7b45-76b5-49d4-afe3-39f436b6fbd3
+    internal-label: Projects
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-autotag-review: '2026-05-05T19:34:47.354Z'
-source-git-commit: 0c963b3f3c4e4367e21040e36d8a23fac7eb759c
+    internal-label: Beginner
+source-git-commit: 54883ad8c8df3aaee06ba8f8dca64227594c1c77
 workflow-type: tm+mt
-source-wordcount: 28
+source-wordcount: '28'
 ht-degree: 100%
-
 ---
-
 # Introducción a la administración de un proyecto
 
 {{$include /help/_includes/getting-started-manage-a-project.md}}

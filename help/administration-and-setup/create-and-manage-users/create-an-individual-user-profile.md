@@ -10,13 +10,23 @@ level: Beginner
 thumbnail: 10036.jpeg
 jira: KT-10036
 exl-id: 91ac3283-c2ad-493e-869c-9cfccfae35dd
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+product_v2:
+  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+    internal-label: Workfront
+feature_v2:
+  - id: d5896d07-2812-5418-8b18-8957a0d7f0fb
+    internal-label: System Setup and Administration
+role_v2:
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+source-git-commit: 54883ad8c8df3aaee06ba8f8dca64227594c1c77
 workflow-type: tm+mt
 source-wordcount: '342'
 ht-degree: 100%
-
 ---
-
 # Creación de un perfil de usuario individual
 
 Cuando se contrata a un nuevo empleado o alguien se transfiere a un departamento mediante [!DNL Workfront], el administrador del sistema debe crear solo un usuario. Esto se puede hacer rápida y fácilmente desde el área [!UICONTROL Usuarios], en [!DNL Workfront].
