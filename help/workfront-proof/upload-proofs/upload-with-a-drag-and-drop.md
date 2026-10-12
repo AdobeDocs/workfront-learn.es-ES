@@ -1,6 +1,6 @@
 ---
 title: Cargar con arrastrar y soltar
-description: Obtenga información sobre las ventajas y limitaciones de cargar archivos en [!DNL  Workfront] arrastrando y soltando.
+description: Obtenga información sobre las ventajas y limitaciones de cargar archivos en [!DNL &#x200B; Workfront] arrastrando y soltando.
 activity: use
 team: Technical Marketing
 feature: Workfront Proof
@@ -35,10 +35,10 @@ ht-degree: 92%
 
 Puede cargar un archivo en [!DNL Workfront] con una función de arrastrar y soltar directamente sobre la sección [!UICONTROL Documentos]. Esta es una forma rápida de cargar una prueba, pero no le permite asignar un flujo de trabajo de prueba al mismo tiempo.
 
-![Una imagen del área [!UICONTROL Documentos] de un proyecto de [!DNL  Workfront] pasando el puntero por encima de la lista de documentos y el mensaje [!UICONTROL Arrastrar y soltar documentos aquí] visible.](assets/drag-and-drop-1.png)
+![Una imagen del área [!UICONTROL Documentos] de un proyecto de [!DNL &#x200B; Workfront] pasando el puntero por encima de la lista de documentos y el mensaje [!UICONTROL Arrastrar y soltar documentos aquí] visible.](assets/drag-and-drop-1.png)
 
 Para algunos clientes de [!DNL Workfront], este es su flujo de trabajo de prueba normal. Un diseñador creativo o miembro del equipo carga el archivo, pero depende de un administrador de pruebas o de un administrador de proyectos asignar el flujo de trabajo de prueba para que los destinatarios adecuados puedan revisar el trabajo.
 
 Es posible, dependiendo de su configuración del sistema de [!DNL Workfront], que no se generará una prueba al cargar con un arrastrar y soltar. Si este es el caso, debe generar la prueba y asignar un flujo de trabajo mediante la opción [!UICONTROL Generar prueba] y seleccionando [!UICONTROL Avanzadas]. Desde allí, puede configurar el flujo de trabajo de prueba.
 
-![Una imagen del área [!UICONTROL Documentos] de un proyecto de [!DNL  Workfront] con [!UICONTROL Generar prueba] resaltado.](assets/drag-and-drop-2.png)
+![Una imagen del área [!UICONTROL Documentos] de un proyecto de [!DNL &#x200B; Workfront] con [!UICONTROL Generar prueba] resaltado.](assets/drag-and-drop-2.png)

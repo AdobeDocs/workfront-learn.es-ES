@@ -1,6 +1,6 @@
 ---
 title: Cargar una prueba de un vídeo
-description: Obtenga información sobre cómo cargar un vídeo para revisión en [!DNL  Workfront].
+description: Obtenga información sobre cómo cargar un vídeo para revisión en [!DNL &#x200B; Workfront].
 activity: use
 team: Technical Marketing
 feature: Workfront Proof

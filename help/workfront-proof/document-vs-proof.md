@@ -1,6 +1,6 @@
 ---
 title: Comprender la diferencia entre un documento y una prueba
-description: Aprenda la diferencia entre un documento y una prueba en [!DNL  Workfront].
+description: Aprenda la diferencia entre un documento y una prueba en [!DNL &#x200B; Workfront].
 activity: use
 feature: Workfront Proof
 type: Tutorial

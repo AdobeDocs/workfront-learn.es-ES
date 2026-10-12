@@ -1,6 +1,6 @@
 ---
 title: Edición de un flujo de trabajo de prueba
-description: Obtenga información sobre cómo actualizar una fecha límite de prueba, agregar usuarios a un flujo de trabajo existente y cambiar un flujo de trabajo existente a un flujo de trabajo automatizado en [!DNL  Workfront].
+description: Obtenga información sobre cómo actualizar una fecha límite de prueba, agregar usuarios a un flujo de trabajo existente y cambiar un flujo de trabajo existente a un flujo de trabajo automatizado en [!DNL &#x200B; Workfront].
 activity: use
 feature: Workfront Proof
 type: Tutorial

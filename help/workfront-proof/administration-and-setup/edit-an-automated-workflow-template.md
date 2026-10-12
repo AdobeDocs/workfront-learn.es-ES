@@ -1,6 +1,6 @@
 ---
 title: Edición de una plantilla de flujo de trabajo automatizada
-description: Aprenda a realizar cambios en una plantilla de flujo de trabajo de revisión automatizada existente en [!DNL  Workfront].
+description: Aprenda a realizar cambios en una plantilla de flujo de trabajo de revisión automatizada existente en [!DNL &#x200B; Workfront].
 activity: use
 feature: Workfront Proof
 type: Tutorial

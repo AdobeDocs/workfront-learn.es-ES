@@ -1,6 +1,6 @@
 ---
 title: Ver y comparar versiones de prueba
-description: Obtenga información sobre cómo abrir, identificar, marcar, comentar y comparar versiones de revisión en [!DNL  Workfront].
+description: Obtenga información sobre cómo abrir, identificar, marcar, comentar y comparar versiones de revisión en [!DNL &#x200B; Workfront].
 activity: use
 feature: Workfront Proof
 type: Tutorial

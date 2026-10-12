@@ -1,6 +1,6 @@
 ---
 title: Comprender las alertas de correo electrónico y las notificaciones de prueba
-description: Comprenda la diferencia entre las alertas de correo electrónico y las notificaciones de revisión en [!DNL  Workfront].
+description: Comprenda la diferencia entre las alertas de correo electrónico y las notificaciones de revisión en [!DNL &#x200B; Workfront].
 feature: Workfront Proof
 type: Tutorial
 role: User

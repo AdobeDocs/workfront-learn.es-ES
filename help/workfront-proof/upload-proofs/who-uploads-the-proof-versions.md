@@ -1,6 +1,6 @@
 ---
 title: ¿Quién carga las versiones de prueba?
-description: La persona responsable de cargar las versiones de revisión en [!DNL  Workfront] puede variar. Aprenda de casos de uso comunes para identificar la configuración ideal en su organización.
+description: La persona responsable de cargar las versiones de revisión en [!DNL &#x200B; Workfront] puede variar. Aprenda de casos de uso comunes para identificar la configuración ideal en su organización.
 activity: use
 team: Technical Marketing
 feature: Workfront Proof

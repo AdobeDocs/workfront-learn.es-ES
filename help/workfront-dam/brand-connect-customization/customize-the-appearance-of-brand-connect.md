@@ -50,7 +50,7 @@ La opción [!UICONTROL Fuente] en el menú [!UICONTROL Aspecto] crea estilos par
 
 Personalice la apariencia de su página de inicio de [!UICONTROL Brand Connect] para que coincida con su organización. Con los widgets, puede añadir elementos como carpetas y controles deslizantes de imagen. Si su organización tiene varios [!UICONTROL Brand Connects], cada uno tiene su propia página de inicio, que puede tener su propio aspecto distinto.
 
-![Captura de pantalla de los widgets disponibles para su página de inicio de [!UICONTROL Brand Connect] ](assets/03-brand-connect-home-page-widgets.png)
+![Captura de pantalla de los widgets disponibles para su página de inicio de [!UICONTROL Brand Connect] &#x200B;](assets/03-brand-connect-home-page-widgets.png)
 
 Los siguientes widgets están disponibles:
 

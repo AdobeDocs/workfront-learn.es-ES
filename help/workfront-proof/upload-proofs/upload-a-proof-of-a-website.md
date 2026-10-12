@@ -1,6 +1,6 @@
 ---
 title: Carga de una prueba de un sitio web
-description: Obtenga información sobre cómo cargar un sitio web como una prueba estática y una prueba interactiva en [!DNL  Workfront].
+description: Obtenga información sobre cómo cargar un sitio web como una prueba estática y una prueba interactiva en [!DNL &#x200B; Workfront].
 activity: use
 feature: Workfront Proof
 type: Tutorial

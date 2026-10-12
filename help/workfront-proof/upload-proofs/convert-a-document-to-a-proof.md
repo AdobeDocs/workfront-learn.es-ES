@@ -1,6 +1,6 @@
 ---
 title: Convertir un documento en una prueba
-description: Obtenga información sobre cómo generar una prueba de un documento que ya existe en [!DNL  Workfront], agregar un flujo de trabajo a una prueba y agregar o editar un flujo de trabajo después de la creación de la prueba.
+description: Obtenga información sobre cómo generar una prueba de un documento que ya existe en [!DNL &#x200B; Workfront], agregar un flujo de trabajo a una prueba y agregar o editar un flujo de trabajo después de la creación de la prueba.
 activity: use
 feature: Workfront Proof
 type: Tutorial

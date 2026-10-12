@@ -1,6 +1,6 @@
 ---
 title: Administrar versiones de prueba
-description: Obtenga información sobre cómo encontrar los detalles de cuándo se cargó una prueba, descargar todas las versiones de una prueba y eliminar una versión de prueba en [!DNL  Workfront].
+description: Obtenga información sobre cómo encontrar los detalles de cuándo se cargó una prueba, descargar todas las versiones de una prueba y eliminar una versión de prueba en [!DNL &#x200B; Workfront].
 activity: use
 feature: Workfront Proof
 type: Tutorial

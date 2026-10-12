@@ -39,7 +39,7 @@ ht-degree: 91%
 
 Este vídeo contiene información sobre:
 
-* Cree una plantilla de flujo de trabajo automatizada para revisiones de [!DNL  Workfront]
+* Cree una plantilla de flujo de trabajo automatizada para revisiones de [!DNL &#x200B; Workfront]
 * Asignación de destinatarios de prueba
 * Establecer un plazo para el proceso de revisión y aprobación
 * Comparta la plantilla de flujo de trabajo automatizado con otros usuarios

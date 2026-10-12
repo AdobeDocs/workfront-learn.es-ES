@@ -1,6 +1,6 @@
 ---
 title: Cargar una versión de prueba
-description: Obtenga información sobre cómo cargar una nueva versión de una prueba y aplicar un flujo de trabajo de revisión a la versión en [!DNL  Workfront].
+description: Obtenga información sobre cómo cargar una nueva versión de una prueba y aplicar un flujo de trabajo de revisión a la versión en [!DNL &#x200B; Workfront].
 activity: use
 feature: Workfront Proof
 type: Tutorial

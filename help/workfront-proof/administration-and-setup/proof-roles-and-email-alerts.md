@@ -1,6 +1,6 @@
 ---
 title: Funciones de prueba y alertas de correo electrónico
-description: Aprenda a habilitar las funciones de prueba y las alertas de correo electrónico adecuadas para que los destinatarios de prueba tengan acceso a las pruebas y visibilidad del trabajo realizado en [!DNL  Workfront].
+description: Aprenda a habilitar las funciones de prueba y las alertas de correo electrónico adecuadas para que los destinatarios de prueba tengan acceso a las pruebas y visibilidad del trabajo realizado en [!DNL &#x200B; Workfront].
 activity: use
 team: Technical Marketing
 feature: Workfront Proof
