@@ -6,28 +6,34 @@ role: Admin, Leader, User
 level: Beginner
 jira: KT-10922
 exl-id: 8c81892e-d554-43e6-aeba-106bade52cf9
-TQID: https://experienceleague.adobe.com/YPrIsMaTNNBSIYyx12zYifTDqEz-gDBZuEX1V1lE8Vw
+TQID: 'https://experienceleague.adobe.com/YPrIsMaTNNBSIYyx12zYifTDqEz-gDBZuEX1V1lE8Vw'
 product_v2:
   - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+    internal-label: Workfront
 feature_v2:
   - id: e14a7f57-c82c-4874-a495-5d036cbbdc3d
+    internal-label: Resource management
 subfeature_v2:
   - id: d1573eb8-a2e8-4a06-9526-9c3410bf4914
+    internal-label: Resource Planner
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
   - id: f8a45b24-4be7-4f1b-909b-60d06b483a20
+    internal-label: Leader
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
 topic_v2:
   - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
-source-git-commit: 36674ed53c8645f556862bb2d99f3bfd6c993c1e
+    internal-label: Implementation
+source-git-commit: f72cc9dc2caee00316baac5a6bab42510ecdf72b
 workflow-type: tm+mt
-source-wordcount: 608
+source-wordcount: '608'
 ht-degree: 93%
-
 ---
-
 # Práctica recomendada: Planificador de recursos
 
 ## ¿Qué es una &quot;práctica recomendada&quot; de Adobe Workfront?

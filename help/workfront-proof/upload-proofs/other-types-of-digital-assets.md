@@ -1,6 +1,6 @@
 ---
 title: Cargar una prueba de un vídeo
-description: Obtenga información sobre cómo cargar un vídeo para revisión en [!DNL  Workfront].
+description: Obtenga información sobre cómo cargar un vídeo para revisión en [!DNL &#x200B; Workfront].
 activity: use
 team: Technical Marketing
 feature: Workfront Proof
@@ -10,24 +10,27 @@ level: Beginner
 thumbnail: upload-a-proof-video.png
 jira: KT-10176
 exl-id: 09fb15ea-caf6-4793-ac16-cf24b52cc3f2
+autotag-review: '2026-05-05T19:52:09.356Z'
 product_v2:
   - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+    internal-label: Workfront
 feature_v2:
   - id: e14a7f57-c82c-4874-a495-5d036cbbdc3d
+    internal-label: Resource management
 subfeature_v2:
   - id: b18b693b-6d59-4359-95fd-a386b7a615fe
+    internal-label: Workfront Proof
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-autotag-review: '2026-05-05T19:52:09.356Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+    internal-label: Beginner
+source-git-commit: f72cc9dc2caee00316baac5a6bab42510ecdf72b
 workflow-type: tm+mt
-source-wordcount: 285
-ht-degree: 100%
-
+source-wordcount: '285'
+ht-degree: 96%
 ---
-
 # Cargar una prueba de un vídeo
 
 Las funciones de revisión de [!DNL Workfront’s] no son solo para archivos estáticos como PDF, hojas de cálculo o imágenes. [!DNL Workfront] admite más de 150 tipos de archivos, incluidos vídeos y capturas web de hasta 4 GB de tamaño.

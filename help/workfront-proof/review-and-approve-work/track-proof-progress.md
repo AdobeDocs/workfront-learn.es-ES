@@ -1,6 +1,6 @@
 ---
 title: Seguimiento del progreso de la prueba
-description: Aprenda a utilizar los indicadores de [!UICONTROL SOCD], el progreso de la revisión e informes para realizar el seguimiento del progreso de una revisión en [!DNL &#x200B; Workfront].
+description: Aprenda a utilizar los indicadores [!UICONTROL SOCD], el progreso de prueba y los informes para rastrear el progreso de una prueba en [!DNL &#x200B; Workfront].
 activity: use
 team: Technical Marketing
 feature: Workfront Proof
@@ -10,24 +10,27 @@ level: Beginner
 thumbnail: track-proof-progress.png
 jira: KT-10111
 exl-id: 343483fe-487a-4a23-914d-2807a00630f9
+autotag-review: '2026-05-05T19:53:35.724Z'
 product_v2:
   - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+    internal-label: Workfront
 feature_v2:
   - id: e14a7f57-c82c-4874-a495-5d036cbbdc3d
+    internal-label: Resource management
 subfeature_v2:
   - id: b18b693b-6d59-4359-95fd-a386b7a615fe
+    internal-label: Workfront Proof
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-autotag-review: '2026-05-05T19:53:35.724Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+    internal-label: Beginner
+source-git-commit: f72cc9dc2caee00316baac5a6bab42510ecdf72b
 workflow-type: tm+mt
-source-wordcount: 770
-ht-degree: 64%
-
+source-wordcount: '770'
+ht-degree: 62%
 ---
-
 # Seguimiento del progreso de la prueba
 
 Como administrador de proyectos, administrador de pruebas u otra parte interesada en el proceso de revisión y aprobación, querrá rastrear el progreso de sus pruebas. Puede hacerlo con los **indicadores de progreso de la revisión integrados** de [!DNL Workfront's] en la página [!UICONTROL Documentos] o escribiendo informes personalizados.

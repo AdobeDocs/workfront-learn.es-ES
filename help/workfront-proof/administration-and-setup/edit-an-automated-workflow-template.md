@@ -1,6 +1,6 @@
 ---
 title: Edición de una plantilla de flujo de trabajo automatizada
-description: Aprenda a realizar cambios en una plantilla de flujo de trabajo de revisiones automatizadas existente en  [!DNL  Workfront].
+description: Aprenda a realizar cambios en una plantilla de flujo de trabajo de revisión automatizada existente en [!DNL &#x200B; Workfront].
 activity: use
 feature: Workfront Proof
 type: Tutorial
@@ -12,25 +12,29 @@ last-substantial-update: '2024-08-08T00:00:00.000Z'
 jira: KT-8831
 exl-id: 03841b1f-741d-4427-ae84-ddb9f890fc95
 doc-type: video
+autotag-review: '2026-05-05T20:06:38.512Z'
 product_v2:
   - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+    internal-label: Workfront
 feature_v2:
   - id: e14a7f57-c82c-4874-a495-5d036cbbdc3d
+    internal-label: Resource management
 subfeature_v2:
   - id: b18b693b-6d59-4359-95fd-a386b7a615fe
+    internal-label: Workfront Proof
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
-autotag-review: '2026-05-05T20:06:38.512Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+    internal-label: Intermediate
+source-git-commit: f72cc9dc2caee00316baac5a6bab42510ecdf72b
 workflow-type: tm+mt
-source-wordcount: 578
-ht-degree: 100%
-
+source-wordcount: '578'
+ht-degree: 97%
 ---
-
 # Edición de una plantilla de flujo de trabajo automatizada
 
 A medida que se refinan los procesos de revisión y aprobación de la prueba o que se realizan cambios organizativos, las plantillas de flujo de trabajo automatizadas deben actualizarse para reflejar las operaciones actuales de sus equipos con Workfront.
@@ -65,8 +69,8 @@ Como revisión, estos son los cambios de plantilla de prueba que puede realizar 
 * En la lista de destinatarios, haga clic en [!UICONTROL Función] o [!UICONTROL Alertas de correo electrónico] para seleccionar otra opción.
 * Vaya al menú de tres puntos situado a la derecha del nombre de un destinatario para eliminarlo de la lista, convertirlo en el principal responsable de decisiones para esa fase del flujo de trabajo o editar la función de prueba y la información de alerta por correo electrónico.
 * Tiene dos opciones para agregar destinatarios a la lista.
-   1. En la esquina superior derecha de cada sección de fase, vaya al menú [!UICONTROL Más] y seleccione [!UICONTROL Agregar personas a la fase]. Una vez que haya abierto la ventana [!UICONTROL Agregar personas a la fase], haga clic en la fase a la que desee agregarlas. A continuación, introduzca su nombre o dirección de correo electrónico en la lista de destinatarios y asigne una función de prueba y una alerta de correo electrónico. Haga clic en el botón [!UICONTROL Agregar personas] cuando haya terminado.
-   1. En la parte superior del área [!UICONTROL Flujo de trabajo], seleccione [!UICONTROL Agregar personas a la fase].
+  1. En la esquina superior derecha de cada sección de fase, vaya al menú [!UICONTROL Más] y seleccione [!UICONTROL Agregar personas a la fase]. Una vez que haya abierto la ventana [!UICONTROL Agregar personas a la fase], haga clic en la fase a la que desee agregarlas. A continuación, introduzca su nombre o dirección de correo electrónico en la lista de destinatarios y asigne una función de prueba y una alerta de correo electrónico. Haga clic en el botón [!UICONTROL Agregar personas] cuando haya terminado.
+  1. En la parte superior del área [!UICONTROL Flujo de trabajo], seleccione [!UICONTROL Agregar personas a la fase].
 
 ## Uso compartido de plantillas
 

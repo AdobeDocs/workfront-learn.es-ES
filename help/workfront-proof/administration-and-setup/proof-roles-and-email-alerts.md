@@ -1,6 +1,6 @@
 ---
 title: Funciones de prueba y alertas de correo electrónico
-description: Obtenga información sobre cómo habilitar funciones de prueba y alertas de correo electrónico adecuadas para que los destinatarios de las pruebas tengan acceso a estas y puedan ver el trabajo que se está realizando en [!DNL  Workfront].
+description: Aprenda a habilitar las funciones de prueba y las alertas de correo electrónico adecuadas para que los destinatarios de prueba tengan acceso a las pruebas y visibilidad del trabajo realizado en [!DNL &#x200B; Workfront].
 activity: use
 team: Technical Marketing
 feature: Workfront Proof
@@ -10,25 +10,29 @@ level: Beginner
 thumbnail: proof-roles-and-email-alerts.png
 jira: KT-10177
 exl-id: 15bfb18a-5392-4a91-a6a2-223f7ac30dc5
+autotag-review: '2026-05-05T20:05:31.746Z'
 product_v2:
   - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+    internal-label: Workfront
 feature_v2:
   - id: e14a7f57-c82c-4874-a495-5d036cbbdc3d
+    internal-label: Resource management
 subfeature_v2:
   - id: b18b693b-6d59-4359-95fd-a386b7a615fe
+    internal-label: Workfront Proof
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-autotag-review: '2026-05-05T20:05:31.746Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+    internal-label: Beginner
+source-git-commit: f72cc9dc2caee00316baac5a6bab42510ecdf72b
 workflow-type: tm+mt
-source-wordcount: 552
-ht-degree: 100%
-
+source-wordcount: '552'
+ht-degree: 95%
 ---
-
 # Funciones de prueba y alertas de correo electrónico
 
 Las funciones de prueba y las alertas de correo electrónico dirigen el flujo de trabajo de prueba, lo que garantiza que los destinatarios puedan acceder a las pruebas y ver el trabajo que se está realizando.
@@ -52,7 +56,7 @@ Sin embargo, puede haber ocasiones en las que necesite configurar esta informaci
 
 [!DNL Workfront] ofrece estas recomendaciones generales al asignar alertas de correo electrónico a los destinatarios de pruebas:
 
-* **Decisión final:** esto envía un correo electrónico cuando la última persona decide sobre la prueba. Asigne esto a la persona que monitoriza el flujo de trabajo de pruebas. Podría ser un administrador, un propietario o un creador de pruebas, o bien un administrador de proyectos u otro usuario de [!DNL Workfront]. [!DNL Workfront] recomienda esta alerta cuando se utiliza un flujo de trabajo básico, de modo que la persona que supervisa la prueba sepa que se han tomado todas las decisiones.
+* **Decisión final:** esto envía un correo electrónico cuando la última persona decide sobre la prueba. Asigne esto a la persona que monitoriza el flujo de trabajo de pruebas. Podría ser un administrador, un propietario o un creador de pruebas, o bien un administrador de proyectos u otro usuario de [!DNL Workfront]. [!DNL Workfront] recomienda esta alerta cuando se utiliza un flujo de trabajo básico, de modo que la persona que monitoriza la prueba sepa que se han tomado todas las decisiones.
 * **Decisiones:** esto envía alertas, ya que cada parte interesada del flujo de trabajo de revisión toma una decisión sobre la prueba. Esta opción es mejor cuando se utiliza un flujo de trabajo automatizado con varias decisiones. Asígnela a la persona que monitoriza el flujo de trabajo de prueba. Podría ser un administrador, un propietario o un creador de pruebas, o bien un administrador de proyectos u otro usuario de [!DNL Workfront].
 * **Deshabilitado:** utilice esto para los usuarios de pruebas invitados para limitar el número de correos electrónicos que reciben. A los destinatarios se les siguen notificando de las pruebas y versiones nuevas y las pruebas tardías. Además, los usuarios de [!DNL Workfront] reciben mensajes directos con comentarios utilizando @username y los destinatarios invitados con @emailaddress.
 

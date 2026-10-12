@@ -10,25 +10,29 @@ team: Technical Marketing
 jira: KT-8965
 exl-id: fdda9461-e96d-4e34-8d80-99059e5394b0
 doc-type: video
+autotag-review: '2026-05-05T20:30:20.706Z'
 product_v2:
   - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+    internal-label: Workfront
 feature_v2:
   - id: e14a7f57-c82c-4874-a495-5d036cbbdc3d
+    internal-label: Resource management
 subfeature_v2:
   - id: b70a979b-965d-47a9-a360-e7ec2a19b8c1
+    internal-label: Digital content and documents
 role_v2:
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
-autotag-review: '2026-05-05T20:30:20.706Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+    internal-label: Intermediate
+source-git-commit: f72cc9dc2caee00316baac5a6bab42510ecdf72b
 workflow-type: tm+mt
-source-wordcount: 184
+source-wordcount: '184'
 ht-degree: 100%
-
 ---
-
 # Comprender [!UICONTROL DAM de Workfront]
 
 [!UICONTROL DAM de Workfront] es una solución de administración de activos digitales (digital asset management, DAM) diseñada especialmente para administrar, controlar y publicar sus recursos creativos y de marketing. Se puede utilizar junto con flujos de trabajo que ya tiene en [!DNL Workfront], donde puede administrar proyectos, asignaciones de tareas y otros trabajos. Use [!DNL Workfront] para crear solicitudes de recursos y administrar la producción y revisión de activos. Depurar, almacenar y distribuir recursos completados y aprobados con el [!UICONTROL DAM de Workfront].
