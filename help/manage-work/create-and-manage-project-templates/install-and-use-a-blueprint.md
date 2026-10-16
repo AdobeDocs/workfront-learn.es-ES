@@ -7,7 +7,7 @@ type: Tutorial
 role: User, Admin
 level: Beginner
 team: Technical Marketing
-last-substantial-update: 2026-2-12
+last-substantial-update: '2026-10-13T00:00:00.000Z'
 recommendations: noDisplay,catalog
 jira: KT-20314
 doc-type: video
@@ -26,7 +26,7 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: 54883ad8c8df3aaee06ba8f8dca64227594c1c77
+source-git-commit: 5c42696a5a3b05a1c42234d9c8d7a5cad10383f0
 workflow-type: tm+mt
 source-wordcount: '25'
 ht-degree: 60%
