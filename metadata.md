@@ -3,6 +3,7 @@ cloud: Experience Cloud
 solution: Workfront
 product_v2:
   - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+    internal-label: "Workfront"
 usetq: true
 product: experience cloud
 landing-page-name: workfront
@@ -17,11 +18,9 @@ index: true
 auto-video-transcripts: true
 source-git-commit: 93c9f3e6134a1a74c450e0ed2f1be1cb3d50d1af
 workflow-type: tm+mt
-source-wordcount: 71
-ht-degree: 92%
-
+source-wordcount: '66'
+ht-degree: 100%
 ---
-
 
 # Metadatos para uso interno
 
