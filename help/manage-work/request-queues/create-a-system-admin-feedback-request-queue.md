@@ -15,14 +15,19 @@ doc-type: video
 exl-id: bef0ba6b-6c29-46ec-ae0d-c54f5609ff5f
 product_v2:
   - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+    internal-label: Workfront
 feature_v2:
   - id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
+    internal-label: Work management
 subfeature_v2:
   - id: c10f2e93-7a58-4212-aa24-684c265ebe76
+    internal-label: Requests
 role_v2:
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
 autotag-review: '2026-05-06T14:41:28.128Z'
 source-git-commit: 4077f8da1f1400400fc9749db53719037c778e7c
 workflow-type: tm+mt
