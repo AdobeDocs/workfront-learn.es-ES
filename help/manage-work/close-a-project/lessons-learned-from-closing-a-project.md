@@ -9,7 +9,7 @@ type: Tutorial
 role: User
 level: Beginner
 recommendations: noDisplay,catalog
-last-substantial-update: '2024-12-12T00:00:00.000Z'
+last-substantial-update: '2026-10-29T00:00:00.000Z'
 jira: KT-10135
 exl-id: ea0bd4a9-1656-419d-9357-7d48d791c74b
 doc-type: video
@@ -29,13 +29,11 @@ level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
 autotag-review: '2026-05-06T15:01:29.285Z'
-source-git-commit: 0c963b3f3c4e4367e21040e36d8a23fac7eb759c
+source-git-commit: cf046d08f27f1ce2939c69a146be2d19e91be968
 workflow-type: tm+mt
-source-wordcount: 23
+source-wordcount: '23'
 ht-degree: 0%
-
 ---
-
 # Registrar las lecciones aprendidas para futuros proyectos
 
 {{$include /help/_includes/lessons-learned-from-closing-a-project.md}}
