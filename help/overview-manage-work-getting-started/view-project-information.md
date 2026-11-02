@@ -1,6 +1,6 @@
 ---
-title: Ver información del proyecto
-description: Descubra cómo los filtros, las vistas y las agrupaciones pueden hacer que la información del proyecto sea fácilmente visible para ayudarle a administrar los proyectos.
+title: Explorar filtros, vistas y agrupaciones para la administración de proyectos
+description: Optimice los flujos de trabajo de los proyectos con filtros personalizables, vistas detalladas, agrupaciones eficientes, herramientas de administración de tareas y funciones de seguimiento de problemas para una organización y una claridad mejoradas.
 activity: use
 team: Technical Marketing
 feature: Work Management,Get Started with Workfront
@@ -31,11 +31,11 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: 54883ad8c8df3aaee06ba8f8dca64227594c1c77
+source-git-commit: c2b23209205a5cbf40ab3efdf0e5e89bb58532f6
 workflow-type: tm+mt
-source-wordcount: '23'
-ht-degree: 100%
+source-wordcount: '38'
+ht-degree: 0%
 ---
-# Ver información del proyecto
+# Explorar filtros, vistas y agrupaciones para la administración de proyectos
 
 {{$include /help/_includes/view-project-information.md}}

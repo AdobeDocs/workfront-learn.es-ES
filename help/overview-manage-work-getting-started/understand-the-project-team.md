@@ -1,6 +1,6 @@
 ---
 title: Información sobre el equipo del proyecto
-description: Descubra para qué se puede utilizar el equipo del proyecto y cómo mantenerlo.
+description: Administre de forma eficaz los equipos de proyecto en Workfront con la población automática del equipo, las actualizaciones manuales, la comunicación centralizada, las notificaciones por correo electrónico y el seguimiento de la participación en el proyecto para lograr una colaboración optimizada.
 feature: Work Management
 thumbnail: 3427227.jpg
 type: Tutorial
@@ -30,13 +30,11 @@ level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
 autotag-review: '2026-05-05T19:24:57.327Z'
-source-git-commit: 0c963b3f3c4e4367e21040e36d8a23fac7eb759c
+source-git-commit: c2b23209205a5cbf40ab3efdf0e5e89bb58532f6
 workflow-type: tm+mt
-source-wordcount: 22
-ht-degree: 100%
-
+source-wordcount: '31'
+ht-degree: 25%
 ---
-
 # Información sobre el equipo del proyecto
 
 {{$include /help/_includes/understand-the-project-team.md}}

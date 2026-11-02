@@ -1,6 +1,6 @@
 ---
-title: Registro de las lecciones aprendidas
-description: Aprenda cómo puede incluir una tarea de “lecciones aprendidas” para identificar qué salió bien y qué se puede mejorar la próxima vez.
+title: Registrar las lecciones aprendidas para futuros proyectos
+description: Aprenda a aprovechar las "lecciones aprendidas" al cerrar un proyecto.
 activity: use
 team: Technical Marketing
 feature: Work Management
@@ -8,9 +8,10 @@ thumbnail: lessons-learned-from-closing-a-project.jpeg
 type: Tutorial
 role: User
 level: Beginner
+recommendations: noDisplay,catalog
+last-substantial-update: '2026-10-29T00:00:00.000Z'
 jira: KT-10135
 hide: true
-recommendations: noDisplay,catalog
 doc-type: video
 exl-id: 22ed8642-220e-4d45-b15d-c245391073ea
 product_v2:
@@ -29,13 +30,11 @@ level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
 autotag-review: '2026-05-05T19:32:59.903Z'
-source-git-commit: 0c963b3f3c4e4367e21040e36d8a23fac7eb759c
+source-git-commit: c2b23209205a5cbf40ab3efdf0e5e89bb58532f6
 workflow-type: tm+mt
-source-wordcount: 27
-ht-degree: 100%
-
+source-wordcount: '23'
+ht-degree: 0%
 ---
-
-# Registro de las lecciones aprendidas
+# Registrar las lecciones aprendidas para futuros proyectos
 
 {{$include /help/_includes/lessons-learned-from-closing-a-project.md}}
