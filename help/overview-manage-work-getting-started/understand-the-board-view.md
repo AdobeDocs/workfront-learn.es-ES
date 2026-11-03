@@ -1,6 +1,6 @@
 ---
-title: Comprender la vista [!UICONTROL Tablero]
-description: Aprenda a utilizar la vista [!UICONTROL Tablero] en la página de destino del proyecto.
+title: Explorar la vista del tablero para administrar tareas
+description: Optimice la administración de tareas en Workfront con la interfaz [!DNL Kanban] de la vista del [!UICONTROL tablero], ofreciendo ordenación, creación, personalización e integración perfecta con la vista de lista de tareas para una organización eficiente del proyecto.
 activity: use
 team: Technical Marketing
 feature: Work Management
@@ -29,13 +29,11 @@ level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
 autotag-review: '2026-05-05T19:25:56.436Z'
-source-git-commit: 0c963b3f3c4e4367e21040e36d8a23fac7eb759c
+source-git-commit: c2b23209205a5cbf40ab3efdf0e5e89bb58532f6
 workflow-type: tm+mt
-source-wordcount: 20
-ht-degree: 100%
-
+source-wordcount: '41'
+ht-degree: 0%
 ---
-
-# Comprender la vista [!UICONTROL Tablero]
+# Explorar la vista del tablero para administrar tareas
 
 {{$include /help/_includes/understand-the-board-view.md}}
