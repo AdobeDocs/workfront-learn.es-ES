@@ -1,13 +1,13 @@
 ---
-title: Actualizar solicitud
-description: Obtenga información sobre cómo encontrar las solicitudes enviadas y actualizarlas en [!DNL  Workfront].
+title: Actualización de una solicitud en Workfront
+description: Simplifique la administración de solicitudes en Workfront utilizando filtros para localizar solicitudes, actualizando de forma eficaz el estado y los detalles, accediendo a la información completa y fomentando la colaboración centralizada para lograr flujos de trabajo optimizados.
 activity: use
 feature: Work Management,Get Started with Workfront
 type: Tutorial
 role: User
 level: Beginner
 team: Technical Marketing
-last-substantial-update: '2024-07-10T00:00:00.000Z'
+last-substantial-update: '2026-08-18T00:00:00.000Z'
 thumbnail: 336091.png
 jira: KT-8807
 recommendations: noDisplay,catalog
@@ -32,11 +32,11 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: 54883ad8c8df3aaee06ba8f8dca64227594c1c77
+source-git-commit: 83bfb58a3290714fd119e9327246e773a8d23456
 workflow-type: tm+mt
-source-wordcount: '22'
-ht-degree: 100%
+source-wordcount: '36'
+ht-degree: 0%
 ---
-# Actualizar solicitud
+# Actualización de una solicitud en Workfront
 
 {{$include /help/_includes/update-a-request.md}}
