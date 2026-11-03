@@ -1,6 +1,6 @@
 ---
-title: Ver hitos
-description: Obtenga información sobre cómo ver hitos en un proyecto de  [!DNL  Workfront] , además de usar la vista de hitos en el área [!UICONTROL Proyecto].
+title: Ver hitos en sus proyectos
+description: Obtenga información sobre cómo ver hitos en un proyecto y también cómo usar la vista de hitos en el área [!UICONTROL Proyecto].
 activity: deploy
 feature: Work Management
 thumbnail: 335206.jpeg
@@ -8,6 +8,8 @@ type: Tutorial
 role: User
 level: Intermediate
 team: Technical Marketing
+last-substantial-update: '2024-10-09T00:00:00.000Z'
+recommendations: noDisplay,catalog
 jira: KT-8946
 hide: true
 doc-type: video
@@ -30,13 +32,11 @@ level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
     internal-label: Intermediate
 autotag-review: '2026-05-05T19:04:49.686Z'
-source-git-commit: 0c963b3f3c4e4367e21040e36d8a23fac7eb759c
+source-git-commit: 83bfb58a3290714fd119e9327246e773a8d23456
 workflow-type: tm+mt
-source-wordcount: 20
-ht-degree: 100%
-
+source-wordcount: '27'
+ht-degree: 62%
 ---
-
-# Ver hitos
+# Ver hitos en sus proyectos
 
 {{$include /help/_includes/view-milestones.md}}

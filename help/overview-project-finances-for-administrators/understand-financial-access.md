@@ -9,6 +9,7 @@ type: Tutorial
 role: User
 level: Intermediate
 jira: KT-10067
+recommendations: noDisplay,catalog
 hide: true
 exl-id: ded6b570-3e2a-4372-867d-a370de30dc31
 product_v2:
@@ -29,13 +30,11 @@ level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
     internal-label: Intermediate
 autotag-review: '2026-05-05T19:01:54.624Z'
-source-git-commit: 0c963b3f3c4e4367e21040e36d8a23fac7eb759c
+source-git-commit: 83bfb58a3290714fd119e9327246e773a8d23456
 workflow-type: tm+mt
-source-wordcount: 26
+source-wordcount: '26'
 ht-degree: 100%
-
 ---
-
 # Comprender el acceso financiero
 
 {{$include /help/_includes/understand-financial-access.md}}

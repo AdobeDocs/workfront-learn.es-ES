@@ -1,6 +1,6 @@
 ---
-title: Búsqueda y administración de solicitudes
-description: Descubra cómo puede usar los paneles de control, [!UICONTROL Inicio], el área [!UICONTROL Solicitudes] y la página [!UICONTROL Equipos] para encontrar las solicitudes entrantes realizadas a través de una cola de solicitudes.
+title: Buscar y administrar solicitudes de forma eficaz
+description: Aprenda a utilizar filtros, administrar asignaciones de equipo, crear informes y paneles personalizados, y aclarar el significado de "mi" en diferentes contextos para una administración eficaz de las solicitudes.
 activity: use
 team: Technical Marketing
 feature: Work Management,Get Started with Workfront
@@ -8,7 +8,7 @@ thumbnail: 3422686.jpg
 type: Tutorial
 role: User
 level: Beginner
-last-substantial-update: '2023-08-10T00:00:00.000Z'
+last-substantial-update: '2026-08-17T00:00:00.000Z'
 recommendations: noDisplay,catalog
 doc-type: video
 jira: KT-10143
@@ -32,11 +32,11 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: 54883ad8c8df3aaee06ba8f8dca64227594c1c77
+source-git-commit: 83bfb58a3290714fd119e9327246e773a8d23456
 workflow-type: tm+mt
-source-wordcount: '31'
-ht-degree: 100%
+source-wordcount: '36'
+ht-degree: 0%
 ---
-# Búsqueda y administración de solicitudes
+# Buscar y administrar solicitudes de forma eficaz
 
 {{$include /help/_includes/find-requests.md}}

@@ -1,6 +1,6 @@
 ---
-title: Convertir un problema/solicitud en un proyecto
-description: Obtenga información sobre cómo iniciar la conversión de solicitud a proyecto, seleccionar la plantilla de proyecto adecuada y completar la conversión.
+title: Conversión de un problema o una solicitud en un proyecto
+description: Optimice la administración de proyectos en Workfront convirtiendo problemas en proyectos con plantillas, personalizando los detalles del proyecto, administrando las opciones de resolución de problemas y garantizando la visibilidad y el acceso a flujos de trabajo sin problemas.
 activity: use
 feature: Work Management
 thumbnail: 340343.jpeg
@@ -9,6 +9,7 @@ role: User
 level: Intermediate
 team: Technical Marketing
 jira: KT-9723
+last-substantial-update: '2026-08-19T00:00:00.000Z'
 recommendations: noDisplay,catalog
 hide: true
 doc-type: video
@@ -31,13 +32,11 @@ level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
     internal-label: Intermediate
 autotag-review: '2026-05-05T19:20:37.203Z'
-source-git-commit: 0c963b3f3c4e4367e21040e36d8a23fac7eb759c
+source-git-commit: 83bfb58a3290714fd119e9327246e773a8d23456
 workflow-type: tm+mt
-source-wordcount: 33
-ht-degree: 100%
-
+source-wordcount: '43'
+ht-degree: 0%
 ---
-
-# Convertir un problema/solicitud en un proyecto
+# Conversión de un problema o una solicitud en un proyecto
 
 {{$include /help/_includes/create-a-project-from-a-request.md}}

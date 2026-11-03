@@ -1,13 +1,13 @@
 ---
-title: Convertir un problema/solicitud en una tarea
-description: Obtenga información sobre cómo convertir un problema o una solicitud en una tarea.
+title: Conversión de un problema o una solicitud en una tarea
+description: Convierta problemas sin esfuerzo en tareas en Workfront con nombres editables, archivos adjuntos de formulario personalizados sin problemas, selección de proyectos flexible, opciones de conversión y actualizaciones de estado sincronizadas para flujos de trabajo optimizados.
 activity: use
 team: Technical Marketing
 feature: Work Management
 type: Tutorial
 role: User
 level: Intermediate
-last-substantial-update: '2024-02-28T00:00:00.000Z'
+last-substantial-update: '2026-08-20T00:00:00.000Z'
 recommendations: noDisplay,catalog
 jira: KT-10069
 hide: true
@@ -28,13 +28,11 @@ level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
     internal-label: Intermediate
 autotag-review: '2026-05-05T19:23:18.240Z'
-source-git-commit: 0c963b3f3c4e4367e21040e36d8a23fac7eb759c
+source-git-commit: 83bfb58a3290714fd119e9327246e773a8d23456
 workflow-type: tm+mt
-source-wordcount: 25
-ht-degree: 100%
-
+source-wordcount: '42'
+ht-degree: 0%
 ---
-
-# Convertir un problema/solicitud en una tarea
+# Conversión de un problema o una solicitud en una tarea
 
 {{$include /help/_includes/convert-issues-to-other-work-items.md}}

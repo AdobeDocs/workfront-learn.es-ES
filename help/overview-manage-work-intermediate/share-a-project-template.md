@@ -1,6 +1,6 @@
 ---
-title: Compartir una plantilla de proyecto
-description: Aprenda a compartir una plantilla de proyecto y proyectos creados a partir de una plantilla.
+title: Uso compartido efectivo de una plantilla de proyecto
+description: Aprenda cómo compartir una plantilla de proyecto y cómo compartir proyectos creados a partir de una plantilla.
 activity: use
 feature: Work Management
 thumbnail: 335211.jpeg
@@ -8,10 +8,11 @@ type: Tutorial
 role: User
 level: Beginner
 team: Technical Marketing
+last-substantial-update: '2026-10-13T00:00:00.000Z'
+recommendations: noDisplay,catalog
 jira: KT-8951
 hide: true
 doc-type: video
-recommendations: noDisplay,catalog
 exl-id: d154cbc5-f52a-45aa-a236-8c3bf5e712fa
 product_v2:
   - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
@@ -29,13 +30,11 @@ level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
 autotag-review: '2026-05-05T19:12:39.523Z'
-source-git-commit: 0c963b3f3c4e4367e21040e36d8a23fac7eb759c
+source-git-commit: 83bfb58a3290714fd119e9327246e773a8d23456
 workflow-type: tm+mt
-source-wordcount: 20
-ht-degree: 100%
-
+source-wordcount: '26'
+ht-degree: 61%
 ---
-
-# Compartir una plantilla de proyecto
+# Uso compartido efectivo de una plantilla de proyecto
 
 {{$include /help/_includes/share-a-project-template.md}}
