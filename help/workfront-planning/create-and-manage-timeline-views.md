@@ -56,4 +56,4 @@ ht-degree: 71%
 
 Aprenda a administrar y personalizar las vistas de cronología en Planificación de Workfront.
 
->[!VIDEO](https://video.tv.adobe.com/v/3457601/?learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3506102/?captions=spa&learn=on&enablevpops=1)
