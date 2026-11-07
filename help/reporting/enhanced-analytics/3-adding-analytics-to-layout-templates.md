@@ -50,6 +50,6 @@ Si no lo ve ahí, el administrador de su sistema o de grupos tendrá que añadir
 En este vídeo, aprenderá cómo los administradores de sistemas y grupos otorgan acceso a [!UICONTROL Analytics] en Workfront.
 
 
->[!VIDEO](https://video.tv.adobe.com/v/335045/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3507901/?captions=spa&quality=12&learn=on&enablevpops=1)
 
 Cualquier persona con una licencia de Workfront (en los planes de [!UICONTROL Workfront Business] o superiores) puede acceder a [!UICONTROL Analytics] una vez que se haya añadido a la plantilla de diseño se le haya asignado. Sin embargo, solo verá los proyectos y la información del usuario si lo permite su nivel de acceso de Workfront y los permisos de uso compartido de proyectos y usuarios específicos.
