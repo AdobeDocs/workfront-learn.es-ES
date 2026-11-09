@@ -32,4 +32,4 @@ Este curso está diseñado para administradores de proyectos, planificadores y o
 
 En este vídeo, aprenderá cómo los hitos pueden ayudarle a mantener proyectos de [!DNL &#x200B; Workfront] en marcha.
 
->[!VIDEO](https://video.tv.adobe.com/v/335203/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3508018/?captions=spa&quality=12&learn=on&enablevpops=1)

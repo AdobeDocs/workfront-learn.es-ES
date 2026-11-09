@@ -37,4 +37,4 @@ ht-degree: 100%
 
 Obtenga información sobre cómo crear y administrar reglas empresariales.
 
->[!VIDEO](https://video.tv.adobe.com/v/3433105/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3508027/?captions=spa&quality=12&learn=on&enablevpops=1)
